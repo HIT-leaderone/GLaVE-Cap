@@ -1,6 +1,6 @@
 <div align="center">
 
-# VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models
+# GLaVE-Cap: Global-Local Aligned Video Captioning with Vision Expert Integration
 
 </div>
 
