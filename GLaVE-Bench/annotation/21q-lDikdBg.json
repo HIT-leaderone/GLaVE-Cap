@@ -1,0 +1,1207 @@
+{
+    "scene_hint": {
+        "0": "一位男性在进行介绍，画面中存在介绍其信息的文字覆盖。",
+        "1": "亚历克斯面对镜头，开始用一个阻力带进行锻炼。",
+        "2": "亚历克斯背对镜头，继续进行锻炼",
+        "3": "视角转换为正面视图，继续展示亚历克斯使用阻力带的锻炼动态。",
+        "4": "亚历克斯暂停锻炼开始介绍，随后画面突然切换到一个带文字的纯色背景，并逐渐结尾。"
+    },
+    "qa": {
+        "21q-lDikdBg_0": {
+            "id": "21q-lDikdBg_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "在健身房环境中，相对于亚历克斯，大窗户的位置在哪里？",
+            "options": [
+                "A. 大窗户在亚历克斯的右边。",
+                "B. 大窗户在亚历克斯的前面。",
+                "C. 大窗户在亚历克斯的左边。",
+                "D. 大窗户在亚历克斯的后面。"
+            ],
+            "answer": "D"
+        },
+        "21q-lDikdBg_1": {
+            "id": "21q-lDikdBg_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "从镜头的视角来看，相对于亚历克斯，镜子的位置在哪里？",
+            "options": [
+                "A. 镜子在亚历克斯的左边。",
+                "B. 镜子在亚历克斯的前面。",
+                "C. 镜子在亚历克斯的右边。",
+                "D. 镜子在亚历克斯的后面。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_2": {
+            "id": "21q-lDikdBg_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "健身房的美感如何？",
+            "options": [
+                "A. 健身房具有现代化和专业的美感。",
+                "B. 健身房看起来昏暗且维护不佳。",
+                "C. 健身房具有复古和乡村风格的美感。",
+                "D. 健身房呈现出工业化和未完成的外观风格。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_3": {
+            "id": "21q-lDikdBg_3",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "健身房里的健身器材是如何摆放的？",
+            "options": [
+                "A. 健身器材被随意散乱地摆放。",
+                "B. 健身器材被整齐地排列。",
+                "C. 健身器材被叠放在一起。",
+                "D. 健身器材毫无秩序地随意摆放。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_4": {
+            "id": "21q-lDikdBg_4",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "自然光是如何进入健身房的？",
+            "options": [
+                "A. 大窗户让自然光进入健身房。",
+                "B. 天花板上的天窗让自然光照进来。",
+                "C. 打开门让自然光进入。",
+                "D. 光线通过健身房镜子反射来形成自然光照。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_5": {
+            "id": "21q-lDikdBg_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "健身房的镜子有什么作用？",
+            "options": [
+                "A. 镜子创造了空间更大的错觉。",
+                "B. 镜子反射了空间的其他元素。",
+                "C. 镜子使人对主要关注的对象亚历克斯分心。",
+                "D. 镜子吸收了窗户的自然光。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_6": {
+            "id": "21q-lDikdBg_6",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "健身房的照明是什么类型的？",
+            "options": [
+                "A. 照明较暗，只有人工灯光。",
+                "B. 照明刺眼，产生明显的阴影。",
+                "C. 照明将自然光与柔和的人工灯光相结合，营造出一种温馨的氛围。",
+                "D. 照明只使用自然光，没有任何人工灯光。"
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_7": {
+            "id": "21q-lDikdBg_7",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "亚历克斯·安吉利穿着什么？",
+            "options": [
+                "A. 亚历克斯·安吉利穿着一件蓝色Polo衫。",
+                "B. 亚历克斯·安吉利穿着一件红色的健身T恤。",
+                "C. 亚历克斯·安吉利穿着一件白色的实验室大褂。",
+                "D. 亚历克斯·安吉利穿着一件黑色的健身夹克。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_8": {
+            "id": "21q-lDikdBg_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "亚历克斯·安杰利的衣服上显示了什么文字？",
+            "options": [
+                "A. 他衣服上的文字是'CARDIAC REHAB STAFF'。",
+                "B. 他衣服上的文字是'FITNESS TRAINER'。",
+                "C. 他衣服上的文字是'HEALTH & WELLNESS STAFF'。",
+                "D. 他衣服上的文字是'PERSONAL TRAINER'。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_9": {
+            "id": "21q-lDikdBg_9",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "在健身房的背景中可以看到哪些运动器材？",
+            "options": [
+                "A. 一排跑步机和固定自行车，以及一些其他器材",
+                "B. 一排跑步机和固定自行车，没有其他器材了",
+                "C. 举重机器和哑铃，以及一些其他器材",
+                "D. 瑜伽垫和药球，以及一些其他器材"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_10": {
+            "id": "21q-lDikdBg_10",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "健身房背景中可以看到哪个位置的窗户？",
+            "options": [
+                "A. 左侧的大窗户",
+                "B. 天花板上的小圆窗",
+                "C. 墙上的大窗户",
+                "D. 没有窗户"
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_11": {
+            "id": "21q-lDikdBg_11",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "健身房背景中可以看到在哪个位置的镜子？",
+            "options": [
+                "A. 天花板上的全身镜",
+                "B. 右边墙上的镜子",
+                "C. 左边的镜子",
+                "D. 没有可见的镜子"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_12": {
+            "id": "21q-lDikdBg_12",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "在健身房背景的镜子中还能看到哪些其他的健身元素？",
+            "options": [
+                "A. 额外的健身器材",
+                "B. 一个黑暗的空地",
+                "C. 室外公园的风景",
+                "D. 一块写有健身房规则的大标牌"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_13": {
+            "id": "21q-lDikdBg_13",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "在健身房环境中可以看到多少人？",
+            "options": [
+                "A. 一个人",
+                "B. 两个人",
+                "C. 三个人",
+                "D. 四个人"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_14": {
+            "id": "21q-lDikdBg_14",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "在视频中聚焦亚历克斯时，有没有可见的文字覆盖?",
+            "options": [
+                "A. 有，青绿色的文字覆盖在整个视频中都存在。",
+                "B. 有，在聚焦亚历克斯时出现了文字覆盖，但之后被移除了。",
+                "C. 有，在聚焦亚历克斯时出现了不同的文字覆盖。",
+                "D. 没有，视频中的任何时候都没有文字覆盖。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_15": {
+            "id": "21q-lDikdBg_15",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "场景中发生了什么事件？",
+            "options": [
+                "A. 健身器材被重新摆放。",
+                "B. 亚历克斯换了他的衬衫颜色。",
+                "C. 青绿色文字覆盖层消失了。",
+                "D. 健身房的灯光被关闭。"
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_16": {
+            "id": "21q-lDikdBg_16",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "在聚焦亚历克斯的场景中，使用了哪种类型的摄像机角度？",
+            "options": [
+                "A. 使用了平视角度。",
+                "B. 使用了高角度。",
+                "C. 使用了低角度。",
+                "D. 使用了鸟瞰角度。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_17": {
+            "id": "21q-lDikdBg_17",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "眼平角度的摄像机在专注于亚历克斯的场景中是如何影响画面的构图的？",
+            "options": [
+                "A. 它通过专注于亚历克斯，同时清晰且引人注目地展现周围的健身房环境，确保了画面的平衡呈现。",
+                "B. 它使得亚历克斯看起来更小，在健身器材面前显得不那么重要。",
+                "C. 它将注意力完全转移到健身房环境上，减弱了亚历克斯的存在感。",
+                "D. 它扭曲了镜子中的反射，使健身房看起来混乱。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_18": {
+            "id": "21q-lDikdBg_18",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "哪些显眼的元素突出了健身房的特点？",
+            "options": [
+                "A. 整洁的健身器材、大窗户的自然光、镜子的反射和一致的照明，提升了健身房专业和整洁的印象。",
+                "B. 这个健身房环境看起来很随意和杂乱，只有少量的健身设备和昏暗的照明。",
+                "C. 这个健身房配备了陈旧的器械，布局凌乱且没有窗户带来的自然光。",
+                "D. 这个健身房的特点体现在昏暗的照明、没有窗户和没有反射面的特点上。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_19": {
+            "id": "21q-lDikdBg_19",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "健身房的整体环境如何？",
+            "options": [
+                "A. 健身房环境明亮有序，自然采光从窗户洒入，人工照明均匀地照亮了空间。",
+                "B. 健身房光线昏暗，杂乱无章，自然光很少。",
+                "C. 健身房有一种孤立的乡村风格，木地板和复古设备。",
+                "D. 健身房环境昏暗情调，霓虹灯闪烁，背景播放着响亮的音乐。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_20": {
+            "id": "21q-lDikdBg_20",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "亚历克斯·安杰利在视频中做什么？",
+            "options": [
+                "A. 亚历克斯·安杰利正在进行阻力带锻炼，从水平的手臂位置过渡到向上倾斜的角度。",
+                "B. 亚历克斯·安杰利坐在地板上，正在利用阻力带练习瑜伽拉伸。",
+                "C. 亚历克斯·安杰利正在健身房使用划船机。",
+                "D. 亚历克斯·安杰利在跑步机上跑步，同时手持阻力带。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_21": {
+            "id": "21q-lDikdBg_21",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "Alex正在使用的阻力带是什么颜色的？",
+            "options": [
+                "A. 阻力带是深蓝色的。",
+                "B. 阻力带是墨绿色的。",
+                "C. 阻力带是青绿色的。",
+                "D. 阻力带是浅黄色的。"
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_22": {
+            "id": "21q-lDikdBg_22",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "在健身房里可以看到几种类型的健身器材？",
+            "options": [
+                "A. 两种",
+                "B. 三种",
+                "C. 四种",
+                "D. 五种"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_23": {
+            "id": "21q-lDikdBg_23",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "在健身房里可以看到哪种类型的健身器材？",
+            "options": [
+                "A. 跑步机、风扇式动感单车和划船机。",
+                "B. 哑铃、杠铃和壶铃。",
+                "C. 弹力带、瑜伽垫和普拉提球。",
+                "D. 椭圆机、沙袋和战绳。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_24": {
+            "id": "21q-lDikdBg_24",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "健身房的形象是否清洁且专业？",
+            "options": [
+                "A. 是的。",
+                "B. 不是。",
+                "C. 无法判断。",
+                "D. 太乱了。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_25": {
+            "id": "21q-lDikdBg_25",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "亚历克斯用阻力带做了什么动作？",
+            "options": [
+                "A. 亚历克斯将阻力带从肩部水平位置过渡到靠近头部的上斜角度。",
+                "B. 亚历克斯将阻力带从地面垂直拉伸到腰部。",
+                "C. 亚历克斯用阻力带保持张力做深蹲。",
+                "D. 亚历克斯把阻力带缠绕在手腕上转圈。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_26": {
+            "id": "21q-lDikdBg_26",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "亚历克斯在做运动时，把阻力带向哪个方向移动？",
+            "options": [
+                "A. 从竖直位置移到水平位置。",
+                "B. 从水平位置移到略微向上对角角度。",
+                "C. 从左侧角度移到右侧方向。",
+                "D. 从向下角度移到水平位置。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_27": {
+            "id": "21q-lDikdBg_27",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "拍摄亚历克斯锻炼时使用了哪种镜头？",
+            "options": [
+                "A. 稍微倾斜的平视镜头",
+                "B. 自上而下的俯视镜头",
+                "C. 低角度的地面镜头",
+                "D. 广角的全景镜头"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_28": {
+            "id": "21q-lDikdBg_28",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "在描述亚历克斯进行弹力带锻炼时，他的动作速度是怎样的？",
+            "options": [
+                "A. 亚历克斯以快速、零散的手臂动作移动。",
+                "B. 亚历克斯以有意图且精确的手臂动作移动。",
+                "C. 亚历克斯以缓慢、不稳定的手臂动作移动。",
+                "D. 亚历克斯以快速但无法控制的手臂动作移动。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_29": {
+            "id": "21q-lDikdBg_29",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在视频中，健身房的气氛有变化吗？",
+            "options": [
+                "A. 是的，健身房的气氛发生了显著变化。",
+                "B. 是的，光照条件变化显著。",
+                "C. 不，健身房的气氛保持不变。",
+                "D. 不，健身房的布局不断变化。"
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_30": {
+            "id": "21q-lDikdBg_30",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在视频中，健身房的布局是否发生改变？",
+            "options": [
+                "A. 是的，添加了新设备。",
+                "B. 不，健身房的布局没有变化。",
+                "C. 是的，灯光变化显著。",
+                "D. 是的，跑步机重新排列了。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_31": {
+            "id": "21q-lDikdBg_31",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "什么样的照明凸显了健身房的干净外观？",
+            "options": [
+                "A. 自然阳光照亮了健身房的干净外观。",
+                "B. 单一聚光灯突出了健身房的干净外观。",
+                "C. 均匀的照明凸显了健身房的干净外观。",
+                "D. 昏暗的灯光突出了健身房的干净外观。"
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_32": {
+            "id": "21q-lDikdBg_32",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "健身车相对于亚历克斯的位置在哪里？",
+            "options": [
+                "A. 健身车位于亚历克斯的前面。",
+                "B. 健身车位于亚历克斯的左边。",
+                "C. 健身车位于亚历克斯的右边。",
+                "D. 健身车位于亚历克斯的后面。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_33": {
+            "id": "21q-lDikdBg_33",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Alex在什么样的环境里锻炼？",
+            "options": [
+                "A. Alex在一个宽敞的健身房里锻炼，地板有反光，各种设备齐全，还有充足的环境照明。",
+                "B. Alex在一个被树木和阳光环绕的花园里户外锻炼。",
+                "C. Alex在一个设备简陋、光线昏暗的小型家庭健身房里锻炼。",
+                "D. Alex在一个拥挤的工作室里锻炼，自然光有限，没有设备。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_34": {
+            "id": "21q-lDikdBg_34",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "Alex Angeli 在视频中进行什么活动？",
+            "options": [
+                "A. Alex Angeli 正在使用浅绿色的阻力带进行锻炼。",
+                "B. Alex Angeli 正在宁静的环境中练习瑜伽。",
+                "C. Alex Angeli 正在昏暗的房间里冥想。",
+                "D. Alex Angeli 在健身房举重。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_35": {
+            "id": "21q-lDikdBg_35",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "Alex Angeli在视频里的姿势是怎样的？",
+            "options": [
+                "A. Alex Angeli坐在一把木椅子上，双臂向外伸展到肩膀高度。",
+                "B. Alex Angeli站着，双臂伸展到头顶。",
+                "C. Alex Angeli躺在地板上，双臂放在身体两侧。",
+                "D. Alex Angeli坐在一把木椅子上，双手放在膝盖上。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_36": {
+            "id": "21q-lDikdBg_36",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "Alex的阻力带是什么颜色？",
+            "options": [
+                "A. 青绿色",
+                "B. 鲜绿色",
+                "C. 深蓝色",
+                "D. 鲜橙色"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_37": {
+            "id": "21q-lDikdBg_37",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "亚历克斯在运动过程中如何使用阻力带？",
+            "options": [
+                "A. 用双手水平拉伸阻力带，表明进行伸展或力量训练。",
+                "B. 将阻力带系在固定自行车上，用于阻力骑行。",
+                "C. 阻力带缠绕在亚历克斯的腿部进行下半身伸展。",
+                "D. 使用阻力带将亚历克斯的躯干固定在椅子上进行稳定性训练。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_38": {
+            "id": "21q-lDikdBg_38",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "在视频的前一个画面中能看见弹力带吗？",
+            "options": [
+                "A. 是的，在前一个画面中可以看到弹力带。",
+                "B. 不，前一个画面中看不到弹力带。",
+                "C. 是的，但弹力带在前一个画面中只部分可见。",
+                "D. 弹力带是可见的，但前一个画面中它的颜色不清楚。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_39": {
+            "id": "21q-lDikdBg_39",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "在当前场景中可以看到阻力带吗？",
+            "options": [
+                "A. 是的，在当前场景可以看到阻力带。",
+                "B. 不，在当前场景及之前场景都看不到阻力带。",
+                "C. 是的，可以看到阻力带，但仅限于场景早期。",
+                "D. 不，阻力带仅在之前场景出现了一次。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_40": {
+            "id": "21q-lDikdBg_40",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在视频的前后帧中观察到亚历克斯的活动有何变化？",
+            "options": [
+                "A. 在早期的画面中，亚历克斯拿着哑铃，而在后期的画面中，他使用的是阻力带。",
+                "B. 在早期的画面中，亚历克斯的伸展双臂是空的，而在后期的画面中，一条浅青色的阻力带在他的双臂之间拉紧，表明他正在进行锻炼。",
+                "C. 在早期的画面中，亚历克斯进行的是跑步机锻炼，而在后期的画面中，他坐着使用阻力带。",
+                "D. 在早期的画面中，亚历克斯垂直握着阻力带，而在后期的画面中，他水平地将阻力带在双臂之间拉伸。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_41": {
+            "id": "21q-lDikdBg_41",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "亚历克斯正在朝哪个方向拉伸阻力带？",
+            "options": [
+                "A. 垂直于他的手臂",
+                "B. 水平于他的手臂",
+                "C. 斜向于他的身体",
+                "D. 以圆周运动"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_42": {
+            "id": "21q-lDikdBg_42",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "镜头视角在相比上个场景是如何变化的？",
+            "options": [
+                "A. 摄像机从一个更广的正面视角切换。",
+                "B. 摄像机在整个场景中保持相同的位置。",
+                "C. 摄像机从特写切换到俯视角度。",
+                "D. 摄像机移动到一个高位俯视角度。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_43": {
+            "id": "21q-lDikdBg_43",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "相比上个场景，摄影机角度是如何变化的？",
+            "options": [
+                "A. 摄影机切换到一个更近的、背对的、以上半身为中心的视角。",
+                "B. 摄影机拉远以拍摄整个健身房的环境。",
+                "C. 摄影机移动到侧面视角，聚焦于亚历克斯的全身姿势。",
+                "D. 摄影机向上倾斜，以突出健身房的天花板和灯光装置。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_44": {
+            "id": "21q-lDikdBg_44",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "近距离取景对亚历克斯的描绘有什么影响？",
+            "options": [
+                "A. 它使健身房环境更加突出，展示更多的健身器材。",
+                "B. 它更加专注于亚历克斯的上半身，强调他的姿势、手臂和衣服的细节，同时柔化背景。",
+                "C. 它突出了通过健身房窗户看到的户外风景和绿色植物。",
+                "D. 它将重点转移到亚历克斯的下半身和他坐着的椅子上。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_45": {
+            "id": "21q-lDikdBg_45",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "视频描述中有没有提到亚历克斯的锻炼动作速度有变化？",
+            "options": [
+                "A. 有，视频描述中提到亚历克斯加快了他的锻炼动作速度。",
+                "B. 有，视频描述中提到亚历克斯放慢了他的锻炼动作速度。",
+                "C. 没有，视频描述中没有提到亚历克斯的锻炼动作速度有变化。",
+                "D. 没有，视频描述中说亚历克斯的锻炼速度始终保持较慢。"
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_46": {
+            "id": "21q-lDikdBg_46",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "关于亚历克斯的运动器械，最大的变化是什么？",
+            "options": [
+                "A. 增加了浅青色的阻力带。",
+                "B. 移除了背景中的所有健身器材。",
+                "C. 在亚历克斯的椅子下加了一张瑜伽垫。",
+                "D. 用一个健身球替换了椅子。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_47": {
+            "id": "21q-lDikdBg_47",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在视频中，健身房外的哪些视觉元素对整体氛围有所贡献？",
+            "options": [
+                "A. 健身房大窗外模糊的绿色植物和阳光的点缀",
+                "B. 繁忙的城市景观，高楼大厦和车流",
+                "C. 白雪覆盖的山峰和清澈的蓝天",
+                "D. 沙滩以及海浪拍岸"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_48": {
+            "id": "21q-lDikdBg_48",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "通过健身房的大窗户可以看到什么？",
+            "options": [
+                "A. 一条车流繁忙的街道",
+                "B. 通过大窗户能看到模糊的绿色植物",
+                "C. 一群人在外面锻炼",
+                "D. 可以清晰看到附近的一栋建筑"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_49": {
+            "id": "21q-lDikdBg_49",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "视频的场景发生在哪里？",
+            "options": [
+                "A. 视频的场景发生在健身房环境中。",
+                "B. 视频的场景发生在公园。",
+                "C. 视频的场景发生在家庭健身工作室。",
+                "D. 视频的场景发生在医院病房。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_50": {
+            "id": "21q-lDikdBg_50",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "亚历克斯·安杰利在视频中正在做什么？",
+            "options": [
+                "A. 亚历克斯·安杰利正在用浅绿色的阻力带锻炼。",
+                "B. 亚历克斯·安杰利正在跑步机上慢跑。",
+                "C. 亚历克斯·安杰利正在举重。",
+                "D. 亚历克斯·安杰利正在练瑜伽。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_51": {
+            "id": "21q-lDikdBg_51",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "亚历克斯亮蓝色的Polo衫上能看到什么文字？",
+            "options": [
+                "A. 亚历克斯的蓝色Polo衫上可以看到'心脏康复工作人员'字样。",
+                "B. 亚历克斯的蓝色Polo衫上可以看到'健身教练'字样。",
+                "C. 亚历克斯的蓝色Polo衫上可以看到'健身顾问'字样。",
+                "D. 亚历克斯的蓝色Polo衫上可以看到'训练工作人员'字样。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_52": {
+            "id": "21q-lDikdBg_52",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "亚历克斯的衬衫上有几行文字？",
+            "options": [
+                "A. 亚历克斯的衬衫上有一处文字。",
+                "B. 亚历克斯的衬衫上有两处文字。",
+                "C. 亚历克斯的衬衫上有三处文字。",
+                "D. 亚历克斯的衬衫上没有文字。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_53": {
+            "id": "21q-lDikdBg_53",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "自然光是否透过窗户射入室内？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 只使用人工光线",
+                "D. 场景位于一个灯光昏暗的房间"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_54": {
+            "id": "21q-lDikdBg_54",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "当亚历克斯将手臂位置向内移动时，阻力带会发生什么变化？",
+            "options": [
+                "A. 阻力带松弛成一个柔和的弧形。",
+                "B. 阻力带断裂并无法再使用。",
+                "C. 阻力带保持拉紧和笔直状态。",
+                "D. 阻力带形成一个尖锐的角度弯曲。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_55": {
+            "id": "21q-lDikdBg_55",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "当亚历克斯完全伸展他的手臂时，弹力带是朝哪个方向拉伸的？",
+            "options": [
+                "A.弹力带在肩膀高度拉伸成一条笔直的水平线。",
+                "B.弹力带对角线向地板拉伸。",
+                "C.弹力带垂直向上拉伸到亚历克斯的头顶上方。",
+                "D.弹力带在向下的弧线上拉伸。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_56": {
+            "id": "21q-lDikdBg_56",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "用什么类型的视角来拍摄亚历克斯的锻炼？",
+            "options": [
+                "A. 使用静态的的全身视角来拍摄亚历克斯的锻炼。",
+                "B. 使用静态的胸部半身视角来拍摄亚历克斯的锻炼。",
+                "C. 使用移动的侧角视角来拍摄亚历克斯的锻炼。",
+                "D. 使用静态的低角度视角来拍摄亚历克斯的锻炼。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_57": {
+            "id": "21q-lDikdBg_57",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "亚历克斯的手臂动作如何反映他的运动方式？",
+            "options": [
+                "A. 亚历克斯的手臂动作引入了一种节奏感，反映出有意图和控制的运动方式。",
+                "B. 亚历克斯的手臂动作不规律且自发，反映出缺乏协调性。",
+                "C. 亚历克斯的手臂动作保持静止，显示出在运动中没有投入任何努力。",
+                "D. 亚历克斯的手臂动作快速而突然，表明运动风格匆忙。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_58": {
+            "id": "21q-lDikdBg_58",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "在亚历克斯的锻炼中，阻力带最初的曲率是什么样的？",
+            "options": [
+                "A. 阻力带最初存在一个明显的弧形。",
+                "B. 阻力带最初存在一个中等的弧形。",
+                "C. 阻力带最初为一条直线。",
+                "D. 阻力带最初为一个宽松的曲线。"
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_59": {
+            "id": "21q-lDikdBg_59",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "亚历克斯在运动时拉动阻力带，其弯曲程度是如何变化的？",
+            "options": [
+                "A. 阻力带形成锯齿形状。",
+                "B. 阻力带被拉直成一条直线，最终略带弧度。",
+                "C. 阻力带扭曲成螺旋状。",
+                "D. 阻力带被拉直成一条直线。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_60": {
+            "id": "21q-lDikdBg_60",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "在健身房右侧，可以看到什么视觉元素？",
+            "options": [
+                "A. 一个挂墙的盒子或扬声器",
+                "B. 一台带有数字屏幕的跑步机",
+                "C. 一个装饰性镜子",
+                "D. 一张励志海报"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_61": {
+            "id": "21q-lDikdBg_61",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "通过健身房的窗户能看到什么？",
+            "options": [
+                "A. 自然绿植",
+                "B. 繁忙的城市景观",
+                "C. 停车场",
+                "D. 海滩景色"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_62": {
+            "id": "21q-lDikdBg_62",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频最初是在哪里拍摄的？",
+            "options": [
+                "A. 在健身房环境中",
+                "B. 在医生的办公室",
+                "C. 在公园里",
+                "D. 在教室里"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_63": {
+            "id": "21q-lDikdBg_63",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "亚历克斯·安杰利在锻炼时穿着什么？",
+            "options": [
+                "A. 一件蓝色Polo衫",
+                "B. 一件带心率监测图案的红色运动衫",
+                "C. 一件带夏普医疗标志的白色T恤",
+                "D. 一件没有明显标志的深绿色夹克"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_64": {
+            "id": "21q-lDikdBg_64",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "亚历克斯衬衫上的哪个视觉元素是主要的焦点？",
+            "options": [
+                "A. 带有心电图图案的“心脏康复工作人员”标志",
+                "B. 带有听诊器图案的亮黄色徽章",
+                "C. 带有一对哑铃图案的健身房标志",
+                "D. 用草书书写的励志语录"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_65": {
+            "id": "21q-lDikdBg_65",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频描述中的主要转场是什么？",
+            "options": [
+                "A. 从亚历克斯的健身房锻炼，到带有文字的青色背景，最后到接近黑色的背景。",
+                "B. 从亚历克斯的健身房锻炼，到带有激励语的亮红色背景，最后到接近黑色的背景。",
+                "C. 从亚历克斯的健身房锻炼，到户外公园场景，最后到接近黑色的背景。",
+                "D. 从亚历克斯的健身房锻炼，到带有教学视频的青色背景，最后回到明亮的健身房。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_66": {
+            "id": "21q-lDikdBg_66",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "视频最后以健身房场景结束吗？",
+            "options": [
+                "A. 是的，视频最后以健身房场景结束。",
+                "B. 不，视频最后以接近全黑的背景结束。",
+                "C. 是的，视频最后切换回健身房场景。",
+                "D. 不，视频最后以带有文字的青绿色背景结束。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_67": {
+            "id": "21q-lDikdBg_67",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "在运动过程中，亚历克斯对弹力带做了什么？",
+            "options": [
+                "A. 亚历克斯将弹力带拉伸到头顶上方。",
+                "B. 亚历克斯放下手臂，使弹力带松散地垂到腰部附近。",
+                "C. 亚历克斯用弹力带进行左右拉伸。",
+                "D. 亚历克斯将弹力带绑在附近的机器上。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_68": {
+            "id": "21q-lDikdBg_68",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "当信息图形显示时，构图会发生怎样的变化？",
+            "options": [
+                "A. 构图变为蓝绿色背景，中央加粗字体和现代设计，强调清晰度和目的。",
+                "B. 构图变为无特征的黑色背景，上面有粗体字写着“终”。",
+                "C. 构图变为亮红色背景，带有健身器材图片和额外的锻炼提示。",
+                "D. 构图变为亚历克斯·安吉利在不同健身环境中进行各种锻炼的照片蒙太奇。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_69": {
+            "id": "21q-lDikdBg_69",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "健身场景中出现了什么指导性覆盖内容？",
+            "options": [
+                "A. 出现了提供关于锻炼重复次数指导的指导性覆盖内容。",
+                "B. 出现了显示心率水平的覆盖内容。",
+                "C. 出现了列出不同锻炼类型的指导性覆盖内容。",
+                "D. 出现了为运动员提供营养建议的覆盖内容。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_70": {
+            "id": "21q-lDikdBg_70",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "健身房场景中，教学覆盖层出现在哪里？",
+            "options": [
+                "A. 教学覆盖层在健身房场景中出现于左下角。",
+                "B. 教学覆盖层在健身房场景中出现于右上角。",
+                "C. 教学覆盖层在健身房场景中出现于屏幕中央。",
+                "D. 教学覆盖层在健身房场景中出现于右下角。"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_71": {
+            "id": "21q-lDikdBg_71",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频第一个画面中观察到了什么颜色的色调（黑色除外）？",
+            "options": [
+                "A. 淡青色色调",
+                "B. 明亮的黄色色调",
+                "C. 深红色色调",
+                "D. 鲜艳的蓝色色调"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_72": {
+            "id": "21q-lDikdBg_72",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "过渡场景所营造的环境是什么？",
+            "options": [
+                "A. 一个极简和低调的视觉基调过渡到一个鲜明而寂静的视觉空虚",
+                "B. 一个色彩斑斓且充满活力的景观，伴有动态元素",
+                "C. 一个拥挤且混乱的都市场景，充满明亮的灯光",
+                "D. 一个温暖舒适的生活空间，散发着吸引人的氛围"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_73": {
+            "id": "21q-lDikdBg_73",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "视频开头的视觉色调是如何变化的？",
+            "options": [
+                "A. 视觉色调从微弱的青绿色调开始。",
+                "B. 视觉色调从明亮的红色调开始。",
+                "C. 视觉色调从浓重的绿色调开始。",
+                "D. 视觉色调从深蓝色调开始。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_74": {
+            "id": "21q-lDikdBg_74",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "视频最后的视觉基调是如何改变的？",
+            "options": [
+                "A. 视觉基调变成完全的黑暗，从极简主义转变为绝对的视觉空无。",
+                "B. 视觉基调变得更加明亮和色彩丰富，增加了更多的细节和复杂性。",
+                "C. 视觉基调过渡到略带灰色的色调，增添了些许纹理和形状。",
+                "D. 视觉基调始终保持一致的青绿色，没有任何变化。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_75": {
+            "id": "21q-lDikdBg_75",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "视频中是否显有文字显示？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 只有部分显示",
+                "D. 不清楚"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_76": {
+            "id": "21q-lDikdBg_76",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "在视频的最后一帧中是否有可见的元素, 如物体?",
+            "options": [
+                "A. 是的，有几个元素是可见的。",
+                "B. 是的，有一个模糊的轮廓是可见的。",
+                "C. 不，没有可见的元素。",
+                "D. 不，但有一些细微的图案是可见的。"
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_77": {
+            "id": "21q-lDikdBg_77",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "亚历克斯·安吉利开始阻力带锻炼之前，健身房的布局是怎样的？",
+            "options": [
+                "A. 健身房宽敞明亮，跑步机、固定自行车和划船机整齐排列。",
+                "B. 健身房灯光昏暗，地上散落着哑铃，只有一个拳击台。",
+                "C. 健身房狭窄而且拥挤不堪，锻炼设备不匹配，没有指定的锻炼区域。",
+                "D. 健身房只有几张瑜伽垫，没有其他可见的设备。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_78": {
+            "id": "21q-lDikdBg_78",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在亚历克斯·安杰利开始他的阻力带锻炼之前，健身房使用了什么类型的照明？",
+            "options": [
+                "A. 健身房有自然光从左侧的大窗户透进来，还有柔和的人造灯光。",
+                "B. 健身房仅被明亮的荧光灯照亮。",
+                "C. 健身房通过房间周围战略布置的微弱蜡烛照明。",
+                "D. 健身房有一个聚光灯，仅聚焦在房间的中央。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_79": {
+            "id": "21q-lDikdBg_79",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在亚历克斯·安吉利开始他的阻力带锻炼之前，这家健身房的风格是什么？",
+            "options": [
+                "A. 健身房具有现代风格，配有反射地板和右侧的镜子。",
+                "B. 健身房充满复古设备，并有木地板。",
+                "C. 健身房的墙壁上布满了涂鸦，地板是水泥材质。",
+                "D. 健身房涂满亮丽的颜色，并铺有图案瓷砖。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_80": {
+            "id": "21q-lDikdBg_80",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "亚历克斯在阻力带锻炼过程中手臂的位置是如何变化的？",
+            "options": [
+                "A. 亚历克斯从肩膀高度水平拉伸阻力带过渡到将其对角向上拉到靠近头部的位置。",
+                "B. 亚历克斯在整个锻炼过程中始终保持阻力带在肩膀高度。",
+                "C. 亚历克斯在锻炼过程中将阻力带从头部高度降低到腰部高度。",
+                "D. 亚历克斯将阻力带缠绕在手臂上，但不改变其位置。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_81": {
+            "id": "21q-lDikdBg_81",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "亚历克斯在锻炼过程中放下手臂后会发生什么？",
+            "options": [
+                "A. 在屏幕的右上角会出现一个指导叠加层，提供有关锻炼重复次数的指导。",
+                "B. 一道明亮的聚光灯亮起，照亮整个房间。",
+                "C. 背景音乐开始大声播放，以激励锻炼。",
+                "D. 房间充满五彩纸屑，以庆祝锻炼的进展。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_82": {
+            "id": "21q-lDikdBg_82",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "亚历克斯·安杰利在视频中穿的亮蓝色POLO衫是什么意思？",
+            "options": [
+                "A. 亚历克斯的POLO衫表明他是'CARDIAC REHAB STAFF'的一员。",
+                "B. 亚历克斯的POLO衫表明他偏爱亮色和休闲装。",
+                "C. 亚历克斯的POLO衫突出了视频制作时代的一种时尚潮流。",
+                "D. 亚历克斯的POLO衫象征了他在视频后期出现的某支运动队中的角色。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_83": {
+            "id": "21q-lDikdBg_83",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频中带有居中文本的青绿色背景意味着什么？",
+            "options": [
+                "A. 它表示从亚历克斯的锻炼转向提供信息指南，标志着向教育内容的过渡。",
+                "B. 它代表视频的结束，象征所有内容的总结。",
+                "C. 它展示了向紧张场景的过渡，增加观众的紧张感。",
+                "D. 它描绘了一种纯粹的艺术意图，没有信息目的。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_84": {
+            "id": "21q-lDikdBg_84",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在阻力带锻炼中，描述亚历克斯·安吉利所使用的第一个视角是什么？",
+            "options": [
+                "A. 第一个视角是正面视角，显示亚历克斯坐着并使用阻力带。",
+                "B. 第一个视角是侧面视角，显示亚历克斯站着并使用阻力带。",
+                "C. 第一个视角是俯视视角，显示亚历克斯躺着并使用阻力带。",
+                "D. 第一个视角是背面视角，显示亚历克斯坐着并使用阻力带。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_85": {
+            "id": "21q-lDikdBg_85",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在阻力带运动中，第二种视角是如何描绘亚历克斯·安吉利的？",
+            "options": [
+                "A. 第二种视角是一个面向后方、集中在上半身的视角。",
+                "B. 第二种视角是一个侧面的侧身视角。",
+                "C. 第二种视角是一个面向前方、全身的视角。",
+                "D. 第二种视角是一个从上往下的视角。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_86": {
+            "id": "21q-lDikdBg_86",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在弹力带练习中，用于描绘亚历克斯·安吉莉的第三视角是什么？",
+            "options": [
+                "A. 第三视角是从胸部高度的正面视角，着重展示他用弹力带的手臂动作。",
+                "B. 第三视角是侧面视角，聚焦于他的腿部动作。",
+                "C. 第三视角是从俯视角度，突出他的整体姿势。",
+                "D. 第三视角是从后方视角，展示他的背部肌肉。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_87": {
+            "id": "21q-lDikdBg_87",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在最后的锻炼镜头中，亚历克斯的阻力带是如何变化的？",
+            "options": [
+                "A. 阻力带在亚历克斯的双臂之间拉紧并被拉伸，然后被放到其腰部附近的放松位置。",
+                "B. 在整个视频中，阻力带显示出不同的颜色，从红色变为蓝色，再变为绿色。",
+                "C. 阻力带总是紧绷并在亚历克斯的双腿之间拉伸，显示出他进行激烈的腿部锻炼。",
+                "D. 阻力带被拉伸后直接消失，随后再也没有出现。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_88": {
+            "id": "21q-lDikdBg_88",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "结尾阶段叙述转向青绿色背景时引入了哪些视觉元素？",
+            "options": [
+                "A. 起初青绿色背景是无特征的，但随后包含了大胆的白色文字，如'欲知更多锻炼提示，请访问sharp.com/e.'。并增加了粗体大写字母的'SHARP'一词以及其上方的一个时尚水平线。",
+                "B. 起初青绿色背景是无特征的，但随后包含了大胆的白色文字，如'欲知更多锻炼提示，请访问sharp.com/e.'，直到视频结束。",
+                "C. 起初青绿色背景是无特征的，但随后增加了粗体大写字母的'SHARP'一词以及其上方的一个时尚水平线，直到视频结束。",
+                "D. 起初青绿色背景是无特征的，但随后包含了大胆的白色文字，如'How to Improve Your Posture Using a Resistance Band', '欲知更多锻炼提示，请访问sharp.com/e.'。并增加了粗体大写字母的'SHARP'一词以及其上方的一个时尚水平线。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_89": {
+            "id": "21q-lDikdBg_89",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么移除青色文本叠加增强了对亚历克斯的关注？",
+            "options": [
+                "A. 移除青色叠加使构图更加简洁，更加突出亚历克斯作为中心主体。",
+                "B. 移除青色叠加增加了更多的视觉元素，使场景更加复杂。",
+                "C. 移除青色叠加使整个场景变亮，使亚历克斯不那么显眼。",
+                "D. 移除青色叠加引入了更多的颜色，分散了对亚历克斯的注意力。"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_90": {
+            "id": "21q-lDikdBg_90",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么去除青绿色文本覆盖层能增强对健身房环境的关注？",
+            "options": [
+                "A. 去除青绿色覆盖层突出了健身器材的鲜艳色彩。",
+                "B. 去除青绿色覆盖层削弱了健身房成员动态动作的表现力。",
+                "C. 去除青绿色覆盖层突出了健身房的有序和动态细节。",
+                "D. 去除青绿色覆盖层使健身房成员的剪影更加醒目。"
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_91": {
+            "id": "21q-lDikdBg_91",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "在视频结束时，过渡到简约的黑色画框的目的是什么？",
+            "options": [
+                "A. 它强调了视频的结束，与先前鲜艳的画面形成鲜明对比，并表明内容的明确结束。",
+                "B. 它引入了一个穿着神秘黑色服装的新角色，暗示剧情的发展出现反转。",
+                "C. 它突出一个明亮的新开端，暗示着未来内容的发展。",
+                "D. 它用于展示过渡到另一个充满生机和动态视觉效果的场景。"
+            ],
+            "answer": "A"
+        }
+    }
+}

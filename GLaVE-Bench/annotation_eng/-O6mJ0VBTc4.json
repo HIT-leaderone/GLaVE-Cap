@@ -1,0 +1,924 @@
+{
+    "scene_hint": {
+        "0": "A hand holding a white marker draws architectural designs from a book and a group of people on a blank white background.",
+        "1": "A set of numbers gradually appears on a minimalist white background.",
+        "2": "The drawing process of a giant inequality sign.",
+        "3": "The drawing process of a money bag.",
+        "4": "The drawing process of a helmet.",
+        "5": "The drawing process of a handshake.",
+        "6": "The display of the overall drawing result.",
+        "7": "A solid color background displays the brand logo."
+    },
+    "qa": {
+        "-O6mJ0VBTc4_0": {
+            "id": "-O6mJ0VBTc4_0",
+            "scene": "0",
+            "dimension": "Description-Scene",
+            "question": "What is the environment of this scene like?",
+            "options": [
+                "A. The scene has a vibrant and colorful background with abstract patterns.",
+                "B. The scene has a natural outdoor environment with trees and sky visible.",
+                "C. The scene has a pure white background, presenting a minimalist and unobtrusive aesthetic.",
+                "D. The scene has a dark and gloomy atmosphere with dim lighting."
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_1": {
+            "id": "-O6mJ0VBTc4_1",
+            "scene": "0",
+            "dimension": "Description-Object",
+            "question": "What item is the real hand holding?",
+            "options": [
+                "A. A marker with a black casing",
+                "B. A pen with a blue casing",
+                "C. A paintbrush",
+                "D. A drawing pencil"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_2": {
+            "id": "-O6mJ0VBTc4_2",
+            "scene": "0",
+            "dimension": "Description-Human",
+            "question": "What is the real person's hand doing?",
+            "options": [
+                "A. The real person's hand is actively engaging with the illustrations in the book.",
+                "B. The real person's hand is turning the pages of the book.",
+                "C. The real person's hand is holding the book steadily with both hands.",
+                "D. The real person's hand is erasing part of the illustrations in the book."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_3": {
+            "id": "-O6mJ0VBTc4_3",
+            "scene": "0",
+            "dimension": "Attribute Change",
+            "question": "What changes were made to the architectural illustrations in the book?",
+            "options": [
+                "A. The triangular roof in the illustration was removed.",
+                "B. Four evenly spaced columns were added, creating a symmetrical depiction of classical architecture.",
+                "C. The book was moved out of the frame by a hand in a comic-like illustration.",
+                "D. Pencil was used instead of a black marker to draw shadow details."
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_4": {
+            "id": "-O6mJ0VBTc4_4",
+            "scene": "0",
+            "dimension": "Count",
+            "question": "How many columns are in the architectural illustration?",
+            "options": [
+                "A. There is one column in the architectural illustration.",
+                "B. There are two columns in the architectural illustration.",
+                "C. There are three columns in the architectural illustration.",
+                "D. There are four columns in the architectural illustration."
+            ],
+            "answer": "D"
+        },
+        "-O6mJ0VBTc4_5": {
+            "id": "-O6mJ0VBTc4_5",
+            "scene": "0",
+            "dimension": "Attribute Change",
+            "question": "Is there any change in the position of the cartoon-style illustration hand holding the book?",
+            "options": [
+                "A. Yes, the cartoon-style illustration hand has moved slightly.",
+                "B. No, there is no noticeable change in the position of the cartoon-style illustration hand.",
+                "C. Yes, the cartoon-style illustration hand is now holding the book at a different angle.",
+                "D. No, the cartoon-style illustration hand is no longer visible in the image."
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_6": {
+            "id": "-O6mJ0VBTc4_6",
+            "scene": "0",
+            "dimension": "Attribute Change",
+            "question": "Does the cartoon-like illustration hand change the grip strength on the book?",
+            "options": [
+                "A. Yes, the cartoon-like illustration hand changes the grip strength on the book throughout the scene.",
+                "B. Yes, the cartoon-like illustration hand occasionally adjusts the grip strength on the book.",
+                "C. No, the cartoon-like illustration hand does not have a noticeable change in grip strength on the book.",
+                "D. No, the cartoon-like illustration hand's grip on the book becomes tighter."
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_7": {
+            "id": "-O6mJ0VBTc4_7",
+            "scene": "0",
+            "dimension": "Camera Shot",
+            "question": "What type of photography lens is used to capture the interaction between a real hand and an illustration?",
+            "options": [
+                "A. Wide-angle lens",
+                "B. Panoramic view",
+                "C. Close-up lens",
+                "D. Bird's-eye view"
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_8": {
+            "id": "-O6mJ0VBTc4_8",
+            "scene": "0",
+            "dimension": "Attribute Change",
+            "question": "How has architectural illustration evolved over time?",
+            "options": [
+                "A. Architectural illustration evolved from depicting a triangular roof and one column to including three evenly spaced columns, highlighting the sophistication of the art.",
+                "B. Architectural illustration evolved from depicting a circular roof with no columns to including four evenly spaced columns, highlighting the sophistication of the art.",
+                "C. Architectural illustration evolved from depicting a square roof with no columns to including two evenly spaced columns, highlighting the sophistication of the art.",
+                "D. Architectural illustration evolved from depicting a hexagonal roof with five columns to including six evenly spaced columns, highlighting the sophistication of the art."
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_9": {
+            "id": "-O6mJ0VBTc4_9",
+            "scene": "1",
+            "dimension": "Visual-cue",
+            "question": "Where does the black diagonal line initially appear on the screen?",
+            "options": [
+                "A. From the top right corner of the screen",
+                "B. From the center of the screen",
+                "C. From the bottom left corner of the screen",
+                "D. From the top left corner of the screen"
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_10": {
+            "id": "-O6mJ0VBTc4_10",
+            "scene": "1",
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the scene in the video sequence?",
+            "options": [
+                "A. The scene is set in a completely minimalist abstract illustration form, with bold black numbers on a pure white background.",
+                "B. The scene presents a realistic outdoor environment with natural elements and vibrant colors.",
+                "C. The scene is a cluttered art studio with various items and tools scattered around.",
+                "D. The scene takes place in a futuristic city with neon lights and moving vehicles."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_11": {
+            "id": "-O6mJ0VBTc4_11",
+            "scene": "1",
+            "dimension": "Description-Object",
+            "question": "In terms of design, what is the difference between the number '2' and the number '1'?",
+            "options": [
+                "A. The design of the number '2' is more curved and slightly wider in posture.",
+                "B. The number '2' is smaller and has sharper edges.",
+                "C. The number '2' is highlighted in red and has a narrower base.",
+                "D. The number '2' is more angular with a finer outline."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_12": {
+            "id": "-O6mJ0VBTc4_12",
+            "scene": "1",
+            "dimension": "Count",
+            "question": "How many numbers are presented in total throughout the entire sequence?",
+            "options": [
+                "A. Two numbers",
+                "B. Three numbers",
+                "C. Four numbers",
+                "D. Five numbers"
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_13": {
+            "id": "-O6mJ0VBTc4_13",
+            "scene": "1",
+            "dimension": "Attribute Change",
+            "question": "What happens to the number '2' during the transformation?",
+            "options": [
+                "A. The number '2' moves upward in the frame before changing to the number '3'.",
+                "B. The number '2' rotates clockwise before changing to the number '3'.",
+                "C. The number '2' shrinks when changing to the number '3'.",
+                "D. The number '2' completely turns red before changing to the number '3'."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_14": {
+            "id": "-O6mJ0VBTc4_14",
+            "scene": "1",
+            "dimension": "Object Direction",
+            "question": "Which direction does the number '2' move within the box before it changes to '3'?",
+            "options": [
+                "A. The number '2' moves upward within the box.",
+                "B. The number '2' moves downward within the box.",
+                "C. The number '2' moves to the left within the box.",
+                "D. The number '2' moves to the right within the box."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_15": {
+            "id": "-O6mJ0VBTc4_15",
+            "scene": "1",
+            "dimension": "Visual-cue",
+            "question": "What kind of visual style should be used to maintain focus on the numbers?",
+            "options": [
+                "A. The visual style is static, with minimalist composition, using a striking black and white design.",
+                "B. The visual style is dynamic, with a colorful and abstract design.",
+                "C. The visual style is detailed and realistic, blending rich colors.",
+                "D. The visual style is chaotic and cluttered, with various contrasting elements."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_16": {
+            "id": "-O6mJ0VBTc4_16",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the number '2' mostly located in the scene?",
+            "options": [
+                "A. The number '2' is located in the upper left corner of the scene.",
+                "B. The number '2' is located in the lower right corner of the scene.",
+                "C. The number '2' is located in the lower left corner of the scene.",
+                "D. The number '2' is located in the center of the scene."
+            ],
+            "answer": "D"
+        },
+        "-O6mJ0VBTc4_17": {
+            "id": "-O6mJ0VBTc4_17",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many stationary objects are in the scene?",
+            "options": [
+                "A. There is one stationary object.",
+                "B. There are two stationary objects.",
+                "C. There are three stationary objects.",
+                "D. There are no stationary objects."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_18": {
+            "id": "-O6mJ0VBTc4_18",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "Has the position of the number '2' changed in the video?",
+            "options": [
+                "A. Yes, the number '2' moves frequently.",
+                "B. Yes, the position of the number '2' has slightly changed.",
+                "C. No, the number '2' remains stationary.",
+                "D. No, the number '2' has completely disappeared."
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_19": {
+            "id": "-O6mJ0VBTc4_19",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "In the video, has the style of the number '2' changed?",
+            "options": [
+                "A. Yes, the number '2' has changed to a more refined style.",
+                "B. Yes, the number '2' has changed to a machine-printed style.",
+                "C. No, the number '2' has retained its bold handwritten style.",
+                "D. No, the number '2' has been completely removed from the scene."
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_20": {
+            "id": "-O6mJ0VBTc4_20",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What do the hands add to the artwork?",
+            "options": [
+                "A. The hands add smooth, curved lines.",
+                "B. The hands add sharp, jagged edges.",
+                "C. The hands add bright, colorful shapes.",
+                "D. The hands add complex geometric patterns."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_21": {
+            "id": "-O6mJ0VBTc4_21",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "Why should smooth, curved lines be added to the drawing by hand?",
+            "options": [
+                "A. To make the number '2' the central focus of the scene.",
+                "B. To deepen the level of detail and make the money bag pattern fuller and more harmonious.",
+                "C. To add shadows to the drawing and create a three-dimensional effect.",
+                "D. To cover up the crown-like decoration at the top of the bell shape."
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_22": {
+            "id": "-O6mJ0VBTc4_22",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of camera composition is used in this scene?",
+            "options": [
+                "A. The scene uses consistent close-up shots, allowing the audience to focus closely on the drawing process.",
+                "B. The scene uses wide-angle shots to capture the entire room and its surroundings.",
+                "C. The scene uses long shots to show the artist's work process from a distance.",
+                "D. The scene uses over-the-shoulder shots to provide the artist's perspective."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_23": {
+            "id": "-O6mJ0VBTc4_23",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What visual elements help maintain focus on the drawing process?",
+            "options": [
+                "A. A bright white background, a stationary number '2', even lighting, and a minimalist environment help focus on the hand's movements and the drawing process.",
+                "B. A colorful background, a moving number '2', uneven lighting, and a cluttered environment help dynamically focus on the drawing process.",
+                "C. A bright yellow background, a rotating number '2', dramatic shadows, and a complex environment emphasize the evolution of the drawing.",
+                "D. A textured background, a moving number '2', dim lighting, and abstract patterns help highlight the central illustration."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_24": {
+            "id": "-O6mJ0VBTc4_24",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where does the number '3' first appear in the video?",
+            "options": [
+                "A. The number '3' first prominently appears on the left side.",
+                "B. The number '3' first prominently appears on the right side.",
+                "C. The number '3' first appears in the center of the screen.",
+                "D. The number '3' first appears at the bottom of the screen."
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_25": {
+            "id": "-O6mJ0VBTc4_25",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video scene?",
+            "options": [
+                "A. The video scene has a pure white background.",
+                "B. The video scene has a colorful gradient background.",
+                "C. The video scene has a chalkboard-style background.",
+                "D. The video scene has a wood texture background."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_26": {
+            "id": "-O6mJ0VBTc4_26",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "How is the lighting in the video scene?",
+            "options": [
+                "A. The lighting in the video scene is even.",
+                "B. The lighting in the video scene is dim.",
+                "C. The lighting in the video scene is colorful.",
+                "D. The lighting in the video scene is flickering."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_27": {
+            "id": "-O6mJ0VBTc4_27",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What elements are present in the video scene?",
+            "options": [
+                "A. The characteristics of the video scene are simple and unobtrusive elements.",
+                "B. The characteristics of the video scene are a cluttered background and bright colors.",
+                "C. The characteristics of the video scene are busy animations and multiple moving objects.",
+                "D. The characteristics of the video scene are detailed cityscapes and exquisite decorations."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_28": {
+            "id": "-O6mJ0VBTc4_28",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is the human hand doing in the latter part of the current scene?",
+            "options": [
+                "A. The human hand is adding dynamic components to the illustration, turning the sketch into a detailed helmet structure.",
+                "B. The human hand is erasing part of the money bag illustration to clean the canvas.",
+                "C. The human hand is writing a number next to the digit '3' to indicate a measurement value.",
+                "D. The human hand is coloring the digit '3' with a black marker to enhance its visibility."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_29": {
+            "id": "-O6mJ0VBTc4_29",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What are the main features of the money bag shown in the video?",
+            "options": [
+                "A. The money bag is a bag loosely tied at the top, with a prominent dollar sign in the center, giving a sense of depth.",
+                "B. The money bag is a small pouch with a zippered top and no distinctive markings.",
+                "C. The money bag is a bag loosely tied at the top, with a prominent euro sign in the center, giving a sense of depth.",
+                "D. The money bag looks like a simple envelope with a seal and no decorative markings."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_30": {
+            "id": "-O6mJ0VBTc4_30",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What numbers appear in the video?",
+            "options": [
+                "A. Bold black numbers '1' and '2'",
+                "B. Bold black numbers '1', '2', and '3'",
+                "C. Bold black numbers '1', '2', and '4'",
+                "D. Bold black numbers '1', '2', '3', and '4'"
+            ],
+            "answer": "D"
+        },
+        "-O6mJ0VBTc4_31": {
+            "id": "-O6mJ0VBTc4_31",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "When the number '3' becomes the focus, is the number '2' visible?",
+            "options": [
+                "A. Yes, the number '2' is visible along with the number '3'.",
+                "B. No, the number '2' is replaced by the number '3'.",
+                "C. Yes, but the number '2' will be obscured in the background.",
+                "D. No, the number '3' covers the number '2'."
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_32": {
+            "id": "-O6mJ0VBTc4_32",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What action will the hand perform when the number '3' appears?",
+            "options": [
+                "A. The hand draws an arc to the right side of the number '3'.",
+                "B. The hand erases the number '3'.",
+                "C. The hand colors the number '3' red.",
+                "D. The hand writes a new number next to '3'."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_33": {
+            "id": "-O6mJ0VBTc4_33",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Which visual element in the video represents the theme of monetary value?",
+            "options": [
+                "A. The number '2' on the left",
+                "B. The bold dollar sign ('$') prominently displayed in the center of the money bag",
+                "C. The gold bar-like mark prominently displayed in the center of the money bag",
+                "D. The hand holding a black marker"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_34": {
+            "id": "-O6mJ0VBTc4_34",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the stylized, featureless crowd located in the picture?",
+            "options": [
+                "A. The stylized, featureless crowd is located at the top of the picture.",
+                "B. The stylized, featureless crowd is located at the bottom of the picture.",
+                "C. The stylized, featureless crowd is located in the center of the picture.",
+                "D. The stylized, featureless crowd is located on the left side of the picture."
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_35": {
+            "id": "-O6mJ0VBTc4_35",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the overall theme presented in this scene?",
+            "options": [
+                "A. This scene emphasizes themes of inequality, finance, labor, and cooperation by disseminating knowledge or principles from the book to the crowd.",
+                "B. This scene focuses on achieving personal accomplishment and success through acquiring wealth and power.",
+                "C. This scene depicts a journey of self-exploration and personal growth through artistic expression and creativity.",
+                "D. This scene showcases the conflict between technology and nature, highlighting the importance of environmental protection."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_36": {
+            "id": "-O6mJ0VBTc4_36",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What action did a hand perform on the book?",
+            "options": [
+                "A. One hand I main road the other hand.",
+                "B. A hand tore a page from the book.",
+                "C. A hand closed the book.",
+                "D. A hand placed the book on the table."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_37": {
+            "id": "-O6mJ0VBTc4_37",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the two hands perform on the book?",
+            "options": [
+                "A. The two hands are placed on either side of the book, indicating it is being displayed or held up in the center.",
+                "B. The two hands are flipping through the pages of the book.",
+                "C. The two hands are writing notes on the book.",
+                "D. The two hands are closing the book."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_38": {
+            "id": "-O6mJ0VBTc4_38",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What is displayed on the book cover?",
+            "options": [
+                "A. The book cover features an illustration of a classical column.",
+                "B. The book cover features an illustration of a modern skyscraper.",
+                "C. The book cover features an abstract painting.",
+                "D. The book cover features an illustration of a world map."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_39": {
+            "id": "-O6mJ0VBTc4_39",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many numbered symbols are depicted to the right of this group of people?",
+            "options": [
+                "A. Two numbered symbols",
+                "B. Three numbered symbols",
+                "C. Four numbered symbols",
+                "D. Five numbered symbols"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_40": {
+            "id": "-O6mJ0VBTc4_40",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Is there an arrow to the right of the book?",
+            "options": [
+                "A. Yes, there is.",
+                "B. No, there isn't.",
+                "C. Instead, there is an arrow pointing to the left.",
+                "D. There is no arrow in the scene."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_41": {
+            "id": "-O6mJ0VBTc4_41",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Which direction does the visual arrow above the crowd point?",
+            "options": [
+                "A. The visual arrow above the crowd points to the right.",
+                "B. The visual arrow above the crowd points to the left.",
+                "C. The visual arrow above the crowd points upwards.",
+                "D. The visual arrow above the crowd points downwards."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_42": {
+            "id": "-O6mJ0VBTc4_42",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens ensures that all elements within the frame are clearly related?",
+            "options": [
+                "A. Use a wide-angle perspective.",
+                "B. Use a close-up lens.",
+                "C. Use a medium shot lens.",
+                "D. Use a panoramic lens."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_43": {
+            "id": "-O6mJ0VBTc4_43",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What visual cues determine the narrative flow in the scene?",
+            "options": [
+                "A. Arrow pointing to the right side of the book",
+                "B. A group of stylized figures",
+                "C. The number '4' on the handshake",
+                "D. Classical column illustration on the book cover"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_44": {
+            "id": "-O6mJ0VBTc4_44",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "Where is the position of the text \"LighthouseOD.com\"?",
+            "options": [
+                "A. The text \"LighthouseOD.com\" is located above the circular grid.",
+                "B. The text \"LighthouseOD.com\" is located below the circular grid.",
+                "C. The text \"LighthouseOD.com\" is located to the left of the circular grid.",
+                "D. The text \"LighthouseOD.com\" is located to the right of the circular grid."
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_45": {
+            "id": "-O6mJ0VBTc4_45",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the environment presented in the video?",
+            "options": [
+                "A. The environment is minimalist, with a black background.",
+                "B. The environment is vibrant, with colorful animations.",
+                "C. The environment is cluttered, with multiple text elements.",
+                "D. The environment is bright, with a white background."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_46": {
+            "id": "-O6mJ0VBTc4_46",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What aesthetic elements are presented in the video?",
+            "options": [
+                "A. The video showcases a circular grid and brand elements.",
+                "B. The video uses vibrant color combinations and dynamic animations.",
+                "C. The video contains a complex narrative structure with multiple characters and dialogues.",
+                "D. The video presents a chaotic scene with fast movements and loud sounds."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_47": {
+            "id": "-O6mJ0VBTc4_47",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What elements are included in the grid?",
+            "options": [
+                "A. The grid consists of 16 circles arranged in a 4x4 format, with a subtle gradient from white to gray.",
+                "B. The grid consists of 16 squares arranged in a 4x4 format, with a subtle gradient from white to gray.",
+                "C. The grid consists of 16 triangles arranged in a 4x4 format, with a subtle gradient from white to gray.",
+                "D. The grid consists of 16 hexagons arranged in a 4x4 format, with a subtle gradient from white to gray."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_48": {
+            "id": "-O6mJ0VBTc4_48",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Is there a human presence in the scene?",
+            "options": [
+                "A. Yes, there is interaction between humans and elements.",
+                "B. No, there is no human presence in the scene.",
+                "C. Yes, there is a silhouette of a person in the background.",
+                "D. No, but you can hear sounds in the video."
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_49": {
+            "id": "-O6mJ0VBTc4_49",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many circles are in the grid?",
+            "options": [
+                "A. 12 circles",
+                "B. 16 circles",
+                "C. 20 circles",
+                "D. 25 circles"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_50": {
+            "id": "-O6mJ0VBTc4_50",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "In this process, will the 'LighthouseOD.com' text change color?",
+            "options": [
+                "A. Yes, the 'LighthouseOD.com' text will change from white to a softer gray.",
+                "B. No, the 'LighthouseOD.com' text will remain white throughout the process.",
+                "C. Yes, the 'LighthouseOD.com' text will change from gray to white.",
+                "D. No, the 'LighthouseOD.com' text will turn black."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_51": {
+            "id": "-O6mJ0VBTc4_51",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "As the sequence progresses, what happens to the 'LighthouseOD.com' text?",
+            "options": [
+                "A. The 'LighthouseOD.com' text moves to the top of the screen.",
+                "B. As the sequence progresses, the 'LighthouseOD.com' text disappears completely from the screen.",
+                "C. The color of the 'LighthouseOD.com' text changes to bright red.",
+                "D. The 'LighthouseOD.com' text becomes larger and more prominent."
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_52": {
+            "id": "-O6mJ0VBTc4_52",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "As the sequence progresses, what changes occur to the grid?",
+            "options": [
+                "A. The grid becomes larger and occupies the entire screen.",
+                "B. The grid changes color to match the background.",
+                "C. As the sequence progresses, the grid completely disappears from the screen.",
+                "D. The grid transforms into the 'Gregg Learning' logo."
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_53": {
+            "id": "-O6mJ0VBTc4_53",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "Where does the small circular 'g' logo and 'Gregg Learning' text appear on the screen?",
+            "options": [
+                "A. They appear at the top of the screen.",
+                "B. They appear at the bottom of the screen.",
+                "C. They appear on the left side of the screen.",
+                "D. They appear in the center of the screen."
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_54": {
+            "id": "-O6mJ0VBTc4_54",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is primarily used in the video clip?",
+            "options": [
+                "A. The video primarily uses fixed shots.",
+                "B. The video primarily uses panning shots.",
+                "C. The video primarily uses zoom shots.",
+                "D. The video primarily uses tracking shots."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_55": {
+            "id": "-O6mJ0VBTc4_55",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "How do the visual attributes of the text 'Gregg Learning' change at the end of the sequence?",
+            "options": [
+                "A. The text 'Gregg Learning' turns bright blue.",
+                "B. The text 'Gregg Learning' becomes larger and more prominent.",
+                "C. The text 'Gregg Learning' moves to the upper corner of the screen frame.",
+                "D. The text 'Gregg Learning' significantly darkens and gradually fades to almost invisible."
+            ],
+            "answer": "D"
+        },
+        "-O6mJ0VBTc4_56": {
+            "id": "-O6mJ0VBTc4_56",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What visual cues indicate the brand's focus shifting to 'Gregg Learning'?",
+            "options": [
+                "A. The appearance of a small circular 'g' symbol and gray 'Gregg Learning' text, signaling the brand's focus shift.",
+                "B. The background transitions to a gradient of blue and white.",
+                "C. A grid composed of 16 circles changes shape to form the word 'Gregg'.",
+                "D. The 'LighthouseOD.com' text remains white and becomes larger."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_57": {
+            "id": "-O6mJ0VBTc4_57",
+            "scene": "-1",
+            "dimension": "Attribute Change",
+            "question": "What happens to the architectural illustration after moving a black marker pen over the book?",
+            "options": [
+                "A. The illustration evolves into a depiction of four evenly spaced columns, presenting a classic architectural symmetry and visual balance.",
+                "B. The illustration transforms into a depiction of a modern skyscraper with glass windows and a rooftop garden.",
+                "C. The illustration changes into a landscape painting with mountains and a river flowing through.",
+                "D. The illustration becomes a detailed city map with streets and landmarks clearly labeled."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_58": {
+            "id": "-O6mJ0VBTc4_58",
+            "scene": "-1",
+            "dimension": "Attribute Change",
+            "question": "What happens after the number '2' moves upward on the screen?",
+            "options": [
+                "A. The tip of the arrow enters the screen and then disappears.",
+                "B. The color of the number '2' changes to red.",
+                "C. A series of white dots form a wavy pattern.",
+                "D. The background changes to bright blue."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_59": {
+            "id": "-O6mJ0VBTc4_59",
+            "scene": "-1",
+            "dimension": "Attribute Change",
+            "question": "After the number '2' disappears, what takes its place?",
+            "options": [
+                "A. The number '3' replaces '2'.",
+                "B. The number '4' appears in the middle.",
+                "C. A space takes the place of the number '2'.",
+                "D. The number '2' is replaced by the lowercase letter 'g'."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_60": {
+            "id": "-O6mJ0VBTc4_60",
+            "scene": "-1",
+            "dimension": "Fine Grained Action",
+            "question": "What happens next to the number '3' after the money bag disappears?",
+            "options": [
+                "A. A human hand begins to form a helmet-like structure through detailed depiction.",
+                "B. A small bird flies across the screen, leaving a trail of feathers.",
+                "C. A digital clock appears, counting down from ten.",
+                "D. A series of numbers flash rapidly, forming a pattern."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_61": {
+            "id": "-O6mJ0VBTc4_61",
+            "scene": "-1",
+            "dimension": "Description-Scene",
+            "question": "How does this scene emphasize the theme of knowledge dissemination through segments related to books and crowds?",
+            "options": [
+                "A. A hand displays a book with illustrations of classical columns to the crowd.",
+                "B. The crowd forms a circle around an empty podium, symbolizing knowledge sharing.",
+                "C. A teacher holds a book and lectures to the crowd.",
+                "D. The content of the book is projected onto a screen for the crowd to watch."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_62": {
+            "id": "-O6mJ0VBTc4_62",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "How does this scene emphasize the theme of progress through segments involving books and crowds?",
+            "options": [
+                "A. Books are sequentially connected with icons like money bags, safety helmets, and handshakes, representing finance, labor, and cooperation.",
+                "B. Books remain static while icons flash randomly, symbolizing chaos and lack of direction.",
+                "C. Books are displayed alongside abstract shapes without context, which gradually fade into the background.",
+                "D. Books directly transition to the text 'LighthouseOD.com' without showing any relevant icons."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_63": {
+            "id": "-O6mJ0VBTc4_63",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "What does the final brand-centric frame intend to convey through its minimalist design?",
+            "options": [
+                "A. The final frame establishes a clear and powerful brand message through minimalist design and elements like the 'Gregg Learning' logo, concluding the brand communication with clear visual effects and focus.",
+                "B. The final frame prioritizes a busy and complex design, attempting to overwhelm the audience with brand elements.",
+                "C. The final frame uses vibrant colors and dynamic graphics to emphasize a fun and lively brand style.",
+                "D. The final frame employs detailed images and intricate patterns to build an elaborate brand narrative."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_64": {
+            "id": "-O6mJ0VBTc4_64",
+            "scene": "-1",
+            "dimension": "Description-Human",
+            "question": "What role does the hand in the illustration play in the sequence of displaying books and markers?",
+            "options": [
+                "A. The hand in the illustration remains still, providing a symmetrical frame for the book, focusing attention on the drawing activity of the real human hand.",
+                "B. The hand in the illustration actively guides attention to different parts of the book through pointing and moving.",
+                "C. The hand in the illustration mimics the actions of a real human hand, creating a mirror effect on both sides of the book.",
+                "D. The hand in the illustration changes position in the scene, symbolizing various interpretive gestures."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_65": {
+            "id": "-O6mJ0VBTc4_65",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "In a minimalist transition scene, what happens after the number '2'?",
+            "options": [
+                "A. The number '3' becomes the focus, accompanied by constantly changing illustrations.",
+                "B. The circular grid reappears and is presented in vibrant colors.",
+                "C. The text 'LighthouseOD.com' flashes with a neon effect.",
+                "D. A countdown starting from '5' is accompanied by sound effects."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_66": {
+            "id": "-O6mJ0VBTc4_66",
+            "scene": "-1",
+            "dimension": "Description-Object",
+            "question": "What is the sequence of elements described in the book?",
+            "options": [
+                "A. The book is presented by a hand and sequentially connected to four numbered symbols (inequality sign, money bag, hard hat, handshake).",
+                "B. The book floats in the center and is connected to symbols of the Earth, scales, and a light bulb, preceded by an inequality sign marked with '2'.",
+                "C. The book is depicted without other elements, focusing solely on the book title displayed against a black background.",
+                "D. The book is presented with an animation of rotating gears, without other symbols or signs."
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_67": {
+            "id": "-O6mJ0VBTc4_67",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "What remains after the 'LighthouseOD.com' text and grid disappear?",
+            "options": [
+                "A. The 'LighthouseOD.com' text remains",
+                "B. The 'Gregg Learning' logo and text remain",
+                "C. The circular grid remains",
+                "D. The screen turns completely black"
+            ],
+            "answer": "D"
+        },
+        "-O6mJ0VBTc4_68": {
+            "id": "-O6mJ0VBTc4_68",
+            "scene": "-1",
+            "dimension": "Attribute Change",
+            "question": "At the end of a brand-focused scene, what happens to the logo and text of 'Gregg Learning'?",
+            "options": [
+                "A. The logo and text of 'Gregg Learning' remain clearly visible throughout the scene.",
+                "B. The logo and text of 'Gregg Learning' significantly darken, gradually fading to almost invisible for a minimalist ending.",
+                "C. The logo and text of 'Gregg Learning' gradually brighten, dominating the screen.",
+                "D. The logo and text of 'Gregg Learning' turn into a striking white, contrasting sharply with the background."
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_69": {
+            "id": "-O6mJ0VBTc4_69",
+            "scene": "-1",
+            "dimension": "Description-Scene",
+            "question": "Why does the scene transition to a minimalist composition featuring numbers and a white background?",
+            "options": [
+                "A. This transition emphasizes visual clarity and thematic progression, focusing on digital evolution in a tidy and distraction-free environment.",
+                "B. The transition is intended to incorporate additional thematic elements and enhance complexity.",
+                "C. The scene change is meant to introduce vibrant colors and dynamic animations.",
+                "D. The transition aims to highlight text elements through a complex background to improve readability."
+            ],
+            "answer": "A"
+        }
+    }
+}

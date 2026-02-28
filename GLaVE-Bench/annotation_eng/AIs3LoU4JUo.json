@@ -1,0 +1,1445 @@
+{
+    "scene_hint": {
+        "0": "Show a bowl of wonton noodles.",
+        "1": "Show the restaurant environment.",
+        "2": "Close-up shot of a wonton.",
+        "3": "Front view of a man eating.",
+        "4": "Close-up shot from the right side of a man eating.",
+        "5": "Medium shot from the left side showing a man describing the wonton.",
+        "6": "Close-up shot of a half-eaten wonton.",
+        "7": "Medium shot from the left side showing a man eating.",
+        "8": "Front view of a man eating."
+    },
+    "qa": {
+        "AIs3LoU4JUo_0": {
+            "id": "AIs3LoU4JUo_0",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Where is the text '孤独的美食家 Season 8' located in the image?",
+            "options": [
+                "A. Bottom right corner.",
+                "B. Top right corner.",
+                "C. Top left corner.",
+                "D. Bottom left corner."
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_1": {
+            "id": "AIs3LoU4JUo_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What kind of environment is this scene set in?",
+            "options": [
+                "A. In a large restaurant.",
+                "B. In a small diner.",
+                "C. In a street market.",
+                "D. In a home kitchen."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_2": {
+            "id": "AIs3LoU4JUo_2",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Can you see any characters in the video?",
+            "options": [
+                "A. Yes, you can see characters in the video.",
+                "B. No, there are no characters in the video.",
+                "C. You can only see hands in the video.",
+                "D. You can see blurry figures in the background."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_3": {
+            "id": "AIs3LoU4JUo_3",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What does the bowl in the video look like?",
+            "options": [
+                "A. Blue and white patterns, including stylized designs around the rim of the bowl.",
+                "B. The bowl is plain white, with no designs or patterns.",
+                "C. The bowl has bright red and yellow abstract patterns.",
+                "D. The bowl is completely black with a matte finish."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_4": {
+            "id": "AIs3LoU4JUo_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What does the plate in the video look like?",
+            "options": [
+                "A. This plate has a blue and white pattern.",
+                "B. This plate is pure white.",
+                "C. This plate has a floral pattern.",
+                "D. This plate is bright red."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_5": {
+            "id": "AIs3LoU4JUo_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many sections of text in the video provide contextual information?",
+            "options": [
+                "A. Two sections.",
+                "B. Three sections.",
+                "C. Four sections.",
+                "D. Five sections."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_6": {
+            "id": "AIs3LoU4JUo_6",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "Throughout the video, does the camera always show the table under the bowl?",
+            "options": [
+                "A. Yes, the table is always visible in the video.",
+                "B. No, the table is only briefly shown at the beginning.",
+                "C. Yes, but the focus is mainly on the bowl.",
+                "D. No, the table is not shown throughout the video as the camera zooms in on the food."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_7": {
+            "id": "AIs3LoU4JUo_7",
+            "scene": 0,
+            "dimension": "Camera Direction",
+            "question": "What action does the camera perform in the video?",
+            "options": [
+                "A. The camera remains stationary throughout the video.",
+                "B. The camera quickly zooms in and out.",
+                "C. The camera gradually zooms in and changes angles.",
+                "D. The camera quickly rotates around the bowl."
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_8": {
+            "id": "AIs3LoU4JUo_8",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "As the video progresses, how does the camera's focus change?",
+            "options": [
+                "A. The camera zooms in more closely on the components of the dish.",
+                "B. The camera pulls back to show the entire dining environment.",
+                "C. The camera shifts to highlight the decorative elements of the bowls and plates.",
+                "D. The camera pans to show the chef preparing the dish in the kitchen."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_9": {
+            "id": "AIs3LoU4JUo_9",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is mainly used in the video?",
+            "options": [
+                "A. Aerial shot",
+                "B. Wide-angle shot",
+                "C. Close-up shot",
+                "D. Long take"
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_10": {
+            "id": "AIs3LoU4JUo_10",
+            "scene": 0,
+            "dimension": "Speed",
+            "question": "What is the speed of the camera movement in the video?",
+            "options": [
+                "A. Fast and quick.",
+                "B. Stable and slow.",
+                "C. Irregular and unpredictable.",
+                "D. Sudden and bumpy."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_11": {
+            "id": "AIs3LoU4JUo_11",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "When the camera zooms in on the plate, what becomes less noticeable?",
+            "options": [
+                "A. The decorative elements of the bowl.",
+                "B. Shrimp wontons.",
+                "C. Noodles in the soup.",
+                "D. The text in the upper left corner."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_12": {
+            "id": "AIs3LoU4JUo_12",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "When the camera zooms in on the dish, what becomes more apparent?",
+            "options": [
+                "A. Wontons and noodles.",
+                "B. Decorative elements of the bowl.",
+                "C. Ordinary brown tabletop.",
+                "D. Overlaid text and copyright information."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_13": {
+            "id": "AIs3LoU4JUo_13",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Which visual element in the video indicates the name of the show?",
+            "options": [
+                "A. The text '孤独的美食家 8' located in the top left corner indicates the name of the show.",
+                "B. The text '孤独的美食家 2' located in the top left corner indicates the name of the show.",
+                "C. The copyright text in the bottom right corner indicates the name and season of the show.",
+                "D. The 'KKTV' logo in the top right corner indicates the name of the show."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_14": {
+            "id": "AIs3LoU4JUo_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where are the striking red Chinese characters on the striking yellow sign?",
+            "options": [
+                "A. Placed in front of the window behind the woman.",
+                "B. Hanging from the ceiling.",
+                "C. Placed on the counter in front of the man.",
+                "D. Standing on the wall to the left of the dining area."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_15": {
+            "id": "AIs3LoU4JUo_15",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the man in the video wearing?",
+            "options": [
+                "A. Dark suit, paired with a white shirt and patterned tie.",
+                "B. Blue shirt and jeans.",
+                "C. Casual T-shirt and shorts.",
+                "D. Sweater and khaki pants."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_16": {
+            "id": "AIs3LoU4JUo_16",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the woman in the video wearing?",
+            "options": [
+                "A. A clean white top.",
+                "B. A bright yellow dress.",
+                "C. A dark suit.",
+                "D. A patterned blouse."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_17": {
+            "id": "AIs3LoU4JUo_17",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What are the two people doing in the video?",
+            "options": [
+                "A. Both are sitting at the counter and eating seriously.",
+                "B. Both are standing and discussing menu options.",
+                "C. The man is reading a newspaper, while the woman is playing on her phone.",
+                "D. Both are in the kitchen preparing food."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_18": {
+            "id": "AIs3LoU4JUo_18",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What items are on the counter?",
+            "options": [
+                "A. Jars, metal plates, bowls",
+                "B. Plates, ceramic cups, baskets",
+                "C. Bottles, plastic trays, bowls",
+                "D. Containers, wooden spoons, plates"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_19": {
+            "id": "AIs3LoU4JUo_19",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the description of the countertop?",
+            "options": [
+                "A. There is a polka dot mat on the countertop, decorated with many colorful items.",
+                "B. The countertop is simple and minimalist, with only a few condiments.",
+                "C. The countertop is completely empty, without any decorations.",
+                "D. There is a plain mat on the countertop, with no additional items."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_20": {
+            "id": "AIs3LoU4JUo_20",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many people are in the scene?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_21": {
+            "id": "AIs3LoU4JUo_21",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Does the overlay text displaying the show's title '孤独的美食家（第8季）' appear throughout the entire video?",
+            "options": [
+                "A. Yes, the overlay text '孤独的美食家（第8季）' runs through the entire video.",
+                "B. No, the overlay text '孤独的美食家（第8季）' disappears midway through the video.",
+                "C. Yes, but the overlay text frequently changes position in the video.",
+                "D. No, there is no overlay text in the video."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_22": {
+            "id": "AIs3LoU4JUo_22",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Does the 'KKTV' logo appear throughout the entire video?",
+            "options": [
+                "A. Yes, it appears throughout the entire video.",
+                "B. No, it appears intermittently.",
+                "C. No, it does not appear at all.",
+                "D. Yes, it appears, but only during the end credits."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_23": {
+            "id": "AIs3LoU4JUo_23",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "What happens to the camera angle after focusing on the shrimp wonton noodle soup?",
+            "options": [
+                "A. The camera zooms further into the details of the shrimp wonton noodle soup.",
+                "B. The camera switches to a medium close-up angle.",
+                "C. The camera switches to a wide-angle lens, showing the entire restaurant.",
+                "D. The camera moves to a close-up of the woman's iced drink."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_24": {
+            "id": "AIs3LoU4JUo_24",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What visual elements establish the scene as part of the show's brand?",
+            "options": [
+                "A. The title '孤独的美食家 (Season 8)' and the 'KKTV' logo",
+                "B. A vibrant counter decorated with colorful items and condiments",
+                "C. A bright yellow sign with striking red Chinese characters",
+                "D. A visible iced drink near the woman"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_25": {
+            "id": "AIs3LoU4JUo_25",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where are the man and woman sitting at the counter?",
+            "options": [
+                "A. In front of the counter.",
+                "B. In a private booth.",
+                "C. By the round dining table.",
+                "D. On the outdoor terrace."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_26": {
+            "id": "AIs3LoU4JUo_26",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What characteristics make up the atmosphere of the restaurant?",
+            "options": [
+                "A. Counter, polka dot floor mat, condiment jars, and a bright yellow sign with red Chinese characters.",
+                "B. A quiet dining area with dim lighting and a serene blue background.",
+                "C. Minimalist decor with monochrome tones and soft jazz music playing in the background.",
+                "D. Industrial design style with exposed brick walls and modern steel furniture."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_27": {
+            "id": "AIs3LoU4JUo_27",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the man at the counter doing?",
+            "options": [
+                "A. The man is leaning slightly forward, focusing on his meal, with his hands placed near the chopsticks.",
+                "B. The man is excitedly talking to the woman sitting next to him.",
+                "C. The man is ordering food from the waiter behind the counter.",
+                "D. The man is looking at the menu placed on the counter."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_28": {
+            "id": "AIs3LoU4JUo_28",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the lady at the counter doing?",
+            "options": [
+                "A. The lady is writing something in a notebook.",
+                "B. The lady is holding a pair of chopsticks in one hand and seems to be steadying a plate with the other.",
+                "C. The lady is using her phone while eating.",
+                "D. The lady is pouring sauce over the food."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_29": {
+            "id": "AIs3LoU4JUo_29",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What is the color and pattern of the porcelain spoon used to serve shrimp wonton noodle soup?",
+            "options": [
+                "A. Blue and white.",
+                "B. Red and white.",
+                "C. Green and white.",
+                "D. Black and white."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_30": {
+            "id": "AIs3LoU4JUo_30",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What does the dumpling on the porcelain spoon look like?",
+            "options": [
+                "A. The dumpling's outer skin is semi-transparent light orange, with a glossy texture.",
+                "B. The dumpling is dark brown, with a dull surface.",
+                "C. The dumpling is bright red, with a rough texture.",
+                "D. The dumpling is green, with a smooth and dull surface."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_31": {
+            "id": "AIs3LoU4JUo_31",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many diners were initially focused on in the restaurant scene?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_32": {
+            "id": "AIs3LoU4JUo_32",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "Is the background of the close-up shot of shrimp wonton noodle soup blurred?",
+            "options": [
+                "A. Yes, it's a bit blurred.",
+                "B. Yes, it's clear and detailed.",
+                "C. No, it's completely black.",
+                "D. No, it's in focus with added texture."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_33": {
+            "id": "AIs3LoU4JUo_33",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What action suggestion does the chopsticks convey when observing shrimp wonton noodle soup up close?",
+            "options": [
+                "A. The chopsticks gently hold one side of the wonton, indicating a serving or eating action.",
+                "B. The chopsticks quietly rest beside the soup bowl, suggesting a moment of pause.",
+                "C. The chopsticks are being used to stir the soup around the wonton.",
+                "D. The chopsticks are neatly placed across the edge of the bowl as part of the presentation."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_34": {
+            "id": "AIs3LoU4JUo_34",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "In the subsequent frames of the shrimp wonton soup noodle scene, how does the position of the spoon change?",
+            "options": [
+                "A. The spoon moves slightly downward, altering the viewer's perspective.",
+                "B. The spoon remains mostly unchanged throughout the scene, moving up and down in the later frames.",
+                "C. The spoon moves upward, making the perspective clearer.",
+                "D. The spoon is completely removed from the scene."
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_35": {
+            "id": "AIs3LoU4JUo_35",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What change occurred in the appearance of the wonton between the two frames?",
+            "options": [
+                "A. Initially, the wonton was held by chopsticks, and in the next frame, it was placed on a spoon.",
+                "B. The color of the wonton changed from translucent orange to bright white.",
+                "C. The wonton was initially in the soup, but later it was placed separately on a plate.",
+                "D. The wonton was initially placed among noodles, but in the next frame, it was without soup or noodles."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_36": {
+            "id": "AIs3LoU4JUo_36",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What visual elements provide background information for the scene of shrimp wonton noodle soup?",
+            "options": [
+                "A. Title '孤独的美食家 第八季', 'KKTV' logo.",
+                "B. Outdoor scenery, traditional wooden table, and handwritten menu.",
+                "C. Chef preparing food, crowd, and menu.",
+                "D. Blurred background and visible yellow noodles in the soup."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_37": {
+            "id": "AIs3LoU4JUo_37",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the wooden shelving unit relative to the man in the dark suit?",
+            "options": [
+                "A. Behind.",
+                "B. To the left.",
+                "C. In front.",
+                "D. Above."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_38": {
+            "id": "AIs3LoU4JUo_38",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What did the man in the black business suit do to his meal?",
+            "options": [
+                "A. The man carefully tasted his food.",
+                "B. The man poured a drink from a bottle on the shelf.",
+                "C. The man read a handwritten menu written in East Asian characters.",
+                "D. The man picked up the ivory-colored phone on the nearby counter."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_39": {
+            "id": "AIs3LoU4JUo_39",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many logos or brand elements can be seen in the scene?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. None."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_40": {
+            "id": "AIs3LoU4JUo_40",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What logos or brand elements are visible in the scene?",
+            "options": [
+                "A. 'Solitary Gourmet Season 8' and 'KKTV'",
+                "B. 'Food Channel' and 'Netflix'",
+                "C. 'Chef's Table' and 'HBO'",
+                "D. 'Delicious Dishes' and 'BBC'"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_41": {
+            "id": "AIs3LoU4JUo_41",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What change occurred in the man's posture to savor the food?",
+            "options": [
+                "A. His movements became more composed and graceful.",
+                "B. He began to nervously fiddle with the utensils.",
+                "C. He leaned back and closed his eyes to rest.",
+                "D. He suddenly stood up and left."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_42": {
+            "id": "AIs3LoU4JUo_42",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What is the function of the subtitles in the scene where the man is dining?",
+            "options": [
+                "A. Add emotional depth to the man's reflections or observations.",
+                "B. Provide detailed commentary on the food.",
+                "C. Translate the menu items.",
+                "D. Focus on the chef's culinary techniques."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_43": {
+            "id": "AIs3LoU4JUo_43",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the man in the dark gray suit relative to the diners in casual attire?",
+            "options": [
+                "A. Right.",
+                "B. Left.",
+                "C. Front.",
+                "D. Back."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_44": {
+            "id": "AIs3LoU4JUo_44",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the scene described in the video?",
+            "options": [
+                "A. Restaurant.",
+                "B. Street",
+                "C. Library",
+                "D. Office"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_45": {
+            "id": "AIs3LoU4JUo_45",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is the man in the dark gray suit doing?",
+            "options": [
+                "A. Leaning slightly forward, carefully eating noodles with light-colored wooden chopsticks.",
+                "B. The man is drinking soup from a small white bowl.",
+                "C. Holding wooden chopsticks while looking at the menu.",
+                "D. Gesturing with chopsticks while talking to the diner on his left."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_46": {
+            "id": "AIs3LoU4JUo_46",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is the casually dressed diner holding in the scene?",
+            "options": [
+                "A. A small white bowl",
+                "B. A glass of water",
+                "C. A pair of chopsticks",
+                "D. A napkin"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_47": {
+            "id": "AIs3LoU4JUo_47",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many people are described in the video?",
+            "options": [
+                "A. Two",
+                "B. Three",
+                "C. Four",
+                "D. Five"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_48": {
+            "id": "AIs3LoU4JUo_48",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "Who are the people described in the video?",
+            "options": [
+                "A. A man in a dark gray suit and casually dressed diners.",
+                "B. A man in a dark gray suit and a chef in the kitchen.",
+                "C. Casually dressed diners and a waiter serving dishes.",
+                "D. A man in a dark gray suit and a dining family."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_49": {
+            "id": "AIs3LoU4JUo_49",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "In this scene, what action did the casually dressed diner take?",
+            "options": [
+                "A. Turned to a more outward angle and paused briefly during the meal.",
+                "B. Leaned forward and started eating with chopsticks.",
+                "C. Engaged in a lively conversation with the man in the dark gray suit.",
+                "D. Got up and left the dining area."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_50": {
+            "id": "AIs3LoU4JUo_50",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "When a man uses chopsticks, in which direction does his hand move?",
+            "options": [
+                "A. Moves closer to the mouth.",
+                "B. Moves away from the mouth.",
+                "C. Moves to the side.",
+                "D. The man's hand remains still."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_51": {
+            "id": "AIs3LoU4JUo_51",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What is the text overlay at the beginning of the video?",
+            "options": [
+                "A. '孤独的美食家 Season 8'.",
+                "B. 'Welcome to Gourmet Adventure Season 8'.",
+                "C. 'One Person's Cafeteria Season 8'.",
+                "D. 'KKTV Presents: Gourmet Feast Season 8'."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_52": {
+            "id": "AIs3LoU4JUo_52",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What other text overlays appeared in the video besides the solitary gourmet?",
+            "options": [
+                "A. 'KKTV.'",
+                "B. 'Gourmet Paradise.'",
+                "C. 'Season Finale.'",
+                "D. 'Dining Chronicles.'"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_53": {
+            "id": "AIs3LoU4JUo_53",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What additional background information does the video provide?",
+            "options": [
+                "A. The video includes constantly changing Chinese subtitles to provide background commentary.",
+                "B. The video includes background music to create an atmosphere.",
+                "C. The video features dynamic camera movements to enhance viewer engagement.",
+                "D. The video shows multiple characters interacting in a busy restaurant environment."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_54": {
+            "id": "AIs3LoU4JUo_54",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What are the main items in the dining area?",
+            "options": [
+                "A. Polka dot countertops, glass jars, and banners, among other elements.",
+                "B. Various vases.",
+                "C. Freezers filled with food.",
+                "D. Many tables and chairs."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_55": {
+            "id": "AIs3LoU4JUo_55",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What utensils does the man in the dark suit use when eating?",
+            "options": [
+                "A. Holds a fork in his right hand.",
+                "B. Holds chopsticks in his right hand.",
+                "C. Holds a spoon in his right hand.",
+                "D. Holds a knife in his right hand."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_56": {
+            "id": "AIs3LoU4JUo_56",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is the man in the dark suit doing with his left hand while eating?",
+            "options": [
+                "A. Keeping it still on the table.",
+                "B. Holding a glass jar.",
+                "C. Signaling to the waiter.",
+                "D. Adjusting his tie."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_57": {
+            "id": "AIs3LoU4JUo_57",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is the posture of the man while eating?",
+            "options": [
+                "A. Leaning slightly forward.",
+                "B. Leaning back.",
+                "C. Sitting very upright.",
+                "D. Leaning to the left."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_58": {
+            "id": "AIs3LoU4JUo_58",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What pattern is on the table surface?",
+            "options": [
+                "A. Polka dot pattern.",
+                "B. Checkered pattern.",
+                "C. Floral pattern.",
+                "D. Striped pattern."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_59": {
+            "id": "AIs3LoU4JUo_59",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What items are on the table?",
+            "options": [
+                "A. Glass jar.",
+                "B. Plate.",
+                "C. Ceramic bowl.",
+                "D. Wine and spirits."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_60": {
+            "id": "AIs3LoU4JUo_60",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many main characters are involved in the scene?",
+            "options": [
+                "A. Four.",
+                "B. Two.",
+                "C. Three.",
+                "D. Five."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_61": {
+            "id": "AIs3LoU4JUo_61",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "Who is the main character in the scene?",
+            "options": [
+                "A. The man in the black suit",
+                "B. The woman in the white top.",
+                "C. The waiter.",
+                "D. The chef."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_62": {
+            "id": "AIs3LoU4JUo_62",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "Is this scene taking place in a restaurant?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Maybe",
+                "D. Insufficient information"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_63": {
+            "id": "AIs3LoU4JUo_63",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What subtle adjustments did the man in the dark jacket make?",
+            "options": [
+                "A. Leaned slightly forward.",
+                "B. Lifted a piece of food to his mouth.",
+                "C. Got up and left the table.",
+                "D. Rearranged the canned goods on the counter."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_64": {
+            "id": "AIs3LoU4JUo_64",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "In which direction does the man in the dark suit lean while eating?",
+            "options": [
+                "A. Lean forward.",
+                "B. Lean backward.",
+                "C. Lean to the left.",
+                "D. Lean to the right."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_65": {
+            "id": "AIs3LoU4JUo_65",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used in this scene?",
+            "options": [
+                "A. Medium shot.",
+                "B. Close-up shot.",
+                "C. Low-angle shot.",
+                "D. Wide-angle shot."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_66": {
+            "id": "AIs3LoU4JUo_66",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "How would you describe the speed at which this man uses chopsticks?",
+            "options": [
+                "A. Fast and hasty.",
+                "B. Clumsy and unstable.",
+                "C. Calm and composed.",
+                "D. Hesitant and unsteady."
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_67": {
+            "id": "AIs3LoU4JUo_67",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What change occurred in the prominence of the woman in the white top?",
+            "options": [
+                "A. Became less noticeable.",
+                "B. Became the main focus of the scene.",
+                "C. Completely disappeared from the shot.",
+                "D. Became more noticeable."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_68": {
+            "id": "AIs3LoU4JUo_68",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What visual elements provide background information about the dining environment?",
+            "options": [
+                "A. Chinese characters and phone numbers on the banner.",
+                "B. The person using chopsticks highlights the cultural atmosphere of the restaurant.",
+                "C. The dynamic polka dot pattern on the counter showcases the restaurant's themed interior design.",
+                "D. The woman moving to the left shows changes in the restaurant layout."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_69": {
+            "id": "AIs3LoU4JUo_69",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "What is the position of the wonton relative to the chopsticks?",
+            "options": [
+                "A. Lying on the plate.",
+                "B. Balanced on the chopsticks.",
+                "C. Clamped between a pair of black chopsticks.",
+                "D. Floating above the chopsticks."
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_70": {
+            "id": "AIs3LoU4JUo_70",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What kind of environment does the background in the scene suggest?",
+            "options": [
+                "A. The background is a soft blue in cool tones, suggesting a modern kitchen.",
+                "B. The background is a soft brown-orange in warm tones, suggesting a cozy wooden table or a similar warm environment.",
+                "C. The background is filled with colorful decorations, suggesting a festive atmosphere.",
+                "D. The background is neutral, with no distinct features, focusing solely on the wontons."
+            ],
+            "answer": "D"
+        },
+        "AIs3LoU4JUo_71": {
+            "id": "AIs3LoU4JUo_71",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Are there any human characters visible in the scene?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Yes, but few people.",
+                "D. Yes, but many people."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_72": {
+            "id": "AIs3LoU4JUo_72",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What is the color of the dumpling filling?",
+            "options": [
+                "A. Pink-orange.",
+                "B. Yellow.",
+                "C. Dark green.",
+                "D. Purple."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_73": {
+            "id": "AIs3LoU4JUo_73",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What can the filling of dumplings be made of?",
+            "options": [
+                "A. Made of shrimp or prawns.",
+                "B. Made of pork and vegetables.",
+                "C. Made of chicken and mushrooms.",
+                "D. Made of beef and garlic."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_74": {
+            "id": "AIs3LoU4JUo_74",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "How does the filling in the dumplings look?",
+            "options": [
+                "A. Dry and overcooked.",
+                "B. Juicy and fresh.",
+                "C. Frozen.",
+                "D. Looks partially raw."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_75": {
+            "id": "AIs3LoU4JUo_75",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many sections of text are visible in the image? (Including subtitles and logos)",
+            "options": [
+                "A. One section.",
+                "B. Three sections.",
+                "C. Five sections.",
+                "D. None."
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_76": {
+            "id": "AIs3LoU4JUo_76",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What text is displayed in the upper right corner of the screen?",
+            "options": [
+                "A. 'KKTV'.",
+                "B. 'KK Food Show'.",
+                "C. 'KKTV 8'.",
+                "D. 'Food TV'."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_77": {
+            "id": "AIs3LoU4JUo_77",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What is the text visible in the upper left corner of the frame?",
+            "options": [
+                "A. 'KKTV'",
+                "B. 'Solitary Gourmet 8'",
+                "C. 'Delicious Dumplings'",
+                "D. 'Traditional Chinese Subtitles'"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_78": {
+            "id": "AIs3LoU4JUo_78",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What is the text visible at the bottom of the screen?",
+            "options": [
+                "A. Subtitles.",
+                "B. The title of the program.",
+                "C. 'KKTV'.",
+                "D. No text."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_79": {
+            "id": "AIs3LoU4JUo_79",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What action is taking place in this scene?",
+            "options": [
+                "A. The dumpling is being delicately picked up by chopsticks.",
+                "B. The dumpling is being dipped into a dish of soy sauce.",
+                "C. The dumpling is being placed on a plate.",
+                "D. The dumpling is being cut with a knife."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_80": {
+            "id": "AIs3LoU4JUo_80",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "How are the dumplings placed relative to the background?",
+            "options": [
+                "A. In a blurred background environment.",
+                "B. In a clear and detailed kitchen background.",
+                "C. Against a pure black background.",
+                "D. In front of a bright white wall."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_81": {
+            "id": "AIs3LoU4JUo_81",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens is used to focus on dumplings?",
+            "options": [
+                "A. Use a medium shot lens.",
+                "B. Use a wide-angle lens.",
+                "C. Use a close-up lens.",
+                "D. Use an over-the-shoulder lens."
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_82": {
+            "id": "AIs3LoU4JUo_82",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "In the image, which visual elements provide background information for the series of the program?",
+            "options": [
+                "A. 'KKTV' logo and '孤独的美食家 8'",
+                "B. Close-up shot of a single dumpling.",
+                "C. Warm brown-orange background creating a cozy environment.",
+                "D. Traditional Chinese subtitles at the bottom of the screen."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_83": {
+            "id": "AIs3LoU4JUo_83",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "Where is the yellow restaurant sign located?",
+            "options": [
+                "A. Behind the diners.",
+                "B. Next to the counter.",
+                "C. Hanging from the ceiling.",
+                "D. On the restaurant door."
+            ],
+            "answer": "D"
+        },
+        "AIs3LoU4JUo_84": {
+            "id": "AIs3LoU4JUo_84",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "In this scene, how is the man using chopsticks?",
+            "options": [
+                "A. Carefully and attentively using chopsticks.",
+                "B. Carelessly dropped the chopsticks.",
+                "C. Quickly spinning the chopsticks.",
+                "D. Clumsily using chopsticks."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_85": {
+            "id": "AIs3LoU4JUo_85",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What physical actions did the man perform while eating?",
+            "options": [
+                "A. The man tilted his head and leaned forward while eating.",
+                "B. The man waved to the waiter and pointed to the jar on the counter.",
+                "C. The man adjusted his chopsticks and looked around the restaurant.",
+                "D. The man stretched his arms and pushed the bowl away."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_86": {
+            "id": "AIs3LoU4JUo_86",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "How does this man eat?",
+            "options": [
+                "A. The man enjoys his food with calm and careful movements.",
+                "B. The man hurriedly finishes his food with quick and frantic movements.",
+                "C. The man is distracted by the surrounding environment and does not touch his food.",
+                "D. The man eats while engaging in a lively conversation."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_87": {
+            "id": "AIs3LoU4JUo_87",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What items are prominently displayed on the restaurant counter?",
+            "options": [
+                "A. Some glass jars and decorative figurines.",
+                "B. A set of silverware and fine porcelain.",
+                "C. Various wooden bowls and chopsticks.",
+                "D. A ceramic tea set and floral decorations."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_88": {
+            "id": "AIs3LoU4JUo_88",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "In this restaurant scene, how many people are being filmed?",
+            "options": [
+                "A. Four.",
+                "B. Three.",
+                "C. Two.",
+                "D. Five."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_89": {
+            "id": "AIs3LoU4JUo_89",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Is the man in the dark suit the only one eating at the bar?",
+            "options": [
+                "A. Yes, the man in the dark suit is the only one eating at the bar.",
+                "B. No, there are other people.",
+                "C. Yes, only that man and a child are eating at the bar.",
+                "D. No, but the man in the dark suit is the main focus of the scene, and no other visible diners are at the bar."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_90": {
+            "id": "AIs3LoU4JUo_90",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "Which of the following actions reflects the man's focus on enjoying the meal?",
+            "options": [
+                "A. Bringing noodles to his mouth.",
+                "B. Carefully pouring sauce over his meal.",
+                "C. Neatly placing chopsticks on the counter.",
+                "D. The man gesturing with chopsticks while talking to the woman sitting next to him."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_91": {
+            "id": "AIs3LoU4JUo_91",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "What is the rhythm of this man's actions while dining?",
+            "options": [
+                "A. Hasty and hurried.",
+                "B. Methodical and rhythmic.",
+                "C. Uncoordinated.",
+                "D. Intermittent and scattered."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_92": {
+            "id": "AIs3LoU4JUo_92",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "Which element in the framework reflects the type of restaurant?",
+            "options": [
+                "A. Yellow restaurant sign with red text on it",
+                "B. Counter with polka dot decorations",
+                "C. Red restaurant sign with yellow text on it",
+                "D. Glass jar with red and yellow lids"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_93": {
+            "id": "AIs3LoU4JUo_93",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What visual elements indicate a connection to the series brand?",
+            "options": [
+                "A. 'Solitary Gourmet 8' with 'KKTV' and Chinese subtitles.",
+                "B. Arrangement of glass jars.",
+                "C. Signage with Chinese characters.",
+                "D. Brown-orange tones and countertops."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_94": {
+            "id": "AIs3LoU4JUo_94",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "How does the man appear in the scene?",
+            "options": [
+                "A. The man appears in the center of the frame in a close-up.",
+                "B. The man is in the background, surrounded by colorful jars.",
+                "C. The man is standing in a crowded market.",
+                "D. The man is sitting at a table with a group of people."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_95": {
+            "id": "AIs3LoU4JUo_95",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "How is the background in the scene?",
+            "options": [
+                "A. The background is a busy marketplace.",
+                "B. The background is blurry.",
+                "C. The background is an outdoor garden scene.",
+                "D. The background is completely dark."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_96": {
+            "id": "AIs3LoU4JUo_96",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene take place?",
+            "options": [
+                "A. Indoors.",
+                "B. Outdoor market.",
+                "C. Seaside restaurant.",
+                "D. On the train."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_97": {
+            "id": "AIs3LoU4JUo_97",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "What is this man wearing?",
+            "options": [
+                "A. Dark suit, shirt, and tie.",
+                "B. Light suit and bow tie.",
+                "C. Casual T-shirt and jeans.",
+                "D. Dark suit, no tie, open-collar shirt."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_98": {
+            "id": "AIs3LoU4JUo_98",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What kind of food is that man holding?",
+            "options": [
+                "A. A piece of sushi",
+                "B. A bowl of wonton noodles",
+                "C. A bowl of soup",
+                "D. A piece of white tofu"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_99": {
+            "id": "AIs3LoU4JUo_99",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "Where are the brand elements located in the scene?",
+            "options": [
+                "A. The logos of 'Solitary Gourmet 8' and 'KKTV' are located at the top left and top right corners of the screen, respectively.",
+                "B. The logos of 'Solitary Gourmet 8' and 'KKTV' are located at the bottom of the screen.",
+                "C. 'Solitary Gourmet 8' is located at the top left corner of the screen, and the 'KKTV' logo is located at the bottom right corner.",
+                "D. The logos of 'Solitary Gourmet 8' and 'KKTV' are located at the center of the screen."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_100": {
+            "id": "AIs3LoU4JUo_100",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "Does this scene include traditional Chinese subtitles?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. No subtitles.",
+                "D. Subtitles are only in English."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_101": {
+            "id": "AIs3LoU4JUo_101",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "Which action indicates the next step in this man's dining experience?",
+            "options": [
+                "A. The man puts the chopsticks back on the table.",
+                "B. The chopsticks holding food gradually approach the man's face, suggesting the next eating action.",
+                "C. The man looks away from the food, indicating a pause in dining.",
+                "D. The man starts talking, interrupting the dining process."
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_102": {
+            "id": "AIs3LoU4JUo_102",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "How does the visual focus switch between frames in the scene?",
+            "options": [
+                "A. Transition from a complex restaurant background to a close-up emphasizing the man's upper body.",
+                "B. Stay on the complex restaurant background.",
+                "C. Move to the colorful jars in the background.",
+                "D. Alternate between the man's upper body and the subtitles at the bottom of the frame."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_103": {
+            "id": "AIs3LoU4JUo_103",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "How does the subtitle describe the food?",
+            "options": [
+                "A. It explains the etymology of the name of wontons as 'swallowing clouds' and describes them as 'clouds that must be chewed.'",
+                "B. It provides a recipe for making wontons, including ingredients and cooking steps.",
+                "C. It describes the nutritional benefits of wontons, emphasizing their protein content.",
+                "D. It highlights the history of wontons, detailing their origins in ancient China."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_104": {
+            "id": "AIs3LoU4JUo_104",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is the initial focus of the video?",
+            "options": [
+                "A. A close-up of wonton noodle soup.",
+                "B. Chopsticks picking up a piece of crispy food.",
+                "C. A woman and colorful jars.",
+                "D. A close-up of subtitles explaining the etymology of wonton."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_105": {
+            "id": "AIs3LoU4JUo_105",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "After highlighting the shrimp wonton noodle soup, what change occurred in the focus?",
+            "options": [
+                "A. The focus shifted to include the dining environment of two people sitting at the counter.",
+                "B. The focus was solely on the man's dining experience, emphasizing his attire.",
+                "C. The focus switched to a lively kitchen scene of chefs busy preparing dishes.",
+                "D. The focus highlighted the details of the colorful jars in the background."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_106": {
+            "id": "AIs3LoU4JUo_106",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after the camera zooms in on the wonton on the spoon?",
+            "options": [
+                "A. The scene switches to a medium shot, focusing on a man in a suit enjoying his meal.",
+                "B. The camera moves to a vibrant background, featuring a woman and colorful jars.",
+                "C. The man begins to talk to the camera about the origin of wontons.",
+                "D. The lighting changes to highlight the colorful jars in the background."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_107": {
+            "id": "AIs3LoU4JUo_107",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the main setting of the video?",
+            "options": [
+                "A. Small restaurant.",
+                "B. Market.",
+                "C. Fine dining restaurant.",
+                "D. Outdoor picnic area."
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_108": {
+            "id": "AIs3LoU4JUo_108",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "Did the close-up of the wontons appear before introducing other diners?",
+            "options": [
+                "A. Yes, the close-up of the dumplings appeared before introducing the diners.",
+                "B. No, the close-up of the dumplings appeared after introducing the diners at the table.",
+                "C. Yes, the close-up of the dumplings appeared simultaneously with the introduction of the diners.",
+                "D. No, there was no introduction of other diners in the scene and subtitles."
+            ],
+            "answer": "D"
+        },
+        "AIs3LoU4JUo_109": {
+            "id": "AIs3LoU4JUo_109",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is shown first in the video?",
+            "options": [
+                "A. A man eating with chopsticks.",
+                "B. An overview of the dining environment.",
+                "C. Subtitles explaining the etymology of wonton.",
+                "D. A close-up of a bowl of wonton noodles."
+            ],
+            "answer": "D"
+        }
+    }
+}

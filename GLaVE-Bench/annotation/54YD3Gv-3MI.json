@@ -1,0 +1,1718 @@
+{
+    "scene_hint": {
+        "0": "五位速滑运动员听候哨声准备出发的过程。",
+        "1": "聚焦抢弯的过程。",
+        "2": "比赛持续焦灼中，蓝色衣服运动员失误。",
+        "3": "给失误弃赛的蓝色上衣的运动员一个特写镜头。",
+        "4": "远景镜头观察运动员们的比赛过程，直至比赛结束。",
+        "5": "6号运动员庆祝的近景镜头。",
+        "6": "58号运动员庆祝的近景镜头。",
+        "7": "23号运动员的近景镜头。",
+        "8": "左边以白色背景、右边画面以蓝色背景为主且都有文字出现"
+    },
+    "qa": {
+        "54YD3Gv-3MI_0": {
+            "id": "54YD3Gv-3MI_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "滑冰者在冰场上是如何排列的？",
+            "options": [
+                "A. 滑冰者在冰场上形成一条直线。",
+                "B. 滑冰者紧密地聚集在一起，形成一个圆形。",
+                "C. 滑冰者沿着冰场边缘排成一列。",
+                "D. 滑冰者在冰场中央排列成两条平行线。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_1": {
+            "id": "54YD3Gv-3MI_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "场景开始时画面中最左边的滑冰者位于哪里？",
+            "options": [
+                "A. 最左边的滑冰者距离紫色横幅最近。",
+                "B. 最左边的滑冰者在队伍的前面。",
+                "C. 最左边的滑冰者位于滑冰场的中央。",
+                "D. 最左边的滑冰者靠近中右边的滑冰者。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_2": {
+            "id": "54YD3Gv-3MI_2",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "场景开始时画面最右侧滑冰者的位置在哪里？",
+            "options": [
+                "A. 最靠近紫色横幅。",
+                "B. 稍微偏向冰场的左中部。",
+                "C. 在紫色场地横幅最远端。",
+                "D. 在冰场的中央。"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_3": {
+            "id": "54YD3Gv-3MI_3",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这个场景的整体背景是什么？",
+            "options": [
+                "A. 场景设定在一个篮球场。",
+                "B. 场景设定在一个溜冰场。",
+                "C. 场景设定在一个游泳池甲板。",
+                "D. 场景设定在一条跑道上。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_4": {
+            "id": "54YD3Gv-3MI_4",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "场景中可以看到哪些横幅？",
+            "options": [
+                "A. 紫色横幅排列在冰场的左侧。",
+                "B. 带有粗体文字的红色横幅展示在冰场的最右侧。",
+                "C. 蓝色和白色横幅散布在冰面上。",
+                "D. 带有奥运会标志的绿色横幅放置在冰场的中央。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_5": {
+            "id": "54YD3Gv-3MI_5",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "场景开始时画面最左边的滑冰者穿着什么服装？",
+            "options": [
+                "A. 黑白色制服，黑白头盔，黑黄黄手套。",
+                "B. 绿色和白色制服，白色头盔，蓝色手套。",
+                "C. 红黑色制服，红色头盔上有金色图案，红色手套。",
+                "D. 蓝黑制服，黑色头盔，黑色手套。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_6": {
+            "id": "54YD3Gv-3MI_6",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "在这个场景中有哪些明显的物体？",
+            "options": [
+                "A. 场景中有光滑的冰面、紫色广告牌和奥运五环。",
+                "B. 场景中有木地板、绿色广告牌和国际旗帜。",
+                "C. 场景中有光滑的冰面、蓝色广告牌和“Tokyo2022”横幅。",
+                "D. 场景中有沙地竞技场、红色广告牌和国家徽章。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_7": {
+            "id": "54YD3Gv-3MI_7",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "场景中最初有多少滑冰者？",
+            "options": [
+                "A. 三名。",
+                "B. 四名。",
+                "C. 五名。",
+                "D. 六名。"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_8": {
+            "id": "54YD3Gv-3MI_8",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "这个事件是否与奥运会有关？",
+            "options": [
+                "A. 是的，该事件与奥运会有关，因为屏幕上显示了奥运五环标志。",
+                "B. 不，这个事件与奥运会无关，它是一个地区锦标赛。",
+                "C. 是的，这个事件是一个国际速度滑冰比赛，但不是奥运会。",
+                "D. 不，这个事件是一个本地体育联赛。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_9": {
+            "id": "54YD3Gv-3MI_9",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "起跑之前，编号15的滑冰者正在做什么动作？",
+            "options": [
+                "A. 保持低蹲姿势，双臂向后伸展，做出起步动作。",
+                "B. 带领队伍，一只手臂向前伸展，另一只手臂向后。",
+                "C. 直立在场边观察比赛。",
+                "D. 采取深蹲姿势以融入队伍。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_10": {
+            "id": "54YD3Gv-3MI_10",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "起跑瞬间中心滑冰者朝哪个方向移动？",
+            "options": [
+                "A. 向后移动。",
+                "B. 横向移动。",
+                "C. 绕圈移动。",
+                "D. 向前移动。"
+            ],
+            "answer": "D"
+        },
+        "54YD3Gv-3MI_11": {
+            "id": "54YD3Gv-3MI_11",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "场景中时间戳为‘3.6’时的摄像机角度是什么？",
+            "options": [
+                "A. 摄像机保持略微升高的角度。",
+                "B. 摄像机位于正上方。",
+                "C. 摄像机处于冰面水平，从侧面拍摄。",
+                "D. 摄像机位于滑冰者后方，显示他们的背影。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_12": {
+            "id": "54YD3Gv-3MI_12",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "场景时间戳'3.6'时相机的焦点是什么？",
+            "options": [
+                "A. 相机广角拍摄整个滑冰场，展示所有滑冰者。",
+                "B. 相机近距离聚焦在广告牌上。",
+                "C. 相机更紧密地聚焦在滑冰者身上。",
+                "D. 相机聚焦在背景中的观众。"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_13": {
+            "id": "54YD3Gv-3MI_13",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "蓝色滑冰服的运动员跌倒后的穿红色滑冰服的人在画面的什么位置？",
+            "options": [
+                "A. 右下角附件。",
+                "B. 左上角附近。",
+                "C. 右上角附近。",
+                "D. 左下角附近。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_14": {
+            "id": "54YD3Gv-3MI_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这场活动的整体环境如何？",
+            "options": [
+                "A. 活动在奥运滑冰场上举行。",
+                "B. 活动在一个安静、灯光昏暗的场馆内进行。",
+                "C. 活动在一个本地的滑冰场上举行。",
+                "D. 活动在一个户外滑冰场上进行。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_15": {
+            "id": "54YD3Gv-3MI_15",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "当前哪位选手领先?",
+            "options": [
+                "A. 鲜红色上衣的选手。",
+                "B. 棕红色上衣的选手。",
+                "C. 蓝色上衣的选手。",
+                "D. 白色上衣的选手。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_16": {
+            "id": "54YD3Gv-3MI_16",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "当前领先的选手是谁?",
+            "options": [
+                "A. WU D.",
+                "B. R. ZVEJNIEKS",
+                "C. N. ZHUMAGAZIYEV",
+                "D. 无法得知"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_17": {
+            "id": "54YD3Gv-3MI_17",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "当前领先的选手是哪个国家的?",
+            "options": [
+                "A. 中国",
+                "B. 奥地利",
+                "C. 德国",
+                "D. 芬兰"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_18": {
+            "id": "54YD3Gv-3MI_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "当前比赛是哪一届奥运比赛？",
+            "options": [
+                "A. PyeongChang2018。",
+                "B. Tokyo2020",
+                "C. Beijing2022",
+                "D. Paris2024"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_19": {
+            "id": "54YD3Gv-3MI_19",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "在蓝色上衣的运动员倒下后时刻，穿黑白服装的滑冰者采取了什么行动？",
+            "options": [
+                "A. 滑冰者保持平衡并向前冲刺，超越倒下的对手。",
+                "B. 滑冰者与其他竞争者一起摔倒并失去位置。",
+                "C. 滑冰者完全停下来帮助摔倒的竞争者。",
+                "D. 滑冰者偏离赛道以避免裁判的干预。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_20": {
+            "id": "54YD3Gv-3MI_20",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景第二次出现图形覆盖在比赛期间显示哪些实时更新？",
+            "options": [
+                "A. 例如“3 LAPS TO GO,' a lap time of '8.52 seconds,' a speed reading of '50.9 KM/H,' and a timer reading of '15.22.。”",
+                "B. 例如“5 LAPS TO GO,' a lap time of '10.00 seconds,' a speed reading of '55.0 KM/H,' and a timer reading of '18.33。”",
+                "C. 例如“2 LAPS TO GO,' a lap time of '7.45 seconds,' a speed reading of '52.3 KM/H,' and a timer reading of '16.89。”",
+                "D. 例如“4 LAPS TO GO,' a lap time of '9.67 seconds,' a speed reading of '48.5 KM/H,' and a timer reading of '17.54。”"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_21": {
+            "id": "54YD3Gv-3MI_21",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "有多少溜冰者倒在冰面上？",
+            "options": [
+                "A. 两个。",
+                "B. 一个。",
+                "C. 四个。",
+                "D. 五个。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_22": {
+            "id": "54YD3Gv-3MI_22",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "在运动员摔倒期间，裁判是否介入？",
+            "options": [
+                "A. 不，裁判在事件发生期间没有介入。",
+                "B. 是的，裁判立即介入帮助摔倒的滑冰者。",
+                "C. 是的，裁判因碰撞而取消比赛。",
+                "D. 不，裁判对事件毫不知情。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_23": {
+            "id": "54YD3Gv-3MI_23",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "身穿黑白服装的滑冰选手对其他选手摔倒有何反应？",
+            "options": [
+                "A. 选手保持平衡，并前进以在比赛中占据有利位置。",
+                "B. 滑冰选手停下来帮助摔倒的选手重新站起来。",
+                "C. 选手失去平衡，与另一名选手相撞。",
+                "D. 选手向裁判示意介入，然后继续比赛。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_24": {
+            "id": "54YD3Gv-3MI_24",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "穿蓝色衣服摔倒的滑冰者相对于穿红色衣服的滑冰者位于什么位置？",
+            "options": [
+                "A. 前者比后者更靠近前景。",
+                "B. 前者比后者更靠近顶部边缘。",
+                "C. 前者位于冰场右侧，靠近边线。",
+                "D. 前者位于后者的后方。"
+            ],
+            "answer": "D"
+        },
+        "54YD3Gv-3MI_25": {
+            "id": "54YD3Gv-3MI_25",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "场景快结束时使用了什么相机角度？",
+            "options": [
+                "A. 使用了略微抬高的相机视角。",
+                "B. 使用了低角度相机视角。",
+                "C. 近距离拍摄的相机视角突出了滑冰者。",
+                "D. 使用了俯视鸟瞰视角。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_26": {
+            "id": "54YD3Gv-3MI_26",
+            "scene": 2,
+            "dimension": "Speed",
+            "question": "场景中比赛期间滑冰者的最快速度是多少？",
+            "options": [
+                "A. 是50.9公里/小时。",
+                "B. 是45.3公里/小时。",
+                "C. 是60.2公里/小时。",
+                "D. 是55.7公里/小时。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_27": {
+            "id": "54YD3Gv-3MI_27",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "摔倒事故发生后，谁在排行榜上保持第一名？",
+            "options": [
+                "A. CHN 6 WU D.",
+                "B. LAT 23 R. ZVEJNIEKS",
+                "C. JPN 19 K. WATANABE",
+                "D. USA 12 J. DOE"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_28": {
+            "id": "54YD3Gv-3MI_28",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "摔倒事件发生后，排行榜上第二名是谁？",
+            "options": [
+                "A. CHN 6号 WU D.",
+                "B. LAT 23号 R. ZVEJNIEKS",
+                "C. JPN 19号 K. WATANABE",
+                "D. KR 58号 HWANG D."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_29": {
+            "id": "54YD3Gv-3MI_29",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "摔倒事件发生后，谁在排行榜上排名第三？",
+            "options": [
+                "A. 'CHN 6 WU D.'",
+                "B. 'LAT 23 R. ZVEJNIEKS'",
+                "C. 'JPN 19 K. WATANABE'",
+                "D. 'USA 12 J. SMITH'"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_30": {
+            "id": "54YD3Gv-3MI_30",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素让观众了解比赛进程？",
+            "options": [
+                "A. 显示“3 LAPS TO GO”、圈速、速度、计时器和排行榜更新的图形覆盖。",
+                "B. 解说员持续提供现场评论。",
+                "C. 观众中的旗帜和横幅表示支持。",
+                "D. 滑冰者在比赛中改变制服颜色。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_31": {
+            "id": "54YD3Gv-3MI_31",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "滑冰者相对于相机角度的位置在哪里？",
+            "options": [
+                "A. 滑冰者被从略微抬高的前左侧视角拍摄。",
+                "B. 滑冰者被从低矮的前右侧视角拍摄。",
+                "C. 滑冰者被直接从上方拍摄。",
+                "D. 滑冰者被从侧面地面水平拍摄。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_32": {
+            "id": "54YD3Gv-3MI_32",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景的环境是什么？",
+            "options": [
+                "A. 专业的速度滑冰场。",
+                "B. 随意的户外溜冰场。",
+                "C. 室内的轮滑场乐。",
+                "D. 练习用的溜冰场。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_33": {
+            "id": "54YD3Gv-3MI_33",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "滑冰者在后续画面中正在做什么？",
+            "options": [
+                "A. 滑冰者双手举起，正在庆祝胜利。",
+                "B. 滑冰者用右手调整护目镜，同时保持稳定的前进动力。",
+                "C. 滑冰者向后滑动以避开障碍物。",
+                "D. 滑冰者在滑冰场上减速的同时调整他们的冰鞋。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_34": {
+            "id": "54YD3Gv-3MI_34",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "滑冰者的制服是什么样子的？",
+            "options": [
+                "A. 黑蓝相间的紧身衣，左胸有黄色徽章，黑色头盔，带绿色反光的护目镜，白手套，以及配备金色刀片的米色滑冰鞋。",
+                "B. 亮红色的紧身衣，带有白色条纹，蓝色头盔，黄色护目镜，黑手套，以及配备红色刀片的银色滑冰鞋。",
+                "C. 全黑的紧身衣，没有徽章，红色头盔，透明护目镜，白手套，以及配备青铜刀片的黑色滑冰鞋。",
+                "D. 蓝白相间的紧身衣，带有绿色徽章，黑色头盔，镜面护目镜，黑手套，以及配备银色刀片的白色滑冰鞋。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_35": {
+            "id": "54YD3Gv-3MI_35",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "滑冰者的服装中可以明显观察到哪些独特的颜色？",
+            "options": [
+                "A. 黑色、蓝色、黄色、白色和米色",
+                "B. 黑色、绿色、黄色、白色和米色",
+                "C. 黑色、蓝色、黄色、紫色和米色",
+                "D. 黑色、蓝色、红色、白色和绿色"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_36": {
+            "id": "54YD3Gv-3MI_36",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "此时画面显示的速度显示为超过50公里/小时吗？",
+            "options": [
+                "A. 是的，滑冰者的速度显示为50.9公里/小时。",
+                "B. 不，滑冰者的速度低于50公里/小时。",
+                "C. 不，滑冰者的速度正好是50公里/小时。",
+                "D. 是的，滑冰者的速度显示为51.5公里/小时。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_37": {
+            "id": "54YD3Gv-3MI_37",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "滑冰者在保持前进的同时用右手做了什么动作？",
+            "options": [
+                "A. 滑冰者将右手放到护目镜上，可能进行调整。",
+                "B. 滑冰者用右手向观众挥手。",
+                "C. 滑冰者用右手触碰冰面。",
+                "D. 滑冰者用右手向另一位选手示意。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_38": {
+            "id": "54YD3Gv-3MI_38",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "对于滑冰者来说，滑冰者正在朝哪个方向移动？",
+            "options": [
+                "A. 滑冰者正在向前移动。",
+                "B. 滑冰者正在向后移动。",
+                "C. 滑冰者正在侧向移动。",
+                "D. 滑冰者静止不动。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_39": {
+            "id": "54YD3Gv-3MI_39",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "比赛期间视频显示的速度是多少？",
+            "options": [
+                "A. 48.5公里/小时。",
+                "B. 50.9公里/小时。",
+                "C. 52.3公里/小时。",
+                "D. 49.7公里/小时。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_40": {
+            "id": "54YD3Gv-3MI_40",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景中左下角信息文本中包含什么？",
+            "options": [
+                "A. 名词靠前的选手信息",
+                "B. 滑冰者的心率",
+                "C. 外面的天气状况",
+                "D. 完成的总圈数"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_41": {
+            "id": "54YD3Gv-3MI_41",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景在哪里拍摄的？",
+            "options": [
+                "A. 在速滑比赛的奥林匹克场馆中拍摄的。",
+                "B. 日常练习中的本地滑冰场拍摄的。",
+                "C. 花样滑冰表演中的体育馆拍摄的。",
+                "D. 滑雪比赛的室外雪坡拍摄的。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_42": {
+            "id": "54YD3Gv-3MI_42",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "当文本显示'KOR HWANG D.'为第三时，他的姿势是什么样的？",
+            "options": [
+                "A. 他摔倒了。",
+                "B. 他的姿势是前倾的。",
+                "C. 他的姿势是低矮和蹲伏的。",
+                "D. 他的姿势是放松和随意的。"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_43": {
+            "id": "54YD3Gv-3MI_43",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "“CHN WU D.”，这位领滑员的制服是什么？",
+            "options": [
+                "A. 独特的红黑相间的服装。",
+                "B. 黑红相间的制服。",
+                "C. 黑白相间并带有红色点缀的服装。",
+                "D. 红黑相间的制服，并戴着橙色头盔。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_44": {
+            "id": "54YD3Gv-3MI_44",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "“LAT R. ZVEJNIEKS”在比赛中紧跟‘CHN WU D.’吗？",
+            "options": [
+                "A. 是的",
+                "B. 不是，存在明显的距离",
+                "C. LAT R. ZVEJNIEKS 领先",
+                "D. LAT R. ZVEJNIEKS 在第三名"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_45": {
+            "id": "54YD3Gv-3MI_45",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "在即将进线时最后一个弧形弯道，‘CHN WU D.’采取了什么行动？",
+            "options": [
+                "A. ‘CHN WU D.’放慢速度以节省体力。",
+                "B. ‘CHN WU D.’向观众挥手。",
+                "C. ‘CHN WU D.’在比赛中途系上他的滑冰鞋。",
+                "D. ‘CHN WU D.’在转弯处急剧倾斜。"
+            ],
+            "answer": "D"
+        },
+        "54YD3Gv-3MI_46": {
+            "id": "54YD3Gv-3MI_46",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "当前场景相对于上个场景使用了哪些转场从滑冰运动员切换到场馆的全景？",
+            "options": [
+                "A. 画面从聚焦于单个滑冰运动员的特写转到整个场馆的广角。",
+                "B. 画面从观众的镜头切换到积分榜的特写。",
+                "C. 画面从场馆的远景切换到滑冰运动员的中景动作镜头。",
+                "D. 画面从慢动作重播切换到场边裁判员的全景。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_47": {
+            "id": "54YD3Gv-3MI_47",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "在比赛的最后一圈，数字计时器显示什么速度？",
+            "options": [
+                "A. 48.7 公里/小时",
+                "B. 50.2 公里/小时",
+                "C. 52.5 公里/小时",
+                "D. 49.9 公里/小时"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_48": {
+            "id": "54YD3Gv-3MI_48",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "比赛结束时的广播图表确认了哪些排名？",
+            "options": [
+                "A. WU第一，HWANG第二，ZVEJNIEKS第三",
+                "B. HWANG第一，ZVEJNIEKS第二，WU第三",
+                "C. ZVEJNIEKS第一，HWANG第二，WU第三",
+                "D. WU第二，HWANG第一，ZVEJNIEKS第三"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_49": {
+            "id": "54YD3Gv-3MI_49",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "在比赛中，CHN WU D. 位于什么位置？",
+            "options": [
+                "A. 处于领先位置。",
+                "B. 落在队伍最后。",
+                "C. 位于第三名，。",
+                "D. 位于第四名。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_50": {
+            "id": "54YD3Gv-3MI_50",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "冰场的环境如何？",
+            "options": [
+                "A. 冰场是室外的，带有节日嘉年华的主题。",
+                "B. 冰场是室内的，拥有活跃的奥林匹克氛围。",
+                "C. 冰场是室内的，氛围较为低调的训练环境。",
+                "D. 冰场是室外的，环境宁静安详。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_51": {
+            "id": "54YD3Gv-3MI_51",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "冰场上有什么装饰？",
+            "options": [
+                "A. 冰场有紫色的横幅，上面装饰着“PyeongChang2018”的标志和奥运五环。",
+                "B. 冰场有红色的横幅，上面装饰着参赛国家的国旗。",
+                "C. 冰场有黑色的横幅，上面刻有奥运格言“更快、更高、更强”。",
+                "D. 冰场有绿色的横幅，上面展示着赞助公司的广告。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_52": {
+            "id": "54YD3Gv-3MI_52",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "比赛结束时没有出现什么图形元素？",
+            "options": [
+                "A. 一个显示最终比赛时间的数字计时器",
+                "B. 屏幕左下角出现的图形，显示运动员的信息，包括'1', 'CHN', 中国国旗, 'WU D.', 'FINISH'和'LAP 8.36'细节",
+                "C. 显示所有参赛者排名的排行榜",
+                "D. 比赛最后一圈的重播"
+            ],
+            "answer": "D"
+        },
+        "54YD3Gv-3MI_53": {
+            "id": "54YD3Gv-3MI_53",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "有多少位滑冰运动员冲过终点线？",
+            "options": [
+                "A. 两位滑冰运动员",
+                "B. 三位滑冰运动员",
+                "C. 四位滑冰运动员",
+                "D. 五位滑冰运动员"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_54": {
+            "id": "54YD3Gv-3MI_54",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "哪些滑冰运动员在比赛中成为过前三？",
+            "options": [
+                "A. CHN WU D.，LAT R. ZVEJNIEKS，和KORHWANG D.。",
+                "B. CHN WU D.，LAT R. ZVEJNIEKS，和美国的J. SMITH。",
+                "C. LAT R. ZVEJNIEKS，KORHWANG D.，和俄罗斯的P. ANDREEV。",
+                "D. CHN WU D.，俄罗斯的P. ANDREEV，和美国的J. SMITH。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_55": {
+            "id": "54YD3Gv-3MI_55",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "穿蓝色衣服、袖子是黑色的滑冰者在摔倒之前在做什么？",
+            "options": [
+                "A. 身体侧倾并努力转弯。",
+                "B. 直立站着，四处张望。",
+                "C. 原地旋转。",
+                "D. 系鞋带。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_56": {
+            "id": "54YD3Gv-3MI_56",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "在避开摔倒的滑冰者后，穿红黑相间衣服的滑冰者朝哪个方向移动？",
+            "options": [
+                "A. 向前移动。",
+                "B. 向左移动。",
+                "C. 向右移动。",
+                "D. 向后移动。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_57": {
+            "id": "54YD3Gv-3MI_57",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "在CHN WU D.完成时，数字计时器显示什么？",
+            "options": [
+                "A. '39.81秒'。",
+                "B. '38.42秒'。",
+                "C. '40.59秒'。",
+                "D. '39.45秒'。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_58": {
+            "id": "54YD3Gv-3MI_58",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "裁判员位于冰场的什么位置？",
+            "options": [
+                "A. 冰场的中央。",
+                "B. 冰场的边缘附近。",
+                "C. 俯瞰冰场的看台上。",
+                "D. 冰场外，靠近入口。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_59": {
+            "id": "54YD3Gv-3MI_59",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景的环境如何描绘？",
+            "options": [
+                "A. 它是城市街道。",
+                "B. 它具有奥运会特有的专业和国际化氛围。",
+                "C. 它看起来像一个本地溜冰场。",
+                "D. 它是户外公园。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_60": {
+            "id": "54YD3Gv-3MI_60",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "在运动员冲线后，工作人员或主持人的外貌是什么样的？",
+            "options": [
+                "A. 身穿深蓝色西装外套、黑色裤子和白色冰鞋。",
+                "B. 身穿白色西装外套、黑色裤子和黑色冰鞋。",
+                "C. 人身穿红色西装外套、蓝色裤子和银色冰鞋。",
+                "D. 身穿深绿色西装外套、米色裤子和金色冰鞋。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_61": {
+            "id": "54YD3Gv-3MI_61",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "在比赛结束时，主持人或宣讲者在做什么活动？",
+            "options": [
+                "A. 他们手持一些纸或白色计分板。",
+                "B. 他们正在调整排行榜和计时器。",
+                "C. 他们正在滑冰场上滑行。",
+                "D. 他们正在向观众挥手以回应他们的欢呼。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_62": {
+            "id": "54YD3Gv-3MI_62",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "在最终的场景中，冰面有什么特征？",
+            "options": [
+                "A. 冰面粗糙且容易留下痕迹。",
+                "B. 冰面比较完好，有划痕。",
+                "C. 冰面上布满划痕和冰屑。",
+                "D. 冰面暗淡无光，不反光。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_63": {
+            "id": "54YD3Gv-3MI_63",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "场景快结束时的冰面上有什么文字和符号？",
+            "options": [
+                "A. 冰面上点缀着'PyeongChang2018'字样和奥运五环。",
+                "B. 冰面上展示着参赛运动员的名字及其国家。",
+                "C. 冰面上带有赞助商标识和彩色图案。",
+                "D. 冰面上展示着大型数字计分板和奥运会吉祥物。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_64": {
+            "id": "54YD3Gv-3MI_64",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "速滑运动员出现时排行榜上的位置可见几个？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_65": {
+            "id": "54YD3Gv-3MI_65",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "场景中是否持续显示计时器？",
+            "options": [
+                "A. 是的，计时器一直在右下角显示。",
+                "B. 不，计时器只在序列开始时短暂显示。",
+                "C. 是的，但计时器在序列过程中会周期性消失。",
+                "D. 不，在序列过程中没有显示计时器。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_66": {
+            "id": "54YD3Gv-3MI_66",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "进线时刻速度滑冰运动员相对于镜头正在朝哪个方向移动？",
+            "options": [
+                "A. 向右移动。",
+                "B. 向左移动。",
+                "C. 向下移动。",
+                "D. 以圆形方向移动。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_67": {
+            "id": "54YD3Gv-3MI_67",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "当速滑选手掠过终点冰面时，排行榜会发生什么更新？",
+            "options": [
+                "A. 排行榜更新三条内容：'1 CHN 6 WU D.'，'2 KOR 58 HWANG D.'，以及 '3 LAT 23 R. ZVEJNIEKS.'",
+                "B. 排行榜更新仅显示 '1 KOR 58 HWANG D.' 的位置，且没有其他变化。",
+                "C. 排行榜仅显示一条内容：'CHN 6 WU D.'，且没有进一步更新。",
+                "D. 排行榜保持静止，未引入任何新条目。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_68": {
+            "id": "54YD3Gv-3MI_68",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "排行榜在画面的什么位置？",
+            "options": [
+                "A. 排行榜在左下角。",
+                "B. 排行榜在左上角。",
+                "C. 排行榜在右上角。",
+                "D. 排行榜在右下角。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_69": {
+            "id": "54YD3Gv-3MI_69",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景开始时有哪些元素位于画面中排行榜右侧？",
+            "options": [
+                "A. 奥运五环标志",
+                "B. 参赛者的名字",
+                "C. 赛事的时间和日期",
+                "D. 观众的座位安排"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_70": {
+            "id": "54YD3Gv-3MI_70",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景的背景是什么？",
+            "options": [
+                "A. 背景是本地节日的街头游行。",
+                "B. 背景是冬季奥运会。",
+                "C. 背景是本地冰场的训练课。",
+                "D. 背景是大学的毕业典礼。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_71": {
+            "id": "54YD3Gv-3MI_71",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "WU D.在此期间做什么？",
+            "options": [
+                "A. WU D.在进行庆祝。",
+                "B. WU D.站着不动并观察。",
+                "C. WU D.正在进行赛后采访。",
+                "D. WU D.正在帮助另一位滑冰者调整装备。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_72": {
+            "id": "54YD3Gv-3MI_72",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "在此时WU D.的动作是怎么样的？",
+            "options": [
+                "A. 一只手臂向前摆动，象征着高速和活力。",
+                "B. 静止站立，表现出平静和反思。",
+                "C. 拍手并高举右手做出庆祝的动作。",
+                "D. 缓慢行走，展现出一种悠闲的步伐。"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_73": {
+            "id": "54YD3Gv-3MI_73",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "WU D. 头盔上可以看到什么细节？",
+            "options": [
+                "A. 有一个黑色的数字 '6'。",
+                "B. 有金色的星星徽章。",
+                "C. 有奥运五环。",
+                "D. 有一条银色的条纹。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_74": {
+            "id": "54YD3Gv-3MI_74",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "WU D.的制服是什么样的？",
+            "options": [
+                "A. 红色为底，黑色袖子，手臂和背部上有金色星星徽章。",
+                "B. 黑色为底，红色袖子，手臂和背部上有银色星星徽章。",
+                "C. 银色为底，红色装饰，袖子上有金色条纹。",
+                "D. 红色为底，白色袖子，手臂和背部上有蓝色星星徽章。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_75": {
+            "id": "54YD3Gv-3MI_75",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "排行榜上提到了多少名滑冰选手的位置？",
+            "options": [
+                "A. 一名。",
+                "B. 两名。",
+                "C. 三名。",
+                "D. 四名。"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_76": {
+            "id": "54YD3Gv-3MI_76",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "冰在场景中看起来是紫色的吗？",
+            "options": [
+                "A. 是的，冰呈现出鲜艳的紫色。",
+                "B. 不，冰在整个场景中都是白色的。",
+                "C. 在比赛期间，冰的颜色变成了绿色。",
+                "D. 冰看起来是蓝色的，与障碍物颜色一致。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_77": {
+            "id": "54YD3Gv-3MI_77",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "滑冰时，WU D.在做什么手臂动作？",
+            "options": [
+                "A. 正单臂向前挥动。",
+                "B. 双臂直直地垂在两侧。",
+                "C. 将两臂举过头顶庆祝。",
+                "D. 在滑行时拍手。"
+            ],
+            "answer": "D"
+        },
+        "54YD3Gv-3MI_78": {
+            "id": "54YD3Gv-3MI_78",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "WU D.在这个画面期间相对镜头朝哪个方向移动？",
+            "options": [
+                "A. 正在向左移动。",
+                "B. 正在向右移动。",
+                "C. 正在侧前移动。",
+                "D. 静止不动。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_79": {
+            "id": "54YD3Gv-3MI_79",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "WU D.在场景中是如何被拍摄的？",
+            "options": [
+                "A. WU D.从侧面以中近景拍摄。",
+                "B. WU D.从正面以广角镜头拍摄。",
+                "C. WU D.从上方以俯视角拍摄。",
+                "D. WU D.从背面以全身镜拍摄。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_80": {
+            "id": "54YD3Gv-3MI_80",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "另一名滑冰者相对于WU D.的位置在哪里？",
+            "options": [
+                "A. 另一名在场景中位置略高，被摄像头聚焦。",
+                "B. 另一名在场景中位置略低，被WU D.超过。",
+                "C. 另一名与WU D.并排，具有同等的显著性。",
+                "D. 另一名直接在WU D.后面，具有相同的显著性。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_81": {
+            "id": "54YD3Gv-3MI_81",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "此时场景的背景中有哪些颜色？",
+            "options": [
+                "A. 背景中有一条浅蓝色的横条和鲜艳的紫色色调。",
+                "B. 一道亮黄色的条纹横穿在深绿色的背景上。",
+                "C. 场景中以黑色背景上的红色横条为主。",
+                "D. 白色和金色的图案装饰着灰色的背景。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_82": {
+            "id": "54YD3Gv-3MI_82",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "场景中可以看到多少名滑冰者？",
+            "options": [
+                "A. 一名",
+                "B. 两名",
+                "C. 三名",
+                "D. 四名"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_83": {
+            "id": "54YD3Gv-3MI_83",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "在整个序列中，次要滑冰者是否始终可见？",
+            "options": [
+                "A. 是的，次要滑冰者在整个序列中始终可见。",
+                "B. 不，次要滑冰者在序列中领先于WU D.。",
+                "C. 是的，两位滑冰者保持他们的位置没有任何变化。",
+                "D. 不，随着序列的进行，次要滑冰者逐渐消失。"
+            ],
+            "answer": "D"
+        },
+        "54YD3Gv-3MI_84": {
+            "id": "54YD3Gv-3MI_84",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "滑冰场的元素是什么？",
+            "options": [
+                "A. 紫色围栏，部分可见的横幅，奥林匹克五环和一条浅蓝色水平条纹。",
+                "B. 绿色围栏，上面有花卉图案和大胆的金色奥运标志。",
+                "C. 红色横幅，饰有赞助商标志，冰场周围有一根粗黑条纹。",
+                "D. 白色墙壁，文字简约，点缀着明亮的黄色条纹。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_85": {
+            "id": "54YD3Gv-3MI_85",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景发生在哪里？",
+            "options": [
+                "A. 场景发生在城市公园。",
+                "B. 场景发生在购物中心。",
+                "C. 场景发生在奥林匹克滑冰场。",
+                "D. 场景发生在当地健身中心。"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_86": {
+            "id": "54YD3Gv-3MI_86",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "滑冰者的服装是什么？",
+            "options": [
+                "A. 穿着白色竞速服，肩部和背部有蓝色和红色渐变装饰，背后写着“KOREA”。",
+                "B. 穿着黑色竞速服，带有白色条纹，正面醒目地写着“KOREA”。",
+                "C. 穿着红色竞速服，带有黄色装饰，背后有一个大型奥运会标志。",
+                "D. 穿着蓝色竞速服，带有白色和绿色的亮点，没有可见的文字。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_87": {
+            "id": "54YD3Gv-3MI_87",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "滑冰者戴的是什么头盔？",
+            "options": [
+                "A. 具有红色、蓝色、黑色和白色部分，有数字“58”。",
+                "B. 上面有蓝色和白色条纹，标有数字“25”。",
+                "C. 亮光的全红色头盔，没有可见的数字。",
+                "D. 银色的头盔，标有用黑色勾勒出的数字“58”。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_88": {
+            "id": "54YD3Gv-3MI_88",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "滑冰者除了上衣和头盔，还穿戴什么其他装备？",
+            "options": [
+                "A. 黑色裤子和手套。",
+                "B. 白色手套和蓝色裤子。",
+                "C. 红色裤子和黑色手套。",
+                "D. 蓝色裤子和白色手套。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_89": {
+            "id": "54YD3Gv-3MI_89",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "滑冰运动员比赛服袖子上的设计特点是什么？",
+            "options": [
+                "A. 袖子上有竖直的蓝色条纹。",
+                "B. 每只袖子的下半部分有六条醒目的黑色条纹。",
+                "C. 袖子上有红色和蓝色渐变图案。",
+                "D. 袖子上装饰着“KOREA”字样。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_90": {
+            "id": "54YD3Gv-3MI_90",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "在动作序列中，滑冰者的右臂最初位置是什么？",
+            "options": [
+                "A. 向下的姿势。",
+                "B. 向上的姿势。",
+                "C. 向前伸展的。",
+                "D. 最初在肘部弯曲。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_91": {
+            "id": "54YD3Gv-3MI_91",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "滑冰者的右臂在这段动作中是如何变化的？",
+            "options": [
+                "A. 滑冰者的右臂在整个动作中始终完全伸展。",
+                "B. 随着动作的进行，高举后慢慢放下。",
+                "C. 滑冰者的右臂在这段动作中一直高举在头顶上。",
+                "D. 在这段动作中，滑冰者的右臂反复进行挥动动作。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_92": {
+            "id": "54YD3Gv-3MI_92",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "滑冰者的头盔有多个颜色区块吗？",
+            "options": [
+                "A. 是的，头盔有红色、蓝色、黑色和白色区块。",
+                "B. 不，头盔是纯白色的。",
+                "C. 不，头盔只有黑色和白色区块。",
+                "D. 不，头盔是全红色的，没有其他颜色。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_93": {
+            "id": "54YD3Gv-3MI_93",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "滑冰者的头盔上是否显示了一个显眼的号码？",
+            "options": [
+                "A. 是的，头盔上写着'58'。",
+                "B. 不，头盔上没有显示任何号码。",
+                "C. 是的，头盔上写着号码'25'。",
+                "D. 不，头盔上没有任何显著的标记或号码。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_94": {
+            "id": "54YD3Gv-3MI_94",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "滑冰者的姿态表明他们在冰场上移动的方向是什么？",
+            "options": [
+                "A. 沿着冰场向前进。",
+                "B. 沿着冰场向后退。",
+                "C. 在冰场上静止不动。",
+                "D. 沿着冰场侧向移动。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_95": {
+            "id": "54YD3Gv-3MI_95",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "场景的背景是什么？",
+            "options": [
+                "A. 在PyeongChang2018冬奥会的光滑冰场上。",
+                "B. 在被群山环绕的冰冻湖面上。",
+                "C. 在室内体育馆举行的一场冰球锦标赛。",
+                "D. 本地滑冰场进行的花样滑冰比赛。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_96": {
+            "id": "54YD3Gv-3MI_96",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "场景场景中有哪些具体细节？",
+            "options": [
+                "A. 紫色横幅，上面有雪花样式，有文字'PyeongChang2018'，以及奥运五环标志。",
+                "B. 红色横幅，上面有星形图案和奥运五环标志。",
+                "C. 蓝色横幅，上面有山的图案和'奥运会2018'的文字。",
+                "D. 绿色横幅，上面有几何图案，没有文字或符号。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_97": {
+            "id": "54YD3Gv-3MI_97",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "运动员在整段场景中姿势是如何变化的？",
+            "options": [
+                "A. 双手交叉于脑后直至结束。",
+                "B. 成直立姿势并抬起双手，随后滑冰时身体向前倾。",
+                "C. 保持蹲姿，后来转变为躺在冰面上的姿势。",
+                "D. 双臂向外伸展，随后变为坐在冰面上的姿势。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_98": {
+            "id": "54YD3Gv-3MI_98",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "滑冰者的服装是什么样的？",
+            "options": [
+                "A. 红色和黑色的服装，带有白色条纹。",
+                "B. 白色和蓝色的服装，带有银色条纹。",
+                "C. 白色的服装，上面有蓝色和红色的渐变细节。",
+                "D. 白色和黑色的服装，带有红色装饰。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_99": {
+            "id": "54YD3Gv-3MI_99",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "背景中滑冰场横幅是什么颜色？",
+            "options": [
+                "A. 紫色。",
+                "B. 蓝色。",
+                "C. 红色。",
+                "D. 绿色。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_100": {
+            "id": "54YD3Gv-3MI_100",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "背景中溜冰场的横幅上有什么图案？",
+            "options": [
+                "A. 有类似雪花的图案。",
+                "B. 有条纹和圆形图案。",
+                "C. 覆盖着波浪状图案。",
+                "D. 显示几何棋盘图案。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_101": {
+            "id": "54YD3Gv-3MI_101",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "背景中冰场横幅上可见的部分文字是什么？",
+            "options": [
+                "A.  'Pye'。",
+                "B.  'Win'。",
+                "C.  'Ski'。",
+                "D.  'Ice'。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_102": {
+            "id": "54YD3Gv-3MI_102",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "背景中的冰场横幅上有什么符号？",
+            "options": [
+                "A. 有奥运五环。",
+                "B. 有世界杯奖杯。",
+                "C. 有枫叶符号。",
+                "D. 有冰球杆和冰球。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_103": {
+            "id": "54YD3Gv-3MI_103",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "场景开头可以看到多少名滑冰者？",
+            "options": [
+                "A. 两名滑冰者",
+                "B. 一名滑冰者",
+                "C. 三名滑冰者",
+                "D. 四名滑冰者"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_104": {
+            "id": "54YD3Gv-3MI_104",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "场景中能看见多少滑冰运动员？",
+            "options": [
+                "A. 一名。",
+                "B. 二名。",
+                "C. 三名。",
+                "D. 四名。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_105": {
+            "id": "54YD3Gv-3MI_105",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "场景开始时的滑冰运动员在做什么动作？",
+            "options": [
+                "A. 主滑冰者采取后倾姿势滑行，双手交叉放在头后。",
+                "B. 主滑冰者采取前倾姿势滑行，保持其竞争专注力。",
+                "C. 主滑冰者完成一个庆祝性的跳跃，展现他们的兴奋之情。",
+                "D. 主滑冰者跪下，系紧滑冰鞋。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_106": {
+            "id": "54YD3Gv-3MI_106",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "在最后一帧中，蓝白头盔滑冰者在银色头盔滑冰者的哪个位置？",
+            "options": [
+                "A. 后面。",
+                "B. 第左边。",
+                "C. 前面。",
+                "D. 右边。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_107": {
+            "id": "54YD3Gv-3MI_107",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "使用了哪种类型的镜头来拍摄滑冰者？",
+            "options": [
+                "A. 特写镜头。",
+                "B. 广角镜头。",
+                "C. 俯拍镜头。",
+                "D. 低角度镜头。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_108": {
+            "id": "54YD3Gv-3MI_108",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "选手服装上有什么视觉提示？",
+            "options": [
+                "A. 滑冰运动员胸前印有“LATVIA”",
+                "B. 滑冰运动员胸前印有“23”",
+                "C. 滑冰运动员胸前印有奥运五环标志",
+                "D. 滑冰运动员胸前印有“PyeongChang2018”"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_109": {
+            "id": "54YD3Gv-3MI_109",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "什么视觉提示确认了PyeongChang2018冬奥会的场景？",
+            "options": [
+                "A. 滑冰运动员胸前印有“LATVIA”的比赛服",
+                "B. 光滑反光的冰面",
+                "C. 紫色冰场横幅，上面有“2018”、“Pye”和奥运五环等元素",
+                "D. 银色头盔上的数字“23”"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_110": {
+            "id": "54YD3Gv-3MI_110",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "场景的左侧画面是什么？",
+            "options": [
+                "A. 左侧是一个浅色背景“THE WINTER OLYMPICS FEB 8-25”。",
+                "B. 左侧显示的是深蓝色背景和订阅信息。",
+                "C. 左侧播放的是现场比赛画面。",
+                "D. 左侧包含一个鲜艳的紫色冰场和奥林匹克品牌。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_111": {
+            "id": "54YD3Gv-3MI_111",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "场景的右侧画面是什么？",
+            "options": [
+                "A. 右侧有深蓝色背景和更多的订阅信息。",
+                "B. 右侧有浅色背景和活动日期。",
+                "C. 右侧有蓝色背景和“MORE CLIPS”，“SUBSCRIBE NOW”字样。",
+                "D. 右侧有纹理背景以唤起雪或冰的感觉。"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_112": {
+            "id": "54YD3Gv-3MI_112",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "当前场景是什么？",
+            "options": [
+                "A. 体育场。",
+                "B. 在带有奥运标志冰场上。",
+                "C. 山脉环绕的冰冻湖面上。",
+                "D. 活动的宣传屏幕前。"
+            ],
+            "answer": "D"
+        },
+        "54YD3Gv-3MI_113": {
+            "id": "54YD3Gv-3MI_113",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "领先的速度滑冰运动员的外观是什么样的？",
+            "options": [
+                "A. 红白相间的比赛服。",
+                "B. 黑白相间的比赛服。",
+                "C. 蓝黄相间的比赛服。",
+                "D. 绿橙相间的比赛服。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_114": {
+            "id": "54YD3Gv-3MI_114",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "促销屏幕左侧显示的是什么？",
+            "options": [
+                "A. 'WINTER OLYMPICS'和'FEB 8-25'",
+                "B. 'MORE CLIPS'和'SUBSCRIBE NOW'",
+                "C. 'WINTER OLYMPICS'和MORE CLPS''",
+                "D. 'MORE CLPS'和'FEB 8-25'"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_115": {
+            "id": "54YD3Gv-3MI_115",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "促销屏幕右侧显示的是什么？",
+            "options": [
+                "A. 'WINTER OLYMPICS'和'FEB 8-25'",
+                "B. 'MORE CLIPS'和'SUBSCRIBE NOW'",
+                "C. 'WINTER OLYMPICS'和MORE CLPS''",
+                "D. 'MORE CLPS'和'FEB 8-25'"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_116": {
+            "id": "54YD3Gv-3MI_116",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "促销屏幕上有多少个明显的部分？",
+            "options": [
+                "A. 一个。",
+                "B. 两个。",
+                "C. 三个。",
+                "D. 四个。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_117": {
+            "id": "54YD3Gv-3MI_117",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "促销屏幕上是否有任何移动元素？",
+            "options": [
+                "A. 是的，促销屏幕上有移动元素。",
+                "B. 不，促销屏幕保持静止。",
+                "C. 促销屏幕在多个设计之间切换。",
+                "D. 促销屏幕显示了动画图形。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_118": {
+            "id": "54YD3Gv-3MI_118",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "滑冰选手正在进行什么动作？",
+            "options": [
+                "A. 正在场边观看。",
+                "B. 双手抱住后脑勺。",
+                "C. 正在调整他的冰鞋。",
+                "D. 正在庆祝胜利。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_119": {
+            "id": "54YD3Gv-3MI_119",
+            "scene": 8,
+            "dimension": "Camera Direction",
+            "question": "摄像机保持静止吗？",
+            "options": [
+                "A. 不，摄像机聚焦在活跃的滑冰动作上。",
+                "B. 是的，摄像机转为静止的宣传屏幕。",
+                "C. 不，摄像机镜头拍摄LAT 速度滑冰运动员。",
+                "D. 不，摄像机拍摄紫色冰场，展示不同的选手。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_120": {
+            "id": "54YD3Gv-3MI_120",
+            "scene": 8,
+            "dimension": "Speed",
+            "question": "现场比赛和宣传屏幕场景之间的速度有何不同？",
+            "options": [
+                "A. 现场比赛展示了快节奏的滑冰，而宣传屏幕则保持静止，没有动作。",
+                "B. 现场比赛缓慢而稳定，而宣传屏幕则展示快速变化的广告。",
+                "C. 现场比赛和宣传屏幕都是快节奏且充满活力的。",
+                "D. 现场比赛和宣传屏幕都保持静止，几乎没有动作。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_121": {
+            "id": "54YD3Gv-3MI_121",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "上个场景到这个场景之间发生了什么属性变化？",
+            "options": [
+                "A. 场景从动态过渡到静止的宣传图形。",
+                "B. 场景从宣传图形过渡到滑冰者的动态动作。",
+                "C. 场景从滑冰者庆祝过渡到动画宣传图形。",
+                "D. 场景从安静的静态画面过渡到喧闹且充满活力的滑冰比赛。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_122": {
+            "id": "54YD3Gv-3MI_122",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在比赛中看到身穿蓝色服装的滑冰者摔倒在冰上之后，发生了什么？",
+            "options": [
+                "A. 一名工作人员立即冲上前去帮助摔倒的滑冰者。",
+                "B. 另一名身穿黑白服装的滑冰者超越了摔倒的竞争对手。",
+                "C. 身穿蓝色服装的滑冰者迅速站起来，毫无波折地继续比赛。",
+                "D. 比赛暂停以确保所有参与者的安全。"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_123": {
+            "id": "54YD3Gv-3MI_123",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在没有滑冰者出现的情况下展示溜冰场终点后，发生了什么变化？",
+            "options": [
+                "A. 一名解说员或裁判员出现在冰面上滑行。",
+                "B. 宣传屏幕上显示了下一个活动的倒计时。",
+                "C. 场景切换到以前奥运会精彩瞬间的集锦。",
+                "D. 观众填满了屏幕，展示了观众的反应镜头。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_124": {
+            "id": "54YD3Gv-3MI_124",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在拉脱维亚滑冰选手比赛结束后的特写之后，是什么场景转换？",
+            "options": [
+                "A. 场景转换为一个静态的宣传图形。",
+                "B. 场景转换为一个生动的粉丝互动环节。",
+                "C. 场景转换为对来自LAT 滑冰选手的采访。",
+                "D. 场景转换为滑冰表演的重播。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_125": {
+            "id": "54YD3Gv-3MI_125",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "PyeongChang2018品牌的持续可见性将竞赛锚定在什么样的背景中？",
+            "options": [
+                "A. 它将竞赛锚定在其官方和专业的背景中。",
+                "B. 它将竞赛锚定在本地体育联盟的背景中。",
+                "C. 它将竞赛锚定在一个休闲娱乐的背景中。",
+                "D. 它将竞赛锚定在一种历史纪录片风格的背景中。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_126": {
+            "id": "54YD3Gv-3MI_126",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "根据排行榜，谁在比赛中最初领先？",
+            "options": [
+                "A. LAT 5 DZENIS R.",
+                "B. CHN 6 WU D.",
+                "C. USA 7 SMITH J.",
+                "D. CAN 8 HALL M."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_127": {
+            "id": "54YD3Gv-3MI_127",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "根据排行榜，谁在比赛结束时排名第二？",
+            "options": [
+                "A. 'LAT 12号 A. ZAMBALA'",
+                "B. 'JPN 19号 K. WATANABE'",
+                "C. 'KOR 58号 HWANG D.'",
+                "D. 'USA 07号 R. JOHNSON'"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_128": {
+            "id": "54YD3Gv-3MI_128",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "根据排行榜，比赛结束时谁位列第三？",
+            "options": [
+                "A. 'JPN 19号 K. WATANABE'",
+                "B. 'LAT 23号 R. ZVEJNIEKS'",
+                "C. 'USA 07号 R. JOHNSON'",
+                "D. 'CAN 05号 M. SMITH'"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_129": {
+            "id": "54YD3Gv-3MI_129",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在结尾的广告界面出现之前会发生什么？",
+            "options": [
+                "A. 画面是拉脱维亚滑冰运动员近景镜头，然后另一个选手也加入画面",
+                "B. 促销图形慢慢淡入，而速度滑冰选手继续在背景中比赛。",
+                "C. 解说员在促销屏幕出现前宣布赛事详情。",
+                "D. 拉脱维亚滑冰选手完成比赛后，画面切换到对该运动员的现场采访。"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_130": {
+            "id": "54YD3Gv-3MI_130",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在比赛过程中，比赛焦点如何切换？",
+            "options": [
+                "A. 摄像机从聚焦整个比赛，切换到排名靠前的选手赛后特写，最后切换到比赛画面特写。",
+                "B. 摄像机从聚焦整个比赛，切换到排名靠前的选手赛后特写。",
+                "C. 摄像机从赛前每位选手的特写，切换为聚焦整个比赛。",
+                "D. 摄像机从聚焦整个比赛，切换到排名靠前的选手赛后特写，最后切换到颁奖画面。"
+            ],
+            "answer": "B"
+        }
+    }
+}

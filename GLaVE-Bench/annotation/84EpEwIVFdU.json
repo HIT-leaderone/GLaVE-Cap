@@ -1,0 +1,1704 @@
+{
+    "scene_hint": {
+        "0": "视频开始，两名男士在镜头前互动",
+        "1": "一个特写镜头记录了黑色西装男士的采访和观众的反映。",
+        "2": "画面聚焦黑色西装男士，他在讲话。",
+        "3": "场景切换回棕色西装的男士讲话",
+        "4": "又换到黑色西装男士继续讲话，背景是热情的观众。",
+        "5": "画面拉远两名男士在镜头前互动",
+        "6": "黑色西装男士离开了现场。",
+        "7": "一位男士坐在椅子上说话。"
+    },
+    "qa": {
+        "84EpEwIVFdU_0": {
+            "id": "84EpEwIVFdU_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "棕色西装的那个人相对于镜头的位置在哪里？",
+            "options": [
+                "A. 棕色西装的那个人站在台球桌前面。",
+                "B. 棕色西装的那个人站在台球桌后面。",
+                "C. 棕色西装的那个人坐在观众席。",
+                "D. 棕色西装的那个人站在离镜头最远的地方。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_1": {
+            "id": "84EpEwIVFdU_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "穿棕色西装的男人相对于台球桌的位置在哪里？",
+            "options": [
+                "A. 穿棕色西装的男人位于台球桌附近。",
+                "B. 穿棕色西装的男人侧身靠着台球桌。",
+                "C. 穿棕色西装的男人坐在离台球桌很远的地方。",
+                "D. 穿棕色西装的男人在后台，无法看到台球桌。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_2": {
+            "id": "84EpEwIVFdU_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "图片中描绘的斯诺克赛事的整体环境如何？",
+            "options": [
+                "A. 环境沉闷且观众稀少，灯光昏暗。",
+                "B. 环境充满活力且专业，观众众多，场地灯光明亮。",
+                "C. 环境混乱且过于拥挤，灯光明亮。",
+                "D. 环境随意且非正式，观众较少，灯光昏暗。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_3": {
+            "id": "84EpEwIVFdU_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "穿棕色西装的男人正在做什么？",
+            "options": [
+                "A. 穿棕色西装的男人正在对群众讲话或进行采访。",
+                "B. 穿棕色西装的男人右手拿着球杆在打斯诺克。",
+                "C. 穿棕色西装的男人坐在观众席观看比赛。",
+                "D. 穿棕色西装的男人正在拍摄活动照片。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_4": {
+            "id": "84EpEwIVFdU_4",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "穿棕色西装的男人穿着什么？",
+            "options": [
+                "A. 蓝色衬衫和领带。",
+                "B. 红色衬衫和蝴蝶结领带。",
+                "C. 白色衬衫，没有领带。",
+                "D. 粉色衬衫和围巾。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_5": {
+            "id": "84EpEwIVFdU_5",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "背景中的电子记分板上显示了什么信息？",
+            "options": [
+                "A. 电子记分板显示了球员的名字“Murphy”和“O'Sullivan”。",
+                "B. 电子记分板显示了“10-8”的最终比分以及赛事对阵表。",
+                "C. 电子记分板显示了倒计时计时器和赞助商广告。",
+                "D. 电子记分板显示了比赛日程和观众出席人数。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_6": {
+            "id": "84EpEwIVFdU_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "桌子上可以看到多少颗斯诺克球？",
+            "options": [
+                "A. 两颗斯诺克球",
+                "B. 四颗斯诺克球",
+                "C. 五颗斯诺克球",
+                "D. 十颗斯诺克球"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_7": {
+            "id": "84EpEwIVFdU_7",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "台球桌上的可见球是什么颜色的？",
+            "options": [
+                "A. 可见的台球包括左下角附近的一个红色的球和一个较靠前居中的黑色的球。",
+                "B. 可见的台球包括左下角附近的一个黄色的球和一个较靠前居中的白色的球。",
+                "C. 可见的台球包括左下角附近的一个绿色的球和一个较靠前居中的粉色的球。",
+                "D. 可见的台球包括左下角附近的一个蓝色的球和一个较靠前居中的橙色的球。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_8": {
+            "id": "84EpEwIVFdU_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "场景中是否可以看到“RONNIE O'SULLIVAN LIVE”这段文字？",
+            "options": [
+                "A. 是的，但这段文字只以白色和青绿色字体显示在数字面板上。",
+                "B. 不，场景中完全看不到“RONNIE O'SULLIVAN LIVE”这段文字。",
+                "C. 是的，但这段文字只以红色和黑色字体显示在数字面板上。",
+                "D. 不，“RONNIE O'SULLIVAN LIVE”这段文字部分被遮挡，无法阅读。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_9": {
+            "id": "84EpEwIVFdU_9",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "穿黑色西装的男人正在做什么动作？",
+            "options": [
+                "A. 穿黑色西装的男人右手拿着一根台球杆，站着并用一只手扶着自己的腰。",
+                "B. 穿黑色西装的男人专注地看着记分板，并与裁判交谈。",
+                "C. 穿黑色西装的男人正在使用主球在台球桌上击球。",
+                "D. 穿黑色西装的男人用左手调整麦克风，同时在采访一位选手。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_10": {
+            "id": "84EpEwIVFdU_10",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "更紧的摄像机框架如何影响斯诺克选手与采访者之间的互动？",
+            "options": [
+                "A. 更紧的摄像机框架将视觉范围缩小到斯诺克选手与采访者之间的互动。",
+                "B. 更紧的摄像机框架强调了背景细节，如计分板和观众。",
+                "C. 更紧的摄像机框架突出了斯诺克选手的服装，但降低了他们互动的重要性。",
+                "D. 更紧的摄像机框架仅聚焦于观众，裁剪掉了斯诺克选手和采访者。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_11": {
+            "id": "84EpEwIVFdU_11",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "较紧的相机框架如何影响观众的可见性？",
+            "options": [
+                "A. 较紧的相机框架完全将观众移除出画面，仅聚焦于台球选手。",
+                "B. 较紧的相机框架部分遮挡了观众，但仍然能够感受到他们的存在和活力。",
+                "C. 较紧的相机框架让观众更加清晰可见，凸显了他们的反应。",
+                "D. 较紧的相机框架用记分牌的特写镜头取代了观众的画面。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_12": {
+            "id": "84EpEwIVFdU_12",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频中的场景主要发生在哪里？",
+            "options": [
+                "A. 场景发生在一个斯诺克比赛的场地。",
+                "B. 场景发生在一个休闲餐饮餐厅。",
+                "C. 场景发生在一个繁忙的办公空间。",
+                "D. 场景发生在一个拥挤的户外市场。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_13": {
+            "id": "84EpEwIVFdU_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频中的场景总体环境是什么？",
+            "options": [
+                "A. 环境有序又专业，斯诺克球员和采访者之间展开对话，并有互动的观众。",
+                "B. 环境混乱无序，斯诺克球员和采访者在嘈杂的人群中努力沟通。",
+                "C. 环境安静而庄严，斯诺克球员在昏暗的房间里独自沉思，没有观众。",
+                "D. 环境混乱无序，观众欢呼雀跃，斯诺克球员在舞台上跳舞。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_14": {
+            "id": "84EpEwIVFdU_14",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "斯诺克选手最初做什么？",
+            "options": [
+                "A. 斯诺克选手最初握住一根球杆。",
+                "B. 斯诺克选手立即把麦克风举到脸前。",
+                "C. 斯诺克选手一开始就向观众讲话。",
+                "D. 斯诺克选手首先走向观众。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_15": {
+            "id": "84EpEwIVFdU_15",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "台球选手在持杆后会表现出什么姿势？",
+            "options": [
+                "A. 台球选手举起双手庆祝胜利。",
+                "B. 台球选手继续紧握球杆。",
+                "C. 台球选手转为一个沉思的姿势，左手靠近下巴。",
+                "D. 台球选手用双手向观众挥手。"
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_16": {
+            "id": "84EpEwIVFdU_16",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "斯诺克球员的脸旁拿着什么？",
+            "options": [
+                "A. 麦克风，表明他正在接受采访。",
+                "B. 奖杯，突显他的胜利。",
+                "C. 球杆，准备击球。",
+                "D. 记分牌，分析比分。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_17": {
+            "id": "84EpEwIVFdU_17",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "在整个场景中，斯诺克球员的整个上半身和脸都完全可见吗？",
+            "options": [
+                "A. 是的，他的整个上半身和脸都完全可见。",
+                "B. 不是，上半身有些部分被排除在外。",
+                "C. 不是，他的脸有些部分被排除在外。",
+                "D. 是的，包括他的全身完全可见。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_18": {
+            "id": "84EpEwIVFdU_18",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "在采访特写之后展示了什么场景？",
+            "options": [
+                "A. 镜头展示了广阔的观众席以及他们热烈的反应。",
+                "B. 镜头聚焦于台球选手制胜一击的特写。",
+                "C. 场景切到播放带有赞助商标志的广告。",
+                "D. 镜头显示采访者离开采访现场。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_19": {
+            "id": "84EpEwIVFdU_19",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在过渡期间，屏幕的右上角显示的是什么？",
+            "options": [
+                "A. 'EUROSPORT 1' 标签和红色 'LIVE' 图标。",
+                "B. 事件名称和当前比分。",
+                "C. 仅广播频道的标志。",
+                "D. 一个倒计时计时器和红色 'LIVE' 图标。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_20": {
+            "id": "84EpEwIVFdU_20",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "采访者在摄像机画面中可见吗？",
+            "options": [
+                "A. 是。",
+                "B. 否。",
+                "C. 部分可见。",
+                "D. 只有采访者可见。"
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_21": {
+            "id": "84EpEwIVFdU_21",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "捕捉观众的摄像机镜头是什么类型？",
+            "options": [
+                "A. 一个聚焦于人群的广角镜头",
+                "B. 个人观众的特写镜头",
+                "C. 球台的横移镜头",
+                "D. 从观众视角拍摄的低角度镜头"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_22": {
+            "id": "84EpEwIVFdU_22",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "场景中灯光是如何变化的？",
+            "options": [
+                "A. 灯光显著变暗，营造出一种柔和的氛围。",
+                "B. 整个场景中灯光保持不变。",
+                "C. 灯光变换为紫色光芒，突显人群。",
+                "D. 灯光变为明亮的黄色，照亮整个场地。"
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_23": {
+            "id": "84EpEwIVFdU_23",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频发生在什么地方？",
+            "options": [
+                "A. 视频发生在台球运动赛事中。",
+                "B. 视频发生在音乐会现场。",
+                "C. 视频发生在企业会议上。",
+                "D. 视频发生在电影首映礼上。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_24": {
+            "id": "84EpEwIVFdU_24",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "视频中使用了什么样的灯光？",
+            "options": [
+                "A. 柔和的白色灯光",
+                "B. 昏暗的蓝色灯光",
+                "C. 鲜艳的紫色灯光",
+                "D. 明亮的黄色灯光"
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_25": {
+            "id": "84EpEwIVFdU_25",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "穿着黑色服装的那个人拿着什么？",
+            "options": [
+                "A. 穿着黑色服装的人拿着一个麦克风。",
+                "B. 穿着黑色服装的人拿着一个台球杆。",
+                "C. 穿着黑色服装的人拿着一个奖杯。",
+                "D. 穿着黑色服装的人拿着一部手机。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_26": {
+            "id": "84EpEwIVFdU_26",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "中央男子穿着的黑色服装上展示了什么标志？",
+            "options": [
+                "A. 黑色服装上的标志包括中文文字和短语“Liber win.”",
+                "B. 黑色服装上的标志包括中文文字和短语“Winner mode.”",
+                "C. 黑色服装上的标志包括中文文字和短语“Champion glory.”",
+                "D. 黑色服装上的标志包括中文文字和短语“Victory lane.”"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_27": {
+            "id": "84EpEwIVFdU_27",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "那位正在接受采访的人使用的是斯诺克球杆吗？",
+            "options": [
+                "A. 是的。",
+                "B. 不，他用的是网球拍。",
+                "C. 不，他用的是麦克风。",
+                "D. 不，他用的是相机。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_28": {
+            "id": "84EpEwIVFdU_28",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "棕色西装的人在采访过程中做什么？",
+            "options": [
+                "A. 将麦克风对准穿黑色衣服的男人。",
+                "B. 在写字板上记笔记。",
+                "C. 调整采访的灯光。",
+                "D. 操作摄像机拍摄现场。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_29": {
+            "id": "84EpEwIVFdU_29",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "采访场景使用了什么样的镜头？",
+            "options": [
+                "A. 镜头以主要事件为中心的特写镜头。",
+                "B. 镜头拉近焦距，转向背景观众。",
+                "C. 镜头是宽广的观众视角。",
+                "D. 镜头是事件的俯视视角。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_30": {
+            "id": "84EpEwIVFdU_30",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "哪个叠加标识表示该事件正在现场直播？",
+            "options": [
+                "A. 叠加标识“LIVE EUROSPORT 1”表示该事件正在现场直播。",
+                "B. 叠加标识“LIVE SPORTS CHANNEL”表示该事件正在现场直播。",
+                "C. 叠加标识“LIVE CUE SPORTS”表示该事件正在现场直播。",
+                "D. 叠加标识“EUROPE LIVE SPORTS”表示该事件正在现场直播。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_31": {
+            "id": "84EpEwIVFdU_31",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "台球桌位于哪里？",
+            "options": [
+                "A. 台球桌位于图像的左下角。",
+                "B. 台球桌位于图像的右上角。",
+                "C. 台球桌位于图像的中央。",
+                "D. 台球桌位于图像的左上角。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_32": {
+            "id": "84EpEwIVFdU_32",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "视频的主要场景发生在哪里？",
+            "options": [
+                "A. 视频的主要场景发生在一个明亮、专业的环境中。",
+                "B. 视频的主要场景发生在一个灯光昏暗的安静房间。",
+                "C. 视频的主要场景发生在一个灯光较弱的运动酒吧中。",
+                "D. 视频的主要场景发生在户外，伴随自然光线。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_33": {
+            "id": "84EpEwIVFdU_33",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "面向中央人物的新来者穿着什么样的服装？",
+            "options": [
+                "A. 新来者穿着浅棕色的西装。",
+                "B. 新来者穿着带刺绣标志的黑色运动夹克。",
+                "C. 新来者穿着深红色和黑色格子衬衫。",
+                "D. 新来者穿着绿色毛衣和牛仔裤。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_34": {
+            "id": "84EpEwIVFdU_34",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景右上角可以看到哪些标志？",
+            "options": [
+                "A. 'LIVE' 和 'EUROSPORT 1' 标志",
+                "B. 'MATCH' 和 'LIVE' 标志",
+                "C. 'EUROSPORT 2' 和 'LIVE' 标志",
+                "D. 'SPORT 1' 和 'EVENT' 标志"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_35": {
+            "id": "84EpEwIVFdU_35",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "台面上可以看到多少个斯诺克球？",
+            "options": [
+                "A. 台面上可以看到三个斯诺克球。",
+                "B. 台面上可以看到四个斯诺克球。",
+                "C. 台面上可以看到五个斯诺克球。",
+                "D. 台面上可以看到六个斯诺克球。"
+            ],
+            "answer": "D"
+        },
+        "84EpEwIVFdU_36": {
+            "id": "84EpEwIVFdU_36",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "台球桌上左下角可见的球是什么颜色的？",
+            "options": [
+                "A. 黄色",
+                "B. 红色",
+                "C. 绿色",
+                "D. 蓝色"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_37": {
+            "id": "84EpEwIVFdU_37",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "第一排穿着深红色和黑色格子衬衫的人在背景中吗？",
+            "options": [
+                "A. 是的，穿着深红色和黑色格子衬衫的人还在。",
+                "B. 不，穿着深红色和黑色格子衬衫的人已经不在了。",
+                "C. 他部分可见，但不再清晰。",
+                "D. 他移到了台球桌旁边"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_38": {
+            "id": "84EpEwIVFdU_38",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "浅棕色西装人士做了什么行为？",
+            "options": [
+                "A. 将麦克风拿在胸前。",
+                "B. 向观众挥手。",
+                "C. 指向计分板。",
+                "D. 靠在斯诺克桌上。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_39": {
+            "id": "84EpEwIVFdU_39",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "黑色西装人物面向哪个方向?",
+            "options": [
+                "A. 黑色西装人物面向观众。",
+                "B. 黑色西装人物面向另一个人。",
+                "C. 黑色西装人物面向记分牌。",
+                "D. 黑色西装人物面向斯诺克桌。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_40": {
+            "id": "84EpEwIVFdU_40",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "场景中使用了什么摄像机视角？",
+            "options": [
+                "A. 摄像机捕捉到广角视角",
+                "B. 摄像机保持一致的中近景视角",
+                "C. 摄像机拍摄观众的特写",
+                "D. 摄像机提供场景的鸟瞰视角"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_41": {
+            "id": "84EpEwIVFdU_41",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "哪些标志表明该活动是现场直播的？",
+            "options": [
+                "A. 右上角的“LIVE”和“EUROSPORT 1”标志表明该活动是现场直播的。",
+                "B. 右上角的“LIVE”和“BBC Sport”标志表明该活动是现场直播的。",
+                "C. 右上角的“EUROSPORT 1”和“Sky Sports”标志表明该活动是现场直播的。",
+                "D. 右上角的“BBC Sport”和“Sky Sports”标志表明该活动是现场直播的。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_42": {
+            "id": "84EpEwIVFdU_42",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "身穿深色服装和挂着证件的两个人坐在什么位置，相对于那位穿黑色西装的男人？",
+            "options": [
+                "A. 这两个人坐在前景，站在那位穿黑色西装的男人前面。",
+                "B. 这两个人坐在台球桌旁边，站在那位穿黑色西装的男人旁边。",
+                "C. 这两个人坐在背景，靠近摄像机，但在那位穿黑色西装的男人后面。",
+                "D. 这两个人坐在观众的另一侧，离那位穿黑色西装的男人很远。"
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_43": {
+            "id": "84EpEwIVFdU_43",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频的背景是什么？",
+            "options": [
+                "A. 视频的背景是一个正式的斯诺克比赛。",
+                "B. 视频的背景是一个热闹的户外音乐节。",
+                "C. 视频的背景是一个有商业演示的公司会议。",
+                "D. 视频的背景是一个大学体育馆的篮球比赛。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_44": {
+            "id": "84EpEwIVFdU_44",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "在视频中，穿黑色西装的男人拿着什么？",
+            "options": [
+                "A. 穿黑色西装的男人拿着麦克风。",
+                "B. 穿黑色西装的男人拿着智能手机。",
+                "C. 穿黑色西装的男人拿着台球杆。",
+                "D. 穿黑色西装的男人拿着奖杯。"
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_45": {
+            "id": "84EpEwIVFdU_45",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "视频中穿黑色西装的男人在做什么活动？",
+            "options": [
+                "A. 穿黑色西装的男人正在进行互动，可能是采访或评论。",
+                "B. 穿黑色西装的男人正在进行一场斯诺克比赛。",
+                "C. 穿黑色西装的男人正在为观众服务饮料。",
+                "D. 穿黑色西装的男人正在组织活动。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_46": {
+            "id": "84EpEwIVFdU_46",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "视频中，穿黑色西装的男人被谁围着？",
+            "options": [
+                "A. 穿黑色西装的男人被观众围着。",
+                "B. 穿黑色西装的男人被安保人员围着。",
+                "C. 穿黑色西装的男人被灯光工作人员围着。",
+                "D. 穿黑色西装的男人被家人围着。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_47": {
+            "id": "84EpEwIVFdU_47",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "这个男人的黑色西装有哪些特征？",
+            "options": [
+                "A. 这件黑色西装有一个黑色领结，他的胸口上绣有字母'MC'。",
+                "B. 这件黑色西装有一个红色领结，他的胸口上绣有字母'MC'。",
+                "C. 这件黑色西装有一个红色领结，他的背部上绣有字母'LC'。",
+                "D. 这件黑色西装有一个黑色领结，他的胸口上绣有字母'LC'。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_48": {
+            "id": "84EpEwIVFdU_48",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "在这个场景中，台球桌是否被显著地展示出来？",
+            "options": [
+                "A. 是的。",
+                "B. 不，台球桌在前景中不可见。",
+                "C. 不，台球桌在背景中不可见。",
+                "D. 不，焦点仅在观众身上。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_49": {
+            "id": "84EpEwIVFdU_49",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "穿黑西装的男人在场景中执行了什么微妙的动作?",
+            "options": [
+                "A. 穿黑西装的男人取下了他的蝴蝶结。",
+                "B. 穿黑西装的男人从桌子上捡起了一颗斯诺克球。",
+                "C. 穿黑西装的男人略微向左移动，然后露出更多的右侧。",
+                "D. 穿黑西装的男人通过挥手直接与观众互动。"
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_50": {
+            "id": "84EpEwIVFdU_50",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "黑西装男子朝哪个方向移动？",
+            "options": [
+                "A. 黑西装男子略微向左移动。",
+                "B. 黑西装男子略微向右移动。",
+                "C. 黑西装男子略微向前移动。",
+                "D. 黑西装男子略微向后移动。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_51": {
+            "id": "84EpEwIVFdU_51",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "黑西装男人转身后透露了什么？",
+            "options": [
+                "A. 他露出了更多的右侧。",
+                "B. 他露出了一个隐藏的怀表。",
+                "C. 他露出了一座斯诺克奖杯。",
+                "D. 他透露了一个秘密握手。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_52": {
+            "id": "84EpEwIVFdU_52",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "摄影机的运动如何突出穿黑色西装的男子的孤立感？",
+            "options": [
+                "A. 摄影机逐渐转向更近的焦点，集中在穿黑色西装的男子。",
+                "B. 摄影机拉远镜头，捕捉整个事件的画面，更突出观众的参与，而非那名男子。",
+                "C. 摄影机保持中景镜头，对台球桌附近的所有人物保持均等的关注度。",
+                "D. 摄影机转而完全聚焦于台球，远离了穿黑色运动夹克的男子。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_53": {
+            "id": "84EpEwIVFdU_53",
+            "scene": 4,
+            "dimension": "Camera Direction",
+            "question": "摄影机的运动是如何将新人物引入画面中的？",
+            "options": [
+                "A. 摄影机切换到广角视图，揭示观众席中的新人物。",
+                "B. 摄影机转向黑色西装男子的特写，同时引入新的人物到画面中。",
+                "C. 摄影机拉远镜头，拍摄更多的台球桌，带来新的面孔入镜。",
+                "D. 摄影机上倾，显示背景中的新人物。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_54": {
+            "id": "84EpEwIVFdU_54",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "哪种镜头强调了穿黑色西装的男人？",
+            "options": [
+                "A. 一个广角镜头，捕捉整个场地，包括穿黑色西装的男人。",
+                "B. 一个中景镜头，突出了穿黑色西装的男人以及台球桌。",
+                "C. 一个特写镜头，用于更清晰强调穿黑色西装的男人。",
+                "D. 一个俯拍镜头，展示整个台球桌及周围的观众。"
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_55": {
+            "id": "84EpEwIVFdU_55",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "男子和观众成员进行位置调整的节奏如何？",
+            "options": [
+                "A. 位置调整是突然且剧烈的。",
+                "B. 位置调整是逐渐且微妙地随着时间发生的。",
+                "C. 位置调整是随机且不可预测的。",
+                "D. 整个场景中位置调整从未发生。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_56": {
+            "id": "84EpEwIVFdU_56",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "两个穿深色衣服的观众的位置是如何随时间变化的？",
+            "options": [
+                "A. 两个穿深色衣服的观众随时间在画面中向上和向左移动。",
+                "B. 两个穿深色衣服的观众在整个视频中保持在同一位置。",
+                "C. 两个穿深色衣服的观众随时间在画面中向下和向右移动。",
+                "D. 两个穿深色衣服的观众随时间完全离开画面。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_57": {
+            "id": "84EpEwIVFdU_57",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "这个在麦克风前讲话的男人穿着什么？",
+            "options": [
+                "A. 这个男人穿着黑色西装和领结。",
+                "B. 这个男人穿着一套棕色三件套西装，搭配白衬衫和紫色领带。",
+                "C. 这个男人穿着蓝色运动夹克和红色领带。",
+                "D. 这个男人穿着白衬衫和黑色长裤。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_58": {
+            "id": "84EpEwIVFdU_58",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "旁边拿着麦克风的这个男人穿什么？",
+            "options": [
+                "A. 男人穿着一套棕色三件套，搭配白衬衫和紫色领带。",
+                "B. 男人穿着黑色运动外套和领结。",
+                "C. 男人穿着灰色西装外套，搭配蓝色领带和白衬衫。",
+                "D. 男人穿着海军蓝西装，搭配红色领带和浅蓝色衬衫。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_59": {
+            "id": "84EpEwIVFdU_59",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "台球桌上的斯诺克球有哪些颜色？",
+            "options": [
+                "A. 斯诺克球包括一个黑球、一个红球，以及其他散落在桌上的球。",
+                "B. 斯诺克球包括一个白球、一个黄球，以及其他散落在桌上的球。",
+                "C. 斯诺克球包括一个白球、一个蓝球，以及其他散落在桌上的球。",
+                "D. 斯诺克球包括一个紫球、一个红球，以及其他散落在桌上的球。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_60": {
+            "id": "84EpEwIVFdU_60",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "有多少人靠在蓝色的面板上？",
+            "options": [
+                "A. 一个人",
+                "B. 两个人",
+                "C. 三个人",
+                "D. 四个人及以上"
+            ],
+            "answer": "D"
+        },
+        "84EpEwIVFdU_61": {
+            "id": "84EpEwIVFdU_61",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "O'Sullivan在比赛中领先吗？",
+            "options": [
+                "A. 是的，O'Sullivan在比赛中领先。",
+                "B. 不，O'Sullivan在比赛中没有领先。",
+                "C. 比分持平。",
+                "D. 比赛尚未开始。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_62": {
+            "id": "84EpEwIVFdU_62",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "黑色斯诺克球位于桌子的什么位置？",
+            "options": [
+                "A. 黑色斯诺克球位于桌子的左侧。",
+                "B. 黑色斯诺克球位于桌子的右侧。",
+                "C. 黑色斯诺克球位于桌子的中央。",
+                "D. 黑色斯诺克球位于桌子的顶部。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_63": {
+            "id": "84EpEwIVFdU_63",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "调整过的摄像角度在过渡中提供了什么作用？",
+            "options": [
+                "A. 调整过的摄像角度提供了一个全景视图，展示了绿色的台球桌以及两个人之间的互动。",
+                "B. 调整过的摄像角度让观众能够更近距离地看到观众席以及他们对比赛的反应。",
+                "C. 调整过的摄像角度专注于展示散布在台球桌上的彩色台球。",
+                "D. 调整过的摄像角度仅关注记分牌以及选手的分数。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_64": {
+            "id": "84EpEwIVFdU_64",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "哪个标志表示该事件正在现场直播？",
+            "options": [
+                "A. 'LIVE' 标志",
+                "B. 'ON AIR' 标志",
+                "C. 'BROADCAST' 标志",
+                "D. 'EUROSPORT 1' 标志"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_65": {
+            "id": "84EpEwIVFdU_65",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "场景中的两个穿黑色衬衫戴挂绳的男人在哪里？",
+            "options": [
+                "A. 穿黑色衬衫戴挂绳的两个男人在场景的右侧。",
+                "B. 穿黑色衬衫戴挂绳的两个男人在场景的左侧。",
+                "C. 穿黑色衬衫戴挂绳的两个男人在场景的中央。",
+                "D. 穿黑色衬衫戴挂绳的两个男人在主讲人后面。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_66": {
+            "id": "84EpEwIVFdU_66",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频的背景是什么？",
+            "options": [
+                "A. 视频发生在一个专业和播出的环境中。",
+                "B. 视频发生在一个休闲和非正式的环境中。",
+                "C. 视频发生在一个私人家庭聚会中。",
+                "D. 视频发生在一个课堂环境中。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_67": {
+            "id": "84EpEwIVFdU_67",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频中场景的重点是什么？",
+            "options": [
+                "A. 发光的餐桌边缘。",
+                "B. 那个穿着正式进行评论的男人。",
+                "C. 被一张台球桌主导。",
+                "D. 手持发光手机的观众。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_68": {
+            "id": "84EpEwIVFdU_68",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "穿黑衬衫和领结的男人在视频中扮演什么角色？",
+            "options": [
+                "A. 穿黑衬衫和领结的男人是一名记者。",
+                "B. 穿黑衬衫和领结的男人是一名裁判。",
+                "C. 穿黑衬衫和领结的男人正在提供解说或接受采访。",
+                "D. 穿黑衬衫和领结的男人是观众的一部分。"
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_69": {
+            "id": "84EpEwIVFdU_69",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "视频的右上角是否有'LIVE EUROSPORT 1'这个文字出现？",
+            "options": [
+                "A. 是，完全可见",
+                "B. 否，完全没有",
+                "C. 只有'LIVE'",
+                "D. 只有 'EUROSPORT 1'"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_70": {
+            "id": "84EpEwIVFdU_70",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "随着视频的进展，那个穿黑衣的男人做了什么动作？",
+            "options": [
+                "A. 穿黑衣的男人稍微向左移动。",
+                "B. 穿黑衣的男人向观众后退。",
+                "C. 穿黑衣的男人举手示意。",
+                "D. 穿黑衣的男人一动不动地站着。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_71": {
+            "id": "84EpEwIVFdU_71",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "随着视频的进行，背景观众成员会做出哪些动作？",
+            "options": [
+                "A. 背景观众成员喝彩以表现出参与感。",
+                "B. 背景观众成员离开座位退场。",
+                "C. 背景观众成员完全保持静止。",
+                "D. 背景观众成员全体起立鼓掌。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_72": {
+            "id": "84EpEwIVFdU_72",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "台球相对于边框的位置在哪里？",
+            "options": [
+                "A. 它们在边框的左下角附近。",
+                "B. 它们在边框的右上角附近。",
+                "C. 它们在边框的中央附近。",
+                "D. 它们在边框的左上角附近。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_73": {
+            "id": "84EpEwIVFdU_73",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "这个场景发生在哪里？",
+            "options": [
+                "A. 这个场景发生在音乐厅。",
+                "B. 这个场景发生在斯诺克赛事现场。",
+                "C. 这个场景发生在法庭里。",
+                "D. 这个场景发生在一间休闲咖啡馆。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_74": {
+            "id": "84EpEwIVFdU_74",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "右边的那个人穿着什么？",
+            "options": [
+                "A. 一套棕色西装，搭配一件浅蓝色的衬衫和一条深蓝色领带",
+                "B. 一件棕色西装，搭配相同颜色的裤子和领带",
+                "C. 一件灰色外套，配白色衬衫和红色领带",
+                "D. 一件灰色外套，配粉色衬衫和条纹领带"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_75": {
+            "id": "84EpEwIVFdU_75",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "斯诺克台球桌上显示的是哪个品牌名称？",
+            "options": [
+                "A. Riley",
+                "B. Strachan",
+                "C. Brunswick",
+                "D. Peradon"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_76": {
+            "id": "84EpEwIVFdU_76",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "镜框中有多少个台球是可见的?",
+            "options": [
+                "A. 镜框中有三个可见的台球。",
+                "B. 镜框中有四个可见的台球。",
+                "C. 镜框中有五个可见的台球。",
+                "D. 镜框中有六个可见的台球。"
+            ],
+            "answer": "D"
+        },
+        "84EpEwIVFdU_77": {
+            "id": "84EpEwIVFdU_77",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "新场景中手持麦克风在哪里？",
+            "options": [
+                "A. 在黑色西装男子手中。",
+                "B. 在棕色西装男子手中。",
+                "C. 在观众的手中。",
+                "D. 手持麦克风不再存在。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_78": {
+            "id": "84EpEwIVFdU_78",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "穿棕色西装的那个人在做什么？",
+            "options": [
+                "A. 穿棕色西装的男人拿着麦克风在唱歌。",
+                "B. 穿棕色西装的男人把麦克风对着另一个人。",
+                "C. 穿棕色西装的男人安静地坐着观察比赛。",
+                "D. 穿棕色西装的男人正在和穿黑色西装的人打斯诺克。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_79": {
+            "id": "84EpEwIVFdU_79",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "左边的那个人是用哪只手拿着台球杆？",
+            "options": [
+                "A. 左边的那个人用左手拿着台球杆。",
+                "B. 左边的那个人用双手拿着台球杆。",
+                "C. 左边的那个人用右手拿着台球杆。",
+                "D. 左边的那个人没有拿着台球杆。"
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_80": {
+            "id": "84EpEwIVFdU_80",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "镜头是如何平衡地展示两个人之间和一张台球桌的互动？",
+            "options": [
+                "A. 中景镜头能平衡地展示互动。",
+                "B. 特写镜头能平衡地展示互动。",
+                "C. 全景镜头能平衡地展示互动。",
+                "D. 航拍镜头能平衡地展示互动。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_81": {
+            "id": "84EpEwIVFdU_81",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "拿着台球杆的人是什么姿势？",
+            "options": [
+                "A. 拿着台球杆的人放松的站着。",
+                "B. 拿着台球杆的人僵硬的站着。",
+                "C. 拿着台球杆的人放松的坐着。",
+                "D. 拿着台球杆的人僵硬的坐着"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_82": {
+            "id": "84EpEwIVFdU_82",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "框架的焦点发生了什么变化？",
+            "options": [
+                "A. 焦点转移到了两个人及其周围环境。",
+                "B. 焦点转移到了观众及其反应。",
+                "C. 焦点转移到了拿着麦克风的核心人物。",
+                "D. 焦点转移到了记分牌和比赛得分。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_83": {
+            "id": "84EpEwIVFdU_83",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "画面右上角显示的是哪个频道？",
+            "options": [
+                "A. ESPN",
+                "B. BBC Sport",
+                "C. Sky Sports",
+                "D. EUROSPORT 1"
+            ],
+            "answer": "D"
+        },
+        "84EpEwIVFdU_84": {
+            "id": "84EpEwIVFdU_84",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "右上角的'MrQ'代表什么？",
+            "options": [
+                "A. 视觉上的'MrQ'表示额外的广播详情。",
+                "B. 视觉上的'MrQ'表示解说员的名字。",
+                "C. 视觉上的'MrQ'指的是麦克风的位置。",
+                "D. 视觉上的'MrQ'显示比赛间隔倒计时。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_85": {
+            "id": "84EpEwIVFdU_85",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "穿黑衣的男人在画面中的哪个位置？",
+            "options": [
+                "A. 穿黑衣的男人位于画面左边缘附近。",
+                "B. 穿黑衣的男人位于画面中心附近。",
+                "C. 穿黑衣的男人位于画面右上角。",
+                "D. 穿黑衣的男人位于画面远处的背景中。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_86": {
+            "id": "84EpEwIVFdU_86",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "活动现场的专业氛围是怎样的？",
+            "options": [
+                "A. 环境专业且充满活力。",
+                "B. 环境安静且低调。",
+                "C. 环境混乱且无序。",
+                "D. 环境非正式且轻松。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_87": {
+            "id": "84EpEwIVFdU_87",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "活动场景中使用了什么样的灯光？",
+            "options": [
+                "A. 灯光是紫色暗淡的。",
+                "B. 灯光是红色昏暗而柔和。",
+                "C. 灯光是黄色明亮而刺眼。",
+                "D. 灯光是绿色柔和且有氛围感。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_88": {
+            "id": "84EpEwIVFdU_88",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "活动现场氛围如何？",
+            "options": [
+                "A. 活动现场混乱无序，观众四处走动。",
+                "B. 活动现场观众活跃，喝彩互动。",
+                "C. 观众大多安静地坐着，互动很少。",
+                "D. 活动现场空无一人，没有可见的人物。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_89": {
+            "id": "84EpEwIVFdU_89",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "在活动开始时，黑衣男子做了什么手势？",
+            "options": [
+                "A. 黑衣男子最初做出思考沉思的手势。",
+                "B. 黑衣男子最初朝观众做出庆祝性的手势。",
+                "C. 黑衣男子最初用球杆指向活动工作人员。",
+                "D. 黑衣男子最初将双手举过头顶，摆出胜利的姿势。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_90": {
+            "id": "84EpEwIVFdU_90",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "黑衣男子在活动后期做了什么手势？",
+            "options": [
+                "A. 黑衣男子的手势变成了挥别动作。",
+                "B. 黑衣男子的手势变成了沉思动作。",
+                "C. 黑衣男子的手势变成了不屑动作。",
+                "D. 黑衣男子的手势变成了防卫动作。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_91": {
+            "id": "84EpEwIVFdU_91",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "在画面中有多少个“LIVE”叠加层可见？",
+            "options": [
+                "A. 一个“LIVE”叠加层",
+                "B. 两个“LIVE”叠加层",
+                "C. 三个“LIVE”叠加层",
+                "D. 没有“LIVE”叠加层"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_92": {
+            "id": "84EpEwIVFdU_92",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "在这些画面中有多少个“EUROSPORT 1”叠加标志可见？",
+            "options": [
+                "A. 一个“EUROSPORT 1”叠加标志可见。",
+                "B. 两个“EUROSPORT 1”叠加标志可见。",
+                "C. 三个“EUROSPORT 1”叠加标志可见。",
+                "D. 没有“EUROSPORT 1”叠加标志可见。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_93": {
+            "id": "84EpEwIVFdU_93",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "画面中央那个穿黑衣的男人戴着领带吗？",
+            "options": [
+                "A. 是的，那个穿黑衣的男人戴着领带。",
+                "B. 不，那个穿黑衣的男人什么都没戴。",
+                "C. 不，那个穿黑衣的男人戴的是领结。",
+                "D. 不，那个穿黑衣的男人戴着围巾。"
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_94": {
+            "id": "84EpEwIVFdU_94",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "这个男人使用球杆的方式是什么样的？",
+            "options": [
+                "A. 这个男人垂直握着球杆。",
+                "B. 这个男人水平握着球杆。",
+                "C. 这个男人挥动着球杆。",
+                "D. 这个男人的球杆只是放在桌子上。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_95": {
+            "id": "84EpEwIVFdU_95",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "哪个视觉元素表明比赛在一个特定频道播出？",
+            "options": [
+                "A. 右上角的 'EUROSPORT 1' 叠加显示表明比赛在这个特定频道播出。",
+                "B. 事件屏障上的蓝白图案表明比赛在一个特定频道播出。",
+                "C. 参与者的正式服装上的MrQ表明比赛在一个特定频道播出。",
+                "D. 右上角的 'LIVE'表明比赛在一个特定频道播出。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_96": {
+            "id": "84EpEwIVFdU_96",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "背景如何在环境中影响男人？",
+            "options": [
+                "A. 黑暗的、阴影的背景与他上半身集中的温暖灯光形成对比。",
+                "B. 明亮、多彩的背景与男人的服装相融合，营造出一种充满活力的氛围。",
+                "C. 背景上有各种斯诺克相关的图像，与男人的环境融为一体。",
+                "D. 充满活力和拥挤的背景保持了高能量，并与男人轻松的姿态形成对比。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_97": {
+            "id": "84EpEwIVFdU_97",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "视频中的环境是怎样的？",
+            "options": [
+                "A. 环境平静，背景为深色、中性。",
+                "B. 环境热闹，充满热闹的观众。",
+                "C. 环境平静，背景为清冷的蓝色。",
+                "D. 环境热闹，背景为明亮的黄色。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_98": {
+            "id": "84EpEwIVFdU_98",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "在环境中，这个男人的穿着是什么样的？",
+            "options": [
+                "A. 这个男人穿着一件带有白色几何三角形图案的黑色T恤。",
+                "B. 这个男人穿着正式的西服服装。",
+                "C. 这个男人穿着一件带蓝色条纹的白衬衫。",
+                "D. 这个男人穿着一件红色毛衣。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_99": {
+            "id": "84EpEwIVFdU_99",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "这个男人在环境中的举止如何？",
+            "options": [
+                "A. 这个男人表现出一种从容的举止，姿态放松。",
+                "B. 这个男人显得紧张且不自在。",
+                "C. 这个男人积极地用手势表达并大声说话。",
+                "D. 这个男人站着并在房间里来回踱步。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_100": {
+            "id": "84EpEwIVFdU_100",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "男人坐的椅子是什么样的？",
+            "options": [
+                "A. 椅子是深色皮革制作的。",
+                "B. 椅子是由闪亮的金属材料制成的。",
+                "C. 椅子是木质的，并带有复杂的雕刻。",
+                "D. 椅子是鲜红色的布料制成的。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_101": {
+            "id": "84EpEwIVFdU_101",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "背景中有多少可见的文字元素？",
+            "options": [
+                "A. 有两个可见的文字元素。",
+                "B. 有三个可见的文字元素。",
+                "C. 有四个可见的文字元素。",
+                "D. 有一个可见的文字元素。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_102": {
+            "id": "84EpEwIVFdU_102",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "背景左上角的文字是什么？",
+            "options": [
+                "A. SUBSCRIBE",
+                "B. SIGN UP",
+                "C. WATCH NOW",
+                "D. FOLLOW US"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_103": {
+            "id": "84EpEwIVFdU_103",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "背景左下角附近的文字是什么？",
+            "options": [
+                "A. 'MORE SNOOKER'",
+                "B. 'SUBSCRIBE NOW'",
+                "C. 'NEXT MATCH'",
+                "D. 'WATCH LIVE'"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_104": {
+            "id": "84EpEwIVFdU_104",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "男人的姿势在后续帧中是否发生了变化？",
+            "options": [
+                "A. 是的，男人的姿势在后续帧中发生了大幅度变化。",
+                "B. 不，男人的姿势在后续帧中保持稳定一致。",
+                "C. 是的，男人在后续帧中高频率改变他的姿势。",
+                "D. 是的，男人在后续帧中身子前倾。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_105": {
+            "id": "84EpEwIVFdU_105",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "在场景中，这个男人用他的右臂做了什么？",
+            "options": [
+                "A. 男人的右臂举起，指向前方。",
+                "B. 男人的右前臂以休闲的方式放着。",
+                "C. 男人的右手盖住了他的脸。",
+                "D. 男人的右臂交叉在胸前。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_106": {
+            "id": "84EpEwIVFdU_106",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "构图的场景是哪种相机设置？",
+            "options": [
+                "A. 控制良好的专业视频拍摄设置，有集中暖光、简约的构图。",
+                "B. 非正式的博客设置，有自然光和杂乱的背景。",
+                "C. 自发的户外设置，有明亮的阳光和繁忙的环境。",
+                "D. 随意的家庭视频布局，有混合光线和背景中的随机物品。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_107": {
+            "id": "84EpEwIVFdU_107",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "文本元素“SUBSCRIBE”（订阅）和“MORE SNOOKER”（更多斯诺克）变得清晰可读的速度有多快？",
+            "options": [
+                "A. “SUBSCRIBE”和“MORE SNOOKER”在后续画面中逐渐变得清晰可读，没有显示出快速的变化。",
+                "B. “SUBSCRIBE”和“MORE SNOOKER”在过渡到昏暗背景后立即变得清晰可读。",
+                "C. 文本元素“SUBSCRIBE”和“MORE SNOOKER”始终模糊，从未变得清晰可读。",
+                "D. 文本元素“SUBSCRIBE”和“MORE SNOOKER”在过渡后完全消失。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_108": {
+            "id": "84EpEwIVFdU_108",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "在两帧之间属性可见性的主要变化是什么？",
+            "options": [
+                "A. 字样'SUBSCRIBE' 和 'MORE SNOOKER'变得更模糊不清。",
+                "B. 字样'SUBSCRIBE' 和 'MORE SNOOKER'变得更清晰可见。",
+                "C. 背景从黑色过渡为白色。",
+                "D. 灯光变得更明亮，更加聚焦在男子的下半身。"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_109": {
+            "id": "84EpEwIVFdU_109",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "哪些文字元素对场景的宣传性质有所贡献？",
+            "options": [
+                "A. 类似'SUBSCRIBE' 和 'MORE SNOOKER'这样的文字元素。",
+                "B. 视频中出现的大量观众以及展现的竞技紧张感。",
+                "C. 添加了解释斯诺克规则的字幕。",
+                "D. 开场画面中男子打斯诺克时穿着正式的服装。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_110": {
+            "id": "84EpEwIVFdU_110",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "文本 'SUBSCRIBE' 在最终静态构图中的位置在哪里？",
+            "options": [
+                "A. 文本 'SUBSCRIBE' 在最终静态构图中的位置是画面的左上角。",
+                "B. 文本 'SUBSCRIBE' 在最终静态构图中的位置是画面的左下角。",
+                "C. 文本 'SUBSCRIBE' 在最终静态构图中的位置是画面的中央。",
+                "D. 文本 'SUBSCRIBE' 在最终静态构图中的位置是画面的右上角。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_111": {
+            "id": "84EpEwIVFdU_111",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "当这个男人从画面中消失后，场景中还剩下什么？",
+            "options": [
+                "A. 当这个男人消失后，场景中显示一个漆黑的背景，左上角写着'SUBSCRIBE'，左下角写着'MORE SNOOKER'。",
+                "B. 当这个男人消失后，场景中显示一个明亮的背景，上面有宣传横幅，彩色的斯诺克球散布在屏幕上。",
+                "C. 当这个男人消失后，场景转变为一个纯白的背景，没有文字或其他元素。",
+                "D. 当这个男人消失后，场景展现出一个活力四射的斯诺克台，并有玩家正在积极参与。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_112": {
+            "id": "84EpEwIVFdU_112",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "在最初的场景中，那个男人的姿势是如何描述的？",
+            "options": [
+                "A. 挺直而正式",
+                "B. 放松地坐在中央",
+                "C. 懒散地向一侧倾斜",
+                "D. 僵硬而紧张，双臂交叉"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_113": {
+            "id": "84EpEwIVFdU_113",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "在整个过渡过程中，哪些文本元素始终在显示？",
+            "options": [
+                "A. 'SUBSCRIBE' 和 'MORE SNOOKER'",
+                "B. 'COMMENT' 和 'LIKE VIDEO'",
+                "C. 'WATCH LATER' 和 'SHARE'",
+                "D. 'JOIN NOW' 和 'UP NEXT'"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_114": {
+            "id": "84EpEwIVFdU_114",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "在那个人消失后，画面中有任何移动吗？",
+            "options": [
+                "A. 是的，有显著的移动，并出现了新的人物。",
+                "B. 是的，那个人消失后，光线发生了显著变化。",
+                "C. 不，那个人消失后，画面中没有任何移动。",
+                "D. 是的，出现了额外的物体来填充场景。"
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_115": {
+            "id": "84EpEwIVFdU_115",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "在那个男人消失后，画面里还有深度吗？",
+            "options": [
+                "A. 是的，背景元素复杂，深度很大。",
+                "B. 是的，场景变得更具动感和充满深度。",
+                "C. 不，在男人消失后，画面里没有深度。",
+                "D. 不，但画面因新元素的加入变得更加杂乱。"
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_116": {
+            "id": "84EpEwIVFdU_116",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "男子消失后，周围的灯光发生了什么变化？",
+            "options": [
+                "A. 周围的灯光逐渐变成完全的纯黑。",
+                "B. 房间被聚光灯照得明亮。",
+                "C. 周围的灯光转变为深蓝色。",
+                "D. 灯光变成柔和的暖黄色。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_117": {
+            "id": "84EpEwIVFdU_117",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "在极简主义画面中使用了哪些视觉提示来引导观众的注意力？",
+            "options": [
+                "A. 字母“SUBSCRIBE”和“MORE SNOOKER”。",
+                "B. 背景中色彩鲜艳的气球。",
+                "C. 男人色彩斑斓的几何图案T恤。",
+                "D. 不断的运动和动态的斯诺克场景。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_118": {
+            "id": "84EpEwIVFdU_118",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频最初关注的是什么？",
+            "options": [
+                "A. 视频最初聚焦于两个人物。",
+                "B. 视频最初聚焦于一个坐在皮椅上的男子。",
+                "C. 视频最初聚焦于“SUBSCRIBE”和“MORE SNOOKER”这两个元素。",
+                "D. 视频最初聚焦于一个完全空白的画面。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_119": {
+            "id": "84EpEwIVFdU_119",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "什么事件标志着从繁忙的斯诺克场景转变到极简主义环境？",
+            "options": [
+                "A. 场景过渡到一个平静、内省的环境，男人坐在一张皮椅上。",
+                "B. 斯诺克比赛突然在响亮的宣告和闪烁的灯光中结束。",
+                "C. 男人站起来走开，留下空荡荡的斯诺克台。",
+                "D. 摄像机拉近镜头，详细拍摄斯诺克球的特写。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_120": {
+            "id": "84EpEwIVFdU_120",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "当镜头对准身穿黑色西装的男子时，观众的可见度发生了什么变化？",
+            "options": [
+                "A. 随着镜头逐渐拉近身穿黑色西装的男子，观众逐渐淡出焦点。",
+                "B. 随着镜头逐渐拉近身穿黑色西装的男子，观众立刻淡出焦点。",
+                "C. 镜头对准男子的瞬间，观众立刻从视野中消失。",
+                "D. 即使镜头对准男子，观众仍然不可见。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_121": {
+            "id": "84EpEwIVFdU_121",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在比赛场景中，那个穿黑色西装的男人的角色是什么？",
+            "options": [
+                "A. 他是一名职业斯诺克球员。",
+                "B. 他是观众的一员。",
+                "C. 他是活动的组织者。",
+                "D. 他是保安。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_122": {
+            "id": "84EpEwIVFdU_122",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "极简的场景如何提升视频叙事的效果？",
+            "options": [
+                "A. 极简的场景将焦点转移到对主题平静且亲密的呈现。",
+                "B. 极简的场景强调了台球活动的混乱和活力。",
+                "C. 极简的场景通过引入不必要的复杂性和混淆削弱了对主题的表达。",
+                "D. 极简的场景完全去除了任何宣传背景。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_123": {
+            "id": "84EpEwIVFdU_123",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "从观众视角切换回主角时，摄影机首先捕捉到什么？",
+            "options": [
+                "A. 摄影机捕捉到观众鼓掌并参与到活动中。",
+                "B. 摄影机捕捉到坐在黑色皮椅上的男人。",
+                "C. 摄影机捕捉到有选手的斯诺克球桌。",
+                "D. 摄影机捕捉到宣传文字‘SUBSCRIBE’和‘MORE SNOOKER’。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_124": {
+            "id": "84EpEwIVFdU_124",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在展示观众的过渡过程中，镜头接下来聚焦于什么？",
+            "options": [
+                "A. 镜头聚焦在穿黑色衬衫的男子。",
+                "B. 镜头对准斯诺克球台。",
+                "C. 镜头切换到整个斯诺克场馆的广角镜头，捕捉观众的反应和整体气氛。",
+                "D. 镜头放大记分板，显著显示当前比分和球员统计。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_125": {
+            "id": "84EpEwIVFdU_125",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "采访场景中，穿黑色西装的男子说完之后如何过度?",
+            "options": [
+                "A. 视频过渡到更广泛的视角，随后突出动态比赛画面和记分牌。",
+                "B. 视频切换到一个动画片段，展示斯诺克球在球桌上的滚动。",
+                "C. 场景转换到对斯诺克赛事幕后制作设置的幕后探秘。",
+                "D. 转向一个由著名解说员讲述的斯诺克名局历史回顾。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_126": {
+            "id": "84EpEwIVFdU_126",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频最后几个画面的构图发生了哪些变化？",
+            "options": [
+                "A. 仅剩下黑色背景和“SUBSCRIBE”和“MORE SNOOKER”的文字元素作为焦点。",
+                "B. 场景变得拥挤，新人物出现并伴随着亮丽的色彩和各种复杂的元素。",
+                "C. 中央人物重新出现，带回了充满活力的斯诺克场景和动态视觉效果。",
+                "D. 灯光加强，添加了多个文字元素，盖过了中央人物的回归。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_127": {
+            "id": "84EpEwIVFdU_127",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么视频聚焦于穿黑色衬衫的那个人？",
+            "options": [
+                "A. 为了突出这位选手通过采访或评论的互动。",
+                "B. 为了展示这位选手的时尚品味。",
+                "C. 为了推广黑色T恤的品牌。",
+                "D. 为了展示活动中的灯光效果。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_128": {
+            "id": "84EpEwIVFdU_128",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么在简约的框架中包含 'SUBSCRIBE' 文本？",
+            "options": [
+                "A. 包含'SUBSCRIBE'文本是作为一种促销元素，以鼓励观众订阅。",
+                "B. 包含'SUBSCRIBE'文本是为了给场景提供一个装饰元素。",
+                "C. 包含'SUBSCRIBE'文本是为了向观众介绍斯诺克规则。",
+                "D. 包含'SUBSCRIBE'文本是为了表示视频结束。"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_129": {
+            "id": "84EpEwIVFdU_129",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么在极简主义框架中包含'MORE SNOOKER'文本？",
+            "options": [
+                "A. 包含'MORE SNOOKER'文本是为了让观众进一步参与斯诺克相关的内容。",
+                "B. 包含'MORE SNOOKER'文本是为了为场景提供装饰元素。",
+                "C. 包含'MORE SNOOKER'文本是为了表示视频的结束。",
+                "D. 包含'MORE SNOOKER'文本是为了向观众介绍斯诺克规则。"
+            ],
+            "answer": "A"
+        }
+    }
+}

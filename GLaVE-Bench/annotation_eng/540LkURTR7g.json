@@ -1,0 +1,1549 @@
+{
+    "scene_hint": {
+        "0": "An opening speech by a woman wearing a blue cardigan.",
+        "1": "A hand holding a glass filled with water.",
+        "2": "A long shot of the person in the blue cardigan explaining alone.",
+        "3": "Introducing a water cup with a straw.",
+        "4": "Seasoning is added to a glass.",
+        "5": "Close-up shots of a glass of lemon water interspersed within a scene of the woman explaining alone.",
+        "6": "The finishing touches on making a cup of red hot tea.",
+        "7": "The girl in the blue jacket is introducing the water she's holding.",
+        "8": "A still image with a white background, blue text, and a website URL."
+    },
+    "qa": {
+        "540LkURTR7g_0": {
+            "id": "540LkURTR7g_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the woman in the blue coat located in the scene?",
+            "options": [
+                "A. This person is near the center of the frame.",
+                "B. This person is near the left side of the frame.",
+                "C. This person is near the right side of the frame.",
+                "D. This person is near the background of the frame."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_1": {
+            "id": "540LkURTR7g_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of this scene like?",
+            "options": [
+                "A. The environment is an outdoor scene with bright natural light and a busy cityscape background, creating a dynamic atmosphere.",
+                "B. The environment is an indoor scene with a background of soft beige and paneling with vertical stripes, creating a professional and neutral atmosphere.",
+                "C. The environment features a colorful background with abstract patterns and dim ambient lighting, creating an artistic and casual atmosphere.",
+                "D. The environment is a dimly lit room with heavy shadows and a cluttered background, creating a chaotic atmosphere."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_2": {
+            "id": "540LkURTR7g_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is this person's hair like in the scene?",
+            "options": [
+                "A. This person has long, straight, light brown hair.",
+                "B. This person has short, wavy blonde hair.",
+                "C. This person has curly dark brown hair.",
+                "D. This person has short hair with bangs."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_3": {
+            "id": "540LkURTR7g_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the person in the scene wearing?",
+            "options": [
+                "A. The person is wearing a blue cardigan with buttons, with a black top underneath.",
+                "B. The person is wearing a green cardigan with a zipper, with a white shirt underneath.",
+                "C. The person is wearing a beige cardigan without buttons, with a black shirt underneath.",
+                "D. The person is wearing a blue sweater with a patterned design, with a black shirt underneath."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_4": {
+            "id": "540LkURTR7g_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is clipped in the collar area of the person's cardigan?",
+            "options": [
+                "A. A lapel microphone",
+                "B. A decorative brooch",
+                "C. A name tag",
+                "D. A pen"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_5": {
+            "id": "540LkURTR7g_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many text elements are on the white banner at the bottom of the frame?",
+            "options": [
+                "A. Two text elements",
+                "B. Three text elements",
+                "C. Four text elements",
+                "D. One text element"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_6": {
+            "id": "540LkURTR7g_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the text content on the white banner at the bottom of the frame?",
+            "options": [
+                "A. 'CHI Health' logo, name 'Ellen Thomsen', and title 'Dietitian'.",
+                "B. 'CHI Health' logo, name 'Ellen Thomsen', and title 'Nutritionist'.",
+                "C. 'CHI Health' logo, name 'Ellen Thompson', and title 'Dietitian'.",
+                "D. 'CHI Health' logo and name 'Ellen Thomsen', without any title."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_7": {
+            "id": "540LkURTR7g_7",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "Is the background free of distractions?",
+            "options": [
+                "A. Yes, the background is free of distractions.",
+                "B. No, the background is cluttered with various items.",
+                "C. The background is somewhat distracting because the decorations are too elaborate.",
+                "D. The background is filled with bright and chaotic patterns."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_8": {
+            "id": "540LkURTR7g_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "As the scene progresses, what appears at the bottom of the screen?",
+            "options": [
+                "A. A white banner with text elements and a logo.",
+                "B. Colorful animations with various symbols.",
+                "C. Scrolling text highlighting the latest news.",
+                "D. A series of images showcasing different products."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_9": {
+            "id": "540LkURTR7g_9",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the white banner located in the scene?",
+            "options": [
+                "A. The white banner is at the top of the frame.",
+                "B. The white banner is at the bottom of the frame.",
+                "C. The white banner is on the left side of the frame.",
+                "D. The white banner is on the right side of the frame."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_10": {
+            "id": "540LkURTR7g_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used in the scene?",
+            "options": [
+                "A. A close-up shot of the face is used.",
+                "B. A shot from the torso to the head is used.",
+                "C. A full-body shot is used.",
+                "D. An over-the-shoulder shot is used."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_11": {
+            "id": "540LkURTR7g_11",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What kind of camera angles were used in the scene?",
+            "options": [
+                "A. A central camera angle was used.",
+                "B. A side profile camera angle was used.",
+                "C. A top-down camera angle was used.",
+                "D. An over-the-shoulder camera angle was used."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_12": {
+            "id": "540LkURTR7g_12",
+            "scene": 0,
+            "dimension": "Speed",
+            "question": "How is the white banner presented in terms of speed?",
+            "options": [
+                "A. The white banner appears gradually at a steady and progressive speed.",
+                "B. The white banner appears instantly, with almost no transition.",
+                "C. The white banner is always in the scene, not involving speed.",
+                "D. The white banner appears slowly, taking a long time."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_13": {
+            "id": "540LkURTR7g_13",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is the color of the logo on the white banner?",
+            "options": [
+                "A. Blue and green.",
+                "B. Yellow and green.",
+                "C. Pure blue.",
+                "D. Black and green."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_14": {
+            "id": "540LkURTR7g_14",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What does the blue text on the white banner say?",
+            "options": [
+                "A. 'CHI Health'",
+                "B. 'CHI Care'",
+                "C. 'CHI Wellness'",
+                "D. 'CHI Medical'"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_15": {
+            "id": "540LkURTR7g_15",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What does the black bold name on the white banner show?",
+            "options": [
+                "A. 'Ellen Thomsen'",
+                "B. 'Emma Thompson'",
+                "C. 'Ethan Thornton'",
+                "D. 'Ella Thomson'"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_16": {
+            "id": "540LkURTR7g_16",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What does the title text on the white banner display?",
+            "options": [
+                "A. 'Dietitian'",
+                "B. 'Nutritionist'",
+                "C. 'Health Consultant'",
+                "D. 'Fitness Coach'"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_17": {
+            "id": "540LkURTR7g_17",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the yellow bowl located at the beginning of the scene?",
+            "options": [
+                "A. On the left side of the screen.",
+                "B. On the right side of the screen.",
+                "C. At the bottom of the screen.",
+                "D. At the top of the screen."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_18": {
+            "id": "540LkURTR7g_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What kind of overall environment does this scene take place in?",
+            "options": [
+                "A. This scene is set in a cozy, kitchen-like home environment with warm, natural, earthy tones in the background.",
+                "B. This scene is set in a high-tech laboratory with bright white lights and metallic equipment.",
+                "C. This scene is set in an outdoor garden with vibrant flowers and sunlight streaming in.",
+                "D. This scene is set in a dimly lit living room with warm-toned furniture and a fireplace."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_19": {
+            "id": "540LkURTR7g_19",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What can be observed about the age of the hand holding the glass?",
+            "options": [
+                "A. The hand appears aged, with slight wrinkles.",
+                "B. The hand looks young and smooth.",
+                "C. The hand shows the firmness of a middle-aged person.",
+                "D. The hand is adorned with heavy jewelry, indicating it is a young person's hand."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_20": {
+            "id": "540LkURTR7g_20",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What color nail polish is applied to the nails of the hand holding the glass?",
+            "options": [
+                "A. The nails are painted with red nail polish.",
+                "B. The nails are painted with green nail polish.",
+                "C. The nails are painted with pink nail polish.",
+                "D. The nails are painted with silver nail polish."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_21": {
+            "id": "540LkURTR7g_21",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the visibility of veins on the hand holding a glass?",
+            "options": [
+                "A. The veins are not visible.",
+                "B. The veins are visible.",
+                "C. The veins are blurry.",
+                "D. The veins are uncertain."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_22": {
+            "id": "540LkURTR7g_22",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What observable decorations are on the hand holding the glass?",
+            "options": [
+                "A. The hand is wearing a pure gold ring.",
+                "B. The hand is wearing multiple silver rings.",
+                "C. The hand has no visible decorations.",
+                "D. The hand is wearing a bracelet."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_23": {
+            "id": "540LkURTR7g_23",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What is in the yellow bowl?",
+            "options": [
+                "A. The yellow bowl is filled with green limes.",
+                "B. The yellow bowl is filled with red apples.",
+                "C. The yellow bowl is filled with orange carrots.",
+                "D. The yellow bowl is filled with blueberries."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_24": {
+            "id": "540LkURTR7g_24",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many hands can be seen during the process of pouring water?",
+            "options": [
+                "A. One hand can be seen.",
+                "B. Two hands can be seen.",
+                "C. Three hands can be seen.",
+                "D. Four hands can be seen."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_25": {
+            "id": "540LkURTR7g_25",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where does the water come from?",
+            "options": [
+                "A. Faucet",
+                "B. Glass",
+                "C. Plastic bottle",
+                "D. Water jug"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_26": {
+            "id": "540LkURTR7g_26",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What adjustments do the hand and cup make when pouring water?",
+            "options": [
+                "A. During the pouring process, the hand and cup move significantly.",
+                "B. In the middle of the scene, the hand and cup were replaced.",
+                "C. During the pouring process, the hand and cup only made slight adjustments.",
+                "D. When pouring water, the cup is placed on the countertop."
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_27": {
+            "id": "540LkURTR7g_27",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "What is the direction of the water flow?",
+            "options": [
+                "A. The water flows upward into the glass.",
+                "B. The water flows diagonally into the glass.",
+                "C. The water flows downward into the glass.",
+                "D. The water flows sideways into the glass."
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_28": {
+            "id": "540LkURTR7g_28",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "What is the speed of the water being poured out?",
+            "options": [
+                "A. The water is poured out at a fast and uneven speed.",
+                "B. The water is poured out at a steady and uniform speed.",
+                "C. The water is poured out in short bursts.",
+                "D. The water is poured out very slowly, almost dripping."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_29": {
+            "id": "540LkURTR7g_29",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "In this scenario, how does the water level in the glass change?",
+            "options": [
+                "A. Throughout the entire scenario, the water level in the glass remains unchanged.",
+                "B. The water level in the glass rises from empty to about half full.",
+                "C. The water level in the glass rises from empty to nearly full.",
+                "D. The water level in the glass fluctuates but does not exceed half full."
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_30": {
+            "id": "540LkURTR7g_30",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What additional visual changes occur to the glass in the scene?",
+            "options": [
+                "A. The water turned into a soft yellow.",
+                "B. Bubble formation caused the clear water to become cloudy.",
+                "C. Cracks appeared in the glass when water was poured in.",
+                "D. The water level did not rise but instead fell."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_31": {
+            "id": "540LkURTR7g_31",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What visual elements in the scene help create a warm and cozy atmosphere?",
+            "options": [
+                "A. A warm-toned background, soft natural light, a yellow bowl with green limes, and blurred decorations together create a cozy atmosphere.",
+                "B. A bright office environment, multiple computer screens, and the presence of modern furniture establish a comfortable atmosphere.",
+                "C. A cool-toned background, sharp artificial lighting, stainless steel appliances, and clear decorations together create a cozy atmosphere.",
+                "D. White walls, minimalist decor, a glass vase with fresh flowers, and an orderly bookshelf establish a comfortable atmosphere."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_32": {
+            "id": "540LkURTR7g_32",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "Where were the woman's hands initially positioned?",
+            "options": [
+                "A. Her hands were hanging at her sides.",
+                "B. Her hands were on her chest.",
+                "C. Her hands were behind her body.",
+                "D. Her hands were on the table."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_33": {
+            "id": "540LkURTR7g_33",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the scene?",
+            "options": [
+                "A. The scene is set in a well-lit indoor environment with neutral beige walls.",
+                "B. The scene is set in a dimly lit outdoor park with a background of vibrant flowers.",
+                "C. The scene is set in a busy office with desks and computers.",
+                "D. The scene is set on a colorful stage with dramatic lighting effects and a live audience."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_34": {
+            "id": "540LkURTR7g_34",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the woman wearing in the scene?",
+            "options": [
+                "A. The woman is wearing a bright blue wool sweater with a black top underneath.",
+                "B. The woman is wearing a red blazer with a white shirt underneath, paired with a silver necklace.",
+                "C. The woman is wearing a green dress with a gold belt and matching earrings.",
+                "D. The woman is wearing a yellow sweater, paired with a floral scarf and a pearl bracelet."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_35": {
+            "id": "540LkURTR7g_35",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many pieces of jewelry is the lady wearing?",
+            "options": [
+                "A. The lady is wearing one piece of jewelry.",
+                "B. The lady is wearing two pieces of jewelry.",
+                "C. The lady is wearing three pieces of jewelry.",
+                "D. The lady is not wearing any jewelry at all."
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_36": {
+            "id": "540LkURTR7g_36",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What jewelry is this lady wearing?",
+            "options": [
+                "A. A gold necklace worn around her neck",
+                "B. A pair of silver earrings",
+                "C. A simple ring worn on the ring finger of her right hand",
+                "D. A bracelet worn on her left wrist"
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_37": {
+            "id": "540LkURTR7g_37",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Is the woman holding an object throughout the entire scene?",
+            "options": [
+                "A. Yes, she is holding an object throughout the entire scene.",
+                "B. No, she is only holding an object in the latter part of the scene.",
+                "C. Yes, but the object is not clearly shown.",
+                "D. No, she never holds an object in the scene."
+            ],
+            "answer": "D"
+        },
+        "540LkURTR7g_38": {
+            "id": "540LkURTR7g_38",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What item is the woman holding in the scene?",
+            "options": [
+                "A. She is holding a translucent blue water cup.",
+                "B. She is holding a purple book.",
+                "C. She is holding a black coffee cup.",
+                "D. She is holding a green water bottle."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_39": {
+            "id": "540LkURTR7g_39",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What did the woman do with her right hand at the beginning of the scene?",
+            "options": [
+                "A. She was holding a blue cup.",
+                "B. She adjusted her microphone.",
+                "C. She pointed at the camera.",
+                "D. She brushed her hair away from her face."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_40": {
+            "id": "540LkURTR7g_40",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "From the previous scene to this scene, when the woman's right hand re-enters the frame, in which direction does it move relative to the camera?",
+            "options": [
+                "A. Her right hand moves upward, holding a glass.",
+                "B. Her right hand moves to the left, holding a glass.",
+                "C. Her right hand moves downward, holding a glass.",
+                "D. Her right hand moves to the right, holding a glass."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_41": {
+            "id": "540LkURTR7g_41",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What change occurred in the camera's perspective just before the scene ended?",
+            "options": [
+                "A. The camera's perspective slightly moved down and zoomed in, providing a closer view of her face.",
+                "B. The camera's perspective slightly moved up and zoomed out, providing a larger view of her upper body.",
+                "C. The camera's perspective remained unchanged, focusing only on her hands.",
+                "D. The camera's perspective shifted to a side angle, focusing on her profile."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_42": {
+            "id": "540LkURTR7g_42",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens is used in the scene?",
+            "options": [
+                "A. A medium close-up lens is used, focusing on the upper body of the woman.",
+                "B. A wide-angle lens is used, capturing the entire body and surrounding environment.",
+                "C. A close-up lens is used, focusing solely on the woman's facial expressions.",
+                "D. An extreme long shot lens is used, capturing the woman from a great distance."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_43": {
+            "id": "540LkURTR7g_43",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "What is the woman's movement speed near the end of the scene?",
+            "options": [
+                "A. The woman moves quickly.",
+                "B. The woman moves slowly.",
+                "C. The woman alternates between fast and slow movements.",
+                "D. The woman does not move."
+            ],
+            "answer": "D"
+        },
+        "540LkURTR7g_44": {
+            "id": "540LkURTR7g_44",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "What happened to her right hand in the initial scene?",
+            "options": [
+                "A. Her right hand remained at shoulder height.",
+                "B. Her right hand was initially not in the frame but later appeared in the frame.",
+                "C. Her right hand was never in the frame.",
+                "D. Her right hand was initially in the frame but later disappeared from the frame."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_45": {
+            "id": "540LkURTR7g_45",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What suggests that the lady is speaking or giving a speech?",
+            "options": [
+                "A. The black clip-on microphone at the neckline of her cardigan",
+                "B. The bright blue cardigan she is wearing",
+                "C. The transparent blue water cup she later holds in the scene",
+                "D. The neutral beige wall in the background"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_46": {
+            "id": "540LkURTR7g_46",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the background of this woman?",
+            "options": [
+                "A. The background is bright blue.",
+                "B. The background is bright green.",
+                "C. The background is neutral beige.",
+                "D. The background is deep black."
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_47": {
+            "id": "540LkURTR7g_47",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the woman wearing in the scene?",
+            "options": [
+                "A. She is wearing a bright blue cardigan with a black top underneath.",
+                "B. She is wearing a red blazer with a white shirt underneath.",
+                "C. She is wearing a green sweater with a gray top underneath.",
+                "D. She is wearing a yellow cardigan with a black dress underneath."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_48": {
+            "id": "540LkURTR7g_48",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "Is the lighting in the scene glaring and uneven?",
+            "options": [
+                "A. Yes, the lighting is glaring and uneven.",
+                "B. No, the lighting is soft and even, highlighting the professional atmosphere of the scene.",
+                "C. The lighting is dim and unstable, making it difficult to concentrate.",
+                "D. The lighting is bright but uneven, adding a dramatic effect."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_49": {
+            "id": "540LkURTR7g_49",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "Will the camera angle change between the two scenes?",
+            "options": [
+                "A. Yes, the camera angle changes frequently.",
+                "B. No, the camera angle remains fixed and stable.",
+                "C. The camera angle changes occasionally.",
+                "D. The camera angle will move to different perspectives."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_50": {
+            "id": "540LkURTR7g_50",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used in the first half of the scene?",
+            "options": [
+                "A. This shot is a close-up, capturing the woman's upper body above the shoulders.",
+                "B. This shot is a wide-angle shot, capturing the entire scene and background.",
+                "C. This shot is a full-body shot, capturing the woman from head to toe.",
+                "D. This shot is a medium shot, capturing the woman's upper body above the waist."
+            ],
+            "answer": "D"
+        },
+        "540LkURTR7g_51": {
+            "id": "540LkURTR7g_51",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "Will the speed of the scene content change?",
+            "options": [
+                "A. Yes, there is a noticeable speed change.",
+                "B. No, the speed of the scene content will not change.",
+                "C. The scene will accelerate at key points.",
+                "D. The speed will fluctuate based on the audio content."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_52": {
+            "id": "540LkURTR7g_52",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "Has the movement of the camera changed?",
+            "options": [
+                "A. Yes, the camera often moves to follow her actions.",
+                "B. No, the camera remains fixed and stable.",
+                "C. Yes, the camera occasionally pans around the room.",
+                "D. No, the camera slightly zooms in and out."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_53": {
+            "id": "540LkURTR7g_53",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "In the close-up drink scene, what is the relationship between the clearest lime and the position of the glass?",
+            "options": [
+                "A. The whole lime is in the foreground, located on the left side of the frame.",
+                "B. The whole lime is right behind the glass.",
+                "C. The whole lime is floating inside the glass.",
+                "D. The whole lime is placed on top of the glass."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_54": {
+            "id": "540LkURTR7g_54",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the environment related to the woman in the first scene like?",
+            "options": [
+                "A. The scene features a neutral-toned beige background with soft and even lighting.",
+                "B. The scene is set outdoors, with lush green trees and natural sunlight highlighting the woman.",
+                "C. The scene is characterized by a colorful background and dynamic lighting, presenting a casual and vibrant atmosphere.",
+                "D. The scene takes place in a dimly lit room, with dramatic shadows and a subdued atmosphere."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_55": {
+            "id": "540LkURTR7g_55",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "How does the woman perform at the beginning of the scene?",
+            "options": [
+                "A. The woman appears relaxed and casual, wearing a T-shirt and jeans, with her hair loosely tied in a bun, and not wearing a microphone.",
+                "B. The woman appears poised and confident, wearing a bright blue cardigan over a black top, with light brown hair neatly parted and draped over her shoulders, and a microphone clipped to her clothing.",
+                "C. The woman appears flustered and unprepared, wearing a wrinkled white shirt, with messy hair, and not wearing a microphone.",
+                "D. The woman appears distracted and uninterested, wearing a gray hoodie, with her hair in a low ponytail, and wearing headphones in her ears."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_56": {
+            "id": "540LkURTR7g_56",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What is in the transparent glass cup in the beverage scene?",
+            "options": [
+                "A. The glass cup contains ice cubes and lemon slices.",
+                "B. The glass cup contains soda water with a slice of orange.",
+                "C. The glass cup contains ice cubes and red grapefruit segments.",
+                "D. The glass cup contains crushed ice and mint leaves."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_57": {
+            "id": "540LkURTR7g_57",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "In the beverage scene, what are the notable features of the transparent glass surface?",
+            "options": [
+                "A. There are condensation droplets on the glass surface.",
+                "B. The glass surface has intricate carvings.",
+                "C. The glass surface is frosted.",
+                "D. The glass surface has noticeable scratches."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_58": {
+            "id": "540LkURTR7g_58",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "How does lighting affect transparent glass in beverage scenes?",
+            "options": [
+                "A. Bright lighting highlights the transparency and texture inside.",
+                "B. Bright lighting darkens the lime slices, making them less noticeable.",
+                "C. Bright lighting creates shadows behind the glass, adding a mysterious atmosphere.",
+                "D. Bright lighting makes the beverage opaque, obscuring its details."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_59": {
+            "id": "540LkURTR7g_59",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many blurry green objects are visible in the beverage scene?",
+            "options": [
+                "A. One blurry green object.",
+                "B. Two blurry green objects.",
+                "C. Three blurry green objects.",
+                "D. Four blurry green objects."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_60": {
+            "id": "540LkURTR7g_60",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Can you see a completely whole lemon in the entire scene?",
+            "options": [
+                "A. A whole lemon can be seen in the foreground.",
+                "B. The whole lemon is inside the glass.",
+                "C. A whole lemon can be seen in the background.",
+                "D. A whole lemon cannot be seen in the scene."
+            ],
+            "answer": "D"
+        },
+        "540LkURTR7g_61": {
+            "id": "540LkURTR7g_61",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Is the woman holding a drink throughout the scene?",
+            "options": [
+                "A. Yes, the woman is holding a drink in her hand in this scene.",
+                "B. No, the woman is not holding a drink in her hand in this scene.",
+                "C. The drink is placed on the table in front of the woman.",
+                "D. The woman is preparing a drink in this scene."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_62": {
+            "id": "540LkURTR7g_62",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What does the condensation on the glass suggest about the nature of this beverage?",
+            "options": [
+                "A. The condensation on the glass suggests the beverage is warm and emits steam.",
+                "B. The condensation on the glass suggests the beverage is hot and has a spicy taste.",
+                "C. The condensation on the glass suggests the beverage is cold and refreshing.",
+                "D. The condensation on the glass suggests the beverage is at room temperature."
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_63": {
+            "id": "540LkURTR7g_63",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "How are the lemon slices placed in the glass?",
+            "options": [
+                "A. The lemon slices are thin and round, soaked in the drink, revealing translucent light-colored pulp.",
+                "B. The lemon slices are thick and oval-shaped, floating on the surface of the drink.",
+                "C. The lemon slices are thin and rectangular, sitting at the bottom of the glass.",
+                "D. The lemon slices are whole and uncut, placed on the edge of the glass."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_64": {
+            "id": "540LkURTR7g_64",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "Did the camera angle change between the first and second shots in the scene?",
+            "options": [
+                "A. Yes, the camera switched from a fixed central shot to a slightly low-angle close-up.",
+                "B. No, the camera angle remained fixed and centered throughout the scene.",
+                "C. Yes, the camera continuously moved around the subject, but the angle did not change.",
+                "D. No, the camera consistently maintained a wide-angle perspective."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_65": {
+            "id": "540LkURTR7g_65",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "To emphasize which type of camera lens was used for the beverage?",
+            "options": [
+                "A. Shot from above with a wide-angle lens",
+                "B. A slightly low-angle close-up shot",
+                "C. Over-the-shoulder shot",
+                "D. Medium shot from the side"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_66": {
+            "id": "540LkURTR7g_66",
+            "scene": 5,
+            "dimension": "Camera Direction",
+            "question": "How does the camera move in the first scene's footage?",
+            "options": [
+                "A. The camera remains stationary in the first scene.",
+                "B. The camera slowly pans from one side to the other.",
+                "C. The camera gradually zooms in on the woman.",
+                "D. The camera circles around the woman."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_67": {
+            "id": "540LkURTR7g_67",
+            "scene": 5,
+            "dimension": "Camera Direction",
+            "question": "How does the camera transition between the first and second scenes?",
+            "options": [
+                "A. The shot switches quickly, making the transition process invisible.",
+                "B. The camera quickly pans to the drink, creating a dynamic transition.",
+                "C. The camera zooms out to show a broader view of the environment.",
+                "D. The camera tilts upward, focusing on the drink from the bottom."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_68": {
+            "id": "540LkURTR7g_68",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the characteristic of the first scene?",
+            "options": [
+                "A. The first scene is professional and neutral, focusing on women.",
+                "B. The first scene prominently depicts a refreshing drink with lime.",
+                "C. The first scene is full of energy, taking place outdoors, showcasing a vibrant landscape.",
+                "D. The first scene is casual and laid-back, focusing on a relaxed social gathering."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_69": {
+            "id": "540LkURTR7g_69",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the characteristic of the second scene?",
+            "options": [
+                "A. The second scene transitions to a bright and fresh composition, highlighting the beverage.",
+                "B. The second scene emphasizes a professional environment, soft lighting, and an elegant woman.",
+                "C. The second scene is a wide-angle shot of a bustling cityscape.",
+                "D. The second scene focuses on a dark and melancholic atmosphere with dramatic shadows."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_70": {
+            "id": "540LkURTR7g_70",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What feeling does lime bring in a beverage scenario?",
+            "options": [
+                "A. The bright green of the lime slice enhances the sense of freshness.",
+                "B. The lime slice creates a warm and cozy feeling in the scene.",
+                "C. The lime slice is completely blurry, removing attention from its color.",
+                "D. The dark color of the lime contrasts with the beverage, adding a sense of mystery."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_71": {
+            "id": "540LkURTR7g_71",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What role do ice cubes play in enhancing the refreshing sensation in beverage scenarios?",
+            "options": [
+                "A. Under bright and even lighting, transparent ice cubes stand out, helping to enhance the refreshing sensation.",
+                "B. Ice cubes create a shadow effect, diminishing the refreshing sensation.",
+                "C. Ice cubes are obscured by lime slices, losing their refreshing qualities.",
+                "D. Ice cubes add a warm feeling to the beverage, counteracting the refreshing sensation."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_72": {
+            "id": "540LkURTR7g_72",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the background setting when the focus is on the girl towards the end of the scene?",
+            "options": [
+                "A. The background is a simple, neutral gray wall with subtle vertical line patterns.",
+                "B. The background is a bright, minimalist white backdrop.",
+                "C. The background is a green garden with plants.",
+                "D. The background is a busy office space with desks and computers."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_73": {
+            "id": "540LkURTR7g_73",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is the woman wearing at the end of the scene?",
+            "options": [
+                "A. The woman is wearing a bright blue cardigan with a black top underneath.",
+                "B. The woman is wearing a red dress with white polka dots.",
+                "C. The woman is wearing a green sweater with a yellow scarf.",
+                "D. The woman is wearing a white shirt with a black skirt."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_74": {
+            "id": "540LkURTR7g_74",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What accessories is the lady wearing?",
+            "options": [
+                "A. She has a small black lapel microphone clipped to her chest.",
+                "B. She is wearing a pair of gold earrings.",
+                "C. She has a red scarf around her neck.",
+                "D. She is wearing a stylish hat."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_75": {
+            "id": "540LkURTR7g_75",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What objects appeared together with the glass in the second scene?",
+            "options": [
+                "A. Ice cubes, lime slices, and a light green object that might be another lime",
+                "B. Ice cubes, lemon slices, and a small green apple",
+                "C. Ice cubes, mint leaves, and a light yellow object that might be a lemon",
+                "D. Ice cubes, lime wedges, and a bright yellow banana"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_76": {
+            "id": "540LkURTR7g_76",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "In the second frame of the scene, how many limes are visible? (excluding lime slices)",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_77": {
+            "id": "540LkURTR7g_77",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What change occurs in the scene's focus after the close-up of the glass?",
+            "options": [
+                "A. The focus shifts to a medium close-up of a woman.",
+                "B. The focus remains on the glass but incorporates other elements.",
+                "C. The focus shifts to a lime spinning on the table.",
+                "D. The focus pulls back to reveal a tropical outdoor scene."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_78": {
+            "id": "540LkURTR7g_78",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used at the end of the scene to show the woman?",
+            "options": [
+                "A. Use a medium close-up shot to show the woman.",
+                "B. Use a close-up shot to show the woman.",
+                "C. Use a wide-angle shot to show the woman.",
+                "D. Use a full-body shot to show the woman."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_79": {
+            "id": "540LkURTR7g_79",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "How does the focus shift from the glass to the woman?",
+            "options": [
+                "A. The focus shift happens suddenly, with no visual connection.",
+                "B. The focus shift happens dramatically but smoothly.",
+                "C. The focus shift happens slowly and gradually fades into darkness.",
+                "D. The focus shift happens chaotically, accompanied by glaring camera angles."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_80": {
+            "id": "540LkURTR7g_80",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What is the change in lighting in the second and third scenes?",
+            "options": [
+                "A. The lighting changes from dim to bright.",
+                "B. The lighting is more focused on the woman.",
+                "C. The lighting remains even and consistent in both scenes, with the second scene slightly brighter.",
+                "D. Shadows are introduced in the second scene."
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_81": {
+            "id": "540LkURTR7g_81",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What visual elements in the second frame of the scene create a sense of coolness and refreshment?",
+            "options": [
+                "A. Bright white background, condensed water droplets, and the transparency of glass.",
+                "B. The transparency of glass, ice cubes, lime slices, and condensed water droplets.",
+                "C. Neutral gray wall, bright blue cardigan, and ice cubes.",
+                "D. Bright blue cardigan, lighting, and lime slices."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_82": {
+            "id": "540LkURTR7g_82",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the transparent handle of the glass teacup relative to the lens?",
+            "options": [
+                "A. The transparent handle is on the left side of the glass teacup.",
+                "B. The transparent handle is on the top of the glass teacup.",
+                "C. The transparent handle is on the right side of the glass teacup.",
+                "D. The transparent handle is on the bottom of the glass teacup."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_83": {
+            "id": "540LkURTR7g_83",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "In the medium-close shot, what kind of demeanor does the woman convey?",
+            "options": [
+                "A. She conveys a calm and professional demeanor.",
+                "B. She conveys a casual and carefree demeanor.",
+                "C. She conveys a shy and reserved demeanor.",
+                "D. She conveys an energetic and playful demeanor."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_84": {
+            "id": "540LkURTR7g_84",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What does the appearance of a glass teacup look like?",
+            "options": [
+                "A. The glass teacup is transparent, with steam and water droplets along the upper rim.",
+                "B. The glass teacup is opaque, decorated with floral patterns.",
+                "C. The glass teacup is transparent but without steam or water droplets.",
+                "D. The glass teacup is frosted, with a matte finish."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_85": {
+            "id": "540LkURTR7g_85",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What's in the glass?",
+            "options": [
+                "A. The glass is filled with tea",
+                "B. The glass is filled with cold water",
+                "C. The glass is filled with black coffee",
+                "D. The glass is filled with milk"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_86": {
+            "id": "540LkURTR7g_86",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the glass teacup placed on?",
+            "options": [
+                "A. The teacup is placed on a transparent saucer.",
+                "B. The teacup is directly placed on a silver tray.",
+                "C. The teacup is placed on a wooden surface with floral patterns.",
+                "D. The teacup is placed on a ceramic saucer, which is on a white napkin."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_87": {
+            "id": "540LkURTR7g_87",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many hands are interacting with the teacup in the scene?",
+            "options": [
+                "A. One hand is interacting with the teacup.",
+                "B. Two hands are interacting with the teacup.",
+                "C. Three hands are interacting with the teacup.",
+                "D. Four hands are interacting with the teacup."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_88": {
+            "id": "540LkURTR7g_88",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is used to fish out the tea bag in the scene?",
+            "options": [
+                "A. Fork",
+                "B. Spoon",
+                "C. Chopsticks",
+                "D. Funnel"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_89": {
+            "id": "540LkURTR7g_89",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What is the purpose of a metal spoon?",
+            "options": [
+                "A. The metal spoon is used to stir tea.",
+                "B. The metal spoon presses the tea bag with the string to extract more flavor.",
+                "C. The metal spoon is only used for decoration.",
+                "D. The metal spoon is used to add sugar to tea."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_90": {
+            "id": "540LkURTR7g_90",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "When the tea bag is lifted from the cup, in which direction is the tea bag string pulled relative to the image?",
+            "options": [
+                "A. Pulled towards the top of the image.",
+                "B. Pulled towards the bottom of the image.",
+                "C. Pulled towards the left side of the image.",
+                "D. Pulled towards the right side of the image."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_91": {
+            "id": "540LkURTR7g_91",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used to closely show the interaction between tea, a teacup, and hands?",
+            "options": [
+                "A. This is a close-up shot, focusing on details such as the interaction between tea, a teacup, and hands.",
+                "B. This is a wide-angle shot, capturing the entire table and surrounding environment.",
+                "C. This is a long shot, emphasizing the overall scene and atmosphere.",
+                "D. This is an over-the-shoulder shot, showing the action from the perspective of someone standing behind."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_92": {
+            "id": "540LkURTR7g_92",
+            "scene": 6,
+            "dimension": "Speed",
+            "question": "When the tea bag string presses the tea bag, how does the speed of the action manifest?",
+            "options": [
+                "A. The action is performed in an orderly and precise manner.",
+                "B. The action is performed hastily and frantically.",
+                "C. The action is performed casually and uncoordinated.",
+                "D. The action is performed carelessly and roughly."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_93": {
+            "id": "540LkURTR7g_93",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What happens when you squeeze a tea bag?",
+            "options": [
+                "A. Dark liquid from the tea bag drips into the cup.",
+                "B. The tea bag changes color and releases bubbles into the cup.",
+                "C. The tea bag floats to the surface, causing the tea to become cloudy.",
+                "D. The string of the tea bag lengthens, making the tea appear lighter."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_94": {
+            "id": "540LkURTR7g_94",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Which visual element emphasizes the warmth of the tea through motion?",
+            "options": [
+                "A. Striking red tablecloth",
+                "B. Translucent teacup handle",
+                "C. Rising steam",
+                "D. Metal spoon"
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_95": {
+            "id": "540LkURTR7g_95",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Which visual element highlights the warmth of tea through surface texture?",
+            "options": [
+                "A. The droplets along the edge of the teacup visually highlight the warmth of tea.",
+                "B. The bright red tablecloth visually highlights the warmth of tea.",
+                "C. The reflective metallic spoon visually highlights the warmth of tea.",
+                "D. The translucent handle of the teacup visually highlights the warmth of tea."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_96": {
+            "id": "540LkURTR7g_96",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What kind of atmosphere does lighting create in scenes with women?",
+            "options": [
+                "A. The lighting creates a dramatic and shadowy atmosphere.",
+                "B. The lighting creates a soft, even, and professional atmosphere.",
+                "C. The lighting creates a bright, glaring, and distracting atmosphere.",
+                "D. The lighting creates a dim, gloomy, and oppressive atmosphere."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_97": {
+            "id": "540LkURTR7g_97",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the hair color and hairstyle of the woman in the scene?",
+            "options": [
+                "A. The woman has short dark brown hair.",
+                "B. The woman has long light brown hair.",
+                "C. The woman has curly blonde hair.",
+                "D. The woman has medium-length black hair."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_98": {
+            "id": "540LkURTR7g_98",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the woman in the scene wearing?",
+            "options": [
+                "A. A bright blue knit sweater paired with a black top",
+                "B. A green sweater paired with a patterned dress",
+                "C. A red blazer paired with a white shirt",
+                "D. A yellow scarf paired with a gray turtleneck sweater"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_99": {
+            "id": "540LkURTR7g_99",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What accessory is attached to the woman's top in the scene?",
+            "options": [
+                "A. Lavalier microphone",
+                "B. Brooch",
+                "C. Name tag",
+                "D. Scarf clip"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_100": {
+            "id": "540LkURTR7g_100",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What is the distinctive feature of the plastic bottle the woman is holding?",
+            "options": [
+                "A. The bottle is filled with soda water.",
+                "B. The distinctive feature of the plastic bottle is the orange label on it.",
+                "C. The bottle has a blue cap with a floral pattern.",
+                "D. The distinctive feature of the plastic bottle is its unusual shape, like a teapot."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_101": {
+            "id": "540LkURTR7g_101",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many different scenes are there in the picture?",
+            "options": [
+                "A. One scene",
+                "B. Two scenes",
+                "C. Three scenes",
+                "D. Four scenes"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_102": {
+            "id": "540LkURTR7g_102",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Does the brand element scene in this scenario have shadows?",
+            "options": [
+                "A. Yes, there are noticeable shadows in the brand element scene.",
+                "B. No, there are no shadows in the brand element scene.",
+                "C. Shadows are only visible in the initial scene with women.",
+                "D. There are minor shadows, but they are not noticeable in the brand element scene."
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_103": {
+            "id": "540LkURTR7g_103",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "To what height did the woman raise the bottle?",
+            "options": [
+                "A. Shoulder height",
+                "B. Waist height",
+                "C. Chest height",
+                "D. Head height"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_104": {
+            "id": "540LkURTR7g_104",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "In the transition from the previous scene to this scene, in which direction does the focus move?",
+            "options": [
+                "A. The focus shifts from the close-up of the teacup to the woman holding the bottle.",
+                "B. The focus shifts from the CHI Health brand elements to the woman holding the bottle.",
+                "C. The focus shifts from the close-up of the teacup to the CHI Health brand elements.",
+                "D. The focus shifts from the woman holding the bottle to the close-up of the teacup."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_105": {
+            "id": "540LkURTR7g_105",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "What type of lens should be used to showcase brand elements?",
+            "options": [
+                "A. Use a wide-angle lens to showcase brand elements.",
+                "B. Use a close-up lens to showcase brand elements.",
+                "C. Use a centered lens to showcase brand elements.",
+                "D. Use an over-the-shoulder lens to showcase brand elements."
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_106": {
+            "id": "540LkURTR7g_106",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the background from the woman's scene to the brand element’s scene?",
+            "options": [
+                "A. The background changed from neutral beige to pure white.",
+                "B. The background changed from a red tablecloth to a beige wall.",
+                "C. The background transitioned from textured surfaces to gradient blue.",
+                "D. The background remained neutral beige throughout the entire scene."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_107": {
+            "id": "540LkURTR7g_107",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What are the features in a scene containing CHI Health brand elements?",
+            "options": [
+                "A. A woman holding a bottle with an orange label.",
+                "B. A table set with a glass teacup and a red tablecloth.",
+                "C. This scene purely focuses on CHI Health brand elements.",
+                "D. A neutral background illuminated by soft lighting."
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_108": {
+            "id": "540LkURTR7g_108",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What text appears next to the logo in the brand element scene?",
+            "options": [
+                "A. Next to the logo, the text 'CHI Health' is prominently displayed.",
+                "B. Next to the logo, the text 'CHI Care' is prominently displayed.",
+                "C. Next to the logo, the text 'Health Chi' is prominently displayed.",
+                "D. Next to the logo, the text 'Care Health' is prominently displayed."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_109": {
+            "id": "540LkURTR7g_109",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "In the brand element scene, what is the text displayed in the lower right corner?",
+            "options": [
+                "A. CHI He",
+                "B. ARCTIC CLEAR",
+                "C. CHIhealth.com",
+                "D. CHI Health"
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_110": {
+            "id": "540LkURTR7g_110",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What will appear at the bottom of the frame as the scene progresses?",
+            "options": [
+                "A. A white banner with the 'CHI Health' logo will appear.",
+                "B. A white banner with an orange logo will appear.",
+                "C. A blue banner with the 'ARCTIC CLEAR' logo will appear.",
+                "D. A green banner with random text will appear."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_111": {
+            "id": "540LkURTR7g_111",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "What is the name displayed on the white banner?",
+            "options": [
+                "A. The name displayed is 'Ellen Thomsen'.",
+                "B. The name displayed is 'CHI Health'.",
+                "C. The name displayed is 'Arctic Clear'.",
+                "D. The name displayed is 'Sarah Johnson'."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_112": {
+            "id": "540LkURTR7g_112",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "What is the title related to Ellen Thomsen on the banner?",
+            "options": [
+                "A. Nutritionist",
+                "B. Dietitian",
+                "C. Health Advisor",
+                "D. Wellness Coach"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_113": {
+            "id": "540LkURTR7g_113",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "What kind of scene does the lapel microphone on Ellen Thomsen's sweater suggest?",
+            "options": [
+                "A. This suggests the scene might be an interview or speech.",
+                "B. This suggests the scene might be a live singing performance.",
+                "C. This suggests the scene might be a theatrical performance.",
+                "D. This suggests the scene might be an outdoor sports event."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_114": {
+            "id": "540LkURTR7g_114",
+            "scene": "-1",
+            "dimension": "Description-Object",
+            "question": "What does a transparent glass with lime slices and ice cubes convey?",
+            "options": [
+                "A. It conveys a sense of freshness and vibrant beauty.",
+                "B. It conveys a warm and cozy atmosphere.",
+                "C. It conveys a formal and serious tone.",
+                "D. It conveys a minimalist and striking appearance."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_115": {
+            "id": "540LkURTR7g_115",
+            "scene": "-1",
+            "dimension": "Camera Shot",
+            "question": "What happens after pouring water into the cup in a close-up shot?",
+            "options": [
+                "A. The scene shifts to focus on Ellen Thomsen wearing a blue cardigan in a professional setting.",
+                "B. The scene shifts to focus on a group of people discussing the CHI Health brand.",
+                "C. The scene shifts to focus on another person pouring tea into another glass.",
+                "D. The scene shifts to an outdoor setting, featuring a park and a CHI Health banner."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_116": {
+            "id": "540LkURTR7g_116",
+            "scene": "-1",
+            "dimension": "Description-Scene",
+            "question": "After focusing on the drink with ice cubes and lime, where does the scene switch to?",
+            "options": [
+                "A. The scene switches to Ellen Thomsen's solo explanation.",
+                "B. The scene switches to a group of people enjoying a picnic outdoors.",
+                "C. The scene switches to a busy city street with cars and pedestrians.",
+                "D. The scene switches to a close-up shot of a cat playing with a ball of yarn."
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_117": {
+            "id": "540LkURTR7g_117",
+            "scene": "-1",
+            "dimension": "Fine Grained Action",
+            "question": "Why does this woman lift the tea bag string?",
+            "options": [
+                "A. The woman lifts the tea bag string to adjust or extract the flavor of the tea bag.",
+                "B. The woman lifts the tea bag string to read the information on the label.",
+                "C. The woman lifts the tea bag string to show the brand of the tea bag to the camera.",
+                "D. The woman lifts the tea bag string to throw it into a nearby trash can."
+            ],
+            "answer": "A"
+        }
+    }
+}

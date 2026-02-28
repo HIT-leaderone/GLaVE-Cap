@@ -1,0 +1,1522 @@
+{
+    "scene_hint": {
+        "0": "The camera quickly sweeps over the lawn.",
+        "1": "A man dressed in white stands next to the FIFA World Cup.",
+        "2": "Show the internal structure of the stadium.",
+        "3": "Focus on the exterior of the stadium and the surrounding environment.",
+        "4": "The camera follows green, blue, and red glowing stripes to showcase the cityscape.",
+        "5": "Add the text 'NEW YORK NEW JERSEY' on the water surface to indicate the location.",
+        "6": "The World Cup trophy is positioned in the center, with a simple and plain background.",
+        "7": "Dynamic concentric red shapes and vibrant multicolored patterns surrounding the FIFA World Cup trophy."
+    },
+    "qa": {
+        "1tidNDIpKSY_0": {
+            "id": "1tidNDIpKSY_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the white line located on the initial screen?",
+            "options": [
+                "A. The white line is vertically located in the middle of the screen.",
+                "B. The white line diagonally crosses the lower part of the screen.",
+                "C. The white line horizontally spans the upper part of the screen.",
+                "D. The white line horizontally spans the middle of the screen."
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_1": {
+            "id": "1tidNDIpKSY_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "How is the environment depicted in the video?",
+            "options": [
+                "A. A dimly lit green lawn.",
+                "B. A brightly lit, colorful park.",
+                "C. A busy city street.",
+                "D. A quiet library."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_2": {
+            "id": "1tidNDIpKSY_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What can be seen at the beginning of the video?",
+            "options": [
+                "A. A single white line located on a green lawn.",
+                "B. Multiple white lines.",
+                "C. Two parallel yellow lines.",
+                "D. A set of colorful graffiti painted on a concrete wall."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_3": {
+            "id": "1tidNDIpKSY_3",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Are there any vehicles visible in the scene?",
+            "options": [
+                "A. Yes, multiple vehicles are visible.",
+                "B. No, no vehicles are visible.",
+                "C. A vehicle is visible in the distance.",
+                "D. Only part of a vehicle is visible."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_4": {
+            "id": "1tidNDIpKSY_4",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "Did the white line change position in the video?",
+            "options": [
+                "A. Yes, it moved from the top to the bottom of the frame.",
+                "B. No, the white line remained in the same position throughout the video.",
+                "C. Yes, it moved from the left side to the right side of the frame.",
+                "D. No, the white line completely disappeared after the initial frame."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_5": {
+            "id": "1tidNDIpKSY_5",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "How does the appearance of the white line change during the transition?",
+            "options": [
+                "A. The white line reappears at the bottom of the screen with a slight curve.",
+                "B. The white line becomes brighter and spans horizontally across the entire screen.",
+                "C. The white line completely disappears from the scene.",
+                "D. The white line reappears in the same position but in a different color."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_6": {
+            "id": "1tidNDIpKSY_6",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of camera shot is used in the video?",
+            "options": [
+                "A. Close-up side angle perspective.",
+                "B. Overhead shot with a slight tilt perspective.",
+                "C. Low angle upward shot perspective.",
+                "D. Wide-angle panoramic perspective."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_7": {
+            "id": "1tidNDIpKSY_7",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "How does the position of the white line change within the scene?",
+            "options": [
+                "A. It moves from top to bottom in the frame.",
+                "B. It moves from bottom to top in the frame.",
+                "C. It moves from left to right in the frame.",
+                "D. The white line remains in the same position throughout the scene."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_8": {
+            "id": "1tidNDIpKSY_8",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is that person relative to the football field?",
+            "options": [
+                "A. Near the midfield area of the football field.",
+                "B. Standing on the sideline of the football field.",
+                "C. Sitting in the spectator area of the football field.",
+                "D. Outside the stadium, near the entrance."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_9": {
+            "id": "1tidNDIpKSY_9",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "In this scenario, how is the lighting situation in the stadium?",
+            "options": [
+                "A. The lighting is enhanced.",
+                "B. The lighting dims.",
+                "C. The lighting flickers.",
+                "D. The lighting remains basically unchanged."
+            ],
+            "answer": "D"
+        },
+        "1tidNDIpKSY_10": {
+            "id": "1tidNDIpKSY_10",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is shown around the football field in this scene?",
+            "options": [
+                "A. Colorful balloons.",
+                "B. Advertising banners.",
+                "C. Scrolling text displays.",
+                "D. Flags from different countries."
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_11": {
+            "id": "1tidNDIpKSY_11",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "How is this man dressed?",
+            "options": [
+                "A. All in white, including a jacket, pants, and sneakers.",
+                "B. A black suit with a tie.",
+                "C. A red football jersey and shorts.",
+                "D. Casual T-shirt and jeans."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_12": {
+            "id": "1tidNDIpKSY_12",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What notable item is the man carrying?",
+            "options": [
+                "A. A soccer ball accompanies the man.",
+                "B. A referee accompanies the man.",
+                "C. The FIFA World Cup trophy accompanies the man.",
+                "D. A red flag accompanies the man."
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_13": {
+            "id": "1tidNDIpKSY_13",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the World Cup trophy located?",
+            "options": [
+                "A. It is placed on a tall black pedestal next to the host.",
+                "B. It is hanging from the canopy of the stadium roof.",
+                "C. It is placed on the goalpost.",
+                "D. It is lying on the grass near the penalty area."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_14": {
+            "id": "1tidNDIpKSY_14",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What are the main visual elements in this scene?",
+            "options": [
+                "A. The person, FIFA World Cup trophy, and the centrally aligned goalposts.",
+                "B. The person, audience, and the stadium's roof canopy.",
+                "C. FIFA World Cup trophy, signage display, and blue light area.",
+                "D. Football field, penalty area, and colored light display."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_15": {
+            "id": "1tidNDIpKSY_15",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Are there any visible text signs in the scene?",
+            "options": [
+                "A. No, there are no visible text signs in the scene.",
+                "B. Yes, it says 'FIFA WORLD CUP 26'.",
+                "C. Yes, it says 'WELCOME TO THE FINALS'.",
+                "D. Yes, it shows the match scores."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_16": {
+            "id": "1tidNDIpKSY_16",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What subtle action indicates a change in this man's behavior?",
+            "options": [
+                "A. While speaking, he makes small gestures with his hands.",
+                "B. The man takes a step towards the trophy.",
+                "C. The man raises his arms in celebration.",
+                "D. The man leans against the pedestal."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_17": {
+            "id": "1tidNDIpKSY_17",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "In which direction did the man's position move in the video?",
+            "options": [
+                "A. Moved to the left side of the screen.",
+                "B. Moved to the right side of the screen.",
+                "C. Moved away from the camera.",
+                "D. Moved closer to the camera."
+            ],
+            "answer": "D"
+        },
+        "1tidNDIpKSY_18": {
+            "id": "1tidNDIpKSY_18",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is this man doing next to the FIFA World Cup Trophy?",
+            "options": [
+                "A. Giving a speech, hosting, or promoting.",
+                "B. Cleaning the FIFA World Cup Trophy.",
+                "C. Holding the FIFA World Cup Trophy.",
+                "D. Showcasing the FIFA World Cup Trophy to the audience."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_19": {
+            "id": "1tidNDIpKSY_19",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What additions were made to the digital display screen in the scene?",
+            "options": [
+                "A. Vivid green patterns and decorative elements.",
+                "B. Replaced with monochromatic designs and minimalist text.",
+                "C. Completely removed, leaving the stadium without electronic visual effects.",
+                "D. Enhanced dim lighting and decreased emphasis on decorative features."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_20": {
+            "id": "1tidNDIpKSY_20",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What digital changes have been added to the upper part of the scene?",
+            "options": [
+                "A. A horizontal digital display screen spans the upper part.",
+                "B. The upper part is decorated with a fireworks display.",
+                "C. A vertical digital display screen has been introduced.",
+                "D. The upper part features a rotating holographic display."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_21": {
+            "id": "1tidNDIpKSY_21",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many significant digital displays are mentioned in the description?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_22": {
+            "id": "1tidNDIpKSY_22",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "In the entire scene, does the formal style of the person next to the trophy remain consistent?",
+            "options": [
+                "A. Yes, a formal style is maintained throughout the scene.",
+                "B. No, the man's formal style changes several times.",
+                "C. Yes, but only at the beginning of the scene.",
+                "D. No, the person is not formal at all."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_23": {
+            "id": "1tidNDIpKSY_23",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What subtle action did the man next to the trophy do?",
+            "options": [
+                "A. The man clasped his hands in front of his abdomen.",
+                "B. The man waved a flag.",
+                "C. The man adjusted his hat.",
+                "D. The man sat down."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_24": {
+            "id": "1tidNDIpKSY_24",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "Where is the man standing after his subtle movement?",
+            "options": [
+                "A. He is standing next to the FIFA World Cup trophy, the distance hasn't changed.",
+                "B. He is standing next to the FIFA World Cup trophy, the distance is farther.",
+                "C. He is standing next to the electronic display screen.",
+                "D. He is standing in front of the crowd."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_25": {
+            "id": "1tidNDIpKSY_25",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "Which area does the green digital display extend to?",
+            "options": [
+                "A. Upper horizontal area.",
+                "B. Lower horizontal area.",
+                "C. Vertically extending to the ground and sky.",
+                "D. Diagonally extending from the ground through the stadium."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_26": {
+            "id": "1tidNDIpKSY_26",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "How does the digital display content change?",
+            "options": [
+                "A. Change to monochrome tones and decorative patterns.",
+                "B. Transition to a color mode.",
+                "C. Remain static, only displaying the event logo throughout.",
+                "D. Switch to displaying local commercial advertisements."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_27": {
+            "id": "1tidNDIpKSY_27",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What does the beginning of the video prominently capture?",
+            "options": [
+                "A. The bustling crowd in the stadium.",
+                "B. Empty seats.",
+                "C. Parking lot.",
+                "D. Roads around the stadium."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_28": {
+            "id": "1tidNDIpKSY_28",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What does the large blue banner that appears in the video look like?",
+            "options": [
+                "A. It has white stars and stripes.",
+                "B. It has red circles and triangles.",
+                "C. It has green squares and lines.",
+                "D. It has yellow dots and waves."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_29": {
+            "id": "1tidNDIpKSY_29",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What are the main structural elements prominently emphasized in the transition part of the video?",
+            "options": [
+                "A. Colored lights, green football field, and large blue banners.",
+                "B. Layered seating, illuminated parking lot, and green football field.",
+                "C. Sleek metallic appearance, decorative banners, and lens flare effects.",
+                "D. External lighting, road network composed of lights, and urban landscape."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_30": {
+            "id": "1tidNDIpKSY_30",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "As the camera moves higher above the stadium, which elements become more noticeable?",
+            "options": [
+                "A. The exterior of the stadium and its surrounding environment.",
+                "B. The seating arrangement inside and the players on the field.",
+                "C. The concession stands and merchandise shops inside the stadium.",
+                "D. The scoreboard and advertisements on the stadium screens."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_31": {
+            "id": "1tidNDIpKSY_31",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "In which direction does the camera move when transitioning from close-ups of the stadium to blending with the cityscape?",
+            "options": [
+                "A. The camera moves inward and lowers.",
+                "B. The camera moves outward and rises.",
+                "C. The camera moves left and right.",
+                "D. The camera moves downward and closer."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_32": {
+            "id": "1tidNDIpKSY_32",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of lens is used to showcase the vastness of a stadium?",
+            "options": [
+                "A. Static close-up shot.",
+                "B. Sweeping panoramic shot.",
+                "C. Dynamic aerial shot.",
+                "D. Fixed ground shot."
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_33": {
+            "id": "1tidNDIpKSY_33",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of photography lens is used to showcase the complex design of a stadium?",
+            "options": [
+                "A. Dynamic aerial perspective lens",
+                "B. Static wide-angle lens",
+                "C. Close-up lens of the crowd",
+                "D. Mid-range tracking lens"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_34": {
+            "id": "1tidNDIpKSY_34",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "How does the camera maintain speed during scene transitions?",
+            "options": [
+                "A. The camera transitions smoothly and gradually.",
+                "B. The camera moves abruptly between scenes.",
+                "C. The camera significantly speeds up during transitions.",
+                "D. The camera remains stationary."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_35": {
+            "id": "1tidNDIpKSY_35",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What kind of focus shift occurs during a scene transition?",
+            "options": [
+                "A. Shift from crowd close-up to a wider panoramic view.",
+                "B. Focus only on the crowd.",
+                "C. Look from exterior city view towards green fields.",
+                "D. Diminish architectural elements to highlight the parking lot."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_36": {
+            "id": "1tidNDIpKSY_36",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "Where does the video take place?",
+            "options": [
+                "A. In an urban environment.",
+                "B. In a rural area.",
+                "C. In the desert.",
+                "D. On a remote island."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_37": {
+            "id": "1tidNDIpKSY_37",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "What colors are visible on the green light strip?",
+            "options": [
+                "A. Red, green, and yellow",
+                "B. Blue and purple",
+                "C. Purple and orange",
+                "D. Blue and black"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_38": {
+            "id": "1tidNDIpKSY_38",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What patterns can be seen on the green light strip?",
+            "options": [
+                "A. Red triangles and green triangles",
+                "B. Blue triangles and yellow squares",
+                "C. White stars and orange crosses",
+                "D. Purple ovals and pink hexagons"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_39": {
+            "id": "1tidNDIpKSY_39",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "In the scene at the sports stadium, how many colors of beams streak across the night sky?",
+            "options": [
+                "A. Three.",
+                "B. Four.",
+                "C. Five.",
+                "D. Two."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_40": {
+            "id": "1tidNDIpKSY_40",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "Can you see the overall urban environment in a close-up of the green light strip?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Partially",
+                "D. Only in very detailed cases"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_41": {
+            "id": "1tidNDIpKSY_41",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What visual change occurs when transitioning from a panoramic view of the stadium to a close-up of the green light strip?",
+            "options": [
+                "A. The camera will quickly follow the green light strip.",
+                "B. The field of view expands.",
+                "C. The stadium becomes more prominent.",
+                "D. The background becomes completely dark."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_42": {
+            "id": "1tidNDIpKSY_42",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "Which direction does the purple beam pass through the sky?",
+            "options": [
+                "A. The purple beam passes nearly horizontally through the sky.",
+                "B. The purple beam passes nearly vertically through the sky.",
+                "C. There are multiple purple beams, making the direction difficult to describe.",
+                "D. The purple beam passes diagonally from the lower left to the upper right through the sky."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_43": {
+            "id": "1tidNDIpKSY_43",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of lens should be used to highlight the green light band?",
+            "options": [
+                "A. Close-up lens.",
+                "B. Wide-angle lens.",
+                "C. Aerial lens.",
+                "D. Panorama lens."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_44": {
+            "id": "1tidNDIpKSY_44",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the glowing blue stripe relative to the position of the road?",
+            "options": [
+                "A. On the left side of the road.",
+                "B. Right on the road.",
+                "C. Above the road.",
+                "D. Against the background skyline."
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_45": {
+            "id": "1tidNDIpKSY_45",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the glowing blue stripe located in relation to the cityscape?",
+            "options": [
+                "A. It connects the foreground with the vast city area behind it.",
+                "B. It is located on top of a skyscraper in the city skyline.",
+                "C. It is located at the center of a busy pedestrian crossing.",
+                "D. It is hanging above the lighted road near the foreground."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_46": {
+            "id": "1tidNDIpKSY_46",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment and background of the video scene?",
+            "options": [
+                "A. In a nighttime urban environment.",
+                "B. In a medieval castle during the day.",
+                "C. In a tranquil countryside at sunrise.",
+                "D. In an underwater world during the day."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_47": {
+            "id": "1tidNDIpKSY_47",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Are there real people in the video scene?",
+            "options": [
+                "A. Yes, there are several real people in the video scene.",
+                "B. No, there are no real people in the video scene.",
+                "C. Yes, there is one real person in the video scene.",
+                "D. Yes, there are many real people interacting in the video scene."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_48": {
+            "id": "1tidNDIpKSY_48",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What type of light elements are mentioned in the scene?",
+            "options": [
+                "A. Green neon lines, yellow streetlight glow.",
+                "B. Red neon lights, yellow streetlight glow.",
+                "C. Blue neon lines, yellow streetlight glow.",
+                "D. Green neon lines, white streetlight glow."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_49": {
+            "id": "1tidNDIpKSY_49",
+            "scene": 4,
+            "dimension": "Camera Direction",
+            "question": "Is the camera stationary throughout the entire video scene?",
+            "options": [
+                "A. Yes, the camera remains stationary.",
+                "B. No, the camera moves quickly.",
+                "C. No, but the camera only moved once.",
+                "D. No, the camera frequently switches between different angles in the scene."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_50": {
+            "id": "1tidNDIpKSY_50",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "How does the camera enhance the dynamic characteristics of a scene?",
+            "options": [
+                "A. Rapid camera panning",
+                "B. Dramatic camera zooming",
+                "C. Slight camera tilting",
+                "D. Camera remains stationary"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_51": {
+            "id": "1tidNDIpKSY_51",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "How does the complexity of lighting change throughout the sequence?",
+            "options": [
+                "A. Gradually decreases, focusing only on green neon lines.",
+                "B. Remains unchanged, with minimal variation in brightness and color.",
+                "C. Increases, including green neon lines, yellow streetlights, and purple light bands.",
+                "D. The lighting completely disappears at the end."
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_52": {
+            "id": "1tidNDIpKSY_52",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the blue glowing stripes and the road?",
+            "options": [
+                "A. Almost parallel to the road.",
+                "B. Arranged perpendicular to the road.",
+                "C. Suspended above the road.",
+                "D. No obvious connection with the road."
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_53": {
+            "id": "1tidNDIpKSY_53",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the environment described in the video?",
+            "options": [
+                "A. A rural mountainous area.",
+                "B. A desert landscape.",
+                "C. The environment is a city's nightscape.",
+                "D. A suburban residential area."
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_54": {
+            "id": "1tidNDIpKSY_54",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What does the blue glowing stripe look like?",
+            "options": [
+                "A. It has a white star pattern and appears slender.",
+                "B. It has a red star pattern and appears slender.",
+                "C. It has a white star pattern and appears short.",
+                "D. It has a gold star pattern and appears curved."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_55": {
+            "id": "1tidNDIpKSY_55",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What are the colors of the light strips mentioned in the video?",
+            "options": [
+                "A. Green, blue, red.",
+                "B. Green, yellow, red.",
+                "C. Blue, yellow, red.",
+                "D. Green, blue, yellow."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_56": {
+            "id": "1tidNDIpKSY_56",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Did the video description mention road congestion?",
+            "options": [
+                "A. Yes, it described severe congestion on the road.",
+                "B. Yes, it mentioned moderate congestion and some vehicles can be seen.",
+                "C. No, the video did not describe any vehicles.",
+                "D. No, the vehicles are just parked on the roadside and did not cause congestion."
+            ],
+            "answer": "D"
+        },
+        "1tidNDIpKSY_57": {
+            "id": "1tidNDIpKSY_57",
+            "scene": 4,
+            "dimension": "Camera Direction",
+            "question": "Which direction does the camera appear to be moving?",
+            "options": [
+                "A. Moving forward towards the cityscape.",
+                "B. Moving upward towards the skyscrapers.",
+                "C. Moving backward, away from the urban environment.",
+                "D. Staying still, aimed at the blue arch."
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_58": {
+            "id": "1tidNDIpKSY_58",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the background focus of the scene?",
+            "options": [
+                "A. The focus is on the urban environment and architectural details.",
+                "B. The focus is on a busy market.",
+                "C. The scene highlights a crowded subway station.",
+                "D. The emphasis is on a tranquil park area."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_59": {
+            "id": "1tidNDIpKSY_59",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Are there any people appearing in the scene?",
+            "options": [
+                "A. Yes, the scene is filled with people celebrating.",
+                "B. No, there are no people shown in the scene.",
+                "C. Yes, there are a few people walking around.",
+                "D. No, but there are shadows of people in the scene."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_60": {
+            "id": "1tidNDIpKSY_60",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What object is depicted on the digital billboard on the building in the scene?",
+            "options": [
+                "A. FIFA World Cup trophy.",
+                "B. A glowing pattern of a futuristic city skyline",
+                "C. A digital rendering of a blue neon car",
+                "D. Olympic rings, displayed on a black and white background"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_61": {
+            "id": "1tidNDIpKSY_61",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many main light trails can be seen in the scene?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_62": {
+            "id": "1tidNDIpKSY_62",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is the road in the scene busy with traffic?",
+            "options": [
+                "A. Yes, the road is very busy with traffic.",
+                "B. No, the road is empty.",
+                "C. Yes, there is moderate traffic on the road.",
+                "D. No, but there are a few cars."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_63": {
+            "id": "1tidNDIpKSY_63",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is this path like?",
+            "options": [
+                "A. This path is a smooth and bright trail.",
+                "B. This path is a trail paved with cobblestones.",
+                "C. This path is a dirt road.",
+                "D. This path is a sandy trail."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_64": {
+            "id": "1tidNDIpKSY_64",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What is the text illuminated below the FIFA World Cup trophy on the digital billboard?",
+            "options": [
+                "A. “World Cup”.",
+                "B. “Champions”.",
+                "C. “FIFA”.",
+                "D. “2022”."
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_65": {
+            "id": "1tidNDIpKSY_65",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "What happens to the winding path when the scene is switched to red lighting?",
+            "options": [
+                "A. The winding path is submerged in red light.",
+                "B. The winding path completely disappears.",
+                "C. The winding path turns into a beam of blue light.",
+                "D. The winding path turns into a straight line."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_66": {
+            "id": "1tidNDIpKSY_66",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What kind of scenes does the video mainly present?",
+            "options": [
+                "A. The dynamic changes of urban-rural transition.",
+                "B. The bustling cityscape with heavy traffic.",
+                "C. A tranquil natural environment undisturbed by urban elements.",
+                "D. A futuristic space landscape filled with alien architecture."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_67": {
+            "id": "1tidNDIpKSY_67",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What famous objects can be seen in the cityscape background?",
+            "options": [
+                "A. Statue of Liberty and brightly lit skyscrapers with diverse designs",
+                "B. Ferris wheel and brightly lit amusement park",
+                "C. Busy streets with cars and pedestrians",
+                "D. A brightly lit and bustling large stadium"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_68": {
+            "id": "1tidNDIpKSY_68",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Does this scene contain reflective water?",
+            "options": [
+                "A. Yes, the scene contains reflective water.",
+                "B. No, the scene does not contain any water.",
+                "C. Yes, but the water is not reflective.",
+                "D. No, there is only a dry path here, with no water."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_69": {
+            "id": "1tidNDIpKSY_69",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "What change occurred to the red light band in the last frame of the scene?",
+            "options": [
+                "A. The red light band became brighter and more intense.",
+                "B. The red light band disappeared.",
+                "C. The red light band transformed into a blue beam extending to the horizon.",
+                "D. The red light band was replaced by a series of glowing green patterns."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_70": {
+            "id": "1tidNDIpKSY_70",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "Which direction does this red light band extend to?",
+            "options": [
+                "A. It extends all the way to the horizon.",
+                "B. It curves to the left and then disappears into the background.",
+                "C. It loops back onto itself.",
+                "D. It branches into several smaller paths."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_71": {
+            "id": "1tidNDIpKSY_71",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "In a scene illuminated by red light, does the camera focus more on the ground?",
+            "options": [
+                "A. Yes, the camera is closer to the ground.",
+                "B. No, the camera focuses on the horizon and cityscape.",
+                "C. Yes, the camera focuses on trees and their silhouettes.",
+                "D. No, the camera focuses on digital billboards and their colors."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_72": {
+            "id": "1tidNDIpKSY_72",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle was used in the final shot?",
+            "options": [
+                "A. A high-angle camera angle was used.",
+                "B. A low-angle camera angle close to the ground was used.",
+                "C. An overhead camera angle was used.",
+                "D. A direct frontal camera angle was used."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_73": {
+            "id": "1tidNDIpKSY_73",
+            "scene": 4,
+            "dimension": "Speed",
+            "question": "Does the camera change speed during transitions between frames?",
+            "options": [
+                "A. Yes, the camera transitions smoothly between frames.",
+                "B. No, the camera maintains the same speed throughout.",
+                "C. Yes, the camera suddenly changes speed in each frame.",
+                "D. No, the camera switches speeds back and forth."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_74": {
+            "id": "1tidNDIpKSY_74",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What is the position of the text 'NEW YORK NEW JERSEY' in the composition?",
+            "options": [
+                "A. The text is located in the top left corner.",
+                "B. The text is located at the center of the scene.",
+                "C. The text is located in the bottom right corner.",
+                "D. The text is located above the skyscrapers."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_75": {
+            "id": "1tidNDIpKSY_75",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What environment is depicted in the video scene?",
+            "options": [
+                "A. Waterfront landscape.",
+                "B. City street.",
+                "C. Desert landscape.",
+                "D. Forest."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_76": {
+            "id": "1tidNDIpKSY_76",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What color is the 'NEW YORK NEW JERSEY' text displayed in the scene?",
+            "options": [
+                "A. The text is light gray.",
+                "B. The text is dark blue.",
+                "C. The text is bright red.",
+                "D. The text is neon green."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_77": {
+            "id": "1tidNDIpKSY_77",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What are the key elements mentioned in the city skyline background?",
+            "options": [
+                "A. Brightly lit skyscrapers, the Statue of Liberty, and the twinkling lights of buildings",
+                "B. Dense forests, a lighthouse, and moonlight reflected in the water",
+                "C. Mountains, an old church, and dim streets",
+                "D. Abandoned warehouses, a Ferris wheel, and minimal lighting"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_78": {
+            "id": "1tidNDIpKSY_78",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What does the reflection of the text 'NEW YORK NEW JERSEY' look like on the water surface?",
+            "options": [
+                "A. The text becomes blurry and is almost invisible on the water surface.",
+                "B. The text is mirrored on the water surface, interacting consistently with its reflection and surrounding elements.",
+                "C. Due to the water surface's fluctuations, the text's reflection is distorted.",
+                "D. The text does not form a mirror image on the water surface, possibly because the text is composited into the video."
+            ],
+            "answer": "D"
+        },
+        "1tidNDIpKSY_79": {
+            "id": "1tidNDIpKSY_79",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "What direction is the skyline's reflection displayed in the water?",
+            "options": [
+                "A. Displayed upwards.",
+                "B. Displayed horizontally.",
+                "C. Displayed downwards.",
+                "D. Displayed diagonally."
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_80": {
+            "id": "1tidNDIpKSY_80",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Does the scene depict any movement?",
+            "options": [
+                "A. Yes, the scene shows flowing water and moving city lights.",
+                "B. No, the scene emphasizes stillness and tranquility.",
+                "C. Yes, the text and reflections are dynamic in the image.",
+                "D. No, except for the slight flicker of light and shadow, the scene appears to be still."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_81": {
+            "id": "1tidNDIpKSY_81",
+            "scene": 5,
+            "dimension": "Speed",
+            "question": "Does this scene show a change in speed?",
+            "options": [
+                "A. Yes, there is a noticeable change in speed in the scene.",
+                "B. No, the scene emphasizes stillness and tranquility.",
+                "C. The scene alternates between stillness and rapid movement.",
+                "D. The scene shows slight changes in speed over time."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_82": {
+            "id": "1tidNDIpKSY_82",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What significant changes were introduced in the scene picture?",
+            "options": [
+                "A. Is the addition of bold text 'NEW YORK NEW JERSEY' in the center of the scene.",
+                "B. Is the removal of reflective water bodies from the scene.",
+                "C. Is the disappearance of the city skyline in the background.",
+                "D. Is the change in lighting, making the scene look like daytime."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_83": {
+            "id": "1tidNDIpKSY_83",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "In the original urban landscape, what is the spatial relationship between skyscrapers and natural elements?",
+            "options": [
+                "A. Location near mountains.",
+                "B. Location near water.",
+                "C. Location near plains.",
+                "D. Location near deserts."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_84": {
+            "id": "1tidNDIpKSY_84",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What does the opening scene depict?",
+            "options": [
+                "A. A featureless empty gray background.",
+                "B. A vibrant cityscape.",
+                "C. A bustling market.",
+                "D. A tranquil mountain landscape."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_85": {
+            "id": "1tidNDIpKSY_85",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What text can be seen before the cityscape changes?",
+            "options": [
+                "A. 'NEW YORK NEW JERSEY'.",
+                "B. 'CITY OF LIGHTS'.",
+                "C. 'WELCOME TO THE BIG APPLE'.",
+                "D. 'URBAN DREAMS'."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_86": {
+            "id": "1tidNDIpKSY_86",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the visual scene at the beginning of the scenario?",
+            "options": [
+                "A. A bright light gray background.",
+                "B. Cityscape and stormy sky.",
+                "C. Countryside and a dusk horizon.",
+                "D. Cityscape and a colorful sunset sky."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_87": {
+            "id": "1tidNDIpKSY_87",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Is there a visible object at the beginning of the scene?",
+            "options": [
+                "A. Yes, a mannequin can be seen in the last scene.",
+                "B. Yes, the blurred outline of a tall building can be seen in the last scene.",
+                "C. No, there are no objects at all in the last scene.",
+                "D. Yes, trees and silhouettes can be seen in the last scene."
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_88": {
+            "id": "1tidNDIpKSY_88",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred between these two scenes in the video?",
+            "options": [
+                "A. The cityscape was replaced with a light gray background.",
+                "B. The cityscape became more vivid and detailed.",
+                "C. The cityscape transformed into a rural landscape.",
+                "D. The vivid cityscape was replaced with an underwater scene."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_89": {
+            "id": "1tidNDIpKSY_89",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the FIFA World Cup trophy placed?",
+            "options": [
+                "A. At the very front.",
+                "B. On the left side.",
+                "C. In the corner.",
+                "D. Behind the numbers."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_90": {
+            "id": "1tidNDIpKSY_90",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the number '26' located next to the FIFA World Cup trophy?",
+            "options": [
+                "A. The number '26' is directly in front of the trophy.",
+                "B. The '26' is behind the trophy.",
+                "C. The number '26' is placed on the base of the trophy.",
+                "D. The number '26' is hanging above the trophy."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_91": {
+            "id": "1tidNDIpKSY_91",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the environment like where the FIFA World Cup trophy is displayed?",
+            "options": [
+                "A. The scene is set against a black background.",
+                "B. The scene is set in a sunny outdoor setting.",
+                "C. The scene is a crowded stadium.",
+                "D. The scene is in a museum."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_92": {
+            "id": "1tidNDIpKSY_92",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What design elements are on the FIFA World Cup trophy?",
+            "options": [
+                "A. The trophy features two figures lifting the Earth, and its surface is radiant.",
+                "B. The names of past FIFA champions are engraved on the trophy.",
+                "C. The trophy has a figure holding a football.",
+                "D. The trophy is decorated with maps of all participating countries."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_93": {
+            "id": "1tidNDIpKSY_93",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What decorations are on the base of the FIFA World Cup trophy?",
+            "options": [
+                "A. Accents of dark green and gold.",
+                "B. Accents of silver and deep red.",
+                "C. Accents of light blue and white.",
+                "D. Accents of black and silver."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_94": {
+            "id": "1tidNDIpKSY_94",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "Does this scene include environmental details beyond the trophy and theme elements?",
+            "options": [
+                "A. Yes, the scene includes various environmental details.",
+                "B. No, the scene does not have other environmental details besides the trophy and theme elements.",
+                "C. Yes, there is a scenic background and additional props.",
+                "D. No, the scene background is lively with an audience."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_95": {
+            "id": "1tidNDIpKSY_95",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Does the scene include sports details other than trophies and theme elements?",
+            "options": [
+                "A. Yes, the scene includes various sports details other than trophies and theme elements.",
+                "B. No, the scene only focuses on trophies and theme elements, without sports details.",
+                "C. Yes, there is dynamic animation in the background of the scene.",
+                "D. No, the scene includes sports details of the crowd and the football match."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_96": {
+            "id": "1tidNDIpKSY_96",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "How is the '26' number presented in the background?",
+            "options": [
+                "A. The '26' number is engraved in gold with sharp edges.",
+                "B. The '26' number is flat and pure white.",
+                "C. The '26' number has graceful curves with a rainbow-like iridescent effect on its edges.",
+                "D. The '26' number is outlined in green and accompanied by twinkling stars."
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_97": {
+            "id": "1tidNDIpKSY_97",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used to shoot the World Cup trophy?",
+            "options": [
+                "A. Use a fixed, direct, eye-level camera angle.",
+                "B. Use a high-angle, close-up camera angle.",
+                "C. Use a low-angle, wide-angle camera angle.",
+                "D. Use a side-angle, close-up camera angle."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_98": {
+            "id": "1tidNDIpKSY_98",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "How are the colored geometric shapes positioned relative to the FIFA World Cup trophy?",
+            "options": [
+                "A. The geometric shapes radiate outward from the trophy in concentric circles, surrounding it.",
+                "B. The geometric shapes are only located at the top of the trophy.",
+                "C. The geometric shapes are randomly scattered around the trophy.",
+                "D. The geometric shapes form a horizontal line behind the trophy."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_99": {
+            "id": "1tidNDIpKSY_99",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment described in the video?",
+            "options": [
+                "A. It is minimalist aesthetics, with a black background and abstract white number '26.'",
+                "B. The environment is mainly chaotic and cluttered, with an unpredictable color scheme.",
+                "C. The environment remains static, with a pure white background.",
+                "D. The environment uses a single color scheme, focusing on neutral tones."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_100": {
+            "id": "1tidNDIpKSY_100",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "How does the environment in the video change over time?",
+            "options": [
+                "A. It starts with mainly red geometries and ends with a colorful geometric tapestry with a tunnel effect.",
+                "B. Remains static throughout the video.",
+                "C. Transforms into a series of monochromatic blue shapes without any geometric patterns.",
+                "D. Evolves into a simple white background with no other elements."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_101": {
+            "id": "1tidNDIpKSY_101",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "In the video, was the FIFA World Cup trophy removed from the center of the frame?",
+            "options": [
+                "A. Yes, it was removed.",
+                "B. No, it remained in the center and was prominent throughout the video.",
+                "C. Yes, it was relocated to the edge of the frame.",
+                "D. No, it disappeared after the opening scene."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_102": {
+            "id": "1tidNDIpKSY_102",
+            "scene": 7,
+            "dimension": "Object Direction",
+            "question": "What is the visual movement direction of the geometric shapes around the trophy?",
+            "options": [
+                "A. The geometric shapes are arranged concentrically radiating outward from the trophy, creating an effect of diffusive motion.",
+                "B. The geometric shapes move linearly towards the trophy, presenting a trend of contraction motion.",
+                "C. The geometric shapes rotate clockwise around the trophy, emphasizing rotational motion.",
+                "D. The geometric shapes descend from above, suggesting a vertical downward motion."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_103": {
+            "id": "1tidNDIpKSY_103",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the motion effect of the background with colorful shapes?",
+            "options": [
+                "A. Like a more vibrant and complex tunnel-like effect.",
+                "B. Like a still and calm background.",
+                "C. Like slowly moving blue waves.",
+                "D. Like simple concentric circles, with no effect."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_104": {
+            "id": "1tidNDIpKSY_104",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "How does the background color change in the video?",
+            "options": [
+                "A. It changes from black and red to blue, green, red, and black.",
+                "B. It changes from black and gold to red.",
+                "C. It transitions from colorful patterns to a simple black-and-white design.",
+                "D. The background remains a monochrome blue shade throughout the video."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_105": {
+            "id": "1tidNDIpKSY_105",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment and background of the video?",
+            "options": [
+                "A. The video is based on a black background.",
+                "B. The video presents the FIFA World Cup trophy in a pure white background.",
+                "C. The FIFA World Cup trophy in a quiet museum environment.",
+                "D. The video showcases the FIFA World Cup trophy in a stadium."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_106": {
+            "id": "1tidNDIpKSY_106",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What are the main features of the FIFA World Cup trophy?",
+            "options": [
+                "A. It is made of silver and stands on a white base.",
+                "B. It is made of crystal with a black base.",
+                "C. Golden, with a black central base.",
+                "D. It is made of bronze and stands on a red base."
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_107": {
+            "id": "1tidNDIpKSY_107",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What are the two main elements showcased in the video?",
+            "options": [
+                "A. The FIFA World Cup trophy and the kaleidoscope pattern in the background.",
+                "B. A football field and cheering fans.",
+                "C. The FIFA World Cup trophy and a player lifting the trophy.",
+                "D. The kaleidoscope pattern and a scoreboard."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_108": {
+            "id": "1tidNDIpKSY_108",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "Are there any visible changes in lighting in the video?",
+            "options": [
+                "A. Yes, there are visible changes in lighting in the video.",
+                "B. No, there are no visible changes in lighting in the video.",
+                "C. The video gets darker towards the end.",
+                "D. The video gets brighter towards the end."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_109": {
+            "id": "1tidNDIpKSY_109",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "What subtle movement did the FIFA World Cup trophy make in the video?",
+            "options": [
+                "A. The trophy rotated.",
+                "B. The FIFA World Cup trophy moved slightly to the left horizontally.",
+                "C. The trophy changed color.",
+                "D. The trophy rose upwards."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_110": {
+            "id": "1tidNDIpKSY_110",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "Before transitioning to the final World Cup trophy, what is the visual focus?",
+            "options": [
+                "A. It is the beach horizon at sunset.",
+                "B. It is the vibrant urban landscape.",
+                "C. It is the tranquil countryside.",
+                "D. It is the bustling market."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_111": {
+            "id": "1tidNDIpKSY_111",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "As the scene shifts to the red-colored light strip, what changes occurred in the road environment?",
+            "options": [
+                "A. A bustling road turned into an empty alley.",
+                "B. The road was flooded due to heavy rain.",
+                "C. A vibrant road transitioned into a dim alley surrounded by tall buildings.",
+                "D. The road transformed into a busy market filled with pedestrians and stalls."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_112": {
+            "id": "1tidNDIpKSY_112",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "When the scene shifts to a path illuminated by red light, what changes occur in the urban environment?",
+            "options": [
+                "A. The scene is enveloped in intense red light.",
+                "B. The scene switches to a daytime cityscape.",
+                "C. The scene transforms into a tranquil blue ocean view.",
+                "D. The scene becomes a forest environment."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_113": {
+            "id": "1tidNDIpKSY_113",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "When the kaleidoscope-like background turns into the background of the FIFA World Cup trophy, what changes occur to those curves and light patterns?",
+            "options": [
+                "A. Completely disappear, leaving a pure black background.",
+                "B. Form a vibrant swirl effect, highlighting the trophy.",
+                "C. Turn into a series of sharp straight lines pointing to the outside of the trophy.",
+                "D. Replaced by a monochrome gradient."
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_114": {
+            "id": "1tidNDIpKSY_114",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What changes occurred on the road before focusing on the blue glowing stripes and illuminated buildings?",
+            "options": [
+                "A. It turned into a vacant section reflecting green, blue, and purple light.",
+                "B. Replaced by crowds of people celebrating.",
+                "C. It became a waterway surrounded by bright neon lights.",
+                "D. The road was covered with confetti and flags fluttering in the breeze."
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_115": {
+            "id": "1tidNDIpKSY_115",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "After the 'NEW YORK NEW JERSEY' text disappears, where does the focus shift?",
+            "options": [
+                "A. The focus transitions to a dark gray background.",
+                "B. The focus shifts to a player holding the FIFA World Cup trophy.",
+                "C. The focus transitions to a scene of spectators cheering in the stadium.",
+                "D. The focus switches to a close-up of a complex kaleidoscope pattern."
+            ],
+            "answer": "A"
+        }
+    }
+}

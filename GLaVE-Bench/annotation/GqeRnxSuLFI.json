@@ -1,0 +1,1630 @@
+{
+    "scene_hint": {
+        "0": "一位男子在观察农产品。",
+        "1": "三个人在思考香蕉。",
+        "2": "卡通角色对香蕉的诉求。",
+        "3": "画面由面包店切换到超级英雄和水果摊。",
+        "4": "人们争相去往水果摊。",
+        "5": "角色们在水果摊旁稍作停留，并引入了一位新男子。",
+        "6": "女孩则思考着如何出售水果。",
+        "7": "有两个水果摊相互竞争更多人去女孩的摊位。",
+        "8": "水果摊的逐渐增多。",
+        "9": "六个卡通人物揉搓着肚子。",
+        "10": "出现五个水果摊，有三个人物。",
+        "11": "一杆黄金秤的托盘上写着“SUPPLY”和“DEMAND”。"
+    },
+    "qa": {
+        "GqeRnxSuLFI_0": {
+            "id": "GqeRnxSuLFI_0",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "绿色标牌“FRESH PRODUCE”在哪里？",
+            "options": [
+                "A. 左上角。",
+                "B. 右下角。",
+                "C. 中心。",
+                "D. 左下角。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_1": {
+            "id": "GqeRnxSuLFI_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这张图片描绘的是哪种场景？",
+            "options": [
+                "A. 超市或杂货店的“FRESH PRODUCE”区域。",
+                "B. 服装店。",
+                "C. 图书馆。",
+                "D. 咖啡馆。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_2": {
+            "id": "GqeRnxSuLFI_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "图片中心的那个人在做什么？",
+            "options": [
+                "A. 他正在挑选一捆芦笋。",
+                "B. 他没有注意到这些农产品，正走过货架。",
+                "C. 他的姿势显得若有所思，一只手放在头上。",
+                "D. 他正在把菠菜包装放进购物车。"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_3": {
+            "id": "GqeRnxSuLFI_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "图片中央的那个人穿什么？",
+            "options": [
+                "A. 白衬衫、蓝色领带和黑色长裤。",
+                "B. 白衬衫、红色领带和蓝色长裤。",
+                "C. 蓝衬衫、白色领带和黑色长裤。",
+                "D. 黑衬衫、蓝色领带和白色长裤。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_4": {
+            "id": "GqeRnxSuLFI_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "左边的木桶里装的是什么？",
+            "options": [
+                "A. 苹果。",
+                "B. 芦笋。",
+                "C. 生菜。",
+                "D. 菠菜包。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_5": {
+            "id": "GqeRnxSuLFI_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "左边的木桶的外观是什么样的？",
+            "options": [
+                "A. 木桶的设计简单，并有深色加固带。",
+                "B. 木桶上雕刻有复杂的花卉图案。",
+                "C. 木桶被涂成亮色，没有加固带。",
+                "D. 木桶由金属制成，表面光亮。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_6": {
+            "id": "GqeRnxSuLFI_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "这个水果蔬菜架有多少层？",
+            "options": [
+                "A. 一层",
+                "B. 两层",
+                "C. 三层",
+                "D. 多层"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_7": {
+            "id": "GqeRnxSuLFI_7",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "架子上层右侧的菜是用塑料包装的吗？",
+            "options": [
+                "A. 是的。",
+                "B. 不，被放在玻璃柜子里。",
+                "C. 不，没有任何包装。",
+                "D. 不，装在玻璃罐中。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_8": {
+            "id": "GqeRnxSuLFI_8",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "第一层第二个物品包装标记的颜色是什么？",
+            "options": [
+                "A. 绿色、橙色和白色",
+                "B. 蓝色、黄色",
+                "C. 黑色、绿色和紫色",
+                "D. 红色、白色和蓝色"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_9": {
+            "id": "GqeRnxSuLFI_9",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "青芦笋捆放在生鲜货架的哪个位置？",
+            "options": [
+                "A. 最左侧。",
+                "B. 最顶层。",
+                "C. 最右侧。",
+                "D. 底部。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_10": {
+            "id": "GqeRnxSuLFI_10",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "图像左下角可以看到什么文字？",
+            "options": [
+                "A.  'OneMinuteEconomics.com'。",
+                "B.  'Fresh Produce'。",
+                "C.  'Special Offer'。",
+                "D.  'Healthy Choices'。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_11": {
+            "id": "GqeRnxSuLFI_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "图片中“OneMinuteEconomics.com”是什么意思？",
+            "options": [
+                "A. 它代表商店的名称。",
+                "B. 它代表价格部分。",
+                "C. 它代表视觉内容的来源或创造者。",
+                "D. 它代表折扣优惠。"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_12": {
+            "id": "GqeRnxSuLFI_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "这个穿白衬衫的男人位于场景的哪里？",
+            "options": [
+                "A. 左边。",
+                "B. 中间。",
+                "C. 右边。",
+                "D. 场景外。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_13": {
+            "id": "GqeRnxSuLFI_13",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "从白衬衫男人的视角来看，女人相对于白衬衫男人的位置在哪里？",
+            "options": [
+                "A. 女人在男人的右边。",
+                "B. 女人在男人的左边。",
+                "C. 女人在男人的后面。",
+                "D. 女人在男人的前面。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_14": {
+            "id": "GqeRnxSuLFI_14",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "从中间白衬衫男人的视角来看，场景中的另一个男人的位置在哪里？",
+            "options": [
+                "A. 在中间男人的左边。",
+                "B. 在中间男人的前面。",
+                "C. 在中间男人的右边。",
+                "D. 在中间男人的后面。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_15": {
+            "id": "GqeRnxSuLFI_15",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频场景的背景是什么？",
+            "options": [
+                "A. 动漫风格的热带海滩。",
+                "B. 动漫风格的夜晚城市景观。",
+                "C. 动漫风格的秋季森林。",
+                "D. 动漫风格的教室。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_16": {
+            "id": "GqeRnxSuLFI_16",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "中间那个人的姿势是什么？",
+            "options": [
+                "A. 中间那个人双手叉腰。",
+                "B. 中间那个人手臂交叉在身体前。",
+                "C. 中间那个人双手交叉放在背后。",
+                "D. 中间那个人双手举在空中。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_17": {
+            "id": "GqeRnxSuLFI_17",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "画面左边那个女人的姿势是什么？",
+            "options": [
+                "A. 一只手放在髋部，另一只手触摸着脸。",
+                "B. 双手交叉在她的胸前。",
+                "C. 双臂交叉抱在胸前。",
+                "D. 只手在空中挥舞，另一只手拿着包。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_18": {
+            "id": "GqeRnxSuLFI_18",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "画面右边的那个人是什么姿势？",
+            "options": [
+                "A. 一只手放在髋部，另一只手触摸着脸。",
+                "B. 正在挥手。",
+                "C. 双手插在腰上。",
+                "D. 正在向上指。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_19": {
+            "id": "GqeRnxSuLFI_19",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "人类角色的整体举止如何？",
+            "options": [
+                "A. 都表现出一种深思熟虑的举止。",
+                "B. 都看起来很匆忙。",
+                "C. 都表现出兴奋。",
+                "D. 都显示出愤怒的迹象。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_20": {
+            "id": "GqeRnxSuLFI_20",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "每个角色头上会出现什么独特的物体？",
+            "options": [
+                "A. 一个白色云状的思考泡泡，里面有一串鲜黄色香蕉的生动画面",
+                "B. 一个圆形的思考泡泡，里面有一个夜晚的城市天际线图像",
+                "C. 一个带有经济学文本的长方形横幅",
+                "D. 一个象征思想和创造力的发光星星"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_21": {
+            "id": "GqeRnxSuLFI_21",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "新这个场景中有多少个人？",
+            "options": [
+                "A. 两个",
+                "B. 三个",
+                "C. 四个",
+                "D. 五个"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_22": {
+            "id": "GqeRnxSuLFI_22",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中是否有文字存在？",
+            "options": [
+                "A. 不，没有文字。",
+                "B. 是的，文字“OneMinuteEconomics.com”位于左下角。",
+                "C. 是的，文字“GroceryStoreAdventures”位于右上角。",
+                "D. 不，文字仅在背景建筑上。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_23": {
+            "id": "GqeRnxSuLFI_23",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "中间的人在做什么手势？",
+            "options": [
+                "A. 一只手放在脸上，另一只手交叉在胸前。",
+                "B. 用一只手指向天空。",
+                "C. 用双手抓头。",
+                "D. 双臂交叉抱在胸前。"
+            ],
+            "answer": "D"
+        },
+        "GqeRnxSuLFI_24": {
+            "id": "GqeRnxSuLFI_24",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "这个女人在做什么手势？",
+            "options": [
+                "A. 一只手放在臀部上，另一只手触摸着脸。",
+                "B. 双手合十在一起。",
+                "C. 双手放在臀部上。",
+                "D. 一只手在挥手，同时另一只手拿着一个笔记本。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_25": {
+            "id": "GqeRnxSuLFI_25",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "右边的男人在做什么手势？",
+            "options": [
+                "A. 一只手放在臀部上把一只手放在下巴上。",
+                "B. 双臂交叉。",
+                "C. 指向天空。",
+                "D. 双手插在口袋里。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_26": {
+            "id": "GqeRnxSuLFI_26",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中显示了什么文本作为品牌元素？",
+            "options": [
+                "A. 'Economics101.com'。",
+                "B. 'OneMinuteEconomics.com'。",
+                "C. 'BananaEconomics.com'。",
+                "D. 'UrbanEconomics.com'。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_27": {
+            "id": "GqeRnxSuLFI_27",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景中“We Want B🍌NANAS!!”这段文字在背景的哪里？",
+            "options": [
+                "A. 底部。",
+                "B. 中间。",
+                "C. 顶部。",
+                "D. 右侧。"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_28": {
+            "id": "GqeRnxSuLFI_28",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "左边的女人从外貌上是如何描绘的？",
+            "options": [
+                "A. 黑色针织衫、一条红色百褶裙和黑色鞋子。她留着深色的齐肩短发。",
+                "B. 绿色夹克、深色裤子和黑色鞋子。她留着短黑发并正在喊叫。",
+                "C. 淡紫色长袖上衣、一条橄榄绿色裙子和黑色鞋子。她将深色头发梳成了盘发。",
+                "D. 左青绿色衬衫、蓝色裤子和白色运动鞋。她留着长长的金发。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_29": {
+            "id": "GqeRnxSuLFI_29",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "左边的女性在姿势方面是如何描绘的？",
+            "options": [
+                "A. 她自信地站着，右手放在臀部，左拳高高举起。",
+                "B. 她站着，双臂交叉，面带轻松的表情。",
+                "C. 她坐着，双手放在膝盖上。",
+                "D. 她靠在墙上，双手插在口袋里。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_30": {
+            "id": "GqeRnxSuLFI_30",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "‘BANANAS’这个词的呈现方式有什么独特之处？",
+            "options": [
+                "A. 用香蕉图案代替了‘BANANAS’中的字母‘A’。",
+                "B. ‘BANANAS’这个词是以螺旋图案书写的。",
+                "C. ‘BANANAS’这个词呈现为彩虹色。",
+                "D. ‘BANANAS’这个词是倒着写的。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_31": {
+            "id": "GqeRnxSuLFI_31",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "场景中有多少卡通人物？",
+            "options": [
+                "A. 一个。",
+                "B. 两个。",
+                "C. 三个。",
+                "D. 四个。"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_32": {
+            "id": "GqeRnxSuLFI_32",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景中是否有品牌标识？",
+            "options": [
+                "A. 有，‘OneMinuteEconomics.com’ 出现在左下角。",
+                "B. 没有，没有品牌标识。",
+                "C. 有，‘Economics101.org’ 出现在右下角。",
+                "D. 没有，但右上角有水印。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_33": {
+            "id": "GqeRnxSuLFI_33",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "中心人物正在执行什么动作？",
+            "options": [
+                "A. 似乎在说话或喊叫。",
+                "B. 在充满活力地跳舞。",
+                "C. 正在画一幅画。",
+                "D. 正在演奏一种乐器。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_34": {
+            "id": "GqeRnxSuLFI_34",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "辐射光线是朝哪个方向发出的？",
+            "options": [
+                "A. 向内向中心发出。",
+                "B. 向外从中心发出。",
+                "C. 水平贯穿整个场景发出。",
+                "D. 垂直从上到下发出。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_35": {
+            "id": "GqeRnxSuLFI_35",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "在这一幕中使用了哪种类型的镜头？",
+            "options": [
+                "A. 广角镜头。",
+                "B. 特写镜头。",
+                "C. 正面中景镜头。",
+                "D. 过肩镜头"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_36": {
+            "id": "GqeRnxSuLFI_36",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "那个穿蓝绿色衬衫的男人外貌有什么变化？",
+            "options": [
+                "A. 变成女人。",
+                "B.上衣变成了黑色衬衫。",
+                "C. 没有变化。",
+                "D. 被取代了。"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_37": {
+            "id": "GqeRnxSuLFI_37",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景中哪个视觉元素突出了角色的需求？",
+            "options": [
+                "A. 从背景中心散发出的放射状光线",
+                "B. 粗体白色文字“We Want B🍌NANAS!!”，其中用香蕉图案替代了字母“A”",
+                "C. 卡通人物的动态变形和服装",
+                "D. 角落里出现的 OneMinuteEconomics.com 品牌标识"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_38": {
+            "id": "GqeRnxSuLFI_38",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "在水果摊的左侧哪种水果被摆放？",
+            "options": [
+                "A. 红苹果",
+                "B. 青苹果",
+                "C. 黄色香蕉",
+                "D. 橙子"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_39": {
+            "id": "GqeRnxSuLFI_39",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "哪些水果排列在农产品摊位右侧？",
+            "options": [
+                "A. 红苹果",
+                "B. 黄香蕉",
+                "C. 青苹果",
+                "D. 混合水果"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_40": {
+            "id": "GqeRnxSuLFI_40",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "视频从低调的零售环境过渡到什么场景？",
+            "options": [
+                "A. 超级英雄的变身和引人注目的农产品陈列为标志。",
+                "B. 图书馆场景，里面有书籍和阅读角落。",
+                "C. 咖啡馆场景，人们在享用咖啡和糕点。",
+                "D. 工业空间，展示机器和工程师工作。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_41": {
+            "id": "GqeRnxSuLFI_41",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "在超级英雄变身后，这个男人的制服是什么样子的？",
+            "options": [
+                "A. 制服是蓝色的，贴身设计，并带有明亮的黄色点缀。",
+                "B. 制服是红色的，带有白色条纹，并配有一个兜帽。",
+                "C. 制服是绿色的，带有橙色图案，并配有护目镜。",
+                "D. 制服是黑色的，配有银色披风和发光的手套。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_42": {
+            "id": "GqeRnxSuLFI_42",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "在超级英雄变身后，这位男子的服饰包括哪些配件或设计元素？",
+            "options": [
+                "A. 一条腰带、袖口、一个五边形胸徽、黑色靴子和一个黑色眼罩",
+                "B. 一顶头盔、手套、肩膀上的星星、有闪电图案的披风和白色靴子",
+                "C. 一条腰带、肩垫、膝盖高的靴子、太阳眼镜和一个银色披风",
+                "D. 一条围巾、腕带、一个圆形胸徽、红靴子和一个黑色面具"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_43": {
+            "id": "GqeRnxSuLFI_43",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "在超级英雄变身之后，这个男人的发型是怎样的？",
+            "options": [
+                "A. 向上竖起。",
+                "B. 扎成了马尾。",
+                "C. 剪成了平头。",
+                "D. 是侧分的。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_44": {
+            "id": "GqeRnxSuLFI_44",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "这个男人的超级英雄服装上有哪种颜色的点缀？",
+            "options": [
+                "A. 鲜亮的黄色",
+                "B. 鲜亮的红色",
+                "C. 鲜亮的绿色",
+                "D. 鲜亮的蓝色"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_45": {
+            "id": "GqeRnxSuLFI_45",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "超级英雄服的哪些特定部位有黄色装饰？",
+            "options": [
+                "A. 腰带、袖口、胸部徽章。",
+                "B. 面具、靴子、胸部徽章和斗篷。",
+                "C. 腰带、靴子、胸部徽章和斗篷。",
+                "D. 腰带、袖口、靴子和胸部徽章。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_46": {
+            "id": "GqeRnxSuLFI_46",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "水果摊有多少个区域？",
+            "options": [
+                "A. 两个。",
+                "B. 三个。",
+                "C. 四个。",
+                "D. 五个。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_47": {
+            "id": "GqeRnxSuLFI_47",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "在农产品摊位的各个部分展示了哪些水果？",
+            "options": [
+                "A. 左侧部分有红苹果，中间部分有黄香蕉，右侧部分有绿苹果。",
+                "B. 左侧部分有绿苹果，中间部分有红苹果，右侧部分有黄香蕉。",
+                "C. 左侧部分有香蕉，中间部分有绿苹果，右侧部分有红苹果。",
+                "D. 左侧部分有黄香蕉，中间部分有红苹果，右侧部分有绿香蕉。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_48": {
+            "id": "GqeRnxSuLFI_48",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "之前画面中的三个角色在超人出现的场景中是否还存在？",
+            "options": [
+                "A. 是的，他们还在场景中。",
+                "B. 不，他们从场景中消失了。",
+                "C. 他们移动到了场景的不同部分。",
+                "D. 他们的角色发生了变化，但他们还在场景中。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_49": {
+            "id": "GqeRnxSuLFI_49",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "新变身的超级英雄摆出了什么姿势？",
+            "options": [
+                "A. 一只手胜利地举起，另一只手弯曲。",
+                "B. 他交叉双臂于胸前，表现出自信。",
+                "C. 他单膝跪地，双臂向外伸展。",
+                "D. 他双手叉腰站立，表情严肃。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_50": {
+            "id": "GqeRnxSuLFI_50",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "这些发光的淡蓝色光线是如何排列的？",
+            "options": [
+                "A. 锯齿形排列。",
+                "B. 圆形排列。",
+                "C. 射线形排列。",
+                "D. 水平排列。"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_51": {
+            "id": "GqeRnxSuLFI_51",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "在前后画面之间，环境发生了什么显著变化？",
+            "options": [
+                "A. 从零售场所变成水果摊位。",
+                "B. 从零售场所变成公共厕所。",
+                "C. 从零售场所变成小巷。",
+                "D. 从零售场所变成户外野餐场景。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_52": {
+            "id": "GqeRnxSuLFI_52",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "视频中出现了哪些品牌标识？",
+            "options": [
+                "A. 出现了'OneMinuteEconomics.com'的品牌标识。",
+                "B. 出现了'SuperHeroMarket.com'的品牌标识。",
+                "C. 出现了'RetailRevolution.com'的品牌标识。",
+                "D. 出现了'DynamicEconomics.com'的品牌标识。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_53": {
+            "id": "GqeRnxSuLFI_53",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "视频中的品牌标识位于哪里？",
+            "options": [
+                "A. 顶部中央。",
+                "B. 左下角。",
+                "C. 农产品摊的中心。",
+                "D. 超级英雄胸前的徽章上。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_54": {
+            "id": "GqeRnxSuLFI_54",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "超级英雄站在画面的什么位置？",
+            "options": [
+                "A. 在画面的左侧",
+                "B. 在画面的中央",
+                "C. 在画面的右侧",
+                "D. 在水果摊后面"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_55": {
+            "id": "GqeRnxSuLFI_55",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频场景中的环境是怎样的？",
+            "options": [
+                "A. 环境充满活力和动感，背景中有明亮的蓝光和几何图形。",
+                "B. 环境平静祥和，以宁静的森林场景为特点。",
+                "C. 环境单调沉闷，有着纯白的墙面和极少的道具。",
+                "D. 环境黑暗而神秘，雾气弥漫在荒凉的景观上。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_56": {
+            "id": "GqeRnxSuLFI_56",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "当有个女人出现在屏幕上时，她穿着什么？",
+            "options": [
+                "A. 棕色外套、黑色紧身裤、红色鞋子，并扎着马尾辫。",
+                "B. 蓝色外套、深色裤子和一顶帽子。",
+                "C. 绿色夹克、牛仔裤和运动鞋。",
+                "D. 红色连衣裙、黑色靴子和一条围巾。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_57": {
+            "id": "GqeRnxSuLFI_57",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "水果摊展示了哪些种类的苹果？",
+            "options": [
+                "A. 红苹果和绿苹果。",
+                "B. 红苹果和黄苹果。",
+                "C. 绿苹果和黄苹果。",
+                "D. 只展示了红苹果。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_58": {
+            "id": "GqeRnxSuLFI_58",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "水果摊上摆着什么类型的香蕉？",
+            "options": [
+                "A. 黄色的香蕉。",
+                "B. 绿色的香蕉。",
+                "C. 红色的香蕉。",
+                "D. 蓝色的香蕉。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_59": {
+            "id": "GqeRnxSuLFI_59",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "除了超级英雄外，引入了多少新角色？",
+            "options": [
+                "A. 一个。",
+                "B. 两个。",
+                "C. 三个。",
+                "D. 没有引入新角色。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_60": {
+            "id": "GqeRnxSuLFI_60",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "视频中是否能看到文本 'OneMinuteEconomics.com'？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 只有部分可见",
+                "D. 未提及"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_61": {
+            "id": "GqeRnxSuLFI_61",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "超级英雄的外貌有什么变化？",
+            "options": [
+                "A. 没有变化。",
+                "B. 换上了红色披风和黑色靴子。",
+                "C. 现在穿着绿色的衣服，配有橙色的装饰。",
+                "D. 换上了黄色夹克和白色裤子。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_62": {
+            "id": "GqeRnxSuLFI_62",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "背景的左下角有什么文字？",
+            "options": [
+                "A.  'OneMinuteEconomics.com'。",
+                "B.  'SuperheroAdventures.com'。",
+                "C.  'FruitMarketDaily.com'。",
+                "D.  'DynamicScenes.com'。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_63": {
+            "id": "GqeRnxSuLFI_63",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "超人在农产品摊位的哪个位置？",
+            "options": [
+                "A. 后面。",
+                "B. 左边。",
+                "C. 前面。",
+                "D. 右边。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_64": {
+            "id": "GqeRnxSuLFI_64",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "场景中引入的新角色穿着是什么样子的？",
+            "options": [
+                "A. 白色衬衫搭配绿色领带、深色裤子和棕色鞋子。",
+                "B. 红色衬衫、蓝色裤子和黄色运动鞋。",
+                "C. 灰色西装，戴着紫色帽子和白色手套。",
+                "D. 黑色夹克，搭配红色围巾和米色裤子。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_65": {
+            "id": "GqeRnxSuLFI_65",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "新角色旁边的架子上摆放了什么物品？",
+            "options": [
+                "A. 面包产品和盒装物品。",
+                "B. 水果产品和谷物盒。",
+                "C. 罐头食品和瓶装饮料。",
+                "D. 蔬菜产品和零食。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_66": {
+            "id": "GqeRnxSuLFI_66",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "画面中可见多少个角色？",
+            "options": [
+                "A. 三个",
+                "B. 四个",
+                "C. 五个",
+                "D. 六个"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_67": {
+            "id": "GqeRnxSuLFI_67",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "在接下来的画面中，超级英雄是否与农产品摊位互动？",
+            "options": [
+                "A. 是的。",
+                "B. 不。",
+                "C. 打翻了农产品摊位。",
+                "D. 把物品放回农产品摊位。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_68": {
+            "id": "GqeRnxSuLFI_68",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "初始画面中部分可见的角色在做什么？",
+            "options": [
+                "A. 跑向水果摊。",
+                "B. 站在货架旁边。",
+                "C. 正在从货架上拿一根香蕉。",
+                "D. 正在整理面包架上的物品。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_69": {
+            "id": "GqeRnxSuLFI_69",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "从画面来看，绿色苹果在水果摊上的位置是什么？",
+            "options": [
+                "A. 左侧。",
+                "B. 中间。",
+                "C. 右侧。",
+                "D. 不存在。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_70": {
+            "id": "GqeRnxSuLFI_70",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "这个镜头的视角是什么？",
+            "options": [
+                "A. 提供了角色和杂货店布置的视角。",
+                "B. 只关注超级英雄角色。",
+                "C. 是水果摊的仰视图。",
+                "D. 是整个杂货店的鸟瞰图。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_71": {
+            "id": "GqeRnxSuLFI_71",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "在前一个场景和当前场景中，女孩和男孩的位置发生了什么变化？",
+            "options": [
+                "A. 在前一个场景中，女孩在男孩前面站着，他们在当前场景中继续静止地站在农产品摊前。",
+                "B. 在前一个场景中，女孩和男孩跑过农产品摊，而在当前场景中，他们并肩站在农产品摊前。",
+                "C. 起初，女孩和男孩都在站着，但后来他们开始跑过农产品摊。",
+                "D. 在两个场景中，女孩和男孩都静止地站在农产品摊前。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_72": {
+            "id": "GqeRnxSuLFI_72",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "在初始画面和后续画面之间，超级英雄的位置发生了哪些变化？",
+            "options": [
+                "A. 初始画面：部分可见；后续画面：完全可见立于摊前。",
+                "B. 初始画面：立于摊后；后续画面：与产品互动。",
+                "C. 初始画面：隐形的；后续画面：在农产品摊上飞行。",
+                "D. 初始画面：在面包架旁；后续画面：靠近绿苹果。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_73": {
+            "id": "GqeRnxSuLFI_73",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "在后续的画面中引入了什么新的元素？",
+            "options": [
+                "A. 一个新角色出现在面包架旁。",
+                "B. 女孩和男孩开始奔跑。",
+                "C. 超级英雄角色消失了。",
+                "D. 水果摊被一个新的展示台取代了。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_74": {
+            "id": "GqeRnxSuLFI_74",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "场景中有什么文字？",
+            "options": [
+                "A. 左下角有 'OneMinuteEconomics.com'。",
+                "B. 左下角有 'SuperheroMarket.com'。",
+                "C. 左下角有 'FruitStandAdventures.com'。",
+                "D. 左下角有 'GroceryStoreFun.com'。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_75": {
+            "id": "GqeRnxSuLFI_75",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "超级英雄角色在场景开始时位于哪里?",
+            "options": [
+                "A. 位于面包架的右边。",
+                "B. 位于男孩和女孩的左边。",
+                "C. 色站在农产品摊位旁边。",
+                "D. 位于黄背景的一侧附近。"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_76": {
+            "id": "GqeRnxSuLFI_76",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "最初场景的设置是什么？",
+            "options": [
+                "A. 动画市场环境中。",
+                "B. 训练室中。",
+                "C. 图书馆中。",
+                "D. 城市街道上。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_77": {
+            "id": "GqeRnxSuLFI_77",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "那个女孩在思考什么？",
+            "options": [
+                "A. 她在考虑开始卖东西，就如同她的思考泡泡里写着‘I SHOULD START SELLING’。",
+                "B. 她在考虑从超级英雄那里购买绿苹果。",
+                "C. 她在考虑和男孩离开市场场景。",
+                "D. 她在考虑帮助面包架旁的那个人。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_78": {
+            "id": "GqeRnxSuLFI_78",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "水果摊上展示了哪些水果？",
+            "options": [
+                "A. 橙子、黄色香蕉和红苹果。",
+                "B. 青苹果、黄色香蕉和桃子。",
+                "C. 青苹果、黄色香蕉和红苹果。",
+                "D. 青苹果、葡萄和黄色香蕉。"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_79": {
+            "id": "GqeRnxSuLFI_79",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "水果在农产品摊位上是如何排列的？",
+            "options": [
+                "A. 绿苹果在右边，红苹果在中间，黄香蕉在左边。",
+                "B. 绿苹果在左边，黄香蕉在中间，红苹果在右边。",
+                "C. 红苹果在左边，黄香蕉在中间，绿苹果在右边。",
+                "D. 黄香蕉在左边，绿苹果在中间，红苹果在右边。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_80": {
+            "id": "GqeRnxSuLFI_80",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "场景中一共有多少人类角色？",
+            "options": [
+                "A. 两个。",
+                "B. 一个。",
+                "C. 三个。",
+                "D. 没有人类角色。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_81": {
+            "id": "GqeRnxSuLFI_81",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "整个场景中都能看到“OneMinuteEconomics.com”这段文字吗？",
+            "options": [
+                "A. 是的。",
+                "B. 不是，仅开头部分可见。",
+                "C. 不是，过渡过程中消失了。",
+                "D. 是的，只有在超级英雄拿着苹果时才会出现。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_82": {
+            "id": "GqeRnxSuLFI_82",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "超级英雄在场景中做了什么手势？",
+            "options": [
+                "A. 伸出手指指向前方。",
+                "B. 指向面包架。",
+                "C. 向女孩挥手。",
+                "D. 朝着黄色的香蕉做手势。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_83": {
+            "id": "GqeRnxSuLFI_83",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "超级英雄面朝什么方向？",
+            "options": [
+                "A. 超级英雄与水果摊朝向同样方向。",
+                "B. 超级英雄正面朝面包架。",
+                "C. 超级英雄正面朝女孩。",
+                "D. 超级英雄正面朝背景。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_84": {
+            "id": "GqeRnxSuLFI_84",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "这个超级英雄的外观是怎样的，特别是服装和外貌特征？",
+            "options": [
+                "A. 深蓝色的服装，金色的胸部徽章，相配的腰带，黑色的靴子和眼罩，并有一个往上梳的发型。",
+                "B. 红色的斗篷，一套带蓝色星星的银色衣服，白色的靴子和头盔，拥有长长的飘逸头发。",
+                "C. 绿色衣服，搭配黄色斗篷，棕色手套，红色鞋子和头带，有着卷曲的头发。",
+                "D. 特征是黑色的服装，金色靴子，银色手套，橙色腰带，以及红色的面具，头发短。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_85": {
+            "id": "GqeRnxSuLFI_85",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "场景中的水果摊是如何摆放的？",
+            "options": [
+                "A. 以直线形排列。",
+                "B. 以圆形排列。",
+                "C. 以三角形排列。",
+                "D. 是随意排列的。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_86": {
+            "id": "GqeRnxSuLFI_86",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "视频场景的环境是什么样子的？",
+            "options": [
+                "A. 小巷里。",
+                "B. 水果摊。",
+                "C. 城市街道。",
+                "D. 仓库。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_87": {
+            "id": "GqeRnxSuLFI_87",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "红发女人在熙熙攘攘的市场场景中穿着什么？",
+            "options": [
+                "A. 一件棕色风衣",
+                "B. 一套带有黄色闪电图案的蓝色西装",
+                "C. 一个米色包",
+                "D. 一件绿色连衣裙"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_88": {
+            "id": "GqeRnxSuLFI_88",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "水果摊上有什么展示出来的物品？",
+            "options": [
+                "A. 红苹果、黄香蕉、绿苹果。",
+                "B. 橙子、梨、葡萄。",
+                "C. 樱桃、柠檬、浆果。",
+                "D. 芒果、鳄梨、草莓。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_89": {
+            "id": "GqeRnxSuLFI_89",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "水果摊上的物品是如何组织的？",
+            "options": [
+                "A. 物品被随机散布在摊位上。",
+                "B. 物品被完美地整理在各自的箱子里。",
+                "C. 物品被堆成一堆杂乱无章。",
+                "D. 物品被排列成一个圆形。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_90": {
+            "id": "GqeRnxSuLFI_90",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "摊位上有多少种水果？",
+            "options": [
+                "A. 两种水果",
+                "B. 三种水果",
+                "C. 四种水果",
+                "D. 五种水果"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_91": {
+            "id": "GqeRnxSuLFI_91",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "摊位上有哪些种类的水果？",
+            "options": [
+                "A. 红苹果、绿苹果和黄香蕉",
+                "B. 红苹果、黄苹果和绿香蕉",
+                "C. 绿苹果、红苹果和蓝香蕉",
+                "D. 黄苹果、红香蕉和绿葡萄"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_92": {
+            "id": "GqeRnxSuLFI_92",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "在场景转换过程中，蓝色背景会变化吗？",
+            "options": [
+                "A. 是的，变成蓝色。",
+                "B. 是的，变成其他颜色。",
+                "C. 不，保持不变。",
+                "D. 是的，它会充满不同的图案。"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_93": {
+            "id": "GqeRnxSuLFI_93",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "当视角转向水果摊时，会出现什么视觉变化？",
+            "options": [
+                "A. 放大效果使视角更接近水果摊，放大了视野中的农产品和箱子。",
+                "B. 水果摊被重新排列成一个圆形结构，改变了它们的布局。",
+                "C. 背景从奇幻的浅蓝色变为深绿色的森林场景。",
+                "D. 摆摊上方悬浮的空白棕色标牌被手写的水果价格标签取代。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_94": {
+            "id": "GqeRnxSuLFI_94",
+            "scene": 8,
+            "dimension": "Camera Direction",
+            "question": "相机朝哪个方向变焦以聚焦在水果摊上？",
+            "options": [
+                "A. 相机拉远。",
+                "B. 相机直接拉近。",
+                "C. 相机向左平移。",
+                "D. 相机向上倾斜。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_95": {
+            "id": "GqeRnxSuLFI_95",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "使用了什么相机视角来突出水果摊？",
+            "options": [
+                "A. 使用了直截了当、无遮掩的相机视角。",
+                "B. 使用了俯视视角。",
+                "C. 使用了对角、倾斜的相机视角。",
+                "D. 使用了鸟瞰视角。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_96": {
+            "id": "GqeRnxSuLFI_96",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "在放大效果期间，“OneMinuteEconomics.com”文字的可见性会发生什么变化？",
+            "options": [
+                "A. “OneMinuteEconomics.com”文字变得更加明显。",
+                "B. “OneMinuteEconomics.com”文字保持完全可见。",
+                "C. “OneMinuteEconomics.com”文字没有变化。",
+                "D. “OneMinuteEconomics.com”文字改变颜色。"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_97": {
+            "id": "GqeRnxSuLFI_97",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "两个女生的组合在画面中位于哪里？",
+            "options": [
+                "A. 位于左下角。",
+                "B. 位于右上角。",
+                "C. 位于画面的中央。",
+                "D. 位于左侧。"
+            ],
+            "answer": "D"
+        },
+        "GqeRnxSuLFI_98": {
+            "id": "GqeRnxSuLFI_98",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "这一场景中的络腮胡脏辫男子的穿着是什么？",
+            "options": [
+                "A. 一件白色和蓝色的套头衫配芥末黄色的裤子。",
+                "B. 一件黑色长袖衬衫搭配栗色裤子。",
+                "C. 一件带白色星星图案的黑色T恤和深色裤子。",
+                "D. 一件白色衬衫配黑色领带和裤子。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_99": {
+            "id": "GqeRnxSuLFI_99",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "中间组中右侧男人穿着什么衣服？",
+            "options": [
+                "A. 黑色长袖衬衫和栗色长裤。",
+                "B. 白色和蓝色的斗篷袖衬衫搭配芥末黄色长裤。",
+                "C. 黑色T恤衫，上面有白色星星图案和深色长裤。",
+                "D. 白衬衫配黑色领带和长裤。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_100": {
+            "id": "GqeRnxSuLFI_100",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "场景发生在哪里？",
+            "options": [
+                "A. 果园。",
+                "B. 卡通市场中。",
+                "C. 蓝色背景上。",
+                "D. 教室里。"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_101": {
+            "id": "GqeRnxSuLFI_101",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "左侧组左边的那个女孩穿着什么？",
+            "options": [
+                "A. 一件白色夹克，里面搭配粉色上衣，青绿色裤子和黑色鞋子",
+                "B. 一件黑色上衣搭配红色裙子和白色鞋子",
+                "C. 一件浅蓝色连衣裙搭配黑色鞋子",
+                "D. 一件白色T恤搭配蓝色牛仔裤和红色鞋子"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_102": {
+            "id": "GqeRnxSuLFI_102",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "场景中有多少个角色?",
+            "options": [
+                "A. 四个。",
+                "B. 五个。",
+                "C. 六个。",
+                "D. 七个。"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_103": {
+            "id": "GqeRnxSuLFI_103",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "下一场景中，那个穿浅蓝色连衣裙的女孩是否位于画面右下角？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 她位于左上角",
+                "D. 她位于中央"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_104": {
+            "id": "GqeRnxSuLFI_104",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "左下角显示什么文本？",
+            "options": [
+                "A. 'OneMinuteEconomics.com'。",
+                "B. 'FruitMarket.com'。",
+                "C. 'CartoonEconomics.net'。",
+                "D. 'EconomyInsights.org'。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_105": {
+            "id": "GqeRnxSuLFI_105",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "单词 'SUPPLY' 在金天平上的什么位置？",
+            "options": [
+                "A. 左边盘子上。",
+                "B. 右边盘子上。",
+                "C. 上方。",
+                "D. 下方。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_106": {
+            "id": "GqeRnxSuLFI_106",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "单词 'DEMAND' 在金色天平的哪个位置？",
+            "options": [
+                "A. 左盘上。",
+                "B. 右盘上。",
+                "C. 上方。",
+                "D. 下方。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_107": {
+            "id": "GqeRnxSuLFI_107",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "视频中市场场景过渡后是什么场景？",
+            "options": [
+                "A. 场景过渡到卡通式市场。",
+                "B. 场景过渡到金色天平。",
+                "C. 场景过渡到地球仪。",
+                "D. 场景过渡到森林场景。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_108": {
+            "id": "GqeRnxSuLFI_108",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "金色天平上有哪些装饰细节？",
+            "options": [
+                "A. 金色天平有装饰细节。",
+                "B. 金色天平没有任何装饰特征。",
+                "C. 金色天平上有彩色的水果图案。",
+                "D. 金色天平上有文字但没有装饰。"
+            ],
+            "answer": "D"
+        },
+        "GqeRnxSuLFI_109": {
+            "id": "GqeRnxSuLFI_109",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "天平金色秤盘上显示了哪些词语？",
+            "options": [
+                "A. “PRICE”和“VALUE”两个词。",
+                "B. “SUPPLY”和“DEMAND”两个词。",
+                "C. “EXPENSE”和“INCOME”两个词。",
+                "D. “COST”和“BENEFIT”两个词。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_110": {
+            "id": "GqeRnxSuLFI_110",
+            "scene": 11,
+            "dimension": "Count",
+            "question": "在视频中，金色平衡秤上显示了多少个不同的单词？",
+            "options": [
+                "A. 两个。",
+                "B. 三个。",
+                "C. 四个。",
+                "D. 一个。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_111": {
+            "id": "GqeRnxSuLFI_111",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "在视频中金色天平上显示的不同单词是什么？",
+            "options": [
+                "A. 显示的是“SUPPLY”和“DEMAND两个词。",
+                "B. 显示的是“BALANCE”和“EQUILIBRIUM”两个词。",
+                "C. 显示的是“PROFIT'”和“LOSS”两个词。",
+                "D. 显示的是“BUY”和“SELL”两个词。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_112": {
+            "id": "GqeRnxSuLFI_112",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "在天平的这场景中，亮绿色的背景会变化吗？",
+            "options": [
+                "A. 是的，背景变成蓝色。",
+                "B. 是的，背景变成黄色。",
+                "C. 不，亮绿色的背景保持不变。",
+                "D. 是的，背景变成白色。"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_113": {
+            "id": "GqeRnxSuLFI_113",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "当“DEMAND”被加入时，天平的盘子会发生什么？",
+            "options": [
+                "A. 盘子的平衡略有偏移，体现了动态平衡。",
+                "B. 盘子保持完全平衡，没有任何变化。",
+                "C. 标有“SUPPLY”的左盘变得更重，天平倾斜。",
+                "D. 标有“DEMAND”的右盘变得更重，天平倾斜。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_114": {
+            "id": "GqeRnxSuLFI_114",
+            "scene": 11,
+            "dimension": "Camera Shot",
+            "question": "在展示黄金天平的场景中使用了什么摄像机角度？",
+            "options": [
+                "A. 使用直接的正面摄像机角度。",
+                "B. 使用俯视角。",
+                "C. 使用侧角。",
+                "D. 使用特写镜头。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_115": {
+            "id": "GqeRnxSuLFI_115",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "从市场过渡到天平是如何发生的？",
+            "options": [
+                "A. 过渡是突然的，市场瞬间被天平取代。",
+                "B. 过渡是渐进的，热闹的市场场景逐渐消失并被天平取代。",
+                "C. 在市场过渡到天平的同时，背景颜色逐渐变化。",
+                "D. 天平出现在市场场景的上层叠加，随后完全过渡。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_116": {
+            "id": "GqeRnxSuLFI_116",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "在视频的两个场景中，什么视觉元素是一贯出现的？",
+            "options": [
+                "A. 品牌文字：'OneMinuteEconomics.com'",
+                "B. 粗体字的'供应'一词",
+                "C. 生动的市场角色",
+                "D. 鲜艳明亮的绿色背景"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_117": {
+            "id": "GqeRnxSuLFI_117",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频开头描述的是哪种场景？",
+            "options": [
+                "A. 一个男人站在水果市场。",
+                "B. 乡村农场。",
+                "C. 城市街道。",
+                "D. 办公场景。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_118": {
+            "id": "GqeRnxSuLFI_118",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频开头的市场场景后来是如何变化的？",
+            "options": [
+                "A. 场景变成城市景观，然后转变卡通市集。",
+                "B. 场景过渡到一个带有供需平衡的简约模式。",
+                "C. 熙熙攘攘的市场转变为宁静的乡村景色。",
+                "D. 场景转变为一个黑暗的未来城市环境。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_119": {
+            "id": "GqeRnxSuLFI_119",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "超级英雄最初在视频中是如何出现的？",
+            "options": [
+                "A. 在一个平静而有序的零售环境中出现。",
+                "B. 从大楼上荡下来出现。",
+                "C. 最初在街头战斗中间出现。",
+                "D. 最初在天上飞行时出现。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_120": {
+            "id": "GqeRnxSuLFI_120",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "超级英雄之后出现在视频的哪里？",
+            "options": [
+                "A.在水果摊附近。",
+                "B.在市场上空飞行。",
+                "C. 在天平秤附近。",
+                "D. 在人群面前发表演讲。"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_121": {
+            "id": "GqeRnxSuLFI_121",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频中的环境顺序是怎样的？",
+            "options": [
+                "A. 从市场转到城市、生鲜区，然后到专注于经济原则的抽象表现。",
+                "B. 从生鲜区转到城市、市场，然后到专注于经济原则的抽象表现。",
+                "C. 从市场转到地理地图、生鲜区，到课堂。",
+                "D. 从城市到生鲜区、市场和地理地图。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_122": {
+            "id": "GqeRnxSuLFI_122",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "文本 'OneMinuteEconomics.com' 在视频中什么时候出现？",
+            "options": [
+                "A. 仅在视频开头出现。",
+                "B. 在整个视频中的左下角。",
+                "C. 仅在市场场景中出现。",
+                "D.  仅在天平出现时显示。"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_123": {
+            "id": "GqeRnxSuLFI_123",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "视频中，'OneMinuteEconomics.com'的存在如何变化？",
+            "options": [
+                "A. 在某些过渡期间，文字会短暂消失。",
+                "B. 文字始终保持可见。",
+                "C. 文字会改变颜色以匹配不同背景。",
+                "D. 文字会在屏幕的不同角落之间切换位置。"
+            ],
+            "answer": "B"
+        }
+    }
+}

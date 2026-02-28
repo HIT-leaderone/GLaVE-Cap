@@ -1,0 +1,554 @@
+{
+    "scene_hint": {
+        "0": "The game hero walks alone in another direction from the tower.",
+        "1": "The enemy hero appears, and both sides engage in battle."
+    },
+    "qa": {
+        "6Z_XNM_iT4g_0": {
+            "id": "6Z_XNM_iT4g_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "From the video, where is The SquirtMaster located in relation to the turret?",
+            "options": [
+                "A. The SquirtMaster is located to the left of the turret.",
+                "B. The SquirtMaster is located to the right of the turret.",
+                "C. The SquirtMaster is located behind the turret.",
+                "D. The SquirtMaster is located in front of the turret."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_1": {
+            "id": "6Z_XNM_iT4g_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the game scene?",
+            "options": [
+                "A. The game scene is set in a landscape composed of various rocks, plants, flowers, etc.",
+                "B. The game scene is set in a desert environment with cacti, sand dunes, and a distant oasis.",
+                "C. The game scene is set in a snowy tundra with ice blocks, snow-covered trees, and frozen lakes.",
+                "D. The game scene is set in a dark volcanic landscape with lava, ash clouds, and charred rocks."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_2": {
+            "id": "6Z_XNM_iT4g_2",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "In the game, what is The SquirtMaster holding?",
+            "options": [
+                "A. A glowing purple energy ball",
+                "B. A burning red battle axe",
+                "C. A shimmering blue staff",
+                "D. A golden crossbow"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_3": {
+            "id": "6Z_XNM_iT4g_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What are the additional visual effects related to The SquirtMaster in the game?",
+            "options": [
+                "A. The SquirtMaster has a glowing aura 'underfoot'.",
+                "B. The SquirtMaster's armor has trailing smoke effects.",
+                "C. The SquirtMaster's weapon is surrounded by lightning effects.",
+                "D. Shadow-like tentacles emerge under The SquirtMaster's feet."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_4": {
+            "id": "6Z_XNM_iT4g_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What does the turret look like in the game scene?",
+            "options": [
+                "A. The turret is made of wood and surrounded by a magical barrier.",
+                "B. The turret is made of stone, with golden decorations and holding a scepter.",
+                "C. The turret is a mechanical structure with gears and emitting smoke.",
+                "D. The turret is shaped like a giant tree, with leaves shimmering with green light."
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_5": {
+            "id": "6Z_XNM_iT4g_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is the condition of the turret in the game scene?",
+            "options": [
+                "A. The turret is severely damaged, with its health bar almost depleted.",
+                "B. The turret is intact, with no visible damage or cracks.",
+                "C. The turret is partially damaged, with only minor wear.",
+                "D. The turret is completely destroyed, with no remnants visible."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_6": {
+            "id": "6Z_XNM_iT4g_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many friendly melee minions with axes are near The SquirtMaster?",
+            "options": [
+                "A. Two",
+                "B. Three",
+                "C. Four",
+                "D. Five"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_7": {
+            "id": "6Z_XNM_iT4g_7",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is the turret on the verge of destruction?",
+            "options": [
+                "A. Yes, the turret is on the verge of destruction.",
+                "B. No, the turret is intact.",
+                "C. No, the turret has only minor damage.",
+                "D. No, there is no turret in the scene."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_8": {
+            "id": "6Z_XNM_iT4g_8",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What action is The SquirtMaster taking?",
+            "options": [
+                "A. The SquirtMaster is healing their allies.",
+                "B. The SquirtMaster is moving alone in another direction.",
+                "C. The SquirtMaster is retreating to the base.",
+                "D. The SquirtMaster is killing minions."
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_9": {
+            "id": "6Z_XNM_iT4g_9",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "From the perspective of watching the video, in which direction are the minions moving?",
+            "options": [
+                "A. The minions are moving to the bottom left.",
+                "B. The minions are moving to the top left.",
+                "C. The minions are moving to the bottom right.",
+                "D. The minions are moving to the top right."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_10": {
+            "id": "6Z_XNM_iT4g_10",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many allied minions appear in this scene?",
+            "options": [
+                "A. Three",
+                "B. Four",
+                "C. Six",
+                "D. Eight"
+            ],
+            "answer": "C"
+        },
+        "6Z_XNM_iT4g_11": {
+            "id": "6Z_XNM_iT4g_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the FPS displayed on the screen at the beginning of the video?",
+            "options": [
+                "A. FPS is 233.",
+                "B. FPS is 240.",
+                "C. FPS is 239.",
+                "D. FPS is 259."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_12": {
+            "id": "6Z_XNM_iT4g_12",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the delay displayed on the screen?",
+            "options": [
+                "A. 30ms",
+                "B. 55ms",
+                "C. 75ms",
+                "D. 100ms"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_13": {
+            "id": "6Z_XNM_iT4g_13",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What is the current status of the turret's health bar?",
+            "options": [
+                "A. The turret's health bar is almost empty now.",
+                "B. The turret's health bar has fully recovered.",
+                "C. The turret's health bar has suffered minor damage.",
+                "D. The turret's health bar has been reduced by half."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_14": {
+            "id": "6Z_XNM_iT4g_14",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What is the current status of the turret's structural integrity?",
+            "options": [
+                "A. The turret's structural integrity has been fully restored, with no visible damage.",
+                "B. The turret's structural integrity has been compromised, with visible cracks.",
+                "C. The turret's structural integrity has not changed since the start of the battle.",
+                "D. The turret's structural integrity has slightly improved due to allied repairs."
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_15": {
+            "id": "6Z_XNM_iT4g_15",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What information appears at the very bottom of the screen at the start of the video?",
+            "options": [
+                "A. Text: 'cannot cast that right now!'",
+                "B. Text: 'Push the turret now!'",
+                "C. Text: 'Retreat and regroup!'",
+                "D. Text: 'Focus on the minions!'"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_16": {
+            "id": "6Z_XNM_iT4g_16",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What might the text at the bottom of the screen indicate?",
+            "options": [
+                "A. Indicates there was a problem with skill casting.",
+                "B. Indicates the player encountered technical difficulties.",
+                "C. The text is a congratulatory message for a successful attack.",
+                "D. The text is a request for additional resources."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_17": {
+            "id": "6Z_XNM_iT4g_17",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "When the enemy hero appears, where is The SquirtMaster located?",
+            "options": [
+                "A. The SquirtMaster is slightly to the left at the top of the screen",
+                "B. The SquirtMaster is slightly to the right at the top of the screen",
+                "C. The SquirtMaster is slightly to the left at the center bottom of the screen",
+                "D. The SquirtMaster is slightly to the right at the center bottom of the screen"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_18": {
+            "id": "6Z_XNM_iT4g_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the layout of the battlefield's middle lane?",
+            "options": [
+                "A. The middle lane is composed of stones and grass, with rivers on both sides.",
+                "B. The middle lane is a dirt path, surrounded by dense forest.",
+                "C. The middle lane is a wooden bridge spanning a flowing river.",
+                "D. The middle lane is a sandy path, flanked by desert cliffs."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_19": {
+            "id": "6Z_XNM_iT4g_19",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What decorations can be seen on the battlefield?",
+            "options": [
+                "A. Large statues emitting magical energy glows",
+                "B. Flames burning on top of stones located beside the river",
+                "C. Enchanted trees emitting a golden sheen",
+                "D. Floating crystals hovering above the battlefield"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_20": {
+            "id": "6Z_XNM_iT4g_20",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the enemy hero perform when they were killed?",
+            "options": [
+                "A. The enemy hero attacked the opposing side's minions.",
+                "B. The enemy hero fled from the battle.",
+                "C. The enemy hero celebrated victory.",
+                "D. The enemy hero joined the group of minions."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_21": {
+            "id": "6Z_XNM_iT4g_21",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What are the physical characteristics of the enemy hero that was killed?",
+            "options": [
+                "A. The enemy hero is slightly hunched.",
+                "B. The enemy hero is tall and large.",
+                "C. The enemy hero is short and small.",
+                "D. The enemy hero moves using wheels."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_22": {
+            "id": "6Z_XNM_iT4g_22",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the defeated enemy hero?",
+            "options": [
+                "A. The hero is black, with a red glow emanating from their body.",
+                "B. The hero is blue, with a blue glow emanating from their body.",
+                "C. The hero is red, with a red glow emanating from their body.",
+                "D. The hero is purple, with a blue glow emanating from their body."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_23": {
+            "id": "6Z_XNM_iT4g_23",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many groups can the enemy minions be divided into based on their outfits?",
+            "options": [
+                "A. One group",
+                "B. Two groups",
+                "C. Three groups",
+                "D. Four groups"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_24": {
+            "id": "6Z_XNM_iT4g_24",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What color are the enemy minions?",
+            "options": [
+                "A. Blue",
+                "B. Green",
+                "C. Purple",
+                "D. Red"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_25": {
+            "id": "6Z_XNM_iT4g_25",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "Has the game background interface changed within the entire scene?",
+            "options": [
+                "A. Yes, completely changed.",
+                "B. No, completely unchanged.",
+                "C. Yes, partially changed.",
+                "D. Not sure."
+            ],
+            "answer": "C"
+        },
+        "6Z_XNM_iT4g_26": {
+            "id": "6Z_XNM_iT4g_26",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What do the green numbers with '+' mean when The SquirtMaster battles against enemy heroes?",
+            "options": [
+                "A. Indicates health regeneration.",
+                "B. Indicates additional mana recovery.",
+                "C. Indicates increased movement speed.",
+                "D. Indicates extra damage to the enemy."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_27": {
+            "id": "6Z_XNM_iT4g_27",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "From the video, in which direction are the enemy minions moving?",
+            "options": [
+                "A. The enemy minions are moving towards the upper right of the screen.",
+                "B. The enemy minions are moving towards the upper left of the screen.",
+                "C. The enemy minions are moving towards the lower right of the screen.",
+                "D. The enemy minions are moving towards the lower left of the screen."
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_28": {
+            "id": "6Z_XNM_iT4g_28",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "After The SquirtMaster kills the enemy, how many minions are still alive on the screen?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_29": {
+            "id": "6Z_XNM_iT4g_29",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What text information will be displayed at the top center of the screen after The SquirtMaster kills an enemy?",
+            "options": [
+                "A. ‘You have slain an enemy!’",
+                "B. ‘Double Kill!’",
+                "C. ‘Shutdown!’",
+                "D. ‘You have been slain!’"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_30": {
+            "id": "6Z_XNM_iT4g_30",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "After The SquirtMaster kills an enemy, what number is displayed in the blue bar on the hero panel?",
+            "options": [
+                "A. 1379/1379.",
+                "B. 1437/2255.",
+                "C. 1200/1379.",
+                "D. 900/1379."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_31": {
+            "id": "6Z_XNM_iT4g_31",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the green symbol '+82' above the character represent when The SquirtMaster battles enemies?",
+            "options": [
+                "A. It indicates restoration of the hero's health.",
+                "B. It indicates an increase in the hero's damage.",
+                "C. It indicates replenishment of the hero's mana.",
+                "D. It indicates experience points gained by the hero."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_32": {
+            "id": "6Z_XNM_iT4g_32",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What are the characteristics of the minions in a friendly match in the video with The SquirtMaster?",
+            "options": [
+                "A. The minions carry axes and staves, with blue health bars displayed above their heads.",
+                "B. The minions carry hammers and staves, with blue health bars displayed above their heads.",
+                "C. The minions carry axes and hammers, with red health bars displayed above their heads.",
+                "D. The minions carry hammers and bows, with red health bars displayed above their heads."
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_33": {
+            "id": "6Z_XNM_iT4g_33",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "From the video, which direction is The SquirtMaster moving after exiting the turret?",
+            "options": [
+                "A. Moving towards the upper left of the screen",
+                "B. Moving towards the upper right of the screen",
+                "C. Moving towards the lower left of the screen",
+                "D. Moving towards the lower right of the screen"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_34": {
+            "id": "6Z_XNM_iT4g_34",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "Does the text 'That ability is not ready yet!' appear in the video?",
+            "options": [
+                "A. Yes, the text is fully displayed throughout the scene.",
+                "B. Yes, the text is fully displayed in part of the scene.",
+                "C. No, the text is never fully displayed in the scene.",
+                "D. No, the text does not appear in the scene."
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_35": {
+            "id": "6Z_XNM_iT4g_35",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the text 'You have slain an enemy' displayed at the top of the screen mean?",
+            "options": [
+                "A. This indicates that The SquirtMaster made a strategic retreat.",
+                "B. This indicates that The SquirtMaster regained health.",
+                "C. This indicates that The SquirtMaster defeated an enemy hero.",
+                "D. This indicates that The SquirtMaster collected resources."
+            ],
+            "answer": "C"
+        },
+        "6Z_XNM_iT4g_36": {
+            "id": "6Z_XNM_iT4g_36",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What level is The SquirtMaster at after killing the enemy hero in the video?",
+            "options": [
+                "A. The SquirtMaster is at level 13.",
+                "B. The SquirtMaster is at level 14.",
+                "C. The SquirtMaster is at level 15.",
+                "D. The SquirtMaster is at level 16."
+            ],
+            "answer": "D"
+        },
+        "6Z_XNM_iT4g_37": {
+            "id": "6Z_XNM_iT4g_37",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What visual changes occur when a turret's health is nearly depleted?",
+            "options": [
+                "A. The turret shows noticeable cracks, indicating it is close to being destroyed.",
+                "B. The turret emits a bright green glow, indicating it is about to be repaired.",
+                "C. The turret becomes semi-transparent, showing its vulnerable state.",
+                "D. The turret splits into two smaller structures as its health decreases."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_38": {
+            "id": "6Z_XNM_iT4g_38",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "Where is the mini-map located in the video?",
+            "options": [
+                "A. The mini-map is at the bottom right corner of the video.",
+                "B. The mini-map is at the bottom left corner of the video.",
+                "C. The mini-map is at the top right corner of the video.",
+                "D. The mini-map is at the top left corner of the video."
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_39": {
+            "id": "6Z_XNM_iT4g_39",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What text can be seen on the screen after The SquirtMaster kills an enemy hero?",
+            "options": [
+                "A. “You have slain an enemy!”",
+                "B. “That ability is not ready yet!”",
+                "C. “LEVEL UP!+1”",
+                "D. All of the above text is displayed on the screen"
+            ],
+            "answer": "D"
+        },
+        "6Z_XNM_iT4g_40": {
+            "id": "6Z_XNM_iT4g_40",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How many enemy heroes appeared in the video in total?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_41": {
+            "id": "6Z_XNM_iT4g_41",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why are minions important in the scene?",
+            "options": [
+                "A. Minions provide visual distraction and enhance the aesthetic of the scene.",
+                "B. Minions participate in battles and advance towards enemy structures.",
+                "C. Minions serve as decorative elements and have no impact on gameplay.",
+                "D. The importance of minions lies solely in their presence marking the passage of game time."
+            ],
+            "answer": "B"
+        }
+    }
+}

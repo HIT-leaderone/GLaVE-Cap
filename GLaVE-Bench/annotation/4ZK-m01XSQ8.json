@@ -1,0 +1,987 @@
+{
+    "scene_hint": {
+        "0": "画面突出了一个运动员。",
+        "1": "运动员在起跑线处做准备。",
+        "2": "运动员在画面中奔跑。",
+        "3": "镜头的焦点转向一名运动员。",
+        "4": "运动员冲向终点的画面。",
+        "5": "画面展示一个跑道。"
+    },
+    "qa": {
+        "4ZK-m01XSQ8_0": {
+            "id": "4ZK-m01XSQ8_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "标有数字“5”的柱子相对于画面在什么位置？",
+            "options": [
+                "A. 位于运动员的右侧。",
+                "B. 位于运动员的左侧。",
+                "C. 位于运动员的正前方。",
+                "D. 在画面中完全不可见。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_1": {
+            "id": "4ZK-m01XSQ8_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "编号为“6”的柱子相对于画面在什么位置？",
+            "options": [
+                "A. 在图像的右侧。",
+                "B. 在运动员的前方。",
+                "C. 在运动员的后方。",
+                "D. 在图像的左侧。"
+            ],
+            "answer": "D"
+        },
+        "4ZK-m01XSQ8_2": {
+            "id": "4ZK-m01XSQ8_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "场景发生在什么地方？",
+            "options": [
+                "A. 场景发生在篮球场。",
+                "B. 场景发生在健身房。",
+                "C. 场景发生在跑道起跑线。",
+                "D. 场景发生在游泳池跳台。"
+            ],
+            "answer": "C"
+        },
+        "4ZK-m01XSQ8_3": {
+            "id": "4ZK-m01XSQ8_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "图中的运动员在做什么？",
+            "options": [
+                "A. 运动员处于蹲式起跑姿势。",
+                "B. 运动员正在比赛中跨越障碍。",
+                "C. 运动员正在冲过终点线。",
+                "D. 运动员正走在赛道上。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_4": {
+            "id": "4ZK-m01XSQ8_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "场景背景中的幕布上写了什么？",
+            "options": [
+                "A.  'OPYCC' 和 'ТРАХО' 。",
+                "B. 数字 '667532'。",
+                "C. 有红色和绿色标志。",
+                "D. 运动员的名字与国家。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_5": {
+            "id": "4ZK-m01XSQ8_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "场景中有多少可见的数字标识柱子？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_6": {
+            "id": "4ZK-m01XSQ8_6",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "柱子上的数字“5”是否完全可见？",
+            "options": [
+                "A. 是的，它完全可见。",
+                "B. 不，它被部分遮挡。",
+                "C. 是的，但它被红圈框住。",
+                "D. 不，它完全被遮挡。"
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_7": {
+            "id": "4ZK-m01XSQ8_7",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "这个运动员在用他的手做什么？",
+            "options": [
+                "A. 运动员把手放在跑道表面。",
+                "B. 运动员握住起跑器。",
+                "C. 运动员在调整他运动背心的肩带。",
+                "D. 运动员向观众挥手。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_8": {
+            "id": "4ZK-m01XSQ8_8",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "图像中使用了哪种类型的摄影角度？",
+            "options": [
+                "A. 特写视角。",
+                "B. 正面视角。",
+                "C. 鸟瞰视角。",
+                "D. 侧面拍摄。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_9": {
+            "id": "4ZK-m01XSQ8_9",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "运动员的背面部分可见的是什么？",
+            "options": [
+                "A. 比赛号码布。",
+                "B. 赞助商标志。",
+                "C. 运动员的名字。",
+                "D. 装饰图案。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_10": {
+            "id": "4ZK-m01XSQ8_10",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "场景中画面的右上角有什么标志？",
+            "options": [
+                "A. 一个带有'6 БЕЛАРУСЬ'文本。",
+                "B. 一个带有'5 БЕЛАРУСЬ'文本。",
+                "C. 一个带有'5 БЕЛСЬАРУ'文本。",
+                "D. 一个带有'6 БЕЛСЬАРУ'文本。"
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_11": {
+            "id": "4ZK-m01XSQ8_11",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "身穿黄色制服的运动员的位置在哪里？",
+            "options": [
+                "A. 在第6赛道。",
+                "B. 在第2赛道。",
+                "C. 在第7赛道。",
+                "D. 在第4赛道。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_12": {
+            "id": "4ZK-m01XSQ8_12",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "在场景中可以看到什么？",
+            "options": [
+                "A. 多名运动员位于起跑位置。",
+                "B. 一名运动员独自在跑道上练习。",
+                "C. 一群人散乱的聚集在跑道上。",
+                "D. 草地上摆放了栏架。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_13": {
+            "id": "4ZK-m01XSQ8_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景中能看到些什么东西？",
+            "options": [
+                "A. 只有座位区。",
+                "B. 座位区、活动横幅和电视转播标志。",
+                "C. 只有座位区和电视转播标志。",
+                "D. 只有座位区和活动横幅。"
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_14": {
+            "id": "4ZK-m01XSQ8_14",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "背后标有“32 HB”的工作人员在做什么？",
+            "options": [
+                "A. 正在跨栏附近站着。",
+                "B. 正在用哨子开始比赛。",
+                "C. 正在给运动员下达指令。",
+                "D. 正在挥动旗帜以示比赛开始。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_15": {
+            "id": "4ZK-m01XSQ8_15",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中有什么可见标识？",
+            "options": [
+                "A. “BELARUS RE”。",
+                "B. “Nike”和“Adidas”。",
+                "C. “World Athletics Championships”。",
+                "D. “Olympics 2024”。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_16": {
+            "id": "4ZK-m01XSQ8_16",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中的宣传元素如何体现？",
+            "options": [
+                "A. 横幅与品牌标识一起可见。",
+                "B. 现场没有可见的宣传元素。",
+                "C. 只有“BELARUS RE”文字可见。",
+                "D. 只有一个全球鞋品牌的标志。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_17": {
+            "id": "4ZK-m01XSQ8_17",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "有多少运动员可以看到在起跑位置？",
+            "options": [
+                "A. 四名运动员",
+                "B. 六名运动员",
+                "C. 七名运动员",
+                "D. 八名运动员"
+            ],
+            "answer": "C"
+        },
+        "4ZK-m01XSQ8_18": {
+            "id": "4ZK-m01XSQ8_18",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "活动是在户外举行的吗？",
+            "options": [
+                "A. 是的，它在户外举行。",
+                "B. 不，它在室内举行。",
+                "C. 不清楚活动是在室内还是室外。",
+                "D. 活动是室内和室外相结合的形式。"
+            ],
+            "answer": "C"
+        },
+        "4ZK-m01XSQ8_19": {
+            "id": "4ZK-m01XSQ8_19",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "穿着红色背心和黑色短裤的运动员在做什么？",
+            "options": [
+                "A. 正走向座位区，没有明确的互动。",
+                "B. 正在为另一位选手准备起跑器。",
+                "C. 正在与穿灰色夹克的工作人员交谈。",
+                "D. 正在起跑线查看记分牌。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_20": {
+            "id": "4ZK-m01XSQ8_20",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "摄像机使用的是哪种视角？",
+            "options": [
+                "A. 近景视角。",
+                "B. 俯视视角。",
+                "C. 广角视角。",
+                "D. 观众视角。"
+            ],
+            "answer": "C"
+        },
+        "4ZK-m01XSQ8_21": {
+            "id": "4ZK-m01XSQ8_21",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "穿绿色背心和黑色短裤的运动员在画面中的什么位置？",
+            "options": [
+                "A. 在画面的中心",
+                "B. 在画面的最右边",
+                "C. 在画面的最左边",
+                "D. 不在画面中"
+            ],
+            "answer": "C"
+        },
+        "4ZK-m01XSQ8_22": {
+            "id": "4ZK-m01XSQ8_22",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "比赛的环境是什么？",
+            "options": [
+                "A. 比赛在一个体育场进行。",
+                "B. 比赛在沙滩上进行。",
+                "C. 比赛在森林中进行。",
+                "D. 比赛在城市区域进行。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_23": {
+            "id": "4ZK-m01XSQ8_23",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景中有什么能看到的？",
+            "options": [
+                "A. 树木和草地。",
+                "B. 文字标志和广告牌。",
+                "C. 观众和环卫工人。",
+                "D. 横幅和加油旗帜。"
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_24": {
+            "id": "4ZK-m01XSQ8_24",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "绿色上衣、黑色短裤的运动员在场景中有什么表现？",
+            "options": [
+                "A. 不断地完美跃过跨栏。",
+                "B. 在跑道上摔倒。",
+                "C. 将跨栏碰倒在地上。",
+                "D. 坐在草地上休息。"
+            ],
+            "answer": "C"
+        },
+        "4ZK-m01XSQ8_25": {
+            "id": "4ZK-m01XSQ8_25",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "绿色上衣、蓝色短裤的运动员在场景中有什么表现？",
+            "options": [
+                "A. 不断地跃过跨栏。",
+                "B. 在跑道上摔倒。",
+                "C. 将跨栏碰倒在地上。",
+                "D. 坐在草地上休息。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_26": {
+            "id": "4ZK-m01XSQ8_26",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "场景中的吉祥物形象看起来是什么样子的？",
+            "options": [
+                "A. 有一个黄色的头部。",
+                "B. 有一个蓝色的头部。",
+                "C. 有一个红色的头部。",
+                "D. 有一个绿色的头部。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_27": {
+            "id": "4ZK-m01XSQ8_27",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "穿着亮黄色运动衫的运动员始终可以看到吗？",
+            "options": [
+                "A. 是的，在整个过程中都可以看到。",
+                "B. 不，他在中途退出了画面。",
+                "C. 不，没有穿亮黄色运动衫的运动员。",
+                "D. 是的，但后来他站着不动了。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_28": {
+            "id": "4ZK-m01XSQ8_28",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "全黑制服的跑者如何在跨栏间穿梭？",
+            "options": [
+                "A. 小心缓慢地接近每个栏架。",
+                "B. 快速准确地在越过栏架。",
+                "C. 跨栏时在空中旋转跳跃。",
+                "D. 在每个栏架前停顿后跳过。"
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_29": {
+            "id": "4ZK-m01XSQ8_29",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "右下角的计时器在画面中的什么位置？",
+            "options": [
+                "A. 画面的右下角。",
+                "B. 画面的左上角。",
+                "C. 画面的左下角。",
+                "D. 画面的右上角。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_30": {
+            "id": "4ZK-m01XSQ8_30",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "场景中使用什么类型的摄像机镜头拍摄？",
+            "options": [
+                "A. 广角镜头。",
+                "B. 特写镜头。",
+                "C. 低角度。",
+                "D. 摇摄镜头。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_31": {
+            "id": "4ZK-m01XSQ8_31",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "场景中的镜头在重点关注什么？",
+            "options": [
+                "A. 关注跑道上的运动员。",
+                "B. 仅关注吉祥物的外观。",
+                "C. 仅突出赞助商的标志。",
+                "D. 专注于数字计时器。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_32": {
+            "id": "4ZK-m01XSQ8_32",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "以运动员前进的方向来看，穿着黄色上衣的运动员在跑道上的哪个位置？",
+            "options": [
+                "A. 运动员位于最左边的跑道。",
+                "B. 运动员位于从右数第六条跑道。",
+                "C. 运动员位于中央跑道。",
+                "D. 运动员位于最右边的跑道。"
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_33": {
+            "id": "4ZK-m01XSQ8_33",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "场景中的栏杆除了白色还有什么颜色的？",
+            "options": [
+                "A. 蓝色。",
+                "B. 黑色。",
+                "C. 绿色。",
+                "D. 红色。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_34": {
+            "id": "4ZK-m01XSQ8_34",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景中赛道旁边是什么？",
+            "options": [
+                "A. 草地。",
+                "B. 沙子。",
+                "C. 混凝土。",
+                "D. 水。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_35": {
+            "id": "4ZK-m01XSQ8_35",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景中的草地上有什么？",
+            "options": [
+                "A. 白色的宣传横幅。",
+                "B. 数字计时器和车道标记。",
+                "C. 人群和一个记分板。",
+                "D. 旗帜和一个比赛排行榜。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_36": {
+            "id": "4ZK-m01XSQ8_36",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "领先的运动员是什么样子？",
+            "options": [
+                "A. 穿着黑色上衣和黑色短裤。",
+                "B. 穿着蓝色上衣和白色短裤。",
+                "C. 穿着黄色上衣和红色短裤。",
+                "D. 穿着全白的服装。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_37": {
+            "id": "4ZK-m01XSQ8_37",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "在场景中，开始时领先的运动员最后怎样了？",
+            "options": [
+                "A. 继续奔跑以接近终点线。",
+                "B. 被其他运动员反超。",
+                "C. 静止在跨栏附近休息。",
+                "D. 接受工作人员的帮助。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_38": {
+            "id": "4ZK-m01XSQ8_38",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "在画面的右下角显示的显著物体是什么？",
+            "options": [
+                "A. 数字计时器",
+                "B. 赞助商的标志",
+                "C. 红旗",
+                "D. 起跑器"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_39": {
+            "id": "4ZK-m01XSQ8_39",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "画面右下角的数字框表示什么？",
+            "options": [
+                "A. 它表示比赛的计时时间。",
+                "B. 它表示比赛结束所剩的时间。",
+                "C. 它表示运动员的瞬时速度。",
+                "D. 它表示该比赛进行的圈数。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_40": {
+            "id": "4ZK-m01XSQ8_40",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "首位运动员完成比赛时，有多少运动员是可见的？",
+            "options": [
+                "A. 两名运动员。",
+                "B. 三名运动员。",
+                "C. 四名运动员。",
+                "D. 五名运动员。"
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_41": {
+            "id": "4ZK-m01XSQ8_41",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "穿黄色上衣的运动员目前领先比赛吗？",
+            "options": [
+                "A. 是的，穿黄色上衣的运动员正在领先比赛。",
+                "B. 不，穿黄色上衣的运动员并没有领先比赛。",
+                "C. 穿黄色上衣的运动员在画面中不可见。",
+                "D. 穿黄色上衣的运动员正在参加另一场比赛。"
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_42": {
+            "id": "4ZK-m01XSQ8_42",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "完成跨栏动作后，穿蓝色上衣和黑色短裤的运动员在做什么？",
+            "options": [
+                "A. 运动员保持状态继续前进。",
+                "B. 运动员正在放慢速度观察周围。",
+                "C. 运动员在跨越障碍后庆祝。",
+                "D. 运动员移到赛道旁休息。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_43": {
+            "id": "4ZK-m01XSQ8_43",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "比赛画面中使用了哪种相机角度？",
+            "options": [
+                "A. 相机角度较高跟随视角。",
+                "B. 相机角度较低视角。",
+                "C. 相机角度是俯瞰视角。",
+                "D. 相机角度在特写和广角视角之间切换。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_44": {
+            "id": "4ZK-m01XSQ8_44",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "场景中摄影机的关注焦点是什么？",
+            "options": [
+                "A. 关注跑在最前面的几名运动员。",
+                "B. 关注欢呼的观众群体。",
+                "C. 摄影机只关注领先跑者。",
+                "D. 专注于栏杆本身。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_45": {
+            "id": "4ZK-m01XSQ8_45",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "穿黑色短袖的运动员跑在哪条赛道？",
+            "options": [
+                "A. 一号赛道",
+                "B. 二号赛道",
+                "C. 三号赛道",
+                "D. 四号赛道"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_46": {
+            "id": "4ZK-m01XSQ8_46",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景中的活动发什么在什么地方？",
+            "options": [
+                "A. 在红色跑道上",
+                "B. 在游泳场馆里",
+                "C. 在黄色跑道上",
+                "D. 在城市街道中"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_47": {
+            "id": "4ZK-m01XSQ8_47",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "赛道附近安置了什么设备？",
+            "options": [
+                "A. 三脚架摄像机",
+                "B. 计时门",
+                "C. 供水站",
+                "D. 医疗帐篷"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_48": {
+            "id": "4ZK-m01XSQ8_48",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "场景中可以看到多少位运动员？",
+            "options": [
+                "A. 一位运动员",
+                "B. 三位运动员",
+                "C. 五位运动员",
+                "D. 七位运动员"
+            ],
+            "answer": "D"
+        },
+        "4ZK-m01XSQ8_49": {
+            "id": "4ZK-m01XSQ8_49",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "1号跑道上的运动员冲过终点线了吗？",
+            "options": [
+                "A. 是的。",
+                "B. 否，他受伤退场了",
+                "C. 否，他还在进行比赛",
+                "D. 一号跑道上没有运动员"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_50": {
+            "id": "4ZK-m01XSQ8_50",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "第2道的运动员在做什么？",
+            "options": [
+                "A. 运动员在终点旁边休息。",
+                "B. 运动员奔跑并冲过终点线。",
+                "C. 运动员正在走回起点。",
+                "D. 运动员正在向观众挥手。"
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_51": {
+            "id": "4ZK-m01XSQ8_51",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "第二跑道的运动员正在朝哪个方向移动？",
+            "options": [
+                "A. 朝终点线方向",
+                "B. 远离终点线方向",
+                "C. 静止不动",
+                "D. 观众席方向"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_52": {
+            "id": "4ZK-m01XSQ8_52",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "场景中使用了哪种类型的摄像机角度？",
+            "options": [
+                "A. 低角度拍摄",
+                "B. 高角度拍摄",
+                "C. 特写镜头",
+                "D. 俯视镜头"
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_53": {
+            "id": "4ZK-m01XSQ8_53",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "在运动员冲过终点时发生了什么？",
+            "options": [
+                "A. 白色蒸汽或烟雾喷出。",
+                "B. 终点线的横条被运动员碰掉。",
+                "C. 有烟花在天空爆炸。",
+                "D. 有彩色纸带落下。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_54": {
+            "id": "4ZK-m01XSQ8_54",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "数字计时器上的读数停止在多少？",
+            "options": [
+                "A. 13.72秒",
+                "B. 12.85秒",
+                "C. 14.05秒",
+                "D. 15.30秒"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_55": {
+            "id": "4ZK-m01XSQ8_55",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景的背景是什么？",
+            "options": [
+                "A. 发生在一个红棕色合成跑道上。",
+                "B. 发生在一个沙滩上。",
+                "C. 发生在一个游泳场馆里。",
+                "D. 发生在一条森林小径中。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_56": {
+            "id": "4ZK-m01XSQ8_56",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "场景中可以看到哪些元素标志？",
+            "options": [
+                "A.  '5 БЕЛАРУСЬ' 标志和 '13.72' 。",
+                "B. 只有显示 '13.72' 。",
+                "C. 一个绿色标志和一个 '15.62' 。",
+                "D. 没有可见的元素。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_57": {
+            "id": "4ZK-m01XSQ8_57",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "计时器显示什么？",
+            "options": [
+                "A. 计时器显示 '13.72' 秒。",
+                "B. 计时器显示 '12.85' 秒。",
+                "C. 计时器显示 '14.00' 秒。",
+                "D. 计时器显示 '11.50' 秒。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_58": {
+            "id": "4ZK-m01XSQ8_58",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "计时器后来会发生什么？",
+            "options": [
+                "A. 计时器的颜色变成蓝色。",
+                "B. 计时器变得部分透明。",
+                "C. 计时器显示14.00秒。",
+                "D. 计时器完全从视野中消失。"
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_59": {
+            "id": "4ZK-m01XSQ8_59",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "场景中可以看到多少位运动员？",
+            "options": [
+                "A. 可以看到一位运动员。",
+                "B. 可以看到两位运动员。",
+                "C. 可以看到三位运动员。",
+                "D. 看不到运动员。"
+            ],
+            "answer": "D"
+        },
+        "4ZK-m01XSQ8_60": {
+            "id": "4ZK-m01XSQ8_60",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "运动员在比赛开始时的姿势是什么？",
+            "options": [
+                "A. 运动员蹲在起跑位置。",
+                "B. 运动员笔直站立。",
+                "C. 运动员在原地慢跑。",
+                "D. 运动员在跑道边做伸展运动。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_61": {
+            "id": "4ZK-m01XSQ8_61",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "比赛开始时6号跑道的运动员穿着什么？",
+            "options": [
+                "A. 运动员穿着黄色运动衫。",
+                "B. 运动员穿着红色背心。",
+                "C. 运动员穿着绿底白条纹的运动衫。",
+                "D. 运动员穿着蓝色的无袖上衣。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_62": {
+            "id": "4ZK-m01XSQ8_62",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "是哪个运动员在最后冲过终点线？",
+            "options": [
+                "A. 穿黑色运动服的运动员。",
+                "B. 穿红色运动服的运动员。",
+                "C. 穿白色和蓝色制服的选手。",
+                "D. 穿绿色运动服的运动员。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_63": {
+            "id": "4ZK-m01XSQ8_63",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "哪位选手最先完成了比赛？",
+            "options": [
+                "A. 4号跑道的选手",
+                "B. 2号跑道的选手",
+                "C. 1号跑道的选手",
+                "D. 3号跑道的选手"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_64": {
+            "id": "4ZK-m01XSQ8_64",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "比赛结束后，跑道发生了什么？",
+            "options": [
+                "A. 跑道上没有运动员了。",
+                "B. 跑道上覆盖了五彩纸屑。",
+                "C. 观众开始走上跑道。",
+                "D. 裁判开始拆除计时设备。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_65": {
+            "id": "4ZK-m01XSQ8_65",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "吉祥物在比赛环境中扮演了什么角色？",
+            "options": [
+                "A. 吉祥物在终点线分发奖牌。",
+                "B. 吉祥物担任比赛的发令员。",
+                "C. 吉祥在场景中作为装饰出现。",
+                "D. 比赛期间吉祥物没有出现。"
+            ],
+            "answer": "C"
+        },
+        "4ZK-m01XSQ8_66": {
+            "id": "4ZK-m01XSQ8_66",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "相机捕捉到了哪些事件？",
+            "options": [
+                "A. 相机捕捉到了运动员跨越障碍的过程。",
+                "B. 相机捕捉到了运动员领取奖牌的场景。",
+                "C. 相机捕捉到了一场长跑比赛。",
+                "D. 相机捕捉到了运动员参加接力赛的场景。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_67": {
+            "id": "4ZK-m01XSQ8_67",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "摄像机在终点线捕捉到了什么？",
+            "options": [
+                "A. 摄像机捕捉到了运动员冲线的过程。",
+                "B. 摄像机捕捉到了运动员赛后休息的画面。",
+                "C. 摄像机捕捉到了一个玩偶吉祥物颁发奖牌。",
+                "D. 摄像机捕捉到了在终点线附近欢呼的观众。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_68": {
+            "id": "4ZK-m01XSQ8_68",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "黄衫运动员在比赛中首次出现是什么时候？",
+            "options": [
+                "A. 黄衫运动员最初是在起跑线上蹲着看到的。",
+                "B. 黄衫运动员首次出现在冲过终点线时。",
+                "C. 黄衫运动员首次出现在跑道旁行走时。",
+                "D. 黄衫运动员被发现在草地上热身。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_69": {
+            "id": "4ZK-m01XSQ8_69",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "穿着黄色运动衫的运动员在比赛期间做了什么？",
+            "options": [
+                "A. 落后并试图到达领先位置。",
+                "B. 领先比赛并首先冲过终点线。",
+                "C. 慢跑，未积极参与比赛。",
+                "D. 站着不动，观察比赛。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_70": {
+            "id": "4ZK-m01XSQ8_70",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "黄色运动衫的运动员何时退出画面的？",
+            "options": [
+                "A. 冲过终点线后从画面中消失了。",
+                "B. 从未从画面中消失。",
+                "C. 在比赛中途从画面中退出过。",
+                "D. 没有黄色运动衫的运动员。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_71": {
+            "id": "4ZK-m01XSQ8_71",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "场景开始时的环境是怎样的？",
+            "options": [
+                "A. 运动员被限制在各自的跑道中。",
+                "B. 赛道是空的，没有任何运动员。",
+                "C. 赛道上只有一名运动员可见。",
+                "D. 赛道被观众人群覆盖。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_72": {
+            "id": "4ZK-m01XSQ8_72",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "比赛结束时的画面是什么样的？",
+            "options": [
+                "A. 焦点转向终点线。",
+                "B. 运动员聚集在跑道上。",
+                "C. 观众欢呼和挥舞旗帜的画面。",
+                "D. 工作人员在为下一场比赛准备。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_73": {
+            "id": "4ZK-m01XSQ8_73",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "穿黄色上衣的运动员在比赛中是否受到影响？",
+            "options": [
+                "A. 没有受到明显的影响。",
+                "B. 被比赛标志和计时器分散了注意力。",
+                "C. 受天气状况影响，不得不停下来。",
+                "D. 停下来调整他的跑鞋。"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_74": {
+            "id": "4ZK-m01XSQ8_74",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "1号赛道的运动员在场景中表现如何？",
+            "options": [
+                "A. 是最后一个冲过终点线的。",
+                "B. 比其他人更早完成比赛。",
+                "C. 在比赛中跌倒。",
+                "D. 唯一穿着纯白色服装的人。"
+            ],
+            "answer": "A"
+        }
+    }
+}

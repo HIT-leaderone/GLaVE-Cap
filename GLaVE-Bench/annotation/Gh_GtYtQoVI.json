@@ -1,0 +1,1064 @@
+{
+    "scene_hint": {
+        "0": "一个简约的宣传图。",
+        "1": "一个人拿着白板。",
+        "2": "一只手在背景板上书写。",
+        "3": "一个人拿着白板。",
+        "4": "视频结束，画面出现文字和一些图案。"
+    },
+    "qa": {
+        "Gh_GtYtQoVI_0": {
+            "id": "Gh_GtYtQoVI_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频的主要场景发生在什么地方？",
+            "options": [
+                "A. 主要场景发生在一个纯白的背景上。",
+                "B. 主要场景发生在一个办公室。",
+                "C. 主要场景发生在一个教室。",
+                "D. 主要场景发生在一个舞台上。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_1": {
+            "id": "Gh_GtYtQoVI_1",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "“FAST FINANCE” 文字的样式是什么？",
+            "options": [
+                "A. “FAST FINANCE” 文字是加粗的黑色。",
+                "B. “FAST FINANCE” 文字是斜体的红色。",
+                "C. “FAST FINANCE” 文字是纤细的蓝色。",
+                "D. “FAST FINANCE” 文字是带下划线的绿色。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_2": {
+            "id": "Gh_GtYtQoVI_2",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "“FAST FINANCE”文本使用了哪种字体？",
+            "options": [
+                "A. 这种字体是衬线体。",
+                "B. 这种字体是无衬线体。",
+                "C. 这种字体是手写体。",
+                "D. 这种字体是等宽字体。"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_3": {
+            "id": "Gh_GtYtQoVI_3",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "场景中是否有一个卡通插图的人物？",
+            "options": [
+                "A. 是的，场景的右下角有女性卡通插图。",
+                "B. 不，场景中只有文本元素，没有任何插图。",
+                "C. 是的，场景的右下角有男性卡通插图。",
+                "D. 不，场景中只有一个图表条形图，没有任何插图。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_4": {
+            "id": "Gh_GtYtQoVI_4",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "当场景从“FAST FINANCE”过渡到“WHAT IS FINANCE？”时，发生了什么变化？",
+            "options": [
+                "A. 文本“快速金融”变成蓝色。",
+                "B. 在过渡期间引入了一个图形柱状图。",
+                "C. 文本旁边出现了一个美元符号动画。",
+                "D. 文本“WHAT IS FINANCE？”从左方出现。"
+            ],
+            "answer": "D"
+        },
+        "Gh_GtYtQoVI_5": {
+            "id": "Gh_GtYtQoVI_5",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "初始画面中有什么视觉元素？",
+            "options": [
+                "A. 图像白色背景上有“FAST FINANCE”文字。",
+                "B. 图像一个卡通插图，以及“FAST FINANCE”文字。",
+                "C. 图像展示了多行财务数据和一个带有彩色部分的饼图。",
+                "D. 图像展示了带有手写签名的“FAST FINANCE”文字和背景中的一个图形元素。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_6": {
+            "id": "Gh_GtYtQoVI_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "后续画面中存在哪些视觉元素？",
+            "options": [
+                "A. 'WHAT IS FINANCE?' 显示在左侧。",
+                "B. 'WHAT IS FINANCE?' 显示在底间。",
+                "C. 'WHAT IS FINANCE?' 显示在右侧。",
+                "D. 'WHAT IS FINANCE?' 显示在顶部。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_7": {
+            "id": "Gh_GtYtQoVI_7",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "白板在画面中的什么位置？",
+            "options": [
+                "A. 白板位于画面右下角。",
+                "B. 白板位于画面左上角。",
+                "C. 白板位于画面中央。",
+                "D. 白板位于画面右上角。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_8": {
+            "id": "Gh_GtYtQoVI_8",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这场景的背景是什么？",
+            "options": [
+                "A. 这个场景是一个室内。",
+                "B. 这个场景是一个户外。",
+                "C. 这个场景是一个抽象的空间。",
+                "D. 这个场景是一个办公室。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_9": {
+            "id": "Gh_GtYtQoVI_9",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这场景的气氛如何？",
+            "options": [
+                "A. 气氛紧张。",
+                "B. 气氛平静。",
+                "C. 气氛混乱。",
+                "D. 气氛随意。"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_10": {
+            "id": "Gh_GtYtQoVI_10",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "视频中的女人长什么样？",
+            "options": [
+                "A. 女人有一头齐肩的深色头发。",
+                "B. 女人有一头长长的金发。",
+                "C. 女人有一头短卷发。",
+                "D. 女人有一头扎成发髻的红发。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_11": {
+            "id": "Gh_GtYtQoVI_11",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "视频中的女人穿的是什么？",
+            "options": [
+                "A. 红色上衣，蓝色内搭，一条小项链。",
+                "B. 蓝色上衣，红色内搭，一条大项链。",
+                "C. 红色上衣，一条厚重的项链。",
+                "D. 黑色上衣，一条简单的项链。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_12": {
+            "id": "Gh_GtYtQoVI_12",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "场景中的白板有什么特点？",
+            "options": [
+                "A. 白板光滑、有反光性。",
+                "B. 白板有纹理、哑光。",
+                "C. 白板很小，材质是木质的。",
+                "D. 白板是彩色的，有装饰。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_13": {
+            "id": "Gh_GtYtQoVI_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景中有自然光吗？",
+            "options": [
+                "A. 有，从场景的右侧照射进来。",
+                "B. 没有，场景仅由人工照明。",
+                "C. 有，强烈的自然光充满了整个场景。",
+                "D. 没有，完全黑暗，没有任何光源。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_14": {
+            "id": "Gh_GtYtQoVI_14",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "女人做了什么动作？",
+            "options": [
+                "A. 拿着笔，将右手抬起。",
+                "B. 用白色记号笔轻敲白板。",
+                "C. 用左手指向白板。",
+                "D. 将白色记号笔放回桌子上。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_15": {
+            "id": "Gh_GtYtQoVI_15",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "这一场景中使用了什么类型的摄影机视角？",
+            "options": [
+                "A. 中近景摄影机视角。",
+                "B. 广角摄影机视角。",
+                "C. 俯拍摄影机视角。",
+                "D. 长镜头摄影机视角。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_16": {
+            "id": "Gh_GtYtQoVI_16",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "你会如何描述这个女人动作的节奏？",
+            "options": [
+                "A. 动作快速且不稳定。",
+                "B. 动作沉稳且有条理。",
+                "C. 动作缓慢且犹豫不决。",
+                "D. 动作匆忙且粗心。"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_17": {
+            "id": "Gh_GtYtQoVI_17",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中哪些元素突出了这位女士与白板的互动？",
+            "options": [
+                "A. 墙上的字。",
+                "B. 拿出一本书。",
+                "C. 她拿出白色记号笔。",
+                "D. 带有小吊坠的精致项链。"
+            ],
+            "answer": "C"
+        },
+        "Gh_GtYtQoVI_18": {
+            "id": "Gh_GtYtQoVI_18",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景中的小黑色文字“00:00”位于哪里？",
+            "options": [
+                "A. 在右上角。",
+                "B. 在左下角。",
+                "C. 在左上角。",
+                "D. 在画面的中心。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_19": {
+            "id": "Gh_GtYtQoVI_19",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景开始时，画面中占主导地位的是什么？",
+            "options": [
+                "A. 纯白色的背景。",
+                "B. 鲜红色的文本标题。",
+                "C. 带有方形窗户的现代摩天大楼。",
+                "D. 黑色火柴人。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_20": {
+            "id": "Gh_GtYtQoVI_20",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "手拿白板笔的手在写完\"BUSINESS\"后做了什么？",
+            "options": [
+                "A. 这只手正在绘制建筑。",
+                "B. 这只手正在擦除一幅画。",
+                "C. 这只手正在给图片上色。",
+                "D. 这只手正在白板上写字。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_21": {
+            "id": "Gh_GtYtQoVI_21",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "正在绘制的建筑群具有什么风格？",
+            "options": [
+                "A. 史前风格",
+                "B. 中世纪古典风格",
+                "C. 现代风格",
+                "D. 未来科技风格"
+            ],
+            "answer": "C"
+        },
+        "Gh_GtYtQoVI_22": {
+            "id": "Gh_GtYtQoVI_22",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "计时器初次出现时显示的时间戳是什么？",
+            "options": [
+                "A. 00:03",
+                "B. 00:00",
+                "C. 00:05",
+                "D. 00:06"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_23": {
+            "id": "Gh_GtYtQoVI_23",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "视频中‘BUSINESS’这个文字是否会发生变化？",
+            "options": [
+                "A. 是的，它会改变颜色。",
+                "B. 是的，它会改变位置。",
+                "C. 不会。",
+                "D. 是的，它会改变大小。"
+            ],
+            "answer": "C"
+        },
+        "Gh_GtYtQoVI_24": {
+            "id": "Gh_GtYtQoVI_24",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "在城市天际线被扩展后会画出什么？",
+            "options": [
+                "A. 火柴人",
+                "B. 摩天大楼",
+                "C. 城市天际线",
+                "D. “CITY”取代“BUSINESS”"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_25": {
+            "id": "Gh_GtYtQoVI_25",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "用于展示正在进行的插图序列的是什么类型的镜头？",
+            "options": [
+                "A. 视觉构图。",
+                "B. 动画。",
+                "C. 现实人物展示。",
+                "D. 设计展示。"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_26": {
+            "id": "Gh_GtYtQoVI_26",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "数字计时器如何更新？",
+            "options": [
+                "A. 从 00:00 更新到 00:58。",
+                "B. 从 00:00 更新到 00:25。",
+                "C. 从 00:00 更新到 00:37。",
+                "D. 从 00:00 更新到 00:55。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_27": {
+            "id": "Gh_GtYtQoVI_27",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "数字计时器表示什么？",
+            "options": [
+                "A. 计时器显示了场景演化的进展和迭代性质。",
+                "B. 计时器显示当前的时间。",
+                "C. 计时器倒数视频的时长。",
+                "D. 计时器作为一个重要事件的倒计时。"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_28": {
+            "id": "Gh_GtYtQoVI_28",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "在经济流程图中，“SAVERS”数字相对于“BUSINESS”部门的位置如何？",
+            "options": [
+                "A. 相对于“BUSINESS”部门，“SAVERS”文字位于流程图的顶部。",
+                "B. 相对于“BUSINESS”部门，“SAVERS”文字位于流程图的底部。",
+                "C. 相对于“BUSINESS”部门，“SAVERS”文字位于流程图的右侧。",
+                "D. 相对于“BUSINESS”部门，“SAVERS”文字位于流程图的左侧。"
+            ],
+            "answer": "D"
+        },
+        "Gh_GtYtQoVI_29": {
+            "id": "Gh_GtYtQoVI_29",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "视频中的经济流程图描绘了哪些要素？",
+            "options": [
+                "A. 视频中的经济流程图描绘了金融机构、一个顾问、储蓄者和企业。",
+                "B. 视频中的经济流程图仅描绘了储蓄者和企业。",
+                "C. 视频中的经济流程图描绘了金融机构、顾问和一个详细的城市景观，但没有储蓄者。",
+                "D. 视频中的经济流程图描绘了顾问、企业和一个计时器，但不包括金融机构。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_30": {
+            "id": "Gh_GtYtQoVI_30",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频的背景颜色是什么？",
+            "options": [
+                "A. 白色。",
+                "B. 蓝色。",
+                "C. 灰色。",
+                "D. 黄色。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_31": {
+            "id": "Gh_GtYtQoVI_31",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "在流程图中，“ADVISOR”的角色是什么？",
+            "options": [
+                "A. “ADVISOR”被放置在中心位置，强化了其在金融领域内的互联作用。",
+                "B. “ADVISOR”被描绘为一个次要的角色，在金融领域中没有作用。",
+                "C. “ADVISOR”被描述为主要经济流程之外的被动观察者。",
+                "D. “ADVISOR”位于“储蓄者”和“企业”之下，标识其辅助和连接作用。"
+            ],
+            "answer": "D"
+        },
+        "Gh_GtYtQoVI_32": {
+            "id": "Gh_GtYtQoVI_32",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "哪些组成部分被添加在“FINANCIAL INSTITUTIONS”标签下？",
+            "options": [
+                "A. 添加了五个分别标记为“BANKS”、“INS”、“MF”、“AF”和“NBFI”的垂直框。",
+                "B. 添加了两个水平框，标记为“BANKS”和“INSURANCE”。",
+                "C. 添加了四个垂直框，标记为“BANKS”、“INSURANCE”、“MF”和“LOANS”。",
+                "D. 添加了一个大型框，标记为“FINANCIAL SERVICES”。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_33": {
+            "id": "Gh_GtYtQoVI_33",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "在流程图中，有多少个标注为“SAVERS”的火柴人图形？",
+            "options": [
+                "A. 两个。",
+                "B. 三个。",
+                "C. 四个。",
+                "D. 五个。"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_34": {
+            "id": "Gh_GtYtQoVI_34",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "在之前镜头中可见的手在这一场景中是否出现了？",
+            "options": [
+                "A. 是的，这一场景中手仍然可见。",
+                "B. 不，这一场景中手不存在。",
+                "C. 手部分在背景中可见。",
+                "D. 这一场景中只有手指可见。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_35": {
+            "id": "Gh_GtYtQoVI_35",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "“$$ CAPITAL”表示的箭头表示什么动作?",
+            "options": [
+                "A.从“SAVERS”向“BUSINESS”流动的金融资源。",
+                "B.从“BUSINESS”回到“SAVERS”的想法流动。",
+                "C.从“BUSINESS”向“'FINANCIAL INSTITUTIONS”流动的金融资源。",
+                "D.从“ADVISOR”和“SAVERS”之间的连接。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_36": {
+            "id": "Gh_GtYtQoVI_36",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "带有灯泡图标并标记为“IDEA”的箭头指向哪个方向？",
+            "options": [
+                "A.从“BUSINESS”指向“SAVERS”。",
+                "B.从“SAVERS”指向“BUSINESS”。",
+                "C.从“FINANCIAL INSTITUTIONS”指向“ADVISOR”。",
+                "D 从“ADVISOR”指向“SAVERS”。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_37": {
+            "id": "Gh_GtYtQoVI_37",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "哪种类型的镜头可以确保经济流程图的视觉清晰度和焦点？",
+            "options": [
+                "A. 静态镜头。",
+                "B. 平移镜头。",
+                "C. 动态镜头。",
+                "D. 手持镜头。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_38": {
+            "id": "Gh_GtYtQoVI_38",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "在添加“FINANCIAL INSTITUTIONS”标签后，图表发生了怎样的变化？",
+            "options": [
+                "A. 添加“FINANCIAL INSTITUTIONS”标签后，图表变得更加精致和有条理。",
+                "B. 添加“FINANCIAL INSTITUTIONS”标签后，图表变得不够精致，并更加混乱。",
+                "C. 图表移除了“FINANCIAL INSTITUTIONS”标签，并添加了更多的箭头。",
+                "D. 图表保持不变，没有任何新的变化。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_39": {
+            "id": "Gh_GtYtQoVI_39",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "随着垂直框的添加，图表发生了怎样的变化？",
+            "options": [
+                "A. 图表随着标有“BANKS”、“INS”、“MF”等垂直框的加入变得更加精确和有条理。",
+                "B. 图表现在包含三个标有“SAVERS”、“FINANCIAL BACKERS”和“INVESTORS”的水平框。",
+                "C. 引入不相关的图标和不连贯的视觉元素使图表变得更加复杂。",
+                "D. 通过移除所有与金融机构的引用，图表变得更加简化。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_40": {
+            "id": "Gh_GtYtQoVI_40",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "流程图中的哪个视觉元素传达了想法的流动？",
+            "options": [
+                "A. 带有黄色灯泡图标并标有“IDEA”的下箭头",
+                "B. 标有“$$ CAPITAL”的上箭头",
+                "C. 标有“ADVISOR”的中心人物",
+                "D. 标有“BANKS”、“INS”和“MF”的框"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_41": {
+            "id": "Gh_GtYtQoVI_41",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "在图中，标有“MARKET”的矩形位于何处？",
+            "options": [
+                "A. 左侧。",
+                "B. 中央。",
+                "C. 底部。",
+                "D. 右侧。"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_42": {
+            "id": "Gh_GtYtQoVI_42",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "视频中最后出现的视觉元素是什么？",
+            "options": [
+                "A. “BUSINESS”的天际线。",
+                "B. “IDEA”的灯泡。",
+                "C. “MARKET”的矩形。",
+                "D. “CAPITAL”的美元符号。"
+            ],
+            "answer": "C"
+        },
+        "Gh_GtYtQoVI_43": {
+            "id": "Gh_GtYtQoVI_43",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "视频中拿着笔的手正在做什么动作？",
+            "options": [
+                "A. 绘制图表并加上说明。",
+                "B. 给图表加上新的标注。",
+                "C. 擦除图表的一部分。",
+                "D. 给图表的部分用颜色标记。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_44": {
+            "id": "Gh_GtYtQoVI_44",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "在图表中，标有“MARKET”的垂直矩形起什么作用？",
+            "options": [
+                "A.在图表的中央部分起到桥梁作用。",
+                "B.代表财务流程图的终点。",
+                "C.突出显示了图表中财务顾问的作用。",
+                "D.作为图表未来添加内容的占位符。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_45": {
+            "id": "Gh_GtYtQoVI_45",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "图中有多少个标有红色标签的小人代表“SAVERS”？",
+            "options": [
+                "A. 两个",
+                "B. 三个",
+                "C. 四个",
+                "D. 五个"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_46": {
+            "id": "Gh_GtYtQoVI_46",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "手在其注释活动期间是否覆盖了标签？",
+            "options": [
+                "A. 是的，手部分覆盖了标签'ADVISORS'。",
+                "B. 手覆盖了标签'MERCHANT BANKS'。",
+                "C. 手只覆盖了标签'FINANCIAL INSTITUTIONS'。",
+                "D. 手覆盖了标签'MARKET'。"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_47": {
+            "id": "Gh_GtYtQoVI_47",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "手在接触图表左侧部分后执行什么动作？",
+            "options": [
+                "A. 手移到右边，进一步标注“FIN.”周围的细节。",
+                "B. 手将“ADVISORS”标签完全擦除。",
+                "C. 手画新的箭头，将“SAVERS”直接连接到“BUSINESS。”",
+                "D. 手在图表左侧部分添加一个新标签“LOAN PROVIDERS”。"
+            ],
+            "answer": "C"
+        },
+        "Gh_GtYtQoVI_48": {
+            "id": "Gh_GtYtQoVI_48",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "“ADVISORS”出现后，笔所在的手主要在场景切换过程中向哪个方向移动？",
+            "options": [
+                "A. 从左向右移动。",
+                "B. 从右向左移动。",
+                "C. 从上往下移动。",
+                "D. 从下往上移动。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_49": {
+            "id": "Gh_GtYtQoVI_49",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "视频中如何描述图表更新？",
+            "options": [
+                "A. 最小且零星的。",
+                "B. 持续的。",
+                "C. 只发生一次。",
+                "D. 与财务事项无关。"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_50": {
+            "id": "Gh_GtYtQoVI_50",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "图中中央框内的标签“INS”代表什么？",
+            "options": [
+                "A. 互联网服务。",
+                "B. 保险公司。",
+                "C. 投资证券。",
+                "D. 工业供应商。"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_51": {
+            "id": "Gh_GtYtQoVI_51",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "在图表中心框中的标签 'MF' 代表什么意思？",
+            "options": [
+                "A.共同基金。",
+                "B.资金流动。",
+                "C.市场力量。",
+                "D.表货币基金。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_52": {
+            "id": "Gh_GtYtQoVI_52",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "图表中央几个框里的标签'AF'代表什么？",
+            "options": [
+                "A. 资产基金。",
+                "B. 咨询公司。",
+                "C. 保险基金。",
+                "D. 附属基金。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_53": {
+            "id": "Gh_GtYtQoVI_53",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "在图表的中心框中，“NBFI”标签代表什么？",
+            "options": [
+                "A. 非银行金融机构。",
+                "B. 国家银行金融机构。",
+                "C. 非基础金融投资。",
+                "D. 网络的金融互动。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_54": {
+            "id": "Gh_GtYtQoVI_54",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "在财务流程图中使用了什么视觉元素来表示“CAPITAL”？",
+            "options": [
+                "A. 使用了（$$）。",
+                "B. 使用了红色火柴人图形。",
+                "C. 使用了竖直白色矩形。",
+                "D. 使用了城市剪影。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_55": {
+            "id": "Gh_GtYtQoVI_55",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "“IDEA”的视觉元素是什么？",
+            "options": [
+                "A.灯泡",
+                "B.云朵",
+                "C.书",
+                "D.美元符号"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_56": {
+            "id": "Gh_GtYtQoVI_56",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "使用什么背景来加强财务流程图的教育氛围？",
+            "options": [
+                "A. 使用简洁的白色背景。",
+                "B. 使用色彩鲜艳的背景。",
+                "C. 使用带有美元符号的背景。",
+                "D. 使用带有各种金融标志的背景。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_57": {
+            "id": "Gh_GtYtQoVI_57",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "图像上的时间戳位于哪个位置？",
+            "options": [
+                "A. 左下角。",
+                "B. 右上角。",
+                "C. 左上角。",
+                "D. 中心。"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_58": {
+            "id": "Gh_GtYtQoVI_58",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "这个场景的整体背景是什么？",
+            "options": [
+                "A. 一个混乱且昏暗的房间。",
+                "B. 一个色彩鲜艳的户外。",
+                "C. 一个平静且专业的房间。",
+                "D. 一个充满活力的艺术画廊。"
+            ],
+            "answer": "C"
+        },
+        "Gh_GtYtQoVI_59": {
+            "id": "Gh_GtYtQoVI_59",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "那位女士在画面中穿着什么？",
+            "options": [
+                "A. 一件无袖红色上衣。",
+                "B. 一件长袖蓝色衬衫。",
+                "C. 一件绿色毛衣。",
+                "D. 一件黑色上衣。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_60": {
+            "id": "Gh_GtYtQoVI_60",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "场景中的白板形状是什么？",
+            "options": [
+                "A.圆形。",
+                "B.矩形。",
+                "C.三角形。",
+                "D.椭圆形。"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_61": {
+            "id": "Gh_GtYtQoVI_61",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "场景中的白板表面质地如何？",
+            "options": [
+                "A.粗糙。",
+                "B.有纹理。",
+                "C.光滑。",
+                "D.有光泽。"
+            ],
+            "answer": "C"
+        },
+        "Gh_GtYtQoVI_62": {
+            "id": "Gh_GtYtQoVI_62",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "场景中的白板是如何摆放的？",
+            "options": [
+                "A. 稍微朝向摄像机倾斜。",
+                "B. 平放在桌子上。",
+                "C. 直接靠在墙上。",
+                "D. 被完全垂直地拿着。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_63": {
+            "id": "Gh_GtYtQoVI_63",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "女人手里拿着多少块白板？",
+            "options": [
+                "A. 一块",
+                "B. 两块",
+                "C. 三块",
+                "D. 没拿"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_64": {
+            "id": "Gh_GtYtQoVI_64",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "场景中的灯光会随时间变化吗？",
+            "options": [
+                "A. 是的，灯光随时间发生剧烈变化。",
+                "B. 不，场景中的灯光保持一致。",
+                "C. 是的，随着场景的进行，灯光变得更暗。",
+                "D. 不，灯光变化微妙，但总体上保持一致。"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_65": {
+            "id": "Gh_GtYtQoVI_65",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "场景中这位女性表现出什么微妙的动作？",
+            "options": [
+                "A. 这位女性翻转白板。",
+                "B. 这位女性用手调整吊坠。",
+                "C. 这位女性的姿势略微改变。",
+                "D. 这位女性离开白板去拿起一支记号笔。"
+            ],
+            "answer": "C"
+        },
+        "Gh_GtYtQoVI_66": {
+            "id": "Gh_GtYtQoVI_66",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景中可见的时间戳是什么？",
+            "options": [
+                "A. '01:45'",
+                "B. '00:58'",
+                "C. '01:02'",
+                "D. '01:50'"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_67": {
+            "id": "Gh_GtYtQoVI_67",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "社交媒体图标相对于文字“@themoneyhans”的位置在哪里？",
+            "options": [
+                "A. 下面。",
+                "B. 右侧。",
+                "C. 上面。",
+                "D. 左侧。"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_68": {
+            "id": "Gh_GtYtQoVI_68",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "过渡后视频的环境是什么？",
+            "options": [
+                "A.灯光昏暗的房间。",
+                "B.繁忙的街道。",
+                "C.纯白的背景。",
+                "D.色彩斑斓的游乐园。"
+            ],
+            "answer": "C"
+        },
+        "Gh_GtYtQoVI_69": {
+            "id": "Gh_GtYtQoVI_69",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "在视频场景切换之前，那个女人拿着什么？",
+            "options": [
+                "A. 白板。",
+                "B. 电脑。",
+                "C. 写字板。",
+                "D. 标志。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_70": {
+            "id": "Gh_GtYtQoVI_70",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "视频场景中显示了多少个社交媒体图标？",
+            "options": [
+                "A. 三个",
+                "B. 四个",
+                "C. 五个",
+                "D. 六个"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_71": {
+            "id": "Gh_GtYtQoVI_71",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "视频中文字 '@themoneyhans' 会改变位置吗？",
+            "options": [
+                "A. 会，向左移动。",
+                "B. 会，向右移动。",
+                "C. 不，文字位置一直不变。",
+                "D. 会，向上移动。"
+            ],
+            "answer": "C"
+        },
+        "Gh_GtYtQoVI_72": {
+            "id": "Gh_GtYtQoVI_72",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "在 '@themoneyhans' 下面的号召性用语文本有哪些变化？",
+            "options": [
+                "A. 扩展为包括 'LIKE'、'SHARE' 和 'SUBSCRIBE'。",
+                "B. 变为 'COMMENT' 和 'FOLLOW'。",
+                "C. 变为 'SHARE' 和 'COMMENT'。",
+                "D. 为包括 'LIKE'、'FOLLOW' 和 'COMMENT'。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_73": {
+            "id": "Gh_GtYtQoVI_73",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "什么样的互动提示表明需要与社交媒体个人资料进行互动？",
+            "options": [
+                "A. 提示语‘LIKE’、‘SHARE’、‘SUBSCRIBE’。",
+                "B. 提示语‘COMMEN’、‘FOLLOW’、‘POST’。",
+                "C. 提示语‘REACT’、‘ENGAGE’、‘CONNECT’。",
+                "D. 提示语‘CLICK’、‘VIEW’、‘JOIN’。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_74": {
+            "id": "Gh_GtYtQoVI_74",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频中首先展示的文字是什么？",
+            "options": [
+                "A. \"FAST FINANCE\"",
+                "B. \"@themoneyhans\"",
+                "C. \"LIKE\"",
+                "D. \"RE\""
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_75": {
+            "id": "Gh_GtYtQoVI_75",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在视频中，'FAST FINANCE'之后出现了什么？",
+            "options": [
+                "A. 'WHAT IS FINANCE?'。",
+                "B. 'UNDERSTANDING MONEY'。",
+                "C. 'INVEST WISELY’。",
+                "D. 'FINANCE FOR BEGINNERS'。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_76": {
+            "id": "Gh_GtYtQoVI_76",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "当显示“WHAT IS FINANCE？”时，右下角会出现什么？",
+            "options": [
+                "A. 一个卡通插画。",
+                "B. 一个象征美元符号。",
+                "C. 一个彩色数据显示的柱状图。",
+                "D. 一个简单的文本框。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_77": {
+            "id": "Gh_GtYtQoVI_77",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "肩长黑发的女人在专业室内环境中的角色是什么？",
+            "options": [
+                "A. 她在录音室录制播客。",
+                "B. 她在白板前互动，准备解释或演示某些内容。",
+                "C. 她与一位嘉宾进行现场采访。",
+                "D. 她在电脑上设计宣传图形。"
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_78": {
+            "id": "Gh_GtYtQoVI_78",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "视频前半段，一位女性拿着白板后会出现什么场景？",
+            "options": [
+                "A. 白色背景，角落标有时间戳“00:00”，接着展示一个动态插图。",
+                "B. 一个纯白色的背景，展示醒目的文字和动态的社交媒体图标。",
+                "C. 继续展示女性手持白板，同时加入额外的宣传文字。",
+                "D. 一个充满色彩的图形，伴随着动画和一个“立即订阅”的按钮。"
+            ],
+            "answer": "A"
+        },
+        "Gh_GtYtQoVI_79": {
+            "id": "Gh_GtYtQoVI_79",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在城市天际线建筑插图下方用粗体红色显示的文字是什么？",
+            "options": [
+                "A. \"ECONOMY\"",
+                "B. \"BUSINESS",
+                "C. \"LIFESTYLE",
+                "D. \"MARKETING\""
+            ],
+            "answer": "B"
+        },
+        "Gh_GtYtQoVI_80": {
+            "id": "Gh_GtYtQoVI_80",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "详尽的城市天际线在什么时间戳出现？",
+            "options": [
+                "A. 在'00:04'开始并渐进到'00:06'。",
+                "B. 在'00:02'开始并渐进到'00:03'。",
+                "C. 在'00:06'开始并渐进到'00:07'。",
+                "D. 在'00:08'开始并渐进到'00:09'。"
+            ],
+            "answer": "A"
+        }
+    }
+}

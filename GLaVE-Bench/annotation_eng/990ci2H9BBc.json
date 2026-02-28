@@ -1,0 +1,1307 @@
+{
+    "scene_hint": {
+        "0": "An opening animation",
+        "1": "The process of the sky changing from bright to dark",
+        "2": "Many people gathered together in the scene",
+        "3": "A natural landscape.",
+        "4": "The process of a solar eclipse",
+        "5": "A dim outdoor scene",
+        "6": "An animation simulating celestial motion",
+        "7": "A glowing sphere in a monotonous background",
+        "8": "A glowing sphere hanging in the sky",
+        "9": "A city skyline with a thermometer.",
+        "10": "A display board standing by the roadside.",
+        "11": "A snake appears in the scene",
+        "12": "A car appears in the scene",
+        "13": "A solar eclipse scene"
+    },
+    "qa": {
+        "990ci2H9BBc_0": {
+            "id": "990ci2H9BBc_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where are the hills and trees in the scene?",
+            "options": [
+                "A. The hills and trees are located in the center of the scene.",
+                "B. The hills and trees are located behind the audience.",
+                "C. The hills and trees are located slightly above the bottom of the scene.",
+                "D. The hills and trees are randomly distributed in the scene."
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_1": {
+            "id": "990ci2H9BBc_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the environment described in this scene?",
+            "options": [
+                "A. The environment is peaceful and serene.",
+                "B. The environment is bustling and noisy.",
+                "C. The environment is cold and snowy.",
+                "D. The environment is urbanized and industrialized."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_2": {
+            "id": "990ci2H9BBc_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What elements are in the scene?",
+            "options": [
+                "A. An urban landscape.",
+                "B. A large body of water.",
+                "C. A beach.",
+                "D. A dense forest."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_3": {
+            "id": "990ci2H9BBc_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What graphic elements are included in the scene?",
+            "options": [
+                "A. The scene includes the 'AccuWeather' logo in the bottom right corner.",
+                "B. The scene includes the 'AccuWeather' logo in the bottom left corner.",
+                "C. The scene includes 'SOLAR EFFECTS DURING LUNAR ECLIPSE' in the bottom right corner.",
+                "D. The scene includes 'DECREASING EFFECTS DURING PARTIAL ECLIPSE' in the bottom right corner."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_4": {
+            "id": "990ci2H9BBc_4",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many text element signs can be seen in the scene?",
+            "options": [
+                "A. One sign can be seen",
+                "B. Two signs can be seen",
+                "C. Three signs can be seen",
+                "D. No signs can be seen"
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_5": {
+            "id": "990ci2H9BBc_5",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Was this scene shot during the daytime?",
+            "options": [
+                "A. Yes, this scene was shot during the daytime.",
+                "B. Yes, this scene was shot at noon.",
+                "C. No, this scene was shot at night.",
+                "D. Yes, this scene was shot in the afternoon."
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_6": {
+            "id": "990ci2H9BBc_6",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What changes occur in the clouds within the scene?",
+            "options": [
+                "A. The clouds are continuously magnified in the image.",
+                "B. The clouds form a straight line in the sky.",
+                "C. The clouds remain stationary and suspended.",
+                "D. The clouds quickly disperse."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_7": {
+            "id": "990ci2H9BBc_7",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "Which type of lens should be used to capture this scene?",
+            "options": [
+                "A. Close-up lens",
+                "B. Wide-angle lens",
+                "C. Panoramic lens",
+                "D. Medium shot lens"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_8": {
+            "id": "990ci2H9BBc_8",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "During the total solar eclipse phase, where is the corona located?",
+            "options": [
+                "A. The corona is slightly to the upper right of the center of the image.",
+                "B. The corona is located at the exact center of the image.",
+                "C. The corona is located at the bottom of the image.",
+                "D. The corona is located at the far left of the image."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_9": {
+            "id": "990ci2H9BBc_9",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Does the scene describe any human behavior?",
+            "options": [
+                "A. Yes, people are cheering for the solar eclipse.",
+                "B. The scene does not describe human behavior.",
+                "C. Yes, people are preparing cameras to photograph the solar eclipse.",
+                "D. Yes, people are applauding for the solar eclipse."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_10": {
+            "id": "990ci2H9BBc_10",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What brand elements can be seen in the scene?",
+            "options": [
+                "A. 'YouTube/NASA Goddard' logo and 'AccuWeather' logo.",
+                "B. 'Discovery Channel' logo and 'Weather Channel' logo.",
+                "C. 'National Geographic' logo and 'BBC Earth' logo.",
+                "D. 'SpaceX' logo and 'Weather Network' logo."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_11": {
+            "id": "990ci2H9BBc_11",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Where is the 'YouTube/NASA Goddard' logo located?",
+            "options": [
+                "A. The 'YouTube/NASA Goddard' logo is located in the top right corner.",
+                "B. The 'YouTube/NASA Goddard' logo is located in the bottom left corner.",
+                "C. The 'YouTube/NASA Goddard' logo is located in the bottom right corner.",
+                "D. The 'YouTube/NASA Goddard' logo is located in the top left corner."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_12": {
+            "id": "990ci2H9BBc_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the 'AccuWeather' logo located?",
+            "options": [
+                "A. The 'AccuWeather' logo is located in the bottom left corner.",
+                "B. The 'AccuWeather' logo is located in the bottom right corner.",
+                "C. The 'AccuWeather' logo is located in the top right corner.",
+                "D. The 'AccuWeather' logo is located in the top left corner."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_13": {
+            "id": "990ci2H9BBc_13",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many text elements appear in the scene?",
+            "options": [
+                "A. One text",
+                "B. Two texts",
+                "C. Three texts",
+                "D. Four texts"
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_14": {
+            "id": "990ci2H9BBc_14",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "In the scene, does the wide-angle perspective change?",
+            "options": [
+                "A. Yes, the wide-angle perspective changes to a close-up view.",
+                "B. No, the wide-angle perspective remains unchanged.",
+                "C. Yes, the perspective switches from wide-angle to panoramic.",
+                "D. Yes, the wide-angle perspective undergoes a significant change."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_15": {
+            "id": "990ci2H9BBc_15",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What changes will occur to the branches and leaves?",
+            "options": [
+                "A. The branches and leaves form a blurred silhouette against the sky.",
+                "B. The branches and leaves are illuminated by the sun's corona.",
+                "C. The branches and leaves completely disappear.",
+                "D. The branches and leaves become more vivid against the sky."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_16": {
+            "id": "990ci2H9BBc_16",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "Did the camera move?",
+            "options": [
+                "A. Yes, the camera only moved slightly.",
+                "B. Yes, the camera zooms in to capture the sun.",
+                "C. No, the camera remains stationary.",
+                "D. No, the camera only pans left and right."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_17": {
+            "id": "990ci2H9BBc_17",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "How does the environment in the scene change?",
+            "options": [
+                "A. From slightly dim daytime to near darkness.",
+                "B. The brightness of the environment remains unchanged.",
+                "C. From bright daytime to slightly dim.",
+                "D. The environment becomes uniformly bright."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_18": {
+            "id": "990ci2H9BBc_18",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "In the first frame of the scene, where are the people wearing yellow and blue located?",
+            "options": [
+                "A. Located on the left side of the scene.",
+                "B. Located on the right side of the scene.",
+                "C. Located in the center of the scene.",
+                "D. Located in the background of the scene."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_19": {
+            "id": "990ci2H9BBc_19",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What does the scene look like?",
+            "options": [
+                "A. The scene is a dark night sky.",
+                "B. The scene is an outdoor grandstand.",
+                "C. The scene is a forest clearing.",
+                "D. The scene is a city parade."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_20": {
+            "id": "990ci2H9BBc_20",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "In the first scene, what are the characteristics of the elderly man wearing black clothes and glasses?",
+            "options": [
+                "A. The clothes have 'THE GREAT AMERICA' printed on them.",
+                "B. Wearing a wide-brimmed hat and dark sunglasses.",
+                "C. Holding a smartphone and wearing a knitted hat.",
+                "D. Standing under a banner with letters printed on it."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_21": {
+            "id": "990ci2H9BBc_21",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What emblematic element can be seen in the lower right corner of the scene?",
+            "options": [
+                "A. NASA emblem",
+                "B. Weather Channel emblem",
+                "C. AccuWeather emblem",
+                "D. BBC Earth emblem"
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_22": {
+            "id": "990ci2H9BBc_22",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "In the first scene, what is the person wearing an orange hat doing?",
+            "options": [
+                "A. Holding up a camera to film.",
+                "B. Pointing at the sky.",
+                "C. Wearing solar eclipse glasses.",
+                "D. Talking to another spectator."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_23": {
+            "id": "990ci2H9BBc_23",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "Which direction are most of the audience looking in the scene?",
+            "options": [
+                "A. Most of the audience are looking down at their phones.",
+                "B. Most of the audience are looking up at the sky.",
+                "C. Most of the audience are glancing at each other.",
+                "D. Most of the audience are looking forward at a big screen."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_24": {
+            "id": "990ci2H9BBc_24",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What camera angle is used in the first scene?",
+            "options": [
+                "A. Wide angle view.",
+                "B. Medium close-up view.",
+                "C. Bird's eye view.",
+                "D. Close-up view."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_25": {
+            "id": "990ci2H9BBc_25",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the environment like in the scene?",
+            "options": [
+                "A. A relatively bright outdoor environment.",
+                "B. Dim throughout, with almost no visible colors.",
+                "C. A bright indoor scene.",
+                "D. A bright moonlit night."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_26": {
+            "id": "990ci2H9BBc_26",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the tall leafless tree closest to the camera located?",
+            "options": [
+                "A. This tall leafless tree is located in the center of the scene.",
+                "B. This tall leafless tree is located on the far right of the scene.",
+                "C. This tall leafless tree is located on the far left of the scene.",
+                "D. This tall leafless tree is located next to the body of water."
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_27": {
+            "id": "990ci2H9BBc_27",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the main setting of the scene?",
+            "options": [
+                "A. The second scene is set in an outdoor activity.",
+                "B. The second scene is set in a natural environment.",
+                "C. The second scene is set in an urban landscape.",
+                "D. The second scene is set in a forest with no visible water bodies."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_28": {
+            "id": "990ci2H9BBc_28",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Is there anyone visible in the scene?",
+            "options": [
+                "A. Yes, a person can be seen in the scene.",
+                "B. Yes, a small group of people can be seen.",
+                "C. No, no one is visible in the scene.",
+                "D. No, there is nothing in the scene."
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_29": {
+            "id": "990ci2H9BBc_29",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "In the scene, what is the text displayed in the upper right corner of the screen?",
+            "options": [
+                "A. 'YouTube/NASA Goddard'",
+                "B. 'AccuWeather'",
+                "C. 'NASA Twilight Observatory'",
+                "D. 'Weather Channel'"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_30": {
+            "id": "990ci2H9BBc_30",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What text is displayed in the bottom right corner of the screen in the scene?",
+            "options": [
+                "A. 'AccuWeather'",
+                "B. 'YouTube/NASA Goddard'",
+                "C. A weather report containing temperature details",
+                "D. Subtitles describing tranquil water bodies"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_31": {
+            "id": "990ci2H9BBc_31",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What types of trees exist in the scene?",
+            "options": [
+                "A. Evergreen trees and leafless trees",
+                "B. Birch trees and cherry trees",
+                "C. Oak trees and weeping willows",
+                "D. Cedar trees and palm trees"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_32": {
+            "id": "990ci2H9BBc_32",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "Has the color of the sky changed in the scene?",
+            "options": [
+                "A. Yes, the blue of the sky has slightly deepened.",
+                "B. No, the sky has always been light blue.",
+                "C. Yes, the sky transitioned from blue to dark gray.",
+                "D. No, the sky has been completely pink from the start."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_33": {
+            "id": "990ci2H9BBc_33",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What does the reflection on the water surface look like?",
+            "options": [
+                "A. Clouds and city lights.",
+                "B. Evergreen trees and the sky.",
+                "C. Fish and plants.",
+                "D. Bright decorations and lights."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_34": {
+            "id": "990ci2H9BBc_34",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in the scene?",
+            "options": [
+                "A. The camera uses a horizontal angle.",
+                "B. The camera uses a bird's-eye view.",
+                "C. The camera uses a close-up angle.",
+                "D. The camera is shot from a low angle."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_35": {
+            "id": "990ci2H9BBc_35",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of lens is used in the scene?",
+            "options": [
+                "A. The camera uses a wide-angle lens.",
+                "B. The camera uses a zoom lens.",
+                "C. The camera uses an overhead lens.",
+                "D. The camera uses a close-up lens."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_36": {
+            "id": "990ci2H9BBc_36",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the scene like?",
+            "options": [
+                "A. Has soft, slightly dim natural light.",
+                "B. Has consistently bright incandescent light.",
+                "C. Has bright noon sunlight.",
+                "D. Has no light source."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_37": {
+            "id": "990ci2H9BBc_37",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What does the scene look like?",
+            "options": [
+                "A. There is a halo around the small black ball.",
+                "B. There is a meteor shower in the sky.",
+                "C. Planet alignment.",
+                "D. A celestial view of the Milky Way."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_38": {
+            "id": "990ci2H9BBc_38",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "Aside from the main light source, how many smaller luminous points can be seen?",
+            "options": [
+                "A. Two",
+                "B. Three",
+                "C. Four",
+                "D. Five"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_39": {
+            "id": "990ci2H9BBc_39",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Does the text 'AccuWeather' remain present throughout the entire scene?",
+            "options": [
+                "A. Yes, the text 'AccuWeather' remains present throughout the entire scene.",
+                "B. No, the text 'AccuWeather' disappears during the weather transition.",
+                "C. Yes, but the text 'AccuWeather' changes position in the scene.",
+                "D. No, the text 'AccuWeather' is only visible before the weather transition."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_40": {
+            "id": "990ci2H9BBc_40",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "How does the intensity of light from the two glowing points change?",
+            "options": [
+                "A. Gradually weakens.",
+                "B. Gradually strengthens.",
+                "C. Remains unchanged.",
+                "D. Fluctuates randomly."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_41": {
+            "id": "990ci2H9BBc_41",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the background like in the scene?",
+            "options": [
+                "A. Deep blue sky",
+                "B. Red sky",
+                "C. Gray sky",
+                "D. Orange sky"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_42": {
+            "id": "990ci2H9BBc_42",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What visual elements are in the scene?",
+            "options": [
+                "A. Glowing dots and infographic text banners.",
+                "B. A row of bright lights and a starry sky background.",
+                "C. Vertically arranged glowing spheres and scrolling text.",
+                "D. Constellations of lights and watermark copyright."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_43": {
+            "id": "990ci2H9BBc_43",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the position of the Moon relative to the Earth in the image?",
+            "options": [
+                "A. The Moon is on the right, and the Earth is on the left.",
+                "B. The Moon is above the Earth.",
+                "C. The Moon is directly below the Earth.",
+                "D. The Moon is on the left, and the Earth is on the right."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_44": {
+            "id": "990ci2H9BBc_44",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the environment depicted at the beginning of the scene?",
+            "options": [
+                "A. Hills and sky.",
+                "B. Sunset cityscape.",
+                "C. Moonlit forest.",
+                "D. Volcanic landscape."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_45": {
+            "id": "990ci2H9BBc_45",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Are there any characters in the scene?",
+            "options": [
+                "A. Yes, there is one character in the scene.",
+                "B. No, there are no characters in the scene.",
+                "C. The scene only shows the outline of a character.",
+                "D. Yes, there are multiple characters in the scene."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_46": {
+            "id": "990ci2H9BBc_46",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What details can be seen on the Earth's surface in the scene?",
+            "options": [
+                "A. Land, ocean, and clouds.",
+                "B. Deserts, polar regions, and city lights.",
+                "C. Barren landscapes, meteor craters, and volcanic eruptions.",
+                "D. Endless mountains, forests, and glowing rivers."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_47": {
+            "id": "990ci2H9BBc_47",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many celestial bodies are depicted in the scene?",
+            "options": [
+                "A. One celestial body",
+                "B. Two celestial bodies",
+                "C. Three celestial bodies",
+                "D. Four celestial bodies"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_48": {
+            "id": "990ci2H9BBc_48",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "Is the background consistent throughout the entire scene?",
+            "options": [
+                "A. Yes, the background remains a sunset landscape throughout.",
+                "B. No, the background transitions from a sunset landscape to space.",
+                "C. Yes, the background is consistently maintained.",
+                "D. No, the background transitions from the Earth's surface to an underwater scene."
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_49": {
+            "id": "990ci2H9BBc_49",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Is the shadow on the Earth's surface moving?",
+            "options": [
+                "A. Yes, the shadow on the Earth's surface is moving.",
+                "B. No, the shadow on the Earth's surface is stationary.",
+                "C. There is no shadow present in the scene.",
+                "D. The shadow alternates between moving and stationary."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_50": {
+            "id": "990ci2H9BBc_50",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "Will the camera angle change in the scene?",
+            "options": [
+                "A. No, the camera angle changes very little.",
+                "B. Yes, the camera angle switches between different perspectives.",
+                "C. Yes, the camera angle alternates between close-up shots.",
+                "D. The camera angle focuses only on the Earth's perspective."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_51": {
+            "id": "990ci2H9BBc_51",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "Which lens is used to capture the Earth and the Moon?",
+            "options": [
+                "A. A lens with a wide cosmic perspective.",
+                "B. A close-up lens of the Earth, with the Moon barely visible.",
+                "C. A panoramic landscape lens.",
+                "D. A time-lapse lens of the Moon's surface."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_52": {
+            "id": "990ci2H9BBc_52",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What remains consistent throughout the entire scene?",
+            "options": [
+                "A. The sky in the scene.",
+                "B. The 'AccuWeather' logo.",
+                "C. The shadow of the Earth.",
+                "D. The models of the Earth and the Moon."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_53": {
+            "id": "990ci2H9BBc_53",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the environment like after a total solar eclipse disappears?",
+            "options": [
+                "A. There are light points similar to stars or celestial bodies in the night sky.",
+                "B. Orange and red hues gradually fade to the horizon.",
+                "C. A cloudy sky illuminated by the moon's faint light.",
+                "D. Stormy weather with lightning in the distance."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_54": {
+            "id": "990ci2H9BBc_54",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What kind of information banner is displayed in the scene?",
+            "options": [
+                "A. A banner with black text.",
+                "B. A banner with colorful text description.",
+                "C. A banner with bright red text.",
+                "D. A banner with white text displaying the moon phases."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_55": {
+            "id": "990ci2H9BBc_55",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What logo is placed in the lower right corner of the scene?",
+            "options": [
+                "A. 'Weather Channel' logo.",
+                "B. 'AccuWeather' logo.",
+                "C. 'National Geographic' logo.",
+                "D. 'BBC Weather' logo."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_56": {
+            "id": "990ci2H9BBc_56",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "Is the banner visible throughout the entire scene?",
+            "options": [
+                "A. Yes, the banner remains visible at all times.",
+                "B. No, they disappear at some point.",
+                "C. Yes, but they change position and design.",
+                "D. No, they are replaced by informational audio."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_57": {
+            "id": "990ci2H9BBc_57",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "What happens to a solar eclipse as it transitions to the night sky?",
+            "options": [
+                "A. The solar eclipse and its corona disappear.",
+                "B. The solar eclipse transitions to a full moon.",
+                "C. The solar eclipse becomes partially visible.",
+                "D. The solar eclipse is replaced by storm clouds."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_58": {
+            "id": "990ci2H9BBc_58",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What does the scene look like after a solar eclipse disappears?",
+            "options": [
+                "A. A vast space of deep purple.",
+                "B. A bright comet with a long tail.",
+                "C. A colorful nebula.",
+                "D. A crescent moon."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_59": {
+            "id": "990ci2H9BBc_59",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "At the beginning of the scene, where is the branch located in the frame?",
+            "options": [
+                "A. The branch is located in the upper left corner of the frame.",
+                "B. The branch is located in the lower right corner of the frame.",
+                "C. The branch is located in the lower left corner of the frame.",
+                "D. The branch is located in the upper right corner of the frame."
+            ],
+            "answer": "D"
+        },
+        "990ci2H9BBc_60": {
+            "id": "990ci2H9BBc_60",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What is the overall setting of the scene?",
+            "options": [
+                "A. The scene transitions from a deep blue sky to an orange-yellow near the ground.",
+                "B. The scene transitions from an urban landscape to a rural area.",
+                "C. The scene is a continuous sunset beach view.",
+                "D. The scene depicts a metropolis transitioning from day to night."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_61": {
+            "id": "990ci2H9BBc_61",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Is there a depiction of humans appearing in the scene?",
+            "options": [
+                "A. Yes, there are people watching the solar eclipse.",
+                "B. No, it focuses on astronomical phenomena and natural elements.",
+                "C. Yes, there are people running and exercising.",
+                "D. No, but there is a voiceover describing the scene."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_62": {
+            "id": "990ci2H9BBc_62",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What logo consistently appears on the screen?",
+            "options": [
+                "A. 'Weather Channel'.",
+                "B. 'AccuWeather'.",
+                "C. 'National Geographic'.",
+                "D. 'NASA'."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_63": {
+            "id": "990ci2H9BBc_63",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "Does the background color remain constant?",
+            "options": [
+                "A. Yes, the background color remains a consistent dark gray throughout the entire duration.",
+                "B. No, the background color transitions from purple to dark blue, then to pink and orange tones.",
+                "C. Yes, the background color remains a consistent dark blue throughout the entire duration.",
+                "D. No, the background color changes from bright yellow to black, with no other tones in between."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_64": {
+            "id": "990ci2H9BBc_64",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "Were the branches present at the beginning of the scene?",
+            "options": [
+                "A. They completely disappear, leaving an empty sky.",
+                "B. They are present at first, then switch to another scene.",
+                "C. They are always present in the background.",
+                "D. They transition from the background to the foreground."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_65": {
+            "id": "990ci2H9BBc_65",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "In the scene, where do the palm-shaped leaves appear?",
+            "options": [
+                "A. The palm-shaped leaves appear on both sides of the image.",
+                "B. The palm-shaped leaves appear at the top center of the image.",
+                "C. The palm-shaped leaves appear on the right side of the image.",
+                "D. The palm-shaped leaves appear at the bottom right corner of the image."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_66": {
+            "id": "990ci2H9BBc_66",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "What type of camera shot is primarily used in the scene?",
+            "options": [
+                "A. Primarily uses close-up shots.",
+                "B. Primarily uses wide-angle shots.",
+                "C. Primarily uses medium shots.",
+                "D. Primarily uses overhead shots."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_67": {
+            "id": "990ci2H9BBc_67",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "Is the transition of the sky's gradient happening suddenly?",
+            "options": [
+                "A. Yes, the transition of the sky's gradient happens suddenly.",
+                "B. No, the transition of the sky's gradient happens gradually.",
+                "C. There is no gradient transition in the sky.",
+                "D. The transition of the sky's gradient is difficult to detect."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_68": {
+            "id": "990ci2H9BBc_68",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "In the initial view of the scene, which elements are located at the top?",
+            "options": [
+                "A. Sky, clouds, glowing spheres.",
+                "B. Pine tree-like branches",
+                "C. Cityscape with lights",
+                "D. Thermometer-like structure"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_69": {
+            "id": "990ci2H9BBc_69",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "In the initial perspective of the scene, what elements are at the bottom of the frame?",
+            "options": [
+                "A. Dimly lit urban landscape",
+                "B. Palm-like leaves",
+                "C. Snow-covered mountains",
+                "D. City skyline"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_70": {
+            "id": "990ci2H9BBc_70",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the scene?",
+            "options": [
+                "A. A cityscape.",
+                "B. A skyscraper.",
+                "C. A dense rainforest.",
+                "D. In a desert."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_71": {
+            "id": "990ci2H9BBc_71",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "What are the main features of the thermometer-like structures mentioned?",
+            "options": [
+                "A. Contains orange liquid inside, with black scale markings.",
+                "B. Contains blue liquid inside, with red scale markings.",
+                "C. Contains green liquid inside, with yellow scale markings.",
+                "D. Contains purple liquid inside, with white scale markings."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_72": {
+            "id": "990ci2H9BBc_72",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "Is the 'AccuWeather' logo kept visible?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only at the beginning",
+                "D. Only at the end"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_73": {
+            "id": "990ci2H9BBc_73",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "How does the liquid in the thermometer change?",
+            "options": [
+                "A. The liquid gradually rises.",
+                "B. The liquid gradually falls.",
+                "C. The liquid disappears from view.",
+                "D. The liquid remains unchanged."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_74": {
+            "id": "990ci2H9BBc_74",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "What type of lens should be used to introduce a thermometer?",
+            "options": [
+                "A. Use a close-up lens.",
+                "B. Use a wide-angle lens.",
+                "C. Use an aerial lens.",
+                "D. Use a long shot lens."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_75": {
+            "id": "990ci2H9BBc_75",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "What changes have occurred in the sky?",
+            "options": [
+                "A. The sky went from fully visible to partially obscured.",
+                "B. The sky became completely dark.",
+                "C. The sky changed from bright orange to light gray.",
+                "D. The sky remained unchanged."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_76": {
+            "id": "990ci2H9BBc_76",
+            "scene": 10,
+            "dimension": "Object Direction",
+            "question": "From which side does the human leg enter the frame?",
+            "options": [
+                "A. The human leg enters the frame from the left side.",
+                "B. The human leg enters the frame from the right side.",
+                "C. The human leg enters the frame from the top.",
+                "D. The human leg enters the frame from the bottom."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_77": {
+            "id": "990ci2H9BBc_77",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "What environment is depicted at the beginning of the scene?",
+            "options": [
+                "A. A display board placed on the road.",
+                "B. A city street.",
+                "C. A tropical jungle.",
+                "D. A volcanic eruption scene."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_78": {
+            "id": "990ci2H9BBc_78",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the human legs perform in the scene?",
+            "options": [
+                "A. The human legs walked into the frame and then walked out.",
+                "B. The human legs remained stationary.",
+                "C. The human legs performed a jumping action before leaving the frame.",
+                "D. The human legs circled around a white cylindrical structure."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_79": {
+            "id": "990ci2H9BBc_79",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "What does that large white object look like?",
+            "options": [
+                "A. Smooth surface.",
+                "B. Covered with snow.",
+                "C. Made of glass.",
+                "D. Has a grassy texture."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_80": {
+            "id": "990ci2H9BBc_80",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "How many text elements are mentioned in the scene description?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_81": {
+            "id": "990ci2H9BBc_81",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "Is the lighting in the entire scene relatively soft?",
+            "options": [
+                "A. Yes, the lighting is soft",
+                "B. No, the lighting is harsh",
+                "C. Only in certain scenes",
+                "D. The scene is dark"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_82": {
+            "id": "990ci2H9BBc_82",
+            "scene": 10,
+            "dimension": "Object Direction",
+            "question": "Which direction is this leg moving in the picture?",
+            "options": [
+                "A. Moving from left to right.",
+                "B. Moving from right to left.",
+                "C. Moving from top to bottom.",
+                "D. Moving from bottom to top."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_83": {
+            "id": "990ci2H9BBc_83",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle in the scene?",
+            "options": [
+                "A. The camera angle changes regularly.",
+                "B. The camera angle is stable.",
+                "C. The camera moves irregularly.",
+                "D. The camera angle remains stationary."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_84": {
+            "id": "990ci2H9BBc_84",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "Which elements remain consistent in the scene?",
+            "options": [
+                "A. The large white display board and lighting remain consistent.",
+                "B. Human legs and information banners remain consistent.",
+                "C. Green panels and human leg elements remain consistent.",
+                "D. The snow-covered scenery and camera angle remain consistent."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_85": {
+            "id": "990ci2H9BBc_85",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "Where does the main scene in the picture take place?",
+            "options": [
+                "A. It takes place in a car repair shop.",
+                "B. A landscape at sunset.",
+                "C. It takes place in a cosmic environment.",
+                "D. In a city at night."
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_86": {
+            "id": "990ci2H9BBc_86",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "Does the scene describe any human behavior?",
+            "options": [
+                "A. Yes, someone is polishing a car door.",
+                "B. No, the video does not describe any human behavior.",
+                "C. Yes, someone is observing a solar eclipse up close.",
+                "D. Yes, humans are depicted interacting with brand elements."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_87": {
+            "id": "990ci2H9BBc_87",
+            "scene": 12,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the car door described in the scene?",
+            "options": [
+                "A. The car door has a wooden handle and a matte surface.",
+                "B. The car door has a metal handle and a smooth surface.",
+                "C. The car door has a plastic handle and a rough surface.",
+                "D. The car door has a glass handle and a shiny surface."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_88": {
+            "id": "990ci2H9BBc_88",
+            "scene": 13,
+            "dimension": "Count",
+            "question": "In a solar eclipse scenario, how many celestial bodies are visible?",
+            "options": [
+                "A. One celestial body is visible.",
+                "B. Two celestial bodies are visible.",
+                "C. Three celestial bodies are visible.",
+                "D. Four celestial bodies are visible."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_89": {
+            "id": "990ci2H9BBc_89",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "Does the scene contain any logo elements?",
+            "options": [
+                "A. No, it does not contain any elements",
+                "B. Yes, it contains the 'CarBrand' logo in the bottom right corner",
+                "C. Yes, it contains the 'AccuWeather' logo in the bottom right corner",
+                "D. Yes, it contains the 'NASA' logo in the bottom right corner"
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_90": {
+            "id": "990ci2H9BBc_90",
+            "scene": 13,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens is used in the scene?",
+            "options": [
+                "A. Panoramic aerial shot lens",
+                "B. Stable close-up frame focus",
+                "C. Wide-angle lens",
+                "D. Fast zoom in and out lens"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_91": {
+            "id": "990ci2H9BBc_91",
+            "scene": 13,
+            "dimension": "Attribute Change",
+            "question": "What visual changes are present in the scene?",
+            "options": [
+                "A. The sunlight dims.",
+                "B. The moon begins to shine brightly.",
+                "C. Stars can be seen everywhere in the sky.",
+                "D. The sun completely disappears."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_92": {
+            "id": "990ci2H9BBc_92",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What time of day does the initial scene imply?",
+            "options": [
+                "A. The initial scene implies noon.",
+                "B. The initial scene implies either before dawn or after dusk.",
+                "C. The initial scene implies late afternoon.",
+                "D. The initial scene implies midday."
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_93": {
+            "id": "990ci2H9BBc_93",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "After the first total solar eclipse is shown, what scene does it switch to?",
+            "options": [
+                "A. An outdoor scene full of people.",
+                "B. Text detailing the mechanism of solar panels.",
+                "C. A library.",
+                "D. A forest."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_94": {
+            "id": "990ci2H9BBc_94",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What happens after an outdoor scene full of people?",
+            "options": [
+                "A. The scene shifts to a natural environment with a body of water.",
+                "B. The scene shifts to a nighttime cityscape.",
+                "C. The scene shifts to an indoor art gallery.",
+                "D. The scene shifts to a street hosting a festival event."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_95": {
+            "id": "990ci2H9BBc_95",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How is the scene of the first total solar eclipse presented?",
+            "options": [
+                "A. Captured the transition from the bright pre-eclipse phase to the total eclipse phase.",
+                "B. Depicted the entire event until the sun completely set below the horizon.",
+                "C. Focused only on the car door, without mentioning the total solar eclipse.",
+                "D. Showed the eclipse gradually disappearing, transitioning to a nighttime city scene."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_96": {
+            "id": "990ci2H9BBc_96",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What comes after the dim outdoor scene with only the sky and hills?",
+            "options": [
+                "A. The scene transitions to a vast cosmic perspective.",
+                "B. The scene switches to an urban landscape.",
+                "C. The scene switches to a waterfall in the forest.",
+                "D. The scene moves to a beach."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_97": {
+            "id": "990ci2H9BBc_97",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What happens after the thermometer is introduced?",
+            "options": [
+                "A. The scene switches to a white display board.",
+                "B. The scientist begins to examine the thermometer and record data.",
+                "C. The camera zooms in to show the thermometer's reading.",
+                "D. The thermometer is shown as melting."
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_98": {
+            "id": "990ci2H9BBc_98",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is shown after the close-up of the car door?",
+            "options": [
+                "A. The scene transitions to a cosmic spectacle of a solar eclipse.",
+                "B. The scene transitions to an urban landscape.",
+                "C. The camera focuses on a mountain view at sunset.",
+                "D. The scene transitions to the gears of a working watch."
+            ],
+            "answer": "A"
+        }
+    }
+}

@@ -1,0 +1,3284 @@
+{
+    "scene_hint": {
+        "0": "The player wearing the number 19 jersey is preparing to enter the field.",
+        "1": "The current situation on the football field.",
+        "2": "The camera pans to the stadium stands.",
+        "3": "The two football players about to be substituted by the team.",
+        "4": "The cheering fans on site.",
+        "5": "The two football players being substituted.",
+        "6": "A close-up shot of fans raising their hands in cheer.",
+        "7": "The situation of the fans in the stands.",
+        "8": "The camera focuses on a football player on the field.",
+        "9": "A bird's-eye view of the match.",
+        "10": "A close-up shot of the player controlling the ball.",
+        "11": "The bird's-eye view continues to watch the match.",
+        "12": "The perspective zooms in on the possession of the ball.",
+        "13": "A close-up shot of a football player on the field.",
+        "14": "Gradient white text on a predominantly dark blue background."
+    },
+    "qa": {
+        "9dQXiqS56Y4_0": {
+            "id": "9dQXiqS56Y4_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What type of scene is depicted in the video?",
+            "options": [
+                "A. The scene is a professional and formal event in a stadium environment.",
+                "B. The scene is an informal gathering in a public park.",
+                "C. The scene is a casual gathering in a living room.",
+                "D. The scene is a business meeting in a company office."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_1": {
+            "id": "9dQXiqS56Y4_1",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What are the signs that can indicate the category of this competition?",
+            "options": [
+                "A. It is indicated by elements such as FIFA, international flag symbols, banners, and blue stadium seats.",
+                "B. It is indicated by the number 19 on the jersey and the dark blue field with white stars.",
+                "C. It is indicated by the players' forward-leaning posture and the referee's substitution board.",
+                "D. It is indicated by everyone wearing formal attire and a notebook in the hand of a man."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_2": {
+            "id": "9dQXiqS56Y4_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What color is the soccer player's jersey in the center of the screen?",
+            "options": [
+                "A. The player in the center is wearing a light blue soccer jersey with white stripes, number 19, and the Argentina national football team badge.",
+                "B. The player in the center is wearing a dark green soccer jersey with black stripes, number 19, and the Argentina national football team badge.",
+                "C. The player in the center is wearing a dark blue soccer jersey with white stripes, number 19, and the Argentina national football team badge.",
+                "D. The player in the center is wearing a red soccer jersey with white stripes, number 19, and the Argentina national football team badge."
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_3": {
+            "id": "9dQXiqS56Y4_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the role of the character in the middle of the screen?",
+            "options": [
+                "A. He is a coach.",
+                "B. He is a player.",
+                "C. He is a referee.",
+                "D. He is a spectator."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_4": {
+            "id": "9dQXiqS56Y4_4",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the person wearing green and gray holding?",
+            "options": [
+                "A. A glass water cup",
+                "B. A black object",
+                "C. A whistle",
+                "D. A football"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_5": {
+            "id": "9dQXiqS56Y4_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is the purpose of the object held by the person wearing green-gray clothing?",
+            "options": [
+                "A. Used for managing player substitutions.",
+                "B. Used for indicating the score.",
+                "C. Used for recording match statistics.",
+                "D. Used for indicating penalties."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_6": {
+            "id": "9dQXiqS56Y4_6",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is the athlete wearing the number 19 jersey in the scene moving dynamically?",
+            "options": [
+                "A. Yes, the athlete is running.",
+                "B. No, the athlete is sitting still.",
+                "C. Yes, there is a lot of physical activity and movement.",
+                "D. No, the athlete is standing still."
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_7": {
+            "id": "9dQXiqS56Y4_7",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What action is the character on the far left doing with their hands in the initial screen?",
+            "options": [
+                "A. Both hands are clapping.",
+                "B. One hand is raised with a finger pointing somewhere.",
+                "C. One hand is stroking the athlete's hair.",
+                "D. Both hands are raised above the head."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_8": {
+            "id": "9dQXiqS56Y4_8",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the most noticeable action in the middle of the scene?",
+            "options": [
+                "A. The most noticeable action is the football player tidying up his clothes.",
+                "B. The football player runs onto the field while the coach stands and shouts instructions loudly.",
+                "C. The referee moves on the field and signals a goal.",
+                "D. The players on the bench gather together to discuss their strategy."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_9": {
+            "id": "9dQXiqS56Y4_9",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What action indicates that the football player might be preparing to engage in more active activities?",
+            "options": [
+                "A. The football player walking towards the edge of the field indicates this.",
+                "B. The football player waving to the audience indicates this.",
+                "C. The football player adjusting his jersey indicates this.",
+                "D. The football player talking to the referee indicates this."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_10": {
+            "id": "9dQXiqS56Y4_10",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "For athletes, in which direction do soccer players move when walking?",
+            "options": [
+                "A. Soccer players walk to the left.",
+                "B. Soccer players walk to the right.",
+                "C. Soccer players walk downwards.",
+                "D. Soccer players walk backwards."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_11": {
+            "id": "9dQXiqS56Y4_11",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle was used to shoot this scene?",
+            "options": [
+                "A. The camera uses a slightly elevated and zoomed-in perspective.",
+                "B. The camera uses a distant wide-angle lens.",
+                "C. The camera uses a distant and ground-level perspective.",
+                "D. The camera uses a high-angle and distant perspective."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_12": {
+            "id": "9dQXiqS56Y4_12",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the composition of individuals between the frames of the scene?",
+            "options": [
+                "A. The position of the number 19 football player in formal attire changed.",
+                "B. The referee holding the substitution board changed position and stood in front of the Argentine player.",
+                "C. The man in the navy blue suit stood up and started giving instructions to the football player.",
+                "D. The two seated individuals on the far right exchanged seats and changed their attire."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_13": {
+            "id": "9dQXiqS56Y4_13",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What visual elements added an international atmosphere to the event?",
+            "options": [
+                "A. The appearance of the FIFA logo, the display of international flags, and a flag with white stars on a dark blue background.",
+                "B. The appearance of the FIFA logo, a flag with yellow stars, and the participation of international referees.",
+                "C. The appearance of the FIFA logo, banners of local teams, and national sponsors.",
+                "D. The display of local advertisements, team mascots, and a flag with red and white stripes."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_14": {
+            "id": "9dQXiqS56Y4_14",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "In which direction is the Argentine football player moving relative to the camera?",
+            "options": [
+                "A. The Argentine football player is moving to the left side of the screen.",
+                "B. The Argentine football player is moving to the right side of the screen.",
+                "C. The Argentine football player is moving to the top of the screen.",
+                "D. The Argentine football player is moving to the bottom of the screen."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_15": {
+            "id": "9dQXiqS56Y4_15",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is prominently displayed on the player's jersey?",
+            "options": [
+                "A. FIFA",
+                "B. The number '19'",
+                "C. A green banner with abstract patterns",
+                "D. The American flag"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_16": {
+            "id": "9dQXiqS56Y4_16",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many flags are clearly visible in the scene?",
+            "options": [
+                "A. One flag",
+                "B. Two flags",
+                "C. At least three flags",
+                "D. Four flags"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_17": {
+            "id": "9dQXiqS56Y4_17",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What flags are in the scene?",
+            "options": [
+                "A. An American flag, a green banner with abstract patterns, and a partially visible flag with recognizable text and images.",
+                "B. A French flag, a green banner with stars, and a partially visible flag with recognizable shapes.",
+                "C. An American flag, a red banner with abstract patterns, and a fully visible flag with text.",
+                "D. A British flag, a green banner with stripes, and a partially visible flag with symbols."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_18": {
+            "id": "9dQXiqS56Y4_18",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Can the FIFA logo be seen in the video scene?",
+            "options": [
+                "A. Yes, the FIFA logo is visible in the upper right corner of the scene.",
+                "B. No, the FIFA logo is obscured by the player's actions.",
+                "C. Yes, the FIFA logo is visible in the lower left corner of the scene.",
+                "D. No, the FIFA logo does not appear in this scene at all."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_19": {
+            "id": "9dQXiqS56Y4_19",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "What change has occurred in the direction of the Argentine football player relative to himself?",
+            "options": [
+                "A. Now the player is moving to the right",
+                "B. Now the player is moving forward.",
+                "C. Now the player is moving backward.",
+                "D. Now the player is moving to the right."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_20": {
+            "id": "9dQXiqS56Y4_20",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "How does a stable camera angle affect the scene?",
+            "options": [
+                "A. A stable camera angle makes the scene appear dynamic and unstable, thus distracting the player.",
+                "B. A stable camera angle maintains the clarity of the scene, focuses on the player's actions, and incorporates subtle background changes.",
+                "C. A stable camera angle makes the scene blurry and obscures background details.",
+                "D. A stable camera angle prevents any dynamic elements from appearing in the scene."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_21": {
+            "id": "9dQXiqS56Y4_21",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred to the person at the far right position during the early stage of the scene?",
+            "options": [
+                "A. The person who was previously sitting at the far right gradually became invisible.",
+                "B. A new player entered from the far right side of the screen.",
+                "C. The referee is now occupying the far right position.",
+                "D. The coach now appears at the far right position."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_22": {
+            "id": "9dQXiqS56Y4_22",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What personnel changes are observed in the lower left corner of the screen?",
+            "options": [
+                "A. Part of a new character's figure appears in the lower left corner of the screen.",
+                "B. The same person who was previously sitting is now repositioned to the lower left corner of the screen.",
+                "C. A referee has entered the lower left corner of the screen.",
+                "D. A player has moved to the lower left corner of the screen."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_23": {
+            "id": "9dQXiqS56Y4_23",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is in the upper right corner of the scene?",
+            "options": [
+                "A. FIFA",
+                "B. American flag",
+                "C. A green banner with an abstract pattern",
+                "D. Argentine Football Association emblem"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_24": {
+            "id": "9dQXiqS56Y4_24",
+            "scene": 0,
+            "dimension": "Camera Direction",
+            "question": "What is the panning direction of the camera?",
+            "options": [
+                "A. The camera gently pans to the left.",
+                "B. The camera gently pans to the right.",
+                "C. The camera gently pans upward.",
+                "D. The camera gently pans downward."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_25": {
+            "id": "9dQXiqS56Y4_25",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where does the video take place?",
+            "options": [
+                "A. On a soccer field",
+                "B. On a basketball court",
+                "C. On a ping pong court",
+                "D. On a baseball field"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_26": {
+            "id": "9dQXiqS56Y4_26",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many athletes in white jerseys are in the frame at this moment?",
+            "options": [
+                "A.3",
+                "B.4",
+                "C.5",
+                "D.6"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_27": {
+            "id": "9dQXiqS56Y4_27",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "Apart from the team with white jerseys, what is the color of the other team's jersey?",
+            "options": [
+                "A. The jersey is dark blue with white stripes on the sleeves.",
+                "B. The jersey is light blue with white spots.",
+                "C. The jersey is white with dark blue stripes on the sleeves.",
+                "D. The jersey is green with yellow decorations."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_28": {
+            "id": "9dQXiqS56Y4_28",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the number on the jersey of the football player closest to the referee's left?",
+            "options": [
+                "A. The jersey is number '19'.",
+                "B. The jersey is number '10'.",
+                "C. The jersey is number '20'.",
+                "D. The jersey is number '17'."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_29": {
+            "id": "9dQXiqS56Y4_29",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What badge is on the dark blue jersey?",
+            "options": [
+                "A. The badge of the Argentine Football Association is on the chest.",
+                "B. The badge of FIFA is on the chest.",
+                "C. The badge indicating the player's age is on the chest.",
+                "D. The pattern of the Argentine flag is on the chest."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_30": {
+            "id": "9dQXiqS56Y4_30",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What logo is on the chest of the dark blue jersey?",
+            "options": [
+                "A. Adidas logo.",
+                "B. Nike logo.",
+                "C. Puma logo.",
+                "D. Converse logo."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_31": {
+            "id": "9dQXiqS56Y4_31",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many people wearing yellow short sleeves are in the picture?",
+            "options": [
+                "A. One person wearing a yellow vest",
+                "B. Two people wearing yellow vests",
+                "C. Three people wearing yellow vests",
+                "D. Four people wearing yellow vests"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_32": {
+            "id": "9dQXiqS56Y4_32",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Can you see an American flag in the background?",
+            "options": [
+                "A. Yes, an American flag can be seen.",
+                "B. No, there is no American flag visible.",
+                "C. Yes, but it is partially obscured by a railing.",
+                "D. No, that is a flag of another country."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_33": {
+            "id": "9dQXiqS56Y4_33",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the number 19 football player perform in the image?",
+            "options": [
+                "A. The Argentine football player slightly moved to the lower left in the image.",
+                "B. The Argentine football player slightly moved to the upper right in the image.",
+                "C. The Argentine football player remained stationary in the center of the image.",
+                "D. The Argentine football player quickly moved to the upper right in the image."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_34": {
+            "id": "9dQXiqS56Y4_34",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the newly appeared character located?",
+            "options": [
+                "A. Located at the top left of the screen.",
+                "B. Located at the bottom left of the screen.",
+                "C. Located at the top right of the screen.",
+                "D. Located at the bottom right of the screen."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_35": {
+            "id": "9dQXiqS56Y4_35",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What type of lens was used to capture this scene?",
+            "options": [
+                "A. This shot is a medium-level perspective, including half of the football field.",
+                "B. This shot is a close-up, focusing only on the player's face, with a static frame.",
+                "C. This shot is a high-angle shot, looking down from above the stadium.",
+                "D. This shot is an ultra-wide shot, capturing the entire stadium and audience."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_36": {
+            "id": "9dQXiqS56Y4_36",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the main color of the background in the scene?",
+            "options": [
+                "A. Red",
+                "B. White.",
+                "C. Blue.",
+                "D. Green."
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_37": {
+            "id": "9dQXiqS56Y4_37",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What is the visual element in the upper right corner that helps understand the background of the scene?",
+            "options": [
+                "A. The FIFA in the upper right corner helps determine the background of the scene.",
+                "B. The American flag in the background provides background information for the scene.",
+                "C. The yellow and blue banner on the left provides background information for the scene.",
+                "D. The event staff wearing orange vests provide background information for the scene."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_38": {
+            "id": "9dQXiqS56Y4_38",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the person in the green jacket located in the picture?",
+            "options": [
+                "A. Near the bottom center of the picture.",
+                "B. Near the top center of the picture.",
+                "C. In the upper left corner of the picture.",
+                "D. Behind the goalpost on the right side of the picture."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_39": {
+            "id": "9dQXiqS56Y4_39",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video?",
+            "options": [
+                "A. The video takes place during a substitution moment in a match, at a professional football stadium, a bright sports venue.",
+                "B. The video takes place at a training ground, where a casual match is happening, with no spectators.",
+                "C. The video takes place at an indoor football field, where a friendly match is happening, with dim lighting.",
+                "D. The video takes place in a park, where an amateur football match is happening, with players wearing mismatched uniforms."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_40": {
+            "id": "9dQXiqS56Y4_40",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What are the two team members in dark blue uniforms doing?",
+            "options": [
+                "A. The two team members in dark blue uniforms are fine-tuning their posture, preparing for substitution.",
+                "B. The two team members in dark blue uniforms are discussing strategy with the coach.",
+                "C. The two team members in dark blue uniforms are jogging along the sidelines to warm up.",
+                "D. The two team members in dark blue uniforms are sitting on the bench waiting to play."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_41": {
+            "id": "9dQXiqS56Y4_41",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What information is displayed on the substitution board held by the person in the green jacket?",
+            "options": [
+                "A. The substitution board shows the red number '18' and the green number '19'.",
+                "B. The substitution board shows the red number '10' and the green number '7'.",
+                "C. The substitution board shows the red number '13' and the green number '8'.",
+                "D. The substitution board shows the red number '11' and the green number '5'."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_42": {
+            "id": "9dQXiqS56Y4_42",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the dark blue player inside the white circle perform in the entire scene?",
+            "options": [
+                "A. The player wearing a dark blue jersey ran forward toward the opponent's goal.",
+                "B. The player wearing a dark blue jersey moved slightly to the right, indicating a minor formation adjustment.",
+                "C. The player wearing a dark blue jersey ran back to the defensive area.",
+                "D. The player wearing a dark blue jersey moved to the left relative to the camera."
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_43": {
+            "id": "9dQXiqS56Y4_43",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "How does the transition between shots occur in the video?",
+            "options": [
+                "A. The shot transitions from a close-up focusing on the football player to a panoramic view of the football field taken from behind the sideline.",
+                "B. The shot transitions from a panoramic view of the football field to a close-up view of the referee.",
+                "C. The shot transitions from a close-up of the substitution board to a wide-angle view of the stands.",
+                "D. The shot transitions from an aerial view of the stadium to a close-up of the Argentine football player."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_44": {
+            "id": "9dQXiqS56Y4_44",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "What is the rhythm of the scene during substitutions?",
+            "options": [
+                "A. The rhythm of the scene is fast and chaotic, with players frequently changing positions.",
+                "B. The rhythm of the scene is orderly and deliberate, with the pace gradually advancing and actions precise.",
+                "C. The rhythm of the scene is tense and hurried, with quick substitutions and players acting frantically.",
+                "D. The rhythm of the scene is loose and spontaneous, often featuring unexpected changes and irregular movements."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_45": {
+            "id": "9dQXiqS56Y4_45",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Which feature on the grass indicates that it is well-maintained?",
+            "options": [
+                "A. The light green and dark green stripes formed by mowing patterns indicate that it is well-maintained.",
+                "B. The FIFA logo appearing in the upper right corner indicates that it is well-maintained.",
+                "C. The bright floodlights illuminating the field indicate that it is well-maintained.",
+                "D. The orderly dynamics of the match indicate that it is well-maintained."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_46": {
+            "id": "9dQXiqS56Y4_46",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the visual element in the top right corner of the event display screen?",
+            "options": [
+                "A. FIFA",
+                "B. Team's emblem",
+                "C. Timer display",
+                "D. Sponsor's advertisement"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_47": {
+            "id": "9dQXiqS56Y4_47",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the significance of the FIFA logo appearing in the upper right corner?",
+            "options": [
+                "A. The FIFA logo emphasizes the professionalism of the event and the high level of competitive environment.",
+                "B. The FIFA logo indicates that the match is taking place in a domestic league.",
+                "C. The FIFA logo serves as an advertisement for the upcoming match.",
+                "D. The presence of the FIFA logo is to guide players' positioning on the field."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_48": {
+            "id": "9dQXiqS56Y4_48",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What kind of spatial relationship does the camera establish between the football field and the audience?",
+            "options": [
+                "A. The camera shifts focus from the football field to the stadium audience, changing the perspective from players to fans.",
+                "B. The camera only focuses on the football field, ignoring the audience.",
+                "C. The camera only captures the players' reactions to the fans, ignoring the field.",
+                "D. The camera focuses on the fans from the beginning, never showing the football field."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_49": {
+            "id": "9dQXiqS56Y4_49",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the environment depicted in the video?",
+            "options": [
+                "A. The video captures a vibrant atmosphere inside a football stadium, with enthusiastic fans mostly wearing Argentina national team jerseys, waving accessories, and reacting passionately to the match.",
+                "B. The video depicts a calm and quiet atmosphere, with fans sitting and watching the game silently, with almost no reaction.",
+                "C. The video shows a concert scene, with fans cheering for the musicians on stage, holding banners and waving glow sticks.",
+                "D. The video shows a parade, with people dressed in colorful costumes marching down the street, while spectators watch from the roadside."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_50": {
+            "id": "9dQXiqS56Y4_50",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the black text on the banner in the lower right corner at the beginning of the scene?",
+            "options": [
+                "A. One banner says 'ESQUEL'.",
+                "B. Both banners say 'ESQUE'.",
+                "C. One banner says 'EXQUEL'.",
+                "D. One banner says 'ERQUEL'."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_51": {
+            "id": "9dQXiqS56Y4_51",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many banners can be seen raised at the end of the scene?",
+            "options": [
+                "A. One banner",
+                "B. Two banners",
+                "C. Three banners",
+                "D. No banners"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_52": {
+            "id": "9dQXiqS56Y4_52",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What subtle actions do fans take to express their enthusiasm?",
+            "options": [
+                "A. Fans clap, wave flags, and use accessories like scarves and hats.",
+                "B. Fans sit quietly, holding their breath in anticipation of the next game.",
+                "C. Fans throw confetti onto the field, creating a colorful scene.",
+                "D. Fans quietly talk to each other, discussing the tactics of the game."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_53": {
+            "id": "9dQXiqS56Y4_53",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the banner with the portrait located in the image?",
+            "options": [
+                "A. Center of the image.",
+                "B. Left side of the image.",
+                "C. Right side of the image.",
+                "D. Top of the image."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_54": {
+            "id": "9dQXiqS56Y4_54",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "How did the camera switch from the previous scene to this scene?",
+            "options": [
+                "A. The camera instantly switched from focusing on the football field to the audience.",
+                "B. The camera slowly switched from focusing on the football field to the audience.",
+                "C. The camera quickly moved from the football field to the audience.",
+                "D. The camera remained focused on the football field throughout the entire scene."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_55": {
+            "id": "9dQXiqS56Y4_55",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "After the initial transition, what does the camera focus on?",
+            "options": [
+                "A. The camera focuses on the players on the field.",
+                "B. The camera widens the focus to emphasize the collective excitement of the audience.",
+                "C. The camera highlights the security personnel maintaining order.",
+                "D. The camera shows a close-up of the scoreboard."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_56": {
+            "id": "9dQXiqS56Y4_56",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "How does the camera movement perform at the end of the scene?",
+            "options": [
+                "A. The camera quickly sweeps across the crowd.",
+                "B. The camera slowly sweeps across the crowd.",
+                "C. The camera zooms in to focus on individual audience members.",
+                "D. The camera moves to focus on the scoreboard."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_57": {
+            "id": "9dQXiqS56Y4_57",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens is typically used to capture crowds?",
+            "options": [
+                "A. Close-up shots focusing on individual spectators.",
+                "B. Wide-angle lens from a slightly elevated perspective.",
+                "C. Low-angle shots emphasizing the height of the stadium.",
+                "D. Medium shots focusing on a small group of fans."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_58": {
+            "id": "9dQXiqS56Y4_58",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "How is the camera's movement speed described?",
+            "options": [
+                "A. The camera transitions smoothly and maintains a slow movement.",
+                "B. The camera moves quickly to different areas of the crowd.",
+                "C. The camera zooms in quickly on a single fan and then rapidly pulls back.",
+                "D. The camera continuously moves following the players on the field."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_59": {
+            "id": "9dQXiqS56Y4_59",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "In this scene, how does the atmosphere of the crowd change?",
+            "options": [
+                "A. The atmosphere becomes more intense, with the audience showing increasingly excited and unified reactions.",
+                "B. The atmosphere remains calm and composed throughout the entire scene.",
+                "C. The atmosphere becomes dull, and the audience loses interest in the match.",
+                "D. The atmosphere shifts to a chaotic and disordered state."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_60": {
+            "id": "9dQXiqS56Y4_60",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What visual elements highlight the audience seating?",
+            "options": [
+                "A. Banners, colorful accessories such as hats, scarves, flags, and jerseys, etc.",
+                "B. Gloomy weather, fans sitting quietly, and no banners inside the stadium.",
+                "C. Dim lighting, empty stands, and only a few fans wearing dark-colored clothing.",
+                "D. Overcast sky, silent audience, and a noticeable lack of colorful jerseys and flags."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_61": {
+            "id": "9dQXiqS56Y4_61",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the 'FIFA' logo located on the video screen?",
+            "options": [
+                "A. The 'FIFA' logo is faintly visible in the upper right corner of the screen.",
+                "B. The 'FIFA' logo is clearly visible in the lower left corner of the screen.",
+                "C. The 'FIFA' logo is prominently displayed in the center of the screen.",
+                "D. The 'FIFA' logo is faintly visible in the upper left corner of the screen."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_62": {
+            "id": "9dQXiqS56Y4_62",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the initial background of the scene?",
+            "options": [
+                "A. The background of the scene is on a meticulously maintained football field.",
+                "B. The background of the scene is on a busy city street.",
+                "C. The background of the scene is in a crowded restaurant.",
+                "D. The background of the scene is in a dimly lit concert hall."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_63": {
+            "id": "9dQXiqS56Y4_63",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What level of competition can be seen from the image?",
+            "options": [
+                "A. The 'FIFA' logo indicates that this is a formal, high-level international sports event.",
+                "B. The setting is a dimly lit stadium where a casual and informal soccer match is taking place.",
+                "C. The field is described as dusty and poorly maintained, with no signs of professionalism or significance.",
+                "D. The setting is a beach where players are having a friendly soccer match under the dim evening lights."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_64": {
+            "id": "9dQXiqS56Y4_64",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What did Maxi Rodriguez do in this scene?",
+            "options": [
+                "A. Maxi Rodriguez, wearing the number 18 jersey, hugged his teammates and left the field.",
+                "B. Maxi Rodriguez, wearing the number 18 jersey, scored a goal.",
+                "C. Maxi Rodriguez, wearing the number 18 jersey, was talking with the coach.",
+                "D. Maxi Rodriguez, wearing the number 18 jersey, left the field directly."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_65": {
+            "id": "9dQXiqS56Y4_65",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What does Maxi Rodriguez's jersey look like?",
+            "options": [
+                "A. Maxi Rodriguez's jersey is dark blue with white and light blue decorations on the shoulders and sleeves, an Adidas logo below the collar, and the Argentine national emblem below the number '18'.",
+                "B. Maxi Rodriguez's jersey is white with blue stripes, an Adidas logo on the sleeves, and no national emblem.",
+                "C. Maxi Rodriguez's jersey is light blue with dark blue decorations on the shoulders and sleeves, a Nike logo below the collar, and the Argentine national emblem below the number '18'.",
+                "D. Maxi Rodriguez's jersey is dark green with yellow stripes, a Puma logo below the collar, and no number."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_66": {
+            "id": "9dQXiqS56Y4_66",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many players wearing Argentina's dark blue jerseys can be seen in the scene?",
+            "options": [
+                "A. One player wearing an Argentina jersey can be seen in the scene.",
+                "B. Two players wearing Argentina jerseys can be seen in the scene.",
+                "C. Three players wearing Argentina jerseys can be seen in the scene.",
+                "D. Four players wearing Argentina jerseys can be seen in the scene."
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_67": {
+            "id": "9dQXiqS56Y4_67",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Which numbers of deep blue jerseys can be clearly seen in the initial stage of the scene?",
+            "options": [
+                "A. Jersey number 18 and jersey number 5",
+                "B. Jersey number 8 and jersey number 5",
+                "C. Jersey number 13 and jersey number 3",
+                "D. Jersey number 9 and jersey number 5"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_68": {
+            "id": "9dQXiqS56Y4_68",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Was the initial focus of the scene entirely on Maxi Rodriguez?",
+            "options": [
+                "A. Yes, the video is entirely focused on Maxi Rodriguez.",
+                "B. No, Cambiasso also has a prominent presence in some parts of the scene.",
+                "C. Yes, Maxi Rodriguez is the only player appearing throughout the scene.",
+                "D. No, the focus shifts to another player, completely moving away from Maxi Rodriguez."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_69": {
+            "id": "9dQXiqS56Y4_69",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the gesture of friendship between Cambiasso and Maxi Rodriguez?",
+            "options": [
+                "A. Cambiasso put his hand on Maxi Rodriguez's shoulder, indicating friendship or approval.",
+                "B. Cambiasso passed the ball to Maxi Rodriguez, demonstrating teamwork.",
+                "C. Cambiasso gave a thumbs up to Maxi Rodriguez from a distance.",
+                "D. Cambiasso nodded his head when passing by Maxi Rodriguez."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_70": {
+            "id": "9dQXiqS56Y4_70",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "In which direction did Cambiasso move before partially exiting the frame?",
+            "options": [
+                "A. Cambiasso moved to the left before partially exiting the frame.",
+                "B. Cambiasso moved upward before partially exiting the frame.",
+                "C. Cambiasso moved to the right before partially exiting the frame.",
+                "D. Cambiasso moved downward before partially exiting the frame."
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_71": {
+            "id": "9dQXiqS56Y4_71",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "Which type of photography composition can emphasize the details of a player's jersey?",
+            "options": [
+                "A. A wide-angle shot showing the entire field to highlight the details of the jersey.",
+                "B. A close-up shot to highlight the exquisite details of the jersey design.",
+                "C. An overhead shot from above the field, mainly focusing on the team's movements.",
+                "D. A panoramic shot capturing the entire team on the field."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_72": {
+            "id": "9dQXiqS56Y4_72",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "When Cambiasso enters the scene, how does the focus of the shot shift?",
+            "options": [
+                "A. The shot initially balances attention between Maxi Rodriguez and Cambiasso.",
+                "B. The shot completely shifts to focus on Cambiasso.",
+                "C. The shot only shows Cambiasso's back, ignoring Maxi Rodriguez.",
+                "D. The shot moves Maxi Rodriguez out of view and highlights the crowd."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_73": {
+            "id": "9dQXiqS56Y4_73",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What happens to the focus of the frame when Cambiasso partially moves out of the shot?",
+            "options": [
+                "A. The focus shifts back to Maxi Rodriguez, emphasizing his central role.",
+                "B. The focus changes to highlight the FIFA logo in the top-right corner.",
+                "C. The background becomes blurred to underscore the team's unity.",
+                "D. The camera zooms out to show the entire football field."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_74": {
+            "id": "9dQXiqS56Y4_74",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What information about substitutions does the digital graphic overlay display?",
+            "options": [
+                "A. The graphic overlay shows the names '18 Maxi Rodriguez' and '19 Lionel Messi', along with arrow directions and the Argentine flag, providing tactical details of the substitution during the match.",
+                "B. The graphic overlay only shows the number '18', without any additional background information about the substitution.",
+                "C. The graphic overlay includes the names '18 Maxi Rodriguez' and '19 Lionel Messi', but does not provide further details such as arrows or flags.",
+                "D. The graphic overlay displays the scoreboard, including the current score and match time."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_75": {
+            "id": "9dQXiqS56Y4_75",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What colors are in the background when the camera focuses on player number 19?",
+            "options": [
+                "A. Blue, yellow, and green.",
+                "B. Red, yellow, and green.",
+                "C. Blue, purple, and green.",
+                "D. Blue, yellow, and pink."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_76": {
+            "id": "9dQXiqS56Y4_76",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "Where does this scene take place?",
+            "options": [
+                "A. The scene takes place in a bustling stadium.",
+                "B. The scene takes place in a quiet library.",
+                "C. The scene takes place in a busy city market.",
+                "D. The scene takes place in a tranquil park."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_77": {
+            "id": "9dQXiqS56Y4_77",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the overall atmosphere of this scene?",
+            "options": [
+                "A. The atmosphere is festive and lively.",
+                "B. The atmosphere is tense and oppressive.",
+                "C. The atmosphere is dull and lifeless.",
+                "D. The atmosphere is chaotic and disordered."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_78": {
+            "id": "9dQXiqS56Y4_78",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is Maxi Rodriguez wearing at the beginning of the video?",
+            "options": [
+                "A. Maxi Rodriguez is wearing a white Argentina jersey with the blue number '18', the Adidas logo, and the Argentine Football Association badge.",
+                "B. Maxi Rodriguez is wearing a navy blue Argentina jersey with the white number '18', the Adidas logo, and the Argentine Football Association badge.",
+                "C. Maxi Rodriguez is wearing a navy blue Argentina jersey with the white number '19', the Adidas logo, and the Argentine Football Association badge.",
+                "D. Maxi Rodriguez is wearing a dark sports jacket with the number '61'."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_79": {
+            "id": "9dQXiqS56Y4_79",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What information was displayed in the graphic overlay when Maxi Rodriguez was substituted?",
+            "options": [
+                "A. Current score and remaining time of the match",
+                "B. Names and numbers of the two players being rotated",
+                "C. Weather conditions during the match",
+                "D. Previous substitution history in the match"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_80": {
+            "id": "9dQXiqS56Y4_80",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many players' names are mentioned in the video description?",
+            "options": [
+                "A. One player's name is mentioned: Maxi Rodriguez.",
+                "B. Two players' names are mentioned: Maxi Rodriguez and Lionel Messi.",
+                "C. Three players' names are mentioned: Maxi Rodriguez, Lionel Messi, and another player.",
+                "D. Four players' names are mentioned: Maxi Rodriguez, Lionel Messi, and two other players."
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_81": {
+            "id": "9dQXiqS56Y4_81",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Does the video show Maxi Rodriguez wearing the number 19 jersey and then Lionel Messi entering the field?",
+            "options": [
+                "A. Yes, the video shows Maxi Rodriguez wearing the number 19 jersey, indicating that Lionel Messi is about to enter.",
+                "B. No, Maxi Rodriguez never changed his jersey number to 19.",
+                "C. Yes, but in the video, Maxi Rodriguez is wearing a jersey with a different number, not 19.",
+                "D. No, the number changing to 19 is just a graphical error and does not indicate that Lionel Messi is about to enter."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_82": {
+            "id": "9dQXiqS56Y4_82",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "After Maxi Rodriguez was substituted, which direction did the focus of the scene shift to?",
+            "options": [
+                "A. The scene focused on the green field and Rodriguez's jersey number.",
+                "B. The focus of the scene shifted to the colorful elements of the stadium.",
+                "C. The scene centered on Lionel Messi and the Adidas logo on the jersey.",
+                "D. The scene emphasized the substitution graphic overlay and the audience's reaction."
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_83": {
+            "id": "9dQXiqS56Y4_83",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What helps emphasize the professional atmosphere of the match in terms of visual presentation?",
+            "options": [
+                "A. The FIFA logo in the top-right corner highlights the professionalism of the event and the high-level competitive environment.",
+                "B. Lionel Messi replacing Maxi Rodriguez.",
+                "C. A figure wearing a black sports jacket with the number '61' on the back.",
+                "D. The green field and Maxi Rodriguez's jersey."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_84": {
+            "id": "9dQXiqS56Y4_84",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What change occurred to Maxi Rodriguez's jersey number in the video?",
+            "options": [
+                "A. Maxi Rodriguez's jersey number changed from '18' to '19' during the substitution.",
+                "B. Maxi Rodriguez's jersey number changed from '19' to '18' during the substitution.",
+                "C. Maxi Rodriguez's jersey number changed from '18' to '61' during the substitution.",
+                "D. Maxi Rodriguez's jersey number did not change during the substitution."
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_85": {
+            "id": "9dQXiqS56Y4_85",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What visual cues indicate that Maxi Rodriguez is being substituted?",
+            "options": [
+                "A. The display of Maxi Rodriguez's name and number '18' with a red graphic on the right indicates he is being substituted.",
+                "B. The sudden change in jersey color from navy blue to white means Maxi Rodriguez is being substituted.",
+                "C. The appearance of a player wearing number '61' directly indicates Maxi Rodriguez is being substituted.",
+                "D. Maxi Rodriguez personally walking off the field indicates he is being substituted."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_86": {
+            "id": "9dQXiqS56Y4_86",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What visual cues indicate that Lionel Messi is being substituted onto the field?",
+            "options": [
+                "A. Close-up shots of Lionel Messi warming up on the sidelines",
+                "B. A green image next to Lionel Messi's name and number '19'",
+                "C. Maximiliano Rodriguez wearing a different jersey",
+                "D. A person in a dark track jacket walking onto the field"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_87": {
+            "id": "9dQXiqS56Y4_87",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the video?",
+            "options": [
+                "A. The setting of the video is in a professional football match environment.",
+                "B. The setting of the video is in a beach volleyball match.",
+                "C. The setting of the video is in an indoor basketball court.",
+                "D. The setting of the video is at a concert."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_88": {
+            "id": "9dQXiqS56Y4_88",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What does the video transition from and to?",
+            "options": [
+                "A. The video transitions from a close-up of Lionel Messi to a wide-angle shot of the stadium audience.",
+                "B. The video transitions from the stadium seats to Lionel Messi celebrating a goal.",
+                "C. The video transitions from the perspective of cheering fans to Lionel Messi walking onto the field.",
+                "D. The video transitions from a close-up of cheerleaders holding banners to Lionel Messi sitting on the bench."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_89": {
+            "id": "9dQXiqS56Y4_89",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the crowd environment described in the video?",
+            "options": [
+                "A. The stadium crowd is full of cheering Argentine fans.",
+                "B. The stadium crowd is mostly empty, with only a few bored spectators.",
+                "C. The stadium crowd is quiet and calm, hardly moving.",
+                "D. The stadium crowd is sparse, with spectators casually watching the game."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_90": {
+            "id": "9dQXiqS56Y4_90",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is Lionel Messi wearing in his close-up shot?",
+            "options": [
+                "A. Lionel Messi is wearing a navy blue and white soccer jersey.",
+                "B. Lionel Messi is wearing a bright orange jacket.",
+                "C. Lionel Messi is wearing a purple or maroon sweater.",
+                "D. Lionel Messi is wearing a plain black T-shirt."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_91": {
+            "id": "9dQXiqS56Y4_91",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is the crowd in the stadium mainly wearing Argentina's white and light blue striped clothing?",
+            "options": [
+                "A. Yes, the crowd is mainly wearing Argentina's white and light blue striped clothing.",
+                "B. No, the crowd is mainly wearing red and black clothing.",
+                "C. No, the crowd is mainly wearing green and yellow clothing.",
+                "D. Yes, but only a small portion is wearing Argentina's white and light blue striped clothing."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_92": {
+            "id": "9dQXiqS56Y4_92",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What actions are fans taking to show their enthusiasm?",
+            "options": [
+                "A. Fans are sitting quietly and watching.",
+                "B. Fans are cheering, clapping, and waving scarves or flags.",
+                "C. Fans left the stadium early.",
+                "D. Fans are reading books and newspapers."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_93": {
+            "id": "9dQXiqS56Y4_93",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the fan wearing an orange shirt located in the picture?",
+            "options": [
+                "A. The fan is located slightly to the left in the picture.",
+                "B. The fan is located slightly above the center in the picture.",
+                "C. The fan is located in the lower right corner of the picture.",
+                "D. The fan is located in the upper left corner of the picture."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_94": {
+            "id": "9dQXiqS56Y4_94",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "How does the camera switch from what close-up perspective in the scene?",
+            "options": [
+                "A. The camera switches from a close-up perspective of the stadium.",
+                "B. The camera switches from a close-up perspective of Maxi Rodriguez.",
+                "C. The camera switches from a close-up perspective of the audience.",
+                "D. The camera switches from a close-up perspective of a fan wearing an orange shirt."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_95": {
+            "id": "9dQXiqS56Y4_95",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "How does the camera switch to a wide-angle view in the video?",
+            "options": [
+                "A. The camera first zooms in on Maxi Rodriguez's jersey, then turns to the audience.",
+                "B. The camera pulls back from Maxi Rodriguez to show the entire stadium.",
+                "C. The camera switches to a wide-angle view of the lively crowd inside the stadium.",
+                "D. The camera first switches to a view of the stadium lights, then focuses on the audience."
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_96": {
+            "id": "9dQXiqS56Y4_96",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What enhances the clarity and visibility of fans and scenes in the video?",
+            "options": [
+                "A. Bright daylight provides stable natural lighting.",
+                "B. Strategic placement of banners and flags increases crowd visibility.",
+                "C. Use of artificial lighting highlights specific parts of the stadium.",
+                "D. Shadows from the stadium structure highlight key details."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_97": {
+            "id": "9dQXiqS56Y4_97",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "Where did the interaction between the player wearing the number 18 jersey and Lionel Messi take place?",
+            "options": [
+                "A. In the bustling stadium stands.",
+                "B. On a neatly trimmed green football field.",
+                "C. In the locker room.",
+                "D. At the post-match press conference."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_98": {
+            "id": "9dQXiqS56Y4_98",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the atmosphere of the audience in the football scene?",
+            "options": [
+                "A. The audience atmosphere is lively, mainly composed of Argentine fans.",
+                "B. The audience atmosphere is quiet and calm.",
+                "C. The audience atmosphere is mainly composed of Brazilian fans.",
+                "D. The audience atmosphere is empty and silent."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_99": {
+            "id": "9dQXiqS56Y4_99",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the football field in the scene?",
+            "options": [
+                "A. It is a well-maintained green lawn with FIFA markings.",
+                "B. The football field environment is empty, lacking any significant activity.",
+                "C. The football field environment shows players arguing and tension among teammates, and the field is already worn out.",
+                "D. The football field environment is shrouded in fog, with low visibility and no obvious activity."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_100": {
+            "id": "9dQXiqS56Y4_100",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What was the initial celebration gesture made by the player wearing the navy blue Argentina football team jersey?",
+            "options": [
+                "A. The player high-fived another person.",
+                "B. The player gave a thumbs up to the crowd.",
+                "C. The player waved to the audience.",
+                "D. The player clapped his hands together."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_101": {
+            "id": "9dQXiqS56Y4_101",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What patterns and colors can be seen on the Argentine football jersey?",
+            "options": [
+                "A. The jersey has white stripes.",
+                "B. The jersey has dark red polka dots.",
+                "C. The jersey has green and yellow zigzag patterns.",
+                "D. The jersey has a black and white checkerboard pattern."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_102": {
+            "id": "9dQXiqS56Y4_102",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What emblem is on the Argentine football team's jersey?",
+            "options": [
+                "A. The jersey has the national emblem.",
+                "B. The jersey has FIFA.",
+                "C. The jersey has the victory trophy emblem.",
+                "D. The jersey has the sponsor's logo."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_103": {
+            "id": "9dQXiqS56Y4_103",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What patch is on the sleeve of the Argentina football team's jersey?",
+            "options": [
+                "A. There is a national emblem patch on the sleeve of the jersey.",
+                "B. There is a white tournament patch on the sleeve of the jersey.",
+                "C. There is a navy blue stripe patch on the sleeve of the jersey.",
+                "D. There is a FIFA logo patch on the sleeve of the jersey."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_104": {
+            "id": "9dQXiqS56Y4_104",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What numbers can be seen on the Argentina football team's jerseys?",
+            "options": [
+                "A. Initially, the number on the jersey was '18', which later changed to '19'.",
+                "B. Initially, the number on the jersey was '55', which later changed to '85'.",
+                "C. Initially, the number on the jersey was '25', which later changed to '38'.",
+                "D. Initially, the number on the jersey was '75', which later changed to '28'."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_105": {
+            "id": "9dQXiqS56Y4_105",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many prominent jersey numbers can be seen?",
+            "options": [
+                "A. Two prominent jersey numbers were mentioned.",
+                "B. Three prominent jersey numbers were mentioned.",
+                "C. Four prominent jersey numbers were mentioned.",
+                "D. Five prominent jersey numbers were mentioned."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_106": {
+            "id": "9dQXiqS56Y4_106",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What are some famous jersey numbers that can be seen?",
+            "options": [
+                "A. '18' and '19'",
+                "B. '23' and '7'",
+                "C. '16' and '21'",
+                "D. '9' and '8'"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_107": {
+            "id": "9dQXiqS56Y4_107",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Will the player wearing the number 18 jersey interact with Lionel Messi?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Not sure",
+                "D. Only interacts with other players"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_108": {
+            "id": "9dQXiqS56Y4_108",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What did the player with the number '18' do?",
+            "options": [
+                "A. The player participated in a team interaction.",
+                "B. The player stood alone, waving to the audience in celebration.",
+                "C. The player sat on the field, clapping hands with a teammate in a more low-key celebration.",
+                "D. The player ran on the field, celebrating alone without interacting with others."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_109": {
+            "id": "9dQXiqS56Y4_109",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What camera angle should be used to emphasize the player's actions?",
+            "options": [
+                "A. Use a closer angle to highlight the player's actions.",
+                "B. Use a distant wide-angle shot to highlight the player's actions.",
+                "C. Use a top-down view to highlight the player's actions.",
+                "D. Use an over-the-shoulder angle to highlight the player's actions."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_110": {
+            "id": "9dQXiqS56Y4_110",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "Which photography angle can highlight the detailed attributes of the jersey?",
+            "options": [
+                "A. A wider angle can capture the grandeur of the court and audience.",
+                "B. A closer angle is used to highlight the detailed attributes of the jersey.",
+                "C. Overhead angle emphasizes the layout of the entire venue.",
+                "D. Side view provides a panoramic view of the player's movements."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_111": {
+            "id": "9dQXiqS56Y4_111",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What confirms the professional background of the scene?",
+            "options": [
+                "A. The visible 'FIFA' logo on the green football field.",
+                "B. The presence of fans wearing bright orange and deep purple shirts.",
+                "C. The number on a player's jersey changing from '65' to '18'.",
+                "D. The energetic reactions of Argentine fans."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_112": {
+            "id": "9dQXiqS56Y4_112",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the Argentinian player with the jersey marked 'MESSI' located after the embrace?",
+            "options": [
+                "A. The player is positioned further to the left, showing more of the back of the jersey.",
+                "B. The player is positioned further to the right, showing more of the back of the jersey.",
+                "C. The player is positioned in the middle, showing more of the front of the jersey.",
+                "D. The player is positioned near the substitutes' bench, showing more of the back of the jersey."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_113": {
+            "id": "9dQXiqS56Y4_113",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What are the main elements of the scene terminal background?",
+            "options": [
+                "A. The background features bright horizontal stripes of yellow and green, with the 'FIFA' logo displayed in the upper right corner.",
+                "B. The background is a plain white wall with no noticeable patterns or logos.",
+                "C. The background consists of dark vertical stripes of red and black, featuring the local football club's logo.",
+                "D. The background is completely blurred, making it impossible to recognize any patterns or logos."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_114": {
+            "id": "9dQXiqS56Y4_114",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is the person wearing a dark green jacket with white Adidas-style stripes doing?",
+            "options": [
+                "A. This person is raising their left arm, possibly gesturing or giving directions to someone.",
+                "B. This person is sitting on a bench, leaning forward, with one arm crossed over their chest.",
+                "C. This person does not appear in the frame.",
+                "D. This person is energetically running forward."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_115": {
+            "id": "9dQXiqS56Y4_115",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What is the number on the back of the Argentina jersey when the two players embrace?",
+            "options": [
+                "A. 19",
+                "B. 21",
+                "C. 10",
+                "D. 7"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_116": {
+            "id": "9dQXiqS56Y4_116",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "In the current scene, is the person wearing green clothes with the 'FIF' logo on the back visible?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. Partially visible.",
+                "D. Only visible from the side."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_117": {
+            "id": "9dQXiqS56Y4_117",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "At the end of the scene, what action is the player wearing the Argentina team's number 19 jersey doing?",
+            "options": [
+                "A. The player wearing the Argentina team's number 19 jersey is actively running forward.",
+                "B. The player wearing the Argentina team's number 19 jersey is sitting on the bench.",
+                "C. The player wearing the Argentina team's number 19 jersey is giving instructions.",
+                "D. The player wearing the Argentina team's number 19 jersey is leaning back in contemplation."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_118": {
+            "id": "9dQXiqS56Y4_118",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "In the scene, which direction is the player wearing the Argentina jersey with 'MESSI' printed on it moving relative to the camera?",
+            "options": [
+                "A. The player wearing the Argentina jersey with 'MESSI' printed on it is moving to the right.",
+                "B. The player wearing the Argentina jersey with 'MESSI' printed on it is moving to the left.",
+                "C. The player wearing the Argentina jersey with 'MESSI' printed on it is moving forward.",
+                "D. The player wearing the Argentina jersey with 'MESSI' printed on it is moving backward."
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_119": {
+            "id": "9dQXiqS56Y4_119",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What type of shot should be used to highlight the central character as the scene is about to end?",
+            "options": [
+                "A. Use a wide-angle lens.",
+                "B. Use a medium close-up perspective.",
+                "C. Use a bird's-eye view.",
+                "D. Use a close-up shot."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_120": {
+            "id": "9dQXiqS56Y4_120",
+            "scene": 5,
+            "dimension": "Speed",
+            "question": "What is the movement speed of the player wearing the Argentina jersey with the number '19' as the scene is about to end?",
+            "options": [
+                "A. The player wearing the Argentina jersey with the number '19' moves very fast.",
+                "B. The player wearing the Argentina jersey with the number '19' moves very slowly.",
+                "C. The player wearing the Argentina jersey with the number '19' remains stationary.",
+                "D. The player wearing the Argentina jersey with the number '19' moves at varying speeds."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_121": {
+            "id": "9dQXiqS56Y4_121",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What physical changes occur when the camera first focuses on player number 19?",
+            "options": [
+                "A. The background includes a glass partition and vibrant colors flash on the right side.",
+                "B. The player is shown leaning on a bench with one arm extended across the chest.",
+                "C. The scene now displays the vibrant FIFA logo in the upper right corner.",
+                "D. A new character wearing a dark green jacket with white stripes raises their left arm."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_122": {
+            "id": "9dQXiqS56Y4_122",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "Where was the video filmed?",
+            "options": [
+                "A. The video was filmed at a stadium during an event.",
+                "B. The video was filmed at a shopping mall during a concert.",
+                "C. The video was filmed at a park during a festival.",
+                "D. The video was filmed in a conference hall during a sports conference."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_123": {
+            "id": "9dQXiqS56Y4_123",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What is the behavior of the person in the middle wearing the Argentina jersey?",
+            "options": [
+                "A. The person in the middle is very happy and raised his arms.",
+                "B. The person in the middle is sitting quietly, watching the game.",
+                "C. The person in the middle is walking away from the crowd.",
+                "D. The person in the middle is arguing with the referee."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_124": {
+            "id": "9dQXiqS56Y4_124",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What accessory is the man in the center wearing?",
+            "options": [
+                "A. Green hat and gold watch",
+                "B. Gold chain around the neck and ID attached to a green lanyard",
+                "C. Sunglasses and silver bracelet",
+                "D. Scarf and badge"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_125": {
+            "id": "9dQXiqS56Y4_125",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What does the central man's credential card indicate?",
+            "options": [
+                "A. It indicates his association with the event.",
+                "B. It shows his favorite football team.",
+                "C. It provides his personal contact information.",
+                "D. It shows his seat number in the stadium."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_126": {
+            "id": "9dQXiqS56Y4_126",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What style is the shirt worn by the person on the right?",
+            "options": [
+                "A. The person sitting on the right is wearing a light-colored shirt with dark sleeves.",
+                "B. The person sitting on the right is wearing a dark-colored shirt with light sleeves.",
+                "C. The person sitting on the right is wearing a striped shirt.",
+                "D. The person sitting on the right is wearing an all-white shirt."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_127": {
+            "id": "9dQXiqS56Y4_127",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What number is written on the clothes of the person on the right?",
+            "options": [
+                "A. The clothes have the number '10' of the Argentina team printed on them.",
+                "B. The clothes have the number '19' of the Argentina team printed on them.",
+                "C. The clothes have the number '7' of the Argentina team printed on them.",
+                "D. The clothes have the number '5' of the Argentina team printed on them."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_128": {
+            "id": "9dQXiqS56Y4_128",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many people's faces can be clearly seen in the scene?",
+            "options": [
+                "A. Four people.",
+                "B. Five people.",
+                "C. Three people.",
+                "D. Two people."
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_129": {
+            "id": "9dQXiqS56Y4_129",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "Is the person in the middle of the video always cheerful?",
+            "options": [
+                "A. Yes, the person in the middle of the video remains cheerful throughout.",
+                "B. No, the person in the middle of the video seems to be neutral at times.",
+                "C. No, the person in the middle of the video appears to be agitated in some parts.",
+                "D. No, the person in the middle of the video becomes distracted."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_130": {
+            "id": "9dQXiqS56Y4_130",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What action did the robust man wearing a white long-sleeve shirt and red Adidas pants do in the video?",
+            "options": [
+                "A. The robust man clapped enthusiastically among the crowd.",
+                "B. The robust man raised his arms and cheered excitedly.",
+                "C. The robust man waved a flag passionately and shouted loudly.",
+                "D. The robust man sat still, just watching the celebration without participating."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_131": {
+            "id": "9dQXiqS56Y4_131",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What action does the right arm of the person in the center have in the video post-production?",
+            "options": [
+                "A. The right arm of the person in the center is raised above the head.",
+                "B. The right arm of the person in the center was later lowered.",
+                "C. The right arm of the person in the center swings left and right.",
+                "D. The right arm of the person in the center is holding a flag."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_132": {
+            "id": "9dQXiqS56Y4_132",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "What is the impact of the close-up shot of the central man on the audience?",
+            "options": [
+                "A. The close-up shot emphasizes his joyful expression and enthusiastic participation, making him the focal point of the scene.",
+                "B. The close-up shot highlights the details of his number 19 jersey, indicating his role as a key player.",
+                "C. The close-up shot shifts focus to the tattoo design on his arm, portraying him as a devoted fan.",
+                "D. The close-up shot distracts from the action on the field and instead focuses on the architecture of the stadium."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_133": {
+            "id": "9dQXiqS56Y4_133",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What will happen to the young woman with golden brown hair?",
+            "options": [
+                "A. She remains unchanged.",
+                "B. She is replaced by a blonde child in white, raising both hands in celebration.",
+                "C. She moves to the right and starts clapping vigorously.",
+                "D. She changes her posture and starts waving a flag."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_134": {
+            "id": "9dQXiqS56Y4_134",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Which visual element indicates the event's association with FIFA?",
+            "options": [
+                "A. The prominently displayed 'FIFA+' logo",
+                "B. The Argentinian striped jersey worn by fans",
+                "C. The green lanyard on the central figure's ID card",
+                "D. The '10' jersey worn by the seated person"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_135": {
+            "id": "9dQXiqS56Y4_135",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "Where is the banner located in the crowd?",
+            "options": [
+                "A. Directly above the crowd.",
+                "B. Upper left corner of the crowd.",
+                "C. Lower right corner of the crowd.",
+                "D. Center of the crowd."
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_136": {
+            "id": "9dQXiqS56Y4_136",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the environment in the scene?",
+            "options": [
+                "A. The scene is set in a quiet library.",
+                "B. The scene is set in a vibrant and cohesive stadium environment.",
+                "C. The scene is set on a tranquil beach.",
+                "D. The scene is set in a busy shopping mall."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_137": {
+            "id": "9dQXiqS56Y4_137",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the atmosphere of the scene?",
+            "options": [
+                "A. The atmosphere is melancholic and profound, with fans quietly observing the events.",
+                "B. The atmosphere showcases the collective passion and celebration of Argentine fans, with lively expressions and actions.",
+                "C. The atmosphere is tense and anxious, with fans nervously awaiting the outcome of the match.",
+                "D. The atmosphere is indifferent and calm, with fans leisurely walking around and chatting."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_138": {
+            "id": "9dQXiqS56Y4_138",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the woman in the green top doing at the beginning of the scene?",
+            "options": [
+                "A. At the beginning, the woman in the green top is taking photos.",
+                "B. At the beginning, the woman in the green top is holding up a banner.",
+                "C. At the beginning, the woman in the green top is cheering excitedly.",
+                "D. At the beginning, the woman in the green top is applauding."
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_139": {
+            "id": "9dQXiqS56Y4_139",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What pattern is displayed on the banner?",
+            "options": [
+                "A. The banner shows a football player holding a golden trophy.",
+                "B. The banner displays a football field with cheering spectators.",
+                "C. The banner shows a large flag of Argentina.",
+                "D. The banner depicts a scene of fans celebrating amid confetti."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_140": {
+            "id": "9dQXiqS56Y4_140",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What words are written on the banner held up in the crowd?",
+            "options": [
+                "A. The banner says 'Esto es mi sueño'.",
+                "B. The banner says 'Vamos Argentina'.",
+                "C. The banner says 'Campeones del Mundo'.",
+                "D. The banner says 'Unidos por el Fútbol'."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_141": {
+            "id": "9dQXiqS56Y4_141",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Does the banner show a football player holding a trophy?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Not sure",
+                "D. No banner"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_142": {
+            "id": "9dQXiqS56Y4_142",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What are those people wearing Argentine jerseys and holding flags doing?",
+            "options": [
+                "A. The people wearing Argentine jerseys and holding flags moved slightly and interacted with a new woman.",
+                "B. The people wearing Argentine jerseys and holding flags raised a flag and cheered.",
+                "C. The people wearing Argentine jerseys and holding flags enthusiastically danced with other fans.",
+                "D. The people wearing Argentine jerseys and holding flags quietly sat and watched the crowd."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_143": {
+            "id": "9dQXiqS56Y4_143",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the lady wearing an Argentine jersey doing at the bottom of the flag?",
+            "options": [
+                "A. The lady is raising her hands to applaud.",
+                "B. The lady is holding a banner.",
+                "C. The lady is taking photos.",
+                "D. The lady is recording the event with her phone."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_144": {
+            "id": "9dQXiqS56Y4_144",
+            "scene": 7,
+            "dimension": "Object Direction",
+            "question": "Which direction is the text on the flag facing relative to the camera?",
+            "options": [
+                "A. The text on the flag is facing the camera.",
+                "B. The text on the flag is facing away from the camera.",
+                "C. The text on the flag is sideways relative to the camera.",
+                "D. There is no visible text on the flag facing the camera."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_145": {
+            "id": "9dQXiqS56Y4_145",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "Which type of shot is used to emphasize the collective enthusiasm of a crowd?",
+            "options": [
+                "A. Fixed wide-angle shot",
+                "B. Close-up shot of individual fans",
+                "C. Shot zooming in on banners",
+                "D. Rotating aerial shot of the stadium"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_146": {
+            "id": "9dQXiqS56Y4_146",
+            "scene": 7,
+            "dimension": "Speed",
+            "question": "How is the movement speed of the crowd depicted in the scene?",
+            "options": [
+                "A. The movement within the crowd is depicted as dynamic and spontaneous.",
+                "B. The crowd moves in a slow and synchronized manner.",
+                "C. The movement is depicted as chaotic and disordered.",
+                "D. The crowd mostly remains stationary, with little movement."
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_147": {
+            "id": "9dQXiqS56Y4_147",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "Who replaced the woman in green next to the banner?",
+            "options": [
+                "A. A man in a light-colored shirt cheering replaced the woman in green.",
+                "B. Another woman clapping replaced the woman in green.",
+                "C. A man in a maroon shirt and yellow hat replaced the woman in green.",
+                "D. From the beginning to the end of the scene, no one replaced the woman in green."
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_148": {
+            "id": "9dQXiqS56Y4_148",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "Aside from 'Esto es mi sueño', what text is visible on the upper part of the banner?",
+            "options": [
+                "A. The text visible on the upper part of the banner is 'DAVID GUI...', possibly referring to a well-known personality.",
+                "B. The text visible on the upper part of the banner is 'WORLD CUP 2022...', possibly referring to a historical moment.",
+                "C. The text visible on the upper part of the banner is 'ARGENTINA CHAMP...', celebrating a victory.",
+                "D. The text visible on the upper part of the banner is 'MESSI RULES...', honoring a football legend."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_149": {
+            "id": "9dQXiqS56Y4_149",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "How does video transition emphasize the spatial relationship between stadium spectators and the football field?",
+            "options": [
+                "A. The video transitions from a vibrant, fan-filled stadium to a focused view of the expansive football field, highlighting the spatial contrast between crowded stands and open grounds.",
+                "B. The video quickly flashes images of the audience and the field, making it difficult to distinguish between enthusiastic supporters and athletes.",
+                "C. The transition starts with an overhead view of the stadium and then zooms in on a player on the bench, showcasing the lively audience and the player's solitude.",
+                "D. The scene transitions from a close-up of a player's jersey to the stadium scoreboard, emphasizing the difference between player gear and fan reactions."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_150": {
+            "id": "9dQXiqS56Y4_150",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What is the main setting?",
+            "options": [
+                "A. A tranquil park where people are picnicking",
+                "B. A well-maintained football field",
+                "C. A busy shopping mall during a sale",
+                "D. A serene beach with gentle waves"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_151": {
+            "id": "9dQXiqS56Y4_151",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What are the notable features that make up this scene?",
+            "options": [
+                "A. The scene is characterized by enthusiasm, iconic white and light blue striped jerseys, and a large banner that reads 'ESTE ES MI SUEÑO' ('This is my dream').",
+                "B. The scene is characterized by a quiet stadium, a fan holding a yellow flag, and players standing still on the field.",
+                "C. The scene is characterized by an almost empty arena, players in green uniforms, and a banner that reads 'VICTORY FOR ALL'.",
+                "D. The scene is characterized by a dark and silent atmosphere, fans holding candles, and no visible movement on the field."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_152": {
+            "id": "9dQXiqS56Y4_152",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "In the soccer field video, what is that person wearing?",
+            "options": [
+                "A. That person is wearing a red jersey with the number '7' printed on the back.",
+                "B. That person is wearing a dark blue Argentina jersey with white accents and the number '19'.",
+                "C. That person is wearing a green jersey with the number '10' printed on the back.",
+                "D. That person is wearing a white and light blue striped jersey with the number '10' printed on the back."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_153": {
+            "id": "9dQXiqS56Y4_153",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "What action is this person doing on the football field in the scene?",
+            "options": [
+                "A. This person is moving on the field, jogging.",
+                "B. This person is standing still, observing the game.",
+                "C. This person is celebrating a goal with teammates.",
+                "D. This person is warming up on the sidelines."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_154": {
+            "id": "9dQXiqS56Y4_154",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What colors are on the player's jersey?",
+            "options": [
+                "A. The player's jersey is dark blue with white accents.",
+                "B. The player's jersey is white with light blue stripes.",
+                "C. The player's jersey is green with yellow accents.",
+                "D. The player's jersey is black with red stripes."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_155": {
+            "id": "9dQXiqS56Y4_155",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What are the noticeable features on the player's jersey?",
+            "options": [
+                "A. The player's jersey is red with gold accents.",
+                "B. The player's jersey prominently features the number '19'.",
+                "C. There is a large tiger emblem on the front of the player's jersey.",
+                "D. There is a phrase on the player's jersey: 'ESTE ES MI SUEÑO'."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_156": {
+            "id": "9dQXiqS56Y4_156",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many players are the focus in the video transition scene?",
+            "options": [
+                "A. The scene focuses on one player.",
+                "B. The scene focuses on two players.",
+                "C. The scene focuses on three players.",
+                "D. The scene focuses on a team of players."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_157": {
+            "id": "9dQXiqS56Y4_157",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "In the scene focusing on the football field, is there any text displayed?",
+            "options": [
+                "A. Yes, the text 'FIFA' can be seen in the upper right corner of the scene.",
+                "B. No, there is no text displayed in the scene focusing on the football field.",
+                "C. Yes, the text 'ESTE ES MI SUEÑO' can be seen in the upper right corner of the scene.",
+                "D. No, the only text visible is on the banners in the stands."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_158": {
+            "id": "9dQXiqS56Y4_158",
+            "scene": 8,
+            "dimension": "Camera Direction",
+            "question": "What is the direction of the player's movement relative to the camera on the football field?",
+            "options": [
+                "A. Moving towards the camera",
+                "B. Direction parallel to the camera",
+                "C. Moving away from the camera",
+                "D. Unclear"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_159": {
+            "id": "9dQXiqS56Y4_159",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "Which photography technique highlights the contrast in energy between the audience and the football field?",
+            "options": [
+                "A. The camera switches from a wide-angle shot of the enthusiastic crowd to a close-up focusing on a single player.",
+                "B. The camera uses freeze frames to highlight the stillness of the audience.",
+                "C. The camera maintains a fixed angle throughout the scene to show consistency.",
+                "D. The camera continuously zooms out to capture the entire stadium and football field."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_160": {
+            "id": "9dQXiqS56Y4_160",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "In the opening scene from a bird's-eye view, how are the players in dark blue Argentina jerseys distributed on the field?",
+            "options": [
+                "A. There are five players in dark blue Argentina jerseys distributed on the field.",
+                "B. There are six players in dark blue Argentina jerseys distributed on the field.",
+                "C. There are seven players in dark blue Argentina jerseys distributed on the field.",
+                "D. There are four players in dark blue Argentina jerseys distributed on the field."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_161": {
+            "id": "9dQXiqS56Y4_161",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "In the opening scene with a bird's-eye view, how many players wearing white jerseys are on the field?",
+            "options": [
+                "A. There is one player wearing a white jersey on the field.",
+                "B. There are two players wearing white jerseys on the field.",
+                "C. There are three players wearing white jerseys on the field.",
+                "D. There are four players wearing white jerseys on the field."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_162": {
+            "id": "9dQXiqS56Y4_162",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video?",
+            "options": [
+                "A. The background of the video is a professional basketball game.",
+                "B. The background of the video is a professional football match environment.",
+                "C. The background of the video is a tennis championship.",
+                "D. The background of the video is a swimming competition."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_163": {
+            "id": "9dQXiqS56Y4_163",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What elements make up the environment in the video?",
+            "options": [
+                "A. The environment features alternating green striped fields, surrounded by global brand advertising banners, prominently displaying the FIFA brand logo.",
+                "B. The environment features a simple green field, without advertising banners, and with minimized brand logos.",
+                "C. The environment features a vibrant field with scattered player movements and no visible advertisements.",
+                "D. The environment includes a dirt field, sparse spectators, and local team banners."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_164": {
+            "id": "9dQXiqS56Y4_164",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "What action is being taken by the player wearing a blue jersey with the number '10'?",
+            "options": [
+                "A. The player wearing a blue jersey with the number '10' is moving across the football field.",
+                "B. The player wearing a blue jersey with the number '10' is taking a penalty kick.",
+                "C. The player wearing a blue jersey with the number '10' is acting as the referee.",
+                "D. The player wearing a blue jersey with the number '10' is observing the match situation near the sideline and receiving the ball."
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_165": {
+            "id": "9dQXiqS56Y4_165",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "What is special about the player's dark blue Argentina jersey?",
+            "options": [
+                "A. The player's dark blue Argentina jersey has white decorations.",
+                "B. The player's dark blue Argentina jersey has black stripes.",
+                "C. The player's dark blue Argentina jersey has gray decorations.",
+                "D. The player's dark blue Argentina jersey has yellow decorations."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_166": {
+            "id": "9dQXiqS56Y4_166",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "How many players wearing white clothing join the scene in the following footage?",
+            "options": [
+                "A. The number of players wearing white clothing increases to six.",
+                "B. The number of players wearing white clothing increases to seven.",
+                "C. The number of players wearing white clothing increases to eight.",
+                "D. The number of players wearing white clothing increases to nine."
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_167": {
+            "id": "9dQXiqS56Y4_167",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "Does the video capture include advertising banners?",
+            "options": [
+                "A. No, there are no visible advertising banners around the field.",
+                "B. Yes, the video captured global brand advertising banners around the field.",
+                "C. No, the video only displayed players and the field, without any advertisements.",
+                "D. Yes, but the advertising banners are related to local sponsors, not global brands."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_168": {
+            "id": "9dQXiqS56Y4_168",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the player in blue take near the center circle?",
+            "options": [
+                "A. The player in blue took a central position shot near the center circle.",
+                "B. The player in blue attempted to score from the center circle.",
+                "C. The player in blue committed a foul against an opponent near the center circle.",
+                "D. The player in blue passed the ball to a teammate near the center circle."
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_169": {
+            "id": "9dQXiqS56Y4_169",
+            "scene": 9,
+            "dimension": "Object Direction",
+            "question": "After gaining control of the ball, what direction does the player in white move in the lower left area of the field?",
+            "options": [
+                "A. The player in white moves backward to the defensive line.",
+                "B. The player in white moves forward to attack.",
+                "C. The player in white moves sideways towards the sideline.",
+                "D. The player in white remains stationary after gaining control of the ball."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_170": {
+            "id": "9dQXiqS56Y4_170",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "What characteristic of the game rhythm is indicated by the white-shirted opponent's immediate defensive action?",
+            "options": [
+                "A. Indicates that the game rhythm is fast and dynamic.",
+                "B. Indicates the referee has lost control of the game.",
+                "C. Indicates that both teams are hesitant and focused on defense.",
+                "D. Indicates the game rhythm is very slow and lacks highlights."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_171": {
+            "id": "9dQXiqS56Y4_171",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements enhanced the international background of this football event?",
+            "options": [
+                "A. The consistently appearing 'FIFA' logo and advertising banners enhanced the international background of this football event.",
+                "B. The bright green of the football field and the number of players on the field highlighted the international nature of the event.",
+                "C. The alternating green stripes on the field and the players' white jerseys emphasized the international environment of the match.",
+                "D. The color contrast between the team's dark blue and white jerseys symbolized the global significance of the match."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_172": {
+            "id": "9dQXiqS56Y4_172",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "Where is the FIFA logo located on the video screen?",
+            "options": [
+                "A. The FIFA logo is in the upper right corner of the screen.",
+                "B. The FIFA logo is in the lower left corner of the screen.",
+                "C. The FIFA logo is in the center of the screen.",
+                "D. The FIFA logo is in the lower right corner of the screen."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_173": {
+            "id": "9dQXiqS56Y4_173",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "Where does the transition between frames occur in a football match video?",
+            "options": [
+                "A. The transition occurs on the football field during an ongoing match.",
+                "B. The transition occurs in the locker room during halftime.",
+                "C. The transition occurs on the sidelines during a team gathering.",
+                "D. The transition occurs in the commentator's booth at the stadium."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_174": {
+            "id": "9dQXiqS56Y4_174",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "What does the famous player wearing the Argentina national team jersey look like in the video?",
+            "options": [
+                "A. The player is wearing a dark blue Argentina national team jersey with white details, the jersey number is '10', dark blue socks, and yellow shoes.",
+                "B. The player is wearing a dark blue jersey, white shorts, the jersey number is '19', blue socks, and white shoes.",
+                "C. The player is wearing a red and white striped jersey, the jersey number is '7', red socks, and black shoes.",
+                "D. The player is wearing a green and white jersey, the jersey number is '8', green socks, and green shoes."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_175": {
+            "id": "9dQXiqS56Y4_175",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "How many players wearing white jerseys can be seen in the scene?",
+            "options": [
+                "A. Two players wearing white jerseys",
+                "B. One player wearing a white jersey",
+                "C. No players wearing white jerseys",
+                "D. Three players wearing white jerseys"
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_176": {
+            "id": "9dQXiqS56Y4_176",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "Is the vibrant green of the football field clearly visible throughout the entire picture?",
+            "options": [
+                "A. Yes, the vibrant green of the football field is clearly visible throughout the entire picture.",
+                "B. No, the vibrant green of the football field is not very noticeable throughout the entire picture.",
+                "C. Yes, the football field looks more blurred throughout the entire picture.",
+                "D. No, the football field is completely obscured by the players throughout the entire picture."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_177": {
+            "id": "9dQXiqS56Y4_177",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "What subtle movements did the Argentine players make during the transition?",
+            "options": [
+                "A. The Argentine player adjusted his stance to the left to better prepare for the game.",
+                "B. The Argentine player raised both hands to signal a pass to his teammate.",
+                "C. The Argentine player crouched low, preparing to make a defensive tackle.",
+                "D. The Argentine player looked up and backed away to avoid the ball."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_178": {
+            "id": "9dQXiqS56Y4_178",
+            "scene": 10,
+            "dimension": "Object Direction",
+            "question": "Which direction does the football move during the transition?",
+            "options": [
+                "A. The football moves backward and rises.",
+                "B. The football moves forward and descends.",
+                "C. The football stays stationary in the air.",
+                "D. The football moves sideways and descends."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_179": {
+            "id": "9dQXiqS56Y4_179",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "What type of camera shot is used in the second frame of the video?",
+            "options": [
+                "A. The camera is shooting from above the field as a wide-angle shot.",
+                "B. The camera is shooting from eye-level near the sidelines with a dynamic close-up angle.",
+                "C. The camera is shooting a mid-range shot from the center of the field.",
+                "D. The camera is providing a bird's-eye view of the entire stadium."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_180": {
+            "id": "9dQXiqS56Y4_180",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "How does the second shot affect the scene?",
+            "options": [
+                "A. It enhances the audience's sense of being immersed in the football match.",
+                "B. It weakens the focus on the players' actions by overly focusing on the audience.",
+                "C. It makes understanding the match difficult due to close-up shots.",
+                "D. It shifts attention from the main players to the advertisements."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_181": {
+            "id": "9dQXiqS56Y4_181",
+            "scene": 10,
+            "dimension": "Speed",
+            "question": "How do viewers perceive the speed of the game in the second frame?",
+            "options": [
+                "A. Due to the close dynamic angle and visible changes in player positions, viewers feel a sense of fast movement.",
+                "B. Viewers perceive a still moment with no apparent movement.",
+                "C. Due to the lack of visible players and stationary spectators, viewers feel the game is slower.",
+                "D. Viewers perceive a calm atmosphere with less movement."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_182": {
+            "id": "9dQXiqS56Y4_182",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "Which visual element in the video confirms what kind of sports event the match is related to?",
+            "options": [
+                "A. The small FIFA logo in the top right corner.",
+                "B. A large scoreboard above the field.",
+                "C. Yellow and blue decorative elements in the crowd.",
+                "D. Brand advertisements like FUJIFILM and Gillette."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_183": {
+            "id": "9dQXiqS56Y4_183",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "Which advertisements in the video confirm that the match is an important sporting event?",
+            "options": [
+                "A. The advertising banners in the background confirm that this is an important sporting event.",
+                "B. The information displayed on the players' jerseys confirms that this is an important sporting event.",
+                "C. The FIFA logo confirms that this is an important sporting event.",
+                "D. The packed stadium confirms that this is an important sporting event."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_184": {
+            "id": "9dQXiqS56Y4_184",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "On the football field from a wide-angle perspective, where is the player in the dark blue jersey marked as number 10 located?",
+            "options": [
+                "A. Near the top right of the field",
+                "B. Near the bottom center of the field",
+                "C. Near the left corner of the field",
+                "D. Near the center circle of the field"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_185": {
+            "id": "9dQXiqS56Y4_185",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "What is the main scene in watching a football match?",
+            "options": [
+                "A. The scene is a football match on a green field with white markings, and the stadium is fully packed.",
+                "B. The scene is a street football match, players are dressed casually, and there are no obvious spectators.",
+                "C. The scene is a football training session on a dusty field with dim lighting and no spectators.",
+                "D. The scene is an indoor night football match with dim artificial lighting and no spectators."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_186": {
+            "id": "9dQXiqS56Y4_186",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "In the main perspective of a football match, what elements can be seen in the scene?",
+            "options": [
+                "A. The scene shows the FIFA logo in the top right corner and a referee wearing yellow clothes.",
+                "B. The scene shows fans waving flags and a large scoreboard.",
+                "C. The scene shows players wearing red and yellow jerseys and a referee in a green shirt.",
+                "D. The scene shows an aerial blimp camera and a coach shouting on the sideline."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_187": {
+            "id": "9dQXiqS56Y4_187",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "What does the referee wear during the match?",
+            "options": [
+                "A. The referee wears a bright yellow short-sleeve shirt.",
+                "B. The referee wears a dark blue sports shirt.",
+                "C. The referee wears a white sports shirt.",
+                "D. The referee wears a bright green short-sleeve shirt."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_188": {
+            "id": "9dQXiqS56Y4_188",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "Where is the referee's position at the beginning of the scene?",
+            "options": [
+                "A. The referee is located in the center of the field.",
+                "B. The referee is slightly to the left side.",
+                "C. The referee is near the goal.",
+                "D. The referee is standing on the sideline."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_189": {
+            "id": "9dQXiqS56Y4_189",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "What does the referee do during the match?",
+            "options": [
+                "A. The referee actively follows the match and maintains rule enforcement from the optimal position.",
+                "B. The referee actively coaches the players from the sidelines during the match.",
+                "C. The referee sits in the stands watching the match.",
+                "D. The referee talks to players and ignores the match."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_190": {
+            "id": "9dQXiqS56Y4_190",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "What color is the player's jersey?",
+            "options": [
+                "A. Dark blue and yellow",
+                "B. Dark blue and white",
+                "C. Red and white",
+                "D. Green and blue"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_191": {
+            "id": "9dQXiqS56Y4_191",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "What is the jersey number visible at the beginning of the scene?",
+            "options": [
+                "A. The jersey number is 10.",
+                "B. The jersey number is 12.",
+                "C. The jersey number is 16.",
+                "D. The jersey number is 17."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_192": {
+            "id": "9dQXiqS56Y4_192",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "Can the scoreboard be seen during the game?",
+            "options": [
+                "A. Yes, a large scoreboard will appear in the later stages of the game.",
+                "B. No, no scoreboard can be seen during the game.",
+                "C. Yes, but only a small scoreboard appears briefly.",
+                "D. No, only billboards can be seen."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_193": {
+            "id": "9dQXiqS56Y4_193",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "When the ball is at the center of the soccer field, what is the player wearing a dark blue jersey with the number 10 doing?",
+            "options": [
+                "A. The player wearing a dark blue jersey with the number 10 is standing and slowly moving forward.",
+                "B. The player wearing a dark blue jersey with the number 10 is advancing forward and making contact with the ball.",
+                "C. The player wearing a dark blue jersey with the number 10 is walking towards the referee.",
+                "D. The player wearing a dark blue jersey with the number 10 is sitting on the substitute bench."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_194": {
+            "id": "9dQXiqS56Y4_194",
+            "scene": 11,
+            "dimension": "Object Direction",
+            "question": "How is the dark blue player in the lower half of the field moving relative to the camera?",
+            "options": [
+                "A. The dark blue player in the lower half of the field is moving to the left.",
+                "B. The dark blue player in the lower half of the field is moving to the right.",
+                "C. The dark blue player in the lower half of the field is stationary.",
+                "D. The dark blue player in the lower half of the field is moving upward."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_195": {
+            "id": "9dQXiqS56Y4_195",
+            "scene": 11,
+            "dimension": "Camera Direction",
+            "question": "In the scene, will the camera rotate to provide an overview of the team's formation?",
+            "options": [
+                "A. Yes, the camera will switch to a wide overhead view, focusing on the team's formation.",
+                "B. No, the camera focuses exclusively on individual players throughout the scene.",
+                "C. No, the camera mainly captures the audience and atmosphere without switching to the team's formation.",
+                "D. Yes, but the camera only provides close-ups of team members without focusing on the formation."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_196": {
+            "id": "9dQXiqS56Y4_196",
+            "scene": 11,
+            "dimension": "Camera Shot",
+            "question": "After close-up shots of Argentine players and spectators, what camera angle was primarily used?",
+            "options": [
+                "A. Mainly used a wide-angle, slightly elevated perspective to showcase the panorama of the football field and players.",
+                "B. Focused primarily on close-ups of individual players and their actions.",
+                "C. Centered on ground-level angles to display detailed footwork and ball control.",
+                "D. Sideline perspective, focusing on coaches and substitute players."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_197": {
+            "id": "9dQXiqS56Y4_197",
+            "scene": 11,
+            "dimension": "Fine Grained Action",
+            "question": "How to describe the movement of players during a match?",
+            "options": [
+                "A. Some players actively run, while others adjust their positions or make subtle movements.",
+                "B. Players mainly remain stationary, only occasionally moving to kick the ball.",
+                "C. All players continuously run without adjusting positions or making strategic moves.",
+                "D. Only the player with the ball moves, while other players maintain fixed positions."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_198": {
+            "id": "9dQXiqS56Y4_198",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "Which logo can be seen in the top right corner during the match?",
+            "options": [
+                "A. 'FIFA' logo",
+                "B. 'UEFA' logo",
+                "C. 'Premier League' logo",
+                "D. 'La Liga' logo"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_199": {
+            "id": "9dQXiqS56Y4_199",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the scene?",
+            "options": [
+                "A. The scene takes place in a quiet park, with only a few spectators watching a local match.",
+                "B. The scene takes place in a stadium during an important international football match.",
+                "C. The scene takes place during an indoor gymnastics competition.",
+                "D. The scene takes place in a school gymnasium where students are practicing and training."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_200": {
+            "id": "9dQXiqS56Y4_200",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "What is the background of this scene?",
+            "options": [
+                "A. The background includes a lively crowd, colorful banners, and advertisements, adding to an exciting atmosphere.",
+                "B. The background is a quiet practice field with no spectators or advertisements.",
+                "C. The background is a casual community soccer game with minimal decorations and few spectators.",
+                "D. The background is an indoor soccer field with dim lighting and no visible spectators."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_201": {
+            "id": "9dQXiqS56Y4_201",
+            "scene": 12,
+            "dimension": "Fine Grained Action",
+            "question": "What does the opponent in the dark blue jersey do when approaching the ball handler?",
+            "options": [
+                "A. The opponent in the dark blue jersey leans forward, closely follows the ball handler, and displays determination to interrupt the game.",
+                "B. The opponent in the dark blue jersey stands back, keeps a distance from the ball handler, and waits for a pass.",
+                "C. The opponent in the dark blue jersey rushes ahead of the ball handler and blocks the route.",
+                "D. The opponent in the dark blue jersey stands near the referee, observes the game, and does not participate."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_202": {
+            "id": "9dQXiqS56Y4_202",
+            "scene": 12,
+            "dimension": "Visual-cue",
+            "question": "What is the significance of the 'FIFA' logo in the scene?",
+            "options": [
+                "A. The 'FIFA' logo is located at the center of the stadium roof, symbolizing the importance of a national-level event.",
+                "B. The 'FIFA' logo is prominently placed in the upper right corner, highlighting the international significance of the event.",
+                "C. The 'FIFA' logo appears on the players' jerseys, indicating the team's sponsor.",
+                "D. The 'FIFA' logo is displayed on the scoreboard, indicating the sponsor of a local match."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_203": {
+            "id": "9dQXiqS56Y4_203",
+            "scene": 12,
+            "dimension": "Count",
+            "question": "How many players in dark blue jerseys can be seen at the beginning of the scene?",
+            "options": [
+                "A. One player in a white jersey",
+                "B. Two players in white jerseys",
+                "C. Three players in white jerseys",
+                "D. Four players in white jerseys"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_204": {
+            "id": "9dQXiqS56Y4_204",
+            "scene": 12,
+            "dimension": "Binary",
+            "question": "Is there a player with the number '6' in the scene?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Not mentioned",
+                "D. Uncertain"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_205": {
+            "id": "9dQXiqS56Y4_205",
+            "scene": 12,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the player in the white shirt take to prepare to hit or control the ball?",
+            "options": [
+                "A. The player in the white shirt lifted his left leg.",
+                "B. The player in the white shirt raised his right arm.",
+                "C. The player in the white shirt moved to the right.",
+                "D. The player in the white shirt stopped running."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_206": {
+            "id": "9dQXiqS56Y4_206",
+            "scene": 12,
+            "dimension": "Fine Grained Action",
+            "question": "How does the player in the white jersey protect the ball from being taken by the opponent?",
+            "options": [
+                "A. The player in the white jersey extends his left arm.",
+                "B. The player in the white jersey turns his back to the opponent.",
+                "C. The player in the white jersey lies on the ball.",
+                "D. The player in the white jersey kicks the ball into the air."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_207": {
+            "id": "9dQXiqS56Y4_207",
+            "scene": 12,
+            "dimension": "Object Direction",
+            "question": "Which direction is the ball moving relative to the camera when it goes out of bounds?",
+            "options": [
+                "A. The ball is moving to the left.",
+                "B. The ball is moving to the right.",
+                "C. The ball is moving upward.",
+                "D. The ball is not moving at all."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_208": {
+            "id": "9dQXiqS56Y4_208",
+            "scene": 12,
+            "dimension": "Spatial",
+            "question": "What is the relative position between the white ball and the foot of the player wearing a white jersey?",
+            "options": [
+                "A. The ball is directly in front of the right foot of the player wearing a white jersey.",
+                "B. The ball is directly under the left foot of the player wearing a white jersey.",
+                "C. The ball is behind the right foot of the player wearing a white jersey.",
+                "D. The ball is located at the center of the field with no players around."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_209": {
+            "id": "9dQXiqS56Y4_209",
+            "scene": 12,
+            "dimension": "Camera Shot",
+            "question": "Does the camera focus on local conflicts?",
+            "options": [
+                "A. Yes, the camera focuses on local conflicts, immersing the audience in action and energy.",
+                "B. No, the camera focuses on a wide-angle view of the entire venue.",
+                "C. The camera mostly captures the audience's reactions rather than the players' actions.",
+                "D. The camera focuses on individual players warming up on the sidelines."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_210": {
+            "id": "9dQXiqS56Y4_210",
+            "scene": 12,
+            "dimension": "Camera Shot",
+            "question": "What type of shot highlights intense gameplay?",
+            "options": [
+                "A. Wide-angle shots highlight intense gameplay.",
+                "B. Close-up shots highlight intense gameplay.",
+                "C. Aerial shots highlight intense gameplay.",
+                "D. Medium shots highlight intense gameplay."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_211": {
+            "id": "9dQXiqS56Y4_211",
+            "scene": 12,
+            "dimension": "Speed",
+            "question": "What is the movement speed of the player wearing a white jersey with the number '4'?",
+            "options": [
+                "A. The player moves at sprinting speed.",
+                "B. The player moves at controlled speed.",
+                "C. The player moves at slow speed.",
+                "D. The player is stationary."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_212": {
+            "id": "9dQXiqS56Y4_212",
+            "scene": 12,
+            "dimension": "Object Direction",
+            "question": "How does the position of the player wearing the white jersey with the number '4' change at the beginning of the scene?",
+            "options": [
+                "A. The player wearing the white jersey with the number '4' initially moves backward.",
+                "B. The player wearing the white jersey with the number '4' starts by sprinting forward with the ball.",
+                "C. The player wearing the white jersey with the number '4' stands still and observes the game.",
+                "D. The player wearing the white jersey with the number '4' initially moves to the left side of the field."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_213": {
+            "id": "9dQXiqS56Y4_213",
+            "scene": 12,
+            "dimension": "Object Direction",
+            "question": "How does the position of the white-shirted player numbered '4' change in the scene?",
+            "options": [
+                "A. The white-shirted player numbered '4' moves towards the center.",
+                "B. The white-shirted player numbered '4' moves to the left wing.",
+                "C. The white-shirted player numbered '4' retreats to a defensive position near the goal area.",
+                "D. The white-shirted player numbered '4' stays near the sideline."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_214": {
+            "id": "9dQXiqS56Y4_214",
+            "scene": 12,
+            "dimension": "Visual-cue",
+            "question": "In the background of the scene, which visual elements consistently appear?",
+            "options": [
+                "A. The background always includes crowds, advertisements, and bright lights focused on the players.",
+                "B. The background always shows dark empty stands, dim lights, and no advertisements.",
+                "C. The background always presents a quiet crowd, dim lights, and one advertisement.",
+                "D. The background always includes dense forests and soft natural light."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_215": {
+            "id": "9dQXiqS56Y4_215",
+            "scene": 13,
+            "dimension": "Spatial",
+            "question": "What are the spatial features on the field where Lionel Messi is located?",
+            "options": [
+                "A. The field is well-maintained, the grass is green, and there is a faint horizontal white line in the background.",
+                "B. The field is covered with dust and debris, and there are no clear markings, making it difficult to determine spatial orientation.",
+                "C. The field is well-maintained, the grass is green, and there are several vertical white lines crisscrossing the field.",
+                "D. The field is uneven with sand and scattered with a series of circular markings."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_216": {
+            "id": "9dQXiqS56Y4_216",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "What is the main background of the video scene?",
+            "options": [
+                "A. The main background is an intense football match.",
+                "B. The main background is a basketball game.",
+                "C. The main background is a tennis championship.",
+                "D. The main background is a swimming competition."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_217": {
+            "id": "9dQXiqS56Y4_217",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "What is the background of this video scene?",
+            "options": [
+                "A. The background is an official FIFA event.",
+                "B. The background is a community football match.",
+                "C. The background is a casual training session.",
+                "D. The background is a charity football match."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_218": {
+            "id": "9dQXiqS56Y4_218",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "What is Lionel Messi wearing in the video?",
+            "options": [
+                "A. Lionel Messi is wearing a navy blue jersey with white accents.",
+                "B. Lionel Messi is wearing a red jersey with yellow accents.",
+                "C. Lionel Messi is wearing a green jersey with white stripes.",
+                "D. Lionel Messi is wearing a black jersey with gold accents."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_219": {
+            "id": "9dQXiqS56Y4_219",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "How is Lionel Messi's hair described in the video?",
+            "options": [
+                "A. Lionel Messi has short and curly blonde hair.",
+                "B. Lionel Messi has medium-length dark brown hair.",
+                "C. Lionel Messi has long and straight black hair.",
+                "D. Lionel Messi has short and spiky red hair."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_220": {
+            "id": "9dQXiqS56Y4_220",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "In the video, what number is shown on Lionel Messi's jersey?",
+            "options": [
+                "A. The jersey only shows '10'.",
+                "B. The jersey only shows '18'.",
+                "C. The jersey first shows '19'.",
+                "D. No number is shown on the jersey."
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_221": {
+            "id": "9dQXiqS56Y4_221",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "What is the most notable feature of Lionel Messi's appearance?",
+            "options": [
+                "A. Lionel Messi's bright deep blue jersey and flowing dark brown hair.",
+                "B. Lionel Messi's jersey is very eye-catching, initially numbered '10', later changed to '18'.",
+                "C. Lionel Messi's long hair tied into a ponytail and his unique white sneakers.",
+                "D. Lionel Messi's jersey without a number, but wearing brightly colored socks."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_222": {
+            "id": "9dQXiqS56Y4_222",
+            "scene": 13,
+            "dimension": "Binary",
+            "question": "Was Lionel Messi in a stationary position at any moment in the scene?",
+            "options": [
+                "A. Yes, Lionel Messi was stationary at certain moments.",
+                "B. No, Lionel Messi was moving throughout the entire scene.",
+                "C. Yes, Lionel Messi paused once in the scene.",
+                "D. No, Lionel Messi kept running without any stationary moments."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_223": {
+            "id": "9dQXiqS56Y4_223",
+            "scene": 13,
+            "dimension": "Camera Direction",
+            "question": "In which direction is Lionel Messi running relative to the camera?",
+            "options": [
+                "A. Left side of the camera.",
+                "B. Right side of the camera.",
+                "C. Top of the camera.",
+                "D. Bottom of the camera."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_224": {
+            "id": "9dQXiqS56Y4_224",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "What factors in the scene indicate the professional background of the match?",
+            "options": [
+                "A. The vivid background of the green field.",
+                "B. The players' navy blue jerseys with white accents.",
+                "C. The 'FIFA+' logo appearing in the top right corner.",
+                "D. The horizontal white field markings in the background."
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_225": {
+            "id": "9dQXiqS56Y4_225",
+            "scene": 14,
+            "dimension": "Description-Scene",
+            "question": "In the brand display scenario, where is FIFA placed?",
+            "options": [
+                "A. FIFA is placed in the top left corner of the screen.",
+                "B. FIFA is in the center position on a deep navy blue background.",
+                "C. FIFA is placed in the bottom right corner of the screen.",
+                "D. FIFA is placed in the middle of a green lawn with a football player."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_226": {
+            "id": "9dQXiqS56Y4_226",
+            "scene": 14,
+            "dimension": "Description-Scene",
+            "question": "What is the initial scene?",
+            "options": [
+                "A. Obvious FIFA",
+                "B. Gradual FIFA",
+                "C. Pure black screen",
+                "4. Pure white screen"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_227": {
+            "id": "9dQXiqS56Y4_227",
+            "scene": 14,
+            "dimension": "Description-Human",
+            "question": "What did Lionel Messi do in the opening scene?",
+            "options": [
+                "A. Lionel Messi is cooking in the kitchen.",
+                "B. Lionel Messi is energetically playing football.",
+                "C. Lionel Messi is standing in front of the substitutes' bench.",
+                "D. Lionel Messi is attending a press conference."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_228": {
+            "id": "9dQXiqS56Y4_228",
+            "scene": 14,
+            "dimension": "Description-Object",
+            "question": "What are the color characteristics of the FIFA logo in brand presentations?",
+            "options": [
+                "A. The FIFA logo uses bold pure white text.",
+                "B. The FIFA logo is primarily black with gold details.",
+                "C. The FIFA logo features bright red and blue stripes.",
+                "D. The FIFA logo is green with a camouflage pattern."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_229": {
+            "id": "9dQXiqS56Y4_229",
+            "scene": 14,
+            "dimension": "Description-Object",
+            "question": "What kind of lighting effects are displayed on the FIFA logo in brand promotion?",
+            "options": [
+                "A. The logo uses lighting to create a halo effect.",
+                "B. The logo uses lighting to create a spotlight effect.",
+                "C. The logo uses lighting to create a shadow effect.",
+                "D. The logo uses lighting to create a gradient effect."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_230": {
+            "id": "9dQXiqS56Y4_230",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "In brand presentations, what additional design elements accompany the FIFA logo?",
+            "options": [
+                "A. The logo is accompanied by circular or dotted designs.",
+                "B. The logo is accompanied by an image of Lionel Messi.",
+                "C. The logo is accompanied by a football field.",
+                "D. The logo is accompanied by text that reads 'Goal!'."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_231": {
+            "id": "9dQXiqS56Y4_231",
+            "scene": 14,
+            "dimension": "Count",
+            "question": "After the transition, how many solid white dots are there in the square pattern?",
+            "options": [
+                "A. Two solid white dots",
+                "B. Three solid white dots",
+                "C. Four solid white dots",
+                "D. Five solid white dots"
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_232": {
+            "id": "9dQXiqS56Y4_232",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "Does the background remain static and unchanged during the brand display?",
+            "options": [
+                "A. Yes, the background remains completely static and unchanged throughout the process.",
+                "B. No, the background dynamically changes colors continuously.",
+                "C. Yes, the background is always a solid deep navy blue.",
+                "D. No, the background gradually transitions from deep navy blue to a lighter blue gradient towards the center."
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_233": {
+            "id": "9dQXiqS56Y4_233",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "What happens to the FIFA logo during the brand transition?",
+            "options": [
+                "A. The FIFA logo will temporarily blur.",
+                "B. The FIFA logo will completely disappear.",
+                "C. The FIFA logo will turn red.",
+                "D. The FIFA logo will rotate 360 degrees."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_234": {
+            "id": "9dQXiqS56Y4_234",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "What additional words appear during the brand demo transition?",
+            "options": [
+                "A. Words like 'Watch' subtly appear on the sides.",
+                "B. Words like 'Play' prominently appear at the center.",
+                "C. Words like 'Score' brightly appear at the top.",
+                "D. Words like 'Pause' clearly appear at the bottom."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_235": {
+            "id": "9dQXiqS56Y4_235",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "In brand promotion, in which direction does the gradient color blend?",
+            "options": [
+                "A. The color transitions from deep navy blue to light blue at the center.",
+                "B. The color transitions from light blue to deep navy blue at the center.",
+                "C. The color transitions from deep navy blue to white at the center.",
+                "D. The color transitions from gray to deep navy blue at the center."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_236": {
+            "id": "9dQXiqS56Y4_236",
+            "scene": 14,
+            "dimension": "Camera Shot",
+            "question": "How is the composition designed in brand presentation?",
+            "options": [
+                "A. The composition is stable and focuses on text elements.",
+                "B. The composition is chaotic, containing multiple design elements.",
+                "C. The composition changes frequently, filled with bright colors.",
+                "D. The composition focuses on Lionel Messi playing football."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_237": {
+            "id": "9dQXiqS56Y4_237",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "How does the text clarity of the scene terminal brand display change over time?",
+            "options": [
+                "A. The text becomes clearer and easier to read.",
+                "B. The text remains consistently blurry with no significant changes.",
+                "C. The text gradually becomes darker and harder to read.",
+                "D. The text introduces colorful animations that distract from reading."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_238": {
+            "id": "9dQXiqS56Y4_238",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "What visual elements contribute to the professional aesthetic of a brand presentation?",
+            "options": [
+                "A. Smooth gradient backgrounds, glowing and solid white dots",
+                "B. Vibrant soccer actions and Lionel Messi's dynamic movements",
+                "C. Deep green field and Argentina's navy blue jerseys",
+                "D. Bright colors and the number '18' on Lionel Messi's jersey"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_239": {
+            "id": "9dQXiqS56Y4_239",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the central character wearing at the beginning of the substitution scene?",
+            "options": [
+                "A. A dark blue Argentina national football team jersey, number 19, with white stripes on the shoulders and the Argentine Football Association badge.",
+                "B. A bright yellow Argentina national football team jersey, with red stripes, number 10.",
+                "C. A dark blue Argentina national football team jersey, number 19, with white stripes on the shoulders and the Argentine Football Association badge.",
+                "D. A white Argentina national football team jersey, with blue decorations and number 8."
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_240": {
+            "id": "9dQXiqS56Y4_240",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "When the football player moves in the middle of the screen, which element remains unchanged?",
+            "options": [
+                "A. The FIFA logo in the background.",
+                "B. The Argentine flag in the background.",
+                "C. The scoreboard in the background.",
+                "D. The cheering crowd in the background."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_241": {
+            "id": "9dQXiqS56Y4_241",
+            "scene": "-1",
+            "dimension": "Camera Shot",
+            "question": "How does the scene transition from a vibrant crowd to a more intimate focus on the football field?",
+            "options": [
+                "A. The scene shifts from the lively stadium audience to close-up shots of the players.",
+                "B. The scene transitions from the bright stadium lights to a wide-angle view of the entire football field.",
+                "C. The scene moves from the crowd to an aerial view of the field, highlighting the team's formation.",
+                "D. The scene fades from the audience to a scoreboard displaying game statistics."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_242": {
+            "id": "9dQXiqS56Y4_242",
+            "scene": "-1",
+            "dimension": "Description-Object",
+            "question": "Why is the substitution board particularly important in the scene?",
+            "options": [
+                "A. The substitution board is used to indicate the end of the match.",
+                "B. The substitution board can display information about personnel changes.",
+                "C. The substitution board is a decorative element in the match.",
+                "D. The substitution board is used to display sponsor advertisements."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_243": {
+            "id": "9dQXiqS56Y4_243",
+            "scene": "-1",
+            "dimension": "Binary",
+            "question": "What does Maxi Rodriguez's appearance imply in the context of substitution?",
+            "options": [
+                "A. Maxi Rodriguez's appearance symbolizes imminent substitution, highlighting tactical decisions in the match.",
+                "B. Maxi Rodriguez's appearance symbolizes a halftime break for rest and strategy adjustment.",
+                "C. Maxi Rodriguez's appearance symbolizes the start of a non-competitive friendly match.",
+                "D. Maxi Rodriguez's appearance symbolizes the end of the match and players leaving the field."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_244": {
+            "id": "9dQXiqS56Y4_244",
+            "scene": "-1",
+            "dimension": "Description-Human",
+            "question": "What does the energetic behavior of the crowd reflect about the overall event?",
+            "options": [
+                "A. The crowd's enthusiasm and excited gestures demonstrate their high sense of national pride and collective excitement for the Argentine football team in international competitions.",
+                "B. The crowd's indifferent reaction and sporadic applause reflect their boredom and lack of interest in the ongoing match.",
+                "C. The crowd's silence and calm demeanor indicate they are watching a non-competitive training match.",
+                "D. The crowd's occasional cheers and light applause reflect a relaxed atmosphere and casual interest in the match."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_245": {
+            "id": "9dQXiqS56Y4_245",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "What does the banner in the crowd reflect about the entire event?",
+            "options": [
+                "A. The banner reflects a high national pride and collective excitement for the Argentine football team in the international competition.",
+                "B. The banner focuses on promoting local businesses and services unrelated to the event.",
+                "C. The banner highlights the achievements of individual players unrelated to the current competition.",
+                "D. The banner emphasizes environmental awareness and sustainability efforts during the event."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_246": {
+            "id": "9dQXiqS56Y4_246",
+            "scene": "-1",
+            "dimension": "Fine Grained Action",
+            "question": "What happens after player number 18 interacts with teammates?",
+            "options": [
+                "A. The player scores a goal.",
+                "B. About to be substituted off.",
+                "C. The scene shifts to the spectators in the stadium.",
+                "D. The match pauses for a moment."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_247": {
+            "id": "9dQXiqS56Y4_247",
+            "scene": "-1",
+            "dimension": "Description-Human",
+            "question": "When the field of view is expanded, what does the staff in green clothing do during the substitution process?",
+            "options": [
+                "A. The staff in green clothing enters the field to guide players in completing the substitution.",
+                "B. The staff in green clothing raises an electronic substitution board, indicating the players leaving and entering the field.",
+                "C. The staff in green clothing waves a flag to indicate the substitution process has started.",
+                "D. The staff in green clothing places cones on the sideline to mark the substitution area."
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_248": {
+            "id": "9dQXiqS56Y4_248",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "What details were emphasized when Lionel Messi transitioned to the brand scene?",
+            "options": [
+                "A. The scene transitions to a smooth, minimalist brand visual, focusing on the 'FIFA' logo and prompts like 'Watch More On' and 'Watch Next'.",
+                "B. The scene transitions to a lively, vibrant visual effect, focusing on the cheering of a football team and highlighting words like 'Goal' and 'Victory'.",
+                "C. The scene switches to an action-packed segment, showing another player attempting a shot, accompanied by prompts like 'Replay' and 'Highlights'.",
+                "D. The scene transitions to a promotional video showing Lionel Messi's training process, with prompts like 'Training Tips' and 'Exclusive Interview'."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_249": {
+            "id": "9dQXiqS56Y4_249",
+            "scene": "-1",
+            "dimension": "Description-Human",
+            "question": "Why do shots of vibrant crowds composed of supporters wearing Argentina team jerseys appear during intervals in the match footage?",
+            "options": [
+                "A. The crowd shots emphasize the emotional support and nationalism surrounding the match, enhancing the atmosphere and narrative effect of the event.",
+                "B. The crowd shots aim to showcase the new design of the Argentina team jerseys, attracting more merchandise buyers.",
+                "C. The crowd shots provide intervals for commercial breaks between action scenes.",
+                "D. The crowd shots demonstrate the chaos and issues caused by unruly supporters, indicating a need for increased security measures."
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_250": {
+            "id": "9dQXiqS56Y4_250",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "Why does the background environment for scene transitions include elements like FIFA logos and stadium banners?",
+            "options": [
+                "A. Consistent background elements ensure the audience is immersed in the professional and formal atmosphere of international football matches.",
+                "B. Background elements are used to distract the audience with vibrant colors and animations.",
+                "C. These elements are designed to market unrelated products to the audience.",
+                "D. Background transitions aim to confuse the audience with creative effects."
+            ],
+            "answer": "A"
+        }
+    }
+}

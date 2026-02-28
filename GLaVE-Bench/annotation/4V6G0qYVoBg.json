@@ -1,0 +1,925 @@
+{
+    "scene_hint": {
+        "0": "在极简的画面下展示了一段动画。",
+        "1": "展示熔岩巨兽的P技能。",
+        "2": "展示熔岩巨兽的Q技能。",
+        "3": "展示熔岩巨兽的W与W+Q技能。",
+        "4": "展示熔岩巨兽的E技能。",
+        "5": "展示熔岩巨兽的W+E技能。",
+        "6": "展示熔岩巨兽的R技能。",
+        "7": "展示熔岩巨兽的W+R技能。",
+        "8": "一个充满活力的动画角色登场。"
+    },
+    "qa": {
+        "4V6G0qYVoBg_0": {
+            "id": "4V6G0qYVoBg_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频中场景的视觉环境背景是什么？",
+            "options": [
+                "A. 场景具有抽象、色彩斑斓的背景。",
+                "B. 场景具有干净的白色背景。",
+                "C. 场景具有黑暗、暴风雨背景。",
+                "D. 场景呈现一片郁郁葱葱的森林。"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_1": {
+            "id": "4V6G0qYVoBg_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频中场景的安排或重点是什么？",
+            "options": [
+                "A. 环境是混乱无序的。",
+                "B. 环境是对称和均衡的。",
+                "C. 环境只专注于角色。",
+                "D. 环境主要是黑暗的。"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_2": {
+            "id": "4V6G0qYVoBg_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "角色的穿着有什么特征？",
+            "options": [
+                "A. 穿着黑色、科幻风格的盔甲。",
+                "B. 穿着明亮、中世纪风格的盔甲。",
+                "C. 穿着绿色、自然主题的盔甲。",
+                "D. 穿着休闲、现代风格的服装。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_3": {
+            "id": "4V6G0qYVoBg_3",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "角色拿着什么武器？",
+            "options": [
+                "A. 手持一把发出青绿色光芒的剑。",
+                "B. 手持一把发出红色光芒的剑。",
+                "C. 持一把带着闪电特效的弓。",
+                "D. 没有携带武器。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_4": {
+            "id": "4V6G0qYVoBg_4",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "角色在突刺前是什么样的姿势？",
+            "options": [
+                "A. 角色处于一种平静但警觉的站姿。",
+                "B. 角色弯腰低蹲，准备向前跃进，剑举过头顶。",
+                "C. 角色站立，水平持剑以防御姿态。",
+                "D. 角色单膝跪地，剑牢牢地插在旁边的地上。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_5": {
+            "id": "4V6G0qYVoBg_5",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "“EKKOLOGICAL”这段文字的字体风格是什么？",
+            "options": [
+                "A. “EKKOLOGICAL”这段文字采用的是一种随意、手写风格的字体。",
+                "B. “EKKOLOGICAL”这段文字采用的是一种粗体、方块风格的字体。",
+                "C. “EKKOLOGICAL”这段文字采用的是一种连笔、书法风格的字体。",
+                "D. “EKKOLOGICAL”这段文字采用的是一种未来感、数字化的字体。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_6": {
+            "id": "4V6G0qYVoBg_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "“EKKOLOGICAL”这段文字的颜色是什么？",
+            "options": [
+                "A. “EKKOLOGICAL”这段文字是红棕色的。",
+                "B. “EKKOLOGICAL”这段文字是灰绿色的。",
+                "C. “EKKOLOGICAL”这段文字是亮黄色的。",
+                "D. “EKKOLOGICAL”这段文字是纯黑色的。"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_7": {
+            "id": "4V6G0qYVoBg_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "应用在文字 'EKKOLOGICAL' 上的视觉效果是什么？",
+            "options": [
+                "A. 文字下面有一个阴影效果。",
+                "B. 文字下面有一个微妙的反射效果。",
+                "C. 文字有一个发光的轮廓效果。",
+                "D. 文字没有额外的效果或反射。"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_8": {
+            "id": "4V6G0qYVoBg_8",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "场景中有多少个角色？",
+            "options": [
+                "A. 一个。",
+                "B. 两个。",
+                "C. 三个。",
+                "D. 四个。"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_9": {
+            "id": "4V6G0qYVoBg_9",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "在场景中，框架右侧的古怪角色是否保持不动？",
+            "options": [
+                "A. 是的，框架右侧的古怪角色在场景中保持不动。",
+                "B. 不，框架右侧的古怪角色在场景中经常移动。",
+                "C. 不，古怪角色在场景中稍微移动了一下。",
+                "D. 不，框架右侧的古怪角色直接原地坐下。"
+            ],
+            "answer": "C"
+        },
+        "4V6G0qYVoBg_10": {
+            "id": "4V6G0qYVoBg_10",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "这个角色在向前移动时用他的剑做了什么动作？",
+            "options": [
+                "A. 在战斗中挥舞他的剑。",
+                "B. 用他的剑劈砍右侧的假人。",
+                "C. 用他的剑指向奇怪角色。",
+                "D. 把他的剑举过头顶。"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_11": {
+            "id": "4V6G0qYVoBg_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "文本 'EKKOLOGICAL' 的镜像反射有任何明显的失真吗？",
+            "options": [
+                "A. 文本 'EKKOLOGICAL' 的镜像反射非常清晰。",
+                "B. 文本 'EKKOLOGICAL' 的镜像反射有轻微失真。",
+                "C. 文本 'EKKOLOGICAL' 的镜像反射严重失真。",
+                "D. 文本 'EKKOLOGICAL' 没有镜像反射。"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_12": {
+            "id": "4V6G0qYVoBg_12",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "文本 'EKKOLOGICAL' 的镜像反射是否具有明显的方向性？",
+            "options": [
+                "A. 文本 'EKKOLOGICAL' 的镜像反射直接出现在原文本的下方。",
+                "B. 文本 'EKKOLOGICAL' 的镜像反射出现在原文本的左侧。",
+                "C. 文本 'EKKOLOGICAL' 的镜像反射位于原文本的上方。",
+                "D. 文本 'EKKOLOGICAL' 没有镜像反射。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_13": {
+            "id": "4V6G0qYVoBg_13",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "这场景使用了哪种摄影视角？",
+            "options": [
+                "A. 场景采用了水平正面的视角。",
+                "B. 场景从低角度拍摄。",
+                "C. 场景使用了广角镜头。",
+                "D. 场景以特写和变化的视角。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_14": {
+            "id": "4V6G0qYVoBg_14",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "人型角色姿势或动作有没有变化？",
+            "options": [
+                "A. 有，最后转变为平静、中立的姿态。",
+                "B. 没有，依然保持其之前的动态姿态。",
+                "C. 有，完全背对相机，现已无法看到。",
+                "D. 没有人型的角色在画面中。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_15": {
+            "id": "4V6G0qYVoBg_15",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "场景开始时，人形象与机械形象的相对位置在哪里？",
+            "options": [
+                "A. 人形象在左边，机械形象在右边。",
+                "B. 人形象在右边，机械形象在左边。",
+                "C. 人形象位于机械形象的后面。",
+                "D. 人形象位于机械形象的前面。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_16": {
+            "id": "4V6G0qYVoBg_16",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "场景中的哪些元素增强了画面的吸引力？",
+            "options": [
+                "A. 添加了其他新角色和更复杂的背景元素。",
+                "B. 人形象角色的姿势和外观突然变化，增加了炫酷的特效。",
+                "C. 机械形象的姿势和外观突然变化。",
+                "D. 位于人物下方的反射表面的亮度逐渐增强。"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_17": {
+            "id": "4V6G0qYVoBg_17",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "表面的反射特性如何影响场景？",
+            "options": [
+                "A. 反射特性微妙地复制了人物的形态。",
+                "B. 反射特性营造出显著的对比。",
+                "C. 反射特性模糊了人物。",
+                "D. 反射特性引入了扭曲。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_18": {
+            "id": "4V6G0qYVoBg_18",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "画面右上角有什么？",
+            "options": [
+                "A. 一个显眼的石制炮塔",
+                "B. 一个发光如余烬的中心结构",
+                "C. 一个黑暗的尖刺状生物",
+                "D. 一颗位于遗迹中的球体"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_19": {
+            "id": "4V6G0qYVoBg_19",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频中中心场景的设置是什么？",
+            "options": [
+                "A. 中心场景是一个有草地、石头小路、墙体的战场。",
+                "B. 中心场景是一个被树木和瀑布包围的黑暗森林。",
+                "C. 中心场景是一个拥有金属内饰和霓虹灯光的飞船。",
+                "D. 中心场景是一个有沙丘和古寺的大沙漠。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_20": {
+            "id": "4V6G0qYVoBg_20",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "展示的角色表面是什么颜色？",
+            "options": [
+                "A. 紫色。",
+                "B. 绿色。",
+                "C. 白色。",
+                "D. 蓝色。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_21": {
+            "id": "4V6G0qYVoBg_21",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在场景左下角引入的UI覆盖层的名称是什么？",
+            "options": [
+                "A. Granite Shield",
+                "B. Iron Barrier",
+                "C. Stone Guard",
+                "D. Steel Protector"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_22": {
+            "id": "4V6G0qYVoBg_22",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "名为“Granite Shield”的UI覆盖层所描绘的是什么？",
+            "options": [
+                "A. 它描绘了一个破裂的石片图标。",
+                "B. 它描绘了一颗发光的余烬。",
+                "C. 它描绘了一个黑暗的尖刺外观。",
+                "D. 它描绘了一个草地战场。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_23": {
+            "id": "4V6G0qYVoBg_23",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "在初始战场概览中，有多少个火焰装饰物般的元素？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_24": {
+            "id": "4V6G0qYVoBg_24",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "初始战场概览中，类似于火堆发光的元素位于何处？",
+            "options": [
+                "A. 一个位于左侧的墙体上，另一个是位于右侧的墙体上。",
+                "B. 一个位于右下角的石炮塔附近，另一个是位于左侧草地上。",
+                "C. 一个位于战场中央，另一个是位于右侧岩石高地上。",
+                "D. 一个位于左上方，另一个是位于左下方遗迹附近的。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_25": {
+            "id": "4V6G0qYVoBg_25",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "当炽热的爆炸发生时，突出了什么？",
+            "options": [
+                "A. 熔岩巨兽的装甲变为了灼烧状态",
+                "B. 多个发光石塔的出现",
+                "C. 一个新的草地战场的创建",
+                "D. 一个大型中央石遗迹的出现"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_26": {
+            "id": "4V6G0qYVoBg_26",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "与熔岩巨兽相比类小兵的角色在哪个位置？",
+            "options": [
+                "A. 类小兵的角色在庞然大物的后面。",
+                "B. 类小兵的角色在庞然大物的左边。",
+                "C. 类小兵的角色在庞然大物的两侧。",
+                "D. 类小兵的角色在庞然大物的前面。"
+            ],
+            "answer": "C"
+        },
+        "4V6G0qYVoBg_27": {
+            "id": "4V6G0qYVoBg_27",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "战场的视角是否是全景视角？",
+            "options": [
+                "A. 是的，描述表明战场的全景视角。",
+                "B. 不，是一个特写的、细节放大的视角。",
+                "C. 是的，因为只详细描述了一个角色。",
+                "D. 不，它更关注于单个角色的表情。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_28": {
+            "id": "4V6G0qYVoBg_28",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在墙体上的火盆在整个过程中是否会改变其外观？",
+            "options": [
+                "A. 是的，会改变颜色。",
+                "B. 是的，会改变形状。",
+                "C. 不，外观保持一致。",
+                "D. 是的，会完全消失。"
+            ],
+            "answer": "C"
+        },
+        "4V6G0qYVoBg_29": {
+            "id": "4V6G0qYVoBg_29",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "熔岩巨兽最初被安置在哪里？",
+            "options": [
+                "A. 靠近场景的中心偏右",
+                "B. 靠近左上象限",
+                "C. 靠近左下象限",
+                "D. 靠近场景的上中心"
+            ],
+            "answer": "C"
+        },
+        "4V6G0qYVoBg_30": {
+            "id": "4V6G0qYVoBg_30",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "战场环境由哪些自然元素组成？",
+            "options": [
+                "A. 战场环境包括草地和花朵等自然元素。",
+                "B. 战场环境包括野怪和石头小径等元素。",
+                "C. 战场环境包括水体和雪山等自然元素。",
+                "D. 战场环境包括岩石边缘和机关这样的人造特色。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_31": {
+            "id": "4V6G0qYVoBg_31",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "这个场景中的人形木桩有什么特点？",
+            "options": [
+                "A. 戴着宽边帽，穿着绿色服装。",
+                "B. 穿着金色盔甲，披着红色斗篷。",
+                "C. 穿着银色服装，并戴着头盔。",
+                "D. 穿着蓝色长袍，拿着盾牌。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_32": {
+            "id": "4V6G0qYVoBg_32",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "界面左下角的物品是什么？",
+            "options": [
+                "A. 图标并标记有字母“Q”。",
+                "B. 一个发光的橙色球体。",
+                "C. 一个持矛的类人冠军的图像。",
+                "D. 标识路径的战场地图。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_33": {
+            "id": "4V6G0qYVoBg_33",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "地图上放置了多少个发光的火焰装饰？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_34": {
+            "id": "4V6G0qYVoBg_34",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "这个场景有没有包含水元素？",
+            "options": [
+                "A. 有，有河道",
+                "B. 没有，是火山地形",
+                "C. 有，有温泉",
+                "D. 这里只有干土地形"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_35": {
+            "id": "4V6G0qYVoBg_35",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "是什么微妙的迹象表明熔岩巨兽可能正在激活一种能力？",
+            "options": [
+                "A. 蓝色光芒从生物身上散发出来。",
+                "B. 该生物发出一声响亮的咆哮。",
+                "C. 类人型的英雄摆出防御姿势。",
+                "D. 发光的橙色球体改变了颜色。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_36": {
+            "id": "4V6G0qYVoBg_36",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "这只兽状生物在战场上最先朝哪个方向移动？",
+            "options": [
+                "A. 朝石铺区域的中路移动。",
+                "B. 正撤退至战场的左下象限。",
+                "C. 正绕着人形木桩环绕。",
+                "D. 正朝左上象限移动。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_37": {
+            "id": "4V6G0qYVoBg_37",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "是否有任何迹象表明摄像机在移动？",
+            "options": [
+                "A. 没有，没有任何迹象表明摄像机在移动。",
+                "B. 有，摄像机正在缓慢地横移穿过战场。",
+                "C. 有，摄像机正在拉近对准那位类人冠军。",
+                "D. 有，摄像机正在拉远视角俯瞰战场。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_38": {
+            "id": "4V6G0qYVoBg_38",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "游戏界面有任何变化吗？",
+            "options": [
+                "A. 有，出现了更多的技能图标。",
+                "B. 有，主动技能图标变了。",
+                "C. 没有，游戏界面保持一致。",
+                "D. 有，技能图标下面的点增多了。"
+            ],
+            "answer": "D"
+        },
+        "4V6G0qYVoBg_39": {
+            "id": "4V6G0qYVoBg_39",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "人形木桩在画面中相对于巨兽的位置在哪里？",
+            "options": [
+                "A. 相对于巨兽在画面的左下方。",
+                "B. 相对于巨兽在画面的右下方。",
+                "C. 相对于巨兽在画面的左上方。",
+                "D. 相对于巨兽在画面的右上方。"
+            ],
+            "answer": "D"
+        },
+        "4V6G0qYVoBg_40": {
+            "id": "4V6G0qYVoBg_40",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "战场的环境是什么样的？",
+            "options": [
+                "A. 绿树成荫，石板小路，火炬的光芒四处闪烁。",
+                "B. 阴影覆盖，黑云密布。",
+                "C. 满是废墟和最近战斗的残骸。",
+                "D. 冰冷荒凉，地面覆盖着雪，寒风刺骨。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_41": {
+            "id": "4V6G0qYVoBg_41",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "墨菲特做了什么?",
+            "options": [
+                "A. 墨菲特执行了'Unstoppable Force'技能。",
+                "B. 墨菲特静静地观察战场而不参与战斗。",
+                "C. 墨菲特撤退到防御位置并躲避冲突。",
+                "D. 墨菲特呼叫援军而不是直接采取行动。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_42": {
+            "id": "4V6G0qYVoBg_42",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "在战场恢复平整状态后，有多少人形木桩完好无损？",
+            "options": [
+                "A. 一个人形木桩完好无损。",
+                "B. 两个人形木桩完好无损。",
+                "C. 三个人形木桩完好无损。",
+                "D. 四个人形木桩完好无损。"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_43": {
+            "id": "4V6G0qYVoBg_43",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "爆炸后战场会恢复到原来的状态吗？",
+            "options": [
+                "A. 是的，战场重新形成平滑、完整的石质道路。",
+                "B. 不是，战场依然破裂且混乱。",
+                "C. 是的，战场恢复到原始状态，但增加了水域。",
+                "D. 不是，战场永久留有伤痕，变得无法居住。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_44": {
+            "id": "4V6G0qYVoBg_44",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "当兽型生物发动攻击时会发生什么？",
+            "options": [
+                "A. 地面裂开，并在拔起的地形上形成一个大土块。",
+                "B. 召唤人形木桩怪，而战场保持不变。",
+                "C. 制造出刺眼的光芒，令附近的人形木桩眩晕。",
+                "D. 退入森林，而人形木桩摧毁它的防御塔。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_45": {
+            "id": "4V6G0qYVoBg_45",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "在这个生物的攻击过程中火焰朝哪个方向移动？",
+            "options": [
+                "A. 火焰向上移动进入天空。",
+                "B. 火焰从熔岩巨兽向外扇形扩散。",
+                "C. 火焰没有移动的现象。",
+                "D. 火焰呈环绕生物的圆周运动。"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_46": {
+            "id": "4V6G0qYVoBg_46",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "岩石碎片向哪个方向移动？",
+            "options": [
+                "A. 碎片向人形木桩移动。",
+                "B. 碎片向装甲野兽移动。",
+                "C. 碎片向防御塔移动。",
+                "D. 碎片从来没有移动过。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_47": {
+            "id": "4V6G0qYVoBg_47",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "哪种类型的镜头捕捉了墨菲特的动态跳跃或攻击？",
+            "options": [
+                "A. 近景镜头。",
+                "B. 广角镜头。",
+                "C. 俯拍镜头。",
+                "D. 静态镜头。"
+            ],
+            "answer": "C"
+        },
+        "4V6G0qYVoBg_48": {
+            "id": "4V6G0qYVoBg_48",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "生物攻击后，地形是如何恢复的？",
+            "options": [
+                "A. 地形恢复成光滑、完整的石头路径。",
+                "B. 地形变成了炽热的熔岩景观。",
+                "C. 地形永久充满了陨石坑和锯齿状结构。",
+                "D. 地形被茂盛的绿色植物和花朵覆盖。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_49": {
+            "id": "4V6G0qYVoBg_49",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "装甲巨兽在使用他的'Unstoppable Force'技能时有什么视觉提示？",
+            "options": [
+                "A. 尘土和碎片，爆炸波纹，以及地形突起。",
+                "B. 绿色闪光，火焰爆炸，以及发光光芒。",
+                "C. 明亮的光环，电流噼啪声，以及能量扩散。",
+                "D. 闪烁的小径，发光的仆从，以及蓝色光迹。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_50": {
+            "id": "4V6G0qYVoBg_50",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "动画角色的姿势是什么？",
+            "options": [
+                "A. 双手摆出说唱的手势动作。",
+                "B. 双手握拳并置于身体两侧。",
+                "C. 双臂交叉于胸前，展现出自信。",
+                "D. 双手向外伸出，双掌向前。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_51": {
+            "id": "4V6G0qYVoBg_51",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "这个动画角色有戴手套吗？",
+            "options": [
+                "A. 是的，但他戴的是露指的手套。",
+                "B. 不，这个动画角色没有戴手套。",
+                "C. 是的，这个动画角色有戴手套。",
+                "D. 描述中没有提到手套。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_52": {
+            "id": "4V6G0qYVoBg_52",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "动画角色的右手在做什么动作？",
+            "options": [
+                "A. 右手食指向上。",
+                "B. 右手握成拳头。",
+                "C. 右手伸展出去。",
+                "D. 右手放在髋部。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_53": {
+            "id": "4V6G0qYVoBg_53",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "以画面视角来看，黄色闪电位于哪一侧？",
+            "options": [
+                "A. 黄色闪电位于角色头的左侧。",
+                "B. 黄色闪电位于角色头的右侧。",
+                "C. 黄色闪电位于角色头的正上方。",
+                "D. 黄色闪电位于角色头的下方。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_54": {
+            "id": "4V6G0qYVoBg_54",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "使用了什么类型的镜头来聚焦于动画角色？",
+            "options": [
+                "A. 使用中景特写镜头。",
+                "B. 使用全景镜头。",
+                "C. 使用特写镜头。",
+                "D. 使用远景镜头。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_55": {
+            "id": "4V6G0qYVoBg_55",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "场景的环境是什么样的？",
+            "options": [
+                "A. 一个混乱的战斗场景。",
+                "B. 一个充满未来感的场景。",
+                "C. 一个现代都市环境。",
+                "D. 一个蓝色色调和平平花园。"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_56": {
+            "id": "4V6G0qYVoBg_56",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "有哪种视觉元素伴随着动画角色的头部？",
+            "options": [
+                "A. 一个黄色闪电。",
+                "B. 一对霓虹翅膀。",
+                "C. 一个明亮的光环。",
+                "D. 一个发光的新月。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_57": {
+            "id": "4V6G0qYVoBg_57",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "场景开头显示了什么文本？",
+            "options": [
+                "A. 在视频开头显示的文本是 'EKKOLOGICAL'。",
+                "B. 在视频开头显示的文本是 'BATTLEFIELD LEGENDS'。",
+                "C. 在视频开头显示的文本是 'SPIKED WARRIOR'。",
+                "D. 在视频开头显示的文本是 'ANIMATED FUTURE'。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_58": {
+            "id": "4V6G0qYVoBg_58",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "‘EKKOLOGICAL’这个文字使用了哪种字体风格？",
+            "options": [
+                "A. 一种粗体、未来感的字体",
+                "B. 一种随意、手写风格的字体",
+                "C. 一种简洁、衬线风格的字体",
+                "D. 一种机械化、打字机风格的字体"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_59": {
+            "id": "4V6G0qYVoBg_59",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "场景开头'EKKOLOGICAL'文字的颜色是什么？",
+            "options": [
+                "A. 灰绿色",
+                "B. 霓虹紫",
+                "C. 明亮的黄色",
+                "D. 白色"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_60": {
+            "id": "4V6G0qYVoBg_60",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在使用W+R技能时，人形木桩和熔岩巨兽会发生什么？",
+            "options": [
+                "A. 他们被爆炸的残骸和能量遮蔽。",
+                "B. 他们被一股旋转的光涡包裹。",
+                "C. 他们从现场彻底消失。",
+                "D. 他们转变成更强大的外形。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_61": {
+            "id": "4V6G0qYVoBg_61",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "在使用W+R攻击过后，战场会发生什么？",
+            "options": [
+                "A. 战场重整，露出重构的景象。",
+                "B. 战场完全崩塌。",
+                "C. 装甲生物变得更大。",
+                "D. 战场转变成一个宁静的草地。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_62": {
+            "id": "4V6G0qYVoBg_62",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "场景开始时，白发角色的动画展示之后是什么?",
+            "options": [
+                "A. 场景转换回宁静的战场。",
+                "B. 随后进行了青色的场景切换。",
+                "C. 动画角色开始了他的动作序列。",
+                "D. 转移一个与之形成对比的新角色。"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_63": {
+            "id": "4V6G0qYVoBg_63",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在视频开始时，动画主要的视觉焦点是什么？",
+            "options": [
+                "A. 在干净白色背景上的微妙镜像反射。",
+                "B. 中心位置的尖刺生物。",
+                "C. 夹在中央人物两侧的两个人形的木桩角色。",
+                "D. 角色头部左侧的黄色闪电和小型动画形状。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_64": {
+            "id": "4V6G0qYVoBg_64",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "场景开始时，左侧的角色动作如何？",
+            "options": [
+                "A. 灵活而优雅。",
+                "B. 静止且僵硬。",
+                "C. 像机器人一样。",
+                "D. 缓慢且迟钝。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_65": {
+            "id": "4V6G0qYVoBg_65",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "场景开始时，右侧的机械人物的姿势是什么样的？",
+            "options": [
+                "A. 机械人物姿态静止僵硬。",
+                "B. 机械人物躺在地上。",
+                "C. 机械人物正在旋转运动。",
+                "D. 机械人物正在跳跃运动。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_66": {
+            "id": "4V6G0qYVoBg_66",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "猛烈爆炸后战场如何变化？",
+            "options": [
+                "A. 猛烈爆炸后，战场复原，从混乱转为平静。",
+                "B. 猛烈爆炸后，战场被完全吞噬在火焰之中。",
+                "C. 猛烈爆炸后，战场变成了一片冰冻的寒冷区域。",
+                "D. 猛烈爆炸后，战场变成了一个繁忙的集市。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_67": {
+            "id": "4V6G0qYVoBg_67",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "爆炸发生后，战场上会出现哪些具体变化？",
+            "options": [
+                "A. 地形恢复到开始时的完好模样。",
+                "B. 带刺的生物变成了一个类人生物。",
+                "C. 火炬光变暗，角色从视线中消失。",
+                "D. 战场变得杂草丛生，并出现废墟。"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_68": {
+            "id": "4V6G0qYVoBg_68",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "W+R技能展示后会有什么转换？",
+            "options": [
+                "A. 场景转变为森林环境。",
+                "B. 场景转变为动画角色呈现。",
+                "C. 场景转变为一个空间站。",
+                "D. 场景转变为一个城市街道。"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_69": {
+            "id": "4V6G0qYVoBg_69",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "战场中墙体上的发光物体的意义是什么？",
+            "options": [
+                "A. 发光物体增强了战场的神秘和策略元素。",
+                "B. 发光物体仅作为装饰性照明。",
+                "C. 发光物体是战场地下埋藏的宝藏的指示物。",
+                "D. 发光物体代表场景中计时事件的倒计时机制。"
+            ],
+            "answer": "B"
+        }
+    }
+}

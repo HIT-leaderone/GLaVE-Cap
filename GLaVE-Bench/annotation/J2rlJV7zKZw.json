@@ -1,0 +1,1798 @@
+{
+    "scene_hint": {
+        "0": "画面中有一个装着东西的碗",
+        "1": "向容器里加入第一样东西",
+        "2": "向容器里加入第二样东西",
+        "3": "向容器里加入第三样东西",
+        "4": "向容器里加入第四样东西",
+        "5": "向容器里加入第五样东西",
+        "6": "向容器里加入第六样东西",
+        "7": "向容器里加入第七样东西",
+        "8": "搅拌机在玻璃容器中混合层次。",
+        "9": "奶油混合物被倒入碗中。",
+        "10": "一个黑色背景上有白色标志和文字。"
+    },
+    "qa": {
+        "J2rlJV7zKZw_0": {
+            "id": "J2rlJV7zKZw_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "碗相对于桌面的位置在哪里？",
+            "options": [
+                "A. 碗位于桌面的中央。",
+                "B. 碗位于桌面的右侧。",
+                "C. 碗位于桌面的左侧。",
+                "D. 碗不在桌面上。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_1": {
+            "id": "J2rlJV7zKZw_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "画面中的场景是在什么地点？",
+            "options": [
+                "A. 场景是一家服装店。",
+                "B. 场景可能是一个厨房或用餐区。",
+                "C. 场景是一个图书馆的自习室。",
+                "D. 场景是一个艺术画廊。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_2": {
+            "id": "J2rlJV7zKZw_2",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "图中碗的独特特征是什么？",
+            "options": [
+                "A. 碗的边缘有锯齿图案。",
+                "B. 碗上装饰有花卉图案。",
+                "C. 碗的表面是纯白色。",
+                "D. 碗由透明玻璃制成。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_3": {
+            "id": "J2rlJV7zKZw_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "背景上显示的是什么词语？",
+            "options": [
+                "A. FOOD",
+                "B. MEAT",
+                "C. SAUCE",
+                "D. CHEF"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_4": {
+            "id": "J2rlJV7zKZw_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "最终场景中是否有前景的文字？",
+            "options": [
+                "A. 是的，前景的文字仍然存在。",
+                "B. 不，前景的文字已被移除。",
+                "C. 是的，前景的文字部分可见。",
+                "D. 不，前景的文字从未存在。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_5": {
+            "id": "J2rlJV7zKZw_5",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "相机角度在图像中突出了什么？",
+            "options": [
+                "A. 相机角度突出了蛋黄酱的旋涡。",
+                "B. 相机角度强调了碗上的图案。",
+                "C. 相机角度聚焦在背景中文字上。",
+                "D. 相机角度吸引注意力到台面。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_6": {
+            "id": "J2rlJV7zKZw_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "灯光在图像中产生了什么影响？",
+            "options": [
+                "A. 灯光突出了碗上的图案。",
+                "B. 灯光在蛋黄酱上投下了阴影。",
+                "C. 灯光使背景文字变得模糊。",
+                "D. 灯光在台面上创造了聚光效果。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_7": {
+            "id": "J2rlJV7zKZw_7",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "碗边缘的图案看起来朝哪个方向移动？",
+            "options": [
+                "A. 看起来呈垂直方向移动。",
+                "B. 起来呈对角方向移动。",
+                "C. 看起来呈水平方向移动。",
+                "D. 看起来呈圆周运动。"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_8": {
+            "id": "J2rlJV7zKZw_8",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "图像中使用了哪种类型的摄像机角度？",
+            "options": [
+                "A. 摄像机角度在视线水平。",
+                "B. 摄像机角度从上方拍摄。",
+                "C. 摄像机角度从下方拍摄。",
+                "D. 摄像机大角度倾斜。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_9": {
+            "id": "J2rlJV7zKZw_9",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "容器在画面中的什么位置？",
+            "options": [
+                "A. 位于画面的中央。",
+                "B. 位于画面的上方。",
+                "C. 位于画面的左侧。",
+                "D. 位于画面的右侧。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_10": {
+            "id": "J2rlJV7zKZw_10",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景使用了哪种类型的照明？",
+            "options": [
+                "A. 使用明亮而刺眼的照明。",
+                "B. 使用昏暗而有情调的照明。",
+                "C. 使用柔和而散射的照明。",
+                "D. 使用彩色和集中的照明。"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_11": {
+            "id": "J2rlJV7zKZw_11",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中突出的视觉元素是什么？",
+            "options": [
+                "A. 背景上的字母。",
+                "B. 装有内容物的碗。",
+                "C. 黄色的液体。",
+                "D. 深色背景。"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_12": {
+            "id": "J2rlJV7zKZw_12",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "谁在将液体倒入容器中？",
+            "options": [
+                "A. 厨师",
+                "B. 机械臂",
+                "C. 无法得知",
+                "D. 厨师助手"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_13": {
+            "id": "J2rlJV7zKZw_13",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "这个场景中，碗有什么特别之处？",
+            "options": [
+                "A. 碗里盛满了奶油状的东西。",
+                "B. 碗里装满了水果。",
+                "C. 碗是空的。",
+                "D. 碗正在被清洗。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_14": {
+            "id": "J2rlJV7zKZw_14",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "场景中容器的用途是什么？",
+            "options": [
+                "A. 被用于将液体倒入其中。",
+                "B. 作为一个装饰品展示。",
+                "C. 装有五颜六色的水果。",
+                "D. 盛放成品餐点的容器。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_15": {
+            "id": "J2rlJV7zKZw_15",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "背景中的文字在场景初期显示了什么？",
+            "options": [
+                "A. 'COOK WITH'。",
+                "B. 'PREPARE'。",
+                "C. 'SERVE'。",
+                "D. 'ENJOY'。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_16": {
+            "id": "J2rlJV7zKZw_16",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "摄像机是否保持静止？",
+            "options": [
+                "A. 是的，摄像机保持静止。",
+                "B. 不，摄像机会调整视角下移。",
+                "C. 不，摄像机会调整视角右移。",
+                "D. 不，摄像机会更近地拉近镜头。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_17": {
+            "id": "J2rlJV7zKZw_17",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "当东西被倒入容器时是什么样的？",
+            "options": [
+                "A. 是稳定被倒入的。",
+                "B. 溢出玻璃容器。",
+                "C. 产生了混乱飞溅。",
+                "D. 只捕捉到了文本的过渡。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_18": {
+            "id": "J2rlJV7zKZw_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这个场景的背景是什么？",
+            "options": [
+                "A. 场景的背景是一个烹饪环境。",
+                "B. 场景的背景是一个实验室。",
+                "C. 场景的背景是一个办公室。",
+                "D. 场景的背景是一个花园。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_19": {
+            "id": "J2rlJV7zKZw_19",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "场景中是否描绘了明显的人类动作？",
+            "options": [
+                "A. 是的，有人正在向容器中倒液体。",
+                "B. 是的，有人对着容器敲了一下鸡蛋。",
+                "C. 不，场景中没有描绘任何人类动作。",
+                "D. 是的，一只手正在调整量杯。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_20": {
+            "id": "J2rlJV7zKZw_20",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "场景中是否描绘了任何可见的人类特征？",
+            "options": [
+                "A. 是的，可以看到人类的手。",
+                "B. 是的，有一个人脸的倒影。",
+                "C. 不，这个场景中没有任何人类特征。",
+                "D. 是的，有一个人的影子。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_21": {
+            "id": "J2rlJV7zKZw_21",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "容器里加入了什么内容？",
+            "options": [
+                "A. 鸡蛋",
+                "B. 生肉",
+                "C. 柠檬",
+                "D. 牛奶"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_22": {
+            "id": "J2rlJV7zKZw_22",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "量杯中能看到多少个加入的东西？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 零个"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_23": {
+            "id": "J2rlJV7zKZw_23",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "容器上是否有刻度用于测量体积？",
+            "options": [
+                "A. 是的，刻度上的数字有两列。",
+                "B. 不，没有可见的刻度或标记用于测量体积。",
+                "C. 是的，刻度上的数字只有一列。",
+                "D. 不，只有装饰性的文字。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_24": {
+            "id": "J2rlJV7zKZw_24",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "场景中的容器是否有移动？",
+            "options": [
+                "A. 是的，容器有旋转移动。",
+                "B. 不，容器保持静止状态。",
+                "C. 是的，容器有左右晃动。",
+                "D. 是的，容器被碰倒了。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_25": {
+            "id": "J2rlJV7zKZw_25",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "容器上显示的文字是什么？",
+            "options": [
+                "A. 'whole egg'",
+                "B. '20'",
+                "C. 'WHOLE'",
+                "D. 'MEAT'"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_26": {
+            "id": "J2rlJV7zKZw_26",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "量杯正面最大的气泡位于什么位置？",
+            "options": [
+                "A. 量杯底部附近",
+                "B. 靠近2毫升刻度",
+                "C. 靠近4毫升刻度",
+                "D. 在量杯的顶部"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_27": {
+            "id": "J2rlJV7zKZw_27",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "描绘的主要场景是什么？",
+            "options": [
+                "A. 一个量杯放在桌面上。",
+                "B. 一个学校实验室。",
+                "C. 一个繁忙的厨房。",
+                "D. 一个杂乱的卧室。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_28": {
+            "id": "J2rlJV7zKZw_28",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "有观察到任何人类的存在吗？",
+            "options": [
+                "A. 是的，有几个人正在使用量杯。",
+                "B. 是的，可以短暂看到一只手。",
+                "C. 不，视频中没有观察到人类的存在。",
+                "D. 是的，量杯中映出了一个人的倒影。"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_29": {
+            "id": "J2rlJV7zKZw_29",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "这个量杯的物理特征是什么？",
+            "options": [
+                "A. 量杯是透明且圆柱形的，带有垂直刻度。",
+                "B. 量杯是不透明的，呈矩形，看不到刻度。",
+                "C. 量杯是圆形的，没有任何标记。",
+                "D. 这个量杯带有彩色设计和水平刻度。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_30": {
+            "id": "J2rlJV7zKZw_30",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "量杯内物品是什么样的？",
+            "options": [
+                "A. 橙色蛋黄，被略微发黄液体包围。",
+                "B. 红色蛋黄，被清澈的液体包围。",
+                "C. 淡黄色蛋黄，被绿色的液体包围。",
+                "D. 深棕色蛋黄，被蓝色液体包围。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_31": {
+            "id": "J2rlJV7zKZw_31",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "场景中总共有多少英文文本元素？",
+            "options": [
+                "A. 一个文本元素",
+                "B. 两个文本元素",
+                "C. 三个文本元素",
+                "D. 没有文本元素"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_32": {
+            "id": "J2rlJV7zKZw_32",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "背景是否都能看到“WHOLE”这个文本？",
+            "options": [
+                "A. 是的，背景一直能看到“WHOLE”这个文本。",
+                "B. 不，“WHOLE”这个文本在背景中不可见。",
+                "C. 是的，但它随着时间推移变得有些模糊。",
+                "D. 不，“WHOLE”文本被“MEAT”遮挡了一部分。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_33": {
+            "id": "J2rlJV7zKZw_33",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "摄像机发生了什么变化？",
+            "options": [
+                "A. 摄像机角度没有变化。",
+                "B. 摄像机角度微微向下倾斜。",
+                "C. 摄像机角度逐渐向上移动。",
+                "D. 摄像机横向移动。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_34": {
+            "id": "J2rlJV7zKZw_34",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "量杯里的蛋黄和气泡会随着时间移动吗？",
+            "options": [
+                "A. 是的，蛋黄和气泡有轻微晃动。",
+                "B. 不，量杯里的蛋黄和气泡保持静止不动。",
+                "C. 蛋黄会移动，但气泡保持静止。",
+                "D. 气泡会移动，但蛋黄保持在原地。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_35": {
+            "id": "J2rlJV7zKZw_35",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "这个场景主要的前景文字是什么？",
+            "options": [
+                "A. 'dijon mustard'.",
+                "B. 'whole egg'.",
+                "C. 'MEAT'.",
+                "D. 'WHOLE'."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_36": {
+            "id": "J2rlJV7zKZw_36",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "细小的白色颗粒状主要散布在量杯内哪个区域？",
+            "options": [
+                "A. 细小的白色颗粒状主要散布在混合物的中偏左侧。",
+                "B. 细小的白色颗粒状主要散布在混合物的中偏右侧。",
+                "C. 细小的白色颗粒状均匀分布在整个混合物中。",
+                "D. 细小的白色颗粒状主要散布在混合物的底部。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_37": {
+            "id": "J2rlJV7zKZw_37",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "量杯放在什么表面上？",
+            "options": [
+                "A. 玻璃台面。",
+                "B. 木质表面。",
+                "C. 大理石表面。",
+                "D. 金属托盘。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_38": {
+            "id": "J2rlJV7zKZw_38",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "这个场景的照明情况如何？",
+            "options": [
+                "A. 场景光线均匀柔和。",
+                "B. 场景光线强烈。",
+                "C. 场景光线昏暗。",
+                "D. 场景光线五颜六色。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_39": {
+            "id": "J2rlJV7zKZw_39",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "量杯中蛋黄的状态是什么？",
+            "options": [
+                "A. 悬浮在粘稠的淡黄色液体中。",
+                "B. 蛋黄完全溶解在清澈的液体中。",
+                "C. 蛋黄是固体，静置在杯底。",
+                "D. 蛋黄破裂并均匀混入液体中。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_40": {
+            "id": "J2rlJV7zKZw_40",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "量杯中液体混合物的体积是多少？",
+            "options": [
+                "A. 量杯中液体混合物的体积大约是3毫升。",
+                "B. 量杯中液体混合物的体积大约是4毫升。",
+                "C. 量杯中液体混合物的体积大约是5毫升。",
+                "D. 量杯中液体混合物的体积大约是6毫升。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_41": {
+            "id": "J2rlJV7zKZw_41",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "量杯下面的表面会改变纹理吗？",
+            "options": [
+                "A. 不，它的纹理保持不变。",
+                "B. 是的，它变得更粗糙。",
+                "C. 是的，它变得更光滑。",
+                "D. 是的，它变成了玻璃表面。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_42": {
+            "id": "J2rlJV7zKZw_42",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "通过杯子的透明部分，可以看到背景中的哪些细节？",
+            "options": [
+                "A. 可以隐约看到背景文字的轮廓，包括字母'MEAT'。",
+                "B. 背景中什么都没有。",
+                "C. 可以清晰地读取完整的单词'measuring'。",
+                "D. 可以看到各种厨房用具的生动描绘。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_43": {
+            "id": "J2rlJV7zKZw_43",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "相机镜头如何突出量杯及其内容物的特点？",
+            "options": [
+                "A. 相机镜头使用一致的角度、焦点和景深。",
+                "B. 相机镜头突然放大混合物。",
+                "C. 相机镜头采用俯视角度。",
+                "D. 相机镜头使背景保持清晰焦点。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_44": {
+            "id": "J2rlJV7zKZw_44",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景中屏幕上覆盖的文字是什么？",
+            "options": [
+                "A. 'Sugar,'",
+                "B. 'Salt,'",
+                "C. 'dijon mustard,'",
+                "D. 'butter' to 'Honey,'"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_45": {
+            "id": "J2rlJV7zKZw_45",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "浅色颗粒在量杯内位于什么位置？",
+            "options": [
+                "A. 浅色颗粒随机分布在液体中。",
+                "B. 浅色颗粒主要位于液体顶部的中偏右侧。",
+                "C. 浅色颗粒主要位于液体的中央。",
+                "D. 浅色颗粒主要位于液体的底部。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_46": {
+            "id": "J2rlJV7zKZw_46",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景的整体环境是什么？",
+            "options": [
+                "A. 场景集中在一个放置在表面上的量杯。",
+                "B. 场景聚焦于一位厨师在厨房中准备食材。",
+                "C. 场景展示了一张餐桌，上面摆满了菜肴和调味品。",
+                "D. 场景描绘了一个市场摊位，展示了各种食材。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_47": {
+            "id": "J2rlJV7zKZw_47",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "这个场景的背景是什么样的？",
+            "options": [
+                "A. 背景是清晰的，单词'MEAT'清晰可见。",
+                "B. 背景是模糊的，能够粗略看到单词'MEAT'。",
+                "C. 背景中有抽象几何图形",
+                "D. 背景中什么都没有。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_48": {
+            "id": "J2rlJV7zKZw_48",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "场景中是否描述了任何人类的存在？",
+            "options": [
+                "A. 是的，有人正在添加水。",
+                "B. 不，没有描述任何人类的存在。",
+                "C. 是的，有人正在摇晃杯子。",
+                "D. 是的，有人正在搅拌杯子。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_49": {
+            "id": "J2rlJV7zKZw_49",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "量杯的形状是什么？",
+            "options": [
+                "A. 量杯是圆柱形的。",
+                "B. 量杯是球形的。",
+                "C. 量杯是矩形的。",
+                "D. 量杯是锥形的。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_50": {
+            "id": "J2rlJV7zKZw_50",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "量杯的透明度如何？",
+            "options": [
+                "A. 量杯是不透明的。",
+                "B. 量杯是清晰透明的。",
+                "C. 量杯是模糊半透明的。",
+                "D. 量杯是部分透明的。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_51": {
+            "id": "J2rlJV7zKZw_51",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "量杯上可观察到的最大刻度是多少？",
+            "options": [
+                "A. 10。",
+                "B. 9。",
+                "C. 8。",
+                "D. 7。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_52": {
+            "id": "J2rlJV7zKZw_52",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "量杯里装的是什么？",
+            "options": [
+                "A. 量杯里装有放了柠檬片的清水。",
+                "B. 量杯里装有一个橙黄色的蛋黄。",
+                "C. 量杯里装有与水混合成糊状的面粉。",
+                "D. 量杯里装有浸泡在清汤中的切碎蔬菜。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_53": {
+            "id": "J2rlJV7zKZw_53",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "场景中展示的文字是什么？",
+            "options": [
+                "A. 'Salt'.",
+                "B. 'Vinegar'.",
+                "C. 'Milk'.",
+                "D. 'Pepper'."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_54": {
+            "id": "J2rlJV7zKZw_54",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "量杯中的液体是否有任何运动？",
+            "options": [
+                "A. 是的，量杯中的液体正在旋转。",
+                "B. 是的，量杯中的液体略有上升。",
+                "C. 不，量杯中的液体保持静止。",
+                "D. 不，量杯中的液体正在蒸发。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_55": {
+            "id": "J2rlJV7zKZw_55",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "液体中有任何可见的特征吗？",
+            "options": [
+                "A. 没有，液体看起来完全光滑且没有特征。",
+                "B. 有，液体中可以看到小气泡和浅色颗粒。",
+                "C. 有，液体中有大块物质和泡沫状的质地。",
+                "D. 没有，液体完全不透明，无法看到任何特征。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_56": {
+            "id": "J2rlJV7zKZw_56",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "摄像机哪个角度强调场景中的量杯？",
+            "options": [
+                "A. 稳定的摄像机角度。",
+                "B. 从上往下的角度。",
+                "C. 动态摄像机角度。",
+                "D. 低角度视角。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_57": {
+            "id": "J2rlJV7zKZw_57",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "挤压酸橙切片时，手的位置在画面中的哪里？",
+            "options": [
+                "A. 手位于图像上部的中央位置。",
+                "B. 手位于画面左下角。",
+                "C. 手位于画面右侧边缘。",
+                "D. 手接近画面中心但更靠近底部。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_58": {
+            "id": "J2rlJV7zKZw_58",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "视频中描绘的场景可能是什么？",
+            "options": [
+                "A. 场景是厨房。",
+                "B. 场景是一个户外花园。",
+                "C. 场景是餐厅。",
+                "D. 场景是一个商业办公室。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_59": {
+            "id": "J2rlJV7zKZw_59",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "视频中，手正在用酸橙切片做什么？",
+            "options": [
+                "A. 手正在挤压一片鲜绿色的酸橙角。",
+                "B. 手正在把酸橙切成更小的块。",
+                "C. 手正在剥去酸橙角的皮并丢弃。",
+                "D. 手正在把酸橙角放在砧板上而没有挤压它。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_60": {
+            "id": "J2rlJV7zKZw_60",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "被挤压的酸橙切片有哪些视觉特征？",
+            "options": [
+                "A. 酸橙切片呈现出鲜亮的绿色。",
+                "B. 酸橙切片呈现出浅黄色。",
+                "C. 酸橙切片呈现出深绿色。",
+                "D. 酸橙切片为鲜艳的橙色。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_61": {
+            "id": "J2rlJV7zKZw_61",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "挤压时酸橙切片处于什么物理状态？",
+            "options": [
+                "A. 酸橙切片完全分解。",
+                "B. 酸橙切片部分被压缩。",
+                "C. 酸橙切片完全完好无损。",
+                "D. 酸橙切片已干燥且易碎。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_62": {
+            "id": "J2rlJV7zKZw_62",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "文本 'COOK WITH MEAT' 出现在多少行中？",
+            "options": [
+                "A. 一行",
+                "B. 两行",
+                "C. 三行",
+                "D. 四行"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_63": {
+            "id": "J2rlJV7zKZw_63",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "是否有覆盖文字标识？",
+            "options": [
+                "A. 是的，量杯上可见覆盖文字'lime juice'。",
+                "B. 不，没有覆盖文字标识液体。",
+                "C. 是的，量杯上可见覆盖文字'apple juice'。",
+                "D. 是的，量杯上可见覆盖文字'lemon juice'。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_64": {
+            "id": "J2rlJV7zKZw_64",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景背景中可以看到哪些元素？",
+            "options": [
+                "A. 背景中可见星星图案和“WITH MEAT”的部分。",
+                "B. 背景中清晰可见一个带刀的砧板以及一些香草。",
+                "C. 背景明显展示了一本带有石灰主题食谱的烹饪书。",
+                "D. 背景中整齐摆放着一套量杯和量匙。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_65": {
+            "id": "J2rlJV7zKZw_65",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "这个场景发生在哪里？",
+            "options": [
+                "A. 场景发生在一个木质表面。",
+                "B. 场景发生在玻璃桌上。",
+                "C. 场景发生在大理石台面上。",
+                "D. 场景发生在金属台面上。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_66": {
+            "id": "J2rlJV7zKZw_66",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "量杯的位置布置是什么样的？",
+            "options": [
+                "A. 量杯被居中摆放。",
+                "B. 量杯被放置在偏离中心的位置。",
+                "C. 量杯被放在金属台面上。",
+                "D. 量杯周围摆满了各种工具和食材。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_67": {
+            "id": "J2rlJV7zKZw_67",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "开始时，视频中的人类在做什么？",
+            "options": [
+                "A. 那个人用手动挤压一个青柠到量杯里。",
+                "B. 那个人开始用搅拌器搅拌配料。",
+                "C. 那个人将植物油倒入量杯里。",
+                "D. 那个人直接把鸡蛋打入量杯里。"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_68": {
+            "id": "J2rlJV7zKZw_68",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "量杯中的液体水平会发生什么变化？",
+            "options": [
+                "A. 液体水平上升。",
+                "B. 液体水平完全没有变化。",
+                "C. 液体水平随着时间减少。",
+                "D. 由于杯子倾斜，液体水平发生变化。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_69": {
+            "id": "J2rlJV7zKZw_69",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "量杯中的混合物会发生什么？",
+            "options": [
+                "A. 混合物开始均质化。",
+                "B. 混合物分成明显的层。",
+                "C. 混合物蒸发。",
+                "D. 混合物保持完全不变。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_70": {
+            "id": "J2rlJV7zKZw_70",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "哪种类型的镜头用于强调量杯？",
+            "options": [
+                "A. 广角镜头",
+                "B. 特写镜头",
+                "C. 鸟瞰镜头",
+                "D. 远景镜头"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_71": {
+            "id": "J2rlJV7zKZw_71",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "屏幕上显示的文字是什么？",
+            "options": [
+                "A. 'vegetable oil'",
+                "B. 'olive oil'",
+                "C. 'cooking oil'",
+                "D. 'canola oil'"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_72": {
+            "id": "J2rlJV7zKZw_72",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "量杯放在哪里？",
+            "options": [
+                "A.在玻璃桌上。",
+                "B.在木质表面上。",
+                "C.在大理石台面上。",
+                "D.在钢架上。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_73": {
+            "id": "J2rlJV7zKZw_73",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "这个场景的背景是什么？",
+            "options": [
+                "A. 场景设定在一个烹饪环境中。",
+                "B. 场景发生在一个花园里。",
+                "C. 场景设定在一个工作坊。",
+                "D. 场景发生在一个图书馆。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_74": {
+            "id": "J2rlJV7zKZw_74",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "这个场景的背景是什么样的？",
+            "options": [
+                "A. 明亮，细节清晰。",
+                "B. 柔和模糊。",
+                "C. 完全黑暗。",
+                "D. 五颜六色。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_75": {
+            "id": "J2rlJV7zKZw_75",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "场景中手上展示的是什么？",
+            "options": [
+                "A. 手上展示的是一个小黑松露。",
+                "B. 手上展示的是一个装有蛋黄和液体的量杯。",
+                "C. 手上展示的是一个装满水的玻璃杯。",
+                "D. 手上展示的是一个“C O O K”文字。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_76": {
+            "id": "J2rlJV7zKZw_76",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "随着画面的进行，手又做了什么？",
+            "options": [
+                "A. 手松开让黑松露落进杯子里。",
+                "B. 手把松露放回桌子上。",
+                "C. 手对着摄像机挥手。",
+                "D. 手拿着量杯。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_77": {
+            "id": "J2rlJV7zKZw_77",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "介绍场景中有多少装饰星星可见？",
+            "options": [
+                "A. 可以隐约看到两个装饰星星。",
+                "B. 可以隐约看到三个装饰星星。",
+                "C. 可以隐约看到四个装饰星星。",
+                "D. 没有装饰星星可见。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_78": {
+            "id": "J2rlJV7zKZw_78",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "松露被移走后，焦点转移到哪里？",
+            "options": [
+                "A. 量杯和手的动作。",
+                "B. 装满水的玻璃杯。",
+                "C. 放在切菜板上的黑松露。",
+                "D. “C O O K”文字和装饰星星。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_79": {
+            "id": "J2rlJV7zKZw_79",
+            "scene": 7,
+            "dimension": "Camera Direction",
+            "question": "摄像机在场景中的移动方向是什么？",
+            "options": [
+                "A. 摄像机快速横摇越过场景。",
+                "B. 摄像机进行缩放。",
+                "C. 摄像机保持稳定。",
+                "D. 摄像机缓慢从左向右移动。"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_80": {
+            "id": "J2rlJV7zKZw_80",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "使用哪种摄像机角度来突出黑松露？",
+            "options": [
+                "A. 使用特写镜头来突出黑松露。",
+                "B. 使用广角镜头来突出黑松露。",
+                "C. 使用俯拍镜头来突出黑松露。",
+                "D. 使用长镜头来突出黑松露。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_81": {
+            "id": "J2rlJV7zKZw_81",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "场景中视觉上最显眼的文字是什么？",
+            "options": [
+                "A. 'black truffle (optional)'。",
+                "B. 'black truffle'。",
+                "C. 'truffle'。",
+                "D. 'truffle (optional)'。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_82": {
+            "id": "J2rlJV7zKZw_82",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "谁在视频中使用搅拌器参与了混合过程？",
+            "options": [
+                "A. 一个机器人使用搅拌器在参与混合过程。",
+                "B. 一个人使用搅拌器在参与混合过程。",
+                "C. 没有人参与混合过程，机器自动实验搅拌。",
+                "D. 一只动物使用搅拌器参与混合过程。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_83": {
+            "id": "J2rlJV7zKZw_83",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "开始时场景中玻璃容器的特点是什么？",
+            "options": [
+                "A. 玻璃容器是透明的，没有任何痕迹或水滴。",
+                "B. 玻璃容器部分是清澈的，表面有水滴。",
+                "C. 玻璃容器是不透明的，上面装饰有各种图案。",
+                "D. 玻璃容器是有颜色的，没有冷凝水滴。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_84": {
+            "id": "J2rlJV7zKZw_84",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "在搅拌之前，玻璃容器中有多少层分层？",
+            "options": [
+                "A. 在搅拌之前，玻璃容器中有两层明显的分层。",
+                "B. 在搅拌之前，玻璃容器中有三层明显的分层。",
+                "C. 在搅拌之前，玻璃容器中只有一层分层。",
+                "D. 在搅拌之前，玻璃容器中没有分层。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_85": {
+            "id": "J2rlJV7zKZw_85",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "背景中能看到木质表面吗？",
+            "options": [
+                "A. 是的，可以直接看到木质表面。",
+                "B. 不，木质表面完全被隐藏了。",
+                "C. 只能透过塑料薄膜看到木质表面。",
+                "D. 木质表面部分被布盖住了。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_86": {
+            "id": "J2rlJV7zKZw_86",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "当搅拌机被引入场景时发生了什么？",
+            "options": [
+                "A. 搅拌机使玻璃容器内的食材溢出。",
+                "B. 搅拌机只是搅拌并未有食材溢出。",
+                "C. 搅拌机在容器内保持静止不动。",
+                "D. 搅拌机一边搅拌一边往里加液体。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_87": {
+            "id": "J2rlJV7zKZw_87",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "背景文字的可见性怎样改变的？",
+            "options": [
+                "A. 可见部分越来越少，因为液体不再透明。",
+                "B. “C O O K”所有字母清晰可见。",
+                "C. 背景文字完全消失。",
+                "D. 完全模糊了背景文字。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_88": {
+            "id": "J2rlJV7zKZw_88",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "搅拌时，搅拌器底部位于玻璃容器的什么位置？",
+            "options": [
+                "A. 位于液体表面位置。",
+                "B. 位于液体中央位置。",
+                "C. 位于液体底部位置。",
+                "D. 搅拌器并未搅拌。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_89": {
+            "id": "J2rlJV7zKZw_89",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "视频的背景由什么组成？",
+            "options": [
+                "A. 有吊挂锅具的厨房。",
+                "B. 有字母以及装饰性星星。",
+                "C. 没有任何装饰的纯白墙。",
+                "D. 俯瞰花园的窗户。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_90": {
+            "id": "J2rlJV7zKZw_90",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "视频中是否能看见人物角色？",
+            "options": [
+                "A. 是的，视频中能完全看见人物角色。",
+                "B. 不，视频中看不见人物角色。",
+                "C. 视频中只能看见一个人的手的部分。",
+                "D. 视频中能看见人物角色的影子。"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_91": {
+            "id": "J2rlJV7zKZw_91",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "视频中是否显示了正在进行的搅拌动作？",
+            "options": [
+                "A. 是的，层次正在被混合和乳化。",
+                "B. 不，只显示了将原料加入搅拌机的过程。",
+                "C. 不，没有任何搅拌动作。",
+                "D. 是的，不过只显示了搅拌完成后的最终产品。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_92": {
+            "id": "J2rlJV7zKZw_92",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "在搅拌过程中，搅拌机罐内发生了什么转变？",
+            "options": [
+                "A. 混合成均匀的组合。",
+                "B. 分离成不同的层次。",
+                "C. 完全溶解，留下清澈的液体。",
+                "D. 内容物在整个过程中保持不变。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_93": {
+            "id": "J2rlJV7zKZw_93",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "在搅拌过程中，在搅拌机罐中观察到什么运动？",
+            "options": [
+                "A. 可以观察明显的旋流运动。",
+                "B. 无法观察到罐中发生的运动。",
+                "C. 内容物开始分离成不同的层。",
+                "D. 混合物中出现很多大块固体成分。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_94": {
+            "id": "J2rlJV7zKZw_94",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "在这一段过程中，摄像机的角度有变化吗？",
+            "options": [
+                "A. 是的，摄像机的角度变换了多次。",
+                "B. 是的，摄像机的角度变化了一次。",
+                "C. 不，摄像机的角度不变，但有稍微放大。",
+                "D. 不，摄像机的角度只在开始时变化。"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_95": {
+            "id": "J2rlJV7zKZw_95",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "使用什么镜头来拍摄混合过程？",
+            "options": [
+                "A. 使用特写镜头。",
+                "B. 使用广角镜头。",
+                "C. 使用俯拍镜头。",
+                "D. 使用全景镜头。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_96": {
+            "id": "J2rlJV7zKZw_96",
+            "scene": 8,
+            "dimension": "Speed",
+            "question": "视频中展示的混合速度的具体表现如何？",
+            "options": [
+                "A. 光滑的旋转运动展示了层次的融合。",
+                "B. 内容物从罐子中溅出来。",
+                "C. 层次几乎不混合，主要保持分离状态。",
+                "D. 突然在快速和慢速之间切换。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_97": {
+            "id": "J2rlJV7zKZw_97",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "场景开始时，搅拌机的位置在哪里？",
+            "options": [
+                "A. 搅拌机悬空并向下移动。",
+                "B. 拌机完全浸没在罐子里。",
+                "C. 搅拌机放在桌面上。",
+                "D. 搅拌机放在罐子旁边。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_98": {
+            "id": "J2rlJV7zKZw_98",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "视频中描述的背景是什么颜色？",
+            "options": [
+                "A. 背景为多彩的。",
+                "B. 背景为白色。",
+                "C. 背景为深色。",
+                "D. 背景为金属色。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_99": {
+            "id": "J2rlJV7zKZw_99",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "罐子内部的条纹和残留物是如何产生的？",
+            "options": [
+                "A. 由搅拌过程中的最近振动引起的。",
+                "B. 罐子在使用前没有被清洁。",
+                "C. 混合物被倒出后又重新灌入。",
+                "D. 混合物的蒸发产生的。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_100": {
+            "id": "J2rlJV7zKZw_100",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "混合物在罐子里的体积如何变化？",
+            "options": [
+                "A. 体积增大。",
+                "B. 体积减小。",
+                "C. 停留在同一水平。",
+                "D. 已经溢出了罐子。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_101": {
+            "id": "J2rlJV7zKZw_101",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "餐碗放在哪里？",
+            "options": [
+                "A. 放在木制桌面上。",
+                "B. 放在大理石台面上。",
+                "C. 放在不锈钢托盘上。",
+                "D. 放在玻璃餐桌上。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_102": {
+            "id": "J2rlJV7zKZw_102",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "场景的环境是什么？",
+            "options": [
+                "A. 柔和的散射光线的室内。",
+                "B. 光线明亮的户外。",
+                "C. 一个摆满东西的实验室。",
+                "D. 灯光昏暗的餐厅。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_103": {
+            "id": "J2rlJV7zKZw_103",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "人在场景中进行了哪些动作？",
+            "options": [
+                "A. 将奶状混合物倒入碗中。",
+                "B. 在倒入之前，清洁玻璃容器。",
+                "C. 在碗中搅拌奶状混合物。",
+                "D. 在倒入之前，搅拌奶状混合物。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_104": {
+            "id": "J2rlJV7zKZw_104",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "碗的外部表面是什么样的？",
+            "options": [
+                "A. 这个碗的外部是光滑的白色表面。",
+                "B. 这个碗的外部是哑光的黑色表面。",
+                "C. 这个碗的外部是带有纹理的棕色表面。",
+                "D. 这个碗的外部是带有图案的蓝色表面。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_105": {
+            "id": "J2rlJV7zKZw_105",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "碗的内部有什么图案？",
+            "options": [
+                "A. 内部有锯齿图案。",
+                "B. 内部是纯白色。",
+                "C. 内部是花卉图案。",
+                "D. 内部是条纹图案。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_106": {
+            "id": "J2rlJV7zKZw_106",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "碗的边缘有什么细节？",
+            "options": [
+                "A. 碗有一个细黑色边缘。",
+                "B. 碗有一个镀金边缘。",
+                "C. 碗有一个点状边缘设计。",
+                "D. 碗有一个厚银边缘。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_107": {
+            "id": "J2rlJV7zKZw_107",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "混合物中有多少调料颗粒？",
+            "options": [
+                "A. 混合物中正好有10颗调料颗粒。",
+                "B. 调料颗粒的数量无法准确测量。",
+                "C. 混合物中大约有50颗调料颗粒。",
+                "D. 混合物中没有调料颗粒。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_108": {
+            "id": "J2rlJV7zKZw_108",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "在倒入动作期间是否有覆盖文字？",
+            "options": [
+                "A. 是的，会出现两行覆盖文字。",
+                "B. 不，没有覆盖文字，但有图案。",
+                "C. 是的，会出现一行覆盖文字。",
+                "D. 不，没有覆盖文字，也没图案。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_109": {
+            "id": "J2rlJV7zKZw_109",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "叠加文字上写的内容是什么？",
+            "options": [
+                "A. 'precise measurements in the video description.'",
+                "B. 'best served chilled.'",
+                "C. 'mix thoroughly before serving.'",
+                "D. 'add seasoning to taste.'"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_110": {
+            "id": "J2rlJV7zKZw_110",
+            "scene": 9,
+            "dimension": "Camera Direction",
+            "question": "在这个场景中，相机有移动吗？",
+            "options": [
+                "A. 相机围绕碗移动。",
+                "B. 相机进行缩放。",
+                "C. 描述中没有提到相机移动。",
+                "D. 相机在桌面上平移。"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_111": {
+            "id": "J2rlJV7zKZw_111",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "什么类型的摄像机镜头突出显示混合物和碗？",
+            "options": [
+                "A. 采用特写镜头。",
+                "B. 采用广角镜头。",
+                "C. 一个俯拍镜头。",
+                "D. 一个中景镜头。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_112": {
+            "id": "J2rlJV7zKZw_112",
+            "scene": 9,
+            "dimension": "Speed",
+            "question": "如何描述倒液动作的速度？",
+            "options": [
+                "A. 倒液动作被描述为平稳且连续。",
+                "B. 倒液动作被描述为快速且混乱。",
+                "C. 倒液动作被描述为缓慢且犹豫。",
+                "D. 倒液动作被描述为快速且急促。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_113": {
+            "id": "J2rlJV7zKZw_113",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "到场景结束时，这个混合物的外观是如何变化的？",
+            "options": [
+                "A. 形成不规则的堆状物和柔软的峰状物。",
+                "B. 混合物变色并变成光滑、透明的液体。",
+                "C. 混合物变为一个具有尖锐棱角的固体块。",
+                "D. 混合物蒸发，仅在碗中留下调味颗粒。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_114": {
+            "id": "J2rlJV7zKZw_114",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "视频场景是什么样的？",
+            "options": [
+                "A. 温暖自然。",
+                "B. 冷色调。",
+                "C. 色彩丰富。",
+                "D. 黑暗。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_115": {
+            "id": "J2rlJV7zKZw_115",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "品牌元素鼓励采取什么行动？",
+            "options": [
+                "A. Purchasing the ceramic bowl",
+                "B. Please subscribe",
+                "C. Cooking with the same ingredients",
+                "D. Attending a cooking class"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_116": {
+            "id": "J2rlJV7zKZw_116",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "在画面的左下角显示了多少个不同的社交媒体图标？",
+            "options": [
+                "A. 显示了三个社交媒体图标。",
+                "B. 显示了四个社交媒体图标。",
+                "C. 显示了两个社交媒体图标。",
+                "D. 显示了五个社交媒体图标。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_117": {
+            "id": "J2rlJV7zKZw_117",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "在转化过程中，奶油状混合物是否保持其光滑的质地？",
+            "options": [
+                "A. 是的，保持其浓稠光滑的质地。",
+                "B. 不是，变得暗淡无光。",
+                "C. 不是，变得稀薄，不再浓稠。",
+                "D. 不是，完全改变，变得颗粒状。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_118": {
+            "id": "J2rlJV7zKZw_118",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "社交媒体元素如何用于推广品牌？",
+            "options": [
+                "A.‘COOK_WITH_MEAT’及社交媒体图标用于品牌推广。",
+                "B. 带有品牌名称的轮廓文字用于推广品牌。",
+                "C. 使用带有多个表情符号的视觉广告来推广品牌。",
+                "D. 带有品牌口号的旋转横幅促进了品牌推广。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_119": {
+            "id": "J2rlJV7zKZw_119",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "单词“COOK”在标志中的位置在哪里？",
+            "options": [
+                "A. ‘COOK’位于靠近勺铲手柄的左侧。",
+                "B. ‘COOK’位于靠近汤勺手柄的右侧。",
+                "C. ‘COOK’位于中央火焰图形的上方。",
+                "D. ‘COOK’位于标语的下方。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_120": {
+            "id": "J2rlJV7zKZw_120",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "单词'ME.AT'相对于标志的位置在哪里？",
+            "options": [
+                "A. 'ME.AT'在左侧靠近铲子柄。",
+                "B. 'ME.AT'在交叉餐具之上。",
+                "C. 'ME.AT'在右侧靠近勺子柄。",
+                "D. 'ME.AT'在中央火焰图形下方。"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_121": {
+            "id": "J2rlJV7zKZw_121",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "单词 'WITH' 在标志中处于什么位置？",
+            "options": [
+                "A. 'WITH' 在餐具交叉的水平线下。",
+                "B. 'WITH' 放置在中央火焰图形的上方。",
+                "C. 'WITH' 位于标语的下方。",
+                "D. 'WITH' 垂直对齐在长柄勺的手柄上。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_122": {
+            "id": "J2rlJV7zKZw_122",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "过渡后视频的环境是什么？",
+            "options": [
+                "A. 环境是简约且专业的。",
+                "B. 环境具有丰富的烹饪背景。",
+                "C. 环境充满各种叠加元素和图标。",
+                "D. 环境包括一个乡村厨房布置。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_123": {
+            "id": "J2rlJV7zKZw_123",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "该标志中包含了哪些物品？",
+            "options": [
+                "A. 一个漏铲和一个汤勺，一个火焰图案。",
+                "B. 一个叉子和一把刀，并有一个火焰图案。",
+                "C. 一个勺子和一个叉子，并有一个星星图案。",
+                "D. 两把交叉的刀，并有一个心形图案。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_124": {
+            "id": "J2rlJV7zKZw_124",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "场景中紧挨着标志周围的单词有多少？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_125": {
+            "id": "J2rlJV7zKZw_125",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "视频如何强调品牌形象？",
+            "options": [
+                "A. 视频通过停留在标志和文字的构图上来强调品牌形象。",
+                "B. 视频通过展示菜肴和背景音乐来强调品牌形象。",
+                "C. 视频通过在标志上叠加多个图形和动画来强调品牌形象。",
+                "D. 视频通过展示各种烧烤食谱和客户见证来强调品牌形象。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_126": {
+            "id": "J2rlJV7zKZw_126",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "在最后一幕中使用了哪些视觉元素？",
+            "options": [
+                "A. 黑色背景上的白色调及平面照明",
+                "B. 鲜艳的颜色、多样的灯光",
+                "C. 灰色阴影搭配柔和的照明",
+                "D. 各种彩色叠加和明亮的灯光"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_127": {
+            "id": "J2rlJV7zKZw_127",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "去掉标明'truffle mayonnaise'的文字后场景焦点如何变化？",
+            "options": [
+                "A. 焦点完全转移到碗和蛋黄酱上。",
+                "B. 视频切换到一个模糊的背景。",
+                "C. 转移到一片空荡的场景。",
+                "D. 转移到场景中的宣传元素上。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_128": {
+            "id": "J2rlJV7zKZw_128",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在敲鸡蛋时，背景中出现了什么视觉元素？",
+            "options": [
+                "A. 背景出现短语“COOK WITH”，两侧点缀有星星。",
+                "B. 显示一张色彩鲜艳的烤肉和各种调料的照片。",
+                "C. 背景切换为从烤架升起火焰的动态图像。",
+                "D. 场景转换为带有零散食物图标的纯白背景。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_129": {
+            "id": "J2rlJV7zKZw_129",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在鸡蛋液体倒出时，相机视角发生了什么变化？",
+            "options": [
+                "A. 相机调整到一个更低的视角。",
+                "B. 相机拉近镜头到碗上。",
+                "C. 相机转到侧面角度。",
+                "D. 相机保持不变。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_130": {
+            "id": "J2rlJV7zKZw_130",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "在烹饪过程中，覆盖的文字起什么作用？",
+            "options": [
+                "A. 覆盖的文字只是作为装饰元素。",
+                "B. 覆盖的文字用来分散观众在烹饪过程中的注意力。",
+                "C. 覆盖的文字清晰地标识正在添加或强调的食材。",
+                "D. 覆盖的文字在场景中突出显示赞助商的标志。"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_131": {
+            "id": "J2rlJV7zKZw_131",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "混合过程的场景展示了什么？",
+            "options": [
+                "A. 它展示了将液体层转变为混合物。",
+                "B. 它展现了烹饪中多种混合技巧。",
+                "C. 它展示了原料的视觉吸引力。",
+                "D. 它展示了获得均匀质地的难度。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_132": {
+            "id": "J2rlJV7zKZw_132",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "量杯中食材加入的顺序是什么？",
+            "options": [
+                "A. 整个鸡蛋，第戎芥末，糖，盐，和酸橙汁。",
+                "B. 第戎芥末，整个鸡蛋，酸橙汁，糖，和盐。",
+                "C. 酸橙汁，整个鸡蛋，第戎芥末，盐，和糖。",
+                "D. 糖，盐，第戎芥末，酸橙汁，和整个鸡蛋。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_133": {
+            "id": "J2rlJV7zKZw_133",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "把酸橙汁挤入量杯后发生了什么？",
+            "options": [
+                "A. 把酸橙汁加入到杯中后加入植物油。",
+                "B. 丢掉酸橙，杯子保持空置。",
+                "C. 将酸橙汁倒入另一个碗中进行混合。",
+                "D. 酸橙汁立即用来腌制鸡肉。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_134": {
+            "id": "J2rlJV7zKZw_134",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在量杯中加入酸橙汁和油后，可以做什么？",
+            "options": [
+                "A. 将食材混合在一起。",
+                "B. 将食材放置一段时间以腌制。",
+                "C. 将酸橙汁和油倒入另一个碗中。",
+                "D. 在量杯中加入更多的调味料。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_135": {
+            "id": "J2rlJV7zKZw_135",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "搅拌均匀后会发生什么情况？",
+            "options": [
+                "A. 混合物被倒入一个装饰碗中。",
+                "B. 混合物被留在厨房台面上。",
+                "C. 混合物被放入一个炖锅中。",
+                "D. 混合物被放入冰箱中储存。"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_136": {
+            "id": "J2rlJV7zKZw_136",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在装有松露蛋黄酱的碗之后展示的最终阶段是什么？",
+            "options": [
+                "A. 简约的背景，配有标志、文字。",
+                "B. 蔬菜和香料铺满在桌子上。",
+                "C. 一个厨房，背景中厨师正在准备菜肴。",
+                "D. 摆满食物和酒杯的餐桌。"
+            ],
+            "answer": "A"
+        }
+    }
+}

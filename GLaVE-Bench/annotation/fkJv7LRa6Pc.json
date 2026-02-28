@@ -1,0 +1,1287 @@
+{
+    "scene_hint": {
+        "0": "背景完全黑色，左上角有彩色图案和文字标志。",
+        "1": "黑色赛车移动将汽车车头顶住蓝色赛车车尾，两辆车一起移动。",
+        "2": "镜头转变，两辆赛车并驾齐驱，背景是一片绿色景观。",
+        "3": "镜头拉近，两辆赛车快速移动，蓝色赛车驾驶员将手伸出车窗。",
+        "4": "场景中出现新的车辆和观众，黑蓝两辆赛车始终保持前进。",
+        "5": "蓝色赛车辆开始独自行驶，黑色赛车紧随其后但并不紧贴。",
+        "6": "黑蓝两辆赛车驶入不同车道，视频中出现越来越多的车辆和人群，然后以全黑背景结束。"
+    },
+    "qa": {
+        "fkJv7LRa6Pc_0": {
+            "id": "fkJv7LRa6Pc_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "在黑暗场景中，标志位于哪里？",
+            "options": [
+                "A. 在左上角",
+                "B. 在右上角",
+                "C. 在左下角",
+                "D. 在中间"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_1": {
+            "id": "fkJv7LRa6Pc_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这个场景的整体环境是什么？",
+            "options": [
+                "A. 场景完全黑暗，除了左上角的彩色标志和NASCAR标志。",
+                "B. 场景中有明亮的灯光，背景是一个NASCAR比赛。",
+                "C. 场景完全是白色的，中间有NASCAR标志。",
+                "D. 场景中有多个多彩的标志和一个明亮的背景。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_2": {
+            "id": "fkJv7LRa6Pc_2",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "标志上的文字是什么？",
+            "options": [
+                "A. 标志是用白色写的'NASCAR'一词。",
+                "B. 标志是用白色写的'RACING'一词。",
+                "C. 标志是用白色写的'DRIVING'一词。",
+                "D. 标志是用白色写的'SPORTS'一词。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_3": {
+            "id": "fkJv7LRa6Pc_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "文本旁边的标志是怎样的？",
+            "options": [
+                "A. 标志在文本左侧有蓝色、黄色、红色竖条。",
+                "B. 标志在文本上方有蓝色、黄色和红色的横条。",
+                "C. 标志有绿色和蓝色的弧线环绕着文本。",
+                "D. 标志在文本下方有红色、黄色和绿色的斜条。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_4": {
+            "id": "fkJv7LRa6Pc_4",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "除了标志和文字之外，场景中是否有任何可辨识的物体可见？",
+            "options": [
+                "A. 是的，有许多物体可见。",
+                "B. 不，没有其它可辨认物体可见。",
+                "C. 是的，有一些模糊的形状可见。",
+                "D. 是的，有人和车辆可见。"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_5": {
+            "id": "fkJv7LRa6Pc_5",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素有助于识别场景的内容？",
+            "options": [
+                "A. 左上角中带有色彩的标志和文字。",
+                "B. 屏幕中央的一个发光的白色星星。",
+                "C. 描述场景的大型文字覆盖。",
+                "D. 屏幕中央播放的动画视频。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_6": {
+            "id": "fkJv7LRa6Pc_6",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "从视频来看，蓝色赛车在赛道上的哪个位置？",
+            "options": [
+                "A. 蓝色赛车位于赛道的右边。",
+                "B. 蓝色赛车位于赛道的中央。",
+                "C. 蓝色赛车位于赛道的左边。",
+                "D. 蓝色赛车直接位于黑色汽车的前方。"
+            ],
+            "answer": "C"
+        },
+        "fkJv7LRa6Pc_7": {
+            "id": "fkJv7LRa6Pc_7",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "两辆赛车在什么样的环境中？",
+            "options": [
+                "A. 在一条被茂密树木环绕的土路中，天气多云。",
+                "B. 在灰色车道中，车道两旁有白色分界线和草坪。",
+                "C. 在一条冰冻的赛道中，两侧有雪堤，光线昏暗。",
+                "D. 在沙地上进行，由于沙漠风暴，能见度有限。"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_8": {
+            "id": "fkJv7LRa6Pc_8",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "蓝色赛车上有什么样的图案？",
+            "options": [
+                "A. 蓝色车上有醒目的火焰图案。",
+                "B. 蓝色车上有细微的火焰图案。",
+                "C. 蓝色车上有色彩鲜艳的圆形图案。",
+                "D. 蓝色车上有格子旗图案。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_9": {
+            "id": "fkJv7LRa6Pc_9",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "蓝色赛车上有什么标志？",
+            "options": [
+                "A. 蓝色赛车上有显眼的'Pepsi'标志。",
+                "B. 蓝色赛车上有显眼的'Monster Energy'标志。",
+                "C. 蓝色赛车上有显眼的'LOWE'S FOR PROS'标志。",
+                "D. 蓝色赛车上有显眼的'Red Bull'标志。"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_10": {
+            "id": "fkJv7LRa6Pc_10",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "这一场景中有多少辆车参与？",
+            "options": [
+                "A. 一辆车",
+                "B. 两辆车",
+                "C. 三辆车",
+                "D. 四辆车"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_11": {
+            "id": "fkJv7LRa6Pc_11",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "那辆黑色赛车侧面有一个黄色的“48”吗？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 只有在车顶上",
+                "D. 只有在引擎盖上"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_12": {
+            "id": "fkJv7LRa6Pc_12",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "该场景中摄像机的视角是什么样的？",
+            "options": [
+                "A. 摄像机的视角略微升高。",
+                "B. 摄像机的视角在地面水平。",
+                "C. 摄像机的视角是从侧面拍摄的。",
+                "D. 摄像机的视角是从车辆后方拍摄的。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_13": {
+            "id": "fkJv7LRa6Pc_13",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "黑色赛车侧有什么特点？",
+            "options": [
+                "A. 侧面有黄色数字和不同文字。",
+                "B. 侧面有巨大火焰图案。",
+                "C. 侧面有醒目的“Monster Energy”品牌标识。",
+                "D. 侧面有细微的蓝色装饰。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_14": {
+            "id": "fkJv7LRa6Pc_14",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "黑色赛车车顶上有什么特点？",
+            "options": [
+                "A. 车顶上有醒目的数字",
+                "B. 车顶上有酸绿色装饰",
+                "C. 车顶上有赞助品牌标识",
+                "D. 车顶上有醒目的火焰图案"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_15": {
+            "id": "fkJv7LRa6Pc_15",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "黑色赛车的外观上有哪些视觉元素？",
+            "options": [
+                "A. 黑色赛车有光滑的黑色外观，并带不同颜色的文字和数字。",
+                "B. 黑色赛车有哑光黑色外观，并带有红色条纹。",
+                "C. 黑色赛车有光泽的黑色外观，并带有蓝色亮点。",
+                "D. 黑色赛车有黑色外观，没有任何额外的装饰。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_16": {
+            "id": "fkJv7LRa6Pc_16",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "黑色赛车车头的文字是什么？",
+            "options": [
+                "A. 魔爪能量饮料（Monster Energy）",
+                "B. 劳氏建材专业服务（LOWE'S FOR PROS）",
+                "C. 红牛车队（Red Bull Racing）",
+                "D. 壳牌劲霸（Shell V-Power）"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_17": {
+            "id": "fkJv7LRa6Pc_17",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "黑色赛车上显示的号码是多少？",
+            "options": [
+                "A. 24",
+                "B. 48",
+                "C. 12",
+                "D. 36"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_18": {
+            "id": "fkJv7LRa6Pc_18",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "黑色赛车的车顶上是什么颜色？",
+            "options": [
+                "A. 黑色赛车的车顶是黄色的。",
+                "B. 黑色赛车的车顶是柠檬绿色的。",
+                "C. 黑色赛车的车顶是蓝色的。",
+                "D. 黑色赛车的车顶是红色的。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_19": {
+            "id": "fkJv7LRa6Pc_19",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "透过挡风玻璃可以看到蓝色赛车司机穿着什么？",
+            "options": [
+                "A. 司机戴着蓝色头盔。",
+                "B. 司机戴着红色头盔。",
+                "C. 司机戴着黑色头盔。",
+                "D. 司机戴着白色头盔。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_20": {
+            "id": "fkJv7LRa6Pc_20",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "从视频来看，蓝色赛车左侧车头有什么？",
+            "options": [
+                "A. 有一个数字“9”。",
+                "B. 有一个字母“S”。",
+                "C. 有一个数字“6”。",
+                "D. 有一个数字“8”。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_21": {
+            "id": "fkJv7LRa6Pc_21",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "蓝色赛车的车顶上数字是什么颜色的？",
+            "options": [
+                "A. 车顶是白色的。",
+                "B. 车顶是黑色的。",
+                "C. 车顶是蓝色的。",
+                "D. 车顶是红色的。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_22": {
+            "id": "fkJv7LRa6Pc_22",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "蓝色赛车的车头上的文字是什么？",
+            "options": [
+                "A. 是'SUN ENERGY 1'。",
+                "B. 是'MONSTER ENERGY'。",
+                "C. 是'CHEVROLET CAMARO'。",
+                "D. 是'FLAME ENERGY'。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_23": {
+            "id": "fkJv7LRa6Pc_23",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "蓝色赛车正面上显著显示了哪些标志？",
+            "options": [
+                "A. “SUN ENERGY 1”、“Monster Energy”和数字“9”显示。",
+                "B. “SUN ENERGY 1”、“NASCAR”和数字“48”显示。",
+                "C. “SUN ENERGY 1”、“Monster Energy”和数字“6”显示。",
+                "D. “Camaro Racing”、“Monster Energy”和数字“48”显示。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_24": {
+            "id": "fkJv7LRa6Pc_24",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "视频的背景是否被其他车辆或物体杂乱地占据？",
+            "options": [
+                "A. 是的，背景被其他车辆和物体杂乱地占据。",
+                "B. 不，背景一致且整洁，完全聚焦车辆。",
+                "C. 是的，背景中有多个物体和车辆。",
+                "D. 不，背景充满了各种干扰。"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_25": {
+            "id": "fkJv7LRa6Pc_25",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "这一场景中摄像机的轻微向上倾斜突出强调了什么？",
+            "options": [
+                "A. 强调了赛车在赛道上的前进动力和主导地位。",
+                "B. 强调了白天光线条件的明亮。",
+                "C. 调了赛车火焰图案的复杂细节。",
+                "D. 强调了周围的绿化和安全护栏。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_26": {
+            "id": "fkJv7LRa6Pc_26",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "这一场景中两辆赛车正朝哪个方向移动？",
+            "options": [
+                "A. 正朝着摄像机向前移动。",
+                "B. 正背离摄像机向后移动。",
+                "C. 正横向穿过赛道移动。",
+                "D. 赛车是静止的，并未移动。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_27": {
+            "id": "fkJv7LRa6Pc_27",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "这一场景中，摄像机是怎样拍摄赛车的？",
+            "options": [
+                "A. 摄像机保持稳定的动态拍摄赛车。",
+                "B. 摄像机频繁更换角度来拍摄赛车。",
+                "C. 摄像机晃动且焦距不清拍摄赛车。",
+                "D. 摄像机快速放大和缩小拍摄赛车。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_28": {
+            "id": "fkJv7LRa6Pc_28",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "蓝色赛车的颜色在逐渐摄像机靠近时如何变化？",
+            "options": [
+                "A. 颜色以及赛车上的图案几乎没有变化。",
+                "B. 颜色逐渐褪去，发动机罩上的火焰图案显得不那么细致。",
+                "C. 颜色保持不变，但火焰图案完全消失。",
+                "D. 颜色变为单色，火焰图案被简单的黑色替代。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_29": {
+            "id": "fkJv7LRa6Pc_29",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素有助于理解汽车的品牌？",
+            "options": [
+                "A. 'XL'徽章、雪佛兰领结标志。",
+                "B. 'GT3'徽章、宝马双肾格栅",
+                "C. 'C63'徽章、本田H标志",
+                "D. 'RS6'徽章、福特野马标志"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_30": {
+            "id": "fkJv7LRa6Pc_30",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频的主要场景是什么？",
+            "options": [
+                "A. 主要场景是一个专业的赛道，周围有白色护栏、绿色草地等。",
+                "B. 主要场景是一条城市街道，有高楼和闪烁的交通灯。",
+                "C. 主要场景是一条风景如画的沙漠公路，背景是沙丘。",
+                "D. 主要场景是一个测试设施，没有观众或品牌标志。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_31": {
+            "id": "fkJv7LRa6Pc_31",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "谁是视频的主角？",
+            "options": [
+                "A. 主角是蓝色赛车和黑色赛车。",
+                "B. 主角是身穿红色衣服、挥舞黄色旗帜的观赛者。",
+                "C. 主角是站在ZIPPO标志附近的赛道裁判员。",
+                "D. 主角是从直升机拍摄比赛的转播团队。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_32": {
+            "id": "fkJv7LRa6Pc_32",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "这一场景中第一辆赛车具有什么特点？",
+            "options": [
+                "A. 第一辆赛车是蓝色的，车头有火焰图案。",
+                "B. 第一辆赛车主要是黄色和黑色，并带有格子图案。",
+                "C. 第一辆赛车是红蓝配色，并带有条纹。",
+                "D. 第一辆赛车是白色的，并带有绿色贴花和尾翼。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_33": {
+            "id": "fkJv7LRa6Pc_33",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "这一场景的第二辆赛车有什么特点？",
+            "options": [
+                "A. 第二辆赛车的颜色是黑色的，有黄色的文字",
+                "B. 第二辆赛车的颜色是黑色的，有白色的文字。",
+                "C. 第二辆赛车的颜色是黄色的，有黑色的文字。",
+                "D. 第二辆赛车的颜色是绿色的，有白色的文字。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_34": {
+            "id": "fkJv7LRa6Pc_34",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "这一场景中，看到哪些文字元素？",
+            "options": [
+                "A. 可以看到“ZIPPO”的标牌和其他旗帜上的文字。",
+                "B. 可以看到“Finish Line”文字标志。",
+                "C. 可以看到“Chevron”的文字标志。",
+                "D. 未看到任何文字元素。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_35": {
+            "id": "fkJv7LRa6Pc_35",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "蓝色赛车有调整在赛道上的位置吗？",
+            "options": [
+                "A. 蓝色赛车轻微改变方向。",
+                "B. 蓝色赛车超越另一辆车。",
+                "C. 蓝色赛车未改变任何方向。",
+                "D. 蓝色赛车加速并移至赛道的外缘。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_36": {
+            "id": "fkJv7LRa6Pc_36",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "从赛车角度来看，在弯曲路段中，蓝色赛车和黑色赛车朝哪个方向移动？",
+            "options": [
+                "A. 蓝色赛车和黑色赛车稍微向左移动。",
+                "B. 蓝色赛车和黑色赛车稍微向右移动。",
+                "C. 蓝色赛车和黑色赛车直行前进，不调整方向。",
+                "D. 蓝色赛车和黑色赛车急剧向左偏离赛道。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_37": {
+            "id": "fkJv7LRa6Pc_37",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "比赛动作的高角度视角可能是从哪捕捉的？",
+            "options": [
+                "A. 高角度视角很可能是从广播平台或直升机上捕捉到的。",
+                "B. 高角度视角很可能是从赛车顶部捕捉到的。",
+                "C. 高角度视角很可能是从ZIPPO标志牌上捕捉到的。",
+                "D. 高角度视角很可能是从附近的山坡上捕捉到的。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_38": {
+            "id": "fkJv7LRa6Pc_38",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "从上一个场景过渡到这个场景视频中摄像机角度是如何变化的？",
+            "options": [
+                "A. 摄像机从对汽车的详细正面视角过渡到更广的俯视角度，展示赛道和周围的环境。",
+                "B. 摄像机从俯视角度开始，转换到汽车的详细侧面视角。",
+                "C. 摄像机在整个视频中一直从侧面角度固定拍摄汽车。",
+                "D. 摄像机专注于周围环境，避免详细展示汽车。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_39": {
+            "id": "fkJv7LRa6Pc_39",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "在障碍物之外的草地附近可以看到什么标志？",
+            "options": [
+                "A. 在障碍物之外的草地附近可以看到一个模糊的标志，只能明确看到'R','V'等大写字母。",
+                "B. 在障碍物之外的草地附近可以看到一个标志，上面写着 'ZIPPO'。",
+                "C. 在障碍物之外的草地附近可以看到一个标志，上面写着 'Race On'。",
+                "D. 在障碍物之外的草地附近可以看到一个完全可见的标志，上面写着 'Team Spirit'。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_40": {
+            "id": "fkJv7LRa6Pc_40",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "镜头聚焦，视频中的焦点是什么？",
+            "options": [
+                "A. 视频的焦点是赛道和赛车。",
+                "B. 视频的焦点是停车场。",
+                "C. 视频的焦点是森林中。",
+                "D. 视频的焦点是城市街道上。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_41": {
+            "id": "fkJv7LRa6Pc_41",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "对于蓝色赛车的驾驶员，突出了哪些动作？",
+            "options": [
+                "A. 驾驶员被展示出握住方向盘并做出庆祝的动作。",
+                "B. 驾驶员被展示出与维修团队成员一起检查车辆。",
+                "C. 驾驶员被看到下车并向粉丝打招呼。",
+                "D. 驾驶员被展示出站在车前盖上挥舞旗帜。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_42": {
+            "id": "fkJv7LRa6Pc_42",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "蓝色赛车的驾驶员的着装是什么样子的？",
+            "options": [
+                "A. 驾驶员穿着与车辆设计相匹配的赛车装备。",
+                "B. 驾驶员穿着普通的黑色赛车服。",
+                "C. 驾驶员穿着黄绿色的服装。",
+                "D. 驾驶员没有穿任何赛车装备。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_43": {
+            "id": "fkJv7LRa6Pc_43",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "蓝色赛车的设计元素有哪些特点？",
+            "options": [
+                "A. 蓝色赛车的特点是车头的火焰设计和各种其他文字标志。",
+                "B. 蓝色赛车的特点是车头的方格旗设计和各种其他文字标志。",
+                "C. 蓝色赛车的特点是车头纯蓝色设计和各种其他文字标志。",
+                "D. 蓝色赛车的特点是车头的橙色点缀和各种其他文字标志。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_44": {
+            "id": "fkJv7LRa6Pc_44",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "这一场景描述中有多少辆不同的赛车被明显展示出来？",
+            "options": [
+                "A. 两辆不同的赛车被明显展示。",
+                "B. 三辆不同的赛车被明显展示。",
+                "C. 四辆不同的赛车被明显展示。",
+                "D. 五辆不同的赛车被明显展示。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_45": {
+            "id": "fkJv7LRa6Pc_45",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "这一场景描述中的赛车是什么颜色的？",
+            "options": [
+                "A. 是一辆蓝色赛车和一辆黑色赛车",
+                "B. 是一辆红色赛车和一辆白色赛车",
+                "C. 是一辆绿色赛车和一辆银色赛车",
+                "D. 是一辆黄色赛车和一辆黑色赛车"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_46": {
+            "id": "fkJv7LRa6Pc_46",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "这一场景中是否显示有围观者在赛道附近？",
+            "options": [
+                "A. 是的，可以看到赛道附近有围观者。",
+                "B. 不，视频中没有看到围观者。",
+                "C. 视频中只显示了赛车，没有围观者。",
+                "D. 视频仅关注车辆，并未包含围观者。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_47": {
+            "id": "fkJv7LRa6Pc_47",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "黑色赛车和蓝色赛车之间突出的时刻是什么？",
+            "options": [
+                "A. 蓝色赛车超过黑色赛车。",
+                "B. 黑色赛车顶着蓝色赛车前进。",
+                "C. 蓝色赛车在赛道上打滑。",
+                "D. 黑色赛车被淘汰出比赛。"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_48": {
+            "id": "fkJv7LRa6Pc_48",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "两辆赛车之间的互动强调了什么？",
+            "options": [
+                "A. 互动强调了它们激烈的竞争。",
+                "B. 互动突出了友好的比赛。",
+                "C. 互动展示了糟糕的驾驶技术。",
+                "D. 互动展示了赞助商的标志。"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_49": {
+            "id": "fkJv7LRa6Pc_49",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "从观看视频的角度来看，蓝色赛车朝哪个方向行驶？",
+            "options": [
+                "A. 蓝色赛车向左行驶。",
+                "B. 蓝色赛车向右行驶。",
+                "C. 蓝色赛车直接朝赛道中心行驶。",
+                "D. 蓝色赛车远离赛道中心行驶。"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_50": {
+            "id": "fkJv7LRa6Pc_50",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "这一场景使用了哪种摄影镜头？",
+            "options": [
+                "A. 俯瞰航拍镜头。",
+                "B. 平视稍微倾斜的镜头。",
+                "C. 特写聚焦的拍摄镜头。",
+                "D. 后视镜头聚焦镜头。"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_51": {
+            "id": "fkJv7LRa6Pc_51",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "这一场景中，蓝色赛车和黑色赛车之间的速度是怎样的？",
+            "options": [
+                "A. 黑色赛车很快超越了蓝色赛车，并拉开了显著的领先优势。",
+                "B. 蓝色赛车最初保持领先，但黑色赛车随着时间推移逐渐缩小差距。",
+                "C. 黑色赛车在整个场景中始终保持与蓝色赛车的距离不变。",
+                "D. 蓝色赛车稳定地扩大了领先优势，将黑色赛车远远甩在身后。"
+            ],
+            "answer": "C"
+        },
+        "fkJv7LRa6Pc_52": {
+            "id": "fkJv7LRa6Pc_52",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "该场景中，背景环境发生了什么变化？",
+            "options": [
+                "A. 背景逐渐展示出更多细节。",
+                "B. 背景变为完全黑暗的环境，没有可见的细节。",
+                "C. 背景保持静止，没有额外的细节。",
+                "D. 背景变成一片密林，可以看到野生动物。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_53": {
+            "id": "fkJv7LRa6Pc_53",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "是什么视觉提示显示蓝色赛车正在拉开与白色汽车的差距？",
+            "options": [
+                "A. 白色汽车逐渐移出视野，退到画面的左边缘，几乎完全消失。",
+                "B. 蓝色赛车显著加速，甩开所有其他汽车。",
+                "C. 白色汽车撞上护栏，无法继续比赛。",
+                "D. 蓝色赛车急转弯，在弯道上甩开白色汽车。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_54": {
+            "id": "fkJv7LRa6Pc_54",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "什么为专业赛车赛事的氛围做出贡献？",
+            "options": [
+                "A. 观众席的观众，他们散发着活力和热情，为赛事增添了热闹的氛围。",
+                "B. 白色汽车的出现，为赛事增添了热闹的氛围。",
+                "C. 观众大多缺席，只有少数观众零星分布，创造了一个安静的环境。",
+                "D. 观众专注于他们的手机，对比赛显示出不感兴趣，这使得氛围变得黯淡。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_55": {
+            "id": "fkJv7LRa6Pc_55",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "这一场景中详细描述了多少辆车？",
+            "options": [
+                "A. 两辆车",
+                "B. 三辆车",
+                "C. 四辆车",
+                "D. 五辆车"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_56": {
+            "id": "fkJv7LRa6Pc_56",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "这一场景中第一辆车是什么颜色的？",
+            "options": [
+                "A. 第一辆车是蓝色的。",
+                "B. 第一辆车是白色的。",
+                "C. 第一辆车是黄色的。",
+                "D. 第一辆车是红色的。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_57": {
+            "id": "fkJv7LRa6Pc_57",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "这一场景中的第二辆车是什么颜色的？",
+            "options": [
+                "A. 第二辆车是白色的。",
+                "B. 第二辆车是红色的。",
+                "C. 第二辆车是黑色的。",
+                "D. 第二辆车是银色的。"
+            ],
+            "answer": "C"
+        },
+        "fkJv7LRa6Pc_58": {
+            "id": "fkJv7LRa6Pc_58",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "这一场景中出现的第三辆车是什么颜色的？",
+            "options": [
+                "A. 第三辆车是黄色的。",
+                "B. 第三辆车是白色的。",
+                "C. 第三辆车是蓝色的。",
+                "D. 第三辆车是银色的。"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_59": {
+            "id": "fkJv7LRa6Pc_59",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "黑色赛车带有黄色装饰，是否在蓝色赛车的前面？",
+            "options": [
+                "A. 是的，黑色车在蓝色雪佛兰科迈罗的前面。",
+                "B. 不，黑色车在蓝色赛车后面。",
+                "C. 是的，黑色车在比赛中领先很大一段距离。",
+                "D. 不，黑色车远远落后于蓝色赛车。"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_60": {
+            "id": "fkJv7LRa6Pc_60",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "蓝色赛车在赛道上的表现如何？",
+            "options": [
+                "A. 蓝色赛车很快落后于白色汽车，并努力跟上。",
+                "B. 蓝色赛车在画面中占据主导地位，逐渐拉大与白色汽车的差距。",
+                "C. 蓝色赛车被带有荧光亮点的深色车超越，无法重新夺回领先位置。",
+                "D. 蓝色赛车以稳定的速度行驶，但未能在竞争中取得显著进展。"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_61": {
+            "id": "fkJv7LRa6Pc_61",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "从视频来看，白色汽车的移动方向是什么？",
+            "options": [
+                "A. 白色汽车移出视野，向画面的左边缘移动。",
+                "B. 白色汽车加速前进，向画面的右边缘移动。",
+                "C. 白色汽车在赛道中停下。",
+                "D. 白色汽车向右转弯，与蓝色赛车夺领先位置。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_62": {
+            "id": "fkJv7LRa6Pc_62",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉线索表明赛道上的汽车速度？",
+            "options": [
+                "A. 赛道上不同的轮胎痕迹",
+                "B. 赛道沿线明亮的绿草和橙色条纹的路边石",
+                "C. 显眼地悬挂在白色护栏上的“GO BOWLING”横幅",
+                "D. 挤满观众的看台上热闹的氛围"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_63": {
+            "id": "fkJv7LRa6Pc_63",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "在这一场景中，白色汽车的显著性如何变化？",
+            "options": [
+                "A. 白色汽车最初跟在蓝色和黑色赛车后面，后逐渐画面中消失。",
+                "B. 白色汽车在整个过程中始终保持在蓝色赛车后面的位置。",
+                "C. 白色汽车短暂超越蓝色赛车，然后又退回视线之外。",
+                "D. 白色汽车完全驶出赛道，提前退出比赛。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_64": {
+            "id": "fkJv7LRa6Pc_64",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "该场景中最醒目的文字是什么？",
+            "options": [
+                "A. 白色护栏上的“GO BOWLING”横幅",
+                "B. 蓝色赛车上的Monster Energy文字标志",
+                "C. 白色赛车上的数字“56”",
+                "D. 黑色赛车上的黄色数字"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_65": {
+            "id": "fkJv7LRa6Pc_65",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "从视频来看，当黑色赛车进入画面时，它相对于蓝色赛车的位置是什么？",
+            "options": [
+                "A. 黑色赛车在蓝色赛车的左后方。",
+                "B. 黑色赛车在蓝色赛车的右后方。",
+                "C. 黑色赛车在蓝色赛车的前面。",
+                "D. 黑色赛车与蓝色赛车没有同时出现在画面内。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_66": {
+            "id": "fkJv7LRa6Pc_66",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "该场景蓝色广告上出现的标志性文字是什么？",
+            "options": [
+                "A. “TheGlen.com”。",
+                "B. “Monster Energy”。",
+                "C. “GO BOWLINGB”。",
+                "D. “FOR PROS”。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_67": {
+            "id": "fkJv7LRa6Pc_67",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "这一场景中有多少辆赛车被显著展示？",
+            "options": [
+                "A. 一辆赛车被显著展示。",
+                "B. 两辆赛车被显著展示。",
+                "C. 三辆赛车被显著展示。",
+                "D. 四辆赛车被显著展示。"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_68": {
+            "id": "fkJv7LRa6Pc_68",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "视频中赛车的颜色是什么？",
+            "options": [
+                "A. 蓝色和黑色",
+                "B. 红色和白色",
+                "C. 蓝色和灰色",
+                "D. 橙色和黑色"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_69": {
+            "id": "fkJv7LRa6Pc_69",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "当黑色赛车出现在画面中时，它采取了什么行动？",
+            "options": [
+                "A. 黑色赛车缩小了与蓝色赛车的差距。",
+                "B. 黑色赛车超越了蓝色赛车。",
+                "C. 黑色赛车进一步落后，无法跟上蓝色赛车。",
+                "D. 黑色赛车偏离赛道，失去了竞争的机会。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_70": {
+            "id": "fkJv7LRa6Pc_70",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "从观看视频的角度来看，蓝色赛车在赛道上朝哪个方向移动？",
+            "options": [
+                "A. 蓝色赛车在视频向左面移动。",
+                "B. 蓝色赛车在视频向右面移动。",
+                "C. 蓝色赛车在视频中保持静止不动。",
+                "D. 蓝色赛车在视频中沿斜线穿过赛道移动。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_71": {
+            "id": "fkJv7LRa6Pc_71",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "这一场景赛道弯道上有哪些细节？",
+            "options": [
+                "A. 弯道上有红色和黄色条纹标记、绿色草地和蓝色围栏。",
+                "B. 弯道上有绿色和蓝色标记的弯道、广告牌和一片向日葵田。",
+                "C. 弯道上有橙色和紫色的轨迹穿过赛道、附近的维修站和远处的空座位。",
+                "D. 弯道上有黑白线条、记分牌和背景中的一片宁静的湖。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_72": {
+            "id": "fkJv7LRa6Pc_72",
+            "scene": 5,
+            "dimension": "Speed",
+            "question": "哪种视觉效果强调了蓝色赛车和黑色赛车的速度？",
+            "options": [
+                "A. 赛车上鲜艳的橙色细节",
+                "B. 赛车侧面的数字“9”",
+                "C. 运动模糊强调了蓝色赛车和黑赛车的速度",
+                "D. 背景中五颜六色的帐篷和伞"
+            ],
+            "answer": "C"
+        },
+        "fkJv7LRa6Pc_73": {
+            "id": "fkJv7LRa6Pc_73",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "当蓝色赛车继续行驶时，观众什么变化？",
+            "options": [
+                "A. 随着蓝色赛车继续行驶，观众靠得更近了。",
+                "B. 随着蓝色赛车继续行驶，看到越来越多的观众。",
+                "C. 观众分散均匀，他们的位置没有变化。",
+                "D. 随着蓝色赛车继续行驶，许多观众离开了他们的位置。"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_74": {
+            "id": "fkJv7LRa6Pc_74",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "从赛车来看，蓝色赛车在转弯时向哪个方向倾斜？",
+            "options": [
+                "A. 蓝色赛车向左倾斜。",
+                "B. 蓝色赛车向右倾斜。",
+                "C. 蓝色赛车保持完全水平。",
+                "D. 蓝色赛车向上倾斜。"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_75": {
+            "id": "fkJv7LRa6Pc_75",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "谁是蓝色和橙色 NASCAR 车辆的司机？",
+            "options": [
+                "A. Jeff Gordon",
+                "B. Tony Stewart",
+                "C. Jimmie Johnson",
+                "D. 视频中未具体说明蓝色赛车的司机。"
+            ],
+            "answer": "D"
+        },
+        "fkJv7LRa6Pc_76": {
+            "id": "fkJv7LRa6Pc_76",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "这一场景开始场景中能看见多少辆赛车？",
+            "options": [
+                "A. 场景中可见一辆赛车。",
+                "B. 场景中可见两辆赛车。",
+                "C. 场景中可见三辆赛车。",
+                "D. 场景中没有看到任何赛车。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_77": {
+            "id": "fkJv7LRa6Pc_77",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "在这一场景中能看到黑色赛车吗？",
+            "options": [
+                "A. 是的，黑色赛车紧跟在蓝色赛车后面。",
+                "B. 是的，黑色赛车领先于蓝色赛车。",
+                "C. 不，完全没有看到黑色赛车。",
+                "D. 不，那辆黑色赛车停在了维修站。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_78": {
+            "id": "fkJv7LRa6Pc_78",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "当蓝色赛车靠近时，赛车上什么变得更加显眼？",
+            "options": [
+                "A. 大胆的火焰图案和显眼的白色数字“9”变得更加显眼。",
+                "B. 黑绿相间的车变得更加显眼。",
+                "C. NASCAR的标志变得更加显眼。",
+                "D. 交替的白色和蓝色安全护栏变得更加显眼。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_79": {
+            "id": "fkJv7LRa6Pc_79",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "这一场景最后赛道上发生了怎样的变化？",
+            "options": [
+                "A. 黑色的赛车不再可见。",
+                "B. 黑色的赛车超越了蓝色赛车。",
+                "C. 蓝色的赛车已经落后。",
+                "D. 蓝色的赛车由于发动机故障已经停下来了。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_80": {
+            "id": "fkJv7LRa6Pc_80",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "蓝色赛车在高的广角镜头中位于哪里？",
+            "options": [
+                "A. 在赛道的右上角附近",
+                "B. 在赛道的左下角附近",
+                "C. 在赛道的下部中央附近",
+                "D. 在赛道的中间附近"
+            ],
+            "answer": "C"
+        },
+        "fkJv7LRa6Pc_81": {
+            "id": "fkJv7LRa6Pc_81",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "这一场景的整体背景是什么？",
+            "options": [
+                "A. 这一场景主要捕捉到了一场NASCAR赛事中赛道上的充满活力的赛车运动场景。",
+                "B. 这一场景主要捕捉了一幅宁静的乡村景象，展现了连绵起伏的山丘以及一条静静流淌的河流。",
+                "C. 这一场景主要捕捉了一幅繁忙的都市景象，包括摩天大楼、繁忙的街道以及在人行道上行走的人群。",
+                "D. 这一场景主要捕捉到了一处安静的海滩场景，包括轻柔的海浪、沙滩以及几只在空中飞翔的海鸥。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_82": {
+            "id": "fkJv7LRa6Pc_82",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "视频场景最后在画面中是如何变化的？",
+            "options": [
+                "A. 场景过渡到一个繁忙的城市街道，充满了行人和车辆。",
+                "B. 场景变为宁静的乡村，那里有起伏的山丘和晴朗的蓝天。",
+                "C. 最后一帧突然过渡到一个完全黑色的屏幕上，只能看到NASCAR的标志。",
+                "D. 环境转变为一个水下场景，展示了色彩斑斓的珊瑚礁和鱼类。"
+            ],
+            "answer": "C"
+        },
+        "fkJv7LRa6Pc_83": {
+            "id": "fkJv7LRa6Pc_83",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "车队成员在停站区从事什么活动？",
+            "options": [
+                "A. 车队成员正在对汽车进行检查，为比赛活动做准备，并策划比赛的下一个阶段。",
+                "B. 车队成员正在为观众娱乐，挥舞旗帜，并进行采访。",
+                "C. 车队成员正在检查围栏，修理障碍物，并重新布置广告。",
+                "D. 车队成员正在提供茶点，举办活动，并清理停站区。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_84": {
+            "id": "fkJv7LRa6Pc_84",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "在这一场景中，'GO BOWLING'文字标志是否可见？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 仅在一个视图中",
+                "D. 仅在进站场景中"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_85": {
+            "id": "fkJv7LRa6Pc_85",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "这一场景的摄像机的视角是否是从特写镜头转向广角镜头的？",
+            "options": [
+                "A. 是的，摄像机从特写过渡到高位广角视角。",
+                "B. 不，视频中摄像机角度始终保持不变。",
+                "C. 是的，摄像机从中角度切换到直接的俯视角度。",
+                "D. 不，视角有所移动但角度没有变化。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_86": {
+            "id": "fkJv7LRa6Pc_86",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "在特写镜头中，蓝色赛车的速度感如何变化？",
+            "options": [
+                "A. 在特写镜头中，由于赛车的尺寸更大且位置更显眼，速度感增强。",
+                "B. 在特写镜头中，速度感减弱，因为赛车看起来是静止的。",
+                "C. 在特写镜头中，速度感与前一帧保持不变。",
+                "D. 在特写镜头中，由于周围环境模糊，速度感减弱。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_87": {
+            "id": "fkJv7LRa6Pc_87",
+            "scene": 6,
+            "dimension": "Speed",
+            "question": "蓝色赛车在广角视角中速度的感觉是如何变化的？",
+            "options": [
+                "A. 在广角视角中，更广阔的背景削弱了对汽车速度的强调。",
+                "B. 在广角视角中，由于赛道扩展，赛车的速度看起来更快。",
+                "C. 在广角视角中，赛车看起来像是静止不动。",
+                "D. 在广角视角中，由于远距离的视角，赛车速度的感觉被夸大。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_88": {
+            "id": "fkJv7LRa6Pc_88",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "看台上的人群密度随着视频如何变化？",
+            "options": [
+                "A. 看台上的人群密度增加，后续画面中右上方和右下方可以看到更多观众。",
+                "B. 看台上的人群密度减少，后续画面中整体观众减少。",
+                "C. 看台上的人群密度保持一致，随着时间没有明显变化。",
+                "D. 看台上的人群密度移动到了赛道的左侧，导致后续画面中右侧空无一人。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_89": {
+            "id": "fkJv7LRa6Pc_89",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "最终画面中，标志着切换到不同场景的是什么？",
+            "options": [
+                "A. 出现一条明亮的赛道而没有车辆。",
+                "B. 彩色条纹白色“NASCAR”标志出现在纯黑背景上。",
+                "C. 看台视角，观众席空无一人。",
+                "D. 场景切换到灯光闪烁的昏暗维修站。"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_90": {
+            "id": "fkJv7LRa6Pc_90",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "视频中蓝色赛车最初的摄影视角是什么？",
+            "options": [
+                "A. 蓝色赛车最初以大胆、细致的前视角拍摄，展示了赛车外观。",
+                "B. 蓝色赛车最初以高位宽角度拍摄，突出了整个赛道。",
+                "C. 蓝色赛车最初以后视角拍摄，强调了其尾灯和排气管。",
+                "D. 蓝色赛车最初在侧面动态拍摄，展示了其流线型轮廓。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_91": {
+            "id": "fkJv7LRa6Pc_91",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "当蓝色赛车和黑色赛车在赛道上前进时，视角如何变化？",
+            "options": [
+                "A. 视角转变为更广的、更高的视野，展示车辆沿赛道的进展。",
+                "B. 视角仍然专注于汽车的特写细节，突出其鲜艳的颜色和赞助商标志。",
+                "C. 视角变为低角度，强调汽车的速度和沥青的纹理。",
+                "D. 视角缩小，仅专注于汽车的驾驶员，捕捉他们的表情和动作。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_92": {
+            "id": "fkJv7LRa6Pc_92",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "黑色赛车在视频中大多数时候扮演什么角色？",
+            "options": [
+                "A. 黑色赛车紧跟在蓝色赛车后面。",
+                "B. 黑色赛车停留在维修区，正在进行维修。",
+                "C. 黑色赛车领先比赛，拉开了与其他车辆的距离。",
+                "D. 黑色赛车是安全车，带领其他车辆在赛道上行驶。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_93": {
+            "id": "fkJv7LRa6Pc_93",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "什么增强赛车场景的氛围？",
+            "options": [
+                "A. 环境，包括蓝色护栏、绿色草地、沥青赛道和观众等元素，营造出了一个快节奏、充满活力的赛车运动盛会。",
+                "B. 环境，拥有雪山、密林和宁静的湖泊等特征，创造了一种和平宁静的氛围。",
+                "C. 环境，包括高楼大厦、繁忙的城市街道和霓虹灯标志，营造出一个未来主义的城市赛车场景。",
+                "D. 环境，以空旷的车道、昏暗的灯光和无观众的状况，营造出一种安静而沉闷的赛车氛围。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_94": {
+            "id": "fkJv7LRa6Pc_94",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在场景中首次视角转变之后会发生什么？",
+            "options": [
+                "A. 两辆赛车在赛道上继续前进，并从更高和更全面的视角拍摄。",
+                "B. 蓝色赛车完全驶出赛道，进入维修站。",
+                "C. 摄像机专注于看台上的观众，不展示赛道上的任何车辆。",
+                "D. 场景转为夜间，展示在探照灯下进行的比赛。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_95": {
+            "id": "fkJv7LRa6Pc_95",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "当黑色的赛车不在紧贴蓝车后，会发生什么？",
+            "options": [
+                "A. 黑色赛车从画面左侧进入场景，紧跟着蓝色赛车。",
+                "B. 黑色赛车撞上了编号为黄色的蓝色赛车。",
+                "C. 黑色赛车在维修区保持静止。",
+                "D. 黑色赛车向右侧出了场景，失去了速度的控制。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_96": {
+            "id": "fkJv7LRa6Pc_96",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么摄像机在比赛接近尾声时会捕捉更多赛道及其基础设施的画面？",
+            "options": [
+                "A. 更广阔的视角强调比赛的背景，并展示如赞助商横幅、观众以及赛道安全设施等元素。",
+                "B. 摄像机拉近镜头只聚焦于即将冲过终点线的领先赛车，而忽略周围环境。",
+                "C. 这种视角的改变是为了模糊赛车手的画面，增加比赛结果的神秘感。",
+                "D. 更广阔的视角是因为赛道上的观众和赞助商已经离开，只剩下赛道上的赛车。"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_97": {
+            "id": "fkJv7LRa6Pc_97",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么视频结尾会出现带有NASCAR标志的黑色画面？",
+            "options": [
+                "A. 带有NASCAR标志的黑色画面表示视频内容的结束，标志着赛车场景的结束。",
+                "B. 带有NASCAR标志的黑色画面表示比赛期间出现技术故障，导致视频信号丢失。",
+                "C. 带有NASCAR标志的黑色画面强调比赛直播期间的商业广告插播。",
+                "D. 带有NASCAR标志的黑色画面代表视频中有意的艺术过渡，以象征速度和运动。"
+            ],
+            "answer": "A"
+        }
+    }
+}

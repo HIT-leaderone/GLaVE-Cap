@@ -1,0 +1,2164 @@
+{
+    "scene_hint": {
+        "0": "一个男子坐在车内自拍。",
+        "1": "一个男子在大庙前悠闲地漫步。",
+        "2": "男子沿小路逐渐走向镜头。",
+        "3": "金色佛像在视频中间",
+        "4": "在寺庙外对环境竖起大拇指。",
+        "5": "场景切换到用餐情景，展示菜肴。",
+        "6": "拿起海鲜给镜头展示。",
+        "7": "在寺庙内，一名男子利用香进行祭礼。",
+        "8": "男子坐在草地上喝着饮料。",
+        "9": "切换到室内，男子与人们互动。",
+        "10": "在摄影棚里四个人在拍照。",
+        "11": "场景转变为一个派对现场，热闹非凡。",
+        "12": "展示一位男子的特写。"
+    },
+    "qa": {
+        "aWBRHk_-5as_0": {
+            "id": "aWBRHk_-5as_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这个场景发生在哪里？",
+            "options": [
+                "A. 汽车的后座。",
+                "B. 在公园里。",
+                "C. 客厅里。",
+                "D. 咖啡馆里。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_1": {
+            "id": "aWBRHk_-5as_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "整体环境是怎样的？",
+            "options": [
+                "A. 环境豪华、宽敞且明亮。",
+                "B. 环境黑暗、狭窄且杂乱。",
+                "C. 环境极简、工业风且昏暗。",
+                "D. 环境粗犷、户外感且混乱。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_2": {
+            "id": "aWBRHk_-5as_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "车里的人穿着什么？",
+            "options": [
+                "A. 一件白色衬衫，袖子卷起",
+                "B. 一件带帽的黑色夹克",
+                "C. 一件带图案设计的蓝色T恤",
+                "D. 一件长袖的灰色毛衣"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_3": {
+            "id": "aWBRHk_-5as_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "车里那个人的姿态是如何描述的？",
+            "options": [
+                "A. 那个人看起来很紧张，双臂交叉。",
+                "B. 那个人看起来很放松，左臂靠在座位上。",
+                "C. 那个人看起来很忙，手里拿着手机。",
+                "D. 那个人看起来在睡觉，头靠在窗户上。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_4": {
+            "id": "aWBRHk_-5as_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "汽车座椅在外观上是如何描述的？",
+            "options": [
+                "A. 浅灰色皮革包裹的。",
+                "B. 由黑色织物制成的。",
+                "C. 粗糙的纹理织物表面。",
+                "D. 深棕色皮革包裹的。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_5": {
+            "id": "aWBRHk_-5as_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "图像中可以看到多少人？",
+            "options": [
+                "A. 没有人。",
+                "B. 一个人。",
+                "C. 两个人。",
+                "D. 三个人。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_6": {
+            "id": "aWBRHk_-5as_6",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "汽车在行驶吗？",
+            "options": [
+                "A. 是的，汽车正在高速行驶。",
+                "B. 不，汽车停着。",
+                "C. 不确定，汽车可能停着或者在慢慢移动。",
+                "D. 是的，汽车正在繁忙的城市里行驶。"
+            ],
+            "answer": "D"
+        },
+        "aWBRHk_-5as_7": {
+            "id": "aWBRHk_-5as_7",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "这张图片使用了哪种拍摄角度？",
+            "options": [
+                "A. 前置相机的角度拍摄的。",
+                "B. 侧面相机的角度拍摄的。",
+                "C. 俯视相机的角度拍摄的。",
+                "D. 外部相机通过后窗拍摄的。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_8": {
+            "id": "aWBRHk_-5as_8",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "相机镜头在图像中捕捉到了什么？",
+            "options": [
+                "A. 它捕捉到了后座的上半部分。",
+                "B. 它捕捉到了汽车内部的全景。",
+                "C. 它捕捉到了前座和仪表板区域。",
+                "D. 它捕捉到了车门把手的特写。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_9": {
+            "id": "aWBRHk_-5as_9",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频主要发生在哪里？",
+            "options": [
+                "A. 户外场所。",
+                "B. 集市。",
+                "C. 办公楼内。",
+                "D. 质朴房屋。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_10": {
+            "id": "aWBRHk_-5as_10",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "视频中的男人穿着什么？",
+            "options": [
+                "A. 白色裤子和一件纵向条纹的衬衫。",
+                "B. 黑色裤子和一件纯蓝色的衬衫。",
+                "C. 灰色裤子和一件横向条纹的衬衫。",
+                "D. 白色裤子和一件纯红色的衬衫。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_11": {
+            "id": "aWBRHk_-5as_11",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "寺庙风格建筑立面的特点是什么？",
+            "options": [
+                "A. 是纯白色的，并有精美的雕刻。",
+                "B. 是鲜红色的，并配有现代玻璃面板。",
+                "C. 是金色的，没有雕刻。",
+                "D. 是浅灰色的，带有简约的砖块图案。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_12": {
+            "id": "aWBRHk_-5as_12",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "这个类似寺庙的建筑物的窗户看起来怎么样？",
+            "options": [
+                "A. 窗户又高又窄，有深红色的窗框和红色金属格栅。",
+                "B. 窗户宽而矮，有蓝色的窗框和白色的窗帘。",
+                "C. 窗户是圆形的，有绿色的窗框，没有格栅。",
+                "D. 窗户是方形的，有黄色的窗框和木制百叶窗。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_13": {
+            "id": "aWBRHk_-5as_13",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "寺庙状建筑的屋檐上装饰着什么？",
+            "options": [
+                "A. 华丽的金色细节。",
+                "B. 红瓦。",
+                "C. 银色雕刻。",
+                "D. 白色雕像。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_14": {
+            "id": "aWBRHk_-5as_14",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "有多少白色建筑是可见的？",
+            "options": [
+                "A. 一个。",
+                "B. 两个。",
+                "C. 三个。",
+                "D. 四个。"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_15": {
+            "id": "aWBRHk_-5as_15",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "这个男人走得很快吗？",
+            "options": [
+                "A. 是的，这个男人走得很快。",
+                "B. 不，这个男人走得很悠闲。",
+                "C. 是的，这个男人在跑步。",
+                "D. 不，这个男人在全速奔跑。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_16": {
+            "id": "aWBRHk_-5as_16",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "那个男人在行走时向哪个方向移动？",
+            "options": [
+                "A. 稍微向左移动。",
+                "B. 稍微向右移动。",
+                "C. 保持在路径的中心。",
+                "D. 以锯齿形的方式沿路径行走。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_17": {
+            "id": "aWBRHk_-5as_17",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "这个镜头使用了什么视角？",
+            "options": [
+                "A. 平视视角。",
+                "B. 俯视视角。",
+                "C. 低角度视角。",
+                "D. 高角度视角。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_18": {
+            "id": "aWBRHk_-5as_18",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "这个人的步伐是怎样的？",
+            "options": [
+                "A. 这个人走得很悠闲。",
+                "B. 这个人走得很快。",
+                "C. 这个人在跑。",
+                "D. 这个人静止不动。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_19": {
+            "id": "aWBRHk_-5as_19",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "男人的衬衫相较于前场景发生了什么变化？",
+            "options": [
+                "A. 从黄白条纹变成了棕白色调。",
+                "B. 从纯白色变成了黄白条纹。",
+                "C. 从黑白条纹变成了蓝白条纹。",
+                "D. 从绿黄条纹变成了红白条纹。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_20": {
+            "id": "aWBRHk_-5as_20",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "当这个男人沿着寺庙建筑群的小路行走时，他左边的位置是什么？",
+            "options": [
+                "A. 装饰华丽的白色寺庙外墙。",
+                "B. 高大的白色佛塔。",
+                "C. 修剪整齐的绿色植物。",
+                "D. 停放的摩托车和一个蓝色垃圾桶。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_21": {
+            "id": "aWBRHk_-5as_21",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频的背景是什么？",
+            "options": [
+                "A. 城市市场。",
+                "B. 寺庙群。",
+                "C. 博物馆。",
+                "D. 森林。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_22": {
+            "id": "aWBRHk_-5as_22",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频中有哪些建筑特征？",
+            "options": [
+                "A. 场景包括白色寺庙外观、高大的白色佛塔、鲜艳的橙色和红色屋顶、远处桃色建筑以及修剪整齐的绿化。",
+                "B. 场景包括黑色寺庙外观、高大的银色尖塔、鲜艳的蓝色和黄色屋顶、远处米色建筑以及野生植被。",
+                "C. 场景包括白色寺庙外观、矮小的白色佛塔、鲜艳的绿色和红色屋顶、远处粉色建筑以及混凝土路面。",
+                "D. 场景包括灰色寺庙外观、中等高度的灰色佛塔、暗淡的橙色和白色屋顶、远处棕色建筑以及岩石地面。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_23": {
+            "id": "aWBRHk_-5as_23",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "当这个男人走近镜头时，他穿着什么？",
+            "options": [
+                "A. 黄白色竖条纹成衬衫，白色裤子。",
+                "B. 蓝色衬衫，黑色裤子。",
+                "C. 红色横条衬衫，米色裤子。",
+                "D. 绿色夹克和灰色裤子。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_24": {
+            "id": "aWBRHk_-5as_24",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "背景可以看到哪些物体？",
+            "options": [
+                "A. 一个告示牌和一个蓝色垃圾桶",
+                "B. 一个喷泉和一张木制长椅",
+                "C. 一个小吃摊和一座小雕像",
+                "D. 一个装饰性的灯柱和一辆自行车"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_25": {
+            "id": "aWBRHk_-5as_25",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "寺庙建筑群是否具有传统的泰式建筑元素？",
+            "options": [
+                "A. 是的，寺庙建筑群显著地具有传统的泰式建筑元素。",
+                "B. 不，寺庙建筑群没有传统的泰式建筑元素。",
+                "C. 是的，但寺庙建筑群仅包括现代建筑元素。",
+                "D. 不，建筑元素主要是西方影响。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_26": {
+            "id": "aWBRHk_-5as_26",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "男人移动的方向是什么？",
+            "options": [
+                "A. 男人正向后退，远离镜头。",
+                "B. 男人正向前移动，接近镜头。",
+                "C. 男人正侧身穿过画面。",
+                "D. 男人在画面中静止不动。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_27": {
+            "id": "aWBRHk_-5as_27",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "当这个人走动时，相机如何调整其焦点？",
+            "options": [
+                "A. 镜头相对静止，记录人的同时清晰拍摄环境。",
+                "B. 镜头完全聚焦在寺庙背景上。",
+                "C. 镜头使这个人变得模糊。",
+                "D. 镜头拉远。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_28": {
+            "id": "aWBRHk_-5as_28",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "当场景的环境中，什么物体因为颜色显得突出？",
+            "options": [
+                "A. 华丽的白色寺庙正面变得显得突出。",
+                "B. 高大的白色佛塔变得更加显眼。",
+                "C. 右侧修剪整齐的绿植变得显得突出。",
+                "D. 充满金色装饰的鲜艳橙色屋顶成为焦点。"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_29": {
+            "id": "aWBRHk_-5as_29",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "寺庙大殿中金佛像位于何处？",
+            "options": [
+                "A. 金佛像位于大殿入口处。",
+                "B. 金佛像位于大殿中央，置于高台之上。",
+                "C. 金佛像被放置在靠近天花板的角落。",
+                "D. 金佛像在寺庙大殿外，靠近花园。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_30": {
+            "id": "aWBRHk_-5as_30",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "僧侣们在金色佛像前面做什么？",
+            "options": [
+                "A. 僧侣们整齐地坐成几排。",
+                "B. 僧侣们围成一圈站着。",
+                "C. 僧侣们围着佛像走。",
+                "D. 僧侣们正在热烈讨论佛陀的教义。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_31": {
+            "id": "aWBRHk_-5as_31",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "金佛像有哪些显著特征？",
+            "options": [
+                "A. 金佛像宏伟壮观，闪闪发光，坐在基座上，散发出宁静而威严的气息。",
+                "B. 金佛像很小，站在桌子上，显得谦逊而不显眼。",
+                "C. 金佛像雕刻精美，周围有银色装饰，呈现出一种战士般的姿态。",
+                "D. 金佛像是半透明的，悬挂在天花板上，象征着飞翔。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_32": {
+            "id": "aWBRHk_-5as_32",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "初始画面中，除了坐着的穿棕黄色衣服的僧侣，另外被明显描述的人是谁？",
+            "options": [
+                "A. 一个穿白袍的男人，一个女人，以及一个穿白色衣服的身影。",
+                "B. 一个穿黑袍的男人，一个女人，以及一个穿深色衣服的身影。",
+                "C. 一个穿白袍的男人，一个女人，以及一个拿着卷轴的僧侣。",
+                "D. 一个穿白袍的男人，一个女人，以及一个穿深色衣服的身影。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_33": {
+            "id": "aWBRHk_-5as_33",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "金佛像是放在地面上吗？",
+            "options": [
+                "A. 是的，金佛像在地面上。",
+                "B. 不，金佛像被抬高放在一个基座上。",
+                "C. 是的，金佛像直接被地面上的僧侣们包围。",
+                "D. 不，金佛像是悬挂在天花板上的。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_34": {
+            "id": "aWBRHk_-5as_34",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "拿着智能手机的女人在做什么？",
+            "options": [
+                "A. 她正在举起手机拍摄。",
+                "B. 她正在用手机与寺庙外的某人交流。",
+                "C. 她正在调整手机的设置。",
+                "D. 她正在看手机上的一条信息。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_35": {
+            "id": "aWBRHk_-5as_35",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "穿白袍的男人面向什么？",
+            "options": [
+                "A. 金色佛像",
+                "B. 穿着鲜艳橙色僧袍的僧侣",
+                "C. 复杂图案的天花板",
+                "D. 头顶上的吊灯"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_36": {
+            "id": "aWBRHk_-5as_36",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "华丽的分层金色结构相对于中央佛像的位置如何？",
+            "options": [
+                "A. 两侧。",
+                "B. 前面。",
+                "C. 后面。",
+                "D. 周围。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_37": {
+            "id": "aWBRHk_-5as_37",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "寺庙大厅的整体环境是怎样的？",
+            "options": [
+                "A. 优雅和谐。",
+                "B. 混乱拥挤。",
+                "C. 简朴而极简。",
+                "D. 黑暗神秘。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_38": {
+            "id": "aWBRHk_-5as_38",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "画面右侧的女子正在做什么？",
+            "options": [
+                "A. 她手持智能手机，可能在拍摄佛像。",
+                "B. 她正在点燃蜡烛，作为仪式的一部分。",
+                "C. 她正在重新摆放佛像旁边的装饰塔。",
+                "D. 她正以冥想的姿势坐着，面向佛像。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_39": {
+            "id": "aWBRHk_-5as_39",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "中央金色佛像的姿势是什么？",
+            "options": [
+                "A. 盘腿而坐，一只手垂放在腿上，一只手平放在膝上。",
+                "B. 中央金色佛像站立，双臂高举过头。",
+                "C. 中央金色佛像侧卧，一只手支撑着头。",
+                "D. 中央金色佛像盘腿而坐，双手合十祈祷。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_40": {
+            "id": "aWBRHk_-5as_40",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "中央的金色佛像是安置在哪里的？",
+            "options": [
+                "A. 佛像安置在一个高架的底座上。",
+                "B. 佛像安置在寺庙的地面上。",
+                "C. 佛像安置在寺庙的一个侧边小室里。",
+                "D. 佛像安置在寺庙外的一个遮篷下。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_41": {
+            "id": "aWBRHk_-5as_41",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "在更紧的镜头框架中，哪些行的人不再可见？",
+            "options": [
+                "A. 坐着的僧侣的行列",
+                "B. 站着的僧侣的行列",
+                "C. 站着的信众的行列",
+                "D. 念经的信众的行列"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_42": {
+            "id": "aWBRHk_-5as_42",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "在更紧的镜头框架中，哪些人还可见？",
+            "options": [
+                "A. 白色衣服短头发的男人",
+                "B. 拿着智能手机的女人",
+                "C. 穿橙色袍子的僧侣",
+                "D. 穿着白袍的僧侣"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_43": {
+            "id": "aWBRHk_-5as_43",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "更紧的相机框架如何影响场景中可见的元素？",
+            "options": [
+                "A. 消除了除佛像以外的所有元素。",
+                "B. 使周围元素更加突出。",
+                "C. 减少了周围元素，更凸显佛像。",
+                "D. 移除了场景中的所有照明元素。"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_44": {
+            "id": "aWBRHk_-5as_44",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "相对于这个人，户外场景的右侧有哪些物体或元素？",
+            "options": [
+                "A. 树枝、花盆和花坛里的树木。",
+                "B. 垃圾桶、柱子和花坛。",
+                "C. 树枝、窗户和吊灯。",
+                "D. 花盆、石头和寺庙墙壁，窗户。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_45": {
+            "id": "aWBRHk_-5as_45",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "寺庙建筑的外观是如何描述的？",
+            "options": [
+                "A. 白色墙壁、蓝色框的窗户。",
+                "B. 白墙、红色框的窗户。",
+                "C. 由石材建成，搭配绿色框的窗户。",
+                "D. 有白墙、黑色框的窗户。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_46": {
+            "id": "aWBRHk_-5as_46",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "这名男子走出寺庙后他穿着什么？",
+            "options": [
+                "A. 一件芥末黄色和白色图案的衬衫，带有深领口",
+                "B. 一件纯白色的长袍",
+                "C. 一件红色和金色的传统服装",
+                "D. 一件蓝白条纹衬衫"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_47": {
+            "id": "aWBRHk_-5as_47",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "那个人走出寺庙后，他看起来怎么样？",
+            "options": [
+                "A. 他在走出寺庙时以侧面姿态出现。",
+                "B. 他坐在靠近花坛的长椅上。",
+                "C. 他跪在金色佛像前面。",
+                "D. 他站在一个蓝色垃圾桶旁边。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_48": {
+            "id": "aWBRHk_-5as_48",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "金佛像有什么特点？",
+            "options": [
+                "A. 金佛像很小，呈站立姿态。",
+                "B. 金佛像很大，呈冥想姿态。",
+                "C. 金佛像是中等大小，周围有蜡烛。",
+                "D. 金佛像是卧姿，双臂展开。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_49": {
+            "id": "aWBRHk_-5as_49",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "寺庙内部场景的主要光源是什么？",
+            "options": [
+                "A. 来自吊灯和对称的金色分层结构的光。",
+                "B. 从寺庙窗户和天花板洒落的自然阳光。",
+                "C. 仅聚焦于佛像的明亮聚光灯。",
+                "D. 放置在寺庙内部周围的LED灯和地灯。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_50": {
+            "id": "aWBRHk_-5as_50",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "这个男人在走出门外后是否向摄像机做手势？",
+            "options": [
+                "A. 是的，他用左手比了个大拇指。",
+                "B. 不，他没有做任何手势。",
+                "C. 是的，他用双手向摄像机挥手。",
+                "D. 不，他转身走开，没有做手势。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_51": {
+            "id": "aWBRHk_-5as_51",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "这个人走出寺庙后做了什么动作？",
+            "options": [
+                "A. 这个人用右手比出一个大拇指手势。",
+                "B. 这个人跪下来检查花坛。",
+                "C. 这个人双手向镜头挥手。",
+                "D. 这个人整理他黄色的衬衫。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_52": {
+            "id": "aWBRHk_-5as_52",
+            "scene": 4,
+            "dimension": "Camera Direction",
+            "question": "相机向哪个方向移动以揭示户外场景中的新元素？",
+            "options": [
+                "A. 相机向后移动，揭示出庭院中垃圾桶和一个柱子。",
+                "B. 相机向上移动，揭示出寺庙的华丽屋顶。",
+                "C. 相机向左移动，聚焦于树木和一个蓝色垃圾桶。",
+                "D. 相机放大，聚焦于做出竖起大拇指手势的男子。"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_53": {
+            "id": "aWBRHk_-5as_53",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "庭院场景中，圆形花坛是如何被相机框入的？",
+            "options": [
+                "A. 从画面左侧逐渐显现。",
+                "B. 相机俯瞰着圆形花坛。",
+                "C. 圆形花坛几乎不可见，被前景的赤陶盆栽遮挡。",
+                "D. 相机仅聚焦于红色和黄色的装饰柱，完全没有涉及花坛。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_54": {
+            "id": "aWBRHk_-5as_54",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "在走到寺庙外部时，有哪些装饰元素引人注目？",
+            "options": [
+                "A. 外部有白色墙壁、红色窗框和绿色景观。",
+                "B. 外部有蓝色墙壁、黄色窗框和石头小路。",
+                "C. 外部装饰有黑色墙壁、绿色窗框和沙地庭院。",
+                "D. 外部展示棕色墙壁、橙色窗框和碎石花园。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_55": {
+            "id": "aWBRHk_-5as_55",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "在户外寺庙环境中的那个人穿着什么？",
+            "options": [
+                "A. 芥末黄色和白色图案的衬衫。",
+                "B. 纯白色衬衫。",
+                "C. 浅蓝色和白色条纹衬衫。",
+                "D. 黑色和黄色格子衬衫。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_56": {
+            "id": "aWBRHk_-5as_56",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "在户外寺庙环境中，这名男子在做什么动作？",
+            "options": [
+                "A. 他在寺庙院子里用手势示意。",
+                "B. 他在寺庙入口处静静地坐着。",
+                "C. 他在清扫院子里的地面。",
+                "D. 他在寺庙里点香。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_57": {
+            "id": "aWBRHk_-5as_57",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "在室内用餐场景中，长方形盘子上的三小碗调味料装着什么？",
+            "options": [
+                "A. 花生碎、辣椒粉和白糖。",
+                "B. 芝麻酱、花椒粉和红糖",
+                "C. 椰子片、五香粉和冰糖",
+                "D. 核桃仁、孜然粉和黄糖"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_58": {
+            "id": "aWBRHk_-5as_58",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "在室内用餐场景中，长方形盘子上有什么物品？",
+            "options": [
+                "A. 一个盘子装着包含青柠和豆芽，以及三个小碗调味品。",
+                "B. 各种奶酪、饼干和一小碗橄榄。",
+                "C. 各种水果，包括苹果片、葡萄和一小碗酸奶。",
+                "D. 各种寿司卷、芥末和腌姜。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_59": {
+            "id": "aWBRHk_-5as_59",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "在室内用餐场景中，长方形盘子上是否有巨大叶片装饰？",
+            "options": [
+                "A. 是，有一个绿色的巨大叶片装饰。",
+                "B. 是，有一个微微发黄的巨大叶片装饰。",
+                "C. 否，不存在叶片装饰。",
+                "D. 否，存在大量叶片装饰，但并不大。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_60": {
+            "id": "aWBRHk_-5as_60",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "矩形盘子上可以看到多少个装调料的迷你碗？",
+            "options": [
+                "A. 两个。",
+                "B. 三个。",
+                "C. 四个。",
+                "D. 一个。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_61": {
+            "id": "aWBRHk_-5as_61",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "户外场景中是否有一个蓝色垃圾桶？",
+            "options": [
+                "A. 是的，户外场景中有一个蓝色垃圾桶。",
+                "B. 不，户外场景中没有蓝色垃圾桶。",
+                "C. 是的，户外的桶是蓝色的，但它不是垃圾桶。",
+                "D. 不，户外场景中有一个绿色垃圾桶。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_62": {
+            "id": "aWBRHk_-5as_62",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "在室内用餐场景左侧手部可见的位置握着什么？",
+            "options": [
+                "A. 一个白色长方形盘子。",
+                "B. 一个蓝灰色的陶瓷碗。",
+                "C. 一个大号意大利辣香肠披萨。",
+                "D. 一个环形花坛。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_63": {
+            "id": "aWBRHk_-5as_63",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "户外场景中哪种视觉元素增强了寺庙的传统美感？",
+            "options": [
+                "A. 建筑背景，白色墙壁，红框窗户，以及橙色的瓦顶。",
+                "B. 蓝色的垃圾桶放在一个装饰柱的旁边。",
+                "C. 庭院中的茂密绿植和圆形花坛。",
+                "D. 穿着芥末黄色图案衬衫的男子用手势指点。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_64": {
+            "id": "aWBRHk_-5as_64",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "室内用餐场景中使用了哪种相机视角？",
+            "options": [
+                "A. 使用了俯视视角。",
+                "B. 使用了侧角视角。",
+                "C. 使用了特写视角。",
+                "D. 使用了广角视角。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_65": {
+            "id": "aWBRHk_-5as_65",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "什么动作将手与餐饮场景连接起来？",
+            "options": [
+                "A. 手小心地拿着白色长方形盘子。",
+                "B. 手指向蓝灰色陶瓷碗。",
+                "C. 手把意大利香肠披萨放在桌子上。",
+                "D. 手在香蕉叶上摆放装饰菜。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_66": {
+            "id": "aWBRHk_-5as_66",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "手是如何与餐桌环境互动的？",
+            "options": [
+                "A. 手通过拿着盘子与餐桌环境互动。",
+                "B. 手通过布置餐桌装饰与餐桌环境互动。",
+                "C. 手通过准备菜肴与餐桌环境互动。",
+                "D. 手通过清理餐桌与餐桌环境互动。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_67": {
+            "id": "aWBRHk_-5as_67",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "在沙拉特写镜头中，切半的白煮蛋位于画面哪里？",
+            "options": [
+                "A. 右上角。",
+                "B. 左下角。",
+                "C. 中央。",
+                "D. 顶部。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_68": {
+            "id": "aWBRHk_-5as_68",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "场景中是否存在沙拉和披萨？",
+            "options": [
+                "A. 是，场景中存在沙拉和披萨。",
+                "B. 否，场景中只存在沙拉。",
+                "C. 否，场景中只存在披萨。",
+                "D. 否，场景中并不存在沙拉或披萨。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_69": {
+            "id": "aWBRHk_-5as_69",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "沙拉展示的背景中有哪些元素？",
+            "options": [
+                "A. 背景中有一些模糊的细节，比如白色餐具。",
+                "B. 背景展示了丰富的摆设，包括海鲜、牛排和装饰品。",
+                "C. 背景突出了一个有香料和厨房用具的木制台面。",
+                "D. 背景是一个黑暗且简单的表面，没有可见的细节。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_70": {
+            "id": "aWBRHk_-5as_70",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "什么样的碗装沙拉？",
+            "options": [
+                "A. 浅白色碗里。",
+                "B. 深灰色碗里。",
+                "C. 扁平的米色盘子里。",
+                "D. 蓝色陶瓷碗里。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_71": {
+            "id": "aWBRHk_-5as_71",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "沙拉碗里面的食材是如何摆放的？",
+            "options": [
+                "A. 食材是随意混合在一起的。",
+                "B. 食材被精心排列。",
+                "C. 食材分层摆放。",
+                "D. 食材被分成不同的区块。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_72": {
+            "id": "aWBRHk_-5as_72",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "最开始餐桌布置中展示的主菜是什么？",
+            "options": [
+                "A. 一个用黄色网状可丽饼包裹的海鲜菜、一个意大利辣香肠披萨。",
+                "B. 一个用黄色网状可丽饼包裹的海鲜菜、一碗意大利面和沙拉。",
+                "C. 一个用黄色网状可丽饼包裹的海鲜菜、一个意大利辣香肠披萨和一个牛排拼盘。",
+                "D. 一个用黄色网状可丽饼包裹的海鲜菜、一个意大利辣香肠披萨和一个甜点拼盘。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_73": {
+            "id": "aWBRHk_-5as_73",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "近距离特写镜头的背景是否分散了对沙拉的关注？",
+            "options": [
+                "A. 是的，背景充满了分散注意力的元素。",
+                "B. 不，背景保持中立和不显眼，增强了对沙拉的关注。",
+                "C. 是的，背景细节过多，与沙拉争夺注意力。",
+                "D. 不，背景完全模糊，对场景没有贡献。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_74": {
+            "id": "aWBRHk_-5as_74",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "在沙拉的特写中，有哪些物体似乎移动或改变位置了吗？",
+            "options": [
+                "A. 是的，其中一个切开的鸡蛋稍微滚动了一下。",
+                "B. 是的，樱桃番茄似乎改变了位置。",
+                "C. 不，特写中的物体是静止的。",
+                "D. 是的，四季豆稍微移动了一下。"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_75": {
+            "id": "aWBRHk_-5as_75",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "使用了什么类型的镜头来呈现沙拉？",
+            "options": [
+                "A. 广角镜头。",
+                "B. 特写镜头。",
+                "C. 航拍镜头。",
+                "D. 远景镜头。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_76": {
+            "id": "aWBRHk_-5as_76",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "炒饭的盘子相对于装有绿唇贻贝的陶锅的位置在哪里？",
+            "options": [
+                "A. 左边。",
+                "B. 前面。",
+                "C. 后面。",
+                "D. 右边。"
+            ],
+            "answer": "D"
+        },
+        "aWBRHk_-5as_77": {
+            "id": "aWBRHk_-5as_77",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "海鲜锅中央的小方白碟里有什么？",
+            "options": [
+                "A. 带有红辣椒碎的鲜绿色酱。",
+                "B. 带有香草的白色奶油酱。",
+                "C. 香柠檬汁。",
+                "D. 甜辣番茄酱。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_78": {
+            "id": "aWBRHk_-5as_78",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "新鲜的罗勒叶是否包含在青口贝的砂锅中？",
+            "options": [
+                "A. 是的，新鲜的罗勒叶被放在砂锅中。",
+                "B. 不，砂锅中没有新鲜的罗勒叶。",
+                "C. 不是，罗勒叶放在砂锅外面。",
+                "D. 不，只有迷迭香与青口贝一起放入。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_79": {
+            "id": "aWBRHk_-5as_79",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "在场景中，色彩鲜艳的沙拉之后，焦点转向哪里？",
+            "options": [
+                "A. 焦点转向披萨。",
+                "B. 焦点转向甜点拼盘。",
+                "C. 焦点转向面条汤。",
+                "D. 焦点转向一块烤牛排。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_80": {
+            "id": "aWBRHk_-5as_80",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "在用餐场景中，用于强调食物纹理和细节的摄影镜头是什么？",
+            "options": [
+                "A. 从上方的俯拍镜头",
+                "B. 眼平的中景镜头",
+                "C. 特写视角，略微倾斜",
+                "D. 展示整张餐桌的广角镜头"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_81": {
+            "id": "aWBRHk_-5as_81",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "白色陶瓷碗和金属勺子在哪里？",
+            "options": [
+                "A. 在桌子上。",
+                "B. 在架子上。",
+                "C. 在红色玻璃瓶旁边。",
+                "D. 在地板上。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_82": {
+            "id": "aWBRHk_-5as_82",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "这个视频场景的环境是什么？",
+            "options": [
+                "A. 环境是户外野餐。",
+                "B. 环境是餐厅。",
+                "C. 环境是咖啡厅。",
+                "D. 环境是厨房。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_83": {
+            "id": "aWBRHk_-5as_83",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "中景中的那个人穿着什么？",
+            "options": [
+                "A. 一件浅色的衬衫，上面有黑色花卉图案",
+                "B. 一件深色的衬衫，有条纹",
+                "C. 一件白色的衬衫，上面有红色波点",
+                "D. 一件浅蓝色的衬衫，有格子图案"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_84": {
+            "id": "aWBRHk_-5as_84",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "砂锅里的绿唇贻贝是什么样子的？",
+            "options": [
+                "A. 绿唇贻贝搭配了一种鲜艳的酱汁，并点缀着新鲜的罗勒叶。",
+                "B. 绿唇贻贝是平铺的，没有任何装饰或配菜。",
+                "C. 绿唇贻贝配有柠檬片和香菜。",
+                "D. 绿唇贻贝与番茄丁和甜椒一起烹制。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_85": {
+            "id": "aWBRHk_-5as_85",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "场景中显著展示了多少种美食？",
+            "options": [
+                "A. 一种。",
+                "B. 两种。",
+                "C. 三种。",
+                "D. 四种。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_86": {
+            "id": "aWBRHk_-5as_86",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景中主要出现了哪些类型的菜肴？",
+            "options": [
+                "A. 青口贝和一盘炒饭。",
+                "B. 一盘意大利面和一碗汤。",
+                "C. 一盘寿司和一盘田园沙拉。",
+                "D. 一盘烤鸡和一碗土豆泥。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_87": {
+            "id": "aWBRHk_-5as_87",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "在场景中是否可以看到一个绿色玻璃瓶？",
+            "options": [
+                "A. 是的，场景中可以看到一个绿色玻璃瓶。",
+                "B. 不，场景中没有绿色玻璃瓶。",
+                "C. 是的，但瓶子不是绿色的。",
+                "D. 不，场景中没有提到玻璃瓶。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_88": {
+            "id": "aWBRHk_-5as_88",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景中如何处理贻贝？",
+            "options": [
+                "A. 贻贝被放在一个白盘子上。",
+                "B. 一只手拿着一个贻贝，放到镜头前展示。",
+                "C. 贻贝与炒饭一起放在一个明亮的黄色桌子上供应。",
+                "D. 贻贝被放入一个陶瓷碗中，并配以浓郁的酱汁。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_89": {
+            "id": "aWBRHk_-5as_89",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "青口贝是如何放置在勺子上的？",
+            "options": [
+                "A. 青口贝没有放在勺子上，由一只手拿着。",
+                "B. 青口贝放置在一个陶罐中。",
+                "C. 青口贝躺在一盘炒饭上。",
+                "D. 青口贝放置在一个白色陶瓷碗中。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_90": {
+            "id": "aWBRHk_-5as_90",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "使用什么镜头来强调青口贝？",
+            "options": [
+                "A. 广角镜头。",
+                "B. 特写镜头",
+                "C. 航拍镜头。",
+                "D. 远景镜头。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_91": {
+            "id": "aWBRHk_-5as_91",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "从视频画面来看，这个人相对于华丽的金色香炉的位置在哪里？",
+            "options": [
+                "A. 上面。",
+                "B. 下面。",
+                "C. 右面。",
+                "D. 左面。"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_92": {
+            "id": "aWBRHk_-5as_92",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "视频是从什么场景过渡而来？",
+            "options": [
+                "A. 从室内用餐场景过渡。",
+                "B. 市场场景过渡。",
+                "C. 海滩场景过渡，。",
+                "D. 从街道过渡。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_93": {
+            "id": "aWBRHk_-5as_93",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "视频过渡到什么样的户外环境？",
+            "options": [
+                "A. 户外寺庙庭院。",
+                "B. 城市户外市场。",
+                "C. 宁静的湖边景色。",
+                "D. 安静的森林空地。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_94": {
+            "id": "aWBRHk_-5as_94",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "这个人用香柱做了哪些动作？",
+            "options": [
+                "A. 这个人双手握着几根香柱竖直放着，似乎在进行某种精神或仪式性的活动。",
+                "B. 这个人正在把香灰撒入香炉中。",
+                "C. 这个人正在用香柱点燃寺庙周围的灯。",
+                "D. 这个人正在把香柱掰成小段进行分发。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_95": {
+            "id": "aWBRHk_-5as_95",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "那座华丽的金色香炉装饰是什么？",
+            "options": [
+                "A. 狮子",
+                "B. 龙",
+                "C. 凤凰",
+                "D. 莲花"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_96": {
+            "id": "aWBRHk_-5as_96",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "这座华丽的金色香炉的底座设计是什么样的？",
+            "options": [
+                "A. 底座上方为金属，下方不可见。",
+                "B. 底座是光滑的白色，没有装饰。",
+                "C. 底座饰有蓝色和银色图案。",
+                "D. 底座上有简单的黑白条纹。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_97": {
+            "id": "aWBRHk_-5as_97",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "男子手上拿的香有什么特点？",
+            "options": [
+                "A. 散发出细微的烟雾。",
+                "B. 它散发出淡淡的香味而没有可见的烟雾。",
+                "C. 它从燃烧的香中发出明亮的火花。",
+                "D. 它发出明亮的火焰。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_98": {
+            "id": "aWBRHk_-5as_98",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "在仪式中，这个男人手里拿着多少香？",
+            "options": [
+                "A. 每只手持一根香",
+                "B. 总共持两根香",
+                "C. 两手共持至少六根香",
+                "D. 没有香，只是空手"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_99": {
+            "id": "aWBRHk_-5as_99",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "这个男人在室内和室外场景中穿的是同样的服装吗？",
+            "options": [
+                "A. 是",
+                "B. 不是",
+                "C. 只有在仪式场景中",
+                "D. 只有在用餐场景中"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_100": {
+            "id": "aWBRHk_-5as_100",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "在户外场景中，这名男子穿着什么？",
+            "options": [
+                "A. 黑白相间的图案衬衫。",
+                "B. 红金相间的礼服。",
+                "C. 一件纯白衬衫。",
+                "D. 蓝灰条纹的服装。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_101": {
+            "id": "aWBRHk_-5as_101",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "是什么表明仪式在寺庙庭院中正在进行？",
+            "options": [
+                "A. 那个拿着反光不锈钢勺子和贻贝壳的人。",
+                "B. 香炉中香棒的细微烟迹表明仪式正在进行。",
+                "C. 仪式期间停在庭院附近的摩托车。",
+                "D. 挂在寺庙入口附近的装饰性红灯笼。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_102": {
+            "id": "aWBRHk_-5as_102",
+            "scene": 7,
+            "dimension": "Object Direction",
+            "question": "香烟从香烟棒中流出的方向是哪个方向？",
+            "options": [
+                "A. 微微向上流出。",
+                "B. 向下流出。",
+                "C. 向侧面流出。",
+                "D. 香烟从香烟棒中呈环状流出。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_103": {
+            "id": "aWBRHk_-5as_103",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "场景中存在摩托吗？",
+            "options": [
+                "A. 存在多辆摩托。",
+                "B. 存在一辆摩托。",
+                "C. 存在一辆摩托，但是很破旧。",
+                "D. 不存在摩托。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_104": {
+            "id": "aWBRHk_-5as_104",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "从画面来看，黑色摩托车相对于男人的位置在哪里？",
+            "options": [
+                "A. 男人腰部稍微偏左的位置。",
+                "B. 正好在男人的正前方。",
+                "C. 在男人的右侧。",
+                "D. 在寺庙入口柱子的后面。"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_105": {
+            "id": "aWBRHk_-5as_105",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "画面左侧大门上可以看懂什么字？",
+            "options": [
+                "A. 慈悲为民消灾添福寿",
+                "B. 仁德济世除厄增康宁",
+                "C. 善心佑众解困赐吉祥",
+                "D. 宏愿护生祛难降祯祥"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_106": {
+            "id": "aWBRHk_-5as_106",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "视频中描绘了什么样的环境？",
+            "options": [
+                "A. 视充满商贩和顾客的繁忙市场。",
+                "B. 具有丰富文化氛围的寺庙庭院，气氛宁静。",
+                "C. 现代化城市街道，交通繁忙，高楼林立。",
+                "D. 安静的森林，小木屋坐落在树木之间。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_107": {
+            "id": "aWBRHk_-5as_107",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "视频中环境的描绘融合了哪些元素？",
+            "options": [
+                "A. 敬香仪式和寺庙，摩托车等现代元素相结合。",
+                "B. 视频仅关注香仪式和华丽的寺庙细节。",
+                "C. 视频强调现代元素如摩托车。",
+                "D. 视频纯粹描绘了寺庙建筑的历史细节。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_108": {
+            "id": "aWBRHk_-5as_108",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "执行仪式的主要人物有哪些行为特征？",
+            "options": [
+                "A. 这个人专注而虔诚地高举着香。",
+                "B. 这个人一边调整香炉，一边瞥向龙雕塑。",
+                "C. 这个人面带平静地在金属桌上摆放盒装物品。",
+                "D. 这个人在金色香炉附近点燃成束的香。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_109": {
+            "id": "aWBRHk_-5as_109",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "执行仪式的主要人物的外貌是什么样的？",
+            "options": [
+                "A. 黑白图案的短袖衬衫，左手戴着手表。",
+                "B. 红色的长袍，上面有金色刺绣，没有戴手表。",
+                "C. 白色长袖衬衫，右手戴着手链。",
+                "D. 蓝色的传统服装，系着复杂的腰带，没有佩戴任何饰品。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_110": {
+            "id": "aWBRHk_-5as_110",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "精美的黄铜香炉会产生什么？",
+            "options": [
+                "A. 它产生缕缕烟雾。",
+                "B. 它产生发光的余烬。",
+                "C. 它产生小火焰。",
+                "D. 它产生灰烬云。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_111": {
+            "id": "aWBRHk_-5as_111",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "场景中描述了多少个重要的龙雕塑或装饰品？",
+            "options": [
+                "A. 一个",
+                "B. 六个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_112": {
+            "id": "aWBRHk_-5as_112",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "场景中描述了哪些重要的龙雕塑或装饰品？",
+            "options": [
+                "A. 右侧有一个色彩鲜艳的龙雕塑，以及红色柱子上的盘旋龙图案。",
+                "B. 一个龙雕塑放置在靠近香的金色香炉上。",
+                "C. 在寺庙入口附近的黑色摩托车上刻有龙雕刻。",
+                "D. 一个龙雕塑位于通向庭院外的石板小路上。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_113": {
+            "id": "aWBRHk_-5as_113",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "寺庙庭院是否包含任何现代元素？",
+            "options": [
+                "A. 是的，有黑色摩托车。",
+                "B. 不，没有任何现代元素。",
+                "C. 是的，停在附近的一辆汽车。",
+                "D. 不，寺庙庭院内不允许有现代元素。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_114": {
+            "id": "aWBRHk_-5as_114",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "在他的仪式行为中，这个男人做了什么身体上的调整？",
+            "options": [
+                "A.这个男人高举着香棒没有调整身体。",
+                "B.这个男人深深鞠躬，同时将香棒放入香炉中。",
+                "C.这个男人跪下来，在金属桌上重新整理香包。",
+                "D.这个男人向后退了一步，并调整了铜香炉。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_115": {
+            "id": "aWBRHk_-5as_115",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "这个场景中引入了什么新元素？",
+            "options": [
+                "A. 引入了一个金色喷泉。",
+                "B. 引入了一间装饰华丽的房子。",
+                "C. 引入了一个银色香炉。",
+                "D. 引入了一条红地毯。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_116": {
+            "id": "aWBRHk_-5as_116",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "这个男人相对于公园里大型发光结构的位置是什么？",
+            "options": [
+                "A. 男人坐在公园的草坪上，而背景中是带尖顶的大型发光结构。",
+                "B. 男人站在带尖顶的大型发光结构旁边。",
+                "C. 男人正走向带尖顶的大型发光结构。",
+                "D. 男人躺在带尖顶的大型发光结构前面。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_117": {
+            "id": "aWBRHk_-5as_117",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "视频中描绘了什么样的环境？",
+            "options": [
+                "A. 一个宁静的绿色公园。",
+                "B. 一个白天繁忙的城市街道。",
+                "C. 一个清晨宁静的海滩。",
+                "D. 一个清晨的茂密森林。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_118": {
+            "id": "aWBRHk_-5as_118",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "草地上的男人穿着什么？",
+            "options": [
+                "A. 黄白条纹图案的衬衫，戴着手表。",
+                "B. 白色T恤和蓝色牛仔裤。",
+                "C. 红色毛衣和黑色裤子，戴着手链。",
+                "D. 绿色Polo衫和米色短裤，戴着一条金链。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_119": {
+            "id": "aWBRHk_-5as_119",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "草地上的男人在做什么？",
+            "options": [
+                "A. 坐着读书。",
+                "B. 坐着在画布上作画。",
+                "C. 坐着拿着一个绿色瓶子在喝东西。",
+                "D. 坐着演奏一种乐器。"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_120": {
+            "id": "aWBRHk_-5as_120",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "那位男子穿的是什么类型的衬衫？",
+            "options": [
+                "A. 有领子的扣扣衬衫。",
+                "B. 纯白色的T恤。",
+                "C. 带条纹的背心。",
+                "D. 件带锯齿图案的连帽衫。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_121": {
+            "id": "aWBRHk_-5as_121",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "这件衬衫上的图案是什么样的？",
+            "options": [
+                "A. 黄和白交替的竖条纹图案。",
+                "B. 纯白色的，没有图案。",
+                "C. 蓝色和绿色的横条纹。",
+                "D. 上覆盖着花卉图案。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_122": {
+            "id": "aWBRHk_-5as_122",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "这个男人的衬衫风格是正式的还是非正式的？",
+            "options": [
+                "A. 正式的，扣子一直扣到最上面。",
+                "B. 正式的，并带有大胆的图案设计。",
+                "C. 非正式的，领口的扣子解开了。",
+                "D. 休闲的，短袖且没有图案。"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_123": {
+            "id": "aWBRHk_-5as_123",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "公园场景的中心焦点有多少人？",
+            "options": [
+                "A. 一人",
+                "B. 两人",
+                "C. 三人",
+                "D. 四人"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_124": {
+            "id": "aWBRHk_-5as_124",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "男人在干什么？",
+            "options": [
+                "A. 那个男人用右手喝绿色瓶子里的饮料",
+                "B. 那个男人调整他的银色手表",
+                "C. 那个男人扣上他的有领衬衫的扣子",
+                "D. 那个男人查看他的手机"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_125": {
+            "id": "aWBRHk_-5as_125",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "这个人相对于相机面对哪个方向？",
+            "options": [
+                "A. 这个人面向相机。",
+                "B. 这个人背对相机。",
+                "C. 这个人面向相机的左侧。",
+                "D. 这个人面向相机的右侧。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_126": {
+            "id": "aWBRHk_-5as_126",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "在公园中用于捕捉个人上半身和周围环境的是什么类型的镜头？",
+            "options": [
+                "A. 中近景角度",
+                "B. 鸟瞰镜头",
+                "C. 远景镜头",
+                "D. 特写镜头"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_127": {
+            "id": "aWBRHk_-5as_127",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "从黄昏到暮光，哪些视觉元素表明了时间的过渡？",
+            "options": [
+                "A. 天空变暗以及远处的照明被打开。",
+                "B. 草地上金色光芒以及浓雾。",
+                "C. 落日投下的影子以及天空的红色色调。",
+                "D. 闪烁的萤火虫和公园里回荡的蟋蟀鸣声。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_128": {
+            "id": "aWBRHk_-5as_128",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "男人位于视频的哪里？",
+            "options": [
+                "A. 左侧。",
+                "B. 中间。",
+                "C. 右侧。",
+                "D. 男人不可见。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_129": {
+            "id": "aWBRHk_-5as_129",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "视频中描绘的环境是什么？",
+            "options": [
+                "A. 傍晚天空下的安静户外公园。",
+                "B. 灯光昏暗的乡村小屋。",
+                "C. 灯光明亮的现代室内环境。",
+                "D. 人潮拥挤的繁华城市街道。"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_130": {
+            "id": "aWBRHk_-5as_130",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "在室内场景中，右侧女人外观怎么样？",
+            "options": [
+                "A. 白色衬衫和黑色裤子，并在中心保持专注。",
+                "B. 奶油色花卉衬衫，领口系有蝴蝶结，有浅色头发。",
+                "C. 鲜艳的黄色衬衫，坐在黑色办公椅上。",
+                "D. 芥末黄和白色条纹衬衫，侧身站立。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_131": {
+            "id": "aWBRHk_-5as_131",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "在室内场景中，穿着正式服装的棕发女人外观怎么样？",
+            "options": [
+                "A. 白色衬衫和黑色裤子，并在中心保持专注。",
+                "B. 奶油色花卉衬衫，领口系有蝴蝶结，出现在左侧。",
+                "C. 鲜艳的黄色衬衫，坐在黑色办公椅上。",
+                "D. 芥末黄和白色条纹衬衫，侧身站立。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_132": {
+            "id": "aWBRHk_-5as_132",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "室内场景右侧部分包含了哪些物体？",
+            "options": [
+                "A. 三脚架，椅子，桌子以及上面的两个盒子",
+                "B. 一盏灯和一张放有书的桌子",
+                "C. 一个三脚架和一个放有绿色和红色盒子的架子",
+                "D. 一把椅子和一张放有白色和黄色盒子的桌子"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_133": {
+            "id": "aWBRHk_-5as_133",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "身穿鲜艳热带风格衬衫的男人站在什么位置？",
+            "options": [
+                "A. 站在中心金发女子的右侧。",
+                "B. 站在团队的最右边。",
+                "C. 站在团队的最左边。",
+                "D. 完全离开了画面。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_134": {
+            "id": "aWBRHk_-5as_134",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "视频的环境是什么？",
+            "options": [
+                "A. 明亮且极简的专业工作室设置。",
+                "B. 灯光昏暗的教室。",
+                "C. 舒适的客厅。",
+                "D. 繁忙的街市。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_135": {
+            "id": "aWBRHk_-5as_135",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "金发女人在穿着方面是如何展现自己的？",
+            "options": [
+                "A. 穿了一条飘逸的碎花连衣裙，上面点缀花朵，领口有一个蝴蝶结。",
+                "B. 穿了一件衬衫和一条深黑色牛仔裤。",
+                "C. 穿了一件黑色外套，带有白色滚边，搭配黑色长裤。",
+                "D. 穿了热带风格衬衫，上面印有叶子图案，搭配浅蓝色长裤。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_136": {
+            "id": "aWBRHk_-5as_136",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "现在有多少人是站立小组的一部分？",
+            "options": [
+                "A. 两个人",
+                "B. 三个人",
+                "C. 四个人",
+                "D. 五个人"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_137": {
+            "id": "aWBRHk_-5as_137",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "视频中是否有一位老年人坐在场景中？",
+            "options": [
+                "A. 是的，老年人仍然坐在场景中。",
+                "B. 是的，老年人和小组站在一起。",
+                "C. 不，场景中没有老年人。",
+                "D. 不，但可以在背景中看到老年人。"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_138": {
+            "id": "aWBRHk_-5as_138",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "穿着米色钮扣衬衫的女士在姿势上做了什么调整？",
+            "options": [
+                "A. 她进入中心，站在摄影设备旁边。",
+                "B. 她位于最右侧，与穿热带风格衬衫的男子并排。",
+                "C. 她移到最左边，与穿黑色夹克的新来者在一起。",
+                "D. 她保持在中心，没有进行任何调整。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_139": {
+            "id": "aWBRHk_-5as_139",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "用于拍摄这个团队使用的是哪种类型的镜头？",
+            "options": [
+                "A. 高角度镜头。",
+                "B. 平视镜头。",
+                "C. 特写镜头。",
+                "D. 低角度镜头。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_140": {
+            "id": "aWBRHk_-5as_140",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "摄影棚里黑色打光设备上部分可见的文字是什么？",
+            "options": [
+                "A. UX",
+                "B. N",
+                "C. UL",
+                "D. UP"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_141": {
+            "id": "aWBRHk_-5as_141",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "场景开始时，穿浅色条纹衬衫的男人相对于穿白衬衫的男人的位置在哪里？",
+            "options": [
+                "A. 左下方。",
+                "B. 前边。",
+                "C. 上方。",
+                "D. 右边。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_142": {
+            "id": "aWBRHk_-5as_142",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "这个场景的整体设置是什么？",
+            "options": [
+                "A. 热闹的傍晚社交聚会。",
+                "B. 安静的室内工作室。",
+                "C. 一个庄重的正式聚会。",
+                "D. 一个亲密的晚餐环境。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_143": {
+            "id": "aWBRHk_-5as_143",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "那个成为众人焦点的男人穿着是什么样子？",
+            "options": [
+                "A. 白衬衫，袖子卷起，太阳镜随意地挂在胸前。",
+                "B. 浅色条纹衬衫，手腕上戴着一块手表。",
+                "C. 深色西装，打着红色领带，口袋里插着一块方巾。",
+                "D. 黑色T恤，头上戴着一顶帽子。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_144": {
+            "id": "aWBRHk_-5as_144",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "场景后半部分，那个成为焦点的男人是什么姿势？",
+            "options": [
+                "A. 他站着，双臂热情地举起，似乎在跳舞或庆祝。",
+                "B. 他坐着，一只手放在下巴上，看起来很沉思和矜持。",
+                "C. 他靠在墙上，双手插在口袋里，观察着聚会。",
+                "D. 他坐在桌旁，与附近的人碰杯。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_145": {
+            "id": "aWBRHk_-5as_145",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "场景开始时，右侧的小桌子上有哪些物品？",
+            "options": [
+                "A. 小桌子上摆放着饮料和玻璃器皿，包括一个装着橙黄色饮品的鸡尾酒杯。",
+                "B. 小桌子是空的，上面没有任何物品。",
+                "C. 小桌子上摆放着装有食物的盘子和餐具。",
+                "D. 小桌子上摆放着装饰用的蜡烛和植物。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_146": {
+            "id": "aWBRHk_-5as_146",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "这个场景是在白天吗？",
+            "options": [
+                "A. 是的，场景是在白天。",
+                "B. 不，场景是在下午。",
+                "C. 不，场景是在早上。",
+                "D. 不，场景是在晚上。"
+            ],
+            "answer": "D"
+        },
+        "aWBRHk_-5as_147": {
+            "id": "aWBRHk_-5as_147",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "高层建筑相对于庆祝空间的位置是什么？",
+            "options": [
+                "A. 位于远处，构成背景。",
+                "B. 紧邻庆祝空间，在派对参与者的上方。",
+                "C. 位于茅草屋顶的后面。",
+                "D. 位于前景，主导着整个场景。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_148": {
+            "id": "aWBRHk_-5as_148",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "场景后期，DJ设备相对于中央男性人物的位置在哪里？",
+            "options": [
+                "A. 左上角。",
+                "B. 后方。",
+                "C. 右侧。",
+                "D. 前面。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_149": {
+            "id": "aWBRHk_-5as_149",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "在室内聚会上，中央的男性人物在高台上表现如何？",
+            "options": [
+                "A. 安静地坐在高台上，观察人群。",
+                "B. 站在高台上，手举起，热情欢呼，表现出积极参与。",
+                "C. 在高台上与另一位参加者跳舞。",
+                "D. 在高台上向人群发表演讲。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_150": {
+            "id": "aWBRHk_-5as_150",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "视频开头场景的整体环境是什么？",
+            "options": [
+                "A. 明亮而活跃的社交聚会。",
+                "B. 安静且沉思的晚餐聚会。",
+                "C. 在极简办公室环境中的正式商务会议。",
+                "D. 白天的户外野餐。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_151": {
+            "id": "aWBRHk_-5as_151",
+            "scene": 12,
+            "dimension": "Visual-cue",
+            "question": "在正式场合中，“Ken Chan”这段文字看起来是什么样的？",
+            "options": [
+                "A. 棕色和青绿色设计，背景简约。",
+                "B. 亮粉色和紫色设计，背景是霓虹风格。",
+                "C. 黑色和灰色设计，背景正式。",
+                "D. 金色和白色设计，背景奢华。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_152": {
+            "id": "aWBRHk_-5as_152",
+            "scene": 12,
+            "dimension": "Fine Grained Action",
+            "question": "在新的画面中，那位穿正式服装的人采取了什么动作？",
+            "options": [
+                "A. 那个人略微晃动。",
+                "B. 那个人举起了手。",
+                "C. 那个人坐下了。",
+                "D. 那个人向左走。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_153": {
+            "id": "aWBRHk_-5as_153",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "车内坐着身穿白衬衫男子的画面后，紧接着是哪个场景？",
+            "options": [
+                "A. 男子走在寺庙建筑之间。",
+                "B. 热闹的市场。",
+                "C. 图书馆。",
+                "D. 海滩。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_154": {
+            "id": "aWBRHk_-5as_154",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "室内用餐布置中色彩鲜艳的食物展示之后是什么场景？",
+            "options": [
+                "A. 在寺庙院子中手持香棒，在一个精美的金色香炉前进行仪式。",
+                "B. 热闹的户外市场，摊贩们展示着色彩鲜艳的水果和香料。",
+                "C. 宁静的公园，一群人在大树下练习太极。",
+                "D. 小型艺术画廊，参观者在昏暗的灯光下欣赏抽象画。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_155": {
+            "id": "aWBRHk_-5as_155",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "活力四射的俱乐部派对场景之后发生什么？",
+            "options": [
+                "A. 镜头切换到一个低调且正式的合成宣传画面。",
+                "B. 场景切换到一个热闹的街市。",
+                "C. 派对场景继续，伴随着更加热烈的舞蹈。",
+                "D. 活力四射的场景转入一个黑暗而神秘的小巷。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_156": {
+            "id": "aWBRHk_-5as_156",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "那个人在寺庙庭院里用香做什么？",
+            "options": [
+                "A. 在祭坛上点香。",
+                "B. 在进行一种精神或仪式活动，虔诚地拿着香。",
+                "C. 在用香驱赶昆虫。",
+                "D. 在为艺术装置布置香。"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_157": {
+            "id": "aWBRHk_-5as_157",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "哪些元素标志了从室外寺庙过渡到傍晚公园场景？",
+            "options": [
+                "A. 一个男人悠闲地坐在草坪上标志了过渡。",
+                "B. 一群人在繁华的城市环境中标志了过渡。",
+                "C. 宁静的寺庙庭院里标志了过渡。",
+                "D. 一个笼罩在薄雾中的森林区标志了过渡。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_158": {
+            "id": "aWBRHk_-5as_158",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "晚间社交聚会的第一个场景是什么？",
+            "options": [
+                "A. 有一个半户外的庆祝活动，提供饮品并能看到城市景观。",
+                "B. 在一个灯光昏暗的房间里有一个安静的会议。",
+                "C. 在一个灯光明亮的会议室里有一场热烈的辩论。",
+                "D. 有一个正式的晚宴，铺着白色桌布并有服务员。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_159": {
+            "id": "aWBRHk_-5as_159",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "晚间社交聚会的第二个场景是什么？",
+            "options": [
+                "A. 一个充满活力的室内派对，配有霓虹紫色灯光。",
+                "B. 一个安静的晚餐，伴随着柔和的烛光。",
+                "C. 一个海滩篝火晚会，伴有原声音乐。",
+                "D. 一个正式的晚会，伴随着古典音乐。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_160": {
+            "id": "aWBRHk_-5as_160",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在神圣的室内寺庙大厅总览之后展示了什么？",
+            "options": [
+                "A. 金色佛像的特写。",
+                "B. 豪华的用餐区。",
+                "C. 宁静的海景。",
+                "D. 街头市场。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_161": {
+            "id": "aWBRHk_-5as_161",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "展示金佛像之后是什么？",
+            "options": [
+                "A. 城市上空的烟花表演",
+                "B. 接下来展示室外的环境，包含一个花坛和一棵树。",
+                "C. 夜总会的音乐表演",
+                "D. 人们跳舞的蒙太奇"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_162": {
+            "id": "aWBRHk_-5as_162",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "用餐场景之后出现了什么？",
+            "options": [
+                "A. 展示了庙宇仪式。",
+                "B. 展现了一幅热闹的街市场景。",
+                "C. 显示了家庭成员在家中交谈。",
+                "D. 描绘了一场户外婚礼仪式。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_163": {
+            "id": "aWBRHk_-5as_163",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "这个人在寺庙庭院中的第一个动作是什么？",
+            "options": [
+                "A. 这个人直立着拿着香。",
+                "B. 这个人跪下祈祷。",
+                "C. 这个人点燃了一根蜡烛。",
+                "D. 这个人敲响了钟。"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_164": {
+            "id": "aWBRHk_-5as_164",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "这个人靠近香炉做什么？",
+            "options": [
+                "A. 他在香炉附近进行仪式。",
+                "B. 他在香炉附近点蜡烛。",
+                "C. 他仔细清理香炉。",
+                "D. 他调整香炉的位置。"
+            ],
+            "answer": "A"
+        }
+    }
+}

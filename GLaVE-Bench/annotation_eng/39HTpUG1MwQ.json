@@ -1,0 +1,739 @@
+{
+    "scene_hint": {
+        "0": "Introduction screen at the beginning of the video",
+        "1": "Detailed depiction of a spherical biological cell, with a blue gradient background",
+        "2": "Close-up visualization of mitochondria and ATP particles, presented in a dynamic and scientifically accurate scene",
+        "3": "Close-up of membrane structures and related substances using soft colors",
+        "4": "Gradient animation at the end of the video"
+    },
+    "qa": {
+        "39HTpUG1MwQ_0": {
+            "id": "39HTpUG1MwQ_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene in the video description take place?",
+            "options": [
+                "A. The scene takes place on a pure white background.",
+                "B. The scene takes place in a laboratory environment.",
+                "C. The scene takes place in a hospital ward.",
+                "D. The scene takes place in an outdoor park."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_1": {
+            "id": "39HTpUG1MwQ_1",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the text content at the center of the image?",
+            "options": [
+                "A. The text content at the center of the image is: 'Excerpt from a biomedical animation project'.",
+                "B. The text content at the center of the image is: 'Introduction to molecular biology animation'.",
+                "C. The text content at the center of the image is: 'Overview of genetic engineering techniques'.",
+                "D. The text content at the center of the image is: 'Highlights from a medical documentary film'."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_2": {
+            "id": "39HTpUG1MwQ_2",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Is the text in the image of a normal size?",
+            "options": [
+                "A. Yes, the text is of normal size",
+                "B. No, the text is too small, almost invisible",
+                "C. Only some parts are; there are also oversized headline-like texts",
+                "D. No, the text in the image consists of very large headline texts"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_3": {
+            "id": "39HTpUG1MwQ_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Is the text in the image clear?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Partially clear",
+                "D. Not mentioned"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_4": {
+            "id": "39HTpUG1MwQ_4",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Are there characters or people in the video scene?",
+            "options": [
+                "A. Yes, there are multiple characters in this video scene.",
+                "B. No, there are no characters or people in this video scene.",
+                "C. Yes, a few people can be seen in the background.",
+                "D. No, but there is an animated character."
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_5": {
+            "id": "39HTpUG1MwQ_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many lines of text are in the video description?",
+            "options": [
+                "A. There is one line of text in the video description.",
+                "B. There are two lines of text in the video description.",
+                "C. There is no text in the video description.",
+                "D. There are multiple lines of text in the video description."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_6": {
+            "id": "39HTpUG1MwQ_6",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "Will the background of the picture change?",
+            "options": [
+                "A. Yes, the background has colorful patterns.",
+                "B. No, the background remains unchanged.",
+                "C. Yes, the background has gradient tones with layers.",
+                "D. Yes, the background changes to a darker tone."
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_7": {
+            "id": "39HTpUG1MwQ_7",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the environment described in the video?",
+            "options": [
+                "A. The video describes biological cells under a high magnification microscope.",
+                "B. The video showcases a forest landscape with various trees and plants.",
+                "C. The video captures an underwater scene, showcasing various marine life.",
+                "D. The video shows a busy city street during the daytime."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_8": {
+            "id": "39HTpUG1MwQ_8",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Does the video describe any actions of people?",
+            "options": [
+                "A. Yes, the video describes several actions of people.",
+                "B. No, the video does not describe any actions of people.",
+                "C. The video describes only one action of one person.",
+                "D. The video describes multiple people but no specific actions."
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_9": {
+            "id": "39HTpUG1MwQ_9",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Does the video describe any characteristics of people?",
+            "options": [
+                "A. Yes, the video describes several characteristics of people.",
+                "B. No, the video does not describe any characteristics of people.",
+                "C. Yes, the video includes a mix of scientific details and human characteristics.",
+                "D. No, but the video indirectly implies characteristics of people."
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_10": {
+            "id": "39HTpUG1MwQ_10",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What changes are observed in the mitochondria?",
+            "options": [
+                "A. The mitochondria shrink in size, and the internal cristae disappear.",
+                "B. The blue hue of the mitochondria shows stronger vividness and clarity.",
+                "C. The mitochondria change shape to become more spherical and move to the bottom of the cell.",
+                "D. The mitochondria completely disappear from the cell image."
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_11": {
+            "id": "39HTpUG1MwQ_11",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many text labels are in the scene? (excluding the logo in the bottom right corner)",
+            "options": [
+                "A. There is one text label.",
+                "B. There are two text labels.",
+                "C. There are three text labels.",
+                "D. There are no text labels."
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_12": {
+            "id": "39HTpUG1MwQ_12",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What are the labels and their positions in the scene? (excluding the logo in the bottom right corner)",
+            "options": [
+                "A. One label is located near a small organelle close to the nucleus, marked as 'mitochondrion,' and another label is located at the bottom center, marked as 'cell.'",
+                "B. There is only one label located above the nucleus, marked as 'mitochondrion.'",
+                "C. One label is located above the nucleus, marked as 'mitochondrion,' and another label is located in the bottom right, marked as 'cell.'",
+                "D. The labels include one located in the center, marked as 'mitochondria,' and another located in the bottom left, marked as 'organelle.'"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_13": {
+            "id": "39HTpUG1MwQ_13",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "Which visual change highlights the mitochondria in the scene?",
+            "options": [
+                "A. The mitochondria enlarge and change shape.",
+                "B. The mitochondria start to glow continuously and brighten.",
+                "C. An increase in blue hues and edge flickering.",
+                "D. The mitochondria move to a different location within the cell."
+            ],
+            "answer": "C"
+        },
+        "39HTpUG1MwQ_14": {
+            "id": "39HTpUG1MwQ_14",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Do mitochondria move towards the cell nucleus over time?",
+            "options": [
+                "A. Yes, mitochondria consistently move closer to the cell nucleus over time.",
+                "B. No, there is no indication in the description that mitochondria move towards the cell nucleus.",
+                "C. Yes, but only a few mitochondria exhibit behavior of moving towards the cell nucleus.",
+                "D. No, mitochondria consistently move away from the cell nucleus over time."
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_15": {
+            "id": "39HTpUG1MwQ_15",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens is used in the video?",
+            "options": [
+                "A. Static, high-magnification microscopic view",
+                "B. Overhead cinematic panning shot",
+                "C. Dynamic zoom with rotating angle",
+                "D. Low-resolution wide-angle lens"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_16": {
+            "id": "39HTpUG1MwQ_16",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "Is the change in speed in the video obvious?",
+            "options": [
+                "A. Yes, the change in speed in the video is clearly visible.",
+                "B. No, the video does not describe any change in speed.",
+                "C. There is a slight change in speed throughout the video.",
+                "D. There is a change in speed, but it is not significant."
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_17": {
+            "id": "39HTpUG1MwQ_17",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What attribute changes occurred in specific mitochondria in the scene?",
+            "options": [
+                "A. The color brightness of specific mitochondria has significantly increased, especially near the cell edges and the nucleus.",
+                "B. The volume of specific mitochondria has significantly decreased, especially near the cell edges and the nucleus.",
+                "C. Specific mitochondria have become more transparent and difficult to see, especially near the cell edges and the nucleus.",
+                "D. Specific mitochondria have moved to the center of the cell, away from the cell edges and the nucleus."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_18": {
+            "id": "39HTpUG1MwQ_18",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What visual elements enhance the scientific accuracy and educational value of the video?",
+            "options": [
+                "A. The vibrant color changes within the mitochondria and scattered fragment particles.",
+                "B. Text labels like 'mitochondrion' and 'cell', along with the 'CORTICAL STUDIOS' watermark.",
+                "C. The soft gradient blue background and coherent display of the nucleus.",
+                "D. The high magnification view of the cell and the intricate waveform patterns within the mitochondria."
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_19": {
+            "id": "39HTpUG1MwQ_19",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the nucleus located in the first frame?",
+            "options": [
+                "A. The nucleus is located in the upper left corner of the cell.",
+                "B. The nucleus is located in the center of the cell.",
+                "C. The nucleus is located in the lower right corner of the cell.",
+                "D. The nucleus is located outside the cell."
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_20": {
+            "id": "39HTpUG1MwQ_20",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the background color of the first frame?",
+            "options": [
+                "A. The background is a soft gradient of blue.",
+                "B. The background is a deep blue and teal tone.",
+                "C. The background is a bright white and yellow gradient.",
+                "D. The background is pure black."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_21": {
+            "id": "39HTpUG1MwQ_21",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the environment depicted in the first image?",
+            "options": [
+                "A. The environment emphasizes a cellular, observational, scientific atmosphere.",
+                "B. The environment highlights a bustling urban landscape with a superimposed effect under a microscope.",
+                "C. The environment showcases a cosmic, interstellar theme with vibrant star clusters.",
+                "D. The environment depicts a tranquil underwater ecosystem with floating marine life."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_22": {
+            "id": "39HTpUG1MwQ_22",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What type of watermark exists?",
+            "options": [
+                "A. A professional watermark that reads 'CORTICAL STUDIOS'.",
+                "B. A professional watermark that reads 'BIOLOGICAL IMAGES'.",
+                "C. A professional watermark that reads 'CELLULAR VIEWS'.",
+                "D. A professional watermark that reads 'ORGANELLE STUDIES'."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_23": {
+            "id": "39HTpUG1MwQ_23",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the watermark located?",
+            "options": [
+                "A. It is cleverly placed in the bottom right corner.",
+                "B. It is prominently displayed in the top left corner.",
+                "C. It is cleverly placed in the center of the image.",
+                "D. It is prominently displayed in the bottom left corner."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_24": {
+            "id": "39HTpUG1MwQ_24",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "In a close-up view, how are mitochondria described?",
+            "options": [
+                "A. Mitochondria are thick, elongated, cylindrical, with glowing blue variations and distinct membrane folds.",
+                "B. Mitochondria are small, spherical, with a smooth surface and a green hue.",
+                "C. Mitochondria are thin, flat, with a transparent structure and yellow highlights.",
+                "D. Mitochondria have an irregular shape, no specific color, and a rough texture."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_25": {
+            "id": "39HTpUG1MwQ_25",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many parts does the mitochondria split into during the transformation process?",
+            "options": [
+                "A. Two halves",
+                "B. Three parts",
+                "C. Four segments",
+                "D. Five pieces"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_26": {
+            "id": "39HTpUG1MwQ_26",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "Is the background in the video frames stationary?",
+            "options": [
+                "A. Yes, the background usually remains stationary.",
+                "B. No, the background color and pattern change constantly.",
+                "C. Yes, but in some frames, the background turns completely black.",
+                "D. No, the background contains detailed images of other cellular structures."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_27": {
+            "id": "39HTpUG1MwQ_27",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What happens to the appearance of mitochondria when the number of ATP particles increases?",
+            "options": [
+                "A. The depiction of mitochondria becomes more vivid, with glowing outlines indicating biochemical activity.",
+                "B. The mitochondria change shape, becoming a spherical structure covered by ATP particles.",
+                "C. The outer membrane of the mitochondria becomes completely opaque, obscuring the cristae.",
+                "D. The mitochondria break into multiple fragments, scattered across the field of view."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_28": {
+            "id": "39HTpUG1MwQ_28",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "In which direction do mitochondria expand horizontally?",
+            "options": [
+                "A. Mitochondria expand horizontally along their elongated appearance.",
+                "B. Mitochondria expand vertically along their cylindrical shape.",
+                "C. Mitochondria compress horizontally into a spherical shape.",
+                "D. Mitochondria expand along a diagonal direction, altering their original axis."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_29": {
+            "id": "39HTpUG1MwQ_29",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "When isolating a single mitochondrion, what is the direction of the camera movement?",
+            "options": [
+                "A. The camera zooms in extremely close and rotates slowly to isolate a single mitochondrion for detailed observation.",
+                "B. The camera moves from left to right, continuously tracking the movement of the mitochondrion to isolate a single mitochondrion for detailed observation.",
+                "C. The camera zooms out to capture a wider perspective of the mitochondrion within the cellular environment.",
+                "D. The camera tilts downward to focus on a single mitochondrion for detailed observation."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_30": {
+            "id": "39HTpUG1MwQ_30",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens is used when focusing on a single mitochondrion?",
+            "options": [
+                "A. Extreme close-up lens",
+                "B. Medium shot lens",
+                "C. Wide-angle lens",
+                "D. Overhead shot lens"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_31": {
+            "id": "39HTpUG1MwQ_31",
+            "scene": 2,
+            "dimension": "Speed",
+            "question": "Is there a change in speed during mitochondrial positioning adjustment?",
+            "options": [
+                "A. Yes, dynamic positioning adjustments have been observed.",
+                "B. No, mitochondria remain stationary throughout the process.",
+                "C. Yes, but the positioning adjustments are random and unstable.",
+                "D. No, mitochondria only move during the division phase."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_32": {
+            "id": "39HTpUG1MwQ_32",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred to the mitochondria halfway through the scenario?",
+            "options": [
+                "A. The mitochondria completely disappeared, leaving only ATP granules.",
+                "B. The mitochondria split into two different parts along the horizontal axis.",
+                "C. The mitochondria fused with another organelle to form a larger structure.",
+                "D. The mitochondria became spherical and lost their cristae."
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_33": {
+            "id": "39HTpUG1MwQ_33",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What numerical identifier was introduced to further systematically explain mitochondria?",
+            "options": [
+                "A. The numerical identifier '4' was introduced.",
+                "B. The numerical identifier '5' was introduced.",
+                "C. The numerical identifier '6' was introduced.",
+                "D. The numerical identifier '7' was introduced."
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_34": {
+            "id": "39HTpUG1MwQ_34",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the location of Complex III in the scene?",
+            "options": [
+                "A. Complex III is located on the left side of the scene near the lower lipid bilayer.",
+                "B. Complex III is located on the right side of the scene near the lower lipid bilayer.",
+                "C. Complex III is located on the left side of the scene near the upper lipid bilayer.",
+                "D. Complex III is completely absent in the scene."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_35": {
+            "id": "39HTpUG1MwQ_35",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What changes have occurred in the background appearance between the earlier scenes of the video and the current scene?",
+            "options": [
+                "A. The background transitions from a light blue gradient to a light gray, becoming a uniform color with very little texture or depth.",
+                "B. The background changes from vibrant multiple colors to pure white.",
+                "C. The background changes from a detailed molecular structure to a dotted pattern.",
+                "D. The background switches from light blue to dark blue, with a gradient effect added."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_36": {
+            "id": "39HTpUG1MwQ_36",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What impression does the scene convey after transitioning to a more abstract form of representation?",
+            "options": [
+                "A. The scene conveys a minimalist impression, evoking a simplified representation of biological processes.",
+                "B. The scene highlights complex molecular processes through vivid and detailed depictions.",
+                "C. The scene emphasizes the chaotic nature of molecular interactions, using bold contrasting elements.",
+                "D. The scene emphasizes the structural complexity of biological systems through high-definition visuals and precise spatial relationships."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_37": {
+            "id": "39HTpUG1MwQ_37",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "Which major complexes are not present in the scene?",
+            "options": [
+                "A. Complex I and Complex II",
+                "B. Complex II and Complex V",
+                "C. Complex III and Complex IV",
+                "D. Complex IV and Complex V"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_38": {
+            "id": "39HTpUG1MwQ_38",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Is there absolutely no Complex II in the current scene?",
+            "options": [
+                "A. Yes, there is absolutely no Complex II in the current scene.",
+                "B. No, Complex II exists, but it is not very noticeable.",
+                "C. No, Complex II exists, but its saturation is reduced.",
+                "D. Yes, but it is only faintly visible."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_39": {
+            "id": "39HTpUG1MwQ_39",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred to the text annotations on the membrane layer at the end of the scene?",
+            "options": [
+                "A. The text annotations on the membrane layer became clearer.",
+                "B. The membrane layer lost most of its text annotations.",
+                "C. The text annotations on the membrane layer remained unchanged.",
+                "D. The membrane layer now has a more colorful and intricate structure along with related annotations."
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_40": {
+            "id": "39HTpUG1MwQ_40",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "What transformation occurs in the background at the end of the video?",
+            "options": [
+                "A. The scene changes from a dimly lit atmosphere with visible molecular structures to a completely blank background.",
+                "B. The scene gradually darkens until no structure is visible.",
+                "C. The scene transforms into a vibrant green meadow dotted with white spots.",
+                "D. The scene is filled with colorful molecular structures, and the background turns black."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_41": {
+            "id": "39HTpUG1MwQ_41",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What can be seen in the initial molecular scene?",
+            "options": [
+                "A. Complex III: An irregular blue structure with a green chain ending in a red sphere, faintly visible against a dim background.",
+                "B. A bright molecular structure with a vibrant orange chain and purple spheres, clearly presented.",
+                "C. The scene only has scattered green dots, with a pitch-black background.",
+                "D. A completely blank and extremely monotonous white canvas, with no structure at all, obvious at a glance."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_42": {
+            "id": "39HTpUG1MwQ_42",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "Is there any movement after switching to a white background?",
+            "options": [
+                "A. Yes, there is continuous movement after switching to a white background.",
+                "B. No, there is no movement after switching to a white background.",
+                "C. Yes, there is sporadic movement after switching to a white background.",
+                "D. Yes, only the red sphere continues to move after switching to a white background."
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_43": {
+            "id": "39HTpUG1MwQ_43",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "How do the scene attributes change in content?",
+            "options": [
+                "A. The scene transitions from a vibrant forest to a dimly lit urban landscape.",
+                "B. The scene changes from a molecular structure with a unique color scheme to a featureless white canvas.",
+                "C. The scene transitions from a bustling urban landscape to an underwater coral reef.",
+                "D. The scene transitions from a colorful abstract painting to a grayscale sketch."
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_44": {
+            "id": "39HTpUG1MwQ_44",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Which visual element strongly reinforces the end of the video?",
+            "options": [
+                "A. Complex III and its unique color characteristics",
+                "B. Bright white background",
+                "C. Scattered white dots",
+                "D. Lipid bilayer"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_45": {
+            "id": "39HTpUG1MwQ_45",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "How does a bright white background enhance the end of the video?",
+            "options": [
+                "A. It erases any traces of molecular structure, leaving the image without visual elements.",
+                "B. It introduces a series of complex molecular structures.",
+                "C. It enhances the visibility of complex III and the lipid bilayer.",
+                "D. It adds detailed visual and textual elements to the scene."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_46": {
+            "id": "39HTpUG1MwQ_46",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the opening scene of the video show?",
+            "options": [
+                "A. The opening shot is a line of simple text on a plain white background, with the text reading 'Excerpt from a biomedical animation project.'",
+                "B. The opening shot includes various molecular structures floating against a vibrant blue background.",
+                "C. The opening shot shows an animation of complex III dynamically interacting with other molecules.",
+                "D. The opening shot is a busy laboratory where scientists are conducting experiments."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_47": {
+            "id": "39HTpUG1MwQ_47",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after the title slide?",
+            "options": [
+                "A. The scene transitions to an extensive microscopic view of a single biological cell.",
+                "B. The scene remains completely blank, with no visual elements.",
+                "C. The molecular structure reappears in a colorful and dynamic manner.",
+                "D. The scene switches to a close-up view of Complex III, with clearer details."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_48": {
+            "id": "39HTpUG1MwQ_48",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the zooming process in the video?",
+            "options": [
+                "A. The zooming starts with a wide microscopic view of a complete cell, transitions to a broad view of multiple tissues, and ends with a view of a mitochondrion.",
+                "B. The zooming starts with a microscopic view of a complete cell, transitions to a close-up of a single mitochondrion, and then shows ATP particles on the mitochondrion.",
+                "C. The zooming starts with a broad view of multiple tissues, focuses on a single organelle, and then shows a molecular diagram of ATP.",
+                "D. The zooming starts with a wide microscopic view of a complete cell, transitions to an extreme close-up of a single mitochondrion, and then shows a detailed view of ATP particles around and above the mitochondrion."
+            ],
+            "answer": "D"
+        },
+        "39HTpUG1MwQ_49": {
+            "id": "39HTpUG1MwQ_49",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What are the elements that support the scientific theme of the initial cell view?",
+            "options": [
+                "A. Detailed depiction of cell structure and a gradient blue background help build the scientific theme.",
+                "B. The use of vibrant colors and animations of cell processes highlights the scientific theme.",
+                "C. Incorporating dynamic charts and interactive elements creates the scientific theme.",
+                "D. A blank background and lack of cell composition features define the scientific theme."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_50": {
+            "id": "39HTpUG1MwQ_50",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the purpose of the text labels in the video?",
+            "options": [
+                "A. The text labels serve as educational annotations to help viewers identify and understand the different cellular components displayed.",
+                "B. The text labels serve a decorative purpose, enhancing the aesthetic appeal of the scene.",
+                "C. The text labels are used to provide narrative context for transitions between scenes.",
+                "D. The text labels are for some dramatic effect, obscuring certain parts of the molecular structure."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_51": {
+            "id": "39HTpUG1MwQ_51",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What visual changes do mitochondria undergo over time?",
+            "options": [
+                "A. Initially, mitochondria have a glowing blue tint. Over time, they develop glowing outlines and ATP granules, then split to reveal internal structures, and finally revert to a single form with membrane annotations.",
+                "B. Initially, mitochondria are depicted as completely blank entities with no visible structure. Over time, they gradually reveal a faint red outline, then transform into an artistic rendering of a molecular network structure.",
+                "C. Mitochondria start with a vibrant glowing structure featuring red and yellow patterns, and gradually transition into a black and white sketch with faint outline lines.",
+                "D. Mitochondria initially appear as a series of scattered white dots, then morph into a vibrant complex structure, eventually disappearing completely into a dark background."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_52": {
+            "id": "39HTpUG1MwQ_52",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the final transition in the molecular scene?",
+            "options": [
+                "A. The final transition involves a shift from the display of membrane structures to a featureless white background.",
+                "B. The final transition involves a shift from the display of mitochondria to a vibrant molecular scene full of dynamic activity.",
+                "C. The final transition involves gradually zooming in on Complex III and its surrounding molecular structures.",
+                "D. The final transition involves a shift from the display of cellular microstructures to a vibrant molecular scene full of dynamic activity."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_53": {
+            "id": "39HTpUG1MwQ_53",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why are mitochondria depicted more vividly and clearly in some illustrations?",
+            "options": [
+                "A. To highlight their importance and activity in cellular metabolism and attract attention.",
+                "B. To contrast with other less active cellular structures.",
+                "C. To make the visual effect more aesthetically pleasing.",
+                "D. To simplify the complexity of the scene for easier understanding."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_54": {
+            "id": "39HTpUG1MwQ_54",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What impact does a stable background have on the audience's understanding in this video?",
+            "options": [
+                "A. A stable background helps maintain a clear and focused description, making it easy for the audience to intuitively understand the content being presented.",
+                "B. A stable background provides psychological cues to the audience, shaping a sense of psychological safety.",
+                "C. A stable background can serve as a constant in the occurrence of events, making it easier for the audience to capture changes and causal relationships.",
+                "D. A stable background creates an overwhelming presence, thereby overshadowing the main content being presented."
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_55": {
+            "id": "39HTpUG1MwQ_55",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the video switch to a completely blank canvas at the end?",
+            "options": [
+                "A. To create a stark contrast with the detailed depictions earlier, signaling the end of the video.",
+                "B. To emphasize the importance of Complex III by placing it against a blank background.",
+                "C. To highlight the dynamic activity of the molecular structure by situating it on a featureless canvas.",
+                "D. To indicate that the molecular structure disappeared due to a technical glitch during rendering."
+            ],
+            "answer": "A"
+        }
+    }
+}

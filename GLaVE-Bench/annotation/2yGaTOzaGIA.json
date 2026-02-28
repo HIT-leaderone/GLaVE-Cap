@@ -1,0 +1,974 @@
+{
+    "scene_hint": {
+        "0": "在视频开始时，画面中有三名短跑运动员在激烈竞争",
+        "1": "运动员们在紧张的最后阶段争夺位置，最终冲过终点线",
+        "2": "焦点从比赛转向庆祝，穿白色背心的运动员与蓝色背心的击掌",
+        "3": "白色背心的人与绿色运动服的人拥抱",
+        "4": "庆祝活动愈加热烈，胜利的运动员身披国旗展示民族自豪感",
+        "5": "一个合成的logo动画"
+    },
+    "qa": {
+        "2yGaTOzaGIA_0": {
+            "id": "2yGaTOzaGIA_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频中场景的设置是什么？",
+            "options": [
+                "A. 场景设置是一个热带户外体育场。",
+                "B. 场景设置是一个室内田径场。",
+                "C. 场景设置是一个市区街道。",
+                "D. 场景设置是一个海滨跑道。"
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_1": {
+            "id": "2yGaTOzaGIA_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频中正在进行什么事件？",
+            "options": [
+                "A. 正在进行一场100米短跑比赛。",
+                "B. 正在进行一场男子400米比赛。",
+                "C. 正在进行一场城市马拉松",
+                "D. 正在进行1000米比赛。"
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_2": {
+            "id": "2yGaTOzaGIA_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "视频中如何描述这位法国运动员的外貌？",
+            "options": [
+                "A. 这位法国运动员穿着深蓝色的球衣，上面有红色和白色的点缀，穿着鲜艳的橙色跑鞋。",
+                "B. 这位法国运动员穿着白色球衣，上面有黑色、红色和黄色的横条纹，穿着荧光黄色的鞋子。",
+                "C. 这位法国运动员穿着亮黄色的上衣，配绿色短裤和红色跑鞋。",
+                "D. 这位法国运动员穿着深蓝色的运动服，穿着黑色的跑鞋。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_3": {
+            "id": "2yGaTOzaGIA_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "视频中是如何描述这位法国运动员的动作的？",
+            "options": [
+                "A. 这位法国运动员身体向前倾斜得更深，双臂快速摆动。",
+                "B. 这位法国运动员以大幅度的步伐和最小的臂部动作领先比赛。",
+                "C. 这位法国运动员正在减速，双脚着地，双臂随意摆动。",
+                "D. 这位法国运动员以身体笔直、双臂交叉的姿势跑步。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_4": {
+            "id": "2yGaTOzaGIA_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "场景背景中可以看到哪些横幅？",
+            "options": [
+                "A. 横幅包括部分被遮挡的“WORLD ATHLETICS”横幅以及一个居中的明亮黄色“SEIKO”横幅。",
+                "B. 横幅包括一个完全可见的“WORLD ATHLETICS”横幅以及一个居中的明亮黄色“NIKE”横幅。",
+                "C. 横幅包括部分被遮挡的“WORLD ATHLETICS”横幅以及一个居中的明亮红色“ADIDAS”横幅。",
+                "D. 横幅包括一个完全可见的“WORLD ATHLETICS”横幅以及一个居中的明亮绿色“PUMA”横幅。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_5": {
+            "id": "2yGaTOzaGIA_5",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "在场景的背景中能看到哪些标志？",
+            "options": [
+                "A. 能看到一个粉红色的 'SAMH' 标志。",
+                "B. 能看到一个绿色的 'PUMA' 标志。",
+                "C. 能看到一个红色的 'NIKE' 标志。",
+                "D. 能看到一个蓝色的 'ADIDAS' 标志。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_6": {
+            "id": "2yGaTOzaGIA_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "有多少主要运动员在赛事中被拍到正在奔跑？",
+            "options": [
+                "A. 两名主要运动员",
+                "B. 三名主要运动员",
+                "C. 四名主要运动员",
+                "D. 五名主要运动员"
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_7": {
+            "id": "2yGaTOzaGIA_7",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "牙买加短跑运动员在比赛中领先吗？",
+            "options": [
+                "A. 是的，牙买加短跑运动员大优势领先比赛。",
+                "B. 不，牙买加短跑运动员稍微落后于其他两名运动员。",
+                "C. 是的，牙买加短跑运动员与法国运动员持平。",
+                "D. 是的，牙买加短跑运动员领先但即将被超越。"
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_8": {
+            "id": "2yGaTOzaGIA_8",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "画面中央的跑者正在做什么？",
+            "options": [
+                "A. 跑者正处于步伐的最高点，两只脚暂时离地。",
+                "B. 跑者身体前倾，用后腿发力。",
+                "C. 跑者正在减速，并回头张望。",
+                "D. 跑者正蹲在起跑线上准备开始比赛。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_9": {
+            "id": "2yGaTOzaGIA_9",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "框架中的黄色结构有什么含义？",
+            "options": [
+                "A. 黄色结构表明相机角度发生了变化。",
+                "B. 黄色结构表示增加了一条新的赛道。",
+                "C. 黄色结构显示相机设备出现了故障。",
+                "D. 黄色结构意味着比赛已经结束。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_10": {
+            "id": "2yGaTOzaGIA_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "摄像角度是如何描述的？",
+            "options": [
+                "A. 摄像机从略微升高的角度拍摄，传达了比赛的紧张感和动感。",
+                "B. 摄像机被放置在地面高度，清晰聚焦于跑步者的脚部。",
+                "C. 摄像机被安置在高空俯视角度，从鸟瞰视角展示了跑道。",
+                "D. 摄像机与运动员视线平齐，近距离捕捉他们的面部表情。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_11": {
+            "id": "2yGaTOzaGIA_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "场景中提到的排行榜上显示了哪些参与者信息？",
+            "options": [
+                "A. 排行榜显示参与者的排名和实时距离领先者的测量。",
+                "B. 排行榜显示运动员的个人最佳成绩和国籍。",
+                "C. 排行榜列出了运动员的年龄和之前的比赛成绩。",
+                "D. 排行榜提供了运动员的球衣颜色和号码。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_12": {
+            "id": "2yGaTOzaGIA_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "身穿白色上衣并有蓝色和红色点缀的运动员在跑道上的哪个位置？",
+            "options": [
+                "A. 在跑道的最左侧，落后于领先者。",
+                "B. 在跑道的中央，领跑比赛。",
+                "C. 在跑道的最右侧，领先于主力群体。",
+                "D. 在跑道中间，落后于领先者。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_13": {
+            "id": "2yGaTOzaGIA_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这个视频的背景是什么？",
+            "options": [
+                "A. 视频发生在男子400米决赛期间，观众情绪高涨，站在跑道栏杆附近，座位区人满为患。",
+                "B. 视频发生在游泳池边，观众为游泳比赛加油助威。",
+                "C. 视频发生在一个自行车运动场，骑手们在室内赛道上竞速。",
+                "D. 视频发生在一个篮球场上，粉丝为一场激动人心的比赛欢呼。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_14": {
+            "id": "2yGaTOzaGIA_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频的环境是什么?",
+            "options": [
+                "A. 赛道有明显的跑道分道，可以看到最后直道和最后转弯处，光线明亮素。",
+                "B. 赛道灯光昏暗，没有品牌元素，观众保持沉默。",
+                "C. 赛道上覆盖着草地，没有明显的跑道分道，光线昏暗，营造出一种忧郁的氛围。",
+                "D. 赛道周围环绕着树木，自然光照，有明显的品牌广告元素。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_15": {
+            "id": "2yGaTOzaGIA_15",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "穿着白色上衣和蓝色短裤的运动员在比赛中做了什么？",
+            "options": [
+                "A. 穿着白色上衣和蓝色短裤的运动员始终落后于主群体。",
+                "B. 穿着白色上衣和蓝色短裤的运动员在冲刺阶段反超了若干对手。",
+                "C. 穿着白色上衣和蓝色短裤的运动员速度下降，被若干对手超越。",
+                "D. 穿着白色上衣和蓝色短裤的运动员从开始到结束都处于领先位置。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_16": {
+            "id": "2yGaTOzaGIA_16",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "视频中特别描述了多少名运动员？",
+            "options": [
+                "A. 特别描述了三名运动员。",
+                "B. 特别描述了四名运动员。",
+                "C. 特别描述了五名运动员。",
+                "D. 特别描述了六名运动员。"
+            ],
+            "answer": "D"
+        },
+        "2yGaTOzaGIA_17": {
+            "id": "2yGaTOzaGIA_17",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "观众对比赛有互动吗？",
+            "options": [
+                "A. 是的，大多数观众参与其中",
+                "B. 不是",
+                "C. 只有少数观众参与其中",
+                "D. 观众完全沉默"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_18": {
+            "id": "2yGaTOzaGIA_18",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "红短裤的跑者表现怎么样？",
+            "options": [
+                "A. 红短裤的跑者带着明显的决心向前冲，试图提升自己的位置。",
+                "B. 红短裤的跑者落后于其他人，保持仿宋，没有紧迫感。",
+                "C. 红短裤的跑者保持领先地位并自信地向前冲刺。",
+                "D. 红短裤的跑者停下来回头看其他跑者。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_19": {
+            "id": "2yGaTOzaGIA_19",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "身穿绿色制服的运动员在画面中处于什么位置？",
+            "options": [
+                "A. 身穿绿色制服的运动员追赶并超越了若干对手。",
+                "B. 身穿绿色制服的运动员始终排名第一领跑比赛。",
+                "C. 身穿绿色制服的运动员明显落后于其它所有人。",
+                "D. 身穿绿色制服的运动员在群体的中间。"
+            ],
+            "answer": "D"
+        },
+        "2yGaTOzaGIA_20": {
+            "id": "2yGaTOzaGIA_20",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "摄像机角度是什么？",
+            "options": [
+                "A. 摄像机捕捉赛道的终点直道和最后一弯的广视角。",
+                "B. 摄像机角度聚焦在穿绿色和黄色服装的选手身上。",
+                "C. 摄像机角度拍摄观众席上的观众及其反应。",
+                "D. 摄像机位于地面高度，以突出运动员的步伐。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_21": {
+            "id": "2yGaTOzaGIA_21",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "提升的摄像机角度揭示了比赛场景中运动员的哪些动作？",
+            "options": [
+                "A. 提升的摄像机角度增强了对运动员战略动作的可见性。",
+                "B. 提升的摄像机角度着重观众的反应而不是比赛。",
+                "C. 提升的摄像机角度显示了运动员在接近终点时减速。",
+                "D. 提升的摄像机角度只突出了比赛的领先者，忽略了其他人。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_22": {
+            "id": "2yGaTOzaGIA_22",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "高角度摄像机角度如何影响赛道的可视化？",
+            "options": [
+                "A. 高角度摄像机角度清晰地展示了1到8号跑道的布局。",
+                "B. 高角度摄像机角度遮挡了运动员动作的细节。",
+                "C. 高角度摄像机角度完全聚焦于观众，减少了对赛道的强调。",
+                "D. 高角度摄像机角度造成了比赛进程的扭曲视图。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_23": {
+            "id": "2yGaTOzaGIA_23",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "哪位运动员的速度明显增加？",
+            "options": [
+                "A. 穿绿色和黄色服装的运动员",
+                "B. 穿蓝色上衣和白色短裤的运动员",
+                "C. 穿红色短裤的运动员",
+                "D. 穿白色上衣并有蓝色和红色点缀的运动员"
+            ],
+            "answer": "D"
+        },
+        "2yGaTOzaGIA_24": {
+            "id": "2yGaTOzaGIA_24",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "屏幕上的什么文字表明事件的官方背景?",
+            "options": [
+                "A. 左下角的文字 'MEN'S 400 METRES | FINAL'",
+                "B. 左下角的文字 'MEN'S 1000 METRES | FINAL'",
+                "C. 左下角的文字 'MEN'S 400 METRES | GROUP-A'",
+                "D. 左下角的文字 'MEN'S 1000 METRES | GROUP-A'"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_25": {
+            "id": "2yGaTOzaGIA_25",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "横向金属栏杆位于哪里？",
+            "options": [
+                "A. 横向金属栏杆位于赛道的中间。",
+                "B. 横向金属栏杆将运动员与摄影师和观众分隔开。",
+                "C. 横向金属栏杆直接放置在人群上方。",
+                "D. 横向金属栏杆位于赛事的记分牌附近。"
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_26": {
+            "id": "2yGaTOzaGIA_26",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "画面中的人所处地点是什么？",
+            "options": [
+                "A. 处于运动场草坪中央。",
+                "B. 处于是运动场跑道上。",
+                "C. 处于观众席附近。",
+                "D. 在看台上。"
+            ],
+            "answer": "C"
+        },
+        "2yGaTOzaGIA_27": {
+            "id": "2yGaTOzaGIA_27",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "这名男性运动员衣服是怎样的？",
+            "options": [
+                "A. 男性运动员穿着白色无袖衫，带有黑色、黄色、红色条纹设计",
+                "B. 男性运动员穿着绿色和黄色的无袖衫。",
+                "C. 男性运动员穿着红色无袖衫，带有蓝色、绿色、白色条纹设计。",
+                "D. 男性运动员穿着白色无袖衫，带有红色、黄色、黑色条纹设计。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_28": {
+            "id": "2yGaTOzaGIA_28",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "屏幕上的紫色文字显示了什么信息？",
+            "options": [
+                "A. 紫色文字显示了比赛的项目。",
+                "B. 紫色文字显示了运动员的姓名和国家。",
+                "C. 紫色文字显示了该项目的当前世界纪录。",
+                "D. 紫色文字表示比赛的日期和地点。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_29": {
+            "id": "2yGaTOzaGIA_29",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "比赛计时器表明了圈数方面的什么信息？",
+            "options": [
+                "A. 比赛计时器显示“LAP 24.05”和“45.25”",
+                "B. 比赛计时器显示“LAP 24.05”和“54.25”",
+                "C. 比赛计时器显示“LAP 24.50”和“45.25”",
+                "D. 比赛计时器显示“LAP 24.50”和“54.25”"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_30": {
+            "id": "2yGaTOzaGIA_30",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "视频中镜头的拍摄了什么？",
+            "options": [
+                "A. 摄影机拍摄了运动员的庆祝画面。",
+                "B. 摄影机拍摄了整个竞技场的全景画面。",
+                "C. 摄影机是体育场从头顶的俯视画面。",
+                "D. 摄影机拍摄了终点线的特写镜头。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_31": {
+            "id": "2yGaTOzaGIA_31",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "在庆祝时，用什么镜头来突出运动员的成就？",
+            "options": [
+                "A. 赛道的宽广动态视角",
+                "B. 运动员的侧面斜视镜头",
+                "C. 电子显示板的特写镜头",
+                "D. 观众的全景镜头"
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_32": {
+            "id": "2yGaTOzaGIA_32",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "比赛计时器提供了哪些信息？",
+            "options": [
+                "A. 右下角的比赛计时器提供了 'LAP 24.05' 和 '45.25.'",
+                "B. 右下角的比赛计时器显示了 'LAP 30.00' 和 '50.00.'",
+                "C. 右下角的比赛计时器展示了 'LAP 20.00' 和 '40.00.'",
+                "D. 右下角的比赛计时器指示了 'LAP 22.00' 和 '42.00.'"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_33": {
+            "id": "2yGaTOzaGIA_33",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "这个场景发生在哪里？",
+            "options": [
+                "A. 场景发生在一个竞技场的封闭区域。",
+                "B. 场景发生在一片空地上。",
+                "C. 场景发生在一个城市公园。",
+                "D. 场景发生在一个体育馆。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_34": {
+            "id": "2yGaTOzaGIA_34",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "穿着背后写有‘WARHOLM’蓝色运动衫的运动员最初做了什么动作？",
+            "options": [
+                "A. 运动员举起双臂朝向头部。",
+                "B. 运动员被其他人拍了拍背。",
+                "C. 运动员调整了姿势，身体前倾。",
+                "D. 运动员向观众挥手。"
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_35": {
+            "id": "2yGaTOzaGIA_35",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "穿着蓝色运动衫且背后印有“WARHOLM”的运动员后来做了什么动作？",
+            "options": [
+                "A. 运动员前倾身体后蹲下。",
+                "B. 运动员举起双臂向头部庆祝。",
+                "C. 运动员向观众挥手示意。",
+                "D. 运动员跪在地上疲惫不堪。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_36": {
+            "id": "2yGaTOzaGIA_36",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "场景中有多少名运动员被突出描述？",
+            "options": [
+                "A. 场景中有两名运动员被突出描述。",
+                "B. 场景中有三名运动员被突出描述。",
+                "C. 场景中有四名运动员被突出描述。",
+                "D. 场景中有五名运动员被突出描述。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_37": {
+            "id": "2yGaTOzaGIA_37",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "穿白色运动服的运动员做出了什么动作？",
+            "options": [
+                "A. 白色衣服的运动员将双臂举向头部。",
+                "B. 白色衣服的运动员在跑道上跪下，用双手捂住脸。",
+                "C. 白色衣服的运动员用一只手向观众挥手，同时用另一只手捂住胸口。",
+                "D. 白色衣服的运动员蹲下了"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_38": {
+            "id": "2yGaTOzaGIA_38",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "在赛后时，用于突出运动员反应的是什么类型的摄像机镜头？",
+            "options": [
+                "A. 一个拍摄整个赛场的广角镜头。",
+                "B. 一个聚焦于运动员上半身的近距离直接角度镜头。",
+                "C. 一个显示跑道和运动员的俯拍镜头。",
+                "D. 一个拍摄运动员跑动侧面轮廓的镜头。"
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_39": {
+            "id": "2yGaTOzaGIA_39",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "穿着白色无袖运动衫的运动员位于什么位置？",
+            "options": [
+                "A. 穿着白色无袖运动衫的运动员位于另一个人后面。",
+                "B. 穿着白色无袖运动衫的运动员位于前面，身体没有被遮挡。",
+                "C. 穿着白色无袖运动衫的运动员在成绩牌旁边。",
+                "D. 穿着白色无袖运动衫的运动员坐在跑道上。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_40": {
+            "id": "2yGaTOzaGIA_40",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景的背景环境是什么？",
+            "options": [
+                "A. 背景有一群穿黄色马甲的摄影师，后面是观众席",
+                "B. 背景是室内跑道，运动员正在做热身运动。",
+                "C. 背景有一群穿蓝色马甲的摄影师，后面是观众席",
+                "D. 背景是赞助商背景板"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_41": {
+            "id": "2yGaTOzaGIA_41",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "蓝色的大型结果板上显示的标题是什么？",
+            "options": [
+                "A. RESULTS | MEN’S 400 METRES | FINAL",
+                "B. WINNERS | MEN'S 400 METER DASH | SEMIFINAL",
+                "C. STANDINGS | MEN'S 400 METERS | HEATS",
+                "D. RANKINGS | MEN'S 400 METER RELAY | FINAL"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_42": {
+            "id": "2yGaTOzaGIA_42",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "大型蓝色结果板上显示的第一是什么名字？",
+            "options": [
+                "A. DOOM",
+                "B. WARNER",
+                "C. WARHOLM",
+                "D. MCDONALD"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_43": {
+            "id": "2yGaTOzaGIA_43",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "大蓝成绩榜上显示的获胜时间是多少？",
+            "options": [
+                "A. 45.25",
+                "B. 45.34",
+                "C. 44.85",
+                "D. 45.65"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_44": {
+            "id": "2yGaTOzaGIA_44",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "大蓝色结果图上包含了哪些额外的背景信息？",
+            "options": [
+                "A. 背景信息包括“WIC GLASGOW 24”。",
+                "B. 背景信息包括“OLYMPICS 2024”。",
+                "C. 背景信息包括“EUROPEAN CHAMPIONSHIPS”。",
+                "D. 背景信息包括“WORLD CUP 2023”。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_45": {
+            "id": "2yGaTOzaGIA_45",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "结果图说明 DOOM 拿到了什么记录",
+            "options": [
+                "A. PB",
+                "B. NR",
+                "C. WR",
+                "D. DB"
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_46": {
+            "id": "2yGaTOzaGIA_46",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "在赛后场景的背景中还有哪些人物？",
+            "options": [
+                "A. 解说席上的解说员",
+                "B. 讨论策略的教练",
+                "C. 穿着黄色马甲的摄影师",
+                "D. 监督活动的安保人员"
+            ],
+            "answer": "C"
+        },
+        "2yGaTOzaGIA_47": {
+            "id": "2yGaTOzaGIA_47",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "在赛后室内场景中，穿深蓝色运动服的运动员可见吗？",
+            "options": [
+                "A. 是的，在赛后室内场景中，穿深蓝色运动服的运动员是可见的，并与观众互动。",
+                "B. 不，在赛后室内场景中，穿深蓝色运动服的运动员不可见。",
+                "C. 在赛后室内场景中，穿深蓝色运动服的运动员仅短暂可见。",
+                "D. 在赛后室内场景中，穿深蓝色运动服的运动员可见，并与摄影师互动。"
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_48": {
+            "id": "2yGaTOzaGIA_48",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "比赛结束后的场景中，哪种动作象征运动员之间的友谊？",
+            "options": [
+                "A. 穿亮绿色上衣的运动员拥抱穿白色无袖上衣的运动员，象征友谊和相互尊重。",
+                "B. 身穿白色无袖上衣的运动员与身穿深蓝色上衣的运动员握手。",
+                "C. 穿亮绿色上衣的运动员与穿白色无袖上衣的运动员击掌。",
+                "D. 身穿深蓝色上衣的运动员拍了拍穿亮绿色上衣的运动员的背。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_49": {
+            "id": "2yGaTOzaGIA_49",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "在赛后室内场景中，穿白色无袖运动衫的运动员面向哪个方向？",
+            "options": [
+                "A. 运动员面向前方。",
+                "B. 运动员面向左边。",
+                "C. 运动员面向右边。",
+                "D. 运动员面向后方。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_50": {
+            "id": "2yGaTOzaGIA_50",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "相机视角如何提升最后一幕的庆祝氛围？",
+            "options": [
+                "A. 相机视角捕捉到了胜利的时刻和运动员赛后疲劳的场景，突显了庆祝的氛围。",
+                "B. 相机视角只关注观众，忽略了运动员的情感。",
+                "C. 相机视角固定在成绩公告板上，错过了运动员的庆祝。",
+                "D. 相机视角只显示摄影师，而不是运动员的胜利。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_51": {
+            "id": "2yGaTOzaGIA_51",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "在赛后穿白色上衣的运动员发生了什么？",
+            "options": [
+                "A. 穿明亮绿色上衣的运动员披上了一面大型的比利时国旗。",
+                "B. 穿明亮绿色上衣的运动员因疲惫倒在了赛道上。",
+                "C. 穿明亮绿色上衣的运动员与另一名参赛者因比赛问题争吵。",
+                "D. 穿明亮绿色上衣的运动员避开媒体，走出了比赛场地。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_52": {
+            "id": "2yGaTOzaGIA_52",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "是什么帮助将披着国旗的运动员识别为‘DOOM’？",
+            "options": [
+                "A. 读作‘DOOM’的白色背心。",
+                "B. 亮绿色上衣的颜色。",
+                "C. 披在运动员身上的挪威国旗。",
+                "D. 上面列有‘DOOM’的可见成绩榜。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_53": {
+            "id": "2yGaTOzaGIA_53",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频的开场场景发生在哪里？",
+            "options": [
+                "A. 室内田径赛事",
+                "B. 足球场",
+                "C. 游泳池竞技场",
+                "D. 室外跑道"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_54": {
+            "id": "2yGaTOzaGIA_54",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "视频中披着比利时国旗的运动员在做什么？",
+            "options": [
+                "A. 披着比利时国旗的运动员正在前景醒目地庆祝他的胜利。",
+                "B. 披着比利时国旗的运动员正在跑道上坐着，看起来很疲惫。",
+                "C. 披着比利时国旗的运动员正拿着一面小旗子欢呼。",
+                "D. 披着比利时国旗的运动员正在查看成绩板。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_55": {
+            "id": "2yGaTOzaGIA_55",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "在视频中，中央的绿色形状发生了什么变化？",
+            "options": [
+                "A. 中央的绿色形状变成了一个更明确的形态，类似箭头或向上的弧形。",
+                "B. 中央的绿色形状变成了一个带有螺旋图案的圆形。",
+                "C. 中央的绿色形状变成了一个带有水平条纹的矩形块。",
+                "D. 中央的绿色形状变成了一个五角星形状。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_56": {
+            "id": "2yGaTOzaGIA_56",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "相对于中心的绿色形状，红色和粉色阴影的同心弧线出现在哪个方向？",
+            "options": [
+                "A. 同心弧线出现在中心绿色形状的上方。",
+                "B. 同心弧线出现在中心绿色形状的下方。",
+                "C. 同心弧线出现在中心绿色形状的左侧。",
+                "D. 同心弧线出现在中心绿色形状的右侧。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_57": {
+            "id": "2yGaTOzaGIA_57",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "在视频的最终组合中，中央图案如何变化？",
+            "options": [
+                "A. 中央图案被一个新的白色轮廓框住，明显地将多彩元素与背景分开。",
+                "B. 中央图案溶解在单色的紫色背景中，没有额外的文字或形状。",
+                "C. 中央图案变成了一个被发光的黄色弧形环绕的完整圆圈。",
+                "D. 中央图案被比赛场地的详细地图取代。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_58": {
+            "id": "2yGaTOzaGIA_58",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "最终场景中的几何图形下方显示了什么文本？",
+            "options": [
+                "A. 文本为“WORLD ATHLETICS INDOOR CHAMPIONSHIPS GLASGOW 24”",
+                "B. 文本为“INDOOR TRACK AND FIELD WORLD CHAMPIONSHIPS GLASGOW 24”",
+                "C. 文本为“ATHLETICS WORLD CHAMPIONSHIPS GLASGOW 24”",
+                "D. 文本为“GLASGOW 24 WORLD INDOOR ATHLETICS CHAMPIONSHIPS”"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_59": {
+            "id": "2yGaTOzaGIA_59",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "穿着白色、黑色和黄色制服的运动员在跑道中做什么？",
+            "options": [
+                "A. 该运动员正在奔跑，在比赛中迈出巨大的步伐。",
+                "B. 该运动员双手垂放在身体两侧，平静地行走，观察周围的环境。",
+                "C. 该运动员坐在跑道上休息，同时观看其他运动员。",
+                "D. 该运动员静站在原地，手持水瓶与教练交谈。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_60": {
+            "id": "2yGaTOzaGIA_60",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "运动员结束比赛后会发生什么？",
+            "options": [
+                "A. 运动员与其它选手击掌拥抱。",
+                "B. 运动员立即离开跑道前往更衣室。",
+                "C. 运动员焦急地等待排名。",
+                "D. 场景切换到对获胜运动员的采访，讨论他们的表现。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_61": {
+            "id": "2yGaTOzaGIA_61",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "赛后运动员庆祝后会发生什么？",
+            "options": [
+                "A. 场景转换为更广泛的庆祝和反思，其他运动员在互动。",
+                "B. 场景转向单色蓝色屏幕，表示技术上或故意的图像转换。",
+                "C. 场景集中在一位运动员正在接受媒体采访。",
+                "D. 场景转换为欢呼的观众。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_62": {
+            "id": "2yGaTOzaGIA_62",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "视频中的男子400米赛是如何开始的？",
+            "options": [
+                "A. 男子400米赛以运动员的猛烈冲刺开始。",
+                "B. 男子400米赛以运动员的等待起跑的姿势开始。",
+                "C. 男子400米赛以运动员在各自跑道等待拍照开始。",
+                "D. 男子400米赛以运动员进行热身动作开始。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_63": {
+            "id": "2yGaTOzaGIA_63",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在男子400米比赛的中途会发生什么情况？",
+            "options": [
+                "A. 随着比赛的激烈进行，选手们的位置发生了变化。",
+                "B. 由于技术问题，比赛暂停。",
+                "C. 一名选手因为踩出了跑道而被取消资格。",
+                "D. 体育场的灯光意外熄灭。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_64": {
+            "id": "2yGaTOzaGIA_64",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "男子400米赛跑是如何结束的?",
+            "options": [
+                "A. 赛跑结束后运动员立即离开赛道。",
+                "B. 赛跑在戏剧性的终点线结束，随后是运动员庆祝和反思的时刻。",
+                "C. 赛跑结果无关紧要，因为注意力转移到一个单色的蓝色屏幕。",
+                "D. 由于技术故障，赛跑结束后运动员无法庆祝。"
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_65": {
+            "id": "2yGaTOzaGIA_65",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视觉中的'男子400米 | 决赛'字样有什么意义？",
+            "options": [
+                "A. 文字为赛事提供背景，强调比赛作为锦标赛一部分的官方性质。",
+                "B. 文字列出了所有参赛运动员的名字及其各自的赛道分配。",
+                "C. 文字仅作为装饰性设计元素，并未提供任何具体信息。",
+                "D. 文字表明了赛事的地点，但未指明举办的比赛类型。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_66": {
+            "id": "2yGaTOzaGIA_66",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "视觉画面中的比赛计时器有什么意义？",
+            "options": [
+                "A. 计时器突出了比赛的进程和精准时间。",
+                "B. 计时器表示运动员准备所剩的时间。",
+                "C. 计时器显示距离下一个活动开始的时间。",
+                "D. 计时器标志着比赛转播时间的结束。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_67": {
+            "id": "2yGaTOzaGIA_67",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "从比赛区域到赛后的重点顺序是什么？",
+            "options": [
+                "A. 重点从赛道上比赛的运动员转移到比赛临近终点，然后到赛后的庆祝，最后到运动员之间的互动和情感。",
+                "B. 重点从成绩显示板转移到运动员越过起跑线，然后到单圈成绩记录，最后到颁奖仪式。",
+                "C. 重点从观众在看台上的欢呼转移到运动员准备比赛，然后到媒体采访，最后到结果宣布。",
+                "D. 重点从裁判的解说转移到运动员在起跑点，然后到灯光设置，最后到庆祝舞台。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_68": {
+            "id": "2yGaTOzaGIA_68",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "当穿白色球衣的运动员向观众致意后会发生什么？",
+            "options": [
+                "A. 运动员与其他运动员和摄影师互动。",
+                "B. 运动员立即离开赛场区域。",
+                "C. 运动员当场开始新闻发布会。",
+                "D. 运动员去到观众席与观众互动"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_69": {
+            "id": "2yGaTOzaGIA_69",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "白色衣服的运动员与其他运动员互动后会发生什么场景？",
+            "options": [
+                "A. 运动员披上国旗庆祝。",
+                "B. 场景继续，运动员在跑道上进行胜利圈。",
+                "C. 场景切换到运动员正在接受记者采访。",
+                "D. 场景变为运动员与家人和朋友庆祝。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_70": {
+            "id": "2yGaTOzaGIA_70",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么穿绿黄相间服装的运动员紧跟着另一个竞争者？",
+            "options": [
+                "A. 穿绿黄相间服装的运动员领先比赛，但由于另一位竞争者加快了速度和努力，正在缩小差距。",
+                "B. 穿绿黄相间服装的运动员难以保持速度，因此竞争者可以轻松逼近。",
+                "C. 穿绿黄相间服装的运动员因为受伤而放慢了速度，导致竞争者迅速赶上。",
+                "D. 竞争者比穿绿黄相间服装的运动员更快，并且一直保持着近距离。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_71": {
+            "id": "2yGaTOzaGIA_71",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么穿着白色无袖衬衫的运动员举起了他的手臂？",
+            "options": [
+                "A. 运动员在比赛的激烈努力和参与后的情感余波中举起手臂。",
+                "B. 运动员在跑道上感到身体不适后举起手臂，以示呼叫医疗援助。",
+                "C. 运动员举起手臂是为了寻求帮助寻找他丢失的物品。",
+                "D. 运动员举起手臂是为了伸展活动身体。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_72": {
+            "id": "2yGaTOzaGIA_72",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么场景会切换到单色的蓝色背景？",
+            "options": [
+                "A. 切换到蓝色背景是一个图形元素，用于展示赛事的标志。",
+                "B. 切换到蓝色背景表示视频录制中出现了技术错误。",
+                "C. 切换到蓝色背景象征着下一场比赛的开始。",
+                "D. 切换到蓝色背景引入了一个与赛事无关的赞助商广告。"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_73": {
+            "id": "2yGaTOzaGIA_73",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为何场景演变成几何构图？",
+            "options": [
+                "A. 为了展现运动员职业生涯的演进。",
+                "B. 在等待成绩显示板时提供视觉兴趣。",
+                "C. 场景演变为几何构图可能是为了“2024年世界田径室内锦标赛格拉斯哥”进行品牌或宣传的图形元素。",
+                "D. 以艺术的方式突出不同运动员的成就。"
+            ],
+            "answer": "C"
+        }
+    }
+}

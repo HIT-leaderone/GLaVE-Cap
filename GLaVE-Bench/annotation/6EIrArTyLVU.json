@@ -1,0 +1,1014 @@
+{
+    "scene_hint": {
+        "0": "一个男子正在镜头前介绍一些东西。",
+        "1": "一个男子正在做引体向上。",
+        "2": "一个男子正在做杠上俯卧撑。",
+        "3": "一个男子正在做三头肌下沉。",
+        "4": "一个男子正在做水平拉升。",
+        "5": "一个男子正在做仰卧起坐。",
+        "6": "一个标志显示在中央。"
+    },
+    "qa": {
+        "6EIrArTyLVU_0": {
+            "id": "6EIrArTyLVU_0",
+            "scene": "0",
+            "dimension": "Description-Scene",
+            "question": "这个视频是在哪里拍摄的？",
+            "options": [
+                "A. 视频是在室内健身房拍摄的。",
+                "B. 视频是在家庭健身房拍摄的。",
+                "C. 视频是在户外健身公园拍摄的。",
+                "D. 视频是在体育场拍摄的。"
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_1": {
+            "id": "6EIrArTyLVU_1",
+            "scene": "0",
+            "dimension": "Description-Human",
+            "question": "那个人穿着什么？",
+            "options": [
+                "A. 那个人穿着一件亮珊瑚粉色的耐克T恤。",
+                "B. 那个人穿着一件深蓝色的阿迪达斯背心。",
+                "C. 那个人穿着一件绿色的锐步卫衣。",
+                "D. 那个人穿着一件黄色的彪马夹克。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_2": {
+            "id": "6EIrArTyLVU_2",
+            "scene": "0",
+            "dimension": "Description-Human",
+            "question": "这个男人的外貌有什么显著特点？",
+            "options": [
+                "A. 这个男人站在户外健身公园。",
+                "B. 这个男人在锻炼时使用蓝色弹力带。",
+                "C. 这个男人穿着亮黄色的耐克T恤。",
+                "D. 这个男人随意地坐在长椅上，观察其他人锻炼。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_3": {
+            "id": "6EIrArTyLVU_3",
+            "scene": "0",
+            "dimension": "Description-Object",
+            "question": "视频中男子使用的阻力带是什么颜色？",
+            "options": [
+                "A. 红色",
+                "B. 黄色",
+                "C. 蓝色",
+                "D. 绿色"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_4": {
+            "id": "6EIrArTyLVU_4",
+            "scene": "0",
+            "dimension": "Description-Human",
+            "question": "在视频中，这名男子使用了哪些手势？",
+            "options": [
+                "A. 这名男子用手强调手势。",
+                "B. 这名男子用脚敲击地面。",
+                "C. 这名男子不断拍手。",
+                "D. 这名男子频繁点头。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_5": {
+            "id": "6EIrArTyLVU_5",
+            "scene": "0",
+            "dimension": "Count",
+            "question": "场景中显示了多少不同的文字叠加？",
+            "options": [
+                "A. 两个项目：一个鲑鱼橘色横幅和品牌元素。",
+                "B. 三个项目：一个鲑鱼橘色横幅、一个黑色横幅和品牌元素。",
+                "C. 四个项目：两个横幅和两组品牌元素。",
+                "D. 一个项目：一个包含所有信息的单独横幅。"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_6": {
+            "id": "6EIrArTyLVU_6",
+            "scene": "0",
+            "dimension": "Binary",
+            "question": "视频中是否显示除了镜头前的这名男子以外，还有其他人？",
+            "options": [
+                "A. 没有，这名男子是唯一的人。",
+                "B. 有，有另一个人在背景中使用健身器材。",
+                "C. 有，背景中有几个人。",
+                "D. 有，背景中有另一个人站着。"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_7": {
+            "id": "6EIrArTyLVU_7",
+            "scene": "0",
+            "dimension": "Description-Human",
+            "question": "在评论阶段，男人的手势是什么意思？",
+            "options": [
+                "A. 这个手势表示一种解释性或强调性意义。",
+                "B. 这个手势表明他要开始再次锻炼。",
+                "C. 这个手势是一个信号，准备切换到不同的锻炼器材。",
+                "D. 这个手势意味着他已经完成锻炼。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_8": {
+            "id": "6EIrArTyLVU_8",
+            "scene": "0",
+            "dimension": "Camera Shot",
+            "question": "视频中使用了什么摄像机视角？",
+            "options": [
+                "A. 使用了广角视角，以背景为主，人物只占一小部分。",
+                "B. 使用了半特写视角，以人物为主，背景只占一小部分。",
+                "C. 使用了俯视视角。",
+                "D. 使用了全景视角。"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_9": {
+            "id": "6EIrArTyLVU_9",
+            "scene": "0",
+            "dimension": "Visual-cue",
+            "question": "哪个文字覆盖引入了这一场景？",
+            "options": [
+                "A. 一个带有鲑鱼橙色横幅的粗体文字覆盖引入了“**#SAM7 BEGINNER OUTDOOR GYM WORKOUT**”。",
+                "B. 一个带有亮黄色横幅的粗体文字覆盖引入了“**ADVANCED OUTDOOR FITNESS ROUTINE**”。",
+                "C. 一个带有粉色柔和横幅的细微文字覆盖引入了“**INTERMEDIATE FITNESS SESSION**”。",
+                "D. 一个带有蓝色粗体文字的覆盖引入了“**BEGINNERS OLYMPIC TRAINING**”。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_10": {
+            "id": "6EIrArTyLVU_10",
+            "scene": "0",
+            "dimension": "Visual-cue",
+            "question": "场景中的说明使用了什么文字覆盖？",
+            "options": [
+                "A. 一个黑色横幅，上面写着“**30 SECONDS EACH OR UNTIL FATIGUED.**”",
+                "B. 一个红色横幅，上面写着“**HOLD POSITION FOR MAXIMUM DURATION.**”",
+                "C. 一个绿色横幅，上面写着“**REPEAT UNTIL COMFORTABLE.**”",
+                "D. 一个蓝色横幅，上面写着“**REST FOR 60 SECONDS BETWEEN SETS.**”"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_11": {
+            "id": "6EIrArTyLVU_11",
+            "scene": "1",
+            "dimension": "Spatial",
+            "question": "巧克力棕色的狗在场景中的哪里出现？",
+            "options": [
+                "A. 巧克力棕色的狗出现在场景的左上角。",
+                "B. 巧克力棕色的狗出现在场景的右下角。",
+                "C. 巧克力棕色的狗出现在场景的中央。",
+                "D. 巧克力棕色的狗出现在场景的左下角。"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_12": {
+            "id": "6EIrArTyLVU_12",
+            "scene": "1",
+            "dimension": "Description-Scene",
+            "question": "视频中引体向上运动的背景设置是什么？",
+            "options": [
+                "A. 一个充满活力的户外健身场，配有健身设备和郁郁葱葱的公园植被。",
+                "B. 一个室内健身房，配有高科技健身设备和明亮的荧光灯照明。",
+                "C. 一个宁静的瑜伽室，配有木地板和俯瞰大海的大窗户。",
+                "D. 一个热闹的城市公园，有拥挤的跑步小道和附近的餐车。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_13": {
+            "id": "6EIrArTyLVU_13",
+            "scene": "1",
+            "dimension": "Fine Grained Action",
+            "question": "这个男人在做什么运动？",
+            "options": [
+                "A. 这个男人在做引体向上。",
+                "B. 这个男人在做俯卧撑。",
+                "C. 这个男人在做仰卧起坐。",
+                "D. 这个男人在做深蹲。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_14": {
+            "id": "6EIrArTyLVU_14",
+            "scene": "1",
+            "dimension": "Description-Object",
+            "question": "这个男人在用什么进行锻炼？",
+            "options": [
+                "A. 他在使用一个黄色的弹力带。",
+                "B. 他在使用一根跳绳。",
+                "C. 他在使用一个哑铃。",
+                "D. 他在使用一个弹力健身球。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_15": {
+            "id": "6EIrArTyLVU_15",
+            "scene": "1",
+            "dimension": "Description-Object",
+            "question": "阻力带被套在哪里？",
+            "options": [
+                "A. 套在引体向上的横杠上。",
+                "B. 套在男人的腰上。",
+                "C. 套在狗的脖子上。",
+                "D. 套在树枝上。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_16": {
+            "id": "6EIrArTyLVU_16",
+            "scene": "1",
+            "dimension": "Description-Object",
+            "question": "阻力带被固定在哪里？",
+            "options": [
+                "A. 它固定在他的脚上。",
+                "B. 它固定在他的手上。",
+                "C. 它固定在他的腰部。",
+                "D. 它固定在地面上。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_17": {
+            "id": "6EIrArTyLVU_17",
+            "scene": "1",
+            "dimension": "Description-Object",
+            "question": "在锻炼中黄阻力带的作用是什么？",
+            "options": [
+                "A. 黄阻力带在引体向上时通过调整张力提供支撑。",
+                "B. 黄阻力带用于将设备固定在地面上。",
+                "C. 黄阻力带用于发出开始锻炼的信号。",
+                "D. 黄阻力带用于给锻炼区域装饰颜色。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_18": {
+            "id": "6EIrArTyLVU_18",
+            "scene": "1",
+            "dimension": "Binary",
+            "question": "巧克力色的狗在锻炼示范中活跃吗？",
+            "options": [
+                "A. 是的，巧克力色的狗积极参与了锻炼。",
+                "B. 不，巧克力色的狗保持放松的态度，并且没有改变它的位置。",
+                "C. 是的，狗很兴奋，在场景中跑来跑去。",
+                "D. 不，狗在出现后不久就离开了场景。"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_19": {
+            "id": "6EIrArTyLVU_19",
+            "scene": "1",
+            "dimension": "Attribute Change",
+            "question": "在锻炼过程中向上拉动时，带子的张力如何变化？",
+            "options": [
+                "A. 在向上拉动时，带子的张力增加并变得紧绷。",
+                "B. 在整个锻炼过程中，带子的张力保持不变。",
+                "C. 在向上拉动时，带子的张力减小。",
+                "D. 在向上拉动时，带子的张力变得放松和松弛。"
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_20": {
+            "id": "6EIrArTyLVU_20",
+            "scene": "1",
+            "dimension": "Camera Direction",
+            "question": "在这个男人做引体向上动作时，相机是如何调整的？",
+            "options": [
+                "A. 相机保持稳定以捕捉男人的动作。",
+                "B. 相机拉远以展示整个健身房的场景。",
+                "C. 相机聚焦在那只巧克力棕色的狗身上。",
+                "D. 相机环绕着男人进行圆周运动。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_21": {
+            "id": "6EIrArTyLVU_21",
+            "scene": "1",
+            "dimension": "Visual-cue",
+            "question": "在练习演示过程中出现了什么教学文字覆盖?",
+            "options": [
+                "A. 'PUSH-UP GUIDE: EASY STEPS TO FOLLOW'",
+                "B. 'BAND ASSISTED CHIN UP (WITH A FRIEND OR BAND)'",
+                "C. 'SQUAT TECHNIQUE: STRAIGHT AND STRONG'",
+                "D. 'JUMP ROPE TIPS FOR BEGINNERS'"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_22": {
+            "id": "6EIrArTyLVU_22",
+            "scene": "1",
+            "dimension": "Visual-cue",
+            "question": "在右下角的草写文字覆盖是什么？",
+            "options": [
+                "A. 草写文字 'for human people'。",
+                "B. 草写文字 'exercise your way'。",
+                "C. 草写文字 'stay fit forever'。",
+                "D. 草写文字 'push your limits'。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_23": {
+            "id": "6EIrArTyLVU_23",
+            "scene": "1",
+            "dimension": "Visual-cue",
+            "question": "位于右下角的文字叠加样式是如何设计的？",
+            "options": [
+                "A. 文字叠加样式为粗体字和淡粉色的斜体样式。",
+                "B. 文字叠加样式为斜体字和亮黄色。",
+                "C. 文字叠加样式为粗体字和霓虹绿色的斜体样式。",
+                "D. 文字叠加样式为小型大写字母和深红色。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_24": {
+            "id": "6EIrArTyLVU_24",
+            "scene": "2",
+            "dimension": "Spatial",
+            "question": "小黑动物首先出现在画面的什么位置？",
+            "options": [
+                "A. 在右边的草地上。",
+                "B. 在前景的引体向上杠附近。",
+                "C. 靠近白色信息板。",
+                "D. 直接在做俯卧撑的男人前面。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_25": {
+            "id": "6EIrArTyLVU_25",
+            "scene": "2",
+            "dimension": "Description-Scene",
+            "question": "视频的场景是什么？",
+            "options": [
+                "A. 视频的场景是在一个配有橡胶健身地面和园林绿化的户外健身区。",
+                "B. 视频的场景是在一个带有镜面墙和木地板的室内健身房。",
+                "C. 视频的场景是在一个有沙滩和背景中海洋的海边。",
+                "D. 视频的场景是在一个有沙土小径和岩石地形的森林中。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_26": {
+            "id": "6EIrArTyLVU_26",
+            "scene": "2",
+            "dimension": "Description-Human",
+            "question": "视频中这个男人做了哪些锻炼？",
+            "options": [
+                "A. 男人做了杠上俯卧撑。",
+                "B. 男人做了深蹲和弓步蹲。",
+                "C. 男人做了仰卧起坐和开合跳。",
+                "D. 男人做了肱二头肌弯举和肱三头肌屈伸。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_27": {
+            "id": "6EIrArTyLVU_27",
+            "scene": "2",
+            "dimension": "Description-Human",
+            "question": "这名男子采用什么姿势？",
+            "options": [
+                "A. 这名男子处于向前倾斜的姿势，靠向水平杆。",
+                "B. 这名男子两脚并拢直立，双手掐腰。",
+                "C. 这名男子盘腿坐在地上，面向横杆。",
+                "D. 这名男子处于蹲下姿势，双臂高举过头。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_28": {
+            "id": "6EIrArTyLVU_28",
+            "scene": "2",
+            "dimension": "Description-Object",
+            "question": "男人用来做俯卧撑的健身杠是什么颜色的？",
+            "options": [
+                "A. 浅银色",
+                "B. 深灰色",
+                "C. 水蓝色",
+                "D. 巧克力棕色"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_29": {
+            "id": "6EIrArTyLVU_29",
+            "scene": "2",
+            "dimension": "Spatial",
+            "question": "在杠杆俯卧撑的向下阶段，男子的躯干会发生什么？",
+            "options": [
+                "A. 男子的躯干降低到更靠近杠杆的位置。",
+                "B. 男子的躯干保持在杠杆上方。",
+                "C. 男子的躯干远离杠杆。",
+                "D. 男子的躯干偏移到杠杆一侧。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_30": {
+            "id": "6EIrArTyLVU_30",
+            "scene": "2",
+            "dimension": "Description-Human",
+            "question": "在杠铃俯卧撑的下行阶段，男人的手臂会做什么？",
+            "options": [
+                "A. 男人的手臂深度弯曲。",
+                "B. 男人的手臂保持直立。",
+                "C. 男人的手臂交叉在胸前。",
+                "D. 男人的手臂向两侧伸展。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_31": {
+            "id": "6EIrArTyLVU_31",
+            "scene": "2",
+            "dimension": "Description-Human",
+            "question": "在杠铃俯卧撑的下行阶段，男人的核心状态是什么？",
+            "options": [
+                "A. 男人的核心保持紧绷。",
+                "B. 男人的核心放松。",
+                "C. 男人的核心扭曲。",
+                "D. 男人的核心松弛。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_32": {
+            "id": "6EIrArTyLVU_32",
+            "scene": "2",
+            "dimension": "Description-Human",
+            "question": "在杠杆俯卧撑的下降阶段，男人的双腿处于什么位置？",
+            "options": [
+                "A. 男人的双腿在膝盖处弯曲。",
+                "B. 男人的双腿在脚踝处交叉。",
+                "C. 男人的双腿保持伸直，双脚稳稳地站立。",
+                "D. 男人的双腿略微抬起离地。"
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_33": {
+            "id": "6EIrArTyLVU_33",
+            "scene": "2",
+            "dimension": "Camera Shot",
+            "question": "视频中使用的摄像机角度是什么？",
+            "options": [
+                "A. 摄像机角度是从上方拍摄的。",
+                "B. 摄像机角度是从眼睛水平拍摄的。",
+                "C. 摄像机角度是从下方拍摄的。",
+                "D. 摄像机角度是侧向倾斜的。"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_34": {
+            "id": "6EIrArTyLVU_34",
+            "scene": "2",
+            "dimension": "Visual-cue",
+            "question": "左侧显示了哪些文字覆盖？",
+            "options": [
+                "A. 文字覆盖是关于杠铃伏地挺身的操作说明。",
+                "B. 文字覆盖显示了励志名言以及公园名称。",
+                "C. 文字覆盖展示了男子的锻炼计划。",
+                "D. 文字覆盖包括卡路里消耗统计和心率监测。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_35": {
+            "id": "6EIrArTyLVU_35",
+            "scene": "2",
+            "dimension": "Visual-cue",
+            "question": "在杠铃俯卧撑序列中，文本覆盖的目的是什么？",
+            "options": [
+                "A. 目的是为视频添加装饰元素。",
+                "B. 目的是强化该场景的教学重点。",
+                "C. 目的是对这名男子的健身水平进行评论。",
+                "D. 目的是在视频中介绍新角色。"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_36": {
+            "id": "6EIrArTyLVU_36",
+            "scene": "3",
+            "dimension": "Description-Scene",
+            "question": "在男子健身过程中揭示的户外健身房有哪些特点？",
+            "options": [
+                "A. 一个水平梯和一个类似长凳的站点",
+                "B. 一个游泳池和一面攀岩墙",
+                "C. 一个篮球场和一个网球场",
+                "D. 一条跑道和一个野餐区"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_37": {
+            "id": "6EIrArTyLVU_37",
+            "scene": "3",
+            "dimension": "Description-Scene",
+            "question": "这个视频发生在哪里？",
+            "options": [
+                "A. 视频发生在一个户外健身房。",
+                "B. 视频发生在一个学校健身房。",
+                "C. 视频发生在一个家庭健身房。",
+                "D. 视频发生在一个海滩健身房。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_38": {
+            "id": "6EIrArTyLVU_38",
+            "scene": "3",
+            "dimension": "Description-Scene",
+            "question": "以下哪项最能描述环境？",
+            "options": [
+                "A. 淡蓝色软垫地板、草地地形、树木和健身设备。",
+                "B. 有大型镜子和专业灯光的室内空间。",
+                "C. 深色木地板、石质小径和人造植物。",
+                "D. 带有健身垫和数字显示屏的封闭空间。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_39": {
+            "id": "6EIrArTyLVU_39",
+            "scene": "3",
+            "dimension": "Description-Human",
+            "question": "那位男子在锻炼时穿的是什么？",
+            "options": [
+                "A. 鲜艳的粉色运动T恤和海军蓝短裤",
+                "B. 绿色背心和黑色紧身裤",
+                "C. 红色运动夹克和灰色运动裤",
+                "D. 白色T恤和蓝色牛仔裤"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_40": {
+            "id": "6EIrArTyLVU_40",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "这个人做俯卧撑用的是什么设备？",
+            "options": [
+                "A. 平行木质杆",
+                "B. 类似长凳的装置",
+                "C. 水平梯",
+                "D. 平行金属杆"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_41": {
+            "id": "6EIrArTyLVU_41",
+            "scene": "3",
+            "dimension": "Description-Object",
+            "question": "这个男人用于三头肌下压的器械是什么？",
+            "options": [
+                "A. 水平梯",
+                "B. 类似长凳的站台",
+                "C. 平行金属杆",
+                "D. 银色水平杆"
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_42": {
+            "id": "6EIrArTyLVU_42",
+            "scene": "3",
+            "dimension": "Attribute Change",
+            "question": "文字覆盖是否会根据男子的锻炼方式进行改变？",
+            "options": [
+                "A. 是的，文字覆盖会相应更改。",
+                "B. 不，文字覆盖不会改变。",
+                "C. 文字覆盖只会改变颜色。",
+                "D. 根本没有文字覆盖。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_43": {
+            "id": "6EIrArTyLVU_43",
+            "scene": "3",
+            "dimension": "Fine Grained Action",
+            "question": "一个人如何在双杠上进行三头肌下沉？",
+            "options": [
+                "A. 用手臂支撑你的体重，弯曲肘部向下沉，然后以控制的动作回到完全伸展的手臂位置。",
+                "B. 平躺在背上，用臀部向上推以锻炼三头肌。",
+                "C. 直立，用腿跳起，然后缓慢下降到双杠上。",
+                "D. 悬挂在杠杆上，前后摆动双腿以为下沉积累动能。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_44": {
+            "id": "6EIrArTyLVU_44",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "男人做杠铃俯卧撑时，屏幕上的文字覆盖说了什么？",
+            "options": [
+                "A. 屏幕上的文字覆盖用粗体白字写着“PUSH UPS (KEEP IT STRAIGHT, GO DEEP)”。",
+                "B. 屏幕上的文字覆盖用粗体白字写着“BAR PUSH UPS (GO DEEP, KEEP YOUR BODY STRAIGHT)”。",
+                "C. 屏幕上的文字覆盖用粗体白字写着“TRICEPS DIPS (GO LOW, KEEP FORM)”。",
+                "D. 屏幕上的文字覆盖用粗体白字写着“BAR EXERCISES (MAINTAIN ALIGNMENT)”。"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_45": {
+            "id": "6EIrArTyLVU_45",
+            "scene": "3",
+            "dimension": "Speed",
+            "question": "在练习中，男人动作的速度是如何表现的？",
+            "options": [
+                "A. 男人的动作被描绘为疯狂且失控。",
+                "B. 男人的动作被描绘为流畅且受控。",
+                "C. 男人的动作被描绘为缓慢且犹豫。",
+                "D. 男人的动作被描绘为突然且抽搐。"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_46": {
+            "id": "6EIrArTyLVU_46",
+            "scene": "3",
+            "dimension": "Visual-cue",
+            "question": "场景底部文字覆盖中出现了什么文字？",
+            "options": [
+                "A. 'DIP & REST'",
+                "B. 'KEEP BODY STRAIGHT'",
+                "C. 'GO DEEP, KEEP STRAIGHT'",
+                "D. 'FOCUS & PROGRESS'"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_47": {
+            "id": "6EIrArTyLVU_47",
+            "scene": "4",
+            "dimension": "Description-Human",
+            "question": "水平引体向上时，男子是什么姿势？",
+            "options": [
+                "A. 男子水平地位于双杠下方。",
+                "B. 男子直立并稍微向前倾。",
+                "C. 男子站在双杠旁边。",
+                "D. 男子坐在地上靠近杠子。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_48": {
+            "id": "6EIrArTyLVU_48",
+            "scene": "4",
+            "dimension": "Description-Human",
+            "question": "这个人正在场景中做什么？",
+            "options": [
+                "A. 他正在公园里慢跑，专注于增强他的心血管耐力。",
+                "B. 他正在做水平引体向上，展示了他的上肢力量和精准度。",
+                "C. 他正在树下练瑜伽，以提高他的柔韧性。",
+                "D. 他正在橡胶地板上做一组俯卧撑动作。"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_49": {
+            "id": "6EIrArTyLVU_49",
+            "scene": "4",
+            "dimension": "Description-Object",
+            "question": "金属平行杆的外观是什么？",
+            "options": [
+                "A. 平行杆是木制的。",
+                "B. 平行杆生锈了。",
+                "C. 平行杆闪闪发光。",
+                "D. 平行杆被涂成蓝色。"
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_50": {
+            "id": "6EIrArTyLVU_50",
+            "scene": "4",
+            "dimension": "Description-Object",
+            "question": "双杠是由什么材料制成的？",
+            "options": [
+                "A. 双杠是木制的。",
+                "B. 双杠是塑料的。",
+                "C. 双杠是金属的。",
+                "D. 双杠是橡胶的。"
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_51": {
+            "id": "6EIrArTyLVU_51",
+            "scene": "4",
+            "dimension": "Description-Object",
+            "question": "双杠是如何摆放的？",
+            "options": [
+                "A. 双杠是垂直摆放的。",
+                "B. 双杠是对角线摆放的。",
+                "C. 双杠是水平摆放的。",
+                "D. 双杠是环形摆放的。"
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_52": {
+            "id": "6EIrArTyLVU_52",
+            "scene": "4",
+            "dimension": "Camera Shot",
+            "question": "场景中，摄像机保持什么角度？",
+            "options": [
+                "A. 摄像机稍微抬高，并以一个角度拍摄以确保清晰。",
+                "B. 摄像机在地面水平，直接聚焦在男人的脸上。",
+                "C. 摄像机正上方拍摄，捕捉练习的俯视图。",
+                "D. 摄像机在远处，显示整个健身公园。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_53": {
+            "id": "6EIrArTyLVU_53",
+            "scene": "4",
+            "dimension": "Speed",
+            "question": "在进行水平引体向上时，这名男子的动作速度是怎样的？",
+            "options": [
+                "A. 这名男子的动作非常平稳。",
+                "B. 这名男子的动作非常迅速。",
+                "C. 这名男子的动作不稳定。",
+                "D. 这名男子的动作缓慢且不连贯。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_54": {
+            "id": "6EIrArTyLVU_54",
+            "scene": "4",
+            "dimension": "Visual-cue",
+            "question": "视频中可见的文字叠加有哪些？",
+            "options": [
+                "A. 文字叠加是黑色矩形上加粗大写的‘HORIZONTAL PULL UP’，以及反复出现的连笔字体标识‘for human people.’",
+                "B. 文字叠加是白色背景上的斜体小写‘FULL BODY WORKOUT’，以及加粗字体的‘fitness guide’。",
+                "C. 文字叠加是黑色矩形上加粗大写的‘UPPER BODY STRENGTH’，以及反复出现的连笔字体标识‘for athletic performance.’",
+                "D. 文字叠加是绿色背景上的连笔字体‘CALISTHENICS CHALLENGE’，以及反复出现的标识‘for healthy living.’"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_55": {
+            "id": "6EIrArTyLVU_55",
+            "scene": "5",
+            "dimension": "Spatial",
+            "question": "场景早期阶段，与正在锻炼的男人相比，背景中的这个人位置在哪里？",
+            "options": [
+                "A. 这个人位于场景的左侧，正在穿过橡胶地板行走。",
+                "B. 这个人位于场景的右侧，正在穿过橡胶地板行走。",
+                "C. 这个人位于男人的正后方，保持静止。",
+                "D. 这个人位于男人的正前方，也在进行锻炼。"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_56": {
+            "id": "6EIrArTyLVU_56",
+            "scene": "5",
+            "dimension": "Description-Scene",
+            "question": "视频场景的背景是什么？",
+            "options": [
+                "A. 场景发生在一个充满活力的室外健身公园，地面是浅蓝色橡胶材料。",
+                "B. 场景发生在一个地板是木质的室内健身房。",
+                "C. 场景发生在一个有混凝土路面的城市街道上。",
+                "D. 场景发生在草地的居民后院。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_57": {
+            "id": "6EIrArTyLVU_57",
+            "scene": "5",
+            "dimension": "Description-Object",
+            "question": "仰卧起坐用的凳子是用什么做的？",
+            "options": [
+                "A. 凳子是用金属做的。",
+                "B. 凳子是用木头做的。",
+                "C. 凳子是用塑料做的。",
+                "D. 凳子是用混凝土做的。"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_58": {
+            "id": "6EIrArTyLVU_58",
+            "scene": "5",
+            "dimension": "Description-Object",
+            "question": "男子用来做仰卧起坐的凳子的设计是什么？",
+            "options": [
+                "A. 凳子是倾斜的。",
+                "B. 凳子是平的。",
+                "C. 凳子没有倾斜。",
+                "D. 凳子是竖直的。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_59": {
+            "id": "6EIrArTyLVU_59",
+            "scene": "5",
+            "dimension": "Description-Human",
+            "question": "这个男人使用长凳的目的是什么？",
+            "options": [
+                "A. 长凳用于支撑仰卧起坐的练习。",
+                "B. 长凳用于在锻炼间休息。",
+                "C. 长凳用于存放锻炼器材。",
+                "D. 长凳用于公园的装饰用途。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_60": {
+            "id": "6EIrArTyLVU_60",
+            "scene": "5",
+            "dimension": "Count",
+            "question": "在最繁忙的时刻，场景中有多少人？",
+            "options": [
+                "A. 一个人",
+                "B. 两个人",
+                "C. 三个人",
+                "D. 四个人"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_61": {
+            "id": "6EIrArTyLVU_61",
+            "scene": "5",
+            "dimension": "Object Direction",
+            "question": "背景中的那个人朝哪个方向移动？",
+            "options": [
+                "A. 第二个人从右向左走。",
+                "B. 第二个人朝着那名男子移动。",
+                "C. 第二个人绕着圈子走。",
+                "A. 第二个人从左向右走。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_62": {
+            "id": "6EIrArTyLVU_62",
+            "scene": "5",
+            "dimension": "Camera Direction",
+            "question": "当他们走过的时候，摄像机跟随着背景的人吗？",
+            "options": [
+                "A. 是的，摄像机会紧紧跟随背景中的人。",
+                "B. 是的，摄像机会在两人之间来回切换。",
+                "C. 不，摄像机主要聚焦在前景中做运动的那个人身上。",
+                "D. 不，摄像机保持静止，均匀地拍摄两个人。"
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_63": {
+            "id": "6EIrArTyLVU_63",
+            "scene": "5",
+            "dimension": "Camera Shot",
+            "question": "在拍摄男人做仰卧起坐时使用了哪种镜头？",
+            "options": [
+                "A. 使用了中景镜头。",
+                "B. 使用了极近镜头。",
+                "C. 使用了俯视镜头。",
+                "D. 使用了广角镜头。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_64": {
+            "id": "6EIrArTyLVU_64",
+            "scene": "5",
+            "dimension": "Fine Grained Action",
+            "question": "那个男人做仰卧起坐的节奏是怎样的？",
+            "options": [
+                "A. 这个男人做仰卧起坐的节奏是快速且匆忙的。",
+                "B. 这个男人做仰卧起坐的节奏是有控制和有计划的。",
+                "C. 这个男人做仰卧起坐的节奏是不规律且不均匀的。",
+                "D. 这个男人做仰卧起坐的节奏是缓慢但匆忙的。"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_65": {
+            "id": "6EIrArTyLVU_65",
+            "scene": "5",
+            "dimension": "Fine Grained Action",
+            "question": "在仰卧起坐过程中，男人的姿势如何改变？",
+            "options": [
+                "A. 男人的姿势在蜷缩卷曲和完全躺下之间变化。",
+                "B. 男人的姿势在完全站立和跪在地上之间变化。",
+                "C. 男人的姿势在盘腿坐着和平躺之间变化。",
+                "D. 男人的姿势在蹲姿和腰部弯曲之间变化。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_66": {
+            "id": "6EIrArTyLVU_66",
+            "scene": "5",
+            "dimension": "Visual-cue",
+            "question": "在这个男人锻炼时，什么文字覆盖可见？",
+            "options": [
+                "A. 在这个男人锻炼时可见文字是‘SIT UP WITH SWING’。",
+                "B. 在这个男人锻炼时可见文字是‘PULL UP AND RELAX’。",
+                "C. 在这个男人锻炼时可见文字是‘SWING AND STRETCH’。",
+                "D. 在这个男人锻炼时可见文字是‘FITNESS ROUTINE’。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_67": {
+            "id": "6EIrArTyLVU_67",
+            "scene": "5",
+            "dimension": "Visual-cue",
+            "question": "以下哪个文本覆盖在该男子锻炼时可见？",
+            "options": [
+                "A. 坐起与摆动",
+                "B. 为人类的",
+                "C. 激烈锻炼",
+                "D. 户外健身乐趣"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_68": {
+            "id": "6EIrArTyLVU_68",
+            "scene": "6",
+            "dimension": "Visual-cue",
+            "question": "文本 'SAM WOOD' 在电视画面中的哪个位置？",
+            "options": [
+                "A. 文本 'SAM WOOD' 水平叠放在电视画面顶部，显示为黑色。",
+                "B. 文本 'SAM WOOD' 垂直叠放在电视画面左侧，显示为黑色。",
+                "C. 文本 'SAM WOOD' 以对角线方式横跨电视画面，显示为黑色。",
+                "D. 文本 'SAM WOOD' 以圆形排列填满整个屏幕，显示为黑色。"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_69": {
+            "id": "6EIrArTyLVU_69",
+            "scene": "6",
+            "dimension": "Description-Object",
+            "question": "复古电视标志是什么样子的？",
+            "options": [
+                "A. 复古电视标志是珊瑚橙色的，带有圆角、倾斜的天线和小巧的棱角形支脚。",
+                "B. 复古电视标志是亮粉色的，带有方形的角、平坦的天线，没有支脚。",
+                "C. 标志是一个简约的白色矩形，没有颜色或设计元素。",
+                "D. 复古电视标志是蓝色的，带有锯齿状边缘，没有天线或支脚。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_70": {
+            "id": "6EIrArTyLVU_70",
+            "scene": "6",
+            "dimension": "Visual-cue",
+            "question": "复古电视标志上的主要文字元素是什么？",
+            "options": [
+                "A. 主要文字元素是“Exercise Pro”和“Guide”",
+                "B. 主要文字元素是“Workout Now”和“Studio”",
+                "C. 主要文字元素是“SAM WOOD”和“TV”",
+                "D. 主要文字元素是“Fitness Arena”和“Show”"
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_71": {
+            "id": "6EIrArTyLVU_71",
+            "scene": "6",
+            "dimension": "Binary",
+            "question": "复古风格的电视标志在视频描述中会移动吗？",
+            "options": [
+                "A. 不，复古风格的电视标志保持静止。",
+                "B. 是的，复古风格的电视标志在屏幕上移动。",
+                "C. 是的，复古风格的电视标志旋转。",
+                "D. 是的，复古风格的电视标志淡入淡出。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_72": {
+            "id": "6EIrArTyLVU_72",
+            "scene": "6",
+            "dimension": "Visual-cue",
+            "question": "在显示'SAM WOOD'之后，电视屏幕上添加了什么文字？",
+            "options": [
+                "A. 屏幕上在'SAM WOOD'旁边添加了珊瑚橙色的文字'FIT'。",
+                "B. 屏幕上在'SAM WOOD'旁边添加了珊瑚橙色的文字'GYM'。",
+                "C. 屏幕上在'SAM WOOD'旁边添加了珊瑚橙色的文字'TV'。",
+                "D. 屏幕上在'SAM WOOD'旁边添加了珊瑚橙色的文字'LIVE'。"
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_73": {
+            "id": "6EIrArTyLVU_73",
+            "scene": "-1",
+            "dimension": "Description-Human",
+            "question": "这个男人用黄色阻力带做什么锻炼？",
+            "options": [
+                "A. 他用黄色阻力带做仰卧起坐。",
+                "B. 他用黄色阻力带做引体向上。",
+                "C. 他用黄色阻力带做肱三头肌下压。",
+                "D. 他用黄色阻力带做水平引体向上。"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_74": {
+            "id": "6EIrArTyLVU_74",
+            "scene": "-1",
+            "dimension": "Fine Grained Action",
+            "question": "这个男人做完仰卧起坐后会发生什么？",
+            "options": [
+                "A. 背景变成纯白色屏幕，上面有一个珊瑚橙色的电视标志。",
+                "B. 背景中的人物退出画面，场景重新聚焦到男人身上。",
+                "C. 场景切换到一个带有更多器械的健身区域。",
+                "D. 男人开始用哑铃进行新的锻炼。"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_75": {
+            "id": "6EIrArTyLVU_75",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "文本覆盖在健身场景中起到了什么作用？",
+            "options": [
+                "A. 文本覆盖提供背景音乐并为视频设置氛围。",
+                "B. 文本覆盖提供健身教练的个人故事。",
+                "C. 文本覆盖提供指导性教学，并强调正在示范的关键练习。",
+                "D. 文本覆盖列出所用设备及其价格。"
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_76": {
+            "id": "6EIrArTyLVU_76",
+            "scene": "-1",
+            "dimension": "Fine Grained Action",
+            "question": "健身视频中的练习顺序是什么？",
+            "options": [
+                "A. 弹力带辅助引体向上，杠铃俯卧撑，三头肌撑体，水平引体向上，摆动仰卧起坐。",
+                "B. 杠铃俯卧撑，弹力带辅助引体向上，三头肌撑体，水平引体向上，摆动仰卧起坐。",
+                "C. 弹力带辅助引体向上，杠铃俯卧撑，水平引体向上，三头肌撑体，摆动仰卧起坐。",
+                "D. 弹力带辅助引体向上，三头肌撑体，杠铃俯卧撑，水平引体向上，摆动仰卧起坐。"
+            ],
+            "answer": "A"
+        }
+    }
+}

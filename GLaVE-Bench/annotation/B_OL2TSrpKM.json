@@ -1,0 +1,962 @@
+{
+    "scene_hint": {
+        "0": "一张简约的宣传图形。",
+        "1": "对木片外形进行修剪。",
+        "2": "给木片上钻孔。",
+        "3": "在木片上绘画。",
+        "4": "将木片和扣子扣在一起。",
+        "5": "展示最后的成品。",
+        "6": "场景以一行文字结束。"
+    },
+    "qa": {
+        "B_OL2TSrpKM_0": {
+            "id": "B_OL2TSrpKM_0",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "钥匙链在作者对木片进行裁剪时，位于场景中的哪里？",
+            "options": [
+                "A. 钥匙链位于场景的中心。",
+                "B. 钥匙链位于场景的左上角。",
+                "C. 钥匙链位于场景的右下角。",
+                "D. 钥匙链位于场景的中右部。"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_1": {
+            "id": "B_OL2TSrpKM_1",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景的主要背景设置是什么？",
+            "options": [
+                "A. 是一个深棕色木质表面。",
+                "B. 是一个纯白色表面。",
+                "C. 是一个青蓝色图案。",
+                "D. 是一个浅色木质桌面。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_2": {
+            "id": "B_OL2TSrpKM_2",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "在裁剪过程中左手做什么？",
+            "options": [
+                "A. 左手拿着一支黄色铅笔。",
+                "B. 左手用拇指和食指握住木片。",
+                "C. 左手调整钥匙链。",
+                "D. 左手用涂胶器在木棍上涂胶。"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_3": {
+            "id": "B_OL2TSrpKM_3",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "在做辅助线时，右手做了什么？",
+            "options": [
+                "A. 右手用黄色铅笔画线。",
+                "B. 右手保持不动，而左手操控木棒。",
+                "C. 右手用蓝色记号笔画线。",
+                "D. 右手将木棒水平放置在表面上。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_4": {
+            "id": "B_OL2TSrpKM_4",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "木片上包含什么文字？",
+            "options": [
+                "A. 包含文字 'DIY ideas'。",
+                "B. 包含文字 'DIY crafts'。",
+                "C. 包含文字 'DIY projects'。",
+                "D. 包含文字 'DIY tips'。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_5": {
+            "id": "B_OL2TSrpKM_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "图像左侧圆形标志的背景设计是什么？",
+            "options": [
+                "A. 标志的背景是纯青蓝色的。",
+                "B. 标志的背景是一个亮色斑点图案。",
+                "C. 标志的背景是纯白色，没有图案。",
+                "D. 标志的背景是金黄色渐变。"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_6": {
+            "id": "B_OL2TSrpKM_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "使用了多少种不同的字体样式？",
+            "options": [
+                "A. 使用了六种字体样式。",
+                "B. 使用了三种字体样式。",
+                "C. 使用了四种字体样式。",
+                "D. 使用了五种字体样式。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_7": {
+            "id": "B_OL2TSrpKM_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "左上的超大号“DIY”使用了什么字体风格？",
+            "options": [
+                "A. 粗体衬线小写",
+                "B. 细体衬线大写",
+                "C. 粗体无衬线大写",
+                "D. 手写风格的脚本"
+            ],
+            "answer": "C"
+        },
+        "B_OL2TSrpKM_8": {
+            "id": "B_OL2TSrpKM_8",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "圆形标志中 'ideas' 使用了什么字体样式？",
+            "options": [
+                "A. 精致的衬线体",
+                "B. 粗体无衬线体",
+                "C. 手写字体",
+                "D. 现代无衬线体"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_9": {
+            "id": "B_OL2TSrpKM_9",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "右上的‘IDEAS’ 使用哪种字体风格？",
+            "options": [
+                "A. 手写风格的字体",
+                "B. 粗体大写衬线体",
+                "C. 细致的小写衬线体",
+                "D. 超大无衬线体"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_10": {
+            "id": "B_OL2TSrpKM_10",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "‘DIy ideas’右侧的标语使用的是什么字体样式？",
+            "options": [
+                "A. 粗体白色无衬线",
+                "B. 优雅的金黄色手写体",
+                "C. 精致的衬线体",
+                "D. 仿手写的青绿色字体"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_11": {
+            "id": "B_OL2TSrpKM_11",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "木片从水平变为垂直的变化说明了什么？",
+            "options": [
+                "A. 这表明有所进展或正为下一步做准备。",
+                "B. 这表明制作过程已经结束。",
+                "C. 这表明出现了错误，需要进行纠正。",
+                "D. 这表明活动暂停以进行重新评估。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_12": {
+            "id": "B_OL2TSrpKM_12",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "在制作场景中使用了什么摄影机角度？",
+            "options": [
+                "A. 使用了俯视角度的摄像机。",
+                "B. 使用了侧视角度的摄像机。",
+                "C. 使用了正面对准的摄像机。",
+                "D. 使用了低角度的摄像机。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_13": {
+            "id": "B_OL2TSrpKM_13",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频的背景是什么？",
+            "options": [
+                "A. 视频的背景是一个木质表面。",
+                "B. 视频的背景是一个大理石表面。",
+                "C. 视频的背景是一个水泥表面。",
+                "D. 视频的背景是一个塑料桌子。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_14": {
+            "id": "B_OL2TSrpKM_14",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "在钻孔时左手拿着什么?",
+            "options": [
+                "A. 一块扁平、椭圆形的木片",
+                "B. 一个乳白色的长方形标签",
+                "C. 一把细长的针状工具",
+                "D. 一个金属钥匙链"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_15": {
+            "id": "B_OL2TSrpKM_15",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "钻孔时，左手是怎么拿着这个物体的？",
+            "options": [
+                "A. 左手只用两根手指握着它。",
+                "B. 左手用拇指和中指握住它。",
+                "C. 左手用张开的手掌托住它。",
+                "D. 左手完全没有碰到这个物体。"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_16": {
+            "id": "B_OL2TSrpKM_16",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "钥匙链上的标签是什么颜色和形状？",
+            "options": [
+                "A. 该标签是奶油色的，形状为四角圆滑的矩形。",
+                "B. 该标签是白色的，形状为圆形。",
+                "C. 该标签是黄色的，形状为三角形。",
+                "D. 该标签是棕色的，形状为椭圆形。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_17": {
+            "id": "B_OL2TSrpKM_17",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "钥匙链的标签上有什么类型的文本？",
+            "options": [
+                "A. 标签上的文本是粗体且大写的。",
+                "B. 标签上的文本是手写的且是草书。",
+                "C. 标签上的文本是斜体且小写的。",
+                "D. 标签上的文本是装饰性且有字母组合的。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_18": {
+            "id": "B_OL2TSrpKM_18",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "钥匙链的标签上还有哪些额外的设计元素？",
+            "options": [
+                "A. 标签有缝线边框和一个小红心。",
+                "B. 标签有条纹边框和一个小蓝星。",
+                "C. 标签有点状边框和一个小绿叶。",
+                "D. 标签有波浪边框和一个小黄太阳。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_19": {
+            "id": "B_OL2TSrpKM_19",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "钥匙扣有什么样的环？",
+            "options": [
+                "A. 钥匙扣有一个金属环。",
+                "B. 钥匙扣有一个木质环。",
+                "C. 钥匙扣有一个塑料环。",
+                "D. 钥匙扣有一个橡胶环。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_20": {
+            "id": "B_OL2TSrpKM_20",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "有多少个木制部件是可见的？",
+            "options": [
+                "A. 一个木制部件",
+                "B. 两个木制部件",
+                "C. 三个木制部件",
+                "D. 四个木制部件"
+            ],
+            "answer": "C"
+        },
+        "B_OL2TSrpKM_21": {
+            "id": "B_OL2TSrpKM_21",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "左上角的钥匙扣会移动吗？",
+            "options": [
+                "A. 是的，钥匙扣会重新定位。",
+                "B. 不，钥匙扣保持静止不变。",
+                "C. 是的，钥匙扣会旋转多次。",
+                "D. 不，钥匙扣被替换为其他材料。"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_22": {
+            "id": "B_OL2TSrpKM_22",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "从哪个方向伸出右手？",
+            "options": [
+                "A. 右手从画面的左上侧伸出。",
+                "B. 右手从画面的右上方伸出。",
+                "C. 右手从画面的左下方伸出。",
+                "D. 右手从画面的右下侧伸出。"
+            ],
+            "answer": "D"
+        },
+        "B_OL2TSrpKM_23": {
+            "id": "B_OL2TSrpKM_23",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "视频中使用了什么摄像机视角？",
+            "options": [
+                "A. 使用了侧视摄像机视角。",
+                "B. 使用了前视摄像机视角。",
+                "C. 使用了平视摄像机视角。",
+                "D. 使用了特写摄像机视角。"
+            ],
+            "answer": "D"
+        },
+        "B_OL2TSrpKM_24": {
+            "id": "B_OL2TSrpKM_24",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景中的环境是什么样的？",
+            "options": [
+                "A. 光线充足的表面。",
+                "B. 暗淡而布满灰尘的表面。",
+                "C. 带有对比阴影的表面。",
+                "D. 粗糙的地毯表面。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_25": {
+            "id": "B_OL2TSrpKM_25",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "画面中可以看到多少只手？",
+            "options": [
+                "A. 一只手",
+                "B. 两只手",
+                "C. 三只手",
+                "D. 没有手"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_26": {
+            "id": "B_OL2TSrpKM_26",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "最多有几块穿好孔的木片被拿在手中？",
+            "options": [
+                "A. 一块木片",
+                "B. 两块木片",
+                "C. 三块木片",
+                "D. 四块木片"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_27": {
+            "id": "B_OL2TSrpKM_27",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "在穿完孔后是否存在新的制作木片的工具？",
+            "options": [
+                "A. 是，出现锤子",
+                "B. 否",
+                "C. 是，出现纱布",
+                "D. 是，出现剪刀"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_28": {
+            "id": "B_OL2TSrpKM_28",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "钻完孔后又在做什么？",
+            "options": [
+                "A. 正在比对两块木块。",
+                "B. 在木块上雕刻文字。",
+                "C. 正在用颜料给木块上色。",
+                "D. 正在将木块连接到钥匙链上。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_29": {
+            "id": "B_OL2TSrpKM_29",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "画好图案的木块被放在场景中的什么位置？",
+            "options": [
+                "A. 位于场景的顶部。",
+                "B. 位于场景的右下角。",
+                "C. 位于场景的中央。",
+                "D. 位于场景的右上角。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_30": {
+            "id": "B_OL2TSrpKM_30",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "视频的环境是什么？",
+            "options": [
+                "A. 环境是一个手工桌。",
+                "B. 环境是一个工作坊。",
+                "C. 环境是一个户外野餐场景。",
+                "D. 环境是一个艺术画廊。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_31": {
+            "id": "B_OL2TSrpKM_31",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景中的灯光是什么样的？",
+            "options": [
+                "A. 灯光明亮且不均匀。",
+                "B. 灯光昏暗且有氛围。",
+                "C. 灯光明亮且均匀分布。",
+                "D. 灯光刺眼且过强。"
+            ],
+            "answer": "C"
+        },
+        "B_OL2TSrpKM_32": {
+            "id": "B_OL2TSrpKM_32",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "右手在第一个木片上做了什么？",
+            "options": [
+                "A. 绘制标志与文字。",
+                "B. 绘制一朵精花朵。",
+                "C. 书写文本。",
+                "D. 绘制一个标志。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_33": {
+            "id": "B_OL2TSrpKM_33",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "右手使用了什么笔来绘画？",
+            "options": [
+                "A. 标有‘Ostern’的白笔。",
+                "B. 标有‘Ostern’的黄笔",
+                "C. 标有‘Doraemon’的白笔。",
+                "D. 标有‘Doraemon’的黄笔。"
+            ],
+            "answer": "C"
+        },
+        "B_OL2TSrpKM_34": {
+            "id": "B_OL2TSrpKM_34",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "“DIY IDEAS”钥匙链标签的特点是什么？",
+            "options": [
+                "A. 红色字母、黑色轮廓和心形图案。",
+                "B. 红色文字，银色边缘和花卉图案。",
+                "C. 蓝色字母，金色衬边和星形设计。",
+                "D. 黑色文字，红色高光和月亮图案。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_35": {
+            "id": "B_OL2TSrpKM_35",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "场景中使用了多少种颜色的笔？",
+            "options": [
+                "A. 一种。",
+                "B. 二种。",
+                "C. 三种。",
+                "D. 四种。"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_36": {
+            "id": "B_OL2TSrpKM_36",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "左手在制作过程中起什么作用？",
+            "options": [
+                "A. 稳定木牌。",
+                "B. 绘制图案。",
+                "C. 固定尺子。",
+                "D. 用笔替换记号笔。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_37": {
+            "id": "B_OL2TSrpKM_37",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "视频中使用了哪种类型的摄影视角？",
+            "options": [
+                "A. 使用广角视角。",
+                "B. 使用平视视角。",
+                "C. 使用特写视角。",
+                "D. 使用远距离视角。"
+            ],
+            "answer": "C"
+        },
+        "B_OL2TSrpKM_38": {
+            "id": "B_OL2TSrpKM_38",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "最终完成的木牌上的设计看起来像什么？",
+            "options": [
+                "A. 一个完整的心被箭穿过",
+                "B. 一个带有复杂细节的笑脸",
+                "C. 一个上面有'DIY IDEAS'标牌",
+                "D. 一个上面有'YouTube'标牌"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_39": {
+            "id": "B_OL2TSrpKM_39",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景的背景是什么样的？",
+            "options": [
+                "A. 一个木制桌面",
+                "B. 一个玻璃桌面",
+                "C. 一个大理石桌面",
+                "D. 一个织物背景"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_40": {
+            "id": "B_OL2TSrpKM_40",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "背景是什么什么颜色的？",
+            "options": [
+                "A. 红棕色",
+                "B. 白色",
+                "C. 深灰色",
+                "D. 黑色"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_41": {
+            "id": "B_OL2TSrpKM_41",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "‘DIY IDEAS’钥匙链的一个显著特点是什么？",
+            "options": [
+                "A. 有小红心图案。",
+                "B. 有星星图案。",
+                "C. 没有其他图案。",
+                "D. 有花卉图案。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_42": {
+            "id": "B_OL2TSrpKM_42",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "描述了多少个钥匙链？",
+            "options": [
+                "A. 两个钥匙链",
+                "B. 三个钥匙链",
+                "C. 四个钥匙链",
+                "D. 五个钥匙链"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_43": {
+            "id": "B_OL2TSrpKM_43",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "描述中钥匙扣的名字是什么？",
+            "options": [
+                "A. 'DIY IDEAS', 'YouTube','Love'.",
+                "B. 'Handmade', 'Vlog', 'Affection'.",
+                "C. 'Creative', 'Video', 'Heart'.",
+                "D. 'Craft', 'Channel', 'Adoration'."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_44": {
+            "id": "B_OL2TSrpKM_44",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "“YouTube”钥匙扣是画面的主要焦点吗？",
+            "options": [
+                "A. 是的，是画面的主要焦点之一。",
+                "B. 不是，“DIY IDEAS”钥匙扣才是。",
+                "C. 是的，只有“YouTube”钥匙扣是。",
+                "D. 不是，焦点是“Love”钥匙扣。"
+            ],
+            "answer": "D"
+        },
+        "B_OL2TSrpKM_45": {
+            "id": "B_OL2TSrpKM_45",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "DIY IDEAS' 和 'YouTube' 钥匙扣都被放置在桌子上时，他们的位置关系如何？",
+            "options": [
+                "A. 'YouTube' 钥匙扣在它的右边。",
+                "B. 'YouTube' 钥匙扣放在它旁边的桌子上。",
+                "C. 'DIY IDEAS'和'YouTube' 钥匙扣单独展示。",
+                "D. 'DIY IDEAS' 和 'YouTube' 钥匙扣叠在一起。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_46": {
+            "id": "B_OL2TSrpKM_46",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "这些画面使用了什么摄像机视角？",
+            "options": [
+                "A. 广角摄像机视角。",
+                "B. 特写摄像机视角。",
+                "C. 平视摄像机视角。",
+                "D. 侧面摄像机视角。"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_47": {
+            "id": "B_OL2TSrpKM_47",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "右手最初拿的是哪一个钥匙扣？",
+            "options": [
+                "A. 'Love' 钥匙扣",
+                "B. 'DIY IDEAS' 钥匙扣",
+                "C. 'YouTube' 钥匙扣",
+                "D. 'Home' 钥匙扣"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_48": {
+            "id": "B_OL2TSrpKM_48",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "左手的作用是什么？",
+            "options": [
+                "A. 移动钥匙扣到右手手指。",
+                "B. 稳固钥匙扣在手上展示。",
+                "C. 摆放钥匙扣在桌面上展示。",
+                "D. 什么都没有做。"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_49": {
+            "id": "B_OL2TSrpKM_49",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "如何形容'DIY IDEAS'钥匙扣的外观？",
+            "options": [
+                "A. 红色和黑色字体，并配有心形图案。",
+                "B. 牌匾、心形图案和黑色字体。",
+                "C. 红色标签，上面显示了'YouTube'标志。",
+                "D. 蓝色和黄色字体，并配有一个星形图案。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_50": {
+            "id": "B_OL2TSrpKM_50",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "特别提到了多少个钥匙扣？",
+            "options": [
+                "A. 特别提到了三个钥匙扣。",
+                "B. 特别提到了两个钥匙扣。",
+                "C. 特别提到了四个钥匙扣。",
+                "D. 特别提到了五个钥匙扣。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_51": {
+            "id": "B_OL2TSrpKM_51",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "在整个场景中，右手是否一直握着“Love”钥匙链？",
+            "options": [
+                "A. 是的，右手一直握着“Love”钥匙链。",
+                "B. 不，右手拿起了“DIY IDEAS”钥匙链。",
+                "C. 不，右手拿起了“YouTube”钥匙链。",
+                "D. 是的，右手同时握着“Love”和“YouTube”钥匙链。"
+            ],
+            "answer": "C"
+        },
+        "B_OL2TSrpKM_52": {
+            "id": "B_OL2TSrpKM_52",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "当左手竖直翻转时，钥匙扣处于什么状态？",
+            "options": [
+                "A. 钥匙扣呈竖直状态。",
+                "B. 钥匙扣呈横向平躺状态。",
+                "C. 钥匙扣从手上掉落。",
+                "D. 无法观察到钥匙扣的状态。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_53": {
+            "id": "B_OL2TSrpKM_53",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "使用哪种类型的摄像机镜头展示场景？",
+            "options": [
+                "A. 特写镜头",
+                "B. 平视镜头",
+                "C. 侧角镜头",
+                "D. 广角镜头"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_54": {
+            "id": "B_OL2TSrpKM_54",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "在场景中，钥匙链的排列是如何改变的？",
+            "options": [
+                "A. 'Love'钥匙链移到了'YouTube'钥匙链的位置。",
+                "B. 'Love'钥匙链移到了'DIY IDEAS'钥匙链的位置。",
+                "C. 'DIY IDEAS'钥匙链从画面中移除。",
+                "D. 'DIY IDEAS'钥匙链移到了'YouTube'钥匙链的位置。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_55": {
+            "id": "B_OL2TSrpKM_55",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景环境采用了什么照明？",
+            "options": [
+                "A. 柔和的自然光线",
+                "B. 人工冷色调照明",
+                "C. 昏暗的灯光",
+                "D. 明亮的荧光灯照明"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_56": {
+            "id": "B_OL2TSrpKM_56",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "文本 'Like & Subscribe' 相对于框架的位置在哪里？",
+            "options": [
+                "A. 它位于框架的右下角。",
+                "B. 它位于框架的右上角。",
+                "C. 它位于框架的左下角。",
+                "D. 它位于框架的中心。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_57": {
+            "id": "B_OL2TSrpKM_57",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景的背景看起来如何？",
+            "options": [
+                "A. 光滑且光线均匀。",
+                "B. 粗糙且光线不均匀。",
+                "C. 具有生动多彩的设计。",
+                "D. 没有纹理的纯白背景。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_58": {
+            "id": "B_OL2TSrpKM_58",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "在场景最后，手是如何放置的？",
+            "options": [
+                "A. 手心朝上平放在桌面上。",
+                "B. 手心朝下平放在桌面上。",
+                "C. 手心朝右垂直放在桌面上。",
+                "D. 手已经不在画面中了。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_59": {
+            "id": "B_OL2TSrpKM_59",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "在场景最后，最上面的钥匙链是什么样子的？",
+            "options": [
+                "A. 标签上有一幅红色心形穿过一支箭的插图。",
+                "B. 标签上有一幅黄色星星的插图。",
+                "C. 标签上有'DIY IDEAS'的字样。",
+                "D. 标签上有YouTube的标志。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_60": {
+            "id": "B_OL2TSrpKM_60",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "在场景最后，最上面的钥匙扣上写了什么？",
+            "options": [
+                "A. ‘Love’这个词。",
+                "B. ‘Like’这个词。",
+                "C. ‘Subscribe’这个词。",
+                "D. ‘Home’这个词。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_61": {
+            "id": "B_OL2TSrpKM_61",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "手里拿着多少钥匙扣？",
+            "options": [
+                "A. 两个钥匙扣",
+                "B. 三个钥匙扣",
+                "C. 四个钥匙扣",
+                "D. 五个钥匙扣"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_62": {
+            "id": "B_OL2TSrpKM_62",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "在场景最后，相机的视角是聚焦于手和钥匙链的吗？",
+            "options": [
+                "A. 是的，相机的视角聚焦于手和钥匙链的。",
+                "B. 不是，相机的视角只聚焦于钥匙链。",
+                "C. 不是，相机的视角聚焦于木制背景。",
+                "D. 不是，相机的视角只聚焦于手。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_63": {
+            "id": "B_OL2TSrpKM_63",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "在场景最后，中间钥匙链的方向是什么？",
+            "options": [
+                "A. 中间钥匙链是垂直方向的。",
+                "B. 中间钥匙链是水平方向的。",
+                "C. 中间钥匙链是对角方向的。",
+                "D. 中间钥匙链没有特定方向。"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_64": {
+            "id": "B_OL2TSrpKM_64",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "在场景最后，使用了什么镜头？",
+            "options": [
+                "A. 广角镜头。",
+                "B. 特写镜头。",
+                "C. 远景镜头。",
+                "D. 航拍镜头。"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_65": {
+            "id": "B_OL2TSrpKM_65",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "画面展示了什么？",
+            "options": [
+                "A. 一只手拿着三个钥匙扣。",
+                "B. 背景上有‘THANKS FOR WATCHING!’。",
+                "C. “Like & Subscribe”的文字。",
+                "D. 钥匙扣、木质背景和‘THANKS FOR WATCHING!’。"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_66": {
+            "id": "B_OL2TSrpKM_66",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "场景中是否包含手和钥匙链？",
+            "options": [
+                "A. 是的。",
+                "B. 不包含。",
+                "C. 有时。",
+                "D. 仅包含手。"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_67": {
+            "id": "B_OL2TSrpKM_67",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景的背景是什么样的？",
+            "options": [
+                "A. 纯黑色背景。",
+                "B. 纯白色背景。",
+                "C. 红棕色木质纹理背景。",
+                "D. 彩色设计背景。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_68": {
+            "id": "B_OL2TSrpKM_68",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "这个视频设计所提示的主要主题是什么？",
+            "options": [
+                "A. 极简主义和简约。",
+                "B. 创造力和自定义。",
+                "C. 促使订阅内容的号召。",
+                "D. 对商业品牌的重视。"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_69": {
+            "id": "B_OL2TSrpKM_69",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "裁剪木片时，场景左上角的钥匙链起到了什么作用？",
+            "options": [
+                "A. 钥匙链作为一个固定元素展示成品。",
+                "B. 钥匙链是片尾信息的主要焦点。",
+                "C. 代表了创作者的个人标志。",
+                "D. 左上角没有任何钥匙链。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_70": {
+            "id": "B_OL2TSrpKM_70",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "钥匙在场景中是如何展示的。",
+            "options": [
+                "A. 钥匙扣最后被放在手里展示。",
+                "B. 钥匙扣在黑色背景上与文本一起展示。",
+                "C. 钥匙扣被随意地扔到木质表面上。",
+                "D. 钥匙扣在整个场景中保持静止。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_71": {
+            "id": "B_OL2TSrpKM_71",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "制作场景中的环境是怎样的？",
+            "options": [
+                "A. 有均匀明亮的光线。",
+                "B. 场景是完全黑暗的。",
+                "C. 有昏暗的光线。",
+                "D. 有闪烁的光线。"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_72": {
+            "id": "B_OL2TSrpKM_72",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在展示完最后成品的钥匙扣之后，场景过渡到什么画面？",
+            "options": [
+                "A. 钥匙扣被放置在另一个木质表面上。",
+                "B. 转换引导至极简风格的结束信息。",
+                "C. 钥匙扣被替换为一个动画序列。",
+                "D. 场景进一步放大钥匙扣。"
+            ],
+            "answer": "B"
+        }
+    }
+}

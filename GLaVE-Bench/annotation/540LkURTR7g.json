@@ -1,0 +1,1549 @@
+{
+    "scene_hint": {
+        "0": "一位穿蓝色开襟毛衣女人的开场白。",
+        "1": "一只手拿着玻璃杯装满一杯水。",
+        "2": "这位穿蓝色开襟毛衣人独自讲解的长镜头。",
+        "3": "介绍带有吸管的水杯。",
+        "4": "一个水杯里面倒上调料。",
+        "5": "女人独自讲解的镜头中穿插着一杯柠檬水的特写镜头。",
+        "6": "一杯红色热茶的制作收尾方法。",
+        "7": "穿蓝色外衣的女生介绍着手里拿着的水。",
+        "8": "以白色为背景的静止画面上带有蓝色的字体和一个网址。"
+    },
+    "qa": {
+        "540LkURTR7g_0": {
+            "id": "540LkURTR7g_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "蓝色外衣的女人在场景中的哪个位置？",
+            "options": [
+                "A. 这个人靠近画面的中心。",
+                "B. 这个人靠近画面的左侧。",
+                "C. 这个人靠近画面的右侧。",
+                "D. 这个人靠近画面的背景。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_1": {
+            "id": "540LkURTR7g_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这个场景的环境是什么样的？",
+            "options": [
+                "A. 环境是一个户外场景，明亮的自然光线和忙碌的城市景观背景，营造出一种充满动感的氛围。",
+                "B. 环境是一个室内场景，背景是柔和的米色并带有竖条纹的面板，营造出一种专业且中性的氛围。",
+                "C. 环境有一个充满色彩的背景，带有抽象的图案和昏暗的环境光线，营造出一种艺术而随意的氛围。",
+                "D. 环境是一个光线昏暗的房间，有很重的阴影和杂乱的背景，营造出一种混乱的氛围。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_2": {
+            "id": "540LkURTR7g_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "场景中这个人的头发是什么样的？",
+            "options": [
+                "A. 这个人有长长的、直的、浅棕色的头发。",
+                "B. 这个人有短短的、波浪状的金发。",
+                "C. 这个人有卷曲的深棕色头发。",
+                "D. 这个人有带刘海的短发。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_3": {
+            "id": "540LkURTR7g_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "场景中的那个人穿着什么衣服？",
+            "options": [
+                "A. 那个人穿着一件带纽扣的蓝色开衫，里面穿着一件黑色上衣。",
+                "B. 那个人穿着一件带拉链的绿色开衫，里面穿着一件白色衬衫。",
+                "C. 那个人穿着一件没有纽扣的米色开衫，里面穿着一件黑色衬衫。",
+                "D. 那个人穿着一件带图案设计的蓝色毛衣，里面穿着一件黑色衬衫。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_4": {
+            "id": "540LkURTR7g_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "夹在该人开襟衫领口区域的是什么？",
+            "options": [
+                "A. 一支领夹式麦克风",
+                "B. 一个装饰性胸针",
+                "C. 一个名牌",
+                "D. 一支笔"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_5": {
+            "id": "540LkURTR7g_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "框架底部白色横幅上有多少文字元素？",
+            "options": [
+                "A. 两个文字元素",
+                "B. 三个文字元素",
+                "C. 四个文字元素",
+                "D. 一个文字元素"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_6": {
+            "id": "540LkURTR7g_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "画框底部白色横幅上的文字内容是什么？",
+            "options": [
+                "A. 'CHI Health'标志、名字'Ellen Thomsen'和头衔'Dietitian'。",
+                "B. 'CHI Health'标志、名字'Ellen Thomsen'和头衔'Nutritionist'。",
+                "C. 'CHI Health'标志、名字'Ellen Thompson'和头衔'Dietitian'。",
+                "D. 'CHI Health'标志和名字'Ellen Thomsen'，而没有任何头衔。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_7": {
+            "id": "540LkURTR7g_7",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "背景是否没有干扰因素？",
+            "options": [
+                "A. 是的，背景没有干扰因素。",
+                "B. 不是，背景杂乱无章，充满各种物品。",
+                "C. 背景部分分散注意力，因为装饰过于繁琐。",
+                "D. 背景充满了鲜艳且混乱的图案。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_8": {
+            "id": "540LkURTR7g_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "随着场景的推进，画面底部会出现什么？",
+            "options": [
+                "A. 带有文字元素和徽标的白色横幅。",
+                "B. 带有各种符号的彩色动画。",
+                "C. 滚动文字，突显最新新闻。",
+                "D. 展示不同产品的一系列图片。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_9": {
+            "id": "540LkURTR7g_9",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "场景中白色横幅在画面那个位置？",
+            "options": [
+                "A. 白色横幅在画面的顶部。",
+                "B. 白色横幅在画面的底部。",
+                "C. 白色横幅在画面的左侧。",
+                "D. 白色横幅在画面的右侧。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_10": {
+            "id": "540LkURTR7g_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "场景中使用了什么类型的镜头？",
+            "options": [
+                "A. 使用了面部的特写镜头。",
+                "B. 使用了从躯干到头部的视角。",
+                "C. 使用了全身镜头。",
+                "D. 使用了过肩镜头。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_11": {
+            "id": "540LkURTR7g_11",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "场景中使用了什么样的摄像机角度？",
+            "options": [
+                "A. 使用了正中心摄像角度。",
+                "B. 使用了侧面轮廓摄像角度。",
+                "C. 使用了俯拍角度。",
+                "D. 使用了过肩镜头角度。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_12": {
+            "id": "540LkURTR7g_12",
+            "scene": 0,
+            "dimension": "Speed",
+            "question": "白色横幅在速度方面是如何呈现的？",
+            "options": [
+                "A. 白色横幅以平稳而渐进的速度逐渐显现。",
+                "B. 白色横幅瞬间出现，几乎没有任何过渡。",
+                "C. 白色横幅一直在场景中，不涉及到速度。",
+                "D. 白色横幅以缓慢的方式逐渐呈现，持续时间较长。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_13": {
+            "id": "540LkURTR7g_13",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "白色横幅上的标志的颜色是什么？",
+            "options": [
+                "A. 蓝绿相间。",
+                "B. 黄绿相间。",
+                "C. 纯蓝色。",
+                "D. 黑绿相间。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_14": {
+            "id": "540LkURTR7g_14",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "白色横幅上的蓝色文字显示什么？",
+            "options": [
+                "A. 'CHI Health'",
+                "B. 'CHI Care'",
+                "C. 'CHI Wellness'",
+                "D. 'CHI Medical'"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_15": {
+            "id": "540LkURTR7g_15",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "白色横幅上的黑色加粗的名字显示什么？",
+            "options": [
+                "A. 'Ellen Thomsen'",
+                "B. 'Emma Thompson'",
+                "C. 'Ethan Thornton'",
+                "D. 'Ella Thomson'"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_16": {
+            "id": "540LkURTR7g_16",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "白色横幅上的职称文字显示什么？",
+            "options": [
+                "A. 'Dietitian'",
+                "B. 'Nutritionist'",
+                "C. 'Health Consultant'",
+                "D. 'Fitness Coach'"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_17": {
+            "id": "540LkURTR7g_17",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "黄色碗在场景开始时在画面的哪里？",
+            "options": [
+                "A. 画面的左侧。",
+                "B. 画面的右侧。",
+                "C. 画面的地部。",
+                "D. 画面的顶部。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_18": {
+            "id": "540LkURTR7g_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这个场景发生在什么样的整体环境中？",
+            "options": [
+                "A. 这个场景设置在一个温馨的厨房般的家居环境中，背景色调温暖，自然，带有泥土色调。",
+                "B. 这个场景设置在一个高科技实验室中，明亮的白色灯光和金属设备。",
+                "C. 这个场景设置在户外花园中，有鲜艳的花朵和洒进来的阳光。",
+                "D. 这个场景设置在一个灯光昏暗的客厅中，家具色调温暖并且有一个壁炉。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_19": {
+            "id": "540LkURTR7g_19",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "关于握着玻璃杯的手的年龄，可以观察到什么？",
+            "options": [
+                "A. 这只手显得年迈，有轻微的皱纹。",
+                "B. 这只手看起来年轻且光滑。",
+                "C. 这只手展现出中年人的紧致感。",
+                "D. 这只手戴有厚重的珠宝，表明是年轻人的手。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_20": {
+            "id": "540LkURTR7g_20",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "拿着玻璃杯的手的指甲涂了什么颜色的指甲油？",
+            "options": [
+                "A. 指甲涂着红色指甲油。",
+                "B. 指甲涂着绿色指甲油。",
+                "C. 指甲涂着粉色指甲油。",
+                "D. 指甲涂着银色指甲油。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_21": {
+            "id": "540LkURTR7g_21",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "关于拿着玻璃杯的手上的静脉可见度是怎么样的？",
+            "options": [
+                "A. 静脉是不可见的。",
+                "B. 静脉是可见的。",
+                "C. 静脉是模糊的。",
+                "D. 静脉是不确定的。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_22": {
+            "id": "540LkURTR7g_22",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "握着玻璃杯的手上的装饰有什么可观察到的？",
+            "options": [
+                "A. 手上戴着一枚纯金戒指。",
+                "B. 手上戴着多枚银戒指。",
+                "C. 手上没有可见的装饰。",
+                "D. 手上戴着一条手链。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_23": {
+            "id": "540LkURTR7g_23",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "黄色的碗里有什么？",
+            "options": [
+                "A. 黄碗里装满了绿色的青柠。",
+                "B. 黄碗里装满了红色的苹果。",
+                "C. 黄碗里装满了橙色的胡萝卜。",
+                "D. 黄碗里装满了蓝莓。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_24": {
+            "id": "540LkURTR7g_24",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "在倒水过程中能看到几只手？",
+            "options": [
+                "A. 能看到一只手。",
+                "B. 能看到两只手。",
+                "C. 能看到三只手。",
+                "D. 能看到四只手。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_25": {
+            "id": "540LkURTR7g_25",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "水是从哪里出来的吗？",
+            "options": [
+                "A. 水龙头",
+                "B. 玻璃杯",
+                "C. 塑料瓶",
+                "D. 水罐"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_26": {
+            "id": "540LkURTR7g_26",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "在倒水时，手和杯子会做出哪些调整？",
+            "options": [
+                "A. 在倒水过程中，手和杯子在大幅度移动。",
+                "B. 在场景中途，手和杯子被换掉了。",
+                "C. 倒水过程中，手和杯子只做了轻微调整。",
+                "D. 在倒水时，杯子被放在台面上。"
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_27": {
+            "id": "540LkURTR7g_27",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "水流的方向是哪个方向？",
+            "options": [
+                "A. 水流向上进入玻璃杯。",
+                "B. 水流斜向进入玻璃杯。",
+                "C. 水流向下进入玻璃杯。",
+                "D. 水流侧向进入玻璃杯。"
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_28": {
+            "id": "540LkURTR7g_28",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "水被倒出时的速度是多少？",
+            "options": [
+                "A. 水以快速且不均匀的速度倒出。",
+                "B. 水以稳定且均有的速度倒出。",
+                "C. 水被倒出时是短促的喷发。",
+                "D. 水倒得非常慢，几乎在滴落。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_29": {
+            "id": "540LkURTR7g_29",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在这个场景中，玻璃杯中的水位如何变化？",
+            "options": [
+                "A. 整个场景中，玻璃杯中的水位保持不变。",
+                "B. 玻璃杯中的水位从空升至大约半满。",
+                "C. 玻璃杯中的水位从空升至近乎全满。",
+                "D. 玻璃杯中的水位波动，但不会超过半满。"
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_30": {
+            "id": "540LkURTR7g_30",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在场景中玻璃还会发生哪些额外的视觉变化？",
+            "options": [
+                "A. 水变成了柔和的黄色。",
+                "B. 气泡形成导致清水变得浑浊。",
+                "C. 在注入水的时候玻璃出现了裂纹。",
+                "D. 水位没有上升反而下降了。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_31": {
+            "id": "540LkURTR7g_31",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中有哪些视觉元素有助于营造温暖舒适的氛围？",
+            "options": [
+                "A. 暖色调的背景、柔和的自然光、装有绿色酸橙的黄色碗以及模糊的装饰物共同营造了舒适的氛围。",
+                "B. 明亮的办公环境、多块电脑屏幕以及现代家具的存在确立了舒适的氛围。",
+                "C. 冷色调的背景、锐利的人工照明、不锈钢电器以及清晰的装饰品共同营造了舒适的氛围。",
+                "D. 白色墙壁、极简风格的装饰、装有鲜花的玻璃花瓶以及井然有序的书架的存在确立了舒适的氛围。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_32": {
+            "id": "540LkURTR7g_32",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "这个女人的手最初处于什么位置？",
+            "options": [
+                "A. 她的手垂在身体两侧。",
+                "B. 她的手在身体胸部。",
+                "C. 她的手身体后方。",
+                "D. 她的手放在桌子上。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_33": {
+            "id": "540LkURTR7g_33",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景的设置是什么？",
+            "options": [
+                "A. 场景设置在一个光线充足的室内环境中，墙壁是中性色的米色。",
+                "B. 场景设置在一个光线昏暗的户外公园，背景是鲜艳的花卉。",
+                "C. 场景设置在一个繁忙的办公室里，里面有桌子和电脑。",
+                "D. 场景设置在一个色彩缤纷的舞台上，有戏剧性的灯光效果和现场观众。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_34": {
+            "id": "540LkURTR7g_34",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "场景中的女人穿着什么？",
+            "options": [
+                "A. 女人穿着一件鲜艳的蓝色羊毛衫，里面是黑色上衣。",
+                "B. 女人穿着一件红色的西装外套，里面是白色的衬衫，配有一条银色项链。",
+                "C. 女人穿着一条绿色连衣裙，配有一条金色腰带和相配的耳环。",
+                "D. 女人穿着一件黄色毛衣，搭配一条花围巾和一条珍珠手链。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_35": {
+            "id": "540LkURTR7g_35",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "这位女士戴了几件装首饰？",
+            "options": [
+                "A. 这位女士戴了一件装饰品。",
+                "B. 这位女士戴了两件装饰品。",
+                "C. 这位女士戴了三件装饰品。",
+                "D. 这位女士根本没戴任何装饰品。"
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_36": {
+            "id": "540LkURTR7g_36",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "这位女士佩戴了什么首饰？",
+            "options": [
+                "A. 一条戴在她脖子上的金项链",
+                "B. 一对银耳环",
+                "C. 一枚戴在她右手无名指上的简单戒指",
+                "D. 一条戴在她左手手腕上的手链"
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_37": {
+            "id": "540LkURTR7g_37",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "这个女人在整个场景中都拿着一个物体吗？",
+            "options": [
+                "A. 是的，她在整个场景中都拿着一个物体。",
+                "B. 不，她只在场景的后半部分拿着一个物体。",
+                "C. 是的，但物体没有被清晰地显示。",
+                "D. 不，她从未在场景中拿着一个物体。"
+            ],
+            "answer": "D"
+        },
+        "540LkURTR7g_38": {
+            "id": "540LkURTR7g_38",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "场景中女人拿的是什么物品？",
+            "options": [
+                "A. 她拿着一个半透明的蓝色水杯。",
+                "B. 她拿着一本紫色的书。",
+                "C. 她拿着一个黑色的咖啡杯。",
+                "D. 她拿着一个绿色的水瓶。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_39": {
+            "id": "540LkURTR7g_39",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "这名女子场景初期她的右手做了什么？",
+            "options": [
+                "A. 她拿着一个的蓝色杯子。",
+                "B. 她调整了她的麦克风。",
+                "C. 她指向摄像机。",
+                "D. 她将头发从脸上拨开。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_40": {
+            "id": "540LkURTR7g_40",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "上个场景到这个场景中，女人的右手重新进入画面时，相对镜头朝哪个方向移动？",
+            "options": [
+                "A. 她的右手向上移动，手里拿着玻璃杯。",
+                "B. 她的右手向左移动，手里拿着玻璃杯。",
+                "C. 她的右手向下移动，手里拿着玻璃杯。",
+                "D. 她的右手向右移动，手里拿着玻璃杯。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_41": {
+            "id": "540LkURTR7g_41",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "场景快结束前在镜头的视角是发生了什么变化的？",
+            "options": [
+                "A. 镜头视角稍微向下移动并放大，提供了一个更接近她脸部的视图。",
+                "B. 镜头视角稍微向上移动并缩小，提供了一个更大的她上半身的视图。",
+                "C. 镜头视角保持不变，仅聚焦于她的手。",
+                "D. 镜头视角转为侧面角度，聚焦于她的侧脸。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_42": {
+            "id": "540LkURTR7g_42",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "场景中使用了哪种类型的摄影镜头？",
+            "options": [
+                "A. 使用了中近景取景镜头，聚焦在女性的上半身。",
+                "B. 使用了广角镜头，拍摄到整个身体和周围环境。",
+                "C. 使用了特写镜头，仅专注于女性的面部表情。",
+                "D. 使用了极远景镜头，从很远的距离拍摄女性。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_43": {
+            "id": "540LkURTR7g_43",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "场景快结束时女子的移动速度如何？",
+            "options": [
+                "A. 这名女子会快速移动。",
+                "B. 这名女子会缓慢移动。",
+                "C. 这名女子忽快忽慢移动。",
+                "D. 这名女子没有移动。"
+            ],
+            "answer": "D"
+        },
+        "540LkURTR7g_44": {
+            "id": "540LkURTR7g_44",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "在初始场景时，她的右手在画面中发生了什么变化？",
+            "options": [
+                "A. 她的右手手保持在肩膀高度。",
+                "B. 她的右手开始没在画面，后面出现在画面内。",
+                "C. 她的右手一直没在画面内。",
+                "D. 她的右手开始在画面内，后面消失在画面内。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_45": {
+            "id": "540LkURTR7g_45",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "是什么暗示这位女士在说话或演讲?",
+            "options": [
+                "A. 别在她开衫领口上的黑色夹式麦克风",
+                "B. 她穿的鲜艳蓝色开衫",
+                "C. 她后来在场景中拿着的透明蓝色水杯",
+                "D. 背景中的中性色米色墙壁"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_46": {
+            "id": "540LkURTR7g_46",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "这个女人的背景是什么？",
+            "options": [
+                "A. 背景是鲜艳的蓝色。",
+                "B. 背景是鲜亮的绿色。",
+                "C. 背景是中性的米色。",
+                "D. 背景是深黑色。"
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_47": {
+            "id": "540LkURTR7g_47",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "场景中的女人穿着什么？",
+            "options": [
+                "A. 她穿着亮蓝色的开衫，里面是黑色上衣。",
+                "B. 她穿着红色的西装外套，里面是白色衬衫。",
+                "C. 她穿着绿色的毛衣，里面是灰色上衣。",
+                "D. 她穿着黄色的开衫，里面是黑色连衣裙。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_48": {
+            "id": "540LkURTR7g_48",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景中的灯光是否刺眼且不均匀？",
+            "options": [
+                "A. 是的，灯光刺眼且不均匀。",
+                "B. 不，灯光柔和且均匀，凸显了场景的专业氛围。",
+                "C. 灯光昏暗且不稳定，使人难以集中注意力。",
+                "D. 灯光明亮但不均匀，增添了一种戏剧效果。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_49": {
+            "id": "540LkURTR7g_49",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "两段场景中摄像角度会发生变化吗？",
+            "options": [
+                "A. 是的，摄像角度经常变化。",
+                "B. 不，摄像角度保持固定和稳定。",
+                "C. 摄像角度偶尔会发生变化。",
+                "D. 摄像角度会移动到不同的视角。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_50": {
+            "id": "540LkURTR7g_50",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "场景前半段使用的是什么类型的镜头？",
+            "options": [
+                "A. 这个镜头是特写，拍摄到了女人的肩膀以上部分。",
+                "B. 这个镜头是广角镜头，拍摄到了整个场景和背景。",
+                "C. 这个镜头是全身镜头，拍摄到了女人从头到脚的部分。",
+                "D. 这个镜头是中景，拍摄到了女人的腰部以上部分。"
+            ],
+            "answer": "D"
+        },
+        "540LkURTR7g_51": {
+            "id": "540LkURTR7g_51",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "场景内容的速度是否会发生变化？",
+            "options": [
+                "A. 是的，有明显的速度变化。",
+                "B. 不，场景内容的速度不会改变。",
+                "C. 场景在关键点时会加速。",
+                "D. 速度会根据音频内容波动。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_52": {
+            "id": "540LkURTR7g_52",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "摄像机的运动是否发生变化？",
+            "options": [
+                "A. 是的，摄像机经常移动以跟随她的动作。",
+                "B. 不，摄像机保持固定和稳定。",
+                "C. 是的，摄像机偶尔会环视房间。",
+                "D. 不，摄像机略微地拉近与推远。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_53": {
+            "id": "540LkURTR7g_53",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "在特写饮料场景中，清晰度最高的青柠与玻璃杯的位置关系是怎样的？",
+            "options": [
+                "A. 整个青柠在前景，位于画面左侧。",
+                "B. 整个青柠正好在玻璃杯后面。",
+                "C. 整个青柠漂浮在玻璃杯内。",
+                "D. 整个青柠放置在玻璃杯顶部。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_54": {
+            "id": "540LkURTR7g_54",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "第一个场景中与女人相关的环境是什么样的？",
+            "options": [
+                "A. 场景以中性色调的米色背景为主，光线柔和均匀。",
+                "B. 场景设置在户外，郁郁葱葱的绿色树木和自然阳光突显出女人。",
+                "C. 场景以多彩的背景和动态照明为特点，呈现出一种休闲且充满活力的氛围。",
+                "D. 场景发生在一个灯光昏暗的房间里，具有戏剧性的阴影和一种低沉的氛围。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_55": {
+            "id": "540LkURTR7g_55",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "场景开头部分，这位女性的表现如何？",
+            "options": [
+                "A. 这位女性显得放松随意，穿着T恤和牛仔裤，头发松散地扎成一个圆髻，没有佩戴麦克风。",
+                "B. 这位女性显得端庄自信，穿着一件鲜艳的蓝色开衫，里面搭配黑色上衣，浅棕色的头发整齐地分开，披在肩膀上，并在衣服上夹着一个麦克风。",
+                "C. 这位女性显得手忙脚乱、毫无准备，穿着皱巴巴的白衬衫，头发凌乱，没有佩戴麦克风。",
+                "D. 这位女性显得心不在焉、不感兴趣，穿着一件灰色连帽衫，头发扎成一个低马尾，耳朵里戴着一副耳机。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_56": {
+            "id": "540LkURTR7g_56",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "在饮料场景中透明玻璃杯里有什么？",
+            "options": [
+                "A. 玻璃杯中装有冰块和柠檬片。",
+                "B. 玻璃杯中装有一片橙子的苏打水。",
+                "C. 玻璃杯中装有冰块和红色葡萄柚分片。",
+                "D. 玻璃杯中装有碎冰和薄荷叶。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_57": {
+            "id": "540LkURTR7g_57",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "在饮料场景中，透明玻璃表面有什么显著特征？",
+            "options": [
+                "A. 玻璃表面有凝结水珠。",
+                "B. 玻璃表面有复杂的雕刻。",
+                "C. 玻璃表面是磨砂的。",
+                "D. 玻璃表面有明显的划痕。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_58": {
+            "id": "540LkURTR7g_58",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "灯光如何影响饮料场景中的透明玻璃？",
+            "options": [
+                "A. 明亮的灯光突出显示了内部的透明度和纹理。",
+                "B. 明亮的灯光使青柠片变暗，使其不太显眼。",
+                "C. 明亮的灯光在玻璃后面制造阴影，增加了一种神秘的氛围。",
+                "D. 明亮的灯光使饮料变得不透明，遮蔽了其细节。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_59": {
+            "id": "540LkURTR7g_59",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "在饮料场景中有多少模糊的绿色物体可见？",
+            "options": [
+                "A. 一个模糊的绿色物体。",
+                "B. 两个模糊的绿色物体。",
+                "C. 三个模糊的绿色物体。",
+                "D. 四个模糊的绿色物体。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_60": {
+            "id": "540LkURTR7g_60",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "在整个场景中能看到一个完全完整的柠檬吗？",
+            "options": [
+                "A. 前景中可以看到一个完整的柠檬。",
+                "B. 完整的柠檬在玻璃杯里面。",
+                "C. 背景中可以看到一个完整的柠檬。",
+                "D. 场景中看不到一个完整的柠檬。"
+            ],
+            "answer": "D"
+        },
+        "540LkURTR7g_61": {
+            "id": "540LkURTR7g_61",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "在整个场景中，女人手里拿着饮料吗？",
+            "options": [
+                "A. 是的，女人在这个场景中手里拿着饮料。",
+                "B. 不，女人在这个场景中没有手里拿着饮料。",
+                "C. 饮料放在女人面前的桌子上。",
+                "D. 女人在这个场景中正在准备饮料。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_62": {
+            "id": "540LkURTR7g_62",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "玻璃上的凝结水珠暗示了这种饮料的什么性质？",
+            "options": [
+                "A. 玻璃上的凝结水珠暗示饮料是温热并散发蒸汽的。",
+                "B. 玻璃上的凝结水珠暗示饮料是热的并且带有辛辣味。",
+                "C. 玻璃上的凝结水珠暗示饮料是冰凉且清爽的。",
+                "D. 玻璃上的凝结水珠暗示饮料是室温的。"
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_63": {
+            "id": "540LkURTR7g_63",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "玻璃杯内的柠檬片是怎样摆放的？",
+            "options": [
+                "A. 柠檬片薄且呈圆形，浸泡在饮料中，透出透明的浅色果肉。",
+                "B. 柠檬片厚且呈椭圆形，漂浮在饮料表面。",
+                "C. 柠檬片薄且呈矩形，坐落在杯底。",
+                "D. 柠檬片是完整未切割的，放置在杯子的边缘。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_64": {
+            "id": "540LkURTR7g_64",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "场景中第一段和第二段画面摄像角度是否改变？",
+            "options": [
+                "A. 是的，摄像机从固定的中心镜头切换到略微低角度的紧密特写。",
+                "B. 否，摄像角度在整个场景中保持固定且居中。",
+                "C. 是的，摄像机不断环绕拍摄对象移动，但角度未改变。",
+                "D. 否，摄像机始终保持宽角度视角。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_65": {
+            "id": "540LkURTR7g_65",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "为了强调饮品使用了哪种类型的摄影镜头？",
+            "options": [
+                "A. 从上方的广角镜头拍摄",
+                "B. 以略微低角度进行紧凑的特写镜头",
+                "C. 过肩镜头",
+                "D. 从侧面拍摄的中距离镜头"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_66": {
+            "id": "540LkURTR7g_66",
+            "scene": 5,
+            "dimension": "Camera Direction",
+            "question": "场景第一段画面中摄像机是怎么样移动的？",
+            "options": [
+                "A. 第一场景中摄像机保持固定不动。",
+                "B. 摄像机缓慢地从一边摇动到另一边。",
+                "C. 摄像机逐渐拉近镜头对准女人。",
+                "D. 摄像机围绕女人做圆周运动。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_67": {
+            "id": "540LkURTR7g_67",
+            "scene": 5,
+            "dimension": "Camera Direction",
+            "question": "场景中第一个和第二个画面相机是如何转换的？",
+            "options": [
+                "A. 镜头快速切换，看不到切换的过程。",
+                "B. 摄像机快速横移至饮料，创造出动态的转换。",
+                "C. 摄像机拉远显示环境更广阔的视野。",
+                "D. 摄像机向上倾斜，从底部聚焦在饮料上。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_68": {
+            "id": "540LkURTR7g_68",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景第一个画面的特点是什么？",
+            "options": [
+                "A. 第一幕专业且中性，聚焦于女性。",
+                "B. 第一幕突出描绘了一杯加了青柠的清爽饮品。",
+                "C. 第一幕充满活力，在户外进行，展现了生机勃勃的风景。",
+                "D. 第一幕轻松随意，聚焦于一个轻松的社交聚会。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_69": {
+            "id": "540LkURTR7g_69",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "第二个画面的特点是什么？",
+            "options": [
+                "A. 第二个画面转为鲜明清新的构图，突出了饮料。",
+                "B. 第二个画面突出的是一个专业的环境，柔和的灯光与一位优雅的女性。",
+                "C. 第二个画面是繁忙城市景象的广角镜头。",
+                "D. 第二个画面聚焦于黑暗忧郁的氛围及戏剧性的阴影。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_70": {
+            "id": "540LkURTR7g_70",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "饮料场景中的青柠带来了什么感觉？",
+            "options": [
+                "A. 青柠片鲜亮的绿色增加了清新感。",
+                "B. 青柠片在场景中创造了温暖和舒适的感觉。",
+                "C. 青柠片完全模糊，去除了对其颜色的关注。",
+                "D. 青柠的深色与饮料形成对比，增加了神秘感。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_71": {
+            "id": "540LkURTR7g_71",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "冰块在增强饮品场景中的清爽感中起什么作用？",
+            "options": [
+                "A. 在明亮均匀的灯光下，透明的冰块突出显示，有助于增强清爽感。",
+                "B. 冰块形成阴影效果，减弱了清爽感。",
+                "C. 冰块被青柠片遮挡，失去了清爽的特质。",
+                "D. 冰块为饮品增添了温暖的感觉，抵消了清爽感。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_72": {
+            "id": "540LkURTR7g_72",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景快结束时，焦点集中在女生时背景设置是什么？",
+            "options": [
+                "A. 背景是一个简洁的、中性灰色的墙壁，上面有细微的竖线图案。",
+                "B. 背景是一个明亮的、极简主义的白色背景。",
+                "C. 背景是一个有植物的绿色花园。",
+                "D. 背景是一个繁忙的办公室空间，有办公桌和电脑。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_73": {
+            "id": "540LkURTR7g_73",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "场景快结束时女人穿着什么？",
+            "options": [
+                "A. 这个女人穿着一件亮蓝色的开衫，里面搭配一件黑色上衣。",
+                "B. 这个女人穿着一条带有白色波点的红色连衣裙。",
+                "C. 这个女人穿着一件绿色毛衣搭配一条黄色围巾。",
+                "D. 这个女人穿着一件白色衬衫搭配一条黑色裙子。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_74": {
+            "id": "540LkURTR7g_74",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "这位女士戴着有什么配饰？",
+            "options": [
+                "A. 她的胸前夹着一个小型的黑色领夹话筒。",
+                "B. 她戴着一对金色耳环。",
+                "C. 她脖子上围着一条红色围巾。",
+                "D. 她戴着一顶时尚的帽子。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_75": {
+            "id": "540LkURTR7g_75",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "场景第二个画面与玻璃杯一起出现了哪些物体？",
+            "options": [
+                "A. 冰块、青柠片，以及一个可能是另一个青柠的淡绿色物体",
+                "B. 冰块、柠檬片，以及一个小绿苹果",
+                "C. 冰块、薄荷叶，以及一个可能是柠檬的淡黄色物体",
+                "D. 冰块、青柠角，以及一根明黄色的香蕉"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_76": {
+            "id": "540LkURTR7g_76",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "在场景的第二个画面中，有多少个的青柠可见？（不包括青柠片）",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_77": {
+            "id": "540LkURTR7g_77",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "在玻璃的特写镜头之后，场景的焦点发生了什么变化？",
+            "options": [
+                "A. 焦点切换到一个女人的中近景。",
+                "B. 焦点仍然在玻璃上，但加入了其他元素。",
+                "C. 焦点转移到桌上旋转的青柠。",
+                "D. 焦点拉远展示一个热带的户外场景。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_78": {
+            "id": "540LkURTR7g_78",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "场景末尾使用什么类型的镜头来展示这名女性？",
+            "options": [
+                "A. 使用中近景镜头来展示这名女性。",
+                "B. 使用特写镜头来展示这名女性。",
+                "C. 使用广角镜头来展示这名女性。",
+                "D. 使用全身镜头来展示这名女性。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_79": {
+            "id": "540LkURTR7g_79",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "焦点是如何从玻璃到女人之间转移的？",
+            "options": [
+                "A. 焦点的转换突然发生，没有视觉上的连接。",
+                "B. 焦点的转换戏剧性地但平滑地发生。",
+                "C. 焦点的转换缓慢进行并逐渐消失在黑暗中。",
+                "D. 焦点的转换混乱发生，伴随着刺眼的镜头角度。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_80": {
+            "id": "540LkURTR7g_80",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "场景中第二个和第三个画面的灯光变化是什么？",
+            "options": [
+                "A. 灯光从昏暗变为明亮。",
+                "B. 灯光更加集中在女人身上。",
+                "C. 两个场景的灯光保持均匀一致，第二个场景稍亮。",
+                "D. 第二个场景中引入了阴影。"
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_81": {
+            "id": "540LkURTR7g_81",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素在场景中第二个画面中营造出清凉和提神的感觉？",
+            "options": [
+                "A. 明亮的白色背景、凝结的水珠和玻璃的透明度。",
+                "B. 玻璃的透明度、冰块、青柠片和凝结的水珠。",
+                "C. 中性的灰色墙、亮蓝色开衫和冰块。",
+                "D. 亮蓝色开衫、灯光和青柠片。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_82": {
+            "id": "540LkURTR7g_82",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "玻璃茶杯的透明把手相对于镜头在哪里？",
+            "options": [
+                "A. 透明把手位于玻璃茶杯的左侧。",
+                "B. 透明把手位于玻璃茶杯的顶部。",
+                "C. 透明把手位于玻璃茶杯的右侧。",
+                "D. 透明把手位于玻璃茶杯的底部。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_83": {
+            "id": "540LkURTR7g_83",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "在中近景镜头中，这位女性传达了什么样的举止？",
+            "options": [
+                "A. 她传达了一种镇定和专业的举止。",
+                "B. 她传达了一种随意和无忧无虑的举止。",
+                "C. 她传达了一种害羞和拘谨的举止。",
+                "D. 她传达了一种精力充沛和顽皮的举止。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_84": {
+            "id": "540LkURTR7g_84",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "玻璃茶杯的外观是什么样的？",
+            "options": [
+                "A. 玻璃茶杯是透明的，沿上缘有热气水珠。",
+                "B. 玻璃茶杯是不透明的，上面装饰着花卉图案。",
+                "C. 玻璃茶杯是透明的，但没有热气水珠。",
+                "D. 玻璃茶杯是磨砂的，具有哑光效果。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_85": {
+            "id": "540LkURTR7g_85",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "玻璃被里有什么？",
+            "options": [
+                "A. 玻璃被里装满了茶",
+                "B. 玻璃被里装满了冷水",
+                "C. 玻璃被里装满了黑咖啡",
+                "D. 玻璃被里装满了牛奶"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_86": {
+            "id": "540LkURTR7g_86",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "玻璃茶杯放在什么上面？",
+            "options": [
+                "A. 茶杯放在透明的茶碟上。",
+                "B. 茶杯直接放在银色托盘上。",
+                "C. 茶杯放在有花卉图案的木质表面上。",
+                "D. 茶杯放在陶瓷茶碟上，茶碟放在白色餐巾上。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_87": {
+            "id": "540LkURTR7g_87",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "场景中有多少只手与茶杯互动？",
+            "options": [
+                "A. 一只手与茶杯互动。",
+                "B. 两只手与茶杯互动。",
+                "C. 三只手与茶杯互动。",
+                "D. 四只手与茶杯互动。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_88": {
+            "id": "540LkURTR7g_88",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景中用什么把茶包捞起来的？",
+            "options": [
+                "A. 叉子",
+                "B. 勺子",
+                "C. 筷子",
+                "D. 漏斗"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_89": {
+            "id": "540LkURTR7g_89",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "金属勺子的作用是什么？",
+            "options": [
+                "A. 金属勺子被用来搅拌茶。",
+                "B. 金属勺子与茶包的线一起压茶包以提取更多的味道。",
+                "C. 金属勺子仅用于装饰。",
+                "D. 金属勺子被用来往茶里加糖。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_90": {
+            "id": "540LkURTR7g_90",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "当茶包从茶杯中提起时，茶包线被相对于画面被拉向哪个方向？",
+            "options": [
+                "A. 拉向画面上方。",
+                "B. 拉向画面下方。",
+                "C. 拉向画面左侧。",
+                "D. 拉向画面右侧。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_91": {
+            "id": "540LkURTR7g_91",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "哪种类型的镜头用于详细展示茶、茶杯和手的互动？",
+            "options": [
+                "A. 这个镜头是特写，聚焦于茶、茶杯和手的互动等细节。",
+                "B. 这个镜头是广角镜头，拍摄整个桌子及周围环境。",
+                "C. 这个镜头是远景镜头，强调整体场景和氛围。",
+                "D. 这个镜头是过肩镜头，从站在后面的人视角展示行动。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_92": {
+            "id": "540LkURTR7g_92",
+            "scene": 6,
+            "dimension": "Speed",
+            "question": "当茶包线压茶包时，动作的速度如何表现？",
+            "options": [
+                "A. 动作表现得有条不紊且精确。",
+                "B. 动作表现得匆忙而慌乱。",
+                "C. 动作表现得随意且不协调。",
+                "D. 动作表现得粗心而粗暴。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_93": {
+            "id": "540LkURTR7g_93",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "当挤压茶包时，会发生什么变化？",
+            "options": [
+                "A. 茶包中的深色液体滴入茶杯。",
+                "B. 茶包变色并释放出气泡进入茶杯。",
+                "C. 茶包浮到表面，导致茶变得浑浊。",
+                "D. 茶包的绳子变长，使茶看起来更浅。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_94": {
+            "id": "540LkURTR7g_94",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "哪种视觉元素通过运动强调了茶的温暖？",
+            "options": [
+                "A. 醒目的红色桌布",
+                "B. 半透明的茶杯把手",
+                "C. 升起的蒸汽",
+                "D. 金属勺子"
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_95": {
+            "id": "540LkURTR7g_95",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "哪种视觉元素通过表面纹理突显了茶的温暖？",
+            "options": [
+                "A. 沿着茶杯边缘的水珠在视觉上突显了茶的温暖。",
+                "B. 鲜红的桌布在视觉上突显了茶的温暖。",
+                "C. 反射光线的金属勺在视觉上突显了茶的温暖。",
+                "D. 茶杯的半透明把手在视觉上突显了茶的温暖。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_96": {
+            "id": "540LkURTR7g_96",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "灯光在有女人的场景中创造了什么样的氛围？",
+            "options": [
+                "A. 灯光营造出戏剧性和阴影重重的氛围。",
+                "B. 灯光营造出柔和、均匀且专业的氛围。",
+                "C. 灯光营造出明亮、刺眼且令人分心的氛围。",
+                "D. 灯光营造出暗淡、阴沉且压抑的氛围。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_97": {
+            "id": "540LkURTR7g_97",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "场景中那个女人的发色和发型是什么样的？",
+            "options": [
+                "A. 那个女人有一头短短的深棕色头发。",
+                "B. 那个女人有一头长长的浅棕色头发。",
+                "C. 那个女人有一头金色的卷发。",
+                "D. 那个女人有一头中等长度的黑发。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_98": {
+            "id": "540LkURTR7g_98",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "场景中的女人穿着什么？",
+            "options": [
+                "A. 一件亮蓝色针织衫搭配黑色上衣",
+                "B. 一件绿色毛衣搭配花纹连衣裙",
+                "C. 一件红色西装外套搭配白色衬衫",
+                "D. 一条黄色围巾搭配灰色高领毛衣"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_99": {
+            "id": "540LkURTR7g_99",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "场景中女人的上衣上附着什么配件？",
+            "options": [
+                "A. 领夹麦克风",
+                "B. 胸针",
+                "C. 名牌",
+                "D. 围巾夹"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_100": {
+            "id": "540LkURTR7g_100",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "女人拿着的塑料瓶的显著特点是什么？",
+            "options": [
+                "A. 瓶子里装满了苏打水。",
+                "B. 塑料瓶的显著特点是上面贴着的橙色标签。",
+                "C. 瓶子有一个带有花卉图案的蓝色瓶盖。",
+                "D. 塑料瓶的显著特点是其不寻常的形状，像一个茶壶。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_101": {
+            "id": "540LkURTR7g_101",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "场景里有多少个不同的画面?",
+            "options": [
+                "A. 一个画面",
+                "B. 两个画面",
+                "C. 三个画面",
+                "D. 四个画面"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_102": {
+            "id": "540LkURTR7g_102",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "该场景中的品牌元素场景是否出现阴影？",
+            "options": [
+                "A. 是的，场景在品牌元素场景中出现了明显的阴影。",
+                "B. 不，场景在品牌元素场景中没有出现阴影。",
+                "C. 阴影仅在有女性的初始场景中可见。",
+                "D. 有少量阴影，但在品牌元素场景中不明显。"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_103": {
+            "id": "540LkURTR7g_103",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "那个女人把瓶子举到什么高度？",
+            "options": [
+                "A. 肩部高度",
+                "B. 腰部高度",
+                "C. 胸部高度",
+                "D. 头部高度"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_104": {
+            "id": "540LkURTR7g_104",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "在上个场景到这个场景转换过程中焦点向哪个方向移动？",
+            "options": [
+                "A. 焦点从茶杯的特写移到拿瓶子的女人。",
+                "B. 焦点从CHI Health品牌元素移到拿瓶子的女人。",
+                "C. 焦点从茶杯的特写移到CHI Health的品牌元素。",
+                "D. 焦点从拿瓶子的女人移到茶杯的特写。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_105": {
+            "id": "540LkURTR7g_105",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "用什么类型的镜头来展示品牌元素？",
+            "options": [
+                "A. 使用广角镜头来展示品牌元素。",
+                "B. 使用特写镜头来展示品牌元素。",
+                "C. 使用居中镜头来展示品牌元素。",
+                "D. 使用过肩镜头来展示品牌元素。"
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_106": {
+            "id": "540LkURTR7g_106",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "从女人的场景到品牌元素的场景，背景发生了什么变化？",
+            "options": [
+                "A. 背景从中性色的米色变为纯白色。",
+                "B. 背景从红色桌布变为米色墙面。",
+                "C. 背景从纹理表面过渡到渐变的蓝色。",
+                "D. 背景在整段场景中保持中性色的米色。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_107": {
+            "id": "540LkURTR7g_107",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "在含有 CHI Health 品牌元素的场景中有什么特色？",
+            "options": [
+                "A. 拿着一个橙色标签瓶子的女人。",
+                "B. 一个摆有玻璃茶杯和红色桌布的桌子。",
+                "C. 这个场景单纯地聚焦在 CHI Health 品牌元素上。",
+                "D. 一个柔和灯光照亮的中性色背景。"
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_108": {
+            "id": "540LkURTR7g_108",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "品牌元素场景中，徽标旁边出现什么文字？",
+            "options": [
+                "A. 徽标旁边显眼地显示了'CHI Health'文字。",
+                "B. 徽标旁边显眼地显示了'CHI Care'文字。",
+                "C. 徽标旁边显眼地显示了'Health Chi'文字。",
+                "D. 徽标旁边显眼地显示了'Care Health'文字。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_109": {
+            "id": "540LkURTR7g_109",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "在品牌元素场景中，右下角显示的文字是什么？",
+            "options": [
+                "A. CHI He",
+                "B. ARCTIC CLEAR",
+                "C. CHIhealth.com",
+                "D. CHI Health"
+            ],
+            "answer": "C"
+        },
+        "540LkURTR7g_110": {
+            "id": "540LkURTR7g_110",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "随着场景的进行，框架底部会出现什么？",
+            "options": [
+                "A. 出现带有“CHI Health”标志的白色横幅。",
+                "B. 出现带有橙色标志的白色横幅。",
+                "C. 出现带有“ARCTIC CLEAR”标志的蓝色横幅。",
+                "D. 出现带有随机文字的绿色横幅。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_111": {
+            "id": "540LkURTR7g_111",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "白色横幅上显示的名字是什么？",
+            "options": [
+                "A. 显示的名字是 'Ellen Thomsen'。",
+                "B. 显示的名字是 'CHI Health'。",
+                "C. 显示的名字是 'Arctic Clear'。",
+                "D. 显示的名字是 'Sarah Johnson'。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_112": {
+            "id": "540LkURTR7g_112",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "横幅上与Ellen Thomsen相关的头衔是什么？",
+            "options": [
+                "A. Nutritionist",
+                "B. Dietitian",
+                "C. Health Advisor",
+                "D. Wellness Coach"
+            ],
+            "answer": "B"
+        },
+        "540LkURTR7g_113": {
+            "id": "540LkURTR7g_113",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "Ellen Thomsen毛衣上的领夹式麦克风表明了什么样的场景？",
+            "options": [
+                "A. 这表明场景可能是一次采访或演讲。",
+                "B. 这表明场景可能是一次歌唱现场。",
+                "C. 这表明场景可能是一场戏剧表演。",
+                "D. 这表明场景可能是一次户外体育活动。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_114": {
+            "id": "540LkURTR7g_114",
+            "scene": "-1",
+            "dimension": "Description-Object",
+            "question": "一个装有青柠片和冰块的透明玻璃杯传达了什么？",
+            "options": [
+                "A. 它传达了一种清新和充满活力的美感。",
+                "B. 它传达了一种温暖和舒适的氛围。",
+                "C. 它传达了一种正式和严肃的语气。",
+                "D. 它传达了一种简约和鲜明的外观。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_115": {
+            "id": "540LkURTR7g_115",
+            "scene": "-1",
+            "dimension": "Camera Shot",
+            "question": "在特写镜头中倒水入杯后，会发生什么？",
+            "options": [
+                "A. 场景转换为聚焦于Ellen Thomsen在专业环境中穿着蓝色开衫。",
+                "B. 场景转换为聚焦于一群人讨论CHI Health品牌。",
+                "C. 场景转换为聚焦于另一个人将茶倒入另一个玻璃杯中。",
+                "D. 场景转换为一个户外场景，出现一个公园和CHI Health横幅。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_116": {
+            "id": "540LkURTR7g_116",
+            "scene": "-1",
+            "dimension": "Description-Scene",
+            "question": "在聚焦于带冰块和青柠的饮料之后，场景切换到哪里？",
+            "options": [
+                "A. 场景切换到Ellen Thomsen的独自讲解。",
+                "B. 场景切换到一群人在户外享受野餐。",
+                "C. 场景切换到繁忙的城市街道上，有车和行人。",
+                "D. 场景切换到一只猫玩线球的特写镜头。"
+            ],
+            "answer": "A"
+        },
+        "540LkURTR7g_117": {
+            "id": "540LkURTR7g_117",
+            "scene": "-1",
+            "dimension": "Fine Grained Action",
+            "question": "为什么这个女人提起茶包绳？",
+            "options": [
+                "A. 这个女人提起茶包绳是为了调整或提取茶包的味道。",
+                "B. 这个女人提起茶包绳是为了读取标签上的信息。",
+                "C. 这个女人提起茶包绳是为了向相机展示茶包的品牌。",
+                "D. 这个女人提起茶包绳是为了把它丢进附近的垃圾桶。"
+            ],
+            "answer": "A"
+        }
+    }
+}

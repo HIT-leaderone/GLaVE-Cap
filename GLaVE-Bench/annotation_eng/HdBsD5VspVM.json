@@ -1,0 +1,1156 @@
+{
+    "scene_hint": {
+        "0": "The video game interface displays two panels comparing the same piece of equipment.",
+        "1": "The scene transitions to the game display, showing a game hero using a skill to deal damage to a training dummy.",
+        "2": "The camera zooms in, slowing down the game hero's shooting action at the training dummy.",
+        "3": "The screen switches back to the game equipment page, showing multiple different pieces of equipment.",
+        "4": "The game continues, with the game hero consistently attacking the training dummy.",
+        "5": "The screen goes black, and the video ends."
+    },
+    "qa": {
+        "HdBsD5VspVM_0": {
+            "id": "HdBsD5VspVM_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "How are two panels equipped with 'Infinity Edge' placed relative to one another?",
+            "options": [
+                "A. The two panels are placed one above the other.",
+                "B. The two panels are placed side by side.",
+                "C. The two panels are placed diagonally.",
+                "D. The two panels are placed back-to-back."
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_1": {
+            "id": "HdBsD5VspVM_1",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "How do the sizes of the two panels with 'Infinity Edge' equipment compare?",
+            "options": [
+                "A. The left panel is slightly larger and more noticeable, while the right panel is smaller in comparison.",
+                "B. The right panel is slightly larger and more noticeable, while the left panel is smaller in comparison.",
+                "C. The sizes and prominence of the two panels are exactly the same.",
+                "D. The sizes of the two panels are completely different."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_2": {
+            "id": "HdBsD5VspVM_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene in this image take place?",
+            "options": [
+                "A. The main menu of League of Legends",
+                "B. The in-game shop interface of League of Legends",
+                "C. The champion selection screen of League of Legends",
+                "D. The game map during live gameplay"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_3": {
+            "id": "HdBsD5VspVM_3",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What background elements can be seen in the scene?",
+            "options": [
+                "A. The background showcases a bustling market scene with various shops and NPCs.",
+                "B. The background consists of stones and green plants, with a minimized map in the bottom right corner.",
+                "C. The background depicts a finely detailed flaming battlefield with lava flows and smoke.",
+                "D. The background displays a serene forest with tall trees and a gently flowing river."
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_4": {
+            "id": "HdBsD5VspVM_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Which user interaction elements on the interface indicate player input?",
+            "options": [
+                "A. The cursor hovers over the item details, a gray 'PURCHASE' button.",
+                "B. There's a blinking icon on the minimap.",
+                "C. There's a highlighted blue path on the game map.",
+                "D. There's a blinking notification in the top-right corner of the interface."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_5": {
+            "id": "HdBsD5VspVM_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is the attack power of the 'Infinity Edge' item on both sides?",
+            "options": [
+                "A. 65 Attack Damage",
+                "B. 50 Attack Damage",
+                "C. 40 Attack Damage",
+                "D. 70 Attack Damage"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_6": {
+            "id": "HdBsD5VspVM_6",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is the critical strike chance of the 'Infinity Edge' equipment on both sides?",
+            "options": [
+                "A. 15% Critical Strike Chance",
+                "B. 20% Critical Strike Chance",
+                "C. 25% Critical Strike Chance",
+                "D. 30% Critical Strike Chance"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_7": {
+            "id": "HdBsD5VspVM_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "On the left panel of the screen, what is the critical strike damage of 'Infinity Edge'?",
+            "options": [
+                "A. 40% Critical Strike Damage",
+                "B. 50% Critical Strike Damage",
+                "C. 30% Critical Strike Damage",
+                "D. 20% Critical Strike Damage"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_8": {
+            "id": "HdBsD5VspVM_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the critical strike damage of 'Infinity Edge' on the right panel of the screen?",
+            "options": [
+                "A. 40% Critical Strike Damage",
+                "B. 45% Critical Strike Damage",
+                "C. 50% Critical Strike Damage",
+                "D. 55% Critical Strike Damage"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_9": {
+            "id": "HdBsD5VspVM_9",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the price of the item 'Infinity Edge'?",
+            "options": [
+                "A. 3000 gold",
+                "B. 3300 gold",
+                "C. 3500 gold",
+                "D. 3200 gold"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_10": {
+            "id": "HdBsD5VspVM_10",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many panels display the 'Infinity Edge' item?",
+            "options": [
+                "A. One panel",
+                "B. Two panels",
+                "C. Three panels",
+                "D. Four panels"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_11": {
+            "id": "HdBsD5VspVM_11",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is the critical damage of the left panel and the right panel of this equipment the same?",
+            "options": [
+                "A. Yes, both panels are 50%.",
+                "B. Yes, both panels are 40%.",
+                "C. No, they are different; the left panel is 40%, and the right panel is 50%.",
+                "D. No, they are different; the left panel is 50%, and the right panel is 40%."
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_12": {
+            "id": "HdBsD5VspVM_12",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What does the difference in statistics between the two panels indicate?",
+            "options": [
+                "A. The difference in statistics indicates a visual error in the game interface.",
+                "B. The difference in statistics indicates a change in the attributes of the equipment item.",
+                "C. The difference in statistics indicates that the item has a discounted price on one panel.",
+                "D. The difference in statistics indicates that the player has chosen two different items for comparison."
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_13": {
+            "id": "HdBsD5VspVM_13",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the gold sword icon related to 'Infinity Edge' located in each attribute description panel?",
+            "options": [
+                "A. The gold sword icon is located at the upper left position of the panel, in both panels.",
+                "B. The gold sword icon is located at the lower left corner of the panel, in both panels.",
+                "C. The gold sword icon is located at the upper right corner of the panel, in both panels.",
+                "D. The gold sword icon is located at the center of the screen, in both panels."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_14": {
+            "id": "HdBsD5VspVM_14",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "Why does the video emphasize this scene?",
+            "options": [
+                "A. It clearly and in detail compares two 'Infinity Edge' panels against a blurred background.",
+                "B. It showcases the environment of the game more than the details of the items.",
+                "C. It emphasizes the price of 'Infinity Edge' rather than its attributes.",
+                "D. It focuses on the action in the game rather than the store interface."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_15": {
+            "id": "HdBsD5VspVM_15",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Are there any dynamic elements in the image, such as motion or speed effects?",
+            "options": [
+                "A. Yes, speed effects can be seen in the image.",
+                "B. Yes, the panels dynamically move when interacted with.",
+                "C. No, the interface and environment remain static, with no visible motion or speed effects in the scene.",
+                "D. Yes, elements in the game display trajectories indicating motion."
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_16": {
+            "id": "HdBsD5VspVM_16",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What visual cues ensure that the 'Infinity Edge' attributes are easy to read?",
+            "options": [
+                "A. Bold fonts ensure the attributes of the equipment are easy to read.",
+                "B. Dark background combined with highlighted numbers makes the text stand out.",
+                "C. The ornate sword-shaped icon highlights the item.",
+                "D. The grayed-out 'PURCHASE' button draws attention to the text."
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_17": {
+            "id": "HdBsD5VspVM_17",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What visual cues help compare the 'Infinity Edge' attribute on two panels?",
+            "options": [
+                "A. A unified layout and consistent placement of descriptive text help compare the attributes on two panels.",
+                "B. A bright green background highlights the differences in attributes.",
+                "C. The sword icon changes between panels to indicate updates.",
+                "D. The text on each panel uses completely different fonts to show contrast."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_18": {
+            "id": "HdBsD5VspVM_18",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "In the game, where is the game hero located on the screen?",
+            "options": [
+                "A. The hero is located near the top right of the screen, in both panels.",
+                "B. The hero is located near the bottom right of the screen, in both panels.",
+                "C. The hero is located near the middle left of the screen, in both panels.",
+                "D. The hero is located near the center of the screen, in both panels."
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_19": {
+            "id": "HdBsD5VspVM_19",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the battlefield environment depicted in the video?",
+            "options": [
+                "A. The battlefield is a barren desert, with shifting sand dunes and sporadically scattered cacti.",
+                "B. The battlefield has dense vegetation, grass, rocks, and is dotted with pine trees.",
+                "C. The battlefield consists of metallic ruins, towering chimneys, and polluted rivers.",
+                "D. The battlefield is snow-covered terrain, with icy cliffs and frozen rivers."
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_20": {
+            "id": "HdBsD5VspVM_20",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What are the appearance characteristics of this hero during the game?",
+            "options": [
+                "A. This hero has a unique silhouette, holds a pistol, and wears white clothing.",
+                "B. This hero has a unique silhouette, holds a sniper rifle, and wears blue clothing.",
+                "C. This hero has a unique silhouette, dual-wields daggers, and wears black clothing.",
+                "D. This hero has a unique silhouette, holds a sword and shield, and wears green clothing."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_21": {
+            "id": "HdBsD5VspVM_21",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What actions do game heroes perform during gameplay?",
+            "options": [
+                "A. The hero is in action, shooting at the training dummy.",
+                "B. The hero is shown collecting gold on the battlefield.",
+                "C. The hero is shown hiding in the bushes to ambush enemies.",
+                "D. The hero is shown repairing the training dummy after an attack."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_22": {
+            "id": "HdBsD5VspVM_22",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What does the training dummy in the video look like?",
+            "options": [
+                "A. The training dummy is a wooden mannequin with mechanical arms and a red health bar.",
+                "B. The training dummy is a wooden mannequin wearing a straw hat and has no health bar.",
+                "C. The training dummy is a spherical drone with a blue health bar and lasers.",
+                "D. The training dummy is a holographic projection with a green health bar and a shield."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_23": {
+            "id": "HdBsD5VspVM_23",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What indicators are displayed above the training dummy in the video?",
+            "options": [
+                "A. Health, Mana, Armor",
+                "B. Last Hit, DPS, Total",
+                "C. Speed, Agility, Strength",
+                "D. Experience, Gold, Level"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_24": {
+            "id": "HdBsD5VspVM_24",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many training dummies are there in the battle scene? (Consider only one side of the screen)",
+            "options": [
+                "A. One training dummy",
+                "B. Two training dummies",
+                "C. Three training dummies",
+                "D. Four training dummies"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_25": {
+            "id": "HdBsD5VspVM_25",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Will the game hero take damage during the battle?",
+            "options": [
+                "A. Yes, the hero takes significant damage during the battle.",
+                "B. Yes, the hero takes minor damage but recovers quickly.",
+                "C. No, the hero does not take any damage during the battle.",
+                "D. No, the hero only takes damage after the battle ends."
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_26": {
+            "id": "HdBsD5VspVM_26",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What subtle visual effects appear after a game hero releases a skill?",
+            "options": [
+                "A. A faint white streak marks the trajectory of the projectile, with nearby small blue effects suggesting the residual energy of the hero's skill.",
+                "B. A red aura surrounds the hero, indicating an increase in attack speed and power.",
+                "C. The environment briefly darkens, highlighting the hero's outline on the battlefield.",
+                "D. Bright green light surrounds the projectile, hinting at potential damage enhancement."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_27": {
+            "id": "HdBsD5VspVM_27",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "Which direction does the bullet fly after the game hero shoots?",
+            "options": [
+                "A. The bullet flies in a straight trajectory to the left.",
+                "B. The bullet flies in a straight trajectory downward.",
+                "C. The bullet flies in a straight trajectory upward.",
+                "D. The bullet flies in a straight trajectory to the right."
+            ],
+            "answer": "D"
+        },
+        "HdBsD5VspVM_28": {
+            "id": "HdBsD5VspVM_28",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "How is the speed of a bullet approaching a training dummy visually represented?",
+            "options": [
+                "A. The speed is represented by a faint white trail, highlighting its fast and linear motion.",
+                "B. The speed is visualized by a glowing red particle trail following the bullet.",
+                "C. The bullet's speed is indicated by a pulsating blue aura surrounding it.",
+                "D. The speed is represented by a series of vibrations on the screen as the bullet moves."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_29": {
+            "id": "HdBsD5VspVM_29",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "In the left screen, what is the damage indicator displayed after the first hit by the game hero on the left training dummy?",
+            "options": [
+                "A. The dummy displays: 'Last Hit: 1572,' 'DPS: 115,' and 'Total: 1756.'",
+                "B. The dummy displays: 'Last Hit: 1572,' 'DPS: 1572,' and 'Total: 1572.'",
+                "C. The dummy displays: 'Last Hit: 1647,' 'DPS: 1647,' and 'Total: 1647.'",
+                "D. The dummy displays: 'Last Hit: 1367,' 'DPS: 1367,' and 'Total: 1367.'"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_30": {
+            "id": "HdBsD5VspVM_30",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "In the left screen, after the hero character fires the first shot, what is displayed below the bottom training wooden stake?",
+            "options": [
+                "A. 'Last Hit: 1572,' 'DPS: 1523.4,' and 'Total: 1534.'",
+                "B. 'Last Hit: 0,' 'DPS: 1367,' and 'Total: 1367.'",
+                "C. 'Last Hit: 1647,' 'DPS: 1367,' and 'Total: 1367.'",
+                "D. 'Last Hit: 1725,' 'DPS: 3329,' and 'Total: 3329.'"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_31": {
+            "id": "HdBsD5VspVM_31",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What effect does the training dummy at the bottom of the screen experience after the game hero shoots?",
+            "options": [
+                "A. The training dummy is destroyed after impact, in both screens.",
+                "B. The training dummy receives minor damage, in both screens.",
+                "C. The training dummy is unaffected, in both screens.",
+                "D. The training dummy shows new damage overlay after impact, in both screens."
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_32": {
+            "id": "HdBsD5VspVM_32",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "In the game, where are the hero's health, mana, and shield status displayed?",
+            "options": [
+                "A. The hero's health, mana, and shield status are displayed above their heads.",
+                "B. The hero's health, mana, and shield status are displayed in the bottom left corner of the screen.",
+                "C. The hero's health, mana, and shield status are displayed in the bottom right corner of the screen.",
+                "D. The hero's health, mana, and shield status are displayed in the top left corner of the screen."
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_33": {
+            "id": "HdBsD5VspVM_33",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What information is provided about the hero's inventory and gold during the game?",
+            "options": [
+                "A. Shows accumulated gold and advanced equipment in the inventory.",
+                "B. Only shows the hero's gold amount, without detailed inventory information.",
+                "C. Provides information about the hero's health and mana, but does not involve the inventory.",
+                "D. Shows basic starter equipment, but does not display accumulated gold."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_34": {
+            "id": "HdBsD5VspVM_34",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "From the perspective of the game hero, where is the green grass?",
+            "options": [
+                "A. The green grass is on the hero's left side.",
+                "B. The green grass is on the hero's right side.",
+                "C. The green grass is in front of the hero.",
+                "D. The green grass is behind the hero."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_35": {
+            "id": "HdBsD5VspVM_35",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What changes occur in the hero's posture during the attack in the game?",
+            "options": [
+                "A. The hero moves back and forth while attacking.",
+                "B. The hero maintains a crouching posture throughout the attack.",
+                "C. The hero gradually leans forward during the attack.",
+                "D. The hero alternates between jumping and crouching during the attack."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_36": {
+            "id": "HdBsD5VspVM_36",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many training dummies on the right side of the screen were attacked by the hero?",
+            "options": [
+                "A. One training dummy was attacked by the hero.",
+                "B. Two training dummies were attacked by the hero.",
+                "C. Three training dummies were all attacked by the hero.",
+                "D. No training dummies were attacked by the hero."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_37": {
+            "id": "HdBsD5VspVM_37",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "At the end of this scene, are the rotating purple vortices on both sides still visible?",
+            "options": [
+                "A. Yes, the rotating purple vortices are still visible.",
+                "B. No, the rotating purple vortices are no longer visible.",
+                "C. The rotating purple vortices are only faintly visible.",
+                "D. At the end of the sequence, the rotating purple vortices become larger."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_38": {
+            "id": "HdBsD5VspVM_38",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the sign that the game hero's attack has ended in the left screen?",
+            "options": [
+                "A. The hero transitions from a leaning forward posture to standing facing the bushes.",
+                "B. The blue glow surrounding the champion becomes more intense.",
+                "C. The training dummy starts moving, indicating the end of the attack.",
+                "D. Plant-like creatures begin to engage in battle, indicating the end of the attack."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_39": {
+            "id": "HdBsD5VspVM_39",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Is there any object in the scene showing movement?",
+            "options": [
+                "A. Yes, the glowing blue-white projectile moves towards the central training stump and hits it.",
+                "B. Yes, the plant-like creature approaches the hero.",
+                "C. No, there is no movement in the scene.",
+                "D. Yes, the training stump below moves out of the attack range."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_40": {
+            "id": "HdBsD5VspVM_40",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the latest damage indicator for the left training dummy after the hero in the right screen stops attacking?",
+            "options": [
+                "A. Left dummy shows: 'Last Hit: 3084,' 'DPS: 1826,' and 'Total: 10746.'",
+                "B. Left dummy shows: 'Last Hit: 10746,' 'DPS: 1826,' and 'Total: 1572.'",
+                "C. Left dummy shows: 'Last Hit: 5000,' 'DPS: 1500,' and 'Total: 1647.'",
+                "D. Left dummy shows: 'Last Hit: 10746,' 'DPS: 2004,' and 'Total: 1367.'"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_41": {
+            "id": "HdBsD5VspVM_41",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the latest damage indicator for the training dummy at the bottom after the hero stops attacking in the right-side screen?",
+            "options": [
+                "A. 'Last Hit: 0' 'DPS: 1432' and 'Total: 1742.'",
+                "B. 'Last Hit: 8267' 'DPS: 2004' and 'Total: 1570.'",
+                "C. 'Last Hit: 5000' 'DPS: 1500' and 'Total: 5000.'",
+                "D. 'Last Hit: 0' 'DPS: 1367' and 'Total: 1367.'"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_42": {
+            "id": "HdBsD5VspVM_42",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Is there any damage to the training wooden stake at the bottom in the right-side image?",
+            "options": [
+                "A. The training wooden stake at the bottom is undamaged.",
+                "B. The training wooden stake at the bottom is severely damaged.",
+                "C. The training wooden stake at the bottom is slightly damaged.",
+                "D. The damage to the training wooden stake at the bottom is unclear."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_43": {
+            "id": "HdBsD5VspVM_43",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "How does the training dummy display updated damage statistics?",
+            "options": [
+                "A. The updated damage statistics are displayed through text.",
+                "B. The updated damage statistics are emitted as sound waves from each dummy.",
+                "C. The updated damage statistics are displayed through the size of the dummy.",
+                "D. The updated damage statistics are visually represented by changes in the dummy's color."
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_44": {
+            "id": "HdBsD5VspVM_44",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the prominent rock structure located in the game landscape?",
+            "options": [
+                "A. The prominent rock structure is located at the bottom left of the game landscape, with the same position on both sides of the screen.",
+                "B. The prominent rock structure is located at the bottom right of the game landscape, with the same position on both sides of the screen.",
+                "C. The prominent rock structure is located at the center of the game landscape, with the same position on both sides of the screen.",
+                "D. The prominent rock structure is located at the top right of the game landscape, with the same position on both sides of the screen."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_45": {
+            "id": "HdBsD5VspVM_45",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What are the attributes of the 'Navori Quickblades' item on the right?",
+            "options": [
+                "A. The 'Navori Quickblades' item provides +65 Attack Damage, 20% Critical Strike Chance, and +15 Ability Haste.",
+                "B. The 'Navori Quickblades' item provides +70 Attack Damage, 25% Critical Strike Chance, and +20 Ability Haste.",
+                "C. The 'Navori Quickblades' item provides +60 Attack Damage, 15% Critical Strike Chance, and +10 Ability Haste.",
+                "D. The 'Navori Quickblades' item provides 30% Critical Strike Chance, and +18 Ability Haste."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_46": {
+            "id": "HdBsD5VspVM_46",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is the unique passive of the item 'Navori Quickblades'?",
+            "options": [
+                "A. 'Transcendence', reduces non-ultimate skill cooldown by 12% through attacks, and 'Impermanence', increases skill damage by up to 20% based on critical strike chance.",
+                "B. 'Transcendence', increases critical strike chance by 15%, and 'Impermanence', increases skill haste by 20%.",
+                "C. 'Transcendence', reduces skill damage by 12%, and 'Impermanence', increases attack speed by up to 20%.",
+                "D. 'Transcendence', reduces ultimate skill cooldown by 12%, and 'Impermanence', increases gold income by 20%."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_47": {
+            "id": "HdBsD5VspVM_47",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "The side images indicate how many components are in the build path for 'Navori Quickblades' equipment?",
+            "options": [
+                "A. There are four components in the build path.",
+                "B. There are five components in the build path.",
+                "C. There are six components in the build path.",
+                "D. There are seven components in the build path."
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_48": {
+            "id": "HdBsD5VspVM_48",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "In the right panel, what is the component cost to make 'Navori Quickblades'?",
+            "options": [
+                "A. The costs are 1300 gold, 1100 gold, 600 gold, 350 gold, 250 gold, and 350 gold respectively.",
+                "B. The costs are 1300 gold, 1200 gold, 650 gold, 400 gold, 300 gold, and 200 gold respectively.",
+                "C. The costs are 1200 gold, 1100 gold, 700 gold, 350 gold, 300 gold, and 300 gold respectively.",
+                "D. The costs are 1400 gold, 1000 gold, 500 gold, 400 gold, 250 gold, and 250 gold respectively."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_49": {
+            "id": "HdBsD5VspVM_49",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "For the same item, does the section detailing the item's attributes on the right panel change?",
+            "options": [
+                "A. Yes, the right panel has undergone significant updates.",
+                "B. No, the right panel remains static and unchanged.",
+                "C. Yes, only minor adjustments have been made to the right panel.",
+                "D. No, the right panel has been removed in the update."
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_50": {
+            "id": "HdBsD5VspVM_50",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What happened to the price of the sword-like component in the synthesis route of 'Navori Quickblades' from the right side to the left side?",
+            "options": [
+                "A. The price decreased from 1300 gold to 875 gold.",
+                "B. The price increased from 600 gold to 1100 gold.",
+                "C. The price increased from 875 gold to 1300 gold.",
+                "D. The price remained unchanged."
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_51": {
+            "id": "HdBsD5VspVM_51",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What color markers are used on the mini-map to indicate allies and enemies?",
+            "options": [
+                "A. Clear blue and green markers are used to indicate allies and enemies.",
+                "B. Clear blue and red markers are used to indicate allies and enemies.",
+                "C. Clear yellow and red markers are used to indicate allies and enemies.",
+                "D. Clear green and red markers are used to indicate allies and enemies."
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_52": {
+            "id": "HdBsD5VspVM_52",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the location of the purple vortex?",
+            "options": [
+                "A. The purple vortex is hovering to the left of the training wooden stake.",
+                "B. The purple vortex is above the game hero's head.",
+                "C. The purple vortex is floating near the big rock.",
+                "D. The purple vortex is in the middle of the road."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_53": {
+            "id": "HdBsD5VspVM_53",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "In the picture, which hand is the game hero holding the sword?",
+            "options": [
+                "A. Left hand",
+                "B. Right hand",
+                "C. Both hands are holding",
+                "D. Neither hand is holding"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_54": {
+            "id": "HdBsD5VspVM_54",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What color hat does the game hero wear?",
+            "options": [
+                "A. Black",
+                "B. Blue",
+                "C. White",
+                "D. Brown"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_55": {
+            "id": "HdBsD5VspVM_55",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What characteristics of the game hero can be seen in the picture?",
+            "options": [
+                "A. The game hero has his legs on the stool, holding a burning piece of paper, wearing a hat and holding a sword.",
+                "B. The game hero is standing in the picture, wearing a hat and holding a pistol.",
+                "C. The game hero is lying sideways on a chair, holding a book and watching.",
+                "D. The game hero is sitting in a rocking chair, playing with a sword in his hand."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_56": {
+            "id": "HdBsD5VspVM_56",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What color is the skin of the hero controlled by the player?",
+            "options": [
+                "A. The skin of the hero controlled by the player is light blue.",
+                "B. The skin of the hero controlled by the player is light green.",
+                "C. The skin of the hero controlled by the player is light purple.",
+                "D. The skin of the hero controlled by the player is light white."
+            ],
+            "answer": "D"
+        },
+        "HdBsD5VspVM_57": {
+            "id": "HdBsD5VspVM_57",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What weapon does the hero controlled by the player use?",
+            "options": [
+                "A. A pistol that fires bullets",
+                "B. A sword that emits blue light",
+                "C. A bow with green arrows",
+                "D. A hammer surrounded by red flames"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_58": {
+            "id": "HdBsD5VspVM_58",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "How many roads are there on the small map?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_59": {
+            "id": "HdBsD5VspVM_59",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Does the 'Navori Quickblades' featuring in the dual-panel format still exist?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. It will appear briefly",
+                "D. Uncertain"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_60": {
+            "id": "HdBsD5VspVM_60",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What does the purple vortex in flight in the video indicate?",
+            "options": [
+                "A. The purple vortex in flight indicates that a skill or spell is in effect.",
+                "B. The purple vortex in flight indicates that the game is paused.",
+                "C. The purple vortex in flight indicates that the hero is retreating.",
+                "D. The purple vortex in flight indicates that the game is about to end."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_61": {
+            "id": "HdBsD5VspVM_61",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "Which direction is the purple vortex moving?",
+            "options": [
+                "A. The purple vortex is moving away from the hero, towards the forest.",
+                "B. The purple vortex is not moving.",
+                "C. The purple vortex is moving randomly on the map.",
+                "D. The purple vortex is moving in the opposite direction of the enemy minions."
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_62": {
+            "id": "HdBsD5VspVM_62",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements in the game interface support strategic decision-making?",
+            "options": [
+                "A. The game interface displays hero statistics, scoreboard, mini-map, and character progression tools.",
+                "B. The game interface only shows the player's health status and skill cooldown times.",
+                "C. The game interface provides a panoramic landscape with detailed weather effects for decision-making.",
+                "D. The game interface only contains a decorative border with no functional elements."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_63": {
+            "id": "HdBsD5VspVM_63",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the hero controlled by the player located on the screen?",
+            "options": [
+                "A. Near the top left corner of the screen, close to the leftmost of the three training dummies.",
+                "B. In the center of the screen, to the left of the three training dummies.",
+                "C. At the bottom right corner of the screen, near the enemy base.",
+                "D. At the bottom of the screen, near the glowing red guardian."
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_64": {
+            "id": "HdBsD5VspVM_64",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the main terrain of the game interface in this scene?",
+            "options": [
+                "A. Jungle terrain",
+                "B. Desert terrain",
+                "C. Ocean terrain",
+                "D. Mountain terrain"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_65": {
+            "id": "HdBsD5VspVM_65",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What visual indicator represents the player's primary attack target?",
+            "options": [
+                "A. Rotating graphic indicator in front of the training dummy",
+                "B. Glowing red guard near the top left corner",
+                "C. Health bars above all three training dummies",
+                "D. Location of the hero shown on the mini-map"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_66": {
+            "id": "HdBsD5VspVM_66",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "Do the remaining two wooden stakes show updated combat statistics?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only one shows updated statistics",
+                "D. Both are damaged but statistics remain unchanged"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_67": {
+            "id": "HdBsD5VspVM_67",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What tactical moves is the game hero showcasing?",
+            "options": [
+                "A. The hero is simultaneously attacking three training dummies.",
+                "B. The hero is moving back and forth to attack the training stakes.",
+                "C. The hero ignores the training dummies and explores the jungle.",
+                "D. The hero uses stealth skills to become invisible."
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_68": {
+            "id": "HdBsD5VspVM_68",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What does the rate of health reduction of the training dummy on the far left of the screen mean?",
+            "options": [
+                "A. It indicates that the training dummy is the main attack target.",
+                "B. It indicates that the training dummy is regenerating health.",
+                "C. It indicates that the training dummy is immune to attacks.",
+                "D. It means it is not being focused on in the battle."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_69": {
+            "id": "HdBsD5VspVM_69",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What is the final hit value of the dummy in the middle after the game hero's last attack?",
+            "options": [
+                "A. 1,647",
+                "B. 2,500",
+                "C. 1,555",
+                "D. 28,405"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_70": {
+            "id": "HdBsD5VspVM_70",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What is the DPS displayed by the training dummy after the game hero's final attack?",
+            "options": [
+                "A. 1,464",
+                "B. 1,432",
+                "C. 3,084",
+                "D. 28,405"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_71": {
+            "id": "HdBsD5VspVM_71",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What does the Total display for the training dummy in the middle after the game hero's final attack ends?",
+            "options": [
+                "A. 32,411",
+                "B. 1,742",
+                "C. 3,084",
+                "D. 1,555"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_72": {
+            "id": "HdBsD5VspVM_72",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "Which of the following does the amount of gold coins displayed on the current screen most closely resemble?",
+            "options": [
+                "A. 23,876",
+                "B. 8,192",
+                "C. 93,798",
+                "D. 58,439"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_73": {
+            "id": "HdBsD5VspVM_73",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the current scene in the video after the transition?",
+            "options": [
+                "A. The current scene is completely black, with no discernible objects, text, or environmental background.",
+                "B. The current scene shows a vibrant jungle with lush vegetation and towering trees.",
+                "C. The current scene displays a detailed player HUD, including glowing scout sentinels.",
+                "D. The current scene features training dummies in an action-packed environment."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_74": {
+            "id": "HdBsD5VspVM_74",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Are there any human characters visible in the current scene?",
+            "options": [
+                "A. Yes, multiple human characters are visible.",
+                "B. Yes, one human character is visible.",
+                "C. No, there are no human characters visible in the current scene.",
+                "D. It is unclear whether any human characters are visible."
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_75": {
+            "id": "HdBsD5VspVM_75",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many elements are visible in the current screen?",
+            "options": [
+                "A. No elements are visible in the current screen.",
+                "B. One element is visible in the current screen.",
+                "C. Several elements are visible in the current screen.",
+                "D. Many elements are visible in the current screen."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_76": {
+            "id": "HdBsD5VspVM_76",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "After the transition, is there any visual information on the screen?",
+            "options": [
+                "A. Yes, there is still visual information on the screen.",
+                "B. No, there is no visual information on the screen after the transition.",
+                "C. Some elements on the screen are faintly visible.",
+                "D. The screen displays a different scene, which includes new elements."
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_77": {
+            "id": "HdBsD5VspVM_77",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What item was displayed at the start of the video store interface?",
+            "options": [
+                "A. 'Infinity Edge' was displayed at the beginning of the static shop interface sequence.",
+                "B. 'Phantom Dancer' was displayed at the beginning of the static shop interface sequence.",
+                "C. 'Bloodthirster' was displayed at the beginning of the static shop interface sequence.",
+                "D. 'Rabadon's Deathcap' was displayed at the beginning of the static shop interface sequence."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_78": {
+            "id": "HdBsD5VspVM_78",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after the static store interface of 'Infinity Edge' is shown in the video?",
+            "options": [
+                "A. The video transitions from the static store interface to a dynamic battle game scene.",
+                "B. The video switches to a scene where the player's character is resting in a safe zone.",
+                "C. The video shows a dialog box with a new mission objective.",
+                "D. The video displays the ending credits."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_79": {
+            "id": "HdBsD5VspVM_79",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the main focus of the static shop interface?",
+            "options": [
+                "A. The main focus of the static shop interface is to provide comparisons of the same equipment.",
+                "B. The main focus of the static shop interface is to display the player's current health and mana.",
+                "C. The main focus of the static shop interface is to showcase the jungle environment and its various elements.",
+                "D. The main focus of the static shop interface is to display the leaderboard of top players in the game."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_80": {
+            "id": "HdBsD5VspVM_80",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the gameplay segment after the shop interface depict?",
+            "options": [
+                "A. The gameplay segment after the shop interface shows a hero attacking a training dummy.",
+                "B. The gameplay segment after the shop interface shows a transition from a jungle environment directly to the game over screen.",
+                "C. The gameplay segment after the shop interface presents a scene where a hero customizes their armor.",
+                "D. The gameplay segment after the shop interface describes a cinematic cutscene of the game's storyline."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_81": {
+            "id": "HdBsD5VspVM_81",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What does the transition from the battle scene to a black screen imply?",
+            "options": [
+                "A. The change in the scene suggests the game is paused, allowing the player to take a break.",
+                "B. This change implies the game is interrupted, switching to another scene, or the video has ended.",
+                "C. The black screen means there is an error in the game that needs to be fixed.",
+                "D. The screen turning black indicates the start of a new jungle level."
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_82": {
+            "id": "HdBsD5VspVM_82",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What changes are there in the description of 'Infinity Edge' in the left and right panels?",
+            "options": [
+                "A. 'Magic Resist' changes from 30 in the left panel to 40 in the right panel.",
+                "B. 'Attack Damage' changes from 70 in the left panel to 80 in the right panel.",
+                "C. 'Critical Strike Damage' changes from 40% in the left panel to 50% in the right panel.",
+                "D. 'Cooldown Reduction' changes from 10% in the left panel to 15% in the right panel."
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_83": {
+            "id": "HdBsD5VspVM_83",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "How does the damage indicator of the training dummy change after the hero attacks?",
+            "options": [
+                "A. The damage indicator updates after the hero attacks.",
+                "B. Despite the hero's attack, the damage indicator remains unchanged.",
+                "C. The damage indicator resets to zero after the hero attacks.",
+                "D. The damage indicator only displays the critical hit rate after the hero attacks."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_84": {
+            "id": "HdBsD5VspVM_84",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the static store interface display different versions of the 'Infinity Edge' attributes?",
+            "options": [
+                "A. These changes may show modifications to demonstrate balance updates or inform players of constantly evolving data about the item.",
+                "B. These changes ensure that players can purchase different versions of the 'Infinity Edge' for specific character builds.",
+                "C. These changes allow players to customize the appearance of the 'Infinity Edge' according to their preferences.",
+                "D. These changes indicate an error in the game store interface caused by a glitch or bug."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_85": {
+            "id": "HdBsD5VspVM_85",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What kind of background is there when it is turned into a game hero illustration?",
+            "options": [
+                "A. The background is dim, with fire and railings.",
+                "B. The background is bright, with trees and bushes.",
+                "C. The background is soft, with stones and a creek.",
+                "D. The background is pitch black, with no obvious features found."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_86": {
+            "id": "HdBsD5VspVM_86",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why do game heroes move back and forth during training?",
+            "options": [
+                "A. It might be to use the jungle terrain for strategic combat positioning.",
+                "B. It might be to explore new game areas unrelated to combat.",
+                "C. It might be due to random events in the game causing automatic movement.",
+                "D. It might be to collect decorative items scattered in the jungle."
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_87": {
+            "id": "HdBsD5VspVM_87",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why do game heroes use attacks on training dummies?",
+            "options": [
+                "A. Heroes use attacks on training dummies to test damage output.",
+                "B. Heroes use attacks on training dummies to scare away jungle creatures.",
+                "C. Heroes use attacks on training dummies to unlock secret levels.",
+                "D. Heroes use attacks on training dummies to collect crafting resources."
+            ],
+            "answer": "A"
+        }
+    }
+}

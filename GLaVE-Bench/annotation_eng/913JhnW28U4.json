@@ -1,0 +1,1416 @@
+{
+    "scene_hint": {
+        "0": "The camera focuses on a contestant",
+        "1": "The contestant's movements and posture are displayed",
+        "2": "Footage and data of the competition's progress.",
+        "3": "The contestant floats in the water",
+        "4": "The contestant stands on the podium to receive the award.",
+        "5": "The contestant takes a group photo on the podium."
+    },
+    "qa": {
+        "913JhnW28U4_0": {
+            "id": "913JhnW28U4_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the focal player located in the image overall?",
+            "options": [
+                "A. The person is located on the left side of the image.",
+                "B. The person is located on the right side of the image.",
+                "C. The person is located in the central area of the image.",
+                "D. The person is located at the bottom of the image."
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_1": {
+            "id": "913JhnW28U4_1",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is on the left chest of the focal player?",
+            "options": [
+                "A. A red flag with a yellow star.",
+                "B. It displays a logo and advertisements.",
+                "C. It is his number plate.",
+                "D. It is the player's name information."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_2": {
+            "id": "913JhnW28U4_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is in the background of the initial scene?",
+            "options": [
+                "A. A digital display screen.",
+                "B. A list of participants.",
+                "C. A flag with maple leaves.",
+                "D. A video animation playing."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_3": {
+            "id": "913JhnW28U4_3",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "How is the environment of the entire scene?",
+            "options": [
+                "A. The scene is an indoor swimming venue.",
+                "B. The scene is an outdoor sports field.",
+                "C. The scene is a bustling market.",
+                "D. The scene is an indoor diving venue."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_4": {
+            "id": "913JhnW28U4_4",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What event does this scene appear to be describing?",
+            "options": [
+                "A. A swimming competition",
+                "B. A track and field competition",
+                "C. An international tennis championship",
+                "D. A gymnastics championship"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_5": {
+            "id": "913JhnW28U4_5",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the contestant wearing at the beginning of the scene?",
+            "options": [
+                "A. Wearing a black long down jacket and a black hat.",
+                "B. Wearing a red coat and a black hat.",
+                "C. Wearing a blue trench coat with a red scarf.",
+                "D. Wearing a green hoodie and a yellow baseball cap."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_6": {
+            "id": "913JhnW28U4_6",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What items has this athlete held?",
+            "options": [
+                "A. Holding a paper label with the words 'UPCX'.",
+                "B. A red towel with the words 'MYRTHA POOLS'.",
+                "C. He is holding a blue towel without any text.",
+                "D. He is holding a pair of goggles and a swim cap with both hands."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_7": {
+            "id": "913JhnW28U4_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What signs are on the electronic display board in the background?",
+            "options": [
+                "A. An advertisement for 'Nongfu Spring' with Chinese characters, and an Omega logo.",
+                "B. An advertisement for 'Sprite' with Chinese characters, and an Adidas logo.",
+                "C. An advertisement for 'Nongfu Spring' with Chinese characters, and a Nike logo.",
+                "D. An advertisement for 'Coca-Cola' with Chinese characters, and a Puma logo."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_8": {
+            "id": "913JhnW28U4_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What are the visible platform numbers?",
+            "options": [
+                "A. The platform numbers are 1 and 2.",
+                "B. The platform numbers are 3 and 4.",
+                "C. The platform numbers are 5 and 6.",
+                "D. The platform numbers are 7 and 8."
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_9": {
+            "id": "913JhnW28U4_9",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What actions did this player take?",
+            "options": [
+                "A. This player prepared new equipment, including a towel and water bottle.",
+                "B. This player removed the badge and took off his outerwear.",
+                "C. This player checked his stopwatch and offered assistance to nearby athletes.",
+                "D. This player took photos and checked his photography equipment."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_10": {
+            "id": "913JhnW28U4_10",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "Which direction is the athlete moving?",
+            "options": [
+                "A. Towards the spectator stand.",
+                "B. Towards the take-off platform.",
+                "C. Away from the take-off platform.",
+                "D. Towards the electronic display board."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_11": {
+            "id": "913JhnW28U4_11",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle used in the scene?",
+            "options": [
+                "A. The camera angle is eye-level.",
+                "B. The camera angle is bird's-eye view.",
+                "C. The camera angle is low-angle shot.",
+                "D. The camera angle is over-the-shoulder shot."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_12": {
+            "id": "913JhnW28U4_12",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "How does this player move in the scene?",
+            "options": [
+                "A. Running quickly.",
+                "B. Walking with a steady pace.",
+                "C. Jogging rhythmically.",
+                "D. Staying still and blending into the environment."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_13": {
+            "id": "913JhnW28U4_13",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What changes can be observed in the background elements?",
+            "options": [
+                "A. The stadium lights and event brand logos remain consistent.",
+                "B. The digital display boards and related signage have been replaced by different advertisements.",
+                "C. The large and vibrant red flags have been replaced by blue flags with white stars.",
+                "D. The match list has changed, containing different names."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_14": {
+            "id": "913JhnW28U4_14",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the valid score of Zhanle Pan indicated on the display board in the lower left corner of the screen?",
+            "options": [
+                "A. 47.73, the blue QT indicates that this is the valid score",
+                "B. 47.73, the green QT indicates that this is the valid score",
+                "C. 47.53, the green QT indicates that this is the valid score",
+                "D. 47.53, the green QT indicates that this is the valid score"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_15": {
+            "id": "913JhnW28U4_15",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What competition is indicated on the display board in the bottom left corner of the screen?",
+            "options": [
+                "A. 'Men's 100m Freestyle'",
+                "B. 'Men's 200m Butterfly'",
+                "C. 'Men's 4x100m Medley Relay'",
+                "D. 'Men's 50m Backstroke'"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_16": {
+            "id": "913JhnW28U4_16",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What is the logo on the electronic screen in the lower left corner of the screen?",
+            "options": [
+                "A. Each contestant's historical performance",
+                "B. 'WORLD AQUATICS DOHA 2024'",
+                "C. A flag icon with a maple leaf pattern",
+                "D. 'UPCYC' and Omega logo pattern"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_17": {
+            "id": "913JhnW28U4_17",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is this player's position?",
+            "options": [
+                "A. This player is standing next to the field.",
+                "B. This player is sitting in the audience.",
+                "C. This player is standing in front of the podium.",
+                "D. This player is resting in the locker room."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_18": {
+            "id": "913JhnW28U4_18",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What activity is this man engaged in?",
+            "options": [
+                "A. The man is tidying up his clothes.",
+                "B. The man is swimming in the pool.",
+                "C. The man is being interviewed.",
+                "D. The man is holding a trophy."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_19": {
+            "id": "913JhnW28U4_19",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the logo on this man's clothes?",
+            "options": [
+                "A. Yellow Anta logo",
+                "B. White Speedo logo",
+                "C. White Adidas logo",
+                "D. Black Panda logo"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_20": {
+            "id": "913JhnW28U4_20",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the contestant wearing at the end of the scene?",
+            "options": [
+                "A. A black down jacket.",
+                "B. A blue down jacket, a white jacket with red decorations.",
+                "C. A red and white coat, a white T-shirt.",
+                "D. A black raincoat, a white shirt with blue checks."
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_21": {
+            "id": "913JhnW28U4_21",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "In an indoor environment, is the word 'OMEGA' visible on the banner?",
+            "options": [
+                "A. Yes",
+                "B. No, the banner says 'Alpha'",
+                "C. Only partially visible",
+                "D. There are no letters on the banner"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_22": {
+            "id": "913JhnW28U4_22",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What does the camera emphasize about this man?",
+            "options": [
+                "A. The camera focuses on the man's detailed attire.",
+                "B. The camera focuses on the man's warm-up exercises.",
+                "C. The camera focuses on the man's interaction with the audience.",
+                "D. The camera captures the man's facial expressions."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_23": {
+            "id": "913JhnW28U4_23",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "In the final scene, which features of this man's clothing become more prominent?",
+            "options": [
+                "A. A white swim cap with 'PAN' and 'Speedo' logos.",
+                "B. A down jacket with a Puma logo and a red Chinese flag patch.",
+                "C. A white shirt with light blue squares and yellow characters.",
+                "D. A helmet with a 'Speedo' logo and a red-purple gradient banner."
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_24": {
+            "id": "913JhnW28U4_24",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "What is the relationship between the audience's position and the pool?",
+            "options": [
+                "A. The audience is behind the white railing surrounding the pool.",
+                "B. The audience is sitting on the edge surrounding the pool.",
+                "C. The audience is behind the yellow railing surrounding the pool.",
+                "D. The audience is leaning against the barrier surrounding the pool."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_25": {
+            "id": "913JhnW28U4_25",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where does the competition take place?",
+            "options": [
+                "A. The scene takes place in an indoor swimming pool arena.",
+                "B. The scene takes place in an outdoor swimming pool arena.",
+                "C. The scene takes place in a private swimming pool with no audience.",
+                "D. The scene takes place in an outdoor beach amateur venue."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_26": {
+            "id": "913JhnW28U4_26",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the atmosphere like at the swimming competition?",
+            "options": [
+                "A. In front of a packed audience.",
+                "B. There are a few scattered spectators watching.",
+                "C. No audience.",
+                "D. There is a small group of spectators."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_27": {
+            "id": "913JhnW28U4_27",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the swimmer closest to the camera wearing at the beginning of the scene?",
+            "options": [
+                "A. Blue swim trunks and a red swim cap",
+                "B. Green swim trunks and a yellow swim cap",
+                "C. Black swim trunks and a white swim cap",
+                "D. Red swim trunks and a blue swim cap"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_28": {
+            "id": "913JhnW28U4_28",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "At the beginning of the scene, does the athlete closest to the camera have a tattoo?",
+            "options": [
+                "A. The athlete has a complex tattoo.",
+                "B. The athlete has a simple tattoo.",
+                "C. The athlete does not have a tattoo.",
+                "D. The athlete has a colorful tattoo."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_29": {
+            "id": "913JhnW28U4_29",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the athlete's posture at the beginning of the scene?",
+            "options": [
+                "A. Crouching in a jumping posture on the take-off platform.",
+                "B. The athlete stands upright with hands on hips.",
+                "C. The athlete sits relaxed on the take-off platform.",
+                "D. The athlete leans back to stretch and warm up."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_30": {
+            "id": "913JhnW28U4_30",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the advertisement located in the frame at the beginning of the scene?",
+            "options": [
+                "A. The advertisement is located in the upper left quadrant of the frame.",
+                "B. The advertisement is located in the lower right quadrant of the frame.",
+                "C. The advertisement is located above the starting area.",
+                "D. The advertisement is located behind the audience seating."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_31": {
+            "id": "913JhnW28U4_31",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle like after entering the water?",
+            "options": [
+                "A. Horizontal camera angle",
+                "B. Side-view camera angle",
+                "C. Low-angle camera angle",
+                "D. Close-up camera angle"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_32": {
+            "id": "913JhnW28U4_32",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Which banners indicate the nature of the competition?",
+            "options": [
+                "A. 'Local Swim Club Championship 2024'",
+                "B. 'World Aquatics – Doha 2024'",
+                "C. 'Regional Swimming Meet 2024'",
+                "D. 'National Aquatics – Doha 2024'"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_33": {
+            "id": "913JhnW28U4_33",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the position of the judge on the starting platform relative to the swimmer?",
+            "options": [
+                "A. On the side of the pool",
+                "B. Behind the swimmer",
+                "C. In front of the swimmer",
+                "D. In the stands"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_34": {
+            "id": "913JhnW28U4_34",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What event is happening at the swimming pool?",
+            "options": [
+                "A. Swimming competition",
+                "B. Diving show",
+                "C. Water polo match",
+                "D. Synchronized swimming performance"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_35": {
+            "id": "913JhnW28U4_35",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What colors are used for the swimming pool lane dividers?",
+            "options": [
+                "A. Bright red, yellow, blue",
+                "B. Bright green, orange, pink",
+                "C. Dark blue, white, gray",
+                "D. Light purple, teal, silver"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_36": {
+            "id": "913JhnW28U4_36",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many swimmers wearing red swim caps were photographed jumping into the pool?",
+            "options": [
+                "A. None",
+                "B. One",
+                "C. Two",
+                "D. Three"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_37": {
+            "id": "913JhnW28U4_37",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Are there subtitles in the video?",
+            "options": [
+                "A. Always",
+                "B. No",
+                "C. Only at specific times",
+                "D. Only at the beginning"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_38": {
+            "id": "913JhnW28U4_38",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "How does the scene perspective change?",
+            "options": [
+                "A. The perspective shifts from a view above the water to a view underwater.",
+                "B. The perspective shifts from a close-up of the audience to viewing the officials.",
+                "C. The perspective shifts from focusing on the officials to viewing the audience.",
+                "D. The perspective shifts from an underwater view to a view above the water."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_39": {
+            "id": "913JhnW28U4_39",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What information does the text label in the scene provide?",
+            "options": [
+                "A. 'Men’s 100m Freestyle'",
+                "B. 'Swimming Finals'",
+                "C. 'Men’s 200m Freestyle'",
+                "D. '100m Butterfly'"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_40": {
+            "id": "913JhnW28U4_40",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What does the text label in the scene's competition look like?",
+            "options": [
+                "A. White font, blue opaque background.",
+                "B. Black font, blue transparent background.",
+                "C. Red font, blue opaque background.",
+                "D. White font, red opaque background."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_41": {
+            "id": "913JhnW28U4_41",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What perspective does the scene transition to at the beginning?",
+            "options": [
+                "A. The scene transitions to a water-level perspective.",
+                "B. The scene transitions to a wide-angle aerial shot of the competition.",
+                "C. The scene transitions to a close-up of the audience.",
+                "D. The scene transitions to a static shot of the pool scoreboard."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_42": {
+            "id": "913JhnW28U4_42",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the main highlight in the scene?",
+            "options": [
+                "A. The powerful strokes of the athlete.",
+                "B. The main focus is on the color of the swimsuit.",
+                "C. The audience's reaction is the main highlight.",
+                "D. The emphasis is on the advertisements around the pool."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_43": {
+            "id": "913JhnW28U4_43",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the event scene depicted in the scenario?",
+            "options": [
+                "A. The scene is a professional swimming competition environment.",
+                "B. The event is a casual beach party.",
+                "C. The scene is a local community swimming pool.",
+                "D. The environment is an indoor swimming practice venue."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_44": {
+            "id": "913JhnW28U4_44",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What are the notable characteristics of the swimmer with the red cap?",
+            "options": [
+                "A. The swimmer with the red cap stands out with fast and smooth freestyle strokes.",
+                "B. The swimmer with the red cap frequently stops during the race to adjust the swimming cap.",
+                "C. The swimmer with the red cap is far ahead of other competitors in the race.",
+                "D. The swimmer with the red cap struggles to keep up with other participants."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_45": {
+            "id": "913JhnW28U4_45",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Which description of the sponsored advertisement in the scene is correct?",
+            "options": [
+                "A. The scene shows both Chinese and English sponsored advertisements.",
+                "B. There are no visible sponsored advertisements in the scene.",
+                "C. The scene only displays English sponsored advertisements.",
+                "D. The sponsored advertisements in the video are blurry and unrecognizable."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_46": {
+            "id": "913JhnW28U4_46",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What are the prominent banners in the scene?",
+            "options": [
+                "A. Baden, Adidas, and Go Swimming",
+                "B. Banners from multiple swimwear companies",
+                "C. WORLD, Nongfu Spring, and other sponsor banners",
+                "D. Banners with motivational quotes and swimmer statistics"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_47": {
+            "id": "913JhnW28U4_47",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What are the prominently visible graphic overlays in the scene?",
+            "options": [
+                "A. Graphic overlays with real-time updates",
+                "B. Graphic overlays with historical match data",
+                "C. Graphic overlays with weather information",
+                "D. Graphic overlays with audience reactions"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_48": {
+            "id": "913JhnW28U4_48",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many swimmers are mentioned in the scene?",
+            "options": [
+                "A. Two swimmers",
+                "B. Four swimmers",
+                "C. Six swimmers",
+                "D. Eight swimmers"
+            ],
+            "answer": "D"
+        },
+        "913JhnW28U4_49": {
+            "id": "913JhnW28U4_49",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Is the detailed information of the match displayed on the screen?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only at the beginning",
+                "D. Only at the end"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_50": {
+            "id": "913JhnW28U4_50",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Will the track and player information be displayed during the competition?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Occasionally",
+                "D. Only at the end"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_51": {
+            "id": "913JhnW28U4_51",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What type of shot was used in the second half of the scene?",
+            "options": [
+                "A. Close-up shot.",
+                "B. Wide-angle shot.",
+                "C. Slow-motion shot.",
+                "D. Zoom-in shot."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_52": {
+            "id": "913JhnW28U4_52",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What information does the graphic overlay provide?",
+            "options": [
+                "A. The graphic overlay provides real-time information such as the participant's name, country, ranking, etc.",
+                "B. The graphic overlay only provides the participant's name and country information during the competition.",
+                "C. The graphic overlay provides detailed information about the swimming techniques used by the participants.",
+                "D. The graphic overlay provides sponsor and advertisement information during the event."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_53": {
+            "id": "913JhnW28U4_53",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Where is the lane number displayed in the swimming pool?",
+            "options": [
+                "A. The lane number is displayed on the floating board above each lane.",
+                "B. The lane number is displayed on the side wall of the pool.",
+                "C. The lane number is displayed at the bottom of the pool.",
+                "D. The lane number is displayed on the swimmer's swim cap."
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_54": {
+            "id": "913JhnW28U4_54",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the national flag displayed at the swimming pool?",
+            "options": [
+                "A. The flag is displayed above each lane.",
+                "B. The flag is displayed on banners around the pool.",
+                "C. The flag is displayed on the swimmers' swimsuits.",
+                "D. The flag is displayed on the side walls of the pool."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_55": {
+            "id": "913JhnW28U4_55",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What is a staff member using during the competition?",
+            "options": [
+                "A. An official is using a clipboard.",
+                "B. An official is using a camera.",
+                "C. An official is using a stopwatch.",
+                "D. An official is using a tablet."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_56": {
+            "id": "913JhnW28U4_56",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What are the prominent features in the background of the event?",
+            "options": [
+                "A. Omega, Yakult, Myrtha Pools, 361° these logos",
+                "B. The national flags of the competing swimmers are hanging above the pool.",
+                "C. A large electronic screen displays live video of the competition.",
+                "D. A group of spectators waving flags and banners."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_57": {
+            "id": "913JhnW28U4_57",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many staff members are visible at the edge of the pool?",
+            "options": [
+                "A. Three",
+                "B. Six",
+                "C. Nine",
+                "D. Ten"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_58": {
+            "id": "913JhnW28U4_58",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Is the leaderboard located on the right side of the frame?",
+            "options": [
+                "A. Yes, the leaderboard is located on the right side of the frame.",
+                "B. No, the leaderboard is located on the left side of the frame.",
+                "C. Yes, the leaderboard alternates between the left and right sides of the frame.",
+                "D. No, the leaderboard is located at the bottom of the frame."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_59": {
+            "id": "913JhnW28U4_59",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "In the first half of the scene, which direction is the swimmer moving?",
+            "options": [
+                "A. The swimmer is moving toward the left side of the frame.",
+                "B. The swimmer is moving toward the top of the frame.",
+                "C. The swimmer is moving toward the right side of the frame.",
+                "D. The swimmer is moving toward the bottom of the frame."
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_60": {
+            "id": "913JhnW28U4_60",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "Where is the competition held?",
+            "options": [
+                "A. The competition is held in the swimming pool in the backyard.",
+                "B. The competition is held in a professional competition swimming pool.",
+                "C. The competition is held in a natural river environment.",
+                "D. The competition is held in a recreational water park."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_61": {
+            "id": "913JhnW28U4_61",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is Zhanle Pan in the scene?",
+            "options": [
+                "A. In the stands",
+                "B. By the poolside",
+                "C. In the locker room",
+                "D. Near the diving board"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_62": {
+            "id": "913JhnW28U4_62",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What does Zhanle Pan look like in the scene?",
+            "options": [
+                "A. Zhanle Pan's right arm is raised above the water, with droplets rolling down.",
+                "B. Zhanle Pan stands at the edge of the pool, raising both hands above his head, applauding the audience.",
+                "C. Zhanle Pan sits at the poolside, waving to the audience.",
+                "D. Zhanle Pan is underwater holding the lane divider, without making any celebratory gestures."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_63": {
+            "id": "913JhnW28U4_63",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many of Pan Zhanle's arms can be seen?",
+            "options": [
+                "A. One arm can be seen.",
+                "B. Two arms can be seen.",
+                "C. Three arms can be seen.",
+                "D. No arms can be seen."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_64": {
+            "id": "913JhnW28U4_64",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "Does Zhanle Pan's swim cap have any markings?",
+            "options": [
+                "A. Yes, Zhanle Pan's swim cap has the Chinese national flag.",
+                "B. No, Zhanle Pan's swim cap does not have any markings or special features.",
+                "C. Yes, Zhanle Pan's swim cap has the golden Olympic rings.",
+                "D. No, Zhanle Pan's swim cap only has text, no markings."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_65": {
+            "id": "913JhnW28U4_65",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What did Zhan Le Pan do with his head?",
+            "options": [
+                "A. His head tilted to shake off the water droplets.",
+                "B. His head submerged in the water.",
+                "C. His head leaned back to show fatigue.",
+                "D. His head remained still."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_66": {
+            "id": "913JhnW28U4_66",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of lens is used to capture Pan Zhanle?",
+            "options": [
+                "A. Wide-angle lens",
+                "B. Close-up lens",
+                "C. Long shot lens",
+                "D. Aerial lens"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_67": {
+            "id": "913JhnW28U4_67",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What was Zhanle Pan's result in the competition?",
+            "options": [
+                "A. Zhanle Pan's result was 47.53 seconds.",
+                "B. Zhanle Pan's result was 48.00 seconds.",
+                "C. Zhanle Pan's result was 46.75 seconds.",
+                "D. Zhanle Pan's result was 49.20 seconds."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_68": {
+            "id": "913JhnW28U4_68",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What updates are there on the leaderboard after Pan Zhanle's victory?",
+            "options": [
+                "A. The leaderboard reflects Pan Zhanle's timing results.",
+                "B. The leaderboard shows Pan Zhanle's world record.",
+                "C. The leaderboard only displays Pan Zhanle's name.",
+                "D. The leaderboard is changed to show details of the next event."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_69": {
+            "id": "913JhnW28U4_69",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Which overlay prominently displayed Pan Zhanle's victory?",
+            "options": [
+                "A. A blue overlay.",
+                "B. A red overlay.",
+                "C. A yellow overlay.",
+                "D. A green overlay."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_70": {
+            "id": "913JhnW28U4_70",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "How is the lighting effect in the video?",
+            "options": [
+                "A. The lighting is dim and full of ambiance.",
+                "B. The lighting is bright.",
+                "C. The lighting alternates between bright and dim.",
+                "D. The lighting is predominantly shadowy with some brightness."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_71": {
+            "id": "913JhnW28U4_71",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many swimmers can be seen in the pool?",
+            "options": [
+                "A. One swimmer",
+                "B. Two swimmers",
+                "C. Three swimmers",
+                "D. Four swimmers"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_72": {
+            "id": "913JhnW28U4_72",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Is the water in the pool still?",
+            "options": [
+                "A. Yes, the water in the pool is completely still.",
+                "B. No, the water in the pool has ripples and bubbles.",
+                "C. The water in the pool has been drained.",
+                "D. No, the water in the pool is turbulent and fluctuating."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_73": {
+            "id": "913JhnW28U4_73",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What change occurred in Pan Zhanle's posture?",
+            "options": [
+                "A. He looks relatively tense.",
+                "B. His posture became relatively stable and relaxed.",
+                "C. He started waving to the audience in celebration.",
+                "D. He jumped back into the water."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_74": {
+            "id": "913JhnW28U4_74",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the metal ladder located?",
+            "options": [
+                "A. The metal ladder is located on the left side of the screen.",
+                "B. The metal ladder is located on the right side of the screen.",
+                "C. The metal ladder is located in the center of the screen.",
+                "D. The metal ladder is not visible in the scene."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_75": {
+            "id": "913JhnW28U4_75",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "Where is the award ceremony held?",
+            "options": [
+                "A. The award ceremony is held in an indoor venue.",
+                "B. The award ceremony is held by the swimming pool.",
+                "C. The award ceremony is held in the square.",
+                "D. The award ceremony is held on campus."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_76": {
+            "id": "913JhnW28U4_76",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What jacket was Pan Zhanle wearing at the awards ceremony?",
+            "options": [
+                "A. A red and white sports jacket",
+                "B. A blue and gold formal jacket",
+                "C. A black suit",
+                "D. A plain white T-shirt"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_77": {
+            "id": "913JhnW28U4_77",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What accessory was Pan Zhanle wearing around his neck at the award ceremony?",
+            "options": [
+                "A. A gold medal",
+                "B. A silver medal",
+                "C. A blue ribbon",
+                "D. A red scarf"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_78": {
+            "id": "913JhnW28U4_78",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What headwear did Zhanle Pan wear during the award ceremony?",
+            "options": [
+                "A. Zhanle Pan wore a black hat.",
+                "B. Zhanle Pan wore a red hat.",
+                "C. Zhanle Pan did not wear any headwear.",
+                "D. Zhanle Pan wore a white hat."
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_79": {
+            "id": "913JhnW28U4_79",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "At the ceremony, what is the woman in dark blue clothing holding in her hand?",
+            "options": [
+                "A. A black tray with a doll.",
+                "B. A silver tray with a red velvet cushion.",
+                "C. A golden trophy with a blue ribbon.",
+                "D. A bouquet wrapped with a white ribbon."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_80": {
+            "id": "913JhnW28U4_80",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many athletes are visible in the scene?",
+            "options": [
+                "A. There is one athlete.",
+                "B. There are two athletes.",
+                "C. There are three athletes.",
+                "D. There are no athletes."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_81": {
+            "id": "913JhnW28U4_81",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is the background of the award ceremony blue?",
+            "options": [
+                "A. Yes, it is blue.",
+                "B. No, it is red.",
+                "C. No, it is white.",
+                "D. No, it is green."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_82": {
+            "id": "913JhnW28U4_82",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What did the athlete standing on the edge do?",
+            "options": [
+                "A. Raised their hand in salute.",
+                "B. Checked their watch.",
+                "C. Stayed in the same spot.",
+                "D. Signaled to the audience."
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_83": {
+            "id": "913JhnW28U4_83",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "At the end of the scene, in which direction does the official in the black suit move?",
+            "options": [
+                "A. The official in the black suit moves to the right side of the screen.",
+                "B. The official in the black suit moves to the left side of the screen.",
+                "C. The official in the black suit walks towards the podium.",
+                "D. The official in the black suit moves away from the podium."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_84": {
+            "id": "913JhnW28U4_84",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of photography lens was used to capture the interaction between Pan Zhanle and the officials?",
+            "options": [
+                "A. A close-up lens was used.",
+                "B. A wide-angle lens was used.",
+                "C. A medium shot lens was used.",
+                "D. An aerial lens was used."
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_85": {
+            "id": "913JhnW28U4_85",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What visual elements are in the background?",
+            "options": [
+                "A. The background includes the logos of 'Myrtha Pools', 'Yakult', and 'OMEGA'.",
+                "B. The background features a large image of Pan Zhanle swimming in the pool.",
+                "C. The background shows a digital timer.",
+                "D. The background includes bright stage lights and decorative balloons."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_86": {
+            "id": "913JhnW28U4_86",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is Zhanle Pan's position during the podium ceremony?",
+            "options": [
+                "A. Zhanle Pan is located at the center of the podium.",
+                "B. Zhanle Pan is located on the left side of the podium.",
+                "C. Zhanle Pan is located on the right side of the podium.",
+                "D. Zhanle Pan is not on the podium."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_87": {
+            "id": "913JhnW28U4_87",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the overall atmosphere of the award ceremony?",
+            "options": [
+                "A. The indoor lighting is bright.",
+                "B. The lighting is colorful.",
+                "C. Dynamic changing lights.",
+                "D. The lighting is dim."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_88": {
+            "id": "913JhnW28U4_88",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What did Alessandro Miressi wear at the ceremony?",
+            "options": [
+                "A. Alessandro Miressi wore a black and white tracksuit.",
+                "B. Alessandro Miressi wore a white jacket.",
+                "C. Alessandro Miressi wore a red and white jacket.",
+                "D. Alessandro Miressi wore a blue and white striped tracksuit."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_89": {
+            "id": "913JhnW28U4_89",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What markings are on Alessandro Miressi's outfit at the ceremony?",
+            "options": [
+                "A. It has 'UPCX' and 'MIRESSI' printed on it.",
+                "B. It has a tiger's head printed on it.",
+                "C. It features the Hungarian flag.",
+                "D. It has a stingray pattern on it."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_90": {
+            "id": "913JhnW28U4_90",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What does the plush toy mascot in the hands of the medal winners look like?",
+            "options": [
+                "A. The plush toy mascot looks like a smiling blue and white manta ray.",
+                "B. The plush toy mascot looks like a little brown bear.",
+                "C. The plush toy mascot looks like a green and yellow parrot.",
+                "D. The plush toy mascot looks like a red and white panda."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_91": {
+            "id": "913JhnW28U4_91",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many medalists are on the podium?",
+            "options": [
+                "A. There are two medalists on the podium.",
+                "B. There is one medalist on the podium.",
+                "C. There are four medalists on the podium.",
+                "D. There are three medalists on the podium."
+            ],
+            "answer": "D"
+        },
+        "913JhnW28U4_92": {
+            "id": "913JhnW28U4_92",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "Is Nandor Nemeth's jacket the same color as Zhanle Pan's?",
+            "options": [
+                "A. Yes, both jackets are red and white.",
+                "B. No, Nandor Nemeth's jacket is black and red.",
+                "C. No, Nandor Nemeth's jacket is blue and white.",
+                "D. No, Nandor Nemeth's jacket is white."
+            ],
+            "answer": "D"
+        },
+        "913JhnW28U4_93": {
+            "id": "913JhnW28U4_93",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "Which hand does Nandor Nemeth use to hold his bronze medal?",
+            "options": [
+                "A. Nandor Nemeth uses his left hand to hold his bronze medal.",
+                "B. Nandor Nemeth uses his right hand to hold his bronze medal.",
+                "C. Nandor Nemeth uses both hands to hold his bronze medal.",
+                "D. Nandor Nemeth does not hold his bronze medal at all."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_94": {
+            "id": "913JhnW28U4_94",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What was Zhan Leping's finish time in the race?",
+            "options": [
+                "A. 47.53 seconds",
+                "B. 47.72 seconds",
+                "C. 47.78 seconds",
+                "D. 48.05 seconds"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_95": {
+            "id": "913JhnW28U4_95",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Which text in the foreground provides information about the competition?",
+            "options": [
+                "A. 'Podium - Men’s 100m Freestyle', 'DOHA 2024'",
+                "B. 'World Aquatics Championships' and '47.53'",
+                "C. 'Yakult', 'Myrtha Pools', 'OMEGA'",
+                "D. 'Asian Freestyle Swimming Championships'"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_96": {
+            "id": "913JhnW28U4_96",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the contestant focused on at the beginning of the scene?",
+            "options": [
+                "A. Adjusting his outfit and badge.",
+                "B. Waving to the crowd and audience.",
+                "C. Placing the medal on the podium.",
+                "D. Talking to the silver medalist."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_97": {
+            "id": "913JhnW28U4_97",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What did Zhanle Pan do immediately after the competition ended?",
+            "options": [
+                "A. Zhanle Pan immediately left the podium to talk to reporters.",
+                "B. Zhanle Pan initially recovered his strength in the pool.",
+                "C. Zhanle Pan waved to the audience and handed the trophy to his teammate.",
+                "D. Zhanle Pan quickly changed into formal attire and re-entered the pool area."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_98": {
+            "id": "913JhnW28U4_98",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What happened to Pan Zhanle at the award ceremony?",
+            "options": [
+                "A. Received a handshake, a gold medal, and held a plush toy mascot.",
+                "B. Did not receive any medals or other items.",
+                "C. Won a silver medal and held a bouquet of flowers.",
+                "D. Won a bronze medal and waved to the audience."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_99": {
+            "id": "913JhnW28U4_99",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What did the camera capture after the swimmer jumped into the pool?",
+            "options": [
+                "A. The camera captured the swimmer's underwater posture and movements.",
+                "B. The camera captured the audience cheering and clapping in the stands.",
+                "C. The camera focused on the scoreboard displaying the swimmer's jump time.",
+                "D. The camera zoomed in on the coach's reactions and strategies."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_100": {
+            "id": "913JhnW28U4_100",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why was Pan Zhanle prominently reported after the competition?",
+            "options": [
+                "A. Because he won the competition with a time of 47.53 seconds.",
+                "B. Because he broke the world record with a time of 48.00 seconds.",
+                "C. Because he won the popularity contest among athletes.",
+                "D. Because he celebrated on the podium with a unique dance."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_101": {
+            "id": "913JhnW28U4_101",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "According to the leaderboard, who was initially leading the race in the second half of the schedule?",
+            "options": [
+                "A. Zhanle Pan",
+                "B. Alessandro Miressi",
+                "C. Nandor Nemeth",
+                "D. The leaderboard does not show the initial leader."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_102": {
+            "id": "913JhnW28U4_102",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "According to the rankings, what is Alessandro Miressi's final position?",
+            "options": [
+                "A. Alessandro Miressi won first place.",
+                "B. Alessandro Miressi won second place.",
+                "C. Alessandro Miressi won third place.",
+                "D. Alessandro Miressi won fourth place."
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_103": {
+            "id": "913JhnW28U4_103",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "According to the rankings, what is Nandor Nemeth's final position?",
+            "options": [
+                "A. Nandor Nemeth won first place.",
+                "B. Nandor Nemeth won second place.",
+                "C. Nandor Nemeth won third place.",
+                "D. Nandor Nemeth did not make it to the podium."
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_104": {
+            "id": "913JhnW28U4_104",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the first segment of the award ceremony?",
+            "options": [
+                "A. Zhanle Pan receives his gold medal and shakes hands with an official.",
+                "B. Alessandro Miressi receives his silver medal and quietly appreciates.",
+                "C. To honor Zhanle Pan, the Chinese national anthem is played.",
+                "D. Nandor Nemeth steps onto the podium to receive his bronze medal."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_105": {
+            "id": "913JhnW28U4_105",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after Zhanle Pan receives the gold medal?",
+            "options": [
+                "A. The camera captures his victorious pose holding the medal and plush mascot.",
+                "B. He immediately leaves the podium to celebrate with the team.",
+                "C. He gives a speech thanking supporters and family.",
+                "D. He exchanges medals with Nandor Nemeth as a gesture of friendship."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_106": {
+            "id": "913JhnW28U4_106",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the final segment of the awards ceremony?",
+            "options": [
+                "A. Taking a group photo with all three medalists.",
+                "B. Playing the national anthem of the gold medalist's country.",
+                "C. Athletes giving speeches about their competition experience.",
+                "D. Special guests presenting medals to the athletes."
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_107": {
+            "id": "913JhnW28U4_107",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happened after the swimmer jumped into the pool?",
+            "options": [
+                "A. The swimmer paused briefly to calm the audience.",
+                "B. Due to a false start, the race ended immediately.",
+                "C. The camera captured both above and underwater views of the race.",
+                "D. The swimmer performed synchronized movements for a ceremonial display."
+            ],
+            "answer": "C"
+        }
+    }
+}

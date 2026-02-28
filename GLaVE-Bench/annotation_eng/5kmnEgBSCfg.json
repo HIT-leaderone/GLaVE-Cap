@@ -1,0 +1,2453 @@
+{
+    "scene_hint": {
+        "0": "Transition from a black background and video clips to 'CRITICAL BENCH.com'.",
+        "1": "Two people standing together.",
+        "2": "Two people doing step exercises.",
+        "3": "Two people doing incline push-ups.",
+        "4": "Two people doing split squats.",
+        "5": "Two people with legs on a chair, hands on the ground, alternating shoulder touches.",
+        "6": "Two people talking in front of a basketball court.",
+        "7": "A climber scaling a cliff, text displayed in the center.",
+        "8": "Firefighters fighting a fire, text displayed in the center.",
+        "9": "Nighttime football game footage, text displayed in the center.",
+        "10": "A muted grayscale scene, text displayed in the center.",
+        "11": "Construction site footage, text displayed in the center.",
+        "12": "Kettlebells in a gym, text displayed in the center.",
+        "13": "Adults and children standing by a lake, text displayed in the center.",
+        "14": "A person exercising, text displayed in the center.",
+        "15": "A close-up of a weathered face, text displayed in the center."
+    },
+    "qa": {
+        "5kmnEgBSCfg_0": {
+            "id": "5kmnEgBSCfg_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the deadlift scene located relative to the center artboard?",
+            "options": [
+                "A. Upper left.",
+                "B. Lower left.",
+                "C. Above.",
+                "D. Upper right."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_1": {
+            "id": "5kmnEgBSCfg_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the environment depicted in the video clip?",
+            "options": [
+                "A. Indoor gym.",
+                "B. Outdoor park.",
+                "C. Swimming pool area.",
+                "D. Residential living room."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_2": {
+            "id": "5kmnEgBSCfg_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What are the people on the screen in the upper right corner of the central panel doing?",
+            "options": [
+                "A. Bench press.",
+                "B. Attending a group fitness class.",
+                "C. Exercising with equipment and benches.",
+                "D. Doing deadlifts with a barbell."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_3": {
+            "id": "5kmnEgBSCfg_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Are there any visible text elements in the scene?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. Only the latter part of the scene has text.",
+                "D. Visible but not clear."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_4": {
+            "id": "5kmnEgBSCfg_4",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is there any panel showing someone facing to the right?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. Facing to the left.",
+                "D. Facing forward."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_5": {
+            "id": "5kmnEgBSCfg_5",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "How does the scene change as the plot develops?",
+            "options": [
+                "A. Show various fitness activities.",
+                "B. Transition to a weightlifting competition.",
+                "C. Remain dark and blurry.",
+                "D. Shift to outdoor sports scenes."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_6": {
+            "id": "5kmnEgBSCfg_6",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the screen showing the person wearing blue shorts?",
+            "options": [
+                "A. Top left corner",
+                "B. Top right corner",
+                "C. Bottom right corner",
+                "D. Center"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_7": {
+            "id": "5kmnEgBSCfg_7",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the environment like in the scene?",
+            "options": [
+                "A. High-tech interior.",
+                "B. Country style.",
+                "C. Minimalist style.",
+                "D. Outdoors."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_8": {
+            "id": "5kmnEgBSCfg_8",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What does the central display screen look like?",
+            "options": [
+                "A. A rectangular screen.",
+                "B. A circular screen.",
+                "C. A small square screen.",
+                "D. A triangular screen."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_9": {
+            "id": "5kmnEgBSCfg_9",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "Does this scene have a futuristic atmosphere?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Sometimes",
+                "D. Never"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_10": {
+            "id": "5kmnEgBSCfg_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What is the focus of the lens?",
+            "options": [
+                "A. The text 'CRITICAL BENCH.com'.",
+                "B. The person leaning on the bench.",
+                "C. The metal surface and edges.",
+                "D. The person lifting weights."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_11": {
+            "id": "5kmnEgBSCfg_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What does the graphical line on the central screen represent?",
+            "options": [
+                "A. Heart rate monitoring waveform.",
+                "B. Sound wave pattern.",
+                "C. Stock market trend.",
+                "D. Travel itinerary."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_12": {
+            "id": "5kmnEgBSCfg_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "How are the two men positioned relative to the black metal park bench?",
+            "options": [
+                "A. In front.",
+                "B. Sitting on the bench.",
+                "C. One in front, one behind.",
+                "D. Behind."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_13": {
+            "id": "5kmnEgBSCfg_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What kind of environment are the two people in?",
+            "options": [
+                "A. Outdoors.",
+                "B. Gym.",
+                "C. On the beach.",
+                "D. On the street."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_14": {
+            "id": "5kmnEgBSCfg_14",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the man on the left wearing?",
+            "options": [
+                "A. White T-shirt and blue shorts.",
+                "B. Sleeveless shirt and black shorts.",
+                "C. Red T-shirt and blue jeans.",
+                "D. Black shirt and white pants."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_15": {
+            "id": "5kmnEgBSCfg_15",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the posture of the person on the left?",
+            "options": [
+                "A. Standing, with hands naturally hanging down.",
+                "B. Standing, with hands on hips.",
+                "C. Sitting on a park bench.",
+                "D. Leaning against a wooden fence."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_16": {
+            "id": "5kmnEgBSCfg_16",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What kind of clothes is the man on the right wearing?",
+            "options": [
+                "A. Sleeveless shirt and black shorts.",
+                "B. T-shirt and bright blue shorts.",
+                "C. Vest and sweatpants.",
+                "D. Hoodie and jeans."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_17": {
+            "id": "5kmnEgBSCfg_17",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the posture of the man on the right?",
+            "options": [
+                "A. Standing with arms crossed.",
+                "B. Leaning on the bench.",
+                "C. Sitting on the bench.",
+                "D. Standing with hands on hips."
+            ],
+            "answer": "D"
+        },
+        "5kmnEgBSCfg_18": {
+            "id": "5kmnEgBSCfg_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the central theme established behind the two people?",
+            "options": [
+                "A. The basketball court with white lines.",
+                "B. The fence and trees.",
+                "C. The grass and shrubs.",
+                "D. The park bench."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_19": {
+            "id": "5kmnEgBSCfg_19",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many people are prominently standing in the center of the picture?",
+            "options": [
+                "A. One person",
+                "B. Two people",
+                "C. Three people",
+                "D. No one"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_20": {
+            "id": "5kmnEgBSCfg_20",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is there a wooden fence visible in the scene?",
+            "options": [
+                "A. Yes, there is a wooden fence running horizontally across the scene.",
+                "B. No, only a metal fence is visible.",
+                "C. No, there is no fence visible in the scene.",
+                "D. Yes, but the fence is not wooden and is vertical."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_21": {
+            "id": "5kmnEgBSCfg_21",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What information helps identify the two people in the scene?",
+            "options": [
+                "A. The text 'CRITICAL BENCH.com' along with 'COACH CHRIS' and 'BRIAN KLEPACKI' at the bottom of the video.",
+                "B. There is a nameplate on the bench in the foreground with the names 'COACH CHRIS' and 'BRIAN KLEPACKI'.",
+                "C. There is a large poster on the white-lined basketball court with information about 'COACH CHRIS' and 'BRIAN KLEPACKI'.",
+                "D. These individuals are wearing name tags with the names 'COACH CHRIS' and 'BRIAN KLEPACKI'."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_22": {
+            "id": "5kmnEgBSCfg_22",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the style of the scene from the beginning?",
+            "options": [
+                "A. The scene transitioned from an abstract style, accompanied by rapidly moving horizontal lines, to a detailed and recognizable outdoor environment.",
+                "B. The scene transitioned from an indoor environment to an outdoor environment.",
+                "C. The scene transitioned from a nighttime setting with dim lighting to a bright daytime setting.",
+                "D. The scene transitioned from a crowded urban area to a quiet suburban space."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_23": {
+            "id": "5kmnEgBSCfg_23",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Which visual element provides information about the two men in the scene?",
+            "options": [
+                "A. The expressions on their faces.",
+                "B. The graphic banner at the bottom of the image.",
+                "C. The design of the basketball court.",
+                "D. The fence in the background."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_24": {
+            "id": "5kmnEgBSCfg_24",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the black metal bench located relative to the two people exercising?",
+            "options": [
+                "A. In front.",
+                "B. To the side.",
+                "C. In the background.",
+                "D. Behind the fence."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_25": {
+            "id": "5kmnEgBSCfg_25",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the scene of the video?",
+            "options": [
+                "A. Park",
+                "B. Gym.",
+                "C. On the beach.",
+                "D. Clearing in the forest."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_26": {
+            "id": "5kmnEgBSCfg_26",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the man wearing a light gray T-shirt and bright blue shorts doing?",
+            "options": [
+                "A. Jumping onto a bench.",
+                "B. Sitting on a bench.",
+                "C. Doing a yoga pose.",
+                "D. Walking."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_27": {
+            "id": "5kmnEgBSCfg_27",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What does the black metal bench in this scene look like?",
+            "options": [
+                "A. Located in the center.",
+                "B. Invisible.",
+                "C. Broken.",
+                "D. Has fitness equipment on it."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_28": {
+            "id": "5kmnEgBSCfg_28",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What is the role of the black metal bench in the scene?",
+            "options": [
+                "A. A place to rest during exercise breaks.",
+                "B. Used for jumping and other movements.",
+                "C. Used as a decorative element.",
+                "D. Used for stretching exercises."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_29": {
+            "id": "5kmnEgBSCfg_29",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many men are exercising in the video?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_30": {
+            "id": "5kmnEgBSCfg_30",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "During the exercise, are the men's movements synchronized?",
+            "options": [
+                "A. Yes, the men's movements are highly synchronized during the exercise.",
+                "B. No, the men independently perform different exercises.",
+                "C. Yes, although occasionally one man takes a break.",
+                "D. No, the men's movements are completely uncoordinated."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_31": {
+            "id": "5kmnEgBSCfg_31",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What coordinated actions did the two men perform during the workout?",
+            "options": [
+                "A. Alternating sprints.",
+                "B. Synchronized jumping jacks.",
+                "C. Jumping onto a bench and then back to the ground.",
+                "D. One-handed push-ups."
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_32": {
+            "id": "5kmnEgBSCfg_32",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "Which direction do the men jump onto the long bench?",
+            "options": [
+                "A. Jumping downward.",
+                "B. Jumping sideways.",
+                "C. Jumping forward and upward.",
+                "D. Jumping backward."
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_33": {
+            "id": "5kmnEgBSCfg_33",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What type of camera shot is used in the video?",
+            "options": [
+                "A. Fixed, eye-level shot.",
+                "B. Dynamic rotating shot.",
+                "C. Bird's-eye view shot.",
+                "D. Low-angle shot."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_34": {
+            "id": "5kmnEgBSCfg_34",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "Which background elements help identify a fitness venue as a park?",
+            "options": [
+                "A. Green basketball court, white wooden fence, grass.",
+                "B. Beach, palm trees, ocean, and sunset.",
+                "C. Green basketball court, blue wooden fence, red tile pavilion, and artificial lighting.",
+                "D. Gym interior, ceiling fan, and fluorescent lights."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_35": {
+            "id": "5kmnEgBSCfg_35",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "During the exercise, what is the relative position of these two men?",
+            "options": [
+                "A. They do synchronized inclined push-ups back to back.",
+                "B. They do synchronized inclined push-ups face to face.",
+                "C. They do synchronized inclined push-ups side by side.",
+                "D. They do synchronized inclined push-ups one in front of the other."
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_36": {
+            "id": "5kmnEgBSCfg_36",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "Where does this scene take place?",
+            "options": [
+                "A. Park.",
+                "B. Gym.",
+                "C. Beach.",
+                "D. Residential backyard."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_37": {
+            "id": "5kmnEgBSCfg_37",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "How is the environment in the park?",
+            "options": [
+                "A. Vegetation, benches, basketball court with white lines, white wooden fence, trees.",
+                "B. Vegetation, wooden picnic tables, basketball court with bright yellow lines, a brick wall, trees, pavilion, artificial light.",
+                "C. Vegetation, metal benches, soccer field marked with red lines, chain-link fence, shrubs, pavilion, sunlight.",
+                "D. Trees, concrete benches, tennis court with blue lines, metal gate, flower beds, moonlight."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_38": {
+            "id": "5kmnEgBSCfg_38",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What action is the man in the video doing?",
+            "options": [
+                "A. Synchronized diagonal push-ups.",
+                "B. Playing basketball.",
+                "C. Practicing yoga poses.",
+                "D. Jogging."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_39": {
+            "id": "5kmnEgBSCfg_39",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What are the two people wearing in the video?",
+            "options": [
+                "A. The man on the right is wearing a T-shirt and bright blue shorts, while the man on the left is wearing a sleeveless shirt and black shorts.",
+                "B. Both men are wearing plain white T-shirts and bright blue athletic shorts.",
+                "C. The man on the right is wearing a sleeveless shirt and black shorts, while the man on the left is wearing a T-shirt and bright blue shorts.",
+                "D. Both men are wearing orange sleeveless shirts and black shorts."
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_40": {
+            "id": "5kmnEgBSCfg_40",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What does the bench look like?",
+            "options": [
+                "A. Black metal.",
+                "B. White wood.",
+                "C. Green plastic.",
+                "D. Brown wood."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_41": {
+            "id": "5kmnEgBSCfg_41",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is the purpose of the bench for these men?",
+            "options": [
+                "A. It is used for support.",
+                "B. It is used as a place to sit and rest.",
+                "C. It serves as a landmark for the game.",
+                "D. It is where they place their water bottles."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_42": {
+            "id": "5kmnEgBSCfg_42",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many people participated in this exercise program?",
+            "options": [
+                "A. One person",
+                "B. Two people",
+                "C. Three people",
+                "D. Four people"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_43": {
+            "id": "5kmnEgBSCfg_43",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Is there a basketball court in the scene?",
+            "options": [
+                "A. Yes, there is a basketball court in the scene.",
+                "B. No, there is no basketball court in the scene.",
+                "C. It's unclear whether there is a basketball court in the scene.",
+                "D. There is only a tennis court in the scene."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_44": {
+            "id": "5kmnEgBSCfg_44",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What adjustment did the man on the right make to his posture while exercising?",
+            "options": [
+                "A. Bent his elbows, keeping his arms stationary.",
+                "B. Straightened his arms and stepped back away from the bench to adjust his posture.",
+                "C. Looked up at the sky to adjust his posture.",
+                "D. Shifted his weight onto one hand while lifting the other hand off the bench to adjust his posture."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_45": {
+            "id": "5kmnEgBSCfg_45",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used in the video?",
+            "options": [
+                "A. Eye-level shot.",
+                "B. Overhead shot.",
+                "C. Close-up shot.",
+                "D. Low-angle shot."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_46": {
+            "id": "5kmnEgBSCfg_46",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements in the video highlight the environment of the scene?",
+            "options": [
+                "A. Green spaces, basketball court, fence, trees, pavilion.",
+                "B. City skyline, roads, and skyscrapers.",
+                "C. Beach, waves, and seagulls.",
+                "D. Snow-covered hills, icicles, and frozen pond."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_47": {
+            "id": "5kmnEgBSCfg_47",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "In the early scene, what is the person wearing a bright orange sleeveless shirt doing?",
+            "options": [
+                "A. Right leg bent forward, left leg stretched back.",
+                "B. He is standing on the rubber path by the wooden stump in the forest.",
+                "C. He is sitting on a black metal bench with both legs straightened.",
+                "D. He is lying on the neatly trimmed grass under the tree."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_48": {
+            "id": "5kmnEgBSCfg_48",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "In the early scene, where is the right leg of the man wearing a bright orange sleeveless shirt?",
+            "options": [
+                "A. On the black metal long bench.",
+                "B. Stretched forward towards the basketball court.",
+                "C. On the ground.",
+                "D. Stretched upward towards the trees."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_49": {
+            "id": "5kmnEgBSCfg_49",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of this scene?",
+            "options": [
+                "A. Gym, with bright neon lights and fitness equipment.",
+                "B. In a dense forest, with no visible buildings or paths.",
+                "C. In a park, with courtyards, paths, large trees, roads, and white buildings.",
+                "D. Near the beach, with sand, palm trees, and waves in the background."
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_50": {
+            "id": "5kmnEgBSCfg_50",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is the man in the bright orange sleeveless shirt doing?",
+            "options": [
+                "A. Performing Bulgarian split squats.",
+                "B. Doing push-ups.",
+                "C. Jogging.",
+                "D. Doing jumping jacks."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_51": {
+            "id": "5kmnEgBSCfg_51",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is the person on the right wearing?",
+            "options": [
+                "A. Orange sleeveless shirt, dark shorts, and orange shoes.",
+                "B. White T-shirt, blue shorts, and black shoes.",
+                "C. Black tank top, gray shorts, and white sneakers.",
+                "D. Sleeveless shirt, black pants, and black shoes."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_52": {
+            "id": "5kmnEgBSCfg_52",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What is the purpose of the black metal bench in this scene?",
+            "options": [
+                "A. Sit down and observe the exercise process.",
+                "B. Used as a decoration.",
+                "C. Provides support for doing Bulgarian split squats.",
+                "D. Used to place fitness equipment."
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_53": {
+            "id": "5kmnEgBSCfg_53",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many people are in the scene?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_54": {
+            "id": "5kmnEgBSCfg_54",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is the man in the white T-shirt exercising?",
+            "options": [
+                "A. Yes, he is exercising.",
+                "B. No, he is not exercising.",
+                "C. He is stretching.",
+                "D. He is running in the background."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_55": {
+            "id": "5kmnEgBSCfg_55",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "Is the person wearing the white T-shirt observing or participating?",
+            "options": [
+                "A. Participating.",
+                "B. Observing.",
+                "C. Actively leading the exercise activity.",
+                "D. Just passing by, not participating."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_56": {
+            "id": "5kmnEgBSCfg_56",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "In the later stage of the split squat, what is the position of the man wearing the orange sleeveless shirt's legs?",
+            "options": [
+                "A. Both legs are bent forward.",
+                "B. His left leg is bent forward, and his right leg is extended backward.",
+                "C. His right leg is bent forward, and his left leg is extended backward.",
+                "D. Both legs are extended backward."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_57": {
+            "id": "5kmnEgBSCfg_57",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of lens should be used to capture this scene?",
+            "options": [
+                "A. Eye-level shot.",
+                "B. High-angle shot.",
+                "C. Low-angle shot.",
+                "D. Bird's-eye view shot."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_58": {
+            "id": "5kmnEgBSCfg_58",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "In the Bulgarian split squat, how did this man's movement intensify?",
+            "options": [
+                "A. He switched legs to continue the split squat.",
+                "B. He transitioned from a squat to a lunge.",
+                "C. He reduced the depth of the squat.",
+                "D. He performed the squat movement faster."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_59": {
+            "id": "5kmnEgBSCfg_59",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "Where are the fitness classes held?",
+            "options": [
+                "A. At the gym",
+                "B. In the park",
+                "C. On the beach",
+                "D. In the home gym"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_60": {
+            "id": "5kmnEgBSCfg_60",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What are the characteristics of the person wearing an orange sleeveless sports shirt during the workout?",
+            "options": [
+                "A. Wearing black shorts and orange shoes.",
+                "B. Wearing a white sleeveless top with blue stripes.",
+                "C. Wearing a dark green vest.",
+                "D. Wearing a bright yellow long-sleeve T-shirt."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_61": {
+            "id": "5kmnEgBSCfg_61",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What activity is the man in the orange sleeveless sports top doing while exercising?",
+            "options": [
+                "A. Legs on a chair, hands on the ground, alternating shoulder taps.",
+                "B. He performs Bulgarian split squats, runs in place, then transitions to jumping jacks.",
+                "C. He does diagonal bicep curls, adjusts to a plank, and finally performs lunges.",
+                "D. He starts with a bench press, then does tricep dips, and finally performs squats."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_62": {
+            "id": "5kmnEgBSCfg_62",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many people were observed doing the push-up position on the ground while alternating shoulder taps at the beginning?",
+            "options": [
+                "A. One person",
+                "B. Two people",
+                "C. Three people",
+                "D. Four people"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_63": {
+            "id": "5kmnEgBSCfg_63",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "During the practice where the expert supports on the ground and alternately touches the shoulders, what changes occurred later?",
+            "options": [
+                "A. The man in the orange shirt adjusted to a standing position while guiding the man in the white T-shirt.",
+                "B. The man in the white T-shirt began supporting himself on the bench with his legs to practice hand support on the ground and alternately touching the shoulders, with no changes.",
+                "C. The man in the orange shirt was replaced by another person, and the newcomer continued practicing with the man in the white T-shirt.",
+                "D. The two switched to a new exercise, doing jumping jacks on a green mat."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_64": {
+            "id": "5kmnEgBSCfg_64",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "During the exercise, did the participants change?",
+            "options": [
+                "A. No.",
+                "B. Yes, one of them was replaced.",
+                "C. Yes, both were replaced.",
+                "D. No, but they swapped roles."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_65": {
+            "id": "5kmnEgBSCfg_65",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "How does the man in the white shirt temporarily support his weight during exercise?",
+            "options": [
+                "A. Alternately support with both hands, while both feet are supported on the chair.",
+                "B. Rely on the left leg to support the weight, while both hands are off the ground.",
+                "C. He stands firmly with both feet and places both hands on the bench to maintain stability.",
+                "D. He uses his right arm to support his body while both feet are firmly on the mat."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_66": {
+            "id": "5kmnEgBSCfg_66",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "How does the man in the orange top adjust his posture during the exercise?",
+            "options": [
+                "A. Alternately supporting the body with both hands.",
+                "B. Removing legs from the bench and performing a full-body plank.",
+                "C. Changing positions to stand up and do jumping jacks.",
+                "D. Leaning to the side for a side stretch."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_67": {
+            "id": "5kmnEgBSCfg_67",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "During the exercise, how does the man in the white shirt change his posture?",
+            "options": [
+                "A. Alternately supports his body with his hands.",
+                "B. Moves his left leg onto the bench and turns around.",
+                "C. Switches to a different exercise that includes jumping jacks.",
+                "D. Stops exercising and starts stretching instead."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_68": {
+            "id": "5kmnEgBSCfg_68",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Throughout the workout session, which visual elements are consistent?",
+            "options": [
+                "A. Natural lighting and consistent camera angles",
+                "B. Bright neon workout clothes and constantly changing scenes",
+                "C. Frequently changing camera focus and dim lighting",
+                "D. Variable lighting and constantly changing camera angles"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_69": {
+            "id": "5kmnEgBSCfg_69",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "Where did the interaction between the two people take place?",
+            "options": [
+                "A. Gymnasium.",
+                "B. Basketball court.",
+                "C. Classroom.",
+                "D. Parking lot."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_70": {
+            "id": "5kmnEgBSCfg_70",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the scene of interaction between the two men?",
+            "options": [
+                "A. Outdoor basketball court.",
+                "B. Gym.",
+                "C. Beach.",
+                "D. Forest trail."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_71": {
+            "id": "5kmnEgBSCfg_71",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the environment around the basketball court like?",
+            "options": [
+                "A. Like a park.",
+                "B. Indoor sports hall.",
+                "C. City streets.",
+                "D. Seaside area."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_72": {
+            "id": "5kmnEgBSCfg_72",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What is the behavior of the man in the white T-shirt during the interaction?",
+            "options": [
+                "A. Focused on his own workout.",
+                "B. Transitioned from workout mode to a conversational stance.",
+                "C. Adjusted his workout equipment.",
+                "D. Prepared to leave the scene."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_73": {
+            "id": "5kmnEgBSCfg_73",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What are the physical characteristics of the man in the white T-shirt during the interaction?",
+            "options": [
+                "A. Wearing bright blue athletic shorts and a T-shirt that says 'CRITICAL BENCH.com'.",
+                "B. Wearing black shorts and a white T-shirt that says 'SPORTS.com'.",
+                "C. Wearing red athletic shorts and a sleeveless top that says 'ACTIVEWEAR.com'.",
+                "D. Wearing blue jeans and a gray T-shirt that says 'OUTDOORS.com'."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_74": {
+            "id": "5kmnEgBSCfg_74",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What is the website displayed on the light gray T-shirt?",
+            "options": [
+                "A. CRITICAL BENCH.com",
+                "B. cryptological.com",
+                "C. htt25wwwcrypto.com",
+                "D. apocalyptical.com"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_75": {
+            "id": "5kmnEgBSCfg_75",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many people are interacting in the scene?",
+            "options": [
+                "A. Two.",
+                "B. Three.",
+                "C. Four.",
+                "D. One."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_76": {
+            "id": "5kmnEgBSCfg_76",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Is the interaction between the two men static and unchanging?",
+            "options": [
+                "A. Yes, the interaction is static.",
+                "B. No, the posture is constantly changing.",
+                "C. Yes, the interaction remains consistent.",
+                "D. No, the interaction only involves physical activity."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_77": {
+            "id": "5kmnEgBSCfg_77",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the man in the orange sleeveless shirt take to indicate a pause or change in tone?",
+            "options": [
+                "A. Hands on hips.",
+                "B. Arms crossed over chest.",
+                "C. Sat down on the ground to rest.",
+                "D. Turned his back to his companions and looked at the scenery."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_78": {
+            "id": "5kmnEgBSCfg_78",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "Which direction is the man in the white T-shirt extending his left arm?",
+            "options": [
+                "A. Extending forward.",
+                "B. Extending the right arm forward.",
+                "C. Extending to the side.",
+                "D. Extending the right arm to the side."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_79": {
+            "id": "5kmnEgBSCfg_79",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "How does the camera capture the environment of the scene?",
+            "options": [
+                "A. The camera captured a broader view of the environment.",
+                "B. The camera focused only on the two men.",
+                "C. The camera captured a close-up of the pavilion roof.",
+                "D. The camera focused on the text on the man's T-shirt."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_80": {
+            "id": "5kmnEgBSCfg_80",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "From the picture, where is the climber's position?",
+            "options": [
+                "A. At the top.",
+                "B. On the left side.",
+                "C. On the right side.",
+                "D. In the middle."
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_81": {
+            "id": "5kmnEgBSCfg_81",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "Where is the promotional element relative to the climber's position?",
+            "options": [
+                "A. On the same side above him.",
+                "B. On the same side below him.",
+                "C. To his left.",
+                "D. On the cliff on the other side."
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_82": {
+            "id": "5kmnEgBSCfg_82",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the scene environment after the transition?",
+            "options": [
+                "A. Rocky cliffs, forest, cloudy.",
+                "B. Beach, waves, and sunny.",
+                "C. City streets, skyscrapers, and heavy traffic.",
+                "D. Grassland, with flowers and sunshine."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_83": {
+            "id": "5kmnEgBSCfg_83",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "In the post-production of the scene, what is the appearance and action of the man on the left on the basketball court?",
+            "options": [
+                "A. Tying his shoelaces on the basketball court.",
+                "B. Wearing a sleeveless shirt, standing with hands on his hips.",
+                "C. Dribbling intensely.",
+                "D. Sitting on the bench next to the basketball court."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_84": {
+            "id": "5kmnEgBSCfg_84",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What does the appearance and actions of the man on the right look like?",
+            "options": [
+                "A. Arms bent, communicating with the person next to him.",
+                "B. Sitting on the sidelines watching the game.",
+                "C. Actively dribbling.",
+                "D. Jogging on the basketball court."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_85": {
+            "id": "5kmnEgBSCfg_85",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "In the new adventure scenario, what are the notable safety items?",
+            "options": [
+                "A. Climber's harness and rope",
+                "B. Safety helmet and gloves",
+                "C. Protective cage and safety net",
+                "D. Life buoy and emergency light"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_86": {
+            "id": "5kmnEgBSCfg_86",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What interactive elements are displayed in the new adventure scene?",
+            "options": [
+                "A. A big red button with the text 'CLICK HERE'",
+                "B. A blue box with the text 'PRESS THIS'",
+                "C. A yellow sign with the text 'PUSH NOW'",
+                "D. A green banner with the label 'TOUCH ME'"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_87": {
+            "id": "5kmnEgBSCfg_87",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many people are on the basketball court?",
+            "options": [
+                "A. One person",
+                "B. Two people",
+                "C. Three people",
+                "D. Four people"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_88": {
+            "id": "5kmnEgBSCfg_88",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "Is the basketball court surrounded by city buildings?",
+            "options": [
+                "A. Yes, surrounded by city buildings.",
+                "B. Yes, located in a highly urbanized area.",
+                "C. No, part of a city park, surrounded by tall buildings.",
+                "D. No, recreational facilities like wooden fences, red-roofed pavilions, and lush greenery."
+            ],
+            "answer": "D"
+        },
+        "5kmnEgBSCfg_89": {
+            "id": "5kmnEgBSCfg_89",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is this climber doing?",
+            "options": [
+                "A. Climbing a vertical cliff face.",
+                "B. Standing at the top of the cliff.",
+                "C. Descending along the cliff.",
+                "D. Resting at the bottom of the cliff."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_90": {
+            "id": "5kmnEgBSCfg_90",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What visual cue contrasts with the natural scenery in the cliff background?",
+            "options": [
+                "A. Bold text 'STOP LOW T-LEVELS' and a big red button labeled 'CLICK HERE'.",
+                "B. The lush green forest on the left.",
+                "C. The pale cloudy sky.",
+                "D. The climber's blue shirt and dark pants."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_91": {
+            "id": "5kmnEgBSCfg_91",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "Where is the forest located compared to the climber?",
+            "options": [
+                "A. To the left.",
+                "B. Above.",
+                "C. To the right.",
+                "D. Below."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_92": {
+            "id": "5kmnEgBSCfg_92",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What is the initial environment in the video scene?",
+            "options": [
+                "A. Firefighting scene",
+                "B. Cityscape.",
+                "C. Beach.",
+                "D. Suburban neighborhood."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_93": {
+            "id": "5kmnEgBSCfg_93",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What do the climbers in the video look like?",
+            "options": [
+                "A. Blue shirt, dark pants, wearing a climbing harness.",
+                "B. Red jacket, black shorts, wearing hiking boots.",
+                "C. White T-shirt, gray pants, wearing a safety vest.",
+                "D. Green shirt, beige pants, carrying a backpack."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_94": {
+            "id": "5kmnEgBSCfg_94",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the climber in the video doing?",
+            "options": [
+                "A. Resting and overlooking the forest.",
+                "B. Climbing the cliff.",
+                "C. Camping at the bottom of the cliff.",
+                "D. Preparing equipment at the bottom of the cliff."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_95": {
+            "id": "5kmnEgBSCfg_95",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "What color uniform do firefighters wear?",
+            "options": [
+                "A. Traditional yellow firefighting suit with reflective safety stripes",
+                "B. Orange firefighting suit with green accents",
+                "C. Black firefighting suit with silver reflective stripes",
+                "D. Red firefighting suit with fluorescent green stripes"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_96": {
+            "id": "5kmnEgBSCfg_96",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What kind of helmet do firefighters wear?",
+            "options": [
+                "A. Helmet with fluorescent yellow decorations",
+                "B. Helmet with red stripes",
+                "C. Helmet with blue goggles",
+                "D. Pure black helmet"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_97": {
+            "id": "5kmnEgBSCfg_97",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "What other standard firefighting gear do firefighters wear?",
+            "options": [
+                "A. Also carries an oxygen tank.",
+                "B. Casual wear with a helmet.",
+                "C. Reflective vest and climbing safety harness.",
+                "D. Outdoor sports gear with neon yellow decorations."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_98": {
+            "id": "5kmnEgBSCfg_98",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many firefighters are extinguishing the fire?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_99": {
+            "id": "5kmnEgBSCfg_99",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "Is the promotional message 'STOP LOW T-LEVELS' visible throughout the entire scene?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. Yes, but with wording changes.",
+                "D. No, only visible at the beginning."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_100": {
+            "id": "5kmnEgBSCfg_100",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What is the firefighter on the left holding?",
+            "options": [
+                "A. Fire hose",
+                "B. An axe",
+                "C. A fire extinguisher",
+                "D. A chainsaw"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_101": {
+            "id": "5kmnEgBSCfg_101",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "Which direction is the firefighter on the left facing?",
+            "options": [
+                "A. Facing the thick smoke.",
+                "B. Back to the flames.",
+                "C. Facing the climber.",
+                "D. Facing the forest."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_102": {
+            "id": "5kmnEgBSCfg_102",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "What is the focus of the camera throughout the scene?",
+            "options": [
+                "A. Focus on key characters and text.",
+                "B. Focus on the sky and forest.",
+                "C. Focus on the background scenery, ignoring the action.",
+                "D. Focus on the firefighter's helmet."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_103": {
+            "id": "5kmnEgBSCfg_103",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "Which visual element remains consistent during the scene transition?",
+            "options": [
+                "A. The solo climber wearing a blue shirt and a safety harness",
+                "B. The distant forest",
+                "C. The text 'STOP LOW T-LEVELS' and the red 'CLICK HERE' button",
+                "D. The firefighter on the left holding a fire hose"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_104": {
+            "id": "5kmnEgBSCfg_104",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "Where is the position of the black-and-white color player on the field?",
+            "options": [
+                "A. Standing next to the black-and-gold color player.",
+                "B. Chasing the black-and-gold color player on the right side of the screen.",
+                "C. Sitting on the bench, watching the game.",
+                "D. Standing next to the goalpost."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_105": {
+            "id": "5kmnEgBSCfg_105",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What is the environment like for American football games?",
+            "options": [
+                "A. Played on grass.",
+                "B. Played on the beach.",
+                "C. Played on wooden floors.",
+                "D. Played on a track."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_106": {
+            "id": "5kmnEgBSCfg_106",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "What is the outfit of the player on the left?",
+            "options": [
+                "A. Black jersey, gold pants, and gold helmet.",
+                "B. White jersey, black pants, and black helmet.",
+                "C. Red jersey, gold pants, and black helmet.",
+                "D. Black jersey, white pants, and gold helmet."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_107": {
+            "id": "5kmnEgBSCfg_107",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "What is the player on the left doing on the field?",
+            "options": [
+                "A. Standing and observing the game.",
+                "B. Running quickly and participating in the game.",
+                "C. Arguing with the referee on the field.",
+                "D. Sitting on the bench and resting."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_108": {
+            "id": "5kmnEgBSCfg_108",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "How many players are the core of the game in a rugby match scene?",
+            "options": [
+                "A. Two",
+                "B. Three",
+                "C. Four",
+                "D. Five"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_109": {
+            "id": "5kmnEgBSCfg_109",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "Can you see advertisements on the screen?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only during halftime",
+                "D. Only on the scoreboard"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_110": {
+            "id": "5kmnEgBSCfg_110",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What does the advertisement above the venue look like?",
+            "options": [
+                "A. It says 'STOP LOW T-LEVELS', and there's a 'CLICK HERE' button.",
+                "B. It says 'BOOST YOUR ENERGY', and there's a phone number.",
+                "C. There's a sports logo and a website link.",
+                "D. It says 'GET FIT TODAY!', and there's a gym logo."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_111": {
+            "id": "5kmnEgBSCfg_111",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "What is the player wearing jersey number 58 doing?",
+            "options": [
+                "A. Chasing a player dressed in black and gold.",
+                "B. Standing still, observing the game.",
+                "C. Celebrating a touchdown.",
+                "D. Tackling a player dressed in black and gold."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_112": {
+            "id": "5kmnEgBSCfg_112",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "What is the position of the camera in a rugby game scene?",
+            "options": [
+                "A. The camera is positioned at eye level.",
+                "B. The camera shoots from an overhead perspective.",
+                "C. The camera shoots from the sideline perspective.",
+                "D. The camera shoots from behind the goalpost."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_113": {
+            "id": "5kmnEgBSCfg_113",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "When switching from a firefighting scene to an American football game, which visual element remains unchanged?",
+            "options": [
+                "A. With the words 'STOP LOW T-LEVELS'.",
+                "B. White jersey with the number '58', paired with white pants and a black helmet.",
+                "C. Thick smoke from the firefighting scene.",
+                "D. The black and gold uniform of the football player."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_114": {
+            "id": "5kmnEgBSCfg_114",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "Where is the advertisement placed in the video frame?",
+            "options": [
+                "A. Top center position.",
+                "B. Bottom left corner of the frame.",
+                "C. Top right corner of the first scene and bottom left corner of the second scene.",
+                "D. Center position of the frame in the second scene, limited to the second scene."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_115": {
+            "id": "5kmnEgBSCfg_115",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "How does the visual environment change between the two scenes?",
+            "options": [
+                "A. From an American football scene to a grayscale scene.",
+                "B. From a beach scene to a nighttime cityscape.",
+                "C. From a market to a deserted park at dusk.",
+                "D. From a carnival to a desolate street."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_116": {
+            "id": "5kmnEgBSCfg_116",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "In the first frame, what is unique about the player wearing the white jersey?",
+            "options": [
+                "A. He is the only one wearing white clothes.",
+                "B. He is the tallest player on the field.",
+                "C. He is the only one not moving dynamically during the game.",
+                "D. He is the only one wearing a red jersey."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_117": {
+            "id": "5kmnEgBSCfg_117",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "Has the text of the advertisement changed between the current frame and the previous frame?",
+            "options": [
+                "A. Yes, the text has become different information.",
+                "B. No, the text of the advertisement remains consistent between the two frames.",
+                "C. Yes, the text of the advertisement has changed, but the theme remains similar.",
+                "D. No, the text of the advertisement has been completely removed in the second frame."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_118": {
+            "id": "5kmnEgBSCfg_118",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "Did the advertisement change its style between the current frame and the previous frame?",
+            "options": [
+                "A. Yes, the advertisement completely changed its style between the two frames.",
+                "B. No, the style of the advertisement remained consistent between the two frames.",
+                "C. Yes, the advertisement became less noticeable in the second frame.",
+                "D. No, but the color of the advertisement changed in the second frame."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_119": {
+            "id": "5kmnEgBSCfg_119",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "What is the player wearing a black jersey and a gold helmet doing in the first frame?",
+            "options": [
+                "A. They are quietly standing and observing the game.",
+                "B. They are sitting on the sidelines watching the field.",
+                "C. They are dynamically running towards the audience or chasing actions.",
+                "D. They are gathered together discussing strategy."
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_120": {
+            "id": "5kmnEgBSCfg_120",
+            "scene": 9,
+            "dimension": "Object Direction",
+            "question": "Which direction is the player in the black jersey and gold helmet moving?",
+            "options": [
+                "A. Towards the camera",
+                "B. Away from the camera",
+                "C. To the left of the screen",
+                "D. To the right of the screen"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_121": {
+            "id": "5kmnEgBSCfg_121",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "How does the color scheme change from the previous frame to the current frame?",
+            "options": [
+                "A. The first frame is colorful and brightly lit, while the second frame has a low-saturation grayscale color scheme.",
+                "B. Both frames use a vibrant color scheme with bright lighting.",
+                "C. The first frame is grayscale, and the second frame transitions to a colorful scene.",
+                "D. The color schemes of both frames remain consistent, presented in bright and vivid colors."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_122": {
+            "id": "5kmnEgBSCfg_122",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "Where does the main scene take place?",
+            "options": [
+                "A. On a construction site.",
+                "B. In a grayscale office environment.",
+                "C. On city streets.",
+                "D. Inside a warehouse."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_123": {
+            "id": "5kmnEgBSCfg_123",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "What is the worker on the right wearing?",
+            "options": [
+                "A. Light blue jeans, white shirt, and red safety helmet.",
+                "B. Light blue jeans, white shirt, and yellow safety helmet.",
+                "C. Dark blue jeans, white shirt, and red safety helmet.",
+                "D. Light blue jeans, blue shirt, and red safety helmet."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_124": {
+            "id": "5kmnEgBSCfg_124",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "What operation is the worker on the right performing?",
+            "options": [
+                "A. He is standing on the metal frame, with his right arm extended, holding a wire or cable.",
+                "B. He is standing on the metal frame, checking the rebar with a serious expression.",
+                "C. He is beside the metal frame, painting the rebar.",
+                "D. He is sitting on the frame, thoughtfully observing the construction progress."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_125": {
+            "id": "5kmnEgBSCfg_125",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "At the construction site, which structure occupies the main position?",
+            "options": [
+                "A. Weathered templates with red accents",
+                "B. Large metal frames made of interconnected rebar",
+                "C. Towering cranes on the construction site",
+                "D. A pile of building materials"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_126": {
+            "id": "5kmnEgBSCfg_126",
+            "scene": 11,
+            "dimension": "Count",
+            "question": "How many workers are in the scene?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_127": {
+            "id": "5kmnEgBSCfg_127",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "Is the advertisement still visible in the transformed scene?",
+            "options": [
+                "A. Yes, in the middle of the screen.",
+                "B. No, it no longer exists.",
+                "C. Yes, at the bottom of the screen.",
+                "D. No, it has been replaced with a building-themed banner."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_128": {
+            "id": "5kmnEgBSCfg_128",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "What action are the workers near the center of the framework performing?",
+            "options": [
+                "A. Possibly holding tools or cables.",
+                "B. Sitting down to rest.",
+                "C. Talking with another worker.",
+                "D. Reading a document."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_129": {
+            "id": "5kmnEgBSCfg_129",
+            "scene": 11,
+            "dimension": "Object Direction",
+            "question": "Which direction is the worker on the right extending his arm?",
+            "options": [
+                "A. Extending his left arm outward.",
+                "B. Extending his right arm upward.",
+                "C. Extending his left arm downward.",
+                "D. Extending his right arm outward."
+            ],
+            "answer": "D"
+        },
+        "5kmnEgBSCfg_130": {
+            "id": "5kmnEgBSCfg_130",
+            "scene": 11,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in this scene?",
+            "options": [
+                "A. Slightly upward angle.",
+                "B. Bird's-eye view.",
+                "C. Low angle shot.",
+                "D. Side angle shot."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_131": {
+            "id": "5kmnEgBSCfg_131",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "How does the environment change after the transition?",
+            "options": [
+                "A. From a gray framework to a construction site.",
+                "B. From a construction site to a grassland.",
+                "C. From an urban landscape to a room.",
+                "D. From a market to an office."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_132": {
+            "id": "5kmnEgBSCfg_132",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "Which texts in the scene are consistent?",
+            "options": [
+                "A. The text 'STOP LOW T-LEVELS' is consistent with the red 'CLICK HERE' button.",
+                "B. The text 'BUILD STRONGER FOUNDATIONS' is consistent with the blue 'READ MORE' button.",
+                "C. The text 'MAXIMIZE EFFICIENCY' is consistent with the green 'LEARN HOW' button.",
+                "D. The text 'ENHANCE PRODUCTIVITY' is consistent with the yellow 'SIGN UP NOW' button."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_133": {
+            "id": "5kmnEgBSCfg_133",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "Where is the consistent text located?",
+            "options": [
+                "A. It is prominently located at the top of the site frame.",
+                "B. It is located at the bottom right corner of the site frame.",
+                "C. It is located at the center of the site frame.",
+                "D. It is located at the bottom left corner of the site frame."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_134": {
+            "id": "5kmnEgBSCfg_134",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "Where is the construction worker wearing light blue jeans, a white shirt, and a red safety helmet located in the scene at the construction site?",
+            "options": [
+                "A. Left side.",
+                "B. Center.",
+                "C. Right side.",
+                "D. Behind the billboard."
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_135": {
+            "id": "5kmnEgBSCfg_135",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "Where is the construction worker wearing white clothes and a white safety helmet in the construction site image?",
+            "options": [
+                "A. The worker is slightly less noticeable on the left side.",
+                "B. The worker is very noticeable in the center of the image.",
+                "C. The worker is slightly less noticeable on the right side.",
+                "D. The worker is standing near the red 'CLICK HERE' button, not very noticeable."
+            ],
+            "answer": "D"
+        },
+        "5kmnEgBSCfg_136": {
+            "id": "5kmnEgBSCfg_136",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "What location is depicted in the first frame of the video?",
+            "options": [
+                "A. A busy construction site under a clear blue sky",
+                "B. An indoor gym equipped with various kettlebells",
+                "C. A quiet park full of greenery",
+                "D. A bustling market with outdoor stalls"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_137": {
+            "id": "5kmnEgBSCfg_137",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "Which location is shown in the video?",
+            "options": [
+                "A. Outdoor construction site",
+                "B. Indoor gym",
+                "C. Professional office building",
+                "D. Busy city street"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_138": {
+            "id": "5kmnEgBSCfg_138",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "What is the construction worker wearing light blue jeans, a white shirt, and a red safety helmet doing?",
+            "options": [
+                "A. The worker is holding a wire.",
+                "B. The worker is using a tool.",
+                "C. The worker is pouring concrete.",
+                "D. The worker is organizing kettlebells."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_139": {
+            "id": "5kmnEgBSCfg_139",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "What is the construction worker wearing white clothes and a white safety helmet doing?",
+            "options": [
+                "A. The worker is operating tools or cables.",
+                "B. The worker is operating a crane.",
+                "C. The worker is painting a wall.",
+                "D. The worker is assembling fitness equipment."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_140": {
+            "id": "5kmnEgBSCfg_140",
+            "scene": 12,
+            "dimension": "Visual-cue",
+            "question": "What does the advertisement say?",
+            "options": [
+                "A. STOP LOW T-LEVELS",
+                "B. BOOST HIGH ENERGY",
+                "C. RAPIDLY INCREASE STRENGTH",
+                "D. ENHANCE YOUR WORKOUT"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_141": {
+            "id": "5kmnEgBSCfg_141",
+            "scene": 12,
+            "dimension": "Description-Object",
+            "question": "What type of font, border, and button are used in the advertisement?",
+            "options": [
+                "A. Lowercase black bold font, green border, with a bright yellow 'CLICK HERE' button in the middle.",
+                "B. Uppercase white bold font, red border, with a bright red 'CLICK HERE' button in the middle.",
+                "C. Italic white bold font, blue border, with a bright blue 'CLICK HERE' button in the middle.",
+                "D. Uppercase gray regular font, red border, with a bright red 'CLICK HERE' button in the middle."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_142": {
+            "id": "5kmnEgBSCfg_142",
+            "scene": 12,
+            "dimension": "Count",
+            "question": "How many metal kettlebells are there in the gym environment?",
+            "options": [
+                "A. One kettlebell.",
+                "B. There are many.",
+                "C. Three.",
+                "D. There are no kettlebells."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_143": {
+            "id": "5kmnEgBSCfg_143",
+            "scene": 12,
+            "dimension": "Attribute Change",
+            "question": "Are the advertisements between the two screens different?",
+            "options": [
+                "A. No, there is no change.",
+                "B. Yes, the position changes, but the appearance remains the same.",
+                "C. Yes, both the appearance and position change.",
+                "D. No, the appearance changes, but the position remains the same."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_144": {
+            "id": "5kmnEgBSCfg_144",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "What signs indicate ongoing construction activities?",
+            "options": [
+                "A. Metal frames used for concrete reinforcement and concrete pouring molds.",
+                "B. Various kettlebells and fitness equipment neatly arranged.",
+                "C. The presence of indoor lighting and soft tones indicates an office environment.",
+                "D. Vivid advertisements with a 'CLICK HERE' button indicate a commercial environment."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_145": {
+            "id": "5kmnEgBSCfg_145",
+            "scene": 12,
+            "dimension": "Spatial",
+            "question": "What is the position of the larger kettlebell relative to the construction worker?",
+            "options": [
+                "A. It corresponds to the position in front of the worker wearing light blue jeans, a white shirt, and a red safety helmet.",
+                "B. It corresponds to the position in front of the worker wearing white clothes and a white safety helmet.",
+                "C. It does not correspond to the position of any worker on the construction site.",
+                "D. It corresponds to the center position of the advertisement."
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_146": {
+            "id": "5kmnEgBSCfg_146",
+            "scene": 12,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle?",
+            "options": [
+                "A. Overhead view",
+                "B. Slightly close-up frontal view",
+                "C. Distant view",
+                "D. Diagonal shot from the top corner"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_147": {
+            "id": "5kmnEgBSCfg_147",
+            "scene": 12,
+            "dimension": "Attribute Change",
+            "question": "What is the observed change in lighting between the previous scene and the current scene?",
+            "options": [
+                "A. Bright outdoor lighting, soft indoor lighting.",
+                "B. No noticeable change.",
+                "C. Dim indoor lighting, bright outdoor lighting.",
+                "D. Always bright outdoor lighting."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_148": {
+            "id": "5kmnEgBSCfg_148",
+            "scene": 13,
+            "dimension": "Spatial",
+            "question": "Where are the two figures located in relation to the lake?",
+            "options": [
+                "A. On a boat in the center of the lake.",
+                "B. On the right side of the picture near the lake.",
+                "C. On a bridge over the lake.",
+                "D. On the opposite shore, silhouetted by the shadows of trees."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_149": {
+            "id": "5kmnEgBSCfg_149",
+            "scene": 13,
+            "dimension": "Camera Shot",
+            "question": "Where was the current scene switched from?",
+            "options": [
+                "A. Gym.",
+                "B. Market.",
+                "C. City street.",
+                "D. Library."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_150": {
+            "id": "5kmnEgBSCfg_150",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "What is the video scene describing?",
+            "options": [
+                "A. City street",
+                "B. Lakeside environment",
+                "C. Shopping center",
+                "D. Gym"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_151": {
+            "id": "5kmnEgBSCfg_151",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "What is the adult by the lake doing?",
+            "options": [
+                "A. The person is pointing at or indicating something in the water.",
+                "B. The person is fishing with a rod.",
+                "C. The person is skipping stones across the lake surface.",
+                "D. The person is sitting quietly, looking at the horizon."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_152": {
+            "id": "5kmnEgBSCfg_152",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "What is the child by the lake doing?",
+            "options": [
+                "A. The child is playing with toys on the lakeshore.",
+                "B. The child and the man are looking in the same direction.",
+                "C. The child is throwing stones into the lake.",
+                "D. The child is running along the lakeshore."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_153": {
+            "id": "5kmnEgBSCfg_153",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "What items can be seen in a gym environment?",
+            "options": [
+                "A. Kettlebell.",
+                "B. Yoga mat.",
+                "C. Treadmill.",
+                "D. Dumbbell."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_154": {
+            "id": "5kmnEgBSCfg_154",
+            "scene": 13,
+            "dimension": "Count",
+            "question": "How many figures can be seen by the lake?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_155": {
+            "id": "5kmnEgBSCfg_155",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "What is that man doing by the lake?",
+            "options": [
+                "A. Pointing at or indicating something in the water.",
+                "B. Fishing by the lake.",
+                "C. Swimming in the lake.",
+                "D. Sitting by the water and reading a book."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_156": {
+            "id": "5kmnEgBSCfg_156",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "Where is the text 'CLICK HERE' located in the advertisement?",
+            "options": [
+                "A. Top",
+                "B. Bottom",
+                "C. Center",
+                "D. Side"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_157": {
+            "id": "5kmnEgBSCfg_157",
+            "scene": 13,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in the lakeside scene?",
+            "options": [
+                "A. The camera angle is slightly elevated.",
+                "B. The camera angle is lower.",
+                "C. The camera angle is frontal.",
+                "D. The camera angle is upward."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_158": {
+            "id": "5kmnEgBSCfg_158",
+            "scene": 13,
+            "dimension": "Spatial",
+            "question": "Where is the advertisement located in the scene?",
+            "options": [
+                "A. The advertisement is located in the center of the image, blocking part of the scene.",
+                "B. The advertisement is hidden behind a strong arm.",
+                "C. The advertisement is placed near the lake shore, with two human figures.",
+                "D. The advertisement is embedded in the green background."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_159": {
+            "id": "5kmnEgBSCfg_159",
+            "scene": 14,
+            "dimension": "Description-Scene",
+            "question": "What event is introduced in the video?",
+            "options": [
+                "A. A man working out",
+                "B. A bustling city gym",
+                "C. A quiet forest clearing",
+                "D. A beach with the sound of surfing"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_160": {
+            "id": "5kmnEgBSCfg_160",
+            "scene": 14,
+            "dimension": "Description-Scene",
+            "question": "What is the main environment in the video?",
+            "options": [
+                "A. Outdoor environment",
+                "B. Urban landscape",
+                "C. Indoor gym environment",
+                "D. Forest clearing"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_161": {
+            "id": "5kmnEgBSCfg_161",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "What are the two characters by the lakeside doing?",
+            "options": [
+                "A. Observing fishing together.",
+                "B. The man is fishing, and the child is playing with toys.",
+                "C. Skipping stones by the lake.",
+                "D. The man is reading a book, and the child is running along the lakeshore."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_162": {
+            "id": "5kmnEgBSCfg_162",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "What message does the advertisement convey?",
+            "options": [
+                "A. 'START HIGH ENERGY' with a blue 'LEARN MORE' button.",
+                "B. 'BOOST YOUR IMMUNITY' with a green 'CLICK HERE' button.",
+                "C. 'STOP LOW T-LEVELS' with a red 'CLICK HERE' button.",
+                "D. 'INCREASE VITALITY' with a yellow 'READ MORE' button."
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_163": {
+            "id": "5kmnEgBSCfg_163",
+            "scene": 13,
+            "dimension": "Count",
+            "question": "How many figures can be seen in the lakeside scenery?",
+            "options": [
+                "A. One",
+                "B. Three",
+                "C. Two",
+                "D. Four"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_164": {
+            "id": "5kmnEgBSCfg_164",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "Did the advertisement change between the two frames?",
+            "options": [
+                "A. Yes, the advertisement completely changed.",
+                "B. No, the design and position of the advertisement remained the same.",
+                "C. The color of the advertisement changed, but the design did not.",
+                "D. The text of the advertisement changed, but the position did not."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_165": {
+            "id": "5kmnEgBSCfg_165",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "How has the environment changed from the previous scene to the current scene?",
+            "options": [
+                "A. The environment changed from a lakeside scene to an outdoor background.",
+                "B. The environment changed from an urban landscape to a lakeside.",
+                "C. The environment changed from a gym interior to a mountain view.",
+                "D. The environment changed from a room to an ice field."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_166": {
+            "id": "5kmnEgBSCfg_166",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "What text elements remain consistent from the previous frame to the current frame?",
+            "options": [
+                "A. The 'STOP LOW T-LEVELS' and 'CLICK HERE' buttons.",
+                "B. The text 'Natural Serenity' is consistently visible in both frames.",
+                "C. The black text 'AMAX'.",
+                "D. 'Lush Greenery'."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_167": {
+            "id": "5kmnEgBSCfg_167",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "What elements are in the picture?",
+            "options": [
+                "A. Green background and arm, 'STOP LOW T-LEVELS' red border, red 'CLICK HERE' button visible.",
+                "B. Arm, text 'AMAX' on T-shirt, and monochrome background with bold red text 'CLICK HERE'.",
+                "C. Close-up of face, advertisement, including blue 'STOP LOW T-LEVELS' and yellow 'CLICK HERE' button.",
+                "D. Copyright notice, text small and partially blurred, green background highlighting monochrome face."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_168": {
+            "id": "5kmnEgBSCfg_168",
+            "scene": 15,
+            "dimension": "Description-Scene",
+            "question": "What kind of environment was shown in the previous frame of the video?",
+            "options": [
+                "A. A vibrant green outdoor background.",
+                "B. A close-up of a weathered face.",
+                "C. A darker and rougher environment.",
+                "D. A monochrome image."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_169": {
+            "id": "5kmnEgBSCfg_169",
+            "scene": 15,
+            "dimension": "Description-Scene",
+            "question": "What is shown in the scene?",
+            "options": [
+                "A. A close-up of a muscular arm with the word 'AMAX' on a gray T-shirt.",
+                "B. A weathered face.",
+                "C. A landscape with rolling hills and a bright blue sky.",
+                "D. A busy city street filled with pedestrians and vehicles under the bright sunlight."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_170": {
+            "id": "5kmnEgBSCfg_170",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "What are the key visual elements of the text in the advertisement video?",
+            "options": [
+                "A. Bold uppercase text with red outline 'STOP LOW T-LEVELS'.",
+                "B. Bold uppercase text with red outline 'BOOST HIGH T-LEVELS'.",
+                "C. Bold lowercase text with green outline 'STOP HIGH T-LEVELS'.",
+                "D. Thin lowercase text with blue outline 'REDUCE T-LEVELS'."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_171": {
+            "id": "5kmnEgBSCfg_171",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "What is the key button element in the advertisement video?",
+            "options": [
+                "A. The bright red 'CLICK HERE' button.",
+                "B. The green 'SUBSCRIBE NOW' button.",
+                "C. The blue 'LEARN MORE' button.",
+                "D. The yellow 'SIGN UP' button."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_172": {
+            "id": "5kmnEgBSCfg_172",
+            "scene": 15,
+            "dimension": "Attribute Change",
+            "question": "Is the advertisement information in the video consistent throughout?",
+            "options": [
+                "A. Yes, the information 'STOP LOW T-LEVELS' and the red 'CLICK HERE' button remain consistent throughout the video.",
+                "B. No, the information changes to 'BOOST ENERGY NOW' midway.",
+                "C. Yes, but there are significant changes in background color and font style midway through the video.",
+                "D. No, the information and button are only visible in the first frame."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_173": {
+            "id": "5kmnEgBSCfg_173",
+            "scene": 15,
+            "dimension": "Camera Shot",
+            "question": "What change occurred in the focus between the previous scene and this scene?",
+            "options": [
+                "A. The focus shifted from people exercising to a close-up of a face.",
+                "B. The focus shifted from the forest to indoors.",
+                "C. The focus shifted from the beach to the city.",
+                "D. The focus shifted from the city to the desert."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_174": {
+            "id": "5kmnEgBSCfg_174",
+            "scene": 15,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the background between the previous scene and the current scene?",
+            "options": [
+                "A. The background became darker and rougher.",
+                "B. The background became brighter and more vivid.",
+                "C. The background changed to a cityscape.",
+                "D. The background changed to a beach scene."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_175": {
+            "id": "5kmnEgBSCfg_175",
+            "scene": 14,
+            "dimension": "Camera Shot",
+            "question": "What type of lens was used to shoot the video of the person exercising?",
+            "options": [
+                "A. Wide-angle lens.",
+                "B. Close-up lens.",
+                "C. Medium shot lens.",
+                "D. Aerial shot lens."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_176": {
+            "id": "5kmnEgBSCfg_176",
+            "scene": 15,
+            "dimension": "Camera Shot",
+            "question": "What type of camera shot is used for the face in the video?",
+            "options": [
+                "A. Long shot of the weathered face.",
+                "B. Medium shot of the weathered face.",
+                "C. Close-up shot of the weathered face.",
+                "D. Aerial shot of the weathered face."
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_177": {
+            "id": "5kmnEgBSCfg_177",
+            "scene": 15,
+            "dimension": "Attribute Change",
+            "question": "How fast is the transition of the background between frames?",
+            "options": [
+                "A. The transition occurs gradually over several frames.",
+                "B. The transition happens almost immediately.",
+                "C. The transition occurs slowly over multiple scenes.",
+                "D. There is never a transition between frames."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_178": {
+            "id": "5kmnEgBSCfg_178",
+            "scene": 15,
+            "dimension": "Attribute Change",
+            "question": "What are the visual feature changes between the previous scene and the current scene?",
+            "options": [
+                "A. The background changes from a vibrant green outdoor scene to a darker, rougher monochrome tone.",
+                "B. The advertisement text changes from bold uppercase to lowercase.",
+                "C. The red 'Click Here' button is removed in subsequent frames.",
+                "D. The text on the T-shirt is fully visible in subsequent frames."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_179": {
+            "id": "5kmnEgBSCfg_179",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "Which detail in the video provides additional background information but is still partially obscured?",
+            "options": [
+                "A. The small text at the bottom right lists the image copyright information.",
+                "B. The partially visible text 'AMAX' on the gray T-shirt.",
+                "C. A small logo in the lower left corner.",
+                "D. The watermark in the upper right corner."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_180": {
+            "id": "5kmnEgBSCfg_180",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What was depicted before the lakeside scene?",
+            "options": [
+                "A. Street",
+                "B. Gym",
+                "C. Kitchen",
+                "D. Library"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_181": {
+            "id": "5kmnEgBSCfg_181",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What activity occurred after the climber scaled the cliff?",
+            "options": [
+                "A. The scene shifts to firefighters extinguishing a fire in a smoke-filled area.",
+                "B. The scene transitions to a tranquil river where kayaking enthusiasts paddle gently.",
+                "C. Focus on the bustling urban landscape, with people walking on crowded streets.",
+                "D. The camera moves to a serene forest where wildlife is peacefully foraging."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_182": {
+            "id": "5kmnEgBSCfg_182",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "Is the next fitness scene a tranquil lakeside setting with a man and a child?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. It's a city.",
+                "D. Library."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_183": {
+            "id": "5kmnEgBSCfg_183",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why do advertisements remain unchanged in different scenarios?",
+            "options": [
+                "A. Maintain consistent promotional messages in changing environments and backgrounds.",
+                "B. Allow the audience to focus on weathered faces.",
+                "C. Highlight the vibrant green outdoor background.",
+                "D. Emphasize small text and photo sources."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_184": {
+            "id": "5kmnEgBSCfg_184",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "Which scene appears first, the firefighting scene or the football game?",
+            "options": [
+                "A. The firefighting scene appears first.",
+                "B. The football game appears first.",
+                "C. Both scenes occur simultaneously.",
+                "D. These scenes are not shown in the video."
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_185": {
+            "id": "5kmnEgBSCfg_185",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "Did the construction site scene occur after the rugby match?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. The construction site scene and the rugby match occurred simultaneously.",
+                "D. The construction site scene did not occur in the video."
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_186": {
+            "id": "5kmnEgBSCfg_186",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "Which happened earlier, the construction site or the indoor gym?",
+            "options": [
+                "A. The construction site was earlier than the indoor gym.",
+                "B. The indoor gym setup was earlier than the construction site.",
+                "C. Both appeared simultaneously in the advertisement.",
+                "D. Neither the construction site nor the indoor gym appeared in the advertisement."
+            ],
+            "answer": "A"
+        }
+    }
+}

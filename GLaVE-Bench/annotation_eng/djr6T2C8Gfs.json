@@ -1,0 +1,1604 @@
+{
+    "scene_hint": {
+        "0": "In the desert, there is a 'GHOST COWBOYS' sign.",
+        "1": "The ghost cowboys and their ghost horses become the focus.",
+        "2": "The ghost cowboys arrive at a small town, and there is also a wolf in the scene.",
+        "3": "In the saloon, there are ghost cowboys, a monster bartender, and a mummy pianist.",
+        "4": "The wolf sheriff holds a wanted poster for the ghost cowboys.",
+        "5": "Two ghost cowboys nervously break into a sweat.",
+        "6": "A close-up of the wanted poster.",
+        "7": "A close-up of the wolf sheriff.",
+        "8": "Two ghost riders are racing through the desert.",
+        "9": "The scene shifts to the wolf sheriff, who is chasing behind.",
+        "10": "The wolf chases the ghost characters, staging a grand chase.",
+        "11": "The ghost hides behind a rock, and after the wolf runs past, they appear dancing in celebration."
+    },
+    "qa": {
+        "djr6T2C8Gfs_0": {
+            "id": "djr6T2C8Gfs_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the ghost cowboy relative to the 'GHOST COWBOYS' sign?",
+            "options": [
+                "A. Running in circles around the 'GHOST COWBOYS' sign.",
+                "B. Crossing the landscape from left to right, with the 'GHOST COWBOYS' sign on the right side of the scene.",
+                "C. Standing directly in front of the 'GHOST COWBOYS' sign.",
+                "D. Moving from right to left, away from the 'GHOST COWBOYS' sign."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_1": {
+            "id": "djr6T2C8Gfs_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the environment depicted in the video scene?",
+            "options": [
+                "A. The environment is a desert landscape.",
+                "B. The environment is a dense forest.",
+                "C. The environment is a snowy mountain terrain.",
+                "D. The environment is a coastal beach."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_2": {
+            "id": "djr6T2C8Gfs_2",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What action is the ghost cowboy doing in the video?",
+            "options": [
+                "A. Crossing a desert landscape.",
+                "B. Standing still.",
+                "C. Playing an instrument under the starry sky.",
+                "D. Disappearing into the background of distant mesas and solitary mountains."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_3": {
+            "id": "djr6T2C8Gfs_3",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What does the 'GHOST COWBOYS' logo look like?",
+            "options": [
+                "A. The logo is rectangular.",
+                "B. The logo is circular.",
+                "C. The logo is triangular.",
+                "D. The logo is square."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_4": {
+            "id": "djr6T2C8Gfs_4",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "Where is the 'GHOST COWBOYS' sign located?",
+            "options": [
+                "A. The sign is mounted on a separate post embedded in the rocky ground on the right side of the scene.",
+                "B. The sign is floating in the sky above Table Mountain.",
+                "C. The sign is hanging on the cactus on the left side of the scene.",
+                "D. The sign is placed on the lone peak in the background."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_5": {
+            "id": "djr6T2C8Gfs_5",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What are the main elements appearing in the scene, besides the background hills?",
+            "options": [
+                "A. 'GHOST COWBOYS' sign, ghost cowboys, fence structure, and haystack.",
+                "B. 'GHOST COWBOYS' sign, a group of ghost miners, a well, and a rolling haystack.",
+                "C. A large wooden cabin, a group of ghost sheriffs, and a wheel.",
+                "D. 'GHOST COWBOYS' sign, a saloon entrance, and a group of ghost buffalo."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_6": {
+            "id": "djr6T2C8Gfs_6",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What subtle movements can be observed in the actions of the ghost cowboy?",
+            "options": [
+                "A. The ghost cowboy exhibits gentle movements.",
+                "B. The ghost cowboy remains motionless.",
+                "C. The ghost cowboy performs stunts.",
+                "D. The ghost cowboy's horse gallops swiftly."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_7": {
+            "id": "djr6T2C8Gfs_7",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "What is the movement direction of these ghost cowboys?",
+            "options": [
+                "A. Moving from left to right.",
+                "B. Moving from right to left.",
+                "C. Moving from top to bottom.",
+                "D. Moving from bottom to top."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_8": {
+            "id": "djr6T2C8Gfs_8",
+            "scene": 0,
+            "dimension": "Camera Direction",
+            "question": "How does the camera movement evolve in the scene?",
+            "options": [
+                "A. The scene slowly pans to the right.",
+                "B. The scene quickly zooms in.",
+                "C. The camera pans to the left.",
+                "D. The camera remains stationary."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_9": {
+            "id": "djr6T2C8Gfs_9",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle for filming the ghost cowboy?",
+            "options": [
+                "A. The angle is from the front.",
+                "B. The angle is from above.",
+                "C. The angle is from below.",
+                "D. The angle is from the side."
+            ],
+            "answer": "D"
+        },
+        "djr6T2C8Gfs_10": {
+            "id": "djr6T2C8Gfs_10",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "How does the ghost cowboy move?",
+            "options": [
+                "A. Moves quickly and suddenly disappears.",
+                "B. Moves gently and slowly.",
+                "C. Stands still without moving.",
+                "D. Moves in an irregular and unpredictable manner."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_11": {
+            "id": "djr6T2C8Gfs_11",
+            "scene": 0,
+            "dimension": "Camera Direction",
+            "question": "What changes are revealed in the scene when the camera moves to the right?",
+            "options": [
+                "A. The flat-topped mountain turns into a glowing mountain, and the color of the text on the sign changes.",
+                "B. The ghostly cowboy gradually appears.",
+                "C. The stars disappear, and the sky turns bright blue.",
+                "D. The ghostly cowboy turns into a real cowboy and stops moving."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_12": {
+            "id": "djr6T2C8Gfs_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the chubbier cowboy in the scene?",
+            "options": [
+                "A. On the left.",
+                "B. On the right.",
+                "C. In the middle.",
+                "D. Behind the horse."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_13": {
+            "id": "djr6T2C8Gfs_13",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the cowboy with the taller and larger hat located in the scene?",
+            "options": [
+                "A. Left.",
+                "B. Middle.",
+                "C. Right.",
+                "D. There is no cowboy wearing a hat in the scene."
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_14": {
+            "id": "djr6T2C8Gfs_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the scene where the ghost cowboy is located?",
+            "options": [
+                "A. In a foggy forest.",
+                "B. In a desert landscape.",
+                "C. In a bustling city.",
+                "D. On an alien planet."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_15": {
+            "id": "djr6T2C8Gfs_15",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "From the perspective of watching the video, how is the cowboy on the left described in terms of appearance and expression?",
+            "options": [
+                "A. Overall similar to a round shape, wearing a very small hat, expression slightly uneasy.",
+                "B. Wearing a black cowboy hat with a red hatband, expression cheerful.",
+                "C. Round head, wearing a small star-shaped crown, posture confident.",
+                "D. The cowboy on the left has a long face, neutral expression, no head accessories."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_16": {
+            "id": "djr6T2C8Gfs_16",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "From appearance and expression, how is the cowboy on the right described?",
+            "options": [
+                "A. Wearing a black hat with a red band around it.",
+                "B. Wearing a black crown-like accessory, looking uneasy, with a slightly slack posture.",
+                "C. Round head with a floating five-pointed star above.",
+                "D. The cowboy on the right is not wearing any accessories, with a lively and cheerful expression."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_17": {
+            "id": "djr6T2C8Gfs_17",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the horse ridden by the cowboy on the left?",
+            "options": [
+                "A. Rounded and soft features, light brown saddle, gray and opaque.",
+                "B. Sharp and angular features, dark brown saddle, bright red and opaque.",
+                "C. Thin and smooth features, black saddle, dark green and transparent.",
+                "D. Square and rigid features, white saddle, bright yellow and sturdy."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_18": {
+            "id": "djr6T2C8Gfs_18",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the horse with a cowboy riding on the right?",
+            "options": [
+                "A. Slightly narrower, with a bluish tint, and is semi-transparent.",
+                "B. Rounded features, black oval eyes, and the color is light blue.",
+                "C. Wearing a crown-like decoration, the color is light brown.",
+                "D. Brightly colored, with a very delicate saddle."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_19": {
+            "id": "djr6T2C8Gfs_19",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many ghost cowboys are in the scene?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_20": {
+            "id": "djr6T2C8Gfs_20",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many ghost horses are in the scene?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_21": {
+            "id": "djr6T2C8Gfs_21",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "In this scene, what is the direction of the camera movement?",
+            "options": [
+                "A. The camera movement focuses on the ghost cowboy.",
+                "B. The camera movement focuses on panning across the desert landscape.",
+                "C. The camera movement focuses on zooming out to show the entire desert scene.",
+                "D. The camera movement focuses on tilting upwards to show the sky and clouds."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_22": {
+            "id": "djr6T2C8Gfs_22",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What type of camera shot is used to emphasize the ghost cowboy and his horse?",
+            "options": [
+                "A. Low-angle shot.",
+                "B. Wide-angle shot.",
+                "C. High-angle shot.",
+                "D. Close-up shot."
+            ],
+            "answer": "D"
+        },
+        "djr6T2C8Gfs_23": {
+            "id": "djr6T2C8Gfs_23",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "How does the focus of the scene shift from the previous scene?",
+            "options": [
+                "A. The focus shifts from the vast desert landscape and the 'Ghost Cowboy' sign.",
+                "B. The focus shifts from the Ghost Cowboy to the desert landscape.",
+                "C. The focus shifts from the horses to the 'Ghost Cowboy' sign.",
+                "D. The focus shifts from the sky to the plateau and rocky terrain."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_24": {
+            "id": "djr6T2C8Gfs_24",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the focus of the current scene?",
+            "options": [
+                "A. The focus is on the ghost cowboys and their horses.",
+                "B. The scene transitions to a panoramic view of the desert landscape.",
+                "C. The focus shifts to the 'Ghost Cowboys' sign.",
+                "D. The scene captures the sky and clouds."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_25": {
+            "id": "djr6T2C8Gfs_25",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the wolf-like character located in the scene?",
+            "options": [
+                "A. In the center of the town.",
+                "B. On the rocky outcrop on the left side of the scene.",
+                "C. On the dusty road, near the cowboy.",
+                "D. Above the western building."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_26": {
+            "id": "djr6T2C8Gfs_26",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video scene?",
+            "options": [
+                "A. A stylized western desert town.",
+                "B. Modern metropolis.",
+                "C. Mysterious forest.",
+                "D. Ancient ruins."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_27": {
+            "id": "djr6T2C8Gfs_27",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What is unique about the appearance of the ghost cowboy?",
+            "options": [
+                "A. Has realistic features and wears traditional cowboy attire.",
+                "B. Has humorous cartoon features.",
+                "C. Depicted as a shadowy figure with no distinct features.",
+                "D. Wears futuristic clothing with glowing accessories."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_28": {
+            "id": "djr6T2C8Gfs_28",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the ghost cowboy?",
+            "options": [
+                "A. A bustling cityscape with towering buildings",
+                "B. Snow-capped mountains under a blue sky",
+                "C. A stylized desert background",
+                "D. A dense forest shrouded in thick fog"
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_29": {
+            "id": "djr6T2C8Gfs_29",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "In the Western-style town, which building is the most eye-catching?",
+            "options": [
+                "A. A building marked 'BAR' is very eye-catching.",
+                "B. A building marked 'SHERIFF' is very eye-catching.",
+                "C. A building marked 'HOTEL' is very eye-catching.",
+                "D. A building marked 'BANK' is very eye-catching."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_30": {
+            "id": "djr6T2C8Gfs_30",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many ghost cowboys are in the scene?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_31": {
+            "id": "djr6T2C8Gfs_31",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Does this scene include wildlife?",
+            "options": [
+                "A. Yes, it includes a silhouette resembling a wolf.",
+                "B. No, there are no wild animals in the scene.",
+                "C. Yes, there is a pack of wolves running in the desert in the scene.",
+                "D. No, there are only cowboys and horses in the scene."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_32": {
+            "id": "djr6T2C8Gfs_32",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "Which direction are those ghost cowboys traveling?",
+            "options": [
+                "A. Traveling towards the audience.",
+                "B. Traveling directly to the left.",
+                "C. Traveling away from the audience.",
+                "D. Traveling directly to the right."
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_33": {
+            "id": "djr6T2C8Gfs_33",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What is the camera lens in the current scene?",
+            "options": [
+                "A. The camera moves to a close-up of the ghost cowboy.",
+                "B. The camera closely follows the wolf-like figure.",
+                "C. The camera is currently a wide-angle, broad lens.",
+                "D. The camera pans to focus on the BAR building."
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_34": {
+            "id": "djr6T2C8Gfs_34",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the overall setting of the tavern scene?",
+            "options": [
+                "A. Modern industrial style, metal flooring, bright neon lights, and futuristic decorations.",
+                "B. Retro aesthetic, dark brown wooden floors and walls, chandeliers, moth-like creatures.",
+                "C. Minimalist design, smooth white walls, minimalist furniture, and sparse decorations.",
+                "D. Rustic outdoor style, dirt flooring, wooden barrels, and an open sky view."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_35": {
+            "id": "djr6T2C8Gfs_35",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the mummy doing on the right side of the screen?",
+            "options": [
+                "A. Playing the piano.",
+                "B. Sitting and watching the ghost.",
+                "C. Singing.",
+                "D. Clapping along with the music."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_36": {
+            "id": "djr6T2C8Gfs_36",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is unique about the hat worn by the ghostly figure sitting to the left of the central table?",
+            "options": [
+                "A. Small black cowboy hat.",
+                "B. Large black cowboy hat with a pink hatband.",
+                "C. Hat with feathers.",
+                "D. Wide-brimmed cowboy hat with a blue hatband."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_37": {
+            "id": "djr6T2C8Gfs_37",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What's special about the hat worn by the ghostly figure on the right side of the central table?",
+            "options": [
+                "A. A larger hat with a pink ribbon on it.",
+                "B. A cowboy hat with a purple ribbon on it.",
+                "C. A smaller hat with a blue ribbon on it.",
+                "D. A hat with green feathers."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_38": {
+            "id": "djr6T2C8Gfs_38",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many figures are sitting at the central table in the salon?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_39": {
+            "id": "djr6T2C8Gfs_39",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "Is the bartender on the left side of the tavern still overseeing the bar?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. Yes, but the bartender is no longer green-skinned and no longer looks like a monster.",
+                "D. No, the bartender no longer appears in the tavern."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_40": {
+            "id": "djr6T2C8Gfs_40",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "Which direction do the notes from an upright piano move?",
+            "options": [
+                "A. An upright piano does not produce notes.",
+                "B. Move downward.",
+                "C. Drift to the left.",
+                "D. Randomly disperse in all directions."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_41": {
+            "id": "djr6T2C8Gfs_41",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What is the focus of the camera shot in the tavern scene?",
+            "options": [
+                "A. The camera zooms in on the green bartender and the bottles behind it.",
+                "B. It focuses on the central table and the people around it.",
+                "C. It highlights the swinging double doors and the shadow silhouettes nearby.",
+                "D. It focuses on the mummy figure playing music by the piano."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_42": {
+            "id": "djr6T2C8Gfs_42",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What new details have appeared on the left ghostly figure in the tavern scene?",
+            "options": [
+                "A. The left ghostly figure opens its mouth wide to sing.",
+                "B. A pink ribbon has been added to the hat of the left ghostly figure.",
+                "C. The left ghostly figure starts playing the piano.",
+                "D. The left ghostly figure has lost its round nose."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_43": {
+            "id": "djr6T2C8Gfs_43",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "Where might the wolf be standing?",
+            "options": [
+                "A. At the tavern entrance.",
+                "B. In the middle of a busy market.",
+                "C. In front of a quiet forest.",
+                "D. On the beach."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_44": {
+            "id": "djr6T2C8Gfs_44",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the scene environment like where the wolf appears?",
+            "options": [
+                "A. The environment has a futuristic style.",
+                "B. The environment has a Western aesthetic style.",
+                "C. The environment is icy and cold.",
+                "D. The environment has a tropical vibe."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_45": {
+            "id": "djr6T2C8Gfs_45",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What is drawn on the wolf's 'WANTED' poster?",
+            "options": [
+                "A. Two cartoon-style ghosts.",
+                "B. A group of bandits wearing masks and cowboy hats.",
+                "C. A lone wolf with piercing blue eyes.",
+                "D. A pair of mischievous raccoons with striped tails."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_46": {
+            "id": "djr6T2C8Gfs_46",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many people are \"wanted\" on the poster?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_47": {
+            "id": "djr6T2C8Gfs_47",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is the number '31' displayed on the wolf's cowboy hat?",
+            "options": [
+                "A. Yes, the number '31' is displayed on the wolf's cowboy hat.",
+                "B. No, the number '13' is displayed on the wolf's cowboy hat.",
+                "C. No, there is no number on the wolf's cowboy hat.",
+                "D. No, the number '21' is displayed on the wolf's cowboy hat."
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_48": {
+            "id": "djr6T2C8Gfs_48",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle used to focus on the details of the wolf?",
+            "options": [
+                "A. Slightly upward angle.",
+                "B. Overhead angle.",
+                "C. Side close-up.",
+                "D. Low-angle wide shot."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_49": {
+            "id": "djr6T2C8Gfs_49",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What details of the wolf are highlighted by the camera angle?",
+            "options": [
+                "A. The wolf's frown, sheriff's badge, and 'wanted' poster.",
+                "B. The wolf's light brown cowboy boots, gray fur, and the staircase in the background.",
+                "C. The wolf's glaring orange eyes, red-brown vest, and wooden staircase.",
+                "D. The wolf's oversized cowboy hat, its tail, and the interior of the saloon."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_50": {
+            "id": "djr6T2C8Gfs_50",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What lens should be used to emphasize the dominance of the wolf?",
+            "options": [
+                "A. Close-up shot.",
+                "B. Wide-angle lens.",
+                "C. Overhead shot.",
+                "D. Low-angle long shot of the stairs."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_51": {
+            "id": "djr6T2C8Gfs_51",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the gray cup in relation to the ghost cowboy?",
+            "options": [
+                "A. Symmetrically placed on the table, between two ghost cowboys.",
+                "B. On a shelf in the tavern background.",
+                "C. On the floor, near the ghost cowboy.",
+                "D. On another table in the corner of the tavern."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_52": {
+            "id": "djr6T2C8Gfs_52",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What does the appearance of the Fat Ghost look like?",
+            "options": [
+                "A. The Fat Ghost has a round body, wears a tilted black cowboy hat, has a simple and funny facial expression with an open oval mouth, upward-pointing dot-like eyebrows, and a few drops of sweat.",
+                "B. The Fat Ghost has a slim figure, wears a black wide-brimmed cowboy hat with a red hatband, and has a calm expression.",
+                "C. The Fat Ghost is tall, wears a green cowboy hat, and has a happy expression with a bright smile.",
+                "D. The Fat Ghost has a sharp appearance, wears a blue baseball cap, has a surprised expression, and wide-open eyes."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_53": {
+            "id": "djr6T2C8Gfs_53",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the thin ghost's appearance?",
+            "options": [
+                "A. Wearing a black vest with golden buttons.",
+                "B. Wearing a wide-brimmed black cowboy hat with a bright red decorative band.",
+                "C. Holding a lasso in one hand.",
+                "D. Wearing a shiny silver sheriff's badge."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_54": {
+            "id": "djr6T2C8Gfs_54",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many ghostly figures are on the table?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_55": {
+            "id": "djr6T2C8Gfs_55",
+            "scene": 5,
+            "dimension": "Camera Direction",
+            "question": "Is the camera's perspective directly facing these ghostly figures?",
+            "options": [
+                "A. Yes, the camera's perspective is directly facing them.",
+                "B. No, the camera's perspective is shot from above.",
+                "C. No, the camera's perspective is shot from an angle.",
+                "D. No, the camera's perspective is shot from behind."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_56": {
+            "id": "djr6T2C8Gfs_56",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "How are star-shaped symbols arranged on the creamy white paper?",
+            "options": [
+                "A. Randomly scattered on the paper.",
+                "B. Symmetrically arranged at the top of the paper.",
+                "C. Located at the four corners of the paper.",
+                "D. Arranged along the diagonal of the rectangle."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_57": {
+            "id": "djr6T2C8Gfs_57",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the next scene after the tavern?",
+            "options": [
+                "A. The scene switches to a close-up of a cream-colored paper.",
+                "B. The scene changes to the exterior of the tavern.",
+                "C. The scene moves to a bustling market.",
+                "D. The scene shifts to a dark and rainy night."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_58": {
+            "id": "djr6T2C8Gfs_58",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the ghost on the right side of the illustration on the paper?",
+            "options": [
+                "A. Round, small eyes, with a crown-like hat on its head.",
+                "B. Slender, petal-shaped hat and dot-like facial markings.",
+                "C. Tall, wearing a wide-brimmed hat.",
+                "D. Square-shaped, with big eyes."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_59": {
+            "id": "djr6T2C8Gfs_59",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What is the fur color of the wolf-like character?",
+            "options": [
+                "A. The wolf's fur color is dark gray, with lighter tones around the mouth.",
+                "B. The wolf's fur color is white, with black spots around the ears.",
+                "C. The wolf's fur color is brown, with golden highlights on the tail.",
+                "D. The wolf's fur color is black, with red stripes around the eyes."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_60": {
+            "id": "djr6T2C8Gfs_60",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What's special about the wolf's ears?",
+            "options": [
+                "A. They are completely dark gray.",
+                "B. They have a pinkish hue.",
+                "C. They are entirely orange.",
+                "D. They are filled with light blue highlights."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_61": {
+            "id": "djr6T2C8Gfs_61",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "How are the eyes of a wolf-like character described?",
+            "options": [
+                "A. Wolves have wide, round eyes.",
+                "B. Wolves have narrow, slanted eyes.",
+                "C. Wolves have bright blue eyes.",
+                "D. Wolves have closed, sleepy eyes."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_62": {
+            "id": "djr6T2C8Gfs_62",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What unique accessories does the wolf-like character have?",
+            "options": [
+                "A. Wears a black western cowboy hat.",
+                "B. Wears a red scarf.",
+                "C. Wears a blue hat.",
+                "D. Has a green bandana tied to its tail."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_63": {
+            "id": "djr6T2C8Gfs_63",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What is unique about the mouth of a wolf-like character?",
+            "options": [
+                "A. The wolf's slightly open mouth reveals a sharp fang.",
+                "B. The wolf shows a wide grin, exposing multiple sharp teeth.",
+                "C. The wolf keeps its mouth closed, with drool dripping down.",
+                "D. The wolf sticks out a long tongue."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_64": {
+            "id": "djr6T2C8Gfs_64",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many sharp teeth can be seen in the mouth of the wolf-like character?",
+            "options": [
+                "A. One sharp tooth",
+                "B. Two sharp teeth",
+                "C. Three sharp teeth",
+                "D. No sharp teeth"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_65": {
+            "id": "djr6T2C8Gfs_65",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used to depict wolf-like characters?",
+            "options": [
+                "A. Close-up shot.",
+                "B. Wide-angle shot.",
+                "C. Medium shot.",
+                "D. Over-the-shoulder shot from behind."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_66": {
+            "id": "djr6T2C8Gfs_66",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "From the picture, where is the ghostly figure wearing a red ribbon black cowboy hat located?",
+            "options": [
+                "A. Above.",
+                "B. Below.",
+                "C. Left.",
+                "D. Right."
+            ],
+            "answer": "D"
+        },
+        "djr6T2C8Gfs_67": {
+            "id": "djr6T2C8Gfs_67",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "In the desert scene, what is the position of the fat ghost wearing a crown-like hat relative to the other ghost?",
+            "options": [
+                "A. In front.",
+                "B. Behind.",
+                "C. On the left.",
+                "D. On the right."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_68": {
+            "id": "djr6T2C8Gfs_68",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What is the scene environment in the video like?",
+            "options": [
+                "A. A cartoon desert landscape",
+                "B. A dense forest, pouring rain, and a night sky filled with lightning.",
+                "C. A lush green meadow.",
+                "D. Desolate and bleak, covered in white snow, with a clear blue sky and no vegetation."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_69": {
+            "id": "djr6T2C8Gfs_69",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "What actions are these ghostly figures performing?",
+            "options": [
+                "A. All riding ghostly horse-like creatures.",
+                "B. Sitting on benches.",
+                "C. Flying in the sky.",
+                "D. All standing still."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_70": {
+            "id": "djr6T2C8Gfs_70",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What are the notable features of the light blue horse ridden by the ghost on the right?",
+            "options": [
+                "A. It has a simple, ghostly outline.",
+                "B. It has a bright and ornate saddle.",
+                "C. It has burning mane and tail.",
+                "D. The light blue horse ridden by the ghost on the right is decorated with intricate patterns."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_71": {
+            "id": "djr6T2C8Gfs_71",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What are the notable features of the milky white horse ridden by the ghost on the left?",
+            "options": [
+                "A. Equipped with a light orange saddle.",
+                "B. Equipped with a blue saddle.",
+                "C. Has large wings.",
+                "D. Has black round eyes."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_72": {
+            "id": "djr6T2C8Gfs_72",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What common characteristics do the horses ridden by ghostly figures have?",
+            "options": [
+                "A. Both horses possess ghostly abstract forms.",
+                "B. Both horses are depicted in great detail.",
+                "C. Both horses have large, expressive eyes and colorful saddles.",
+                "D. Both horses stand quietly with no sign of movement."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_73": {
+            "id": "djr6T2C8Gfs_73",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many ghost-like figures are there in the desert scene?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_74": {
+            "id": "djr6T2C8Gfs_74",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many horse-like creatures are there in the desert scene?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_75": {
+            "id": "djr6T2C8Gfs_75",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Is the ghost on the left wearing a hat?",
+            "options": [
+                "A. Yes, the ghost on the left is wearing a hat, but it's relatively small.",
+                "B. No, the ghost on the left is not wearing a hat.",
+                "C. The ghost on the left is wearing a hat with a red ribbon.",
+                "D. The ghost on the left is wearing a hat with a black ribbon."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_76": {
+            "id": "djr6T2C8Gfs_76",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What is the ghost on the left wearing on its head?",
+            "options": [
+                "A. The ghost on the left is wearing a cowboy hat with a red ribbon.",
+                "B. The ghost on the left has a crown-like cap on its head.",
+                "C. The ghost on the left has nothing on its head.",
+                "D. The ghost on the left is wearing a headscarf."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_77": {
+            "id": "djr6T2C8Gfs_77",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "In which direction does the ghostly figure and its horse-like creature move?",
+            "options": [
+                "A. Moves from right to left.",
+                "B. Moves from left to right.",
+                "C. Moves from top to bottom.",
+                "D. Moves from bottom to top."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_78": {
+            "id": "djr6T2C8Gfs_78",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "What type of camera perspective is used in the desert scene?",
+            "options": [
+                "A. A side view is used.",
+                "B. A top-down view is used.",
+                "C. A first-person perspective is used.",
+                "D. A bird's-eye view is used."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_79": {
+            "id": "djr6T2C8Gfs_79",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "When does the ghostly figure appear in relation to the wolf?",
+            "options": [
+                "A. The ghostly figure appears before the wolf.",
+                "B. The ghostly figure appears after the wolf.",
+                "C. The ghostly figure appears at the same time as the wolf.",
+                "D. The ghostly figure does not appear in the scene."
+            ],
+            "answer": "D"
+        },
+        "djr6T2C8Gfs_80": {
+            "id": "djr6T2C8Gfs_80",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "What changes have occurred in the current scene compared to the previous one?",
+            "options": [
+                "A. A wolf appears and takes over the new frame.",
+                "B. A ghostly figure returns with reinforcements.",
+                "C. A sandstorm engulfs the scene, obscuring all characters.",
+                "D. The scene transitions to a peaceful oasis with a tranquil water surface."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_81": {
+            "id": "djr6T2C8Gfs_81",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene take place?",
+            "options": [
+                "A. In a desert landscape.",
+                "B. In a dense forest.",
+                "C. In a busy urban landscape.",
+                "D. On a snow-covered mountain top."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_82": {
+            "id": "djr6T2C8Gfs_82",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the anthropomorphic wolf perform?",
+            "options": [
+                "A. Running on all fours in the scene.",
+                "B. Digging a hole in the desert ground.",
+                "C. Hiding behind a rock structure.",
+                "D. Riding on a ghostly horse-shaped companion."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_83": {
+            "id": "djr6T2C8Gfs_83",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "What color is the wolf's shirt?",
+            "options": [
+                "A. Navy blue.",
+                "B. Reddish brown.",
+                "C. Bright yellow.",
+                "D. Olive green."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_84": {
+            "id": "djr6T2C8Gfs_84",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "What is the emblem on the wolf's shirt?",
+            "options": [
+                "A. Crescent emblem",
+                "B. Western star emblem",
+                "C. Cactus emblem",
+                "D. Jagged mountain emblem"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_85": {
+            "id": "djr6T2C8Gfs_85",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "What type of shoes do wolves wear?",
+            "options": [
+                "A. Wolves wear sandals.",
+                "B. Wolves wear black boots.",
+                "C. Wolves wear running shoes.",
+                "D. Wolves wear cowboy boots."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_86": {
+            "id": "djr6T2C8Gfs_86",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "What type of hat does the wolf wear?",
+            "options": [
+                "A. A cowboy hat with feathers",
+                "B. A wide-brimmed hat",
+                "C. A soft sun hat",
+                "D. A helmet decorated with spikes"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_87": {
+            "id": "djr6T2C8Gfs_87",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "Does the ghostly figure remain in the scene throughout the video?",
+            "options": [
+                "A. Yes, the ghostly figure remains in the scene throughout.",
+                "B. No, the ghostly figure disappears when the wolf enters the scene.",
+                "C. Yes, they stay in the background while the wolf takes center stage.",
+                "D. No, the ghostly figure disappears into the sky as the scene transitions."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_88": {
+            "id": "djr6T2C8Gfs_88",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "What is the position of the wolf relative to the ghost figure?",
+            "options": [
+                "A. The wolf is positioned behind the ghost, chasing it.",
+                "B. The wolf is directly in front of the ghost figure.",
+                "C. The wolf is to the right of the ghost figure.",
+                "D. The wolf is below the ghost figure."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_89": {
+            "id": "djr6T2C8Gfs_89",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "What is the environment depicted in the video scene?",
+            "options": [
+                "A. Tropical beach.",
+                "B. In a dense jungle.",
+                "C. In a desert landscape.",
+                "D. Among snow-capped mountains."
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_90": {
+            "id": "djr6T2C8Gfs_90",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "What are the facial expressions of those ghostly figures on horseback?",
+            "options": [
+                "A. Both figures have frightened expressions with beads of sweat, primarily in green tones.",
+                "B. One figure has a happy expression, and the other has a surprised expression.",
+                "C. Both figures have angry expressions, with red tones.",
+                "D. One figure looks sad, while the other appears happy."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_91": {
+            "id": "djr6T2C8Gfs_91",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "What are the noticeable physical characteristics of the wolf in the scene?",
+            "options": [
+                "A. The wolf has big eyes, a long cartoonish nose, and sharp teeth.",
+                "B. The wolf has small eyes, a short nose, and lacks teeth.",
+                "C. The wolf is blue, has round ears, and a long tail.",
+                "D. The wolf is wearing a red scarf and glasses."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_92": {
+            "id": "djr6T2C8Gfs_92",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "What is the wolf's posture in the scene?",
+            "options": [
+                "A. The wolf is crouched low on the ground, ready to pounce.",
+                "B. The wolf is lying on the ground, looking relaxed and calm.",
+                "C. Four feet on the ground, in a running posture.",
+                "D. The wolf is sitting quietly, with its tail wrapped around its body."
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_93": {
+            "id": "djr6T2C8Gfs_93",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "Is the wolf depicted in a stationary posture?",
+            "options": [
+                "A. Yes, the wolf is depicted in a stationary posture, standing quietly.",
+                "B. No, the wolf is depicted in a dynamic posture, standing on its hind legs with its front legs raised.",
+                "C. Yes, the wolf is calmly sitting on the ground without any movement.",
+                "D. No, the wolf is lying flat on the ground, completely motionless."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_94": {
+            "id": "djr6T2C8Gfs_94",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "What subtle action does the wolf seem to be doing?",
+            "options": [
+                "A. The wolf seems to be running with its mouth wide open.",
+                "B. The wolf seems to be chasing a ghostly figure with clenched teeth.",
+                "C. The wolf seems to be running away in fear, looking back.",
+                "D. The wolf seems to be howling quietly, signaling to a distant pack."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_95": {
+            "id": "djr6T2C8Gfs_95",
+            "scene": 10,
+            "dimension": "Object Direction",
+            "question": "In which direction is the cartoon wolf moving in the picture?",
+            "options": [
+                "A. Moving to the left.",
+                "B. Moving to the right.",
+                "C. Staying still.",
+                "D. Moving upwards."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_96": {
+            "id": "djr6T2C8Gfs_96",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the animated chase scene?",
+            "options": [
+                "A. A vast desert with rolling ridges.",
+                "B. In a dense, dark forest.",
+                "C. In a bustling urban landscape.",
+                "D. On snowy mountain peaks."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_97": {
+            "id": "djr6T2C8Gfs_97",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "What is the color scheme of the animated chase scene?",
+            "options": [
+                "A. The environmental features are reddish-brown and green tones.",
+                "B. The scene includes cool blue and silver tones.",
+                "C. The background has vibrant purple and gold.",
+                "D. The palette includes deep black and neon green tones."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_98": {
+            "id": "djr6T2C8Gfs_98",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "During the chase, what is the ghostly horseback figure doing?",
+            "options": [
+                "A. Standing still, observing the chase.",
+                "B. Moving further into the mid-background on the right side while maintaining a running motion across the desert.",
+                "C. Closing in on the wolves from multiple directions.",
+                "D. Completely disappeared from the scene."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_99": {
+            "id": "djr6T2C8Gfs_99",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "What change occurred in the position of the thorn bush during the chase scene?",
+            "options": [
+                "A. Throughout the entire scene, the thorn bush remained stationary.",
+                "B. The thorn bush was initially very prominent, then moved slightly farther away.",
+                "C. The thorn bush completely disappeared midway through the chase.",
+                "D. As the chase progressed, the thorn bush gradually moved closer to the wolf."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_100": {
+            "id": "djr6T2C8Gfs_100",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "How many massive ghost faces are introduced in the upper frame?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. No massive ghost faces"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_101": {
+            "id": "djr6T2C8Gfs_101",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "Do wolves change their running posture during a chase scene?",
+            "options": [
+                "A. Yes, wolves often change their running posture.",
+                "B. Yes, wolves pause briefly and adjust their posture.",
+                "C. No, wolves do not change their running posture during a chase scene.",
+                "D. No, wolves change their chase target but do not change their posture."
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_102": {
+            "id": "djr6T2C8Gfs_102",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "What happens to the ghosts at the end of the chase scene?",
+            "options": [
+                "A. Completely disappeared over the horizon.",
+                "B. Turned into wolves.",
+                "C. Became clearer and more conspicuous.",
+                "D. Stopped and confronted the wolves."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_103": {
+            "id": "djr6T2C8Gfs_103",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "How does the camera ultimately emphasize the chase scene?",
+            "options": [
+                "A. The camera shoots from an extremely low angle.",
+                "B. The camera is fixed on a ghostly face.",
+                "C. The camera zooms in on the ghost riding a horse.",
+                "D. The camera moves quickly back and forth."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_104": {
+            "id": "djr6T2C8Gfs_104",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the desert and cave-like environment in the video?",
+            "options": [
+                "A. The desert and cave-like environment merge into a continuous open area without obvious separation.",
+                "B. The desert is depicted as a vast open landscape transitioning into a closed cave-like environment framed by rugged openings, contrasting with the sunny desert background.",
+                "C. The cave-like environment is far from the desert, with no visual connection or transition between them.",
+                "D. The desert is a secondary element, mainly serving as the background for the cave-like environment, which dominates the scene."
+            ],
+            "answer": "D"
+        },
+        "djr6T2C8Gfs_105": {
+            "id": "djr6T2C8Gfs_105",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "What are the main features of the cave-like environment in the video?",
+            "options": [
+                "A. Dim and shadowy, with soft tones.",
+                "B. Depicted in natural tones of orange and brown, surrounded by rough cave openings.",
+                "C. Composed of a frozen texture, with blue and white as the main colors in the picture.",
+                "D. Illuminated by glowing green crystals."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_106": {
+            "id": "djr6T2C8Gfs_106",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "What are the behavioral characteristics of the blue wolf paired with a cowboy image?",
+            "options": [
+                "A. The blue wolf quietly hides behind the rocks.",
+                "B. The blue wolf with a cowboy image strides confidently.",
+                "C. The blue wolf sings a melodious tune.",
+                "D. The blue wolf is eating delicious food."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_107": {
+            "id": "djr6T2C8Gfs_107",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics that can describe a wolf?",
+            "options": [
+                "A. Wearing a triangular badge.",
+                "B. Is static, similar to a structure formed by rock.",
+                "C. Wearing cowboy clothing.",
+                "D. Has a very large body size."
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_108": {
+            "id": "djr6T2C8Gfs_108",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "What does the rock structure in the middle resemble?",
+            "options": [
+                "A. It resembles a human figure with a cowboy hat outline, one wide and rounded, the other more slender.",
+                "B. It resembles a towering cactus, with long arms and a vibrant green hue.",
+                "C. It resembles a giant animal footprint, etched into the sandy surface of the desert ground.",
+                "D. It resembles abstract shapes, with a smooth surface like a gemstone."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_109": {
+            "id": "djr6T2C8Gfs_109",
+            "scene": 11,
+            "dimension": "Count",
+            "question": "How many different ones are there in the center of the cave scene?",
+            "options": [
+                "A. Two",
+                "B. Three",
+                "C. Four",
+                "D. Five"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_110": {
+            "id": "djr6T2C8Gfs_110",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "Does the initial rock structure remain stationary throughout the video?",
+            "options": [
+                "A. Yes, the initial rock structure remains stationary.",
+                "B. No, the initial rock structure becomes animated.",
+                "C. Yes, but they frequently change positions.",
+                "D. No, they turn into different characters."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_111": {
+            "id": "djr6T2C8Gfs_111",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "Did any rock formations change in the video?",
+            "options": [
+                "A. Yes, one of the rock formations turned into a wolf.",
+                "B. No, all the rocks remained still.",
+                "C. Yes, two rock formations turned into anthropomorphic wolves.",
+                "D. Yes, the rocks turned into ghost cowboys."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_112": {
+            "id": "djr6T2C8Gfs_112",
+            "scene": 11,
+            "dimension": "Fine Grained Action",
+            "question": "What specific actions did the wolf perform in the video?",
+            "options": [
+                "A. Struck a confident pose and then dynamically moved to the right.",
+                "B. Climbed up the cave wall to observe the surroundings.",
+                "C. Circled around the larger wolf character and then disappeared.",
+                "D. Remained completely still near a group of slender rocks."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_113": {
+            "id": "djr6T2C8Gfs_113",
+            "scene": 11,
+            "dimension": "Object Direction",
+            "question": "From the wolf's perspective, which direction does the wolf move in the cave?",
+            "options": [
+                "A. Move forward.",
+                "B. Move backward.",
+                "C. Move sideways.",
+                "D. Remain stationary."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_114": {
+            "id": "djr6T2C8Gfs_114",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "What features of the larger rock structure in the video have changed?",
+            "options": [
+                "A. It turned into a giant wolf.",
+                "B. Compared to an animated-style blue wolf.",
+                "C. Remained stationary throughout the video.",
+                "D. Replaced by finer rock structures."
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_115": {
+            "id": "djr6T2C8Gfs_115",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "Did the wolf return to the cave after leaving the scene?",
+            "options": [
+                "A. Yes, the wolf returned to continue chasing the ghost.",
+                "B. Yes, but the wolf only popped out halfway at the end.",
+                "C. No, the wolf was not visible afterward.",
+                "D. No, the wolf appeared in the desert background."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_116": {
+            "id": "djr6T2C8Gfs_116",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What changes occur in the scene when the ghost cowboy rides through the desert road?",
+            "options": [
+                "A. The camera zooms in, becoming a close-up of two ghosts.",
+                "B. The desert background changes to a dense forest landscape.",
+                "C. The background changes to a nighttime scene.",
+                "D. The scene shows a close-up of a rock cliff."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_117": {
+            "id": "djr6T2C8Gfs_117",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "After the detailed display of those ghost cowboys and their horses, how does the narrative unfold?",
+            "options": [
+                "A. The scene transitions to a western town landscape.",
+                "B. The scene transitions to inside a cave.",
+                "C. The scene returns to the open desert.",
+                "D. The narrative shifts to a tranquil meadow."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_118": {
+            "id": "djr6T2C8Gfs_118",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "In the narrative, what is the order in which those ghostly cowboys appear?",
+            "options": [
+                "A. The ghostly cowboys first appear riding horses on the distant road.",
+                "B. The ghostly cowboys first appear as shadows at close range.",
+                "C. The ghostly cowboys first emerge from the shadows of the cave.",
+                "D. The ghostly cowboys first appear on the horizon."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_119": {
+            "id": "djr6T2C8Gfs_119",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "When does the sheriff wolf appear in the narrative?",
+            "options": [
+                "A. In the initial desert scene, along with rock formations.",
+                "B. When the ghost cowboy is at the saloon, carrying a 'wanted' poster.",
+                "C. Upon first entering a cavernous environment, introducing the sheriff cat.",
+                "D. After the coyote transforms into a formidable wolf."
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_120": {
+            "id": "djr6T2C8Gfs_120",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "In the narrative, does the camera angle alternate between close-up shots and wide-angle shots?",
+            "options": [
+                "A. Alternates between shots of Sheriff Wolf and the Ghost Cowboy, as well as expansive scenes like the desert and the small town.",
+                "B. The camera primarily focuses on close-up shots of rock formations and the anthropomorphic wolf character.",
+                "C. The camera exclusively uses wide-angle shots to capture the entire desert landscape and cave scenes.",
+                "D. The camera alternates between close-ups of Blue Wolf's actions and static views of slender rock formations."
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_121": {
+            "id": "djr6T2C8Gfs_121",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happened before the sheriff wolf appeared?",
+            "options": [
+                "A. The narrative focuses on ghostly characters and humorous activities in the tavern.",
+                "B. The narrative depicts a chase scene through a desert canyon.",
+                "C. The narrative presents a tranquil village scene.",
+                "D. The narrative features an epic battle between opposing cowboy characters."
+            ],
+            "answer": "A"
+        }
+    }
+}

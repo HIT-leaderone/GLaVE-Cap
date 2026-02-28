@@ -1,0 +1,1718 @@
+{
+    "scene_hint": {
+        "0": "Five speed skaters prepare to start at the sound of the whistle.",
+        "1": "Focus on the process of competing for the curve.",
+        "2": "The competition remains intense, and the athlete in blue makes a mistake.",
+        "3": "A close-up shot of the athlete in a blue shirt who withdrew due to the mistake.",
+        "4": "A long shot observing the athletes' competition process until the end of the race.",
+        "5": "A close-up shot of athlete number 6 celebrating.",
+        "6": "A close-up shot of athlete number 58 celebrating.",
+        "7": "A close-up shot of athlete number 23.",
+        "8": "The left side has a white background, the right side has a blue background, and text appears on both."
+    },
+    "qa": {
+        "54YD3Gv-3MI_0": {
+            "id": "54YD3Gv-3MI_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "How are the skaters arranged on the ice rink?",
+            "options": [
+                "A. The skaters form a straight line on the ice rink.",
+                "B. The skaters gather closely together to form a circle.",
+                "C. The skaters line up along the edge of the ice rink.",
+                "D. The skaters arrange themselves into two parallel lines in the center of the ice rink."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_1": {
+            "id": "54YD3Gv-3MI_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the skater on the far left of the screen at the beginning of the scene?",
+            "options": [
+                "A. The skater on the far left is closest to the purple banner.",
+                "B. The skater on the far left is at the front of the line.",
+                "C. The skater on the far left is in the center of the skating rink.",
+                "D. The skater on the far left is near the middle-right skater."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_2": {
+            "id": "54YD3Gv-3MI_2",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the position of the skater on the far right of the screen at the beginning of the scene?",
+            "options": [
+                "A. Closest to the purple banner.",
+                "B. Slightly towards the left center of the ice rink.",
+                "C. At the far end of the purple venue banner.",
+                "D. In the center of the ice rink."
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_3": {
+            "id": "54YD3Gv-3MI_3",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the overall background of this scene?",
+            "options": [
+                "A. The scene is set on a basketball court.",
+                "B. The scene is set on an ice skating rink.",
+                "C. The scene is set on a swimming pool deck.",
+                "D. The scene is set on a track."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_4": {
+            "id": "54YD3Gv-3MI_4",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What banners can be seen in the scene?",
+            "options": [
+                "A. Purple banners are arranged on the left side of the ice rink.",
+                "B. The red banner with bold text is displayed on the far right of the ice rink.",
+                "C. Blue and white banners are scattered on the ice surface.",
+                "D. The green banner with the Olympic logo is placed in the center of the ice rink."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_5": {
+            "id": "54YD3Gv-3MI_5",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the skater on the far left wearing at the start of the scene?",
+            "options": [
+                "A. Black and white uniform, black and white helmet, black and yellow gloves.",
+                "B. Green and white uniform, white helmet, blue gloves.",
+                "C. Red and black uniform, red helmet with a gold pattern, red gloves.",
+                "D. Blue and black uniform, black helmet, black gloves."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_6": {
+            "id": "54YD3Gv-3MI_6",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What are the obvious objects in this scene?",
+            "options": [
+                "A. There is a smooth ice surface, a purple billboard, and the Olympic rings in the scene.",
+                "B. There is a wooden floor, a green billboard, and international flags in the scene.",
+                "C. There is a smooth ice surface, a blue billboard, and a 'Tokyo2022' banner in the scene.",
+                "D. There is a sandy arena, a red billboard, and national emblems in the scene."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_7": {
+            "id": "54YD3Gv-3MI_7",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many skaters were there initially in the scene?",
+            "options": [
+                "A. Three.",
+                "B. Four.",
+                "C. Five.",
+                "D. Six."
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_8": {
+            "id": "54YD3Gv-3MI_8",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is this event related to the Olympics?",
+            "options": [
+                "A. Yes, this event is related to the Olympics because the Olympic rings symbol was displayed on the screen.",
+                "B. No, this event is not related to the Olympics; it is a regional championship.",
+                "C. Yes, this event is an international speed skating competition but not the Olympics.",
+                "D. No, this event is a local sports league."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_9": {
+            "id": "54YD3Gv-3MI_9",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "Before the start, what action is skater number 15 doing?",
+            "options": [
+                "A. Maintaining a low squat position, arms extended backward, making a starting motion.",
+                "B. Leading the team, one arm extended forward, the other arm backward.",
+                "C. Standing upright at the side observing the race.",
+                "D. Taking a deep squat position to blend into the team."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_10": {
+            "id": "54YD3Gv-3MI_10",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "In which direction does the center skater move at the start?",
+            "options": [
+                "A. Moves backward.",
+                "B. Moves sideways.",
+                "C. Moves in circles.",
+                "D. Moves forward."
+            ],
+            "answer": "D"
+        },
+        "54YD3Gv-3MI_11": {
+            "id": "54YD3Gv-3MI_11",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle at the timestamp '3.6' in the scene?",
+            "options": [
+                "A. The camera maintains a slightly elevated angle.",
+                "B. The camera is directly overhead.",
+                "C. The camera is at ice level, shooting from the side.",
+                "D. The camera is behind the skaters, showing their backs."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_12": {
+            "id": "54YD3Gv-3MI_12",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What is the camera's focus at the scene timestamp '3.6'?",
+            "options": [
+                "A. The camera uses a wide-angle shot to capture the entire skating rink, showing all the skaters.",
+                "B. The camera closely focuses on the billboard.",
+                "C. The camera focuses more closely on the skaters.",
+                "D. The camera focuses on the audience in the background."
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_13": {
+            "id": "54YD3Gv-3MI_13",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the person in the red skating outfit located in the picture after the athlete in the blue skating outfit falls?",
+            "options": [
+                "A. Near the bottom right corner.",
+                "B. Near the top left corner.",
+                "C. Near the top right corner.",
+                "D. Near the bottom left corner."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_14": {
+            "id": "54YD3Gv-3MI_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "How is the overall environment of the event?",
+            "options": [
+                "A. The event is held at the Olympic skating rink.",
+                "B. The event takes place in a quiet, dimly lit venue.",
+                "C. The event is held at a local skating rink.",
+                "D. The event takes place at an outdoor skating rink."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_15": {
+            "id": "54YD3Gv-3MI_15",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Who is currently leading?",
+            "options": [
+                "A. The player in the bright red shirt.",
+                "B. The player in the maroon shirt.",
+                "C. The player in the blue shirt.",
+                "D. The player in the white shirt."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_16": {
+            "id": "54YD3Gv-3MI_16",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Who is the current leading contestant?",
+            "options": [
+                "A. WU D.",
+                "B. R. ZVEJNIEKS",
+                "C. N. ZHUMAGAZIYEV",
+                "D. Unable to determine"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_17": {
+            "id": "54YD3Gv-3MI_17",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Which country is the current leading player from?",
+            "options": [
+                "A. China",
+                "B. Austria",
+                "C. Germany",
+                "D. Finland"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_18": {
+            "id": "54YD3Gv-3MI_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Which edition of the Olympic Games is the current competition?",
+            "options": [
+                "A. PyeongChang2018.",
+                "B. Tokyo2020",
+                "C. Beijing2022",
+                "D. Paris2024"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_19": {
+            "id": "54YD3Gv-3MI_19",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What action did the skater in black and white clothing take immediately after the athlete in the blue top fell?",
+            "options": [
+                "A. The skater maintained balance and sprinted forward, overtaking the fallen competitor.",
+                "B. The skater fell along with other competitors and lost position.",
+                "C. The skater came to a complete stop to help the fallen competitor.",
+                "D. The skater veered off the track to avoid intervention from the referees."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_20": {
+            "id": "54YD3Gv-3MI_20",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What real-time updates are displayed when the graphics overlay appears for the second time during the race?",
+            "options": [
+                "A. For example, '3 LAPS TO GO,' a lap time of '8.52 seconds,' a speed reading of '50.9 KM/H,' and a timer reading of '15.22.'",
+                "B. For example, '5 LAPS TO GO,' a lap time of '10.00 seconds,' a speed reading of '55.0 KM/H,' and a timer reading of '18.33.'",
+                "C. For example, '2 LAPS TO GO,' a lap time of '7.45 seconds,' a speed reading of '52.3 KM/H,' and a timer reading of '16.89.'",
+                "D. For example, '4 LAPS TO GO,' a lap time of '9.67 seconds,' a speed reading of '48.5 KM/H,' and a timer reading of '17.54.'"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_21": {
+            "id": "54YD3Gv-3MI_21",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many skaters fell on the ice?",
+            "options": [
+                "A. Two.",
+                "B. One.",
+                "C. Four.",
+                "D. Five."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_22": {
+            "id": "54YD3Gv-3MI_22",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Did the referee intervene during the athlete's fall?",
+            "options": [
+                "A. No, the referee did not intervene during the incident.",
+                "B. Yes, the referee immediately intervened to help the fallen skater.",
+                "C. Yes, the referee canceled the competition due to the collision.",
+                "D. No, the referee was unaware of the incident."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_23": {
+            "id": "54YD3Gv-3MI_23",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the reaction of the skater in black and white clothing to other skaters falling?",
+            "options": [
+                "A. The skater maintains balance and moves forward to gain a favorable position in the competition.",
+                "B. The skater stops to help the fallen skater get back up.",
+                "C. The skater loses balance and collides with another skater.",
+                "D. The skater signals the referee to intervene and then continues the competition."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_24": {
+            "id": "54YD3Gv-3MI_24",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "What is the position of the skater wearing blue clothes relative to the skater wearing red clothes?",
+            "options": [
+                "A. The former is closer to the foreground than the latter.",
+                "B. The former is closer to the top edge than the latter.",
+                "C. The former is on the right side of the ice rink, near the sideline.",
+                "D. The former is behind the latter."
+            ],
+            "answer": "D"
+        },
+        "54YD3Gv-3MI_25": {
+            "id": "54YD3Gv-3MI_25",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What camera angle was used at the end of the scene?",
+            "options": [
+                "A. A slightly elevated camera angle was used.",
+                "B. A low-angle camera perspective was used.",
+                "C. A close-up camera angle highlighted the skater.",
+                "D. An overhead bird's-eye view was used."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_26": {
+            "id": "54YD3Gv-3MI_26",
+            "scene": 2,
+            "dimension": "Speed",
+            "question": "What is the fastest speed of the skater during the competition in the scene?",
+            "options": [
+                "A. It is 50.9 km/h.",
+                "B. It is 45.3 km/h.",
+                "C. It is 60.2 km/h.",
+                "D. It is 55.7 km/h."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_27": {
+            "id": "54YD3Gv-3MI_27",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "After the fall accident, who remained in first place on the leaderboard?",
+            "options": [
+                "A. CHN 6 WU D.",
+                "B. LAT 23 R. ZVEJNIEKS",
+                "C. JPN 19 K. WATANABE",
+                "D. USA 12 J. DOE"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_28": {
+            "id": "54YD3Gv-3MI_28",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "After the fall incident, who is in second place on the leaderboard?",
+            "options": [
+                "A. CHN No. 6 WU D.",
+                "B. LAT No. 23 R. ZVEJNIEKS",
+                "C. JPN No. 19 K. WATANABE",
+                "D. KR No. 58 HWANG D."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_29": {
+            "id": "54YD3Gv-3MI_29",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "After the fall incident, who is ranked third on the leaderboard?",
+            "options": [
+                "A. 'CHN 6 WU D.'",
+                "B. 'LAT 23 R. ZVEJNIEKS'",
+                "C. 'JPN 19 K. WATANABE'",
+                "D. 'USA 12 J. SMITH'"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_30": {
+            "id": "54YD3Gv-3MI_30",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What visual elements inform the audience about the progress of the race?",
+            "options": [
+                "A. Graphic overlays displaying '3 LAPS TO GO', lap times, speed, timer, and leaderboard updates.",
+                "B. Commentators continuously providing live commentary.",
+                "C. Flags and banners in the audience showing support.",
+                "D. Skaters changing uniform colors during the race."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_31": {
+            "id": "54YD3Gv-3MI_31",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "Where is the skater's position relative to the camera angle?",
+            "options": [
+                "A. The skater is filmed from a slightly elevated front-left perspective.",
+                "B. The skater is filmed from a low front-right perspective.",
+                "C. The skater is filmed directly from above.",
+                "D. The skater is filmed from a ground-level side perspective."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_32": {
+            "id": "54YD3Gv-3MI_32",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the environment?",
+            "options": [
+                "A. A professional speed skating rink.",
+                "B. A casual outdoor ice rink.",
+                "C. An indoor roller skating rink.",
+                "D. A practice ice rink."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_33": {
+            "id": "54YD3Gv-3MI_33",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What is the skater doing in the subsequent footage?",
+            "options": [
+                "A. The skater raises both hands, celebrating victory.",
+                "B. The skater adjusts their goggles with their right hand while maintaining steady forward momentum.",
+                "C. The skater slides backward to avoid obstacles.",
+                "D. The skater slows down on the ice rink while adjusting their skates."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_34": {
+            "id": "54YD3Gv-3MI_34",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What does the skater's uniform look like?",
+            "options": [
+                "A. Black and blue tight-fitting suit with a yellow badge on the left chest, black helmet, goggles with green reflection, white gloves, and beige skates equipped with golden blades.",
+                "B. Bright red tight-fitting suit with white stripes, blue helmet, yellow goggles, black gloves, and silver skates equipped with red blades.",
+                "C. All-black tight-fitting suit with no badge, red helmet, transparent goggles, white gloves, and black skates equipped with bronze blades.",
+                "D. Blue and white tight-fitting suit with a green badge, black helmet, mirrored goggles, black gloves, and white skates equipped with silver blades."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_35": {
+            "id": "54YD3Gv-3MI_35",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What unique colors can be clearly observed in the skater's outfit?",
+            "options": [
+                "A. Black, blue, yellow, white, and beige",
+                "B. Black, green, yellow, white, and beige",
+                "C. Black, blue, yellow, purple, and beige",
+                "D. Black, blue, red, white, and green"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_36": {
+            "id": "54YD3Gv-3MI_36",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Is the speed shown on the screen at this time over 50 km/h?",
+            "options": [
+                "A. Yes, the skater's speed is shown as 50.9 km/h.",
+                "B. No, the skater's speed is below 50 km/h.",
+                "C. No, the skater's speed is exactly 50 km/h.",
+                "D. Yes, the skater's speed is shown as 51.5 km/h."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_37": {
+            "id": "54YD3Gv-3MI_37",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the skater perform with their right hand while continuing to move forward?",
+            "options": [
+                "A. The skater placed their right hand on their goggles, possibly to make an adjustment.",
+                "B. The skater waved to the audience with their right hand.",
+                "C. The skater touched the ice surface with their right hand.",
+                "D. The skater signaled to another competitor with their right hand."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_38": {
+            "id": "54YD3Gv-3MI_38",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "For skaters, in which direction is the skater moving?",
+            "options": [
+                "A. The skater is moving forward.",
+                "B. The skater is moving backward.",
+                "C. The skater is moving sideways.",
+                "D. The skater is stationary."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_39": {
+            "id": "54YD3Gv-3MI_39",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "What was the speed shown in the video during the competition?",
+            "options": [
+                "A. 48.5 km/h.",
+                "B. 50.9 km/h.",
+                "C. 52.3 km/h.",
+                "D. 49.7 km/h."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_40": {
+            "id": "54YD3Gv-3MI_40",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What is included in the information text in the lower left corner of the scene?",
+            "options": [
+                "A. Information about the leading contestant",
+                "B. The skater's heart rate",
+                "C. The weather conditions outside",
+                "D. The total number of laps completed"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_41": {
+            "id": "54YD3Gv-3MI_41",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "Where was the scene filmed?",
+            "options": [
+                "A. Filmed in the Olympic venue for speed skating competitions.",
+                "B. Filmed at the local skating rink during regular practice.",
+                "C. Filmed in the arena during a figure skating performance.",
+                "D. Filmed on the outdoor snow slope during a skiing competition."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_42": {
+            "id": "54YD3Gv-3MI_42",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "When the text shows 'KOR HWANG D.' as the third, what is his posture like?",
+            "options": [
+                "A. He has fallen.",
+                "B. His posture is leaning forward.",
+                "C. His posture is low and crouching.",
+                "D. His posture is relaxed and casual."
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_43": {
+            "id": "54YD3Gv-3MI_43",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "“CHN WU D.”, what is the uniform of this lead skier?",
+            "options": [
+                "A. A unique red and black interlaced outfit.",
+                "B. A black and red interlaced uniform.",
+                "C. A black and white interlaced outfit with red accents.",
+                "D. A red and black interlaced uniform, wearing an orange helmet."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_44": {
+            "id": "54YD3Gv-3MI_44",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is 'LAT R. ZVEJNIEKS' closely following 'CHN WU D.' in the competition?",
+            "options": [
+                "A. Yes",
+                "B. No, there's a significant gap",
+                "C. LAT R. ZVEJNIEKS is leading",
+                "D. LAT R. ZVEJNIEKS is in third place"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_45": {
+            "id": "54YD3Gv-3MI_45",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What action did 'CHN WU D.' take at the last curved bend before entering the line?",
+            "options": [
+                "A. 'CHN WU D.' slowed down to conserve energy.",
+                "B. 'CHN WU D.' waved to the audience.",
+                "C. 'CHN WU D.' tied his skates in the middle of the race.",
+                "D. 'CHN WU D.' leaned sharply at the turn."
+            ],
+            "answer": "D"
+        },
+        "54YD3Gv-3MI_46": {
+            "id": "54YD3Gv-3MI_46",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What transitions were used to switch from the skater to the venue panorama in the current scene compared to the previous scene?",
+            "options": [
+                "A. The shot transitions from a close-up of a single skater to a wide-angle of the entire venue.",
+                "B. The shot transitions from the audience's perspective to a close-up of the scoreboard.",
+                "C. The shot transitions from a long shot of the venue to a medium shot of the skater's action.",
+                "D. The shot transitions from a slow-motion replay to a panoramic view of the referee at the sidelines."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_47": {
+            "id": "54YD3Gv-3MI_47",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What speed does the digital timer show in the last lap of the race?",
+            "options": [
+                "A. 48.7 km/h",
+                "B. 50.2 km/h",
+                "C. 52.5 km/h",
+                "D. 49.9 km/h"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_48": {
+            "id": "54YD3Gv-3MI_48",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What rankings were confirmed by the broadcast chart at the end of the competition?",
+            "options": [
+                "A. WU first, HWANG second, ZVEJNIEKS third",
+                "B. HWANG first, ZVEJNIEKS second, WU third",
+                "C. ZVEJNIEKS first, HWANG second, WU third",
+                "D. WU second, HWANG first, ZVEJNIEKS third"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_49": {
+            "id": "54YD3Gv-3MI_49",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "In the competition, where is CHN WU D. positioned?",
+            "options": [
+                "A. In the lead.",
+                "B. At the back of the pack.",
+                "C. In third place.",
+                "D. In fourth place."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_50": {
+            "id": "54YD3Gv-3MI_50",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "How is the ice rink's environment?",
+            "options": [
+                "A. The ice rink is outdoors, with a festive carnival theme.",
+                "B. The ice rink is indoors, with a vibrant Olympic atmosphere.",
+                "C. The ice rink is indoors, with a more subdued training environment.",
+                "D. The ice rink is outdoors, with a peaceful and serene environment."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_51": {
+            "id": "54YD3Gv-3MI_51",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What decorations are on the ice rink?",
+            "options": [
+                "A. The ice rink has purple banners decorated with the 'PyeongChang2018' logo and the Olympic rings.",
+                "B. The ice rink has red banners decorated with the flags of the participating countries.",
+                "C. The ice rink has black banners engraved with the Olympic motto 'Faster, Higher, Stronger'.",
+                "D. The ice rink has green banners displaying advertisements from sponsor companies."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_52": {
+            "id": "54YD3Gv-3MI_52",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "What graphical element did not appear at the end of the competition?",
+            "options": [
+                "A. A numerical timer displaying the final competition time",
+                "B. A graphic appearing in the bottom left corner of the screen, showing athlete information including '1', 'CHN', the Chinese flag, 'WU D.', 'FINISH', and 'LAP 8.36' details",
+                "C. A leaderboard displaying the rankings of all participants",
+                "D. A replay of the final lap of the competition"
+            ],
+            "answer": "D"
+        },
+        "54YD3Gv-3MI_53": {
+            "id": "54YD3Gv-3MI_53",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many skaters crossed the finish line?",
+            "options": [
+                "A. Two skaters",
+                "B. Three skaters",
+                "C. Four skaters",
+                "D. Five skaters"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_54": {
+            "id": "54YD3Gv-3MI_54",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "Which skaters have placed in the top three in competitions?",
+            "options": [
+                "A. CHN WU D., LAT R. ZVEJNIEKS, and KOR HWANG D.",
+                "B. CHN WU D., LAT R. ZVEJNIEKS, and USA's J. SMITH.",
+                "C. LAT R. ZVEJNIEKS, KOR HWANG D., and Russia's P. ANDREEV.",
+                "D. CHN WU D., Russia's P. ANDREEV, and USA's J. SMITH."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_55": {
+            "id": "54YD3Gv-3MI_55",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What was the skater wearing blue with black sleeves doing before falling?",
+            "options": [
+                "A. Leaning sideways and trying to turn.",
+                "B. Standing upright and looking around.",
+                "C. Spinning in place.",
+                "D. Tying shoelaces."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_56": {
+            "id": "54YD3Gv-3MI_56",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "After avoiding the fallen skater, in which direction does the skater wearing red and black move?",
+            "options": [
+                "A. Move forward.",
+                "B. Move left.",
+                "C. Move right.",
+                "D. Move backward."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_57": {
+            "id": "54YD3Gv-3MI_57",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What does the digital timer display when CHN WU D. finishes?",
+            "options": [
+                "A. '39.81 seconds'.",
+                "B. '38.42 seconds'.",
+                "C. '40.59 seconds'.",
+                "D. '39.45 seconds'."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_58": {
+            "id": "54YD3Gv-3MI_58",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the referee located on the ice rink?",
+            "options": [
+                "A. In the center of the ice rink.",
+                "B. Near the edge of the ice rink.",
+                "C. On the stands overlooking the ice rink.",
+                "D. Outside the ice rink, near the entrance."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_59": {
+            "id": "54YD3Gv-3MI_59",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "How is the environment of the scene depicted?",
+            "options": [
+                "A. It is a city street.",
+                "B. It has the unique professional and international atmosphere of the Olympics.",
+                "C. It looks like a local skating rink.",
+                "D. It is an outdoor park."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_60": {
+            "id": "54YD3Gv-3MI_60",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What do the staff or host look like after the athlete crosses the finish line?",
+            "options": [
+                "A. Wearing a dark blue suit jacket, black pants, and white ice skates.",
+                "B. Wearing a white suit jacket, black pants, and black ice skates.",
+                "C. Wearing a red suit jacket, blue pants, and silver ice skates.",
+                "D. Wearing a dark green suit jacket, beige pants, and gold ice skates."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_61": {
+            "id": "54YD3Gv-3MI_61",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What activity is the host or announcer doing at the end of the competition?",
+            "options": [
+                "A. They are holding some papers or a white scoreboard.",
+                "B. They are adjusting the leaderboard and timer.",
+                "C. They are skating on the ice rink.",
+                "D. They are waving to the audience in response to their cheers."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_62": {
+            "id": "54YD3Gv-3MI_62",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "In the final scene, what are the characteristics of the ice surface?",
+            "options": [
+                "A. The ice surface is rough and easily leaves marks.",
+                "B. The ice surface is relatively intact, with scratches.",
+                "C. The ice surface is covered with scratches and ice chips.",
+                "D. The ice surface is dull and does not reflect light."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_63": {
+            "id": "54YD3Gv-3MI_63",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What words and symbols are on the ice surface at the end of the scene?",
+            "options": [
+                "A. The ice surface is adorned with 'PyeongChang2018' and the Olympic rings.",
+                "B. The ice surface displays the names of the participating athletes and their countries.",
+                "C. The ice surface features sponsor logos and colorful patterns.",
+                "D. The ice surface displays a large digital scoreboard and Olympic mascots."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_64": {
+            "id": "54YD3Gv-3MI_64",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many positions are visible on the leaderboard when the speed skater appears?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_65": {
+            "id": "54YD3Gv-3MI_65",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is the timer continuously displayed in the scene?",
+            "options": [
+                "A. Yes, the timer is always displayed in the lower right corner.",
+                "B. No, the timer is only briefly displayed at the beginning of the sequence.",
+                "C. Yes, but the timer periodically disappears during the sequence.",
+                "D. No, the timer is not displayed during the sequence."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_66": {
+            "id": "54YD3Gv-3MI_66",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "At the moment of entering the frame, in which direction is the speed skater moving relative to the camera?",
+            "options": [
+                "A. Moving to the right.",
+                "B. Moving to the left.",
+                "C. Moving downward.",
+                "D. Moving in a circular direction."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_67": {
+            "id": "54YD3Gv-3MI_67",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What updates occur on the leaderboard when the speed skater crosses the finish line?",
+            "options": [
+                "A. The leaderboard updates with three entries: '1 CHN 6 WU D.', '2 KOR 58 HWANG D.', and '3 LAT 23 R. ZVEJNIEKS.'",
+                "B. The leaderboard updates to show only the position '1 KOR 58 HWANG D.' with no other changes.",
+                "C. The leaderboard shows only one entry: 'CHN 6 WU D.' with no further updates.",
+                "D. The leaderboard remains unchanged, with no new entries introduced."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_68": {
+            "id": "54YD3Gv-3MI_68",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the leaderboard located on the screen?",
+            "options": [
+                "A. The leaderboard is in the bottom left corner.",
+                "B. The leaderboard is in the top left corner.",
+                "C. The leaderboard is in the top right corner.",
+                "D. The leaderboard is in the bottom right corner."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_69": {
+            "id": "54YD3Gv-3MI_69",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What elements are located on the right side of the screen leaderboard at the beginning of the scene?",
+            "options": [
+                "A. Olympic Rings logo",
+                "B. Names of the participants",
+                "C. Event time and date",
+                "D. Audience seating arrangement"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_70": {
+            "id": "54YD3Gv-3MI_70",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene?",
+            "options": [
+                "A. The background is a local festival street parade.",
+                "B. The background is the Winter Olympics.",
+                "C. The background is a training session at the local ice rink.",
+                "D. The background is a university graduation ceremony."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_71": {
+            "id": "54YD3Gv-3MI_71",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is WU D. doing during this time?",
+            "options": [
+                "A. WU D. is celebrating.",
+                "B. WU D. is standing still and observing.",
+                "C. WU D. is giving a post-match interview.",
+                "D. WU D. is helping another skater adjust their equipment."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_72": {
+            "id": "54YD3Gv-3MI_72",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What is WU D.'s action at this moment?",
+            "options": [
+                "A. One arm swings forward, symbolizing speed and vitality.",
+                "B. Standing still, showing calmness and reflection.",
+                "C. Clapping and raising the right hand in a celebratory gesture.",
+                "D. Walking slowly, displaying a leisurely pace."
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_73": {
+            "id": "54YD3Gv-3MI_73",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "WU D. What details can be seen on the helmet?",
+            "options": [
+                "A. There is a black number '6'.",
+                "B. There is a gold star badge.",
+                "C. There is the Olympic five-ring symbol.",
+                "D. There is a silver stripe."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_74": {
+            "id": "54YD3Gv-3MI_74",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What does WU D.'s uniform look like?",
+            "options": [
+                "A. Red base, black sleeves, with gold star badges on the arms and back.",
+                "B. Black base, red sleeves, with silver star badges on the arms and back.",
+                "C. Silver base, red decorations, with gold stripes on the sleeves.",
+                "D. Red base, white sleeves, with blue star badges on the arms and back."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_75": {
+            "id": "54YD3Gv-3MI_75",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many skaters' positions were mentioned on the leaderboard?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_76": {
+            "id": "54YD3Gv-3MI_76",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Does the ice appear purple in the scene?",
+            "options": [
+                "A. Yes, the ice appears bright purple.",
+                "B. No, the ice is white throughout the scene.",
+                "C. During the competition, the ice turned green.",
+                "D. The ice appears blue, matching the color of the obstacles."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_77": {
+            "id": "54YD3Gv-3MI_77",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What arm movements is WU D. doing while skating?",
+            "options": [
+                "A. Swinging one arm forward.",
+                "B. Arms hanging straight down at the sides.",
+                "C. Raising both arms above the head in celebration.",
+                "D. Clapping while gliding."
+            ],
+            "answer": "D"
+        },
+        "54YD3Gv-3MI_78": {
+            "id": "54YD3Gv-3MI_78",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "Which direction is WU D. moving relative to the camera during this scene?",
+            "options": [
+                "A. Moving to the left.",
+                "B. Moving to the right.",
+                "C. Moving diagonally forward.",
+                "D. Staying still."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_79": {
+            "id": "54YD3Gv-3MI_79",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "How is WU D. filmed in the scene?",
+            "options": [
+                "A. WU D. is filmed from the side in a medium close-up.",
+                "B. WU D. is filmed from the front with a wide-angle lens.",
+                "C. WU D. is filmed from above in a bird's-eye view.",
+                "D. WU D. is filmed from the back in a full-body shot."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_80": {
+            "id": "54YD3Gv-3MI_80",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the other skater in relation to WU D.?",
+            "options": [
+                "A. The other skater is positioned slightly higher in the scene, focused by the camera.",
+                "B. The other skater is positioned slightly lower in the scene, overtaken by WU D.",
+                "C. The other skater is side by side with WU D., having equal prominence.",
+                "D. The other skater is directly behind WU D., having the same prominence."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_81": {
+            "id": "54YD3Gv-3MI_81",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What colors are in the background of the scene at this time?",
+            "options": [
+                "A. There is a light blue stripe and vibrant purple hues in the background.",
+                "B. A bright yellow stripe crosses a dark green background.",
+                "C. The scene is dominated by a red stripe on a black background.",
+                "D. White and gold patterns decorate the gray background."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_82": {
+            "id": "54YD3Gv-3MI_82",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many skaters can be seen in the scene?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_83": {
+            "id": "54YD3Gv-3MI_83",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Throughout the sequence, is the secondary skater consistently visible?",
+            "options": [
+                "A. Yes, the secondary skater is consistently visible throughout the sequence.",
+                "B. No, the secondary skater is ahead of WU D. in the sequence.",
+                "C. Yes, both skaters maintain their positions without any changes.",
+                "D. No, the secondary skater gradually disappears as the sequence progresses."
+            ],
+            "answer": "D"
+        },
+        "54YD3Gv-3MI_84": {
+            "id": "54YD3Gv-3MI_84",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What are the elements of the skating rink?",
+            "options": [
+                "A. Purple fence, partially visible banners, Olympic rings, and a light blue horizontal stripe.",
+                "B. Green fence with floral patterns and bold gold Olympic logos.",
+                "C. Red banners adorned with sponsor logos, with a thick black stripe around the rink.",
+                "D. White walls with simple text, accented with bright yellow stripes."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_85": {
+            "id": "54YD3Gv-3MI_85",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene take place?",
+            "options": [
+                "A. The scene takes place in a city park.",
+                "B. The scene takes place in a shopping mall.",
+                "C. The scene takes place at the Olympic skating rink.",
+                "D. The scene takes place at the local fitness center."
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_86": {
+            "id": "54YD3Gv-3MI_86",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What is the skater's outfit?",
+            "options": [
+                "A. Wearing a white speed suit with blue and red gradient decorations on the shoulders and back, with 'KOREA' written on the back.",
+                "B. Wearing a black speed suit with white stripes, prominently displaying 'KOREA' on the front.",
+                "C. Wearing a red speed suit with yellow decorations, featuring a large Olympic logo on the back.",
+                "D. Wearing a blue speed suit with white and green highlights, with no visible text."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_87": {
+            "id": "54YD3Gv-3MI_87",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What helmet is the skater wearing?",
+            "options": [
+                "A. It has red, blue, black, and white sections, with the number '58'.",
+                "B. It has blue and white stripes, marked with the number '25'.",
+                "C. A shiny all-red helmet, with no visible numbers.",
+                "D. A silver helmet, marked with the number '58' outlined in black."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_88": {
+            "id": "54YD3Gv-3MI_88",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What other equipment do skaters wear besides jackets and helmets?",
+            "options": [
+                "A. Black pants and gloves.",
+                "B. White gloves and blue pants.",
+                "C. Red pants and black gloves.",
+                "D. Blue pants and white gloves."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_89": {
+            "id": "54YD3Gv-3MI_89",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What are the design features on the sleeves of the skater's competition outfit?",
+            "options": [
+                "A. There are vertical blue stripes on the sleeves.",
+                "B. The lower half of each sleeve has six prominent black stripes.",
+                "C. There is a red and blue gradient pattern on the sleeves.",
+                "D. The sleeves are adorned with the word 'KOREA'."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_90": {
+            "id": "54YD3Gv-3MI_90",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What is the initial position of the skater's right arm in the sequence of movements?",
+            "options": [
+                "A. Downward position.",
+                "B. Upward position.",
+                "C. Stretched forward.",
+                "D. Initially bent at the elbow."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_91": {
+            "id": "54YD3Gv-3MI_91",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "How does the skater's right arm change during this move?",
+            "options": [
+                "A. The skater's right arm remains fully extended throughout the move.",
+                "B. As the move progresses, it is raised high and then slowly lowered.",
+                "C. The skater's right arm is held high above the head throughout the move.",
+                "D. During this move, the skater's right arm repeatedly swings."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_92": {
+            "id": "54YD3Gv-3MI_92",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "Does the skater's helmet have multiple color blocks?",
+            "options": [
+                "A. Yes, the helmet has red, blue, black, and white blocks.",
+                "B. No, the helmet is pure white.",
+                "C. No, the helmet only has black and white blocks.",
+                "D. No, the helmet is completely red, with no other colors."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_93": {
+            "id": "54YD3Gv-3MI_93",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Does the skater's helmet display a conspicuous number?",
+            "options": [
+                "A. Yes, the helmet has '58' written on it.",
+                "B. No, the helmet does not display any number.",
+                "C. Yes, the helmet has the number '25' written on it.",
+                "D. No, the helmet has no significant markers or numbers."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_94": {
+            "id": "54YD3Gv-3MI_94",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "What does the skater's posture indicate about the direction they are moving on the ice rink?",
+            "options": [
+                "A. Moving forward along the ice rink.",
+                "B. Moving backward along the ice rink.",
+                "C. Stationary on the ice rink.",
+                "D. Moving sideways along the ice rink."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_95": {
+            "id": "54YD3Gv-3MI_95",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene?",
+            "options": [
+                "A. On the smooth ice rink of the PyeongChang 2018 Winter Olympics.",
+                "B. On a frozen lake surrounded by mountains.",
+                "C. An ice hockey championship held in an indoor stadium.",
+                "D. A figure skating competition at a local ice rink."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_96": {
+            "id": "54YD3Gv-3MI_96",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What specific details are present in the scene?",
+            "options": [
+                "A. A purple banner with snowflake patterns, the text 'PyeongChang2018,' and the Olympic rings logo.",
+                "B. A red banner with star patterns and the Olympic rings logo.",
+                "C. A blue banner with mountain patterns and the text 'Olympics 2018.'",
+                "D. A green banner with geometric patterns, without any text or symbols."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_97": {
+            "id": "54YD3Gv-3MI_97",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "How does the athlete's posture change throughout the scene?",
+            "options": [
+                "A. Crosses both hands behind the head until the end.",
+                "B. Stands upright and raises both hands, then leans forward while skating.",
+                "C. Maintains a squatting position, then transitions to lying on the ice.",
+                "D. Extends both arms outward, then changes to a sitting position on the ice."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_98": {
+            "id": "54YD3Gv-3MI_98",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What does the skater's outfit look like?",
+            "options": [
+                "A. Red and black outfit with white stripes.",
+                "B. White and blue outfit with silver stripes.",
+                "C. White outfit with blue and red gradient details.",
+                "D. White and black outfit with red accents."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_99": {
+            "id": "54YD3Gv-3MI_99",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "What color is the banner in the background of the skating rink?",
+            "options": [
+                "A. Purple.",
+                "B. Blue.",
+                "C. Red.",
+                "D. Green."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_100": {
+            "id": "54YD3Gv-3MI_100",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What pattern is on the banner in the background of the skating rink?",
+            "options": [
+                "A. There is a pattern similar to snowflakes.",
+                "B. There are stripes and circular patterns.",
+                "C. Covered with wavy patterns.",
+                "D. Displays a geometric checkerboard pattern."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_101": {
+            "id": "54YD3Gv-3MI_101",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What are the partial words visible on the banner in the background of the ice rink?",
+            "options": [
+                "A. 'Pye'.",
+                "B. 'Win'.",
+                "C. 'Ski'.",
+                "D. 'Ice'."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_102": {
+            "id": "54YD3Gv-3MI_102",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What symbol is on the banner in the background of the ice rink?",
+            "options": [
+                "A. There are Olympic rings.",
+                "B. There is a World Cup trophy.",
+                "C. There is a maple leaf symbol.",
+                "D. There are hockey sticks and a puck."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_103": {
+            "id": "54YD3Gv-3MI_103",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many skaters can be seen at the beginning of the scene?",
+            "options": [
+                "A. Two skaters",
+                "B. One skater",
+                "C. Three skaters",
+                "D. Four skaters"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_104": {
+            "id": "54YD3Gv-3MI_104",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many skaters can be seen in the scene?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_105": {
+            "id": "54YD3Gv-3MI_105",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "What action is the skater doing at the beginning of the scene?",
+            "options": [
+                "A. The main skater is gliding in a reclined position with hands crossed behind the head.",
+                "B. The main skater is gliding in a forward-leaning position, maintaining competitive focus.",
+                "C. The main skater completes a celebratory jump, showcasing their excitement.",
+                "D. The main skater kneels down to tighten the skates."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_106": {
+            "id": "54YD3Gv-3MI_106",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "In the last frame, where is the blue-and-white helmet skater relative to the silver helmet skater?",
+            "options": [
+                "A. Behind.",
+                "B. Left side.",
+                "C. Ahead.",
+                "D. Right side."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_107": {
+            "id": "54YD3Gv-3MI_107",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "What type of lens was used to shoot the skater?",
+            "options": [
+                "A. Close-up lens.",
+                "B. Wide-angle lens.",
+                "C. Overhead shot lens.",
+                "D. Low-angle lens."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_108": {
+            "id": "54YD3Gv-3MI_108",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What visual cues are on the athlete's clothing?",
+            "options": [
+                "A. The skater has 'LATVIA' printed on the chest",
+                "B. The skater has '23' printed on the chest",
+                "C. The skater has the Olympic rings printed on the chest",
+                "D. The skater has 'PyeongChang2018' printed on the chest"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_109": {
+            "id": "54YD3Gv-3MI_109",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What visual cue confirmed the scene of the PyeongChang 2018 Winter Olympics?",
+            "options": [
+                "A. The competition uniform of a skater with 'LATVIA' printed on the chest",
+                "B. The smooth, reflective ice surface",
+                "C. The purple rink banner featuring elements like '2018,' 'Pye,' and the Olympic rings",
+                "D. The number '23' on a silver helmet"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_110": {
+            "id": "54YD3Gv-3MI_110",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What is on the left side of the scene?",
+            "options": [
+                "A. The left side is a light-colored background with 'THE WINTER OLYMPICS FEB 8-25'.",
+                "B. The left side shows a dark blue background and subscription information.",
+                "C. The left side is broadcasting live competition footage.",
+                "D. The left side contains a vibrant purple ice rink and Olympic branding."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_111": {
+            "id": "54YD3Gv-3MI_111",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What is on the right side of the scene?",
+            "options": [
+                "A. The right side has a dark blue background and more subscription information.",
+                "B. The right side has a light background and event dates.",
+                "C. The right side has a blue background with the words 'MORE CLIPS', 'SUBSCRIBE NOW'.",
+                "D. The right side has a textured background to evoke a sense of snow or ice."
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_112": {
+            "id": "54YD3Gv-3MI_112",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What is the current scene?",
+            "options": [
+                "A. Stadium.",
+                "B. On an ice rink with Olympic symbols.",
+                "C. On a frozen lake surrounded by mountains.",
+                "D. In front of an event's promotional screen."
+            ],
+            "answer": "D"
+        },
+        "54YD3Gv-3MI_113": {
+            "id": "54YD3Gv-3MI_113",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What does the appearance of a leading speed skater look like?",
+            "options": [
+                "A. Red and white competition suit.",
+                "B. Black and white competition suit.",
+                "C. Blue and yellow competition suit.",
+                "D. Green and orange competition suit."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_114": {
+            "id": "54YD3Gv-3MI_114",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What is displayed on the left side of the promotional screen?",
+            "options": [
+                "A. 'WINTER OLYMPICS' and 'FEB 8-25'",
+                "B. 'MORE CLIPS' and 'SUBSCRIBE NOW'",
+                "C. 'WINTER OLYMPICS' and 'MORE CLPS'",
+                "D. 'MORE CLPS' and 'FEB 8-25'"
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_115": {
+            "id": "54YD3Gv-3MI_115",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What is displayed on the right side of the promotional screen?",
+            "options": [
+                "A. 'WINTER OLYMPICS' and 'FEB 8-25'",
+                "B. 'MORE CLIPS' and 'SUBSCRIBE NOW'",
+                "C. 'WINTER OLYMPICS' and 'MORE CLPS''",
+                "D. 'MORE CLPS' and 'FEB 8-25'"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_116": {
+            "id": "54YD3Gv-3MI_116",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many distinct sections are there on the promotional screen?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_117": {
+            "id": "54YD3Gv-3MI_117",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Are there any moving elements on the promotional screen?",
+            "options": [
+                "A. Yes, there are moving elements on the promotional screen.",
+                "B. No, the promotional screen remains static.",
+                "C. The promotional screen switches between multiple designs.",
+                "D. The promotional screen displays animated graphics."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_118": {
+            "id": "54YD3Gv-3MI_118",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What action is the skater performing?",
+            "options": [
+                "A. Watching from the sidelines.",
+                "B. Holding the back of his head with both hands.",
+                "C. Adjusting his skates.",
+                "D. Celebrating victory."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_119": {
+            "id": "54YD3Gv-3MI_119",
+            "scene": 8,
+            "dimension": "Camera Direction",
+            "question": "Is the camera stationary?",
+            "options": [
+                "A. No, the camera focuses on active skating movements.",
+                "B. Yes, the camera switches to a stationary promotional screen.",
+                "C. No, the camera captures LAT speed skating athletes.",
+                "D. No, the camera films the purple ice rink, showcasing different competitors."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_120": {
+            "id": "54YD3Gv-3MI_120",
+            "scene": 8,
+            "dimension": "Speed",
+            "question": "What is the difference in speed between the live competition and the promotional screen scenes?",
+            "options": [
+                "A. The live competition showcases fast-paced skating, while the promotional screen remains static with no movement.",
+                "B. The live competition is slow and steady, while the promotional screen displays rapidly changing advertisements.",
+                "C. Both the live competition and the promotional screen are fast-paced and energetic.",
+                "D. Both the live competition and the promotional screen remain static with little to no movement."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_121": {
+            "id": "54YD3Gv-3MI_121",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "What attribute changes occurred between the previous scene and this scene?",
+            "options": [
+                "A. The scene transitions from dynamic to static promotional graphics.",
+                "B. The scene transitions from promotional graphics to the dynamic actions of skaters.",
+                "C. The scene transitions from skaters celebrating to animated promotional graphics.",
+                "D. The scene transitions from a quiet static image to a noisy and vibrant skating competition."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_122": {
+            "id": "54YD3Gv-3MI_122",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happened after seeing the skater in blue fall on the ice during the competition?",
+            "options": [
+                "A. A staff member immediately rushed forward to help the fallen skater.",
+                "B. Another skater in black and white clothing overtook the fallen competitor.",
+                "C. The skater in blue quickly got up and continued the race without any issues.",
+                "D. The competition was paused to ensure the safety of all participants."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_123": {
+            "id": "54YD3Gv-3MI_123",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What changes occurred after showing the end of the skating rink without any skaters appearing?",
+            "options": [
+                "A. A commentator or referee appeared skating on the ice.",
+                "B. A countdown to the next event was displayed on the promotional screen.",
+                "C. The scene switched to a highlight reel of memorable moments from previous Olympics.",
+                "D. The screen was filled with the audience, showing reaction shots of the spectators."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_124": {
+            "id": "54YD3Gv-3MI_124",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the scene transition after the close-up of the Latvian skater's performance?",
+            "options": [
+                "A. The scene transitions to a static promotional graphic.",
+                "B. The scene transitions to a lively fan interaction segment.",
+                "C. The scene transitions to an interview with the skater from LAT.",
+                "D. The scene transitions to a replay of the skating performance."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_125": {
+            "id": "54YD3Gv-3MI_125",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What kind of context does the continued visibility of the PyeongChang2018 brand anchor the competition in?",
+            "options": [
+                "A. It anchors the competition in its official and professional context.",
+                "B. It anchors the competition in the context of local sports leagues.",
+                "C. It anchors the competition in a recreational and entertainment context.",
+                "D. It anchors the competition in a historical documentary-style context."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_126": {
+            "id": "54YD3Gv-3MI_126",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "According to the leaderboard, who initially led in the competition?",
+            "options": [
+                "A. LAT 5 DZENIS R.",
+                "B. CHN 6 WU D.",
+                "C. USA 7 SMITH J.",
+                "D. CAN 8 HALL M."
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_127": {
+            "id": "54YD3Gv-3MI_127",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "According to the rankings, who was in second place at the end of the competition?",
+            "options": [
+                "A. 'LAT No. 12 A. ZAMBALA'",
+                "B. 'JPN No. 19 K. WATANABE'",
+                "C. 'KOR No. 58 HWANG D.'",
+                "D. 'USA No. 07 R. JOHNSON'"
+            ],
+            "answer": "C"
+        },
+        "54YD3Gv-3MI_128": {
+            "id": "54YD3Gv-3MI_128",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "According to the rankings, who was in third place at the end of the competition?",
+            "options": [
+                "A. 'JPN No. 19 K. WATANABE'",
+                "B. 'LAT No. 23 R. ZVEJNIEKS'",
+                "C. 'USA No. 07 R. JOHNSON'",
+                "D. 'CAN No. 05 M. SMITH'"
+            ],
+            "answer": "B"
+        },
+        "54YD3Gv-3MI_129": {
+            "id": "54YD3Gv-3MI_129",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens before the final advertisement screen appears?",
+            "options": [
+                "A. The screen shows a close-up of a Latvian skater, then another skater joins the frame.",
+                "B. Promotional graphics slowly fade in while the speed skaters continue competing in the background.",
+                "C. The commentator announces event details before the promotional screen appears.",
+                "D. After the Latvian skater finishes the race, the screen switches to a live interview with the athlete."
+            ],
+            "answer": "A"
+        },
+        "54YD3Gv-3MI_130": {
+            "id": "54YD3Gv-3MI_130",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "During the competition, how does the focus switch?",
+            "options": [
+                "A. The camera switches from focusing on the entire competition to post-match close-ups of the top-ranked players, and finally to close-ups of the competition scenes.",
+                "B. The camera switches from focusing on the entire competition to post-match close-ups of the top-ranked players.",
+                "C. The camera switches from pre-match close-ups of each player to focusing on the entire competition.",
+                "D. The camera switches from focusing on the entire competition to post-match close-ups of the top-ranked players, and finally to the award ceremony scenes."
+            ],
+            "answer": "B"
+        }
+    }
+}

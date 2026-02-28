@@ -1,0 +1,924 @@
+{
+    "scene_hint": {
+        "0": "一只手拿着白色记号笔，在空白的白色背景上绘制书中的建筑设计以及一组人群。",
+        "1": "一组数字在简约的白色背景上逐渐出现。",
+        "2": "巨大不等号的绘画过程。",
+        "3": "钱袋的绘画过程。",
+        "4": "头盔的绘画过程。",
+        "5": "握手的绘画过程。",
+        "6": "整体绘画结果的展示。",
+        "7": "一个纯色背景显示品牌logo。"
+    },
+    "qa": {
+        "-O6mJ0VBTc4_0": {
+            "id": "-O6mJ0VBTc4_0",
+            "scene": "0",
+            "dimension": "Description-Scene",
+            "question": "这个场景的环境是怎样的？",
+            "options": [
+                "A. 该场景有一个充满活力和色彩缤纷的背景，带有抽象图案。",
+                "B. 该场景有一个自然的户外环境，可以看到树木和天空。",
+                "C. 该场景有一个纯白的背景，呈现极简和无干扰的美感。",
+                "D. 该场景有一种黑暗和阴郁的氛围，光线昏暗。"
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_1": {
+            "id": "-O6mJ0VBTc4_1",
+            "scene": "0",
+            "dimension": "Description-Object",
+            "question": "真实的人手拿着什么物品？",
+            "options": [
+                "A. 一个外壳是黑色的记号笔",
+                "B. 一个外壳是蓝色的钢笔",
+                "C. 一把画笔",
+                "D. 一支绘图铅笔"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_2": {
+            "id": "-O6mJ0VBTc4_2",
+            "scene": "0",
+            "dimension": "Description-Human",
+            "question": "真人的手在做什么？",
+            "options": [
+                "A. 真的人的手正在积极地参与书本上的图画。",
+                "B. 真的人的手正在翻动书页。",
+                "C. 真的人的手正在双手稳稳地拿着书。",
+                "D. 真的人的手正在擦掉书本上的部分图画。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_3": {
+            "id": "-O6mJ0VBTc4_3",
+            "scene": "0",
+            "dimension": "Attribute Change",
+            "question": "书中的建筑插图做了哪些更改？",
+            "options": [
+                "A. 插图中的三角形屋顶被移除了。",
+                "B. 添加了四个间距均匀的柱子，形成了对称的古典建筑描绘。",
+                "C. 书被漫画般的插图手移出了画框。",
+                "D. 用铅笔代替了黑色记号笔来绘制阴影细节。"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_4": {
+            "id": "-O6mJ0VBTc4_4",
+            "scene": "0",
+            "dimension": "Count",
+            "question": "建筑插图中有多少柱子？",
+            "options": [
+                "A. 建筑插图中有一个柱子。",
+                "B. 建筑插图中有两个柱子。",
+                "C. 建筑插图中有三个柱子。",
+                "D. 建筑插图中有四个柱子。"
+            ],
+            "answer": "D"
+        },
+        "-O6mJ0VBTc4_5": {
+            "id": "-O6mJ0VBTc4_5",
+            "scene": "0",
+            "dimension": "Attribute Change",
+            "question": "卡通风格的插画手捧着书的位置有什么变化吗？",
+            "options": [
+                "A. 是的，卡通风格的插画手稍微移动了一下。",
+                "B. 不，卡通风格的插画手的位置没有明显变化。",
+                "C. 是的，卡通风格的插画手现在以不同的角度拿着书。",
+                "D. 不，卡通风格的插画手不再在画面中可见。"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_6": {
+            "id": "-O6mJ0VBTc4_6",
+            "scene": "0",
+            "dimension": "Attribute Change",
+            "question": "卡通般的插图手握住书本的力度有变化吗？",
+            "options": [
+                "A. 是的，卡通般的插图手在整个场景中改变了握书的力度。",
+                "B. 是的，卡通般的插图手偶尔会调整握书的力度。",
+                "C. 不是，卡通般的插图手握书的力度没有明显变化。",
+                "D. 不是，卡通般的插图手握书的力度变得更紧。"
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_7": {
+            "id": "-O6mJ0VBTc4_7",
+            "scene": "0",
+            "dimension": "Camera Shot",
+            "question": "用于捕捉真实手与插图之间互动的是什么类型的摄影镜头？",
+            "options": [
+                "A. 广角镜头",
+                "B. 全景视角",
+                "C. 特写镜头",
+                "D. 鸟瞰镜头"
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_8": {
+            "id": "-O6mJ0VBTc4_8",
+            "scene": "0",
+            "dimension": "Attribute Change",
+            "question": "建筑插图是如何随着时间的推移而发展的？",
+            "options": [
+                "A. 建筑插图从描绘一个三角形屋顶和一根柱子发展到包括三个均匀间隔的柱子，突显了艺术的精致。",
+                "B. 建筑插图从描绘一个圆形屋顶和没有柱子发展到包括四根均匀间隔的柱子，突显了艺术的精致。",
+                "C. 建筑插图从描绘一个方形屋顶和没有柱子发展到包括两根均匀间隔的柱子，突显了艺术的精致。",
+                "D. 建筑插图从描绘一个六边形屋顶和五根柱子发展到包括六根均匀间隔的柱子，突显了艺术的精致。"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_9": {
+            "id": "-O6mJ0VBTc4_9",
+            "scene": "1",
+            "dimension": "Visual-cue",
+            "question": "黑色对角线最初出现在画面的哪个位置？",
+            "options": [
+                "A. 从画面的右上角",
+                "B. 从画面的中心",
+                "C. 从画面的左下角",
+                "D. 从画面的左上角"
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_10": {
+            "id": "-O6mJ0VBTc4_10",
+            "scene": "1",
+            "dimension": "Description-Scene",
+            "question": "视频序列中场景的环境是什么？",
+            "options": [
+                "A. 场景设置为完全简约的抽象插画形式，大胆的黑色数字置于纯白背景之上。",
+                "B. 场景呈现了一个逼真的户外环境，有自然元素和鲜艳的色彩。",
+                "C. 场景是一个杂乱的艺术工作室，到处散落着各种物品和工具。",
+                "D. 场景发生在一个未来城市，有霓虹灯和移动的车辆。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_11": {
+            "id": "-O6mJ0VBTc4_11",
+            "scene": "1",
+            "dimension": "Description-Object",
+            "question": "在设计上，数字'2'与数字'1'有什么区别？",
+            "options": [
+                "A. 数字'2'的设计更加弯曲，而且姿态略宽。",
+                "B. 数字'2'较小，而且边缘更尖锐。",
+                "C. 数字'2'以红色突出显示，且底部较窄。",
+                "D. 数字'2'更加有棱角，轮廓较细。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_12": {
+            "id": "-O6mJ0VBTc4_12",
+            "scene": "1",
+            "dimension": "Count",
+            "question": "在整个序列中总共呈现了多少个数字？",
+            "options": [
+                "A. 两个数字",
+                "B. 三个数字",
+                "C. 四个数字",
+                "D. 五个数字"
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_13": {
+            "id": "-O6mJ0VBTc4_13",
+            "scene": "1",
+            "dimension": "Attribute Change",
+            "question": "在转换中，数字“2”发生了什么变化？",
+            "options": [
+                "A. 数字“2”在变为数字“3”之前在画框中向上移动。",
+                "B. 数字“2”在变为数字“3”之前顺时针旋转。",
+                "C. 数字“2”在变为数字“3”时缩小。",
+                "D. 数字“2”在变为数字“3”之前完全变成红色。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_14": {
+            "id": "-O6mJ0VBTc4_14",
+            "scene": "1",
+            "dimension": "Object Direction",
+            "question": "数字'2'在转换为'3'之前在框内朝哪个方向移动?",
+            "options": [
+                "A. 数字'2'在框内向上移动。",
+                "B. 数字'2'在框内向下移动。",
+                "C. 数字'2'在框内向左移动。",
+                "D. 数字'2'在框内向右移动。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_15": {
+            "id": "-O6mJ0VBTc4_15",
+            "scene": "1",
+            "dimension": "Visual-cue",
+            "question": "采用哪种视觉风格来保持对数字的关注？",
+            "options": [
+                "A. 视觉风格是静态的、极简的构图，采用鲜明的黑白设计。",
+                "B. 视觉风格是动感的、色彩丰富的抽象设计。",
+                "C. 视觉风格是细致的、写实的表现，混合了丰富的色彩。",
+                "D. 视觉风格是混乱的、杂乱的设计，具有多种对比元素。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_16": {
+            "id": "-O6mJ0VBTc4_16",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "场景中的数字'2'大部分时候位于哪里？",
+            "options": [
+                "A. 数字'2'位于场景的左上角。",
+                "B. 数字'2'位于场景的右下角。",
+                "C. 数字'2'位于场景的左下角。",
+                "D. 数字'2'位于场景的中央。"
+            ],
+            "answer": "D"
+        },
+        "-O6mJ0VBTc4_17": {
+            "id": "-O6mJ0VBTc4_17",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "场景中有多少静止的物体？",
+            "options": [
+                "A. 存在一个静止的物体。",
+                "B. 存在两个静止的物体。",
+                "C. 存在三个静止的物体。",
+                "D. 没有静止的物体。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_18": {
+            "id": "-O6mJ0VBTc4_18",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "视频中数字“2”的位置是否发生变化？",
+            "options": [
+                "A. 是的，数字“2”经常移动。",
+                "B. 是的，数字“2”的位置略有变化。",
+                "C. 不，数字“2”保持静止。",
+                "D. 不，数字“2”完全消失。"
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_19": {
+            "id": "-O6mJ0VBTc4_19",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "在视频中，数字“2”的样式是否发生了变化？",
+            "options": [
+                "A. 是的，数字“2”变成了更精致的样式。",
+                "B. 是的，数字“2”变成了机印样式。",
+                "C. 不，数字“2”保持了其粗体手写样式未变。",
+                "D. 不，数字“2”完全从场景中移除了。"
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_20": {
+            "id": "-O6mJ0VBTc4_20",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "手为画作增添了什么？",
+            "options": [
+                "A. 手增添了流畅、弯曲的线条。",
+                "B. 手增添了尖锐、参差不齐的边缘。",
+                "C. 手增添了明亮、多彩的形状。",
+                "D. 手增添了复杂的几何图案。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_21": {
+            "id": "-O6mJ0VBTc4_21",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "为什么手要在图画中添加顺滑、弯曲的线条？",
+            "options": [
+                "A. 为了使数字“2”成为场景的中心焦点。",
+                "B. 为了加深细节层次，并使钱袋图案更加饱满和协调。",
+                "C. 为了给图画添加阴影并营造出三维效果。",
+                "D. 为了掩盖钟形顶部类似王冠的装饰物。"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_22": {
+            "id": "-O6mJ0VBTc4_22",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "这场景使用了什么类型的镜头构图？",
+            "options": [
+                "A. 场景使用一致的特写镜头构图，让观众能够近距离关注绘制过程。",
+                "B. 场景使用广角镜头构图，捕捉整个房间及其周围环境。",
+                "C. 场景使用远景镜头构图，从远处展示艺术家的工作过程。",
+                "D. 场景使用过肩镜头构图，以提供艺术家的视角。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_23": {
+            "id": "-O6mJ0VBTc4_23",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素有助于保持对绘图过程的专注？",
+            "options": [
+                "A. 鲜明的白色背景，静止的数字“2”，均匀的光照和简约的环境使人专注于手的动作和绘图过程。",
+                "B. 色彩缤纷的背景，移动的数字“2”，不均匀的光线和杂乱的环境有助于动态地专注于绘图过程。",
+                "C. 明亮的黄色背景，旋转的数字“2”，戏剧性的阴影和复杂的环境强调了绘图的演变。",
+                "D. 纹理背景，移动的数字“2”，微弱的光线和抽象的图案有助于突出中心的插图。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_24": {
+            "id": "-O6mJ0VBTc4_24",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "数字“3”首次出现在视频中的什么位置？",
+            "options": [
+                "A. 数字“3”首次显著出现在左侧。",
+                "B. 数字“3”首次显著出现在右侧。",
+                "C. 数字“3”首次出现在屏幕中央。",
+                "D. 数字“3”首次出现在屏幕底部。"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_25": {
+            "id": "-O6mJ0VBTc4_25",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频场景的背景是什么？",
+            "options": [
+                "A. 视频场景有一个纯白的背景。",
+                "B. 视频场景有一个彩色渐变的背景。",
+                "C. 视频场景有一个黑板风格的背景。",
+                "D. 视频场景有一个木质纹理的背景。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_26": {
+            "id": "-O6mJ0VBTc4_26",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频场景中的光线如何？",
+            "options": [
+                "A. 视频场景的光线均匀。",
+                "B. 视频场景的光线昏暗。",
+                "C. 视频场景的光线色彩丰富。",
+                "D. 视频场景的光线闪烁。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_27": {
+            "id": "-O6mJ0VBTc4_27",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频场景中有哪些元素？",
+            "options": [
+                "A. 视频场景的特点是简约和无干扰的元素。",
+                "B. 视频场景的特点是背景杂乱且色彩鲜艳。",
+                "C. 视频场景的特点是繁忙的动画和多个移动的物体。",
+                "D. 视频场景的特点是详细的城市景观和精美的装饰。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_28": {
+            "id": "-O6mJ0VBTc4_28",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "当前场景后半段，人类的手在做什么？",
+            "options": [
+                "A. 人类的手正在给插图添加动态组件，将画稿变成详细的头盔结构。",
+                "B. 人类的手正在擦掉钱袋插图的部分内容，以清理画布。",
+                "C. 人类的手正在数字'3'旁边写下数字，表示测量值。",
+                "D. 人类的手正在用黑色记号笔涂色数字'3'，以提高其可见度。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_29": {
+            "id": "-O6mJ0VBTc4_29",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "视频中展示的钱袋有哪些主要特点？",
+            "options": [
+                "A. 钱袋是一个顶部松散绑扎的袋子，中央有一个醒目的美元符号，呈现出深度感。",
+                "B. 钱袋是一个带拉链顶部的小钱包，没有明显的标志。",
+                "C. 钱袋是一个顶部松散绑扎的袋子，中央有一个醒目的欧元符号，呈现出深度感。",
+                "D. 钱袋看起来像一个简单的信封，有封印，没有装饰性的标志。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_30": {
+            "id": "-O6mJ0VBTc4_30",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "视频中出现了哪些数字？",
+            "options": [
+                "A.黑体黑色数字“1”和“2”",
+                "B.黑体黑色数字“1”、“2”和“3”",
+                "C.黑体黑色数字“1”、“2”和“4”",
+                "D.黑体黑色数字“1”、“2”、“3”和“4”"
+            ],
+            "answer": "D"
+        },
+        "-O6mJ0VBTc4_31": {
+            "id": "-O6mJ0VBTc4_31",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "当数字“3”成为焦点时，数字“2”是否可见？",
+            "options": [
+                "A. 是的，数字“2”和数字“3”一起可见。",
+                "B. 不是，数字“2”被数字“3”取代。",
+                "C. 是的，但数字“2”会隐没在背景中。",
+                "D. 不是，数字“3”遮住了数字“2”。"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_32": {
+            "id": "-O6mJ0VBTc4_32",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "当数字‘3’出现后，人手会执行什么动作？",
+            "options": [
+                "A. 人手在数字‘3’的右侧画一条弧线。",
+                "B. 人手擦掉数字‘3’。",
+                "C. 人手将数字‘3’涂成红色。",
+                "D. 人手在‘3’的旁边写下一个新的数字。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_33": {
+            "id": "-O6mJ0VBTc4_33",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "视频中哪个视觉元素代表了货币价值的主题？",
+            "options": [
+                "A. 左侧的数字 '2'",
+                "B. 突出显示在钱袋中央的粗体美元符号（'$'）",
+                "C. 突出显示在钱袋中央的金条状标记",
+                "D. 拿着黑色记号笔的手"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_34": {
+            "id": "-O6mJ0VBTc4_34",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "风格化的、无特征的人群位于画面中的哪个位置？",
+            "options": [
+                "A. 风格化的、无特征的人群位于画面上方。",
+                "B. 风格化的、无特征的人群位于画面下方。",
+                "C. 风格化的、无特征的人群位于画面中央。",
+                "D. 风格化的、无特征的人群位于画面左侧。"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_35": {
+            "id": "-O6mJ0VBTc4_35",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "这个场景展示的总体主题是什么？",
+            "options": [
+                "A. 这个场景通过将书中的知识或原则传播给人群，强调了不平等、金融、劳动和合作的主题。",
+                "B. 这个场景关注于通过获得财富和权力而实现个人成就和成功。",
+                "C. 这个场景描绘了通过艺术表现和创造力进行自我探索和个人成长的旅程。",
+                "D. 这个场景展现了科技与自然之间的冲突，强调了环境保护的重要性。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_36": {
+            "id": "-O6mJ0VBTc4_36",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "一只手对书本执行了什么动作？",
+            "options": [
+                "A. 一只手我主路另一只手。",
+                "B. 一只手从书里撕下一页。",
+                "C. 一只手合上了书。",
+                "D. 一只手把书放在桌子上。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_37": {
+            "id": "-O6mJ0VBTc4_37",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "两只手对书做了什么动作？",
+            "options": [
+                "A. 两只手分别放在书的两边，表示正在展示或中心托起书。",
+                "B. 两只手正在翻书页。",
+                "C. 两只手正在书上写笔记。",
+                "D. 两只手正在合上书。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_38": {
+            "id": "-O6mJ0VBTc4_38",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "书的封面上展示了什么？",
+            "options": [
+                "A. 书的封面上有一幅古典柱子的插图。",
+                "B. 书的封面上有一幅现代摩天大楼的插图。",
+                "C. 书的封面上有一幅抽象画。",
+                "D. 书的封面上有一幅世界地图的插图。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_39": {
+            "id": "-O6mJ0VBTc4_39",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "在这群人右方描绘了多少个编号符号？",
+            "options": [
+                "A. 两个编号符号",
+                "B. 三个编号符号",
+                "C. 四个编号符号",
+                "D. 五个编号符号"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_40": {
+            "id": "-O6mJ0VBTc4_40",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "书的右边有一个箭头吗？",
+            "options": [
+                "A. 是的, 有。",
+                "B. 不, 没有。",
+                "C. 反而有一个箭头指向左边。",
+                "D. 场景中没有箭头。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_41": {
+            "id": "-O6mJ0VBTc4_41",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "人群上方的视觉箭头指向哪个方向？",
+            "options": [
+                "A. 人群上方的视觉箭头指向右边。",
+                "B. 人群上方的视觉箭头指向左边。",
+                "C. 人群上方的视觉箭头指向上方。",
+                "D. 人群上方的视觉箭头指向下方。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_42": {
+            "id": "-O6mJ0VBTc4_42",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "使用哪种类型的相机镜头可以确保框架内的所有元素都清晰相关？",
+            "options": [
+                "A. 使用广角视角。",
+                "B. 使用特写镜头。",
+                "C. 使用中景镜头。",
+                "D. 使用全景镜头。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_43": {
+            "id": "-O6mJ0VBTc4_43",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "什么视觉线索在场景中确定叙事流？",
+            "options": [
+                "A. 指向书右侧的箭头",
+                "B. 一群风格化的人物",
+                "C. 握手上的数字“4”",
+                "D. 书封面上的古典柱子插图"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_44": {
+            "id": "-O6mJ0VBTc4_44",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "“LighthouseOD.com”文本的位置在哪里？",
+            "options": [
+                "A. “LighthouseOD.com”文本位于圆形网格的上方。",
+                "B. “LighthouseOD.com”文本位于圆形网格的下方。",
+                "C. “LighthouseOD.com”文本位于圆形网格的左边。",
+                "D. “LighthouseOD.com”文本位于圆形网格的右边。"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_45": {
+            "id": "-O6mJ0VBTc4_45",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "视频中呈现的环境是什么？",
+            "options": [
+                "A. 环境是极简风格，背景为黑色。",
+                "B. 环境充满活力，有色彩斑斓的动画。",
+                "C. 环境杂乱，有多个文本元素。",
+                "D. 环境明亮，背景为白色。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_46": {
+            "id": "-O6mJ0VBTc4_46",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "视频中呈现了哪些美学元素？",
+            "options": [
+                "A. 视频展示了一个圆形网格和品牌元素。",
+                "B. 视频采用了充满活力的色彩搭配和动态动画。",
+                "C. 视频包含了一个复杂的叙事结构，有多个角色和对话。",
+                "D. 视频呈现了一个混乱的场景，有快速移动和响亮的声音。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_47": {
+            "id": "-O6mJ0VBTc4_47",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "网格中包含了哪些元素？",
+            "options": [
+                "A. 网格由16个圆组成，这些圆按4x4的形式排列，具有从白到灰的细微渐变。",
+                "B. 网格由16个正方形组成，这些正方形按4x4的形式排列，具有从白到灰的细微渐变。",
+                "C. 网格由16个三角形组成，这些三角形按4x4的形式排列，具有从白到灰的细微渐变。",
+                "D. 网格由16个六边形组成，这些六边形按4x4的形式排列，具有从白到灰的细微渐变。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_48": {
+            "id": "-O6mJ0VBTc4_48",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "场景中是否有人类出现？",
+            "options": [
+                "A. 是的，有人与元素进行互动。",
+                "B. 不，场景中没有人类出现。",
+                "C. 是的，背景中有人的轮廓。",
+                "D. 没有，但可以听到视频中的声音。"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_49": {
+            "id": "-O6mJ0VBTc4_49",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "网格中有多少个圆？",
+            "options": [
+                "A. 12个圆",
+                "B. 16个圆",
+                "C. 20个圆",
+                "D. 25个圆"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_50": {
+            "id": "-O6mJ0VBTc4_50",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "在这个过程中，'LighthouseOD.com'文本是否会改变颜色？",
+            "options": [
+                "A. 会，'LighthouseOD.com'文本会从白色变为更柔和的灰色。",
+                "B. 不会，'LighthouseOD.com'文本在整个过程中一直保持白色。",
+                "C. 会，'LighthouseOD.com'文本会从灰色变为白色。",
+                "D. 不会，'LighthouseOD.com'文本会变成黑色。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_51": {
+            "id": "-O6mJ0VBTc4_51",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "随着序列的推进，‘LighthouseOD.com’文本会发生什么变化？",
+            "options": [
+                "A. ‘LighthouseOD.com’文本移动到画面的顶部。",
+                "B. 随着序列的推进，‘LighthouseOD.com’文本会完全从画面中消失。",
+                "C. ‘LighthouseOD.com’文本的颜色变为鲜红色。",
+                "D. ‘LighthouseOD.com’文本变得更大且更醒目。"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_52": {
+            "id": "-O6mJ0VBTc4_52",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "随着序列的推进，网格会发生什么变化？",
+            "options": [
+                "A. 网格变得更大并占据整个屏幕。",
+                "B. 网格变色以匹配背景。",
+                "C. 随着序列的推进，网格完全从画面中消失。",
+                "D. 网格变形为“Gregg Learning”标志。"
+            ],
+            "answer": "C"
+        },
+        "-O6mJ0VBTc4_53": {
+            "id": "-O6mJ0VBTc4_53",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "小圆形的‘g’标志和‘Gregg Learning’文字出现在画面中的哪个位置？",
+            "options": [
+                "A. 它们出现在画面的顶部。",
+                "B. 它们出现在画面的底部。",
+                "C. 它们出现在画面的左侧。",
+                "D. 它们出现在画面的中心。"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_54": {
+            "id": "-O6mJ0VBTc4_54",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "视频片段中主要使用了哪种类型的镜头拍摄？",
+            "options": [
+                "A. 视频主要使用了固定镜头拍摄。",
+                "B. 视频主要使用了摇镜头拍摄。",
+                "C. 视频主要使用了推镜头拍摄。",
+                "D. 视频主要使用了跟镜头拍摄。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_55": {
+            "id": "-O6mJ0VBTc4_55",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "“Gregg Learning”文字的视觉属性在序列结束时如何变化？",
+            "options": [
+                "A. “Gregg Learning”文字变成了亮蓝色。",
+                "B. “Gregg Learning”文字变大并变得更突出。",
+                "C. “Gregg Learning”文字移至画面框的上角。",
+                "D. “Gregg Learning”文字显著变暗，逐渐消失到几乎看不见。"
+            ],
+            "answer": "D"
+        },
+        "-O6mJ0VBTc4_56": {
+            "id": "-O6mJ0VBTc4_56",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉提示表明品牌重心转向“Gregg Learning”？",
+            "options": [
+                "A. 出现小圆形的“g”标志以及灰色的“Gregg Learning”文字，指示品牌重心的转变。",
+                "B. 背景过渡为蓝色和白色的渐变。",
+                "C. 由16个圆圈组成的网格改变形状形成单词“Gregg”。",
+                "D. “LighthouseOD.com”文字保持白色并变大。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_57": {
+            "id": "-O6mJ0VBTc4_57",
+            "scene": "-1",
+            "dimension": "Attribute Change",
+            "question": "手拿黑色记号笔在书上移动后，建筑插图会发生什么变化？",
+            "options": [
+                "A. 插图演变为包含四个均匀间隔的柱子，呈现经典建筑对称且视觉平衡的描绘。",
+                "B. 插图变为描绘一座带玻璃窗和屋顶花园的现代摩天大楼。",
+                "C. 插图转变为一幅景观画，有山川以及穿流而过的河流。",
+                "D. 插图变为一幅详细的城市地图，街道和地标清晰标注。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_58": {
+            "id": "-O6mJ0VBTc4_58",
+            "scene": "-1",
+            "dimension": "Attribute Change",
+            "question": "数字 '2' 在画面中向上移动后会发生什么？",
+            "options": [
+                "A. 箭头的头部进入画面后又消失。",
+                "B. 数字 '2' 的颜色变成红色。",
+                "C. 一系列白色点形成波浪形图案。",
+                "D. 背景变成亮蓝色。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_59": {
+            "id": "-O6mJ0VBTc4_59",
+            "scene": "-1",
+            "dimension": "Attribute Change",
+            "question": "当数字'2'消失后，什么替代它的位置？",
+            "options": [
+                "A. 数字'3'取代了'2'。",
+                "B. 数字'4'出现在中间。",
+                "C. 一个空格取代了数字'2'的位置。",
+                "D. 数字'2'被小写字母'g'替代。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_60": {
+            "id": "-O6mJ0VBTc4_60",
+            "scene": "-1",
+            "dimension": "Fine Grained Action",
+            "question": "钱袋消失后，在数字“3”旁会发生什么动作？",
+            "options": [
+                "A. 一只人手通过详细的描绘开始形成一个头盔状的结构。",
+                "B. 一只小鸟飞过屏幕，留下羽毛的轨迹。",
+                "C. 一个数字时钟出现，从十开始倒数。",
+                "D. 一系列数字快速闪烁，形成一个图案。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_61": {
+            "id": "-O6mJ0VBTc4_61",
+            "scene": "-1",
+            "dimension": "Description-Scene",
+            "question": "这场景如何通过书本和人群相关的片段来强调知识传播的主题？",
+            "options": [
+                "A. 一只手将带有古典柱子插图的书展示给人群。",
+                "B. 人群围绕一个空的讲台形成一个圆圈，象征着知识分享。",
+                "C. 一位老师手持书本向人群讲授内容。",
+                "D. 书本的内容被投影到屏幕上供人群观看。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_62": {
+            "id": "-O6mJ0VBTc4_62",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "这个场景如何通过涉及书本和人群的片段来强调进步的主题？",
+            "options": [
+                "A. 书本与钱袋、安全帽和握手等图标按顺序连接，代表金融、劳动和合作。",
+                "B. 书本保持静止，而图标随机闪烁，象征混乱和缺乏方向。",
+                "C. 书本与一些没有上下文的抽象形状一起显示，这些形状逐渐淡出背景。",
+                "D. 书本直接过渡到“LighthouseOD.com”文本，没有展示任何相关图标。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_63": {
+            "id": "-O6mJ0VBTc4_63",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "最终的以品牌为中心的画面通过其极简设计意图传达什么？",
+            "options": [
+                "A. 最后一帧通过简约设计和像“Gregg Learning”标志这样的元素，建立了一个清晰、有力的品牌信息，以明确的视觉效果和重点为品牌传达画上句号。",
+                "B. 最后一帧优先采用繁忙而复杂的设计，试图通过品牌元素使观众感到不知所措。",
+                "C. 最后一帧使用鲜艳的颜色和动态图形来强调一种充满趣味且富有活力的品牌风格。",
+                "D. 最后一帧采用详细的图像和复杂的图案来建立一个精巧的品牌叙事。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_64": {
+            "id": "-O6mJ0VBTc4_64",
+            "scene": "-1",
+            "dimension": "Description-Human",
+            "question": "在展示书本和标记的序列中，插图中的手扮演了什么角色？",
+            "options": [
+                "A. 插图中的手保持静止，对书本提供对称的框架，使注意力集中在真实人手的绘画活动上。",
+                "B. 插图中的手通过指向和移动，积极地引导注意力到书本的不同部分。",
+                "C. 插图中的手模仿真实人手的动作，在书本两侧形成镜像效果。",
+                "D. 插图中的手在场景中改变位置，象征着各种解释性的手势。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_65": {
+            "id": "-O6mJ0VBTc4_65",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "极简过渡场景中，数字“2”之后会发生什么？",
+            "options": [
+                "A. 数字“3”成为焦点，伴随着不断变化的插图。",
+                "B. 圆形网格重新出现，并以鲜艳的颜色呈现。",
+                "C. 文本“LighthouseOD.com”以霓虹灯效果闪现。",
+                "D. 一个从“5”开始的倒计时伴随着音效。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_66": {
+            "id": "-O6mJ0VBTc4_66",
+            "scene": "-1",
+            "dimension": "Description-Object",
+            "question": "书中所描述的元素序列是什么？",
+            "options": [
+                "A. 书被一只手呈现，并顺序连接到四个编号符号（不等号、钱袋、安全帽、握手）。",
+                "B. 书悬浮在中央，并连接到地球、天平和灯泡符号，在这之前是一个标有“2”的不等号。",
+                "C. 书没有其他元素的描绘，焦点仅在显示于黑色背景下的书名上。",
+                "D. 书呈现配有旋转齿轮的动画，没有其他符号或标志。"
+            ],
+            "answer": "A"
+        },
+        "-O6mJ0VBTc4_67": {
+            "id": "-O6mJ0VBTc4_67",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "当“LighthouseOD.com”文字和网格消失后，剩下的是什么？",
+            "options": [
+                "A. ‘LighthouseOD.com’文字仍然保留",
+                "B. ‘Gregg Learning’标志和文字仍然保留",
+                "C. 圆圈网格仍然保留",
+                "D. 屏幕完全变为黑色"
+            ],
+            "answer": "D"
+        },
+        "-O6mJ0VBTc4_68": {
+            "id": "-O6mJ0VBTc4_68",
+            "scene": "-1",
+            "dimension": "Attribute Change",
+            "question": "在以品牌为重点的场景结束时，'Gregg Learning' 的标志和文字会发生什么变化？",
+            "options": [
+                "A. 'Gregg Learning' 的标志和文字在整个场景中始终清晰可见。",
+                "B. 'Gregg Learning' 的标志和文字显著变暗，逐渐淡化到几乎不可见，以实现简约的结尾。",
+                "C. 'Gregg Learning' 的标志和文字逐渐变亮，占据画面主导地位。",
+                "D. 'Gregg Learning' 的标志和文字变成醒目的白色，与背景形成鲜明对比。"
+            ],
+            "answer": "B"
+        },
+        "-O6mJ0VBTc4_69": {
+            "id": "-O6mJ0VBTc4_69",
+            "scene": "-1",
+            "dimension": "Description-Scene",
+            "question": "为什么场景过渡到一个以数字和白色背景为特色的极简主义构图？",
+            "options": [
+                "A. 这种过渡强调视觉清晰度和主题演进，专注于在整洁且无干扰的环境中进行数字演变。",
+                "B. 过渡是为了加入额外的主题元素并增强复杂性。",
+                "C. 场景改变是为了引入生动的色彩和动态动画。",
+                "D. 转换旨在通过复杂背景突出文本元素以提高可读性。"
+            ],
+            "answer": "A"
+        }
+    }
+}

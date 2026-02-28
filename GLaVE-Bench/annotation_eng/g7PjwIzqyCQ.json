@@ -1,0 +1,3000 @@
+{
+    "scene_hint": {
+        "0": "The mist shrouds the mountains, with text appearing at the bottom.",
+        "1": "A webpage appears, and then the text and images on the webpage are enlarged separately.",
+        "2": "A curved building appears in the frame.",
+        "3": "The 'UNESCO' logo appears along with other text.",
+        "4": "White snow-capped mountains are shrouded in mist, with the mountain body faintly visible.",
+        "5": "The mist clears, revealing a blue, crystal-clear Tianchi Lake surrounded by steep slopes.",
+        "6": "A group of people is walking through a dense forest.",
+        "7": "Red text is displayed on an electronic screen, and more people walk toward the entrance.",
+        "8": "A woman is speaking, followed by a group of people observing a panel on the wall.",
+        "9": "A crowd passes through a wooden archway, with a plaque above displaying text.",
+        "10": "A group of people walks along a path filled with flowers and grass.",
+        "11": "A group of people stands on a platform by the lake.",
+        "12": "One person is speaking to two others.",
+        "13": "A rocky hill is crowded with tourists, and the camera zooms in to show more tourists on the pathway.",
+        "14": "People walk along a path with railings and beside a small stream.",
+        "15": "A group of people stands amidst lush greenery.",
+        "16": "Text and geometric shapes appear in the background, marking the end of the video."
+    },
+    "qa": {
+        "g7PjwIzqyCQ_0": {
+            "id": "g7PjwIzqyCQ_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the lake and the surrounding peaks?",
+            "options": [
+                "A. The lake is located at the center of a crater-like area, surrounded by peaks.",
+                "B. The lake is situated at the edge of a steep cliff, with peaks encircling it in the distance.",
+                "C. The lake is located on the mountainside of a rugged peak, accompanied by a river flowing down.",
+                "D. The lake is situated in a valley at the foot of the mountain, surrounded by dense forest."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_1": {
+            "id": "g7PjwIzqyCQ_1",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the font of the logo in the upper right corner at the beginning of the video?",
+            "options": [
+                "A. Korean font + English font",
+                "B. Chinese font + English font",
+                "C. Korean font + Russian font",
+                "D. English font + Russian font"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_2": {
+            "id": "g7PjwIzqyCQ_2",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Does the video depict any people or activities?",
+            "options": [
+                "A. Yes, there are several hikers exploring the mountains.",
+                "B. Yes, there are skiers gliding down the slopes.",
+                "C. No, the video does not depict any people or activities.",
+                "D. Yes, there is a team conducting geological research on the ice."
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_3": {
+            "id": "g7PjwIzqyCQ_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "\"자료화면 YTN\" logo is located in which position on the screen?",
+            "options": [
+                "A. In the upper right corner of the screen",
+                "B. In the upper left corner of the screen",
+                "C. In the lower right corner of the screen",
+                "D. In the lower left corner of the screen"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_4": {
+            "id": "g7PjwIzqyCQ_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Is most of the text at the bottom of the video written in English?",
+            "options": [
+                "A. Yes, most of it is written in English.",
+                "B. No, most of it is written in Korean.",
+                "C. Yes, it is written in both English and Korean, each accounting for half.",
+                "D. No, most of it is written in Chinese."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_5": {
+            "id": "g7PjwIzqyCQ_5",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What are the prominent elements in the video?",
+            "options": [
+                "A. Snow-covered peaks, frozen heavenly pools, and mist, etc.",
+                "B. Dense forests, exotic flowers and plants, and wildlife, etc.",
+                "C. Massive peaks, tall trees, and various animals, etc.",
+                "D. Vast deserts, spiky cacti, and reptiles, etc."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_6": {
+            "id": "g7PjwIzqyCQ_6",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of lens should be used to shoot this scene?",
+            "options": [
+                "A. Close-up ground shot",
+                "B. Wide-angle aerial shot",
+                "C. Panoramic zoom shot",
+                "D. Narrow tunnel perspective"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_7": {
+            "id": "g7PjwIzqyCQ_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Which visual cue in the video indicates the source of the footage?",
+            "options": [
+                "A. The '자료화면 YTN' logo displayed on the screen.",
+                "B. A watermark at the bottom of the screen bearing the UNESCO logo.",
+                "C. A pop-up window in the center of the screen displaying 'Footage Source: National Geographic.'",
+                "D. A subtitle at the bottom mentioning 'Footage belongs to the Mount Baekdu Preservation Society.'"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_8": {
+            "id": "g7PjwIzqyCQ_8",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the core focus of this scene?",
+            "options": [
+                "A. It is a webpage specifically introducing 'Mount Changbaishan UNESCO Global Geopark'.",
+                "B. It is a UNESCO conference about Mount Changbaishan.",
+                "C. It is the geological landscape of Mount Changbaishan.",
+                "D. It is a documentary about the volcanic crater lakes in Northeast Asia."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_9": {
+            "id": "g7PjwIzqyCQ_9",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What is the central theme of this scene and how is it visually presented?",
+            "options": [
+                "A. The webpage uses a professional layout, with bold English at the top and in the title, accompanied by English text introductions and images.",
+                "B. The video plays various geological landscapes through a slideshow, with English narration and Korean subtitles.",
+                "C. The video provides a real-time tour of Changbai Mountain, combining an immersive virtual reality experience with audio commentary.",
+                "D. The webpage features a simple design, with very little text and no subtitles, focusing solely on images of the geopark."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_10": {
+            "id": "g7PjwIzqyCQ_10",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What is the title on the webpage like?",
+            "options": [
+                "A. The title is a bold English title.",
+                "B. The title is an italic English title.",
+                "C. The title is a bold Korean title.",
+                "D. The title is a bold Chinese title."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_11": {
+            "id": "g7PjwIzqyCQ_11",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What type of text content is on the webpage?",
+            "options": [
+                "A. The webpage contains a segment of English text content.",
+                "B. The webpage contains a segment of Korean text content.",
+                "C. The webpage contains a segment of Chinese text content.",
+                "D. The webpage only has images without any text content."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_12": {
+            "id": "g7PjwIzqyCQ_12",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What other visible text elements are there besides English text?",
+            "options": [
+                "A. Korean subtitles throughout the sequence development.",
+                "B. Animated geological maps.",
+                "C. A list of celebrities visiting Changbai Mountain.",
+                "D. An interactive map of the geological park."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_13": {
+            "id": "g7PjwIzqyCQ_13",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What is the background design of the webpage?",
+            "options": [
+                "A. The webpage enlarges and blurs the text to serve as the background to highlight the webpage.",
+                "B. The webpage uses a vibrant color scheme and includes images of wildlife.",
+                "C. The webpage uses a solid blue background with abstract patterns.",
+                "D. The webpage displays a colorful map of Changbai Mountain."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_14": {
+            "id": "g7PjwIzqyCQ_14",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What is the English logo displayed in the top left corner of the webpage?",
+            "options": [
+                "A. 'YTN'",
+                "B. 'BBC'",
+                "C. 'CNN'",
+                "D. 'UNESCO'"
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_15": {
+            "id": "g7PjwIzqyCQ_15",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What role do the Korean subtitles play in this sequence?",
+            "options": [
+                "A. The Korean subtitles provide supplementary background and explanations about the English webpage introduction of Changbai Mountain.",
+                "B. The Korean subtitles translate the English text into Korean for viewers who do not understand English.",
+                "C. The Korean subtitles provide a detailed history of the geological structure of Changbai Mountain and its significance.",
+                "D. The Korean subtitles offer a summary of the video content for those who prefer reading over watching."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_16": {
+            "id": "g7PjwIzqyCQ_16",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the clarity of the English text throughout the sequence?",
+            "options": [
+                "A. Throughout the sequence, the English text remained blurry and unreadable.",
+                "B. The clarity of the English text improved in the subsequent parts, enhancing readability.",
+                "C. Throughout the sequence, the English text gradually became smaller and increasingly difficult to read.",
+                "D. The English text gradually disappeared, becoming less noticeable over time."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_17": {
+            "id": "g7PjwIzqyCQ_17",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "How do the Korean subtitles change throughout the sequence?",
+            "options": [
+                "A. The Korean subtitles change to completely different text in later scenes.",
+                "B. The Korean subtitles completely disappear as the sequence progresses.",
+                "C. The Korean subtitles change color to highlight key points.",
+                "D. The Korean subtitles remain unchanged with no alterations."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_18": {
+            "id": "g7PjwIzqyCQ_18",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the English body text located on the webpage?",
+            "options": [
+                "A. The English body text is prominently displayed below the bold title and main heading.",
+                "B. The English body text is located in the upper right corner of the webpage, next to the YTN logo.",
+                "C. The English body text is embedded in the grayscale geological image in the background.",
+                "D. The English body text is located at the bottom of the webpage, near the Korean subtitles."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_19": {
+            "id": "g7PjwIzqyCQ_19",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Where are the Korean subtitles located on the webpage?",
+            "options": [
+                "A. The Korean subtitles are located at the top of the page.",
+                "B. The Korean subtitles are located at the bottom of the page.",
+                "C. The Korean subtitles are located in the middle of the page.",
+                "D. The Korean subtitles are located on the side of the page."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_20": {
+            "id": "g7PjwIzqyCQ_20",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the 'YTN' logo located in this scene?",
+            "options": [
+                "A. The 'YTN' logo is located at the top right corner.",
+                "B. The 'YTN' logo is located at the bottom left corner.",
+                "C. The 'YTN' logo is located at the center of the top of the webpage.",
+                "D. The 'YTN' logo is located at the top left corner."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_21": {
+            "id": "g7PjwIzqyCQ_21",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What visual elements indicate the source of the video?",
+            "options": [
+                "A. A blue 'UNESCO' logo provides a clue about the video's source.",
+                "B. A prominent title 'Mount Changbaishan UNESCO Global Geopark' explicitly indicates the video's source.",
+                "C. Korean subtitles at the bottom of the webpage serve as an indication of the video's source.",
+                "D. The YTN logo in the top right corner confirms the video's source."
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_22": {
+            "id": "g7PjwIzqyCQ_22",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What visual elements indicate the source of the webpage text?",
+            "options": [
+                "A. The blue 'UNESCO' logo provides a clue about the source of the webpage text.",
+                "B. The title 'Mount Changbaishan UNESCO Global Geopark' clearly indicates the source of the webpage text.",
+                "C. The Korean subtitles at the bottom of the webpage serve as an indication of the source of the webpage text.",
+                "D. The grayscale image of the geological landscape confirms the source of the webpage text."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_23": {
+            "id": "g7PjwIzqyCQ_23",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What visual elements indicate the credibility of the video content?",
+            "options": [
+                "A. The presence of Korean subtitles at the bottom of the video.",
+                "B. The consistent appearance of the 'YTN' logo in the top right corner provides a hint about the credibility of the content.",
+                "C. The grayscale image of geological landscapes in the background.",
+                "D. A translucent white overlay attributing the footage to the official UNESCO website."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_24": {
+            "id": "g7PjwIzqyCQ_24",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "How do the visual attributes of the text change over time?",
+            "options": [
+                "A. The clarity of the English text improves over time, making it easier to read.",
+                "B. The color of the English text changes from black to blue to draw more attention to the content.",
+                "C. The font size of the English text decreases over time to better highlight the Korean subtitles.",
+                "D. The English text gradually fades out, making the Korean subtitles the focal point."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_25": {
+            "id": "g7PjwIzqyCQ_25",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Which spatial element emphasizes the scale of the natural environment?",
+            "options": [
+                "A. Winding roads or paths on the hillside",
+                "B. Fluffy white clouds in the sky",
+                "C. YTN logo in the upper right corner",
+                "D. Korean subtitles at the bottom"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_26": {
+            "id": "g7PjwIzqyCQ_26",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the main visual focus behind the webpage containing text?",
+            "options": [
+                "A. A bird's-eye view of Tianchi, the deep blue crater lake surrounded by rugged ridges.",
+                "B. A close-up of detailed historical text about Changbai Mountain Geological Park.",
+                "C. A bustling cityscape with skyscrapers and modern architecture.",
+                "D. A panoramic view of a dense forest with no visible water bodies."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_27": {
+            "id": "g7PjwIzqyCQ_27",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What human interactions does the presence of a scenic road indicate?",
+            "options": [
+                "A. A winding path suggests that humans may use it as a hiking trail or exploration route.",
+                "B. A wide asphalt road indicates that vehicles frequently pass through the area for conservation work.",
+                "C. A wide dirt road covered with volcanic rocks is a historical relic, indicating past volcanic activity.",
+                "D. A path with clear boundary isolation indicates it is a boundary marker between geological zones."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_28": {
+            "id": "g7PjwIzqyCQ_28",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What details can be observed about the 'YTN' logo?",
+            "options": [
+                "A. The 'YTN' logo is displayed in the lower left corner, with its position changing in different frames.",
+                "B. The 'YTN' logo always appears in the upper right corner of the screen, reinforcing the media brand.",
+                "C. The 'YTN' logo intermittently appears at the bottom center of the scene, sometimes disappearing between frames.",
+                "D. The 'YTN' logo is prominently displayed in the center of the screen, changing the visual focus."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_29": {
+            "id": "g7PjwIzqyCQ_29",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What scenes are clearly described in this scenario?",
+            "options": [
+                "A. One focuses on a text-based presentation, while the other focuses on the display of Tianchi and its surrounding environment.",
+                "B. One showcases a bustling cityscape, while the other showcases a tranquil beach.",
+                "C. One depicts historical reenactment, while the other showcases a modern art gallery.",
+                "D. One highlights a cooking demonstration, while the other is a sports activity."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_30": {
+            "id": "g7PjwIzqyCQ_30",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Does this scene retain Korean subtitles during the transition between text and images?",
+            "options": [
+                "A. Yes, this scene retains Korean subtitles throughout the transition.",
+                "B. No, Korean subtitles only appear in the text portion.",
+                "C. No, Korean subtitles only appear in the image transition portion.",
+                "D. No, there are no Korean subtitles in this scene."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_31": {
+            "id": "g7PjwIzqyCQ_31",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "In the scene, which direction does the winding road or path lead to?",
+            "options": [
+                "A. The winding road extends downward to a lake.",
+                "B. The winding road extends upward to a ridge.",
+                "C. The winding road leads to a dense forest.",
+                "D. The winding road circles around the lake."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_32": {
+            "id": "g7PjwIzqyCQ_32",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What type of lens should be used to photograph Tianchi Lake and its surrounding scenery?",
+            "options": [
+                "A. Use a wide-angle lens with a slightly elevated perspective.",
+                "B. Use a close-up lens, focusing on the lake surface.",
+                "C. Use a low-angle lens shooting upwards from the foot of the mountain.",
+                "D. Use a panoramic view shot from directly above with a drone."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_33": {
+            "id": "g7PjwIzqyCQ_33",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in visibility in the subsequent footage of the Tianchi landscape?",
+            "options": [
+                "A. The footage is slightly zoomed in, and visibility is subtly enhanced.",
+                "B. The changes in the lake surface reflect the sunset sky.",
+                "C. The mountainous terrain transitions into a desert landscape.",
+                "D. The clouds in the sky are replaced by a flock of birds."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_34": {
+            "id": "g7PjwIzqyCQ_34",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "In the presentation, which visual elements provide continuity between text and images?",
+            "options": [
+                "A. Korean subtitles and the 'YTN' logo provide continuity between text and images in the presentation.",
+                "B. The color change of the text and the movement of the camera provide continuity between text and images in the presentation.",
+                "C. English subtitles and the shape of the mountains provide continuity between text and images in the presentation.",
+                "D. The aerial view of Tianchi and the voice of the background commentary provide continuity between text and images in the presentation."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_35": {
+            "id": "g7PjwIzqyCQ_35",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What kind of structure surrounds this building?",
+            "options": [
+                "A. A dense forest area",
+                "B. A neat green lawn",
+                "C. A busy city street",
+                "D. A desert area"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_36": {
+            "id": "g7PjwIzqyCQ_36",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is in the foreground of this building?",
+            "options": [
+                "A. A row of tall flagpoles",
+                "B. A decorative fountain",
+                "C. A large parking lot",
+                "D. A row of neatly trimmed shrubs"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_37": {
+            "id": "g7PjwIzqyCQ_37",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the institution's architecture?",
+            "options": [
+                "A. The building is surrounded by a dense forest.",
+                "B. The background is a bright blue sky and soft clouds.",
+                "C. A rocky mountain range can be seen behind the building.",
+                "D. The background is a wide river."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_38": {
+            "id": "g7PjwIzqyCQ_38",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What kind of environment is shown in this scene?",
+            "options": [
+                "A. A busy city market environment is shown.",
+                "B. A natural environment with blue skies, white clouds, and green plants is shown.",
+                "C. A tropical desert environment with rolling sand dunes is shown.",
+                "D. A tropical rainforest environment with dense trees is shown."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_39": {
+            "id": "g7PjwIzqyCQ_39",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What kind of architectural environment is shown in the video?",
+            "options": [
+                "A. A rural wooden house environment surrounded by dense forest",
+                "B. A modern architectural structure environment surrounded by green vegetation",
+                "C. A busy city square environment filled with crowds and shops",
+                "D. A traditional market environment with rich cultural elements"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_40": {
+            "id": "g7PjwIzqyCQ_40",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Is any human character directly visible in this scene?",
+            "options": [
+                "A. Yes, there are a few people walking by the lake.",
+                "B. No, there are no human characters directly visible in the video.",
+                "C. Yes, there is a group of tourists visiting a building.",
+                "D. Yes, there is a scientist explaining the features of this mountain."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_41": {
+            "id": "g7PjwIzqyCQ_41",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What are the features of the institutional buildings in the scene?",
+            "options": [
+                "A. The buildings are modern in style, featuring curved designs, rows of bright windows, etc.",
+                "B. The buildings are historical, square-shaped, and constructed of stone.",
+                "C. The buildings are futuristic in style, designed in a spiral shape, and equipped with colorful LED panels.",
+                "D. The buildings are single-story wooden structures, surrounded by dense forests."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_42": {
+            "id": "g7PjwIzqyCQ_42",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many different environments are shown in the scene?",
+            "options": [
+                "A. The video shows one environment.",
+                "B. The video shows two environments.",
+                "C. The video shows three environments.",
+                "D. The video shows four environments."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_43": {
+            "id": "g7PjwIzqyCQ_43",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Does the video contain any text overlay?",
+            "options": [
+                "A. Yes, the video contains Korean subtitles and Korean-English labels.",
+                "B. No, there is no text overlay in the video.",
+                "C. Yes, but only some unclear symbols are visible.",
+                "D. Yes, the video has Japanese subtitles, without any labels."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_44": {
+            "id": "g7PjwIzqyCQ_44",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "In the video, how does the focus shift from the previous scene to this scene?",
+            "options": [
+                "A. The focus transitions from the natural beauty of Tianchi Lake to the structured, professional atmosphere of the architectural environment.",
+                "B. The focus shifts from the historical significance of Tianchi Lake to the cutting-edge technology showcased in the architecture, highlighting research advancements.",
+                "C. The focus shifts from the industrial area near Tianchi Lake to the dense urban development, showcasing Changbai Mountain's role in modern economic growth.",
+                "D. The focus shifts from the barren desert landscape of Tianchi Lake to lush agricultural fields managed by institutional architecture."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_45": {
+            "id": "g7PjwIzqyCQ_45",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What visual elements identify the media source of the video?",
+            "options": [
+                "A. The 'YTN' logo in the upper right corner and the '자료화면' label confirm the media source of the video.",
+                "B. The Korean subtitles and the vibrant colors of the natural environment confirm the media source of the video clip.",
+                "C. Modern architecture and detailed text overlays explain the media source of the video.",
+                "D. The flagpole and bright blue sky are the main identifiers of the media source."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_46": {
+            "id": "g7PjwIzqyCQ_46",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "How is the background in this scene?",
+            "options": [
+                "A. The background consists of partially obscured buildings, reflective window panes, and tall trees.",
+                "B. The background shows people picnicking under trees and children playing in open fields.",
+                "C. The background features towering skyscrapers, busy streets, and crowded sidewalks.",
+                "D. The background includes dense forests, wooden cabins, and flowing rivers."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_47": {
+            "id": "g7PjwIzqyCQ_47",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What narrative does the Korean subtitle convey about Changbai Mountain?",
+            "options": [
+                "A. The Korean subtitle describes Changbai Mountain as an 'outdoor classroom for volcanic activity' and emphasizes its scientific and educational significance.",
+                "B. The Korean subtitle portrays Changbai Mountain as a natural wonder known for its unique biodiversity and picturesque scenery.",
+                "C. The Korean subtitle highlights Changbai Mountain as a historical site of great significance to ancient cultural heritage.",
+                "D. The Korean subtitle refers to Changbai Mountain as a popular tourist destination and a symbol of international cooperation."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_48": {
+            "id": "g7PjwIzqyCQ_48",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the 'UNESCO' emblem?",
+            "options": [
+                "A. The 'UNESCO' emblem is a carved wooden plaque, painted in vibrant colors with intricate patterns.",
+                "B. The 'UNESCO' emblem is a three-dimensional metal structure mounted on a weathered concrete pedestal.",
+                "C. The 'UNESCO' emblem is a flat metal plaque with minimal lettering, lacking additional engravings.",
+                "D. The 'UNESCO' emblem is a neon structure featuring flashing lights and rotating components."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_49": {
+            "id": "g7PjwIzqyCQ_49",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "How many languages are used in this scene?",
+            "options": [
+                "A. One language",
+                "B. Two languages",
+                "C. Three languages",
+                "D. Four languages"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_50": {
+            "id": "g7PjwIzqyCQ_50",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "In this scene, is the sky completely visible?",
+            "options": [
+                "A. Yes, the sky is fully visible in a tightly composed perspective.",
+                "B. No, due to the tight composition, part of the blue sky is obscured.",
+                "C. Yes, the sky occupies the background in a tightly composed perspective.",
+                "D. No, due to focusing on the UNESCO logo, the sky is completely blocked."
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_51": {
+            "id": "g7PjwIzqyCQ_51",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What action does the transition from the building to the text sign highlight?",
+            "options": [
+                "A. The transition emphasizes the importance of the sign by shifting attention from the grand institutional building to the sign.",
+                "B. The transition highlights the architectural design of the institutional building by focusing on the reflective windows of the building.",
+                "C. The transition showcases the natural beauty of the surrounding landscape by zooming in on the lush green lawn.",
+                "D. The transition emphasizes the historical significance of the UNESCO sign by focusing on the weathered concrete base."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_52": {
+            "id": "g7PjwIzqyCQ_52",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "What is the direction of the vertical stripes of the metal fence behind the 'UNESCO' logo?",
+            "options": [
+                "A. They are vertical.",
+                "B. They are horizontal.",
+                "C. They are diagonal.",
+                "D. They are arranged in a zigzag pattern."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_53": {
+            "id": "g7PjwIzqyCQ_53",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of photography lens should be used to highlight the 'UNESCO' sign?",
+            "options": [
+                "A. Use a close-up perspective to highlight the 'UNESCO' sign.",
+                "B. Use a wide-angle lens to highlight the 'UNESCO' sign.",
+                "C. Use a bird's-eye view to highlight the 'UNESCO' sign.",
+                "D. Use a panoramic lens to highlight the 'UNESCO' sign."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_54": {
+            "id": "g7PjwIzqyCQ_54",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What impact does using this perspective have on the 'UNESCO' logo?",
+            "options": [
+                "A. It adds a sense of authenticity and historical depth to the landmark.",
+                "B. It highlights the vibrant colors of the greenery in the background.",
+                "C. It emphasizes the modern architectural design of the surrounding buildings.",
+                "D. It shifts the focus entirely to the text overlay about Changbai Mountain."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_55": {
+            "id": "g7PjwIzqyCQ_55",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements help in understanding the scenes and narratives in the video?",
+            "options": [
+                "A. White Korean subtitles, 'YTN' logo, and '자료화면' text overlay help in understanding the scenes and narratives.",
+                "B. Dense green lawns and vertical flagpoles provide thematic continuity and brand characteristics.",
+                "C. Reflective window grids and fluffy clouds help in understanding the scenes and narratives by providing thematic continuity and brand characteristics.",
+                "D. The metallic letters of the UNESCO logo and the weathered concrete base provide thematic continuity and brand characteristics."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_56": {
+            "id": "g7PjwIzqyCQ_56",
+            "scene": 4,
+            "dimension": "Camera Direction",
+            "question": "From the previous scene, how does the perspective change?",
+            "options": [
+                "A. The perspective shifts from a close-up shot highlighting the texture surface of the 'UNESCO' logo.",
+                "B. The perspective changes to a shot inside a museum exhibition room displaying 'UNESCO' artifacts.",
+                "C. The perspective changes to a busy city street, displaying 'UNESCO' banners.",
+                "D. The perspective transitions to a wildlife sanctuary, without mentioning 'UNESCO'."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_57": {
+            "id": "g7PjwIzqyCQ_57",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "How does the perspective shift to a snowy landscape?",
+            "options": [
+                "A. The perspective shifts to a wide-angle view, showcasing the vast, tranquil, and isolated snowy landscape extending to rugged mountains.",
+                "B. The perspective moves to a close-up of the mountains, emphasizing only the cliffs and snow.",
+                "C. The perspective sweeps over a bustling cityscape, without mentioning mountains or snow.",
+                "D. The perspective tilts upwards, focusing solely on the cloudy sky, ignoring the snowfields and mountains."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_58": {
+            "id": "g7PjwIzqyCQ_58",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is there any sign of human presence in this scene?",
+            "options": [
+                "A. Yes, there is a clear human presence described.",
+                "B. No, there is no direct mention of human presence in the description.",
+                "C. Yes, there is an implication of human presence, but it is not directly shown.",
+                "D. Yes, there are traces of human existence."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_59": {
+            "id": "g7PjwIzqyCQ_59",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Are there any signs of human activity in the video description?",
+            "options": [
+                "A. Yes, there are multiple signs of human activity.",
+                "B. Yes, the appearance of a UNESCO logo indicates human activity.",
+                "C. No, there is no direct description of human activity.",
+                "D. No, the video only focuses on natural geological features."
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_60": {
+            "id": "g7PjwIzqyCQ_60",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Does the 'YTN' logo appear throughout the entire scene?",
+            "options": [
+                "A. Yes, the 'YTN' logo remains visible throughout the entire scene.",
+                "B. No, the 'YTN' logo is only visible at the beginning of the scene.",
+                "C. No, the 'YTN' logo disappears during the transition.",
+                "D. Yes, but the 'YTN' logo is only visible midway through the scene."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_61": {
+            "id": "g7PjwIzqyCQ_61",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What changes enhanced the perception of the Changbai Mountain scenery?",
+            "options": [
+                "A. Thin mist or low clouds, partially obscuring the snowfields and mountains, adding a sense of mystery.",
+                "B. Increased bright sunlight, illuminating the entire landscape, creating a pleasant atmosphere.",
+                "C. Removed all clouds, presenting a clear and unobstructed mountain view.",
+                "D. Busy cityscape appearing in the background, adding a modern touch to the scene."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_62": {
+            "id": "g7PjwIzqyCQ_62",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of photography lens should be used to capture snow scenes and Changbai Mountain?",
+            "options": [
+                "A. Use a close-up lens.",
+                "B. Use a medium shot lens.",
+                "C. Use a wide-angle lens.",
+                "D. Use an extreme close-up lens."
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_63": {
+            "id": "g7PjwIzqyCQ_63",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "In this scene, has the Korean subtitle field changed?",
+            "options": [
+                "A. No, the field has not changed at all.",
+                "B. Yes, the field has decreased.",
+                "C. Yes, the field has increased.",
+                "D. Yes, the field completely disappeared in the later part of the scene."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_64": {
+            "id": "g7PjwIzqyCQ_64",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What visual elements provide background information on the significance of Changbai Mountain?",
+            "options": [
+                "A. The Korean subtitles and the recurring 'YTN' logo indicate the important background of Changbai Mountain.",
+                "B. The old metal UNESCO sign and fence provide all the background information on the significance of Changbai Mountain.",
+                "C. The mist and low clouds on the snow alone convey the geological significance of Changbai Mountain.",
+                "D. The scattered light and partly cloudy sky are the main elements highlighting the educational value of Changbai Mountain."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_65": {
+            "id": "g7PjwIzqyCQ_65",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "What is the position of the lake in its environment?",
+            "options": [
+                "A. The lake is located in a central position.",
+                "B. The lake is located on the outer slope of the mountain.",
+                "C. The lake is partially hidden behind dense forests.",
+                "D. The lake is located on top of a flat plateau."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_66": {
+            "id": "g7PjwIzqyCQ_66",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What surrounds the lake?",
+            "options": [
+                "A. The lake is surrounded by steep, rugged, and rolling hills.",
+                "B. The lake is surrounded by dense forests and lush green meadows.",
+                "C. The lake is surrounded by snow-capped peaks and thick mist.",
+                "D. The lake is surrounded by beaches and palm trees."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_67": {
+            "id": "g7PjwIzqyCQ_67",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What kind of structures are formed by lakes and their surroundings?",
+            "options": [
+                "A. They form structures similar to plateaus.",
+                "B. They form structures similar to craters.",
+                "C. They form structures similar to canyons.",
+                "D. They form structures similar to valleys."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_68": {
+            "id": "g7PjwIzqyCQ_68",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "How is the surrounding environment depicted in this scene?",
+            "options": [
+                "A. There is a deep blue lake, rugged slopes, sparse vegetation, and partially cloudy skies.",
+                "B. There are sand dunes and scorching sunlight, clusters of cacti, and a cloudless blue sky.",
+                "C. There are skyscrapers and stretches of streets, along with dense crowds and vehicles.",
+                "D. There is a dense jungle, a flowing creek, and a sky covered by trees."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_69": {
+            "id": "g7PjwIzqyCQ_69",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Is there a human presence in the scene?",
+            "options": [
+                "A. Yes, there are climbers on the cliff.",
+                "B. No, there is no human presence in the scene.",
+                "C. Yes, there are people rowing on the volcanic crater lake.",
+                "D. Yes, there are hikers exploring the rugged terrain."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_70": {
+            "id": "g7PjwIzqyCQ_70",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Does the scene depict any human activity?",
+            "options": [
+                "A. Yes, there are people climbing a mountain.",
+                "B. Yes, there are boats on the crater lake.",
+                "C. No, the scene does not depict any human activity.",
+                "D. Yes, there is a campsite near the lake."
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_71": {
+            "id": "g7PjwIzqyCQ_71",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What type of text elements are overlaid on the scene in the video?",
+            "options": [
+                "A. Black Korean subtitles appear in a white box.",
+                "B. White English subtitles appear in a black box.",
+                "C. Black Chinese subtitles appear in a white box.",
+                "D. Black Korean subtitles appear at the top of the screen."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_72": {
+            "id": "g7PjwIzqyCQ_72",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What is the logo that has always been present in the scene?",
+            "options": [
+                "A. The 'YTN' logo is always located at the top right corner of the screen.",
+                "B. The 'CNN' logo is always located at the bottom left corner of the screen.",
+                "C. The 'BBC' logo always appears in the center of the screen.",
+                "D. The 'NHK' logo is always located at the bottom right corner of the screen."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_73": {
+            "id": "g7PjwIzqyCQ_73",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Is the lake always visible throughout the scene?",
+            "options": [
+                "A. Yes, the lake is always visible throughout the scene.",
+                "B. No, the lake is initially obscured by mist and becomes visible as the mist clears.",
+                "C. Yes, but due to the presence of mist, the lake is only partially visible.",
+                "D. No, the lake is completely obscured throughout the entire video."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_74": {
+            "id": "g7PjwIzqyCQ_74",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used to capture the lake in this scene?",
+            "options": [
+                "A. Focused close-up shot of the lake surface.",
+                "B. High-angle or wide-angle shot emphasizing the vastness of the lake.",
+                "C. Low-angle shot taken from the bottom of the crater.",
+                "D. Time-lapse shot capturing the dispersal of mist over the lake surface."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_75": {
+            "id": "g7PjwIzqyCQ_75",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What are the colors of this scene?",
+            "options": [
+                "A. The colors are vivid shades like deep blue, earthy brown, and green.",
+                "B. The colors are soft shades like pink, purple, and aqua blue.",
+                "C. The colors are dim shades like gray, white, and black.",
+                "D. The colors are muted shades like white, gray, and light blue."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_76": {
+            "id": "g7PjwIzqyCQ_76",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the man in the light brown shirt and the man in the green clothing, based on the video?",
+            "options": [
+                "A. The man in green clothing is positioned to the back left of the man in the light brown shirt.",
+                "B. The man in green clothing is positioned to the back right of the man in the light brown shirt.",
+                "C. The man in green clothing is positioned to the front left of the man in the light brown shirt.",
+                "D. The man in green clothing is positioned to the front right of the man in the light brown shirt."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_77": {
+            "id": "g7PjwIzqyCQ_77",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "From the video, what is the spatial relationship between the man in the light brown shirt and the man in blue clothing?",
+            "options": [
+                "A. The man in blue clothing is to the left of the man in the light brown shirt.",
+                "B. The man in blue clothing is to the right of the man in the light brown shirt.",
+                "C. The man in blue clothing is behind the man in the light brown shirt.",
+                "D. The man in blue clothing is in front of the man in the light brown shirt."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_78": {
+            "id": "g7PjwIzqyCQ_78",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the scene?",
+            "options": [
+                "A. The setting is a dense forest environment, surrounded by various lush vegetation.",
+                "B. The setting is a tranquil meadow surrounded by high mountains.",
+                "C. The setting features a desert landscape with sand dunes.",
+                "D. The setting is a city park where people enjoy recreational activities."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_79": {
+            "id": "g7PjwIzqyCQ_79",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What are the characteristics of the man wearing a light brown shirt?",
+            "options": [
+                "A. The man wearing a light brown shirt is carrying a bag with black straps and has a tag around his neck.",
+                "B. The man wearing a light brown shirt is holding a bag with green straps and a compass.",
+                "C. The man wearing a light brown shirt is carrying a black backpack and a hat.",
+                "D. The man wearing a light brown shirt is holding a blue jacket and a trekking pole."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_80": {
+            "id": "g7PjwIzqyCQ_80",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What visible objects in the scene indicate organized activity?",
+            "options": [
+                "A. They all have badges similar to work IDs around their necks.",
+                "B. The Korean overlay text and 'YTN' logo appearing on the screen.",
+                "C. The crater lake in the distant background, surrounded by rugged slopes.",
+                "D. The filtered light passing through the forest canopy."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_81": {
+            "id": "g7PjwIzqyCQ_81",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Does the entire scene maintain a visual connection with the Changbai Mountain landscape?",
+            "options": [
+                "A. Yes, the continuous Korean subtitles and signs maintain a connection with the Changbai Mountain landscape throughout the scene.",
+                "B. No, the video completely shifts to a forest environment without any reference to the volcanic landscape.",
+                "C. Yes, but only through a brief glimpse of the volcanic lake in the background.",
+                "D. No, the volcanic theme is only mentioned in the narration and is not visually maintained."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_82": {
+            "id": "g7PjwIzqyCQ_82",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "How is the lighting in the forest?",
+            "options": [
+                "A. The light is strong, casting distinct shadows.",
+                "B. The forest light is bright but not glaring.",
+                "C. The forest is shrouded in darkness.",
+                "D. The light forms strong directional beams, illuminating specific areas."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_83": {
+            "id": "g7PjwIzqyCQ_83",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "How does the music change in this scene?",
+            "options": [
+                "A. The rhythm becomes more dynamic and lively.",
+                "B. The rhythm is noticeably static, highlighting the tranquility of the forest.",
+                "C. The rhythm remains consistent with the previous crater scene.",
+                "D. The rhythm becomes chaotic and disordered, reflecting human activity."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_84": {
+            "id": "g7PjwIzqyCQ_84",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of this scene?",
+            "options": [
+                "A. The setting is a lush forest landscape.",
+                "B. The setting is a bustling urban landscape.",
+                "C. The setting is a sparsely populated desert landscape.",
+                "D. The setting is a dim underwater scene."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_85": {
+            "id": "g7PjwIzqyCQ_85",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "How does the scale of the entire scene change?",
+            "options": [
+                "A. The scale shifts from vast and serene to an intimate human scale.",
+                "B. The scale remains unchanged throughout the video.",
+                "C. The scale shifts from an intimate human scale to vast and serene.",
+                "D. The scale shifts from chaotic and crowded to peaceful and spacious."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_86": {
+            "id": "g7PjwIzqyCQ_86",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What changes in activities have been observed from the previous scene to this scene?",
+            "options": [
+                "A. Activities changed from natural tranquility to human dynamic actions.",
+                "B. Activities shifted from a busy cityscape to rural farming.",
+                "C. Activities transitioned from a quiet lake to a family picnic.",
+                "D. Activities changed from forest exploration to mountain climbing."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_87": {
+            "id": "g7PjwIzqyCQ_87",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What labels in the scene indicate its broadcast source?",
+            "options": [
+                "A. The 'KBS' label in the top left corner is a visual cue indicating the broadcast source.",
+                "B. The 'SBS' label in the bottom right corner is a visual cue indicating the broadcast source.",
+                "C. The 'YTN' label in the top right corner is a visual cue indicating the broadcast source.",
+                "D. The 'MBC' label in the center is a visual cue indicating the broadcast source."
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_88": {
+            "id": "g7PjwIzqyCQ_88",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "Where is the man wearing a white hat in relation to the museum entrance?",
+            "options": [
+                "A. The man wearing a white hat is in the center, walking towards the museum entrance.",
+                "B. The man wearing a white hat is standing still near the museum entrance.",
+                "C. The man wearing a white hat is on the far right side of the scene.",
+                "D. The man wearing a white hat is walking away from the museum entrance."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_89": {
+            "id": "g7PjwIzqyCQ_89",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "Where is the man wearing a white hat in relation to the camera?",
+            "options": [
+                "A. The man wearing a white hat is facing away from the camera.",
+                "B. The man wearing a white hat is facing the camera.",
+                "C. The man wearing a white hat is to the left of the camera.",
+                "D. The man wearing a white hat is standing in the museum."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_90": {
+            "id": "g7PjwIzqyCQ_90",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What was the previous scene?",
+            "options": [
+                "A. A busy city street filled with pedestrians and vehicles.",
+                "B. A dense forest filled with natural light and crowds.",
+                "C. An expansive desert landscape with sand dunes.",
+                "D. A peaceful countryside with old houses and fields."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_91": {
+            "id": "g7PjwIzqyCQ_91",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What are the characteristics of this scene?",
+            "options": [
+                "A. The background is the entrance of a modern building, with text displayed on an electronic screen above.",
+                "B. The background is a dense forest area with no signs of human presence.",
+                "C. The background is a busy city street with numerous skyscrapers.",
+                "D. The background is a tranquil village surrounded by farmland."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_92": {
+            "id": "g7PjwIzqyCQ_92",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the person wearing green clothes and carrying a black backpack doing?",
+            "options": [
+                "A. She is taking photos of the museum.",
+                "B. She is walking towards the museum entrance.",
+                "C. She is talking to someone off-screen.",
+                "D. She is standing still, observing the museum."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_93": {
+            "id": "g7PjwIzqyCQ_93",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What elements are at the entrance of the Changbai Mountain Geological Park Museum?",
+            "options": [
+                "A. There is a wooden door, a decorative archway above the entrance, etc.",
+                "B. There are glass doors and walls, as well as a welcome sign above the entrance, etc.",
+                "C. There is a stone wall, with a banner hanging at the entrance, etc.",
+                "D. There are curved metal walls and sliding glass doors, etc."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_94": {
+            "id": "g7PjwIzqyCQ_94",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "Is there English on the sign above the museum entrance?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only Chinese",
+                "D. Only Korean"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_95": {
+            "id": "g7PjwIzqyCQ_95",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Is there Chinese on the sign above the museum entrance?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only Korean",
+                "D. Only English"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_96": {
+            "id": "g7PjwIzqyCQ_96",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the man with white hair on the far right doing?",
+            "options": [
+                "A. The person on the far right is entering the museum.",
+                "B. The person on the far right is taking a photo of the building.",
+                "C. The person on the far right seems to be turning back to wait for someone.",
+                "D. The person on the far right is reading the museum's sign."
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_97": {
+            "id": "g7PjwIzqyCQ_97",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What does the text of 'Changbai Mountain Geological Park Museum' look like?",
+            "options": [
+                "A. Red",
+                "B. Yellow",
+                "C. Blue",
+                "D. Purple"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_98": {
+            "id": "g7PjwIzqyCQ_98",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "What perspective does this video provide of the Changbai Mountain Geological Park Museum?",
+            "options": [
+                "A. The video provides an aerial perspective.",
+                "B. The video provides a close-up perspective.",
+                "C. The video provides an eye-level perspective.",
+                "D. The video provides a panoramic perspective."
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_99": {
+            "id": "g7PjwIzqyCQ_99",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "In the video, which visual cues emphasize the importance of Changbai Mountain?",
+            "options": [
+                "A. The position of the '자료화면' label and the 'YTN' logo highlights the importance of Changbai Mountain.",
+                "B. The red text on the sign outside the museum emphasizes the importance of Changbai Mountain.",
+                "C. The design of the museum building itself showcases the historical significance of Changbai Mountain.",
+                "D. The white shirts worn by people emphasize the importance of Changbai Mountain."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_100": {
+            "id": "g7PjwIzqyCQ_100",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "In the museum hall, from the video, where is the woman wearing a light-colored shirt and dark pants, holding a microphone located?",
+            "options": [
+                "A. She is located on the left side of the frame.",
+                "B. She is located in the center of the frame.",
+                "C. She is located on the right side of the frame.",
+                "D. She is standing at the far side of the room."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_101": {
+            "id": "g7PjwIzqyCQ_101",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "In the museum hall, on the left side of the picture, what is the woman wearing a light-colored shirt and dark pants doing?",
+            "options": [
+                "A. She is holding a microphone.",
+                "B. She is pointing at an electronic display.",
+                "C. She is writing on a clipboard.",
+                "D. She is distributing brochures to the group."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_102": {
+            "id": "g7PjwIzqyCQ_102",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "In the museum hall, who is next to the woman wearing a light-colored shirt and dark pants on the left side of the picture?",
+            "options": [
+                "A. A man wearing a light green shirt, carrying a bag, and with a casual demeanor.",
+                "B. A man dressed formally in a black suit, holding a folder.",
+                "C. A woman wearing a purple top and gray pants.",
+                "D. A man wearing a dark blue shirt and jacket."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_103": {
+            "id": "g7PjwIzqyCQ_103",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What is the atmosphere like in the museum exhibition or similar hall space?",
+            "options": [
+                "A. The atmosphere is soft and suitable for conversation, with bright lighting.",
+                "B. The atmosphere is chaotic and busy, with bright spotlights and noisy interactive sounds.",
+                "C. The atmosphere is quiet and solemn, with minimal lighting and no conversation.",
+                "D. The atmosphere is cheerful and lively, with vibrant decorations and music playing."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_104": {
+            "id": "g7PjwIzqyCQ_104",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "In the museum hall, on the left side of the scene, what role does the woman in a light-colored shirt and dark pants play?",
+            "options": [
+                "A. She is holding a microphone, possibly introducing or interviewing the crowd.",
+                "B. She is a casual participant, observing the crowd from the side.",
+                "C. She is a museum guide, leading the crowd through the exhibition.",
+                "D. She is a technical staff member, adjusting the room's lighting."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_105": {
+            "id": "g7PjwIzqyCQ_105",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "In the museum hall, which objects or elements in the background suggest information or exhibition content?",
+            "options": [
+                "A. An unused display screen, a framed landscape artwork.",
+                "B. A row of chairs, a projector, and a set of curtains.",
+                "C. A large map, a podium, and a bookshelf.",
+                "D. A decorative vase, a chandelier, and a landscape painting."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_106": {
+            "id": "g7PjwIzqyCQ_106",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "Does the museum space have bright daylight exposure?",
+            "options": [
+                "A. Yes, all spaces in the museum have bright daylight exposure.",
+                "B. Yes, some parts of the museum space use natural light, while others use artificial lighting.",
+                "C. Yes, all spaces in the museum are completely illuminated by natural sunlight.",
+                "D. No, the museum space is dimly lit, with only minimal lighting."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_107": {
+            "id": "g7PjwIzqyCQ_107",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "In the museum hall, what pose did the lady in green make?",
+            "options": [
+                "A. She placed her right hand on her left arm.",
+                "B. She crossed her arms over her chest.",
+                "C. She put her hands on her hips in a casual manner.",
+                "D. She was taking notes with a clipboard."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_108": {
+            "id": "g7PjwIzqyCQ_108",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "In the museum hall, according to the video, where is the inactive electronic display located?",
+            "options": [
+                "A. In front of the large pillar on the left.",
+                "B. In front of the large pillar on the right.",
+                "C. In the central position, obscured by people.",
+                "D. The electronic display does not appear in this scene."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_109": {
+            "id": "g7PjwIzqyCQ_109",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What is the indoor exhibition space like in the scene?",
+            "options": [
+                "A. The indoor exhibition space lighting is focused on the walls, showcasing vivid images and detailed text.",
+                "B. The indoor exhibition space is dimly lit, sparsely decorated, with little participant interaction and no thematic displays.",
+                "C. The indoor exhibition space is crowded and noisy, with participants engaging in casual conversations, ignoring the displays on the walls.",
+                "D. The indoor exhibition space is small and enclosed, with scattered information displays and no noticeable ceiling decorations."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_110": {
+            "id": "g7PjwIzqyCQ_110",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "In the indoor exhibition space, what is the white-haired woman in green doing in the gallery?",
+            "options": [
+                "A. She is walking slowly with her head down, looking at the floor.",
+                "B. She is giving an informative talk to the audience.",
+                "C. She is holding a microphone and participating in a panel discussion.",
+                "D. She is moving around, observing other people in the hall."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_111": {
+            "id": "g7PjwIzqyCQ_111",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the panels installed on the walls inside the exhibition space?",
+            "options": [
+                "A. The panels installed on the walls display vivid images combined with accompanying text.",
+                "B. The panels installed on the walls showcase abstract artworks without any text.",
+                "C. The panels installed on the walls only display plain text without any images.",
+                "D. The panels installed on the walls prominently feature advertisements for local products."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_112": {
+            "id": "g7PjwIzqyCQ_112",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "In this scene, is the lady using the microphone always visible?",
+            "options": [
+                "A. Yes, she is now standing on the left side of the exhibition hall.",
+                "B. No, the lady with the microphone is partially visible in the frame.",
+                "C. Yes, she is visible near the older gentleman inspecting the panel.",
+                "D. No, she is outside the hall, vaguely seen through the window."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_113": {
+            "id": "g7PjwIzqyCQ_113",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "In the indoor exhibition space, can you clearly see a person wearing a white top and black pants with a backpack?",
+            "options": [
+                "A. Yes, he is on the left side of the image.",
+                "B. Yes, he is on the right side of the image.",
+                "C. No, he is not in the image.",
+                "D. No, the image is blurry, cannot be determined."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_114": {
+            "id": "g7PjwIzqyCQ_114",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "In the indoor exhibition space, which direction are the participants mainly facing?",
+            "options": [
+                "A. Most participants are facing the display panels.",
+                "B. Participants are mainly facing the entrance of the exhibition hall.",
+                "C. Most participants are facing away from the display panels, focusing on each other.",
+                "D. Participants are arranged in a circle around the center of the room."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_115": {
+            "id": "g7PjwIzqyCQ_115",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used to capture the exhibition hall scene?",
+            "options": [
+                "A. The scene uses a bird's-eye view, providing a comprehensive view from above.",
+                "B. The scene uses a low-angle view, creating a dynamic and grand perspective.",
+                "C. The scene uses an eye-level angle, offering a balanced view of participants and the exhibition layout.",
+                "D. The scene uses a close-up angle, focusing on specific details of the exhibits."
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_116": {
+            "id": "g7PjwIzqyCQ_116",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "The Korean subtitle overlay explains what the geopolitical division of Mount Baekdu is.",
+            "options": [
+                "A. One-third of Mount Baekdu belongs to North Korea, and two-thirds belong to China.",
+                "B. Half of Mount Baekdu belongs to North Korea, and half belongs to China.",
+                "C. One-quarter of Mount Baekdu belongs to North Korea, and three-quarters belong to China.",
+                "D. Three-quarters of Mount Baekdu belong to North Korea, and one-quarter belongs to China."
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_117": {
+            "id": "g7PjwIzqyCQ_117",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What are the characteristics of the 'Changbai Mountain Jinjiang Grand Canyon'?",
+            "options": [
+                "A. A modern steel arch with LED lights.",
+                "B. An arch made of dark wood style.",
+                "C. A large stone sculpture engraved with a park map.",
+                "D. A glass dome structure with information display."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_118": {
+            "id": "g7PjwIzqyCQ_118",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What does the environment of this scene look like?",
+            "options": [
+                "A. The lighting is bright, with towering green trees and dense forest vegetation.",
+                "B. The lighting is dim, vegetation is sparse, appearing gloomy and discouraging.",
+                "C. Crowded with tourists, everyone is focused on quickly passing through the entrance, appearing chaotic.",
+                "D. The environment is desolate and barren, with an endless rocky terrain."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_119": {
+            "id": "g7PjwIzqyCQ_119",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "How does the outdoor environment contrast with the previous indoor scene?",
+            "options": [
+                "A. The outdoor scene forms a striking contrast with the previously modernized indoor environment.",
+                "B. The outdoor scene is dimly lit, unlike the bright indoor exhibition.",
+                "C. The indoor scene has tall trees and dense foliage, differing from the outdoor environment.",
+                "D. There is no obvious contrast between the outdoor and indoor scenes."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_120": {
+            "id": "g7PjwIzqyCQ_120",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "What is the woman on the far left in the foreground wearing in this scene?",
+            "options": [
+                "A. Green T-shirt and black pants",
+                "B. White shirt and light-colored pants",
+                "C. Green and blue jacket with glasses",
+                "D. Light blue uniform"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_121": {
+            "id": "g7PjwIzqyCQ_121",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "What action is the woman in green doing in the scene?",
+            "options": [
+                "A. She is turning sideways and raising her hand, seemingly guiding the person behind her.",
+                "B. She is sitting on a bench, quietly observing the scenery.",
+                "C. She is standing and taking a photo of the wooden arch.",
+                "D. She is reading the information board placed near the entrance."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_122": {
+            "id": "g7PjwIzqyCQ_122",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What text is displayed on the wooden entrance door?",
+            "options": [
+                "A. The dark wooden beam displays the white text 'Changbai Mountain Jinjiang Grand Canyon'.",
+                "B. The dark wooden beam displays the white text 'High Peak Safety Zone'.",
+                "C. The dark wooden beam displays the white text 'Forest Shaded Avenue'.",
+                "D. The dark wooden beam displays the white text 'Natural Peaceful Land'."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_123": {
+            "id": "g7PjwIzqyCQ_123",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "In this scene, is the camera angle positioned at a higher location?",
+            "options": [
+                "A. Yes, the camera angle is positioned at a higher location.",
+                "B. No, the camera angle is positioned at eye level.",
+                "C. Yes, the camera angle is positioned below eye level.",
+                "D. No, the camera angle is positioned at a lower angle."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_124": {
+            "id": "g7PjwIzqyCQ_124",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "What is the man with glasses and a backpack doing?",
+            "options": [
+                "A. The man with glasses and a backpack is sitting down.",
+                "B. The man with glasses and a backpack is looking at his phone.",
+                "C. The man with glasses and a backpack is walking forward with big strides.",
+                "D. The man with glasses and a backpack is taking photos."
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_125": {
+            "id": "g7PjwIzqyCQ_125",
+            "scene": 9,
+            "dimension": "Object Direction",
+            "question": "What is the direction of movement of most people relative to the camera?",
+            "options": [
+                "A. Most people are moving away from the camera.",
+                "B. Most people are moving towards the camera.",
+                "C. Most people are staying still.",
+                "D. Most people are moving across the frame."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_126": {
+            "id": "g7PjwIzqyCQ_126",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "How to compose a wooden arch in the frame?",
+            "options": [
+                "A. Compose the wooden arch at eye level with a balanced perspective, emphasizing the current location.",
+                "B. Compose the wooden arch with a close-up angle, focusing on the Korean text.",
+                "C. The wooden arch is partially obscured by the crowd, with the focus on the surrounding people.",
+                "D. Compose the wooden arch from a bird's-eye view, showcasing the entire park entrance."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_127": {
+            "id": "g7PjwIzqyCQ_127",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "Where are the tall pine trees located?",
+            "options": [
+                "A. The tall pine trees are lined along the edge of the meadow.",
+                "B. The tall pine trees are scattered across the entire meadow.",
+                "C. The tall pine trees are clustered near the wooden path.",
+                "D. The tall pine trees form a grove in the center of the meadow."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_128": {
+            "id": "g7PjwIzqyCQ_128",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "What major changes have occurred in the landscape from the previous scene to this scene?",
+            "options": [
+                "A. Transition from a forest area to a vibrant wildflower meadow.",
+                "B. Transition from an urban environment to a rural landscape.",
+                "C. Change from a beach to a mountainous area.",
+                "D. Transition from a desert to a dense forest."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_129": {
+            "id": "g7PjwIzqyCQ_129",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "How is the behavior of the person wearing the hat?",
+            "options": [
+                "A. The person is excited and gesturing enthusiastically.",
+                "B. The person is sitting quietly on the bench.",
+                "C. The person is observing silently with arms crossed.",
+                "D. The person is wandering aimlessly on the grass."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_130": {
+            "id": "g7PjwIzqyCQ_130",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "From the video, how is the person on the left dressed?",
+            "options": [
+                "A. He is wearing a light-colored shirt and dark pants, with a hat.",
+                "B. He is wearing a light brown jacket, with a light blue shirt underneath, paired with dark pants.",
+                "C. He is wearing a dark suit with a red tie.",
+                "D. He is wearing a bright yellow jacket and jeans."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_131": {
+            "id": "g7PjwIzqyCQ_131",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "What does the subtitle at the bottom of this scene say?",
+            "options": [
+                "A. The subtitle says: '다만 천지는 약 54.5%가 북한에 속합니다'.",
+                "B. The subtitle mentions: '다만 천지는 약 45.5%가 우리단에 속합니다'.",
+                "C. The subtitle explains: '집업이 오거 끝났습니다'.",
+                "D. The subtitle shows: '다음은 2023년 집업입니다'."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_132": {
+            "id": "g7PjwIzqyCQ_132",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "Is there a wooden path in the grass?",
+            "options": [
+                "A. Yes, a wooden path extends into the grass.",
+                "B. No, there is no wooden path in the grass.",
+                "C. Yes, but only part of the wooden path is visible.",
+                "D. No, the path in the grass is made of stone."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_133": {
+            "id": "g7PjwIzqyCQ_133",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "What is the man in the light brown jacket doing?",
+            "options": [
+                "A. The man in the light brown jacket is raising his hand and slightly tilting his head.",
+                "B. The man in the light brown jacket is holding a disposable drink.",
+                "C. The man in the light brown jacket is pointing at a map.",
+                "D. The man in the light brown jacket is taking a photo."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_134": {
+            "id": "g7PjwIzqyCQ_134",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "What camera angle was used to present the grassland scene?",
+            "options": [
+                "A. Bird's-eye view",
+                "B. Low-angle view",
+                "C. Eye-level view",
+                "D. High-angle view"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_135": {
+            "id": "g7PjwIzqyCQ_135",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "Where is the man in the blue clothes, carrying a backpack, with slightly white hair standing in relation to the wooden viewing platform?",
+            "options": [
+                "A. At the edge of the wooden viewing platform, with his back to the camera",
+                "B. In the middle of the wooden viewing platform taking photos",
+                "C. Near the entrance of the wooden viewing platform talking with others",
+                "D. On the far right, holding an umbrella"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_136": {
+            "id": "g7PjwIzqyCQ_136",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "What was the environment like in the previous scene?",
+            "options": [
+                "A. Busy city streets with heavy traffic.",
+                "B. A lively meadow with blooming wildflowers.",
+                "C. A beach with waves crashing.",
+                "D. A dark forest with tall, eerie trees."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_137": {
+            "id": "g7PjwIzqyCQ_137",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "What are the characteristics of the current environment?",
+            "options": [
+                "A. A serene lake surrounded by tall, dense trees.",
+                "B. A bustling waterfront with beaches and vibrant market stalls.",
+                "C. A rocky coastline with crashing waves and sparse vegetation.",
+                "D. A dry, arid landscape with scattered shrubs and a small stagnant pond."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_138": {
+            "id": "g7PjwIzqyCQ_138",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "How is the atmosphere in the scene?",
+            "options": [
+                "A. The atmosphere is serene, with a lush, vibrant green landscape.",
+                "B. The atmosphere is lively, a group of cheerful people are enjoying their time on the grass.",
+                "C. The atmosphere is eerie and dark, with thick fog covering the lake, making visibility unclear.",
+                "D. The atmosphere is chaotic, with strong winds and heavy rain causing inconvenience to visitors."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_139": {
+            "id": "g7PjwIzqyCQ_139",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "What is the most likely environment for this scene?",
+            "options": [
+                "A. This scene is most likely located in a nature reserve or park, emphasizing appreciation and protection of nature.",
+                "B. This scene is most likely in a bustling city center, known for its modern architecture.",
+                "C. This scene is most likely in a commercial shopping area, surrounded by shops and cafes.",
+                "D. This scene is most likely in an industrial area, characterized by factories and machinery."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_140": {
+            "id": "g7PjwIzqyCQ_140",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "What is the man wearing a blue outfit, carrying a backpack, and having slightly white hair doing?",
+            "options": [
+                "A. He is standing at the edge of the platform, deeply immersed in the scenery.",
+                "B. He is holding a light blue flag with white markings.",
+                "C. He is taking photos of the lake with a smartphone.",
+                "D. He is facing away from the camera, making it difficult to observe his actions accurately."
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_141": {
+            "id": "g7PjwIzqyCQ_141",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "What does the flag look like in this scene?",
+            "options": [
+                "A. The flag is light blue, with faintly visible text and patterns.",
+                "B. The flag is dark blue, with white stripes and red patterns.",
+                "C. The flag is green, with white stripes and yellow patterns.",
+                "D. The flag is blank, without any symbols or patterns."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_142": {
+            "id": "g7PjwIzqyCQ_142",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "Who is holding the light blue flag?",
+            "options": [
+                "A. The man standing at the edge of the platform wearing a blue jacket",
+                "B. The person wearing a dark jacket, partially visible",
+                "C. The view is obscured by subtitles, cannot be determined",
+                "D. The person holding a smartphone, wearing green clothes"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_143": {
+            "id": "g7PjwIzqyCQ_143",
+            "scene": 11,
+            "dimension": "Count",
+            "question": "In this scene, how many people are wearing green clothes?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_144": {
+            "id": "g7PjwIzqyCQ_144",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "From the video, how is the person holding the black umbrella standing?",
+            "options": [
+                "A. Back to the camera, facing the lake.",
+                "B. Slightly turned to the left, facing the lake.",
+                "C. Turned to the right, facing the lake.",
+                "D. Facing the camera, back to the lake."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_145": {
+            "id": "g7PjwIzqyCQ_145",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "Can this scene accurately observe the people on the platform?",
+            "options": [
+                "A. Yes, the people on the wooden viewing platform can be observed.",
+                "B. No, the camera mainly focuses on the natural scenery, without emphasizing the people.",
+                "C. Yes, but only one person is clearly visible, others are blurry.",
+                "D. No, the focus is entirely on the lake and trees, excluding people."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_146": {
+            "id": "g7PjwIzqyCQ_146",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "Can the natural scenery in the scene be accurately observed?",
+            "options": [
+                "A. Yes, you can observe the tranquil lakeside environment.",
+                "B. No, the camera mainly focuses on the people on the platform.",
+                "C. Yes, the camera only captures the cloudy sky and wildflowers.",
+                "D. No, the camera focuses on educational banners and text."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_147": {
+            "id": "g7PjwIzqyCQ_147",
+            "scene": 11,
+            "dimension": "Camera Shot",
+            "question": "Which type of lens is used to shoot the entire scene?",
+            "options": [
+                "A. A close-up lens is used to shoot the entire scene.",
+                "B. A medium shot lens is used to shoot the entire scene.",
+                "C. A wide-angle lens is used to shoot the entire scene.",
+                "D. A high-angle lens is used to shoot the entire scene."
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_148": {
+            "id": "g7PjwIzqyCQ_148",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "How does lighting in a scene affect the atmosphere?",
+            "options": [
+                "A. Bright sunlight makes colors more vivid, creating a lively atmosphere.",
+                "B. An overcast sky provides soft lighting, enhancing the rich green tones in the landscape.",
+                "C. Intense lighting during sunset casts long shadows, creating a dramatic and tense atmosphere.",
+                "D. Indoor artificial lighting makes the scene feel warm and cozy."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_149": {
+            "id": "g7PjwIzqyCQ_149",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "What does the Korean banner at the bottom of this scene say?",
+            "options": [
+                "A. The Korean banner content is related to geological significance and promoting sustainable development.",
+                "B. The Korean banner indicates the location of a wildlife conservation seminar.",
+                "C. The Korean banner informs tourists to recycle and keep clean.",
+                "D. The Korean banner announces the upcoming cultural festival event at the park."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_150": {
+            "id": "g7PjwIzqyCQ_150",
+            "scene": 12,
+            "dimension": "Spatial",
+            "question": "From the video, where is the man holding the microphone located?",
+            "options": [
+                "A. The man holding the microphone is on the far left.",
+                "B. The man holding the microphone is in the middle.",
+                "C. The man holding the microphone is on the far right.",
+                "D. There is no one holding a microphone in the picture."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_151": {
+            "id": "g7PjwIzqyCQ_151",
+            "scene": 12,
+            "dimension": "Spatial",
+            "question": "From the video, where is the man wearing a hat standing next to the railing?",
+            "options": [
+                "A. The person is on the far left.",
+                "B. The person is slightly to the right of the center.",
+                "C. The person is on the far right.",
+                "D. The person is behind the man holding the microphone."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_152": {
+            "id": "g7PjwIzqyCQ_152",
+            "scene": 12,
+            "dimension": "Spatial",
+            "question": "From the video, where is the man with crossed arms on the viewing platform?",
+            "options": [
+                "A. The man with crossed arms is on the far left.",
+                "B. The man with crossed arms is in the middle.",
+                "C. The man with crossed arms is on the far right.",
+                "D. The man with crossed arms is not on the viewing platform."
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_153": {
+            "id": "g7PjwIzqyCQ_153",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of this scene?",
+            "options": [
+                "A. In a tranquil natural environment, with lush green plants in the background.",
+                "B. In a busy city square, with modern buildings and bustling crowds in the background.",
+                "C. In a desert environment, with sand dunes and sparse vegetation, emphasizing an arid landscape.",
+                "D. In a snowy mountain area, with snow-covered peaks and distant rural cottages."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_154": {
+            "id": "g7PjwIzqyCQ_154",
+            "scene": 12,
+            "dimension": "Description-Human",
+            "question": "From the video, what is the man on the far left doing?",
+            "options": [
+                "A. The man on the left is holding a microphone, seemingly introducing something or conducting an interview.",
+                "B. The man on the left seems to be passively observing the discussion without contributing.",
+                "C. The man on the left is primarily focused on the architectural design of the platform.",
+                "D. The man on the left is appreciating the natural scenery and not participating in the conversation."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_155": {
+            "id": "g7PjwIzqyCQ_155",
+            "scene": 12,
+            "dimension": "Description-Human",
+            "question": "What is the man in the middle of the screen doing?",
+            "options": [
+                "A. He is resting his hands on the railing, listening attentively.",
+                "B. He is holding a microphone, guiding the discussion.",
+                "C. He has his arms crossed, exuding an air of calm contemplation.",
+                "D. He is leaning against the railing, resting with his eyes closed."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_156": {
+            "id": "g7PjwIzqyCQ_156",
+            "scene": 12,
+            "dimension": "Description-Human",
+            "question": "From the video, what is the man on the far right doing?",
+            "options": [
+                "A. The man has his arms crossed, exuding an aura of calm contemplation.",
+                "B. The man is holding a microphone, guiding the discussion.",
+                "C. The man is actively leaning on the railing, deeply engaging in the conversation.",
+                "D. The man seems to be using a camera to record the discussion."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_157": {
+            "id": "g7PjwIzqyCQ_157",
+            "scene": 12,
+            "dimension": "Description-Object",
+            "question": "What objects exist in the scene?",
+            "options": [
+                "A. Railings with circular notch design.",
+                "B. Railings with glass mesh pattern design.",
+                "C. Spiral staircases with rotating design.",
+                "D. Arch fences with leaf pattern design."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_158": {
+            "id": "g7PjwIzqyCQ_158",
+            "scene": 12,
+            "dimension": "Count",
+            "question": "How many people are on the observation deck?",
+            "options": [
+                "A. Two people",
+                "B. Three people",
+                "C. Four people",
+                "D. Five people"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_159": {
+            "id": "g7PjwIzqyCQ_159",
+            "scene": 12,
+            "dimension": "Binary",
+            "question": "Is the video's theme related to protection and sustainable development?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. It's about technology.",
+                "D. It's about historical events."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_160": {
+            "id": "g7PjwIzqyCQ_160",
+            "scene": 12,
+            "dimension": "Description-Human",
+            "question": "What is the posture of the person holding the microphone?",
+            "options": [
+                "A. He is leaning sideways against the railing.",
+                "B. He is standing upright with one arm crossed over his chest.",
+                "C. He is sitting at the highest point of the railing.",
+                "D. He is standing upright with one hand in his pocket."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_161": {
+            "id": "g7PjwIzqyCQ_161",
+            "scene": 12,
+            "dimension": "Description-Human",
+            "question": "What is the person holding the microphone doing?",
+            "options": [
+                "A. He is speaking into the microphone.",
+                "B. He is taking the microphone down and putting it aside.",
+                "C. He is extending his other hand, preparing to shake hands.",
+                "D. He is taking down the microphone to end the conversation."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_162": {
+            "id": "g7PjwIzqyCQ_162",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "What are the characteristics of the hillside in this scene?",
+            "options": [
+                "A. The hillside has steep slopes, with a winding path among them.",
+                "B. The hillside has flat terrain, with a path leading directly to the top.",
+                "C. The entire hillside is inaccessible, with no visible paths or trails.",
+                "D. The hillside is covered with dense vegetation, obscuring any possible paths."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_163": {
+            "id": "g7PjwIzqyCQ_163",
+            "scene": 13,
+            "dimension": "Spatial",
+            "question": "What is the spatial distribution of tourists on the mountain?",
+            "options": [
+                "A. Tourists are mainly distributed in the middle of the trail.",
+                "B. Tourists are evenly distributed along the trail.",
+                "C. Tourists form a dense gathering only at the foot of the mountain.",
+                "D. Tourists are mainly distributed at the top of the mountain."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_164": {
+            "id": "g7PjwIzqyCQ_164",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of this scene?",
+            "options": [
+                "A. It is a tranquil beach, focusing on personal reflection and the calm waves.",
+                "B. It is a rugged and barren hillside, with steep slopes and sparse vegetation.",
+                "C. It is a waterfall in a dense forest with abundant wildlife, emphasizing isolation and tranquility.",
+                "D. It is a serene lake with no human activity, showcasing untouched natural beauty."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_165": {
+            "id": "g7PjwIzqyCQ_165",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene take place?",
+            "options": [
+                "A. A desolate and rugged hillside.",
+                "B. A densely populated urban area.",
+                "C. In a tropical rainforest with waterfalls.",
+                "D. In a desert with vast sand dunes."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_166": {
+            "id": "g7PjwIzqyCQ_166",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "What activity are the people in the scene doing on the mountain?",
+            "options": [
+                "A. People are walking along the trail on the mountain.",
+                "B. People are rock climbing, using ropes to ascend the slope.",
+                "C. People are having a large picnic on the mountainside.",
+                "D. People are setting up tents for camping along the slope."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_167": {
+            "id": "g7PjwIzqyCQ_167",
+            "scene": 13,
+            "dimension": "Count",
+            "question": "How many metal communication towers appear in the scene?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_168": {
+            "id": "g7PjwIzqyCQ_168",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "Was environmental protection mentioned in the scene?",
+            "options": [
+                "A. Yes, the scene mentioned environmental protection with Korean subtitles.",
+                "B. No, environmental protection was not mentioned in the scene.",
+                "C. Yes, but it only focuses on the historical significance of the location.",
+                "D. No, the scene mainly discussed cultural activities on the mountain."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_169": {
+            "id": "g7PjwIzqyCQ_169",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "How do visitors interact with the environment on the trail?",
+            "options": [
+                "A. People on the trail are actively traversing rugged and steep paths.",
+                "B. Visitors are primarily building new trails on the hillside.",
+                "C. Most visitors sit by the roadside to rest and watch others climb.",
+                "D. The trail is empty, with no apparent human interaction."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_170": {
+            "id": "g7PjwIzqyCQ_170",
+            "scene": 13,
+            "dimension": "Object Direction",
+            "question": "Which direction do tourists usually move along the mountain slope path?",
+            "options": [
+                "A. Tourists usually move upwards, heading towards the summit.",
+                "B. Tourists usually move downwards, heading towards the foot of the mountain.",
+                "C. Tourists are dispersed, moving randomly without a specific direction.",
+                "D. Tourists move horizontally, walking along the ridge line."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_171": {
+            "id": "g7PjwIzqyCQ_171",
+            "scene": 13,
+            "dimension": "Camera Shot",
+            "question": "What type of shot transition occurs between the initial and subsequent scenes?",
+            "options": [
+                "A. Focus from a wide shot of a rugged hill and its visitors to a concentrated shot of only some of the visitors.",
+                "B. Suddenly switch from a crowded market to a tranquil empty beach.",
+                "C. Fade out from the interior of a noisy café to the exterior of an ancient temple.",
+                "D. Quickly pan from a noisy city street to a quiet mountain village."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_172": {
+            "id": "g7PjwIzqyCQ_172",
+            "scene": 13,
+            "dimension": "Speed",
+            "question": "How does the gathering of tourists indicate movement speed?",
+            "options": [
+                "A. The gathering of tourists indicates that the movement speed in these areas is slow.",
+                "B. The gathering of tourists indicates that the movement speed of the entire hill is fast.",
+                "C. The gathering of tourists shows consistent speed, with no change.",
+                "D. The gathering of tourists indicates that these areas are not moving at all."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_173": {
+            "id": "g7PjwIzqyCQ_173",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "What visual cues connect the scene to the theme of environmental protection?",
+            "options": [
+                "A. A group of brightly dressed individuals pointing at the scenery",
+                "B. Black Korean subtitles at the bottom of the screen.",
+                "C. Communication towers on the ridgeline to improve infrastructure",
+                "D. A large number of pedestrians on frequently used paths"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_174": {
+            "id": "g7PjwIzqyCQ_174",
+            "scene": 13,
+            "dimension": "Camera Shot",
+            "question": "After zooming in, where is the tourist wearing blue clothes and black pants on the road at the bottom?",
+            "options": [
+                "A. The tourist is at the bottom right corner of the screen",
+                "B. The tourist is at the bottom left corner of the screen",
+                "C. The tourist is in the center of the screen",
+                "D. The tourist is at the top right corner of the screen"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_175": {
+            "id": "g7PjwIzqyCQ_175",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "What are the tourists doing on the wooden walkway on the hillside?",
+            "options": [
+                "A. The tourists are going back and forth along the wooden walkway.",
+                "B. The tourists are collecting samples of the rocky terrain on the wooden walkway.",
+                "C. The tourists are constructing the wooden walkway to improve access to the hillside.",
+                "D. The tourists are participating in a cultural festival celebrating Changbai Mountain on the wooden walkway."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_176": {
+            "id": "g7PjwIzqyCQ_176",
+            "scene": 13,
+            "dimension": "Camera Shot",
+            "question": "After zooming in, where is the person wearing red clothes and carrying a black backpack on the road at the bottom?",
+            "options": [
+                "A. The person wearing red clothes is in the lower left corner of the frame.",
+                "B. The person wearing red clothes is in the lower right corner of the frame.",
+                "C. The person wearing red clothes is in the center of the frame.",
+                "D. The person wearing red clothes is in the upper right corner of the frame."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_177": {
+            "id": "g7PjwIzqyCQ_177",
+            "scene": 13,
+            "dimension": "Description-Object",
+            "question": "What is the shape of the wooden path on the hillside?",
+            "options": [
+                "A. The wooden path is winding.",
+                "B. The wooden path is straight.",
+                "C. The wooden path is circular.",
+                "D. The wooden path is wavy."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_178": {
+            "id": "g7PjwIzqyCQ_178",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "What safety features are on the wooden walkway on the hillside?",
+            "options": [
+                "A. The walkway has railings made of wood and rope.",
+                "B. The walkway is equipped with anti-slip mats.",
+                "C. Safety nets are installed on both sides of the walkway.",
+                "D. The walkway has stone walls built with stones."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_179": {
+            "id": "g7PjwIzqyCQ_179",
+            "scene": 13,
+            "dimension": "Description-Object",
+            "question": "What is the main function of the wooden walkway on the hillside?",
+            "options": [
+                "A. The walkway serves as the main passage for tourist flow.",
+                "B. The walkway is a decorative feature that highlights the beauty of the hillside.",
+                "C. The walkway is used as a drainage system for rainwater.",
+                "D. The walkway is used to transport goods to the top of the mountain."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_180": {
+            "id": "g7PjwIzqyCQ_180",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "Does this scene contain any text overlays?",
+            "options": [
+                "A. Yes, it includes a Korean subtitle and the 'YTN' logo in the upper right corner.",
+                "B. No, there are no text overlays or logos.",
+                "C. Yes, but the only text overlay is the 'YTN' logo in the upper right corner.",
+                "D. No, there is no mention of geopolitical or logo elements."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_181": {
+            "id": "g7PjwIzqyCQ_181",
+            "scene": 13,
+            "dimension": "Object Direction",
+            "question": "From the video, what is the movement direction of the person wearing red clothes and carrying a black backpack in the lower left corner of the video?",
+            "options": [
+                "A. She is moving upward.",
+                "B. She is moving to the left.",
+                "C. She is moving to the right.",
+                "D. She is walking down the slope."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_182": {
+            "id": "g7PjwIzqyCQ_182",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "What information is conveyed by the Korean subtitles in the video?",
+            "options": [
+                "A. The Korean subtitles point out, 'Some believe that this naming will lead the international community to use the Chinese name 'Changbai Mountain' instead of 'Baekdu Mountain.''",
+                "B. The Korean subtitles point out, 'Many people are visiting this mountain to admire its breathtaking scenery and unique geological features.'",
+                "C. The Korean subtitles point out, 'To accommodate the increasing number of visitors, hiking trails have been improved.'",
+                "D. The Korean subtitles point out, 'The rugged terrain makes it a challenging hike even for experienced travelers.'"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_183": {
+            "id": "g7PjwIzqyCQ_183",
+            "scene": 14,
+            "dimension": "Spatial",
+            "question": "From the video footage, where is the stream located in relation to the boardwalk?",
+            "options": [
+                "A. The stream is located to the left of the boardwalk.",
+                "B. The stream is located to the right of the boardwalk.",
+                "C. The stream flows underneath the boardwalk.",
+                "D. The stream is located above the boardwalk."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_184": {
+            "id": "g7PjwIzqyCQ_184",
+            "scene": 14,
+            "dimension": "Description-Scene",
+            "question": "What is the background described in this scene?",
+            "options": [
+                "A. In a desert, there are sand dunes, scattered rocks, and a group of camels moving in the distance.",
+                "B. In a lush landscape, there are green plants, wooden walkways, a creek, and rocks.",
+                "C. In an urban park, there are concrete walkways, a playground, and bustling crowds.",
+                "D. In a snow-covered mountainous area, there are skiing slopes, frozen lakes, and clusters of pine trees."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_185": {
+            "id": "g7PjwIzqyCQ_185",
+            "scene": 14,
+            "dimension": "Description-Human",
+            "question": "What is the person holding the microphone wearing?",
+            "options": [
+                "A. The person is wearing a green striped white Polo shirt and a black hat.",
+                "B. The person is wearing a light beige shirt and blue jeans.",
+                "C. The person is wearing a white shirt and black pants, carrying a bag.",
+                "D. The person is wearing a light blue shirt and a baseball cap."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_186": {
+            "id": "g7PjwIzqyCQ_186",
+            "scene": 14,
+            "dimension": "Description-Human",
+            "question": "What color is the clothing of the person holding the microphone?",
+            "options": [
+                "A. Green",
+                "B. White",
+                "C. Blue",
+                "D. Brown"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_187": {
+            "id": "g7PjwIzqyCQ_187",
+            "scene": 14,
+            "dimension": "Binary",
+            "question": "Are there any visible buildings in this scene?",
+            "options": [
+                "A. Yes, in the upper left of the image.",
+                "B. No, there are no visible buildings in the image.",
+                "C. Yes, in the upper right of the image.",
+                "D. Yes, in the center of the image."
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_188": {
+            "id": "g7PjwIzqyCQ_188",
+            "scene": 14,
+            "dimension": "Description-Human",
+            "question": "What is the man in green clothes holding in his right hand?",
+            "options": [
+                "A. He is holding a camera.",
+                "B. He is holding a cane.",
+                "C. He is holding a backpack.",
+                "D. He is not holding anything."
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_189": {
+            "id": "g7PjwIzqyCQ_189",
+            "scene": 14,
+            "dimension": "Fine Grained Action",
+            "question": "What is the person in the green polo shirt doing while walking on the wooden path?",
+            "options": [
+                "A. He raises his right hand to his chest in a left-handed gesture, as if demonstrating something.",
+                "B. He stops to take landscape photos.",
+                "C. He sits on the wooden path to adjust his shoes.",
+                "D. He talks to the person in the beige shirt and points at the creek."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_190": {
+            "id": "g7PjwIzqyCQ_190",
+            "scene": 14,
+            "dimension": "Object Direction",
+            "question": "What is the direction in which the wooden walkway extends?",
+            "options": [
+                "A. The wooden walkway diagonally crosses the foreground.",
+                "B. The wooden walkway vertically crosses the scene.",
+                "C. The wooden walkway extends horizontally along the background.",
+                "D. The wooden walkway extends in a circular shape around the landscape."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_191": {
+            "id": "g7PjwIzqyCQ_191",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "What changes will be seen after transitioning from the dry hillside?",
+            "options": [
+                "A. The scene turns into a bustling market with colorful stalls and busy activities.",
+                "B. The scene changes to a lush, tranquil landscape with reduced crowd density.",
+                "C. The scene remains barren and rocky, with no significant change in the landscape.",
+                "D. The scene transitions to a snow-covered mountaintop where people are skiing on the slopes."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_192": {
+            "id": "g7PjwIzqyCQ_192",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "What does the overlay of Korean text bring to the video?",
+            "options": [
+                "A. The text overlay provides background information about the mountain's name.",
+                "B. The text overlay describes the activities of people on the walkway.",
+                "C. The text overlay explains the geological features of the rocky slope.",
+                "D. The text overlay highlights historical events related to the lush landscape."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_193": {
+            "id": "g7PjwIzqyCQ_193",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "What are some examples of Korean phrases displayed in the text overlay?",
+            "options": [
+                "A. '기자 곽현수,' '유네스코 공식 홈페이지,' and 'AI 앵커 Y-ON.'",
+                "B. '포항 목적,' '해산 부모,' and 'AI 인증 프레임.'",
+                "C. '광역 언울,' '올바른 비움,' and '모노동 풍경.'",
+                "D. '사업 발전,' '저녁 조명,' and 'AI 전자 방식.'"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_194": {
+            "id": "g7PjwIzqyCQ_194",
+            "scene": 15,
+            "dimension": "Spatial",
+            "question": "From the video, where is the man in the olive shirt and gray pants positioned relative to the group?",
+            "options": [
+                "A. He is standing at the far left, maintaining some distance from the group.",
+                "B. He is in the center of the group, actively interacting with others.",
+                "C. He is positioned slightly behind, near the greenery, maintaining distance from the group.",
+                "D. He is on the right near the railing, blending into the background."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_195": {
+            "id": "g7PjwIzqyCQ_195",
+            "scene": 15,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene?",
+            "options": [
+                "A. A natural trail, creek, and lush vegetation, etc.",
+                "B. A busy street with skyscrapers and bustling traffic, etc.",
+                "C. An indoor library with bookshelves and soft lighting.",
+                "D. A beach with crashing waves and people sunbathing, etc."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_196": {
+            "id": "g7PjwIzqyCQ_196",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "What text is displayed in the black rectangular frame at the top right corner of the screen?",
+            "options": [
+                "A. 자료화면",
+                "B. YTN",
+                "C. 꿎민스",
+                "D. 명칭이"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_197": {
+            "id": "g7PjwIzqyCQ_197",
+            "scene": 15,
+            "dimension": "Count",
+            "question": "How many people are visible in this scene?",
+            "options": [
+                "A. Three people",
+                "B. Four people",
+                "C. Five people",
+                "D. Six people"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_198": {
+            "id": "g7PjwIzqyCQ_198",
+            "scene": 15,
+            "dimension": "Binary",
+            "question": "Is the woman wearing a light-colored top and dark-colored pants still visible in the scene?",
+            "options": [
+                "A. Yes, she is still visible and interacting with the group.",
+                "B. No, she is no longer visible in the scene.",
+                "C. Yes, she has just moved into the background.",
+                "D. No, she is visible but obscured by the group."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_199": {
+            "id": "g7PjwIzqyCQ_199",
+            "scene": 15,
+            "dimension": "Binary",
+            "question": "Is the person wearing light and dark blue clothing and a dark blue hat still visible in the scene?",
+            "options": [
+                "A. Yes, he is still visible and actively participating in the conversation.",
+                "B. No, he is not visible in the scene.",
+                "C. Yes, but he is only partially visible in the background.",
+                "D. No, he has completely left the area and is no longer part of the group."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_200": {
+            "id": "g7PjwIzqyCQ_200",
+            "scene": 15,
+            "dimension": "Spatial",
+            "question": "Compared to the previous scene, what change occurred in the position of the man wearing the green striped polo shirt in this scene?",
+            "options": [
+                "A. He moved from near the left railing to a more central position closer to the man wearing the beige shirt.",
+                "B. He moved from the central position to a position closer to the far-left railing.",
+                "C. He retreated further into the background, away from the crowd.",
+                "D. He remained near the left railing without moving."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_201": {
+            "id": "g7PjwIzqyCQ_201",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "In which direction does the text overlay effect at the bottom of the scene scroll?",
+            "options": [
+                "A. The text overlay effect at the bottom scrolls vertically.",
+                "B. The text overlay effect at the bottom scrolls diagonally.",
+                "C. The text overlay effect at the bottom scrolls horizontally.",
+                "D. No noticeable movement of the text at the bottom."
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_202": {
+            "id": "g7PjwIzqyCQ_202",
+            "scene": 15,
+            "dimension": "Description-Scene",
+            "question": "Which elements of the composition emphasize the natural aspects of the scene?",
+            "options": [
+                "A. Green plants, trees, and bright sunlight, etc.",
+                "B. Seawater, shells, and various types of shells, etc.",
+                "C. Waterfalls, rocks, and various aquatic creatures, etc.",
+                "D. Snowfields, mist, and rugged mountain peaks, etc."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_203": {
+            "id": "g7PjwIzqyCQ_203",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "What are the white subtitles at the bottom of the screen?",
+            "options": [
+                "A. '더 널리 사용될 수 있다는 우려도 제T되고 있습니다.'",
+                "B. '다만 천지는 약 54.5%가 북한에 속합니다.'",
+                "C. '이번 집행이사회에서 인증이 사실상 예정된 상태였습니다.'",
+                "D. '화면출지 유네스코 공식 홍페이지'"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_204": {
+            "id": "g7PjwIzqyCQ_204",
+            "scene": 15,
+            "dimension": "Description-Human",
+            "question": "From the video, what is the person on the far right wearing?",
+            "options": [
+                "A. He is wearing a beige shirt, gray pants, and a hat.",
+                "B. He is wearing a brown shirt, black pants, and a hat.",
+                "C. He is wearing a dark green shirt, blue pants, and a hat.",
+                "D. He is wearing a light blue shirt, black pants, and a hat."
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_205": {
+            "id": "g7PjwIzqyCQ_205",
+            "scene": 15,
+            "dimension": "Description-Human",
+            "question": "What is the man wearing a beige shirt, blue pants, and a hat holding?",
+            "options": [
+                "A. He is holding a camera.",
+                "B. He is holding documents.",
+                "C. He is holding a microphone.",
+                "D. He is not holding anything."
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_206": {
+            "id": "g7PjwIzqyCQ_206",
+            "scene": 16,
+            "dimension": "Visual-cue",
+            "question": "Do abstract scenes always contain text elements?",
+            "options": [
+                "A. Yes, abstract scenes in the video always contain text elements like the 'YTN' logo.",
+                "B. No, text elements only appear in outdoor scenes.",
+                "C. Yes, the video contains text elements, but only in some abstract scenes.",
+                "D. No, there are no text elements in abstract scenes at all."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_207": {
+            "id": "g7PjwIzqyCQ_207",
+            "scene": 16,
+            "dimension": "Description-Scene",
+            "question": "What is the scene background like after the lush outdoor scene?",
+            "options": [
+                "A. A minimalist modern composition with geometric shapes and abstract designs.",
+                "B. A vivid and colorful depiction of bustling city life.",
+                "C. A chaotic collage of historical events and their artistic presentation in the picture.",
+                "D. A crowded and lively indoor scene."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_208": {
+            "id": "g7PjwIzqyCQ_208",
+            "scene": 16,
+            "dimension": "Spatial",
+            "question": "In the abstract scene, how are the curved white stripes arranged?",
+            "options": [
+                "A. The curved white stripes pass through the middle of the abstract scene.",
+                "B. The curved white stripes are located in the upper right corner.",
+                "C. The curved white stripes are parallel to the bottom edge.",
+                "D. The curved white stripes form a circular pattern in the center."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_209": {
+            "id": "g7PjwIzqyCQ_209",
+            "scene": 16,
+            "dimension": "Description-Scene",
+            "question": "What perspective is emphasized in the final abstract scene?",
+            "options": [
+                "A. Emphasizes a chaotic and dynamic perspective.",
+                "B. Emphasizes a stable perspective.",
+                "C. Emphasizes a constantly changing and unpredictable perspective.",
+                "D. Emphasizes a perspective filled with natural and human-centered elements."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_210": {
+            "id": "g7PjwIzqyCQ_210",
+            "scene": 16,
+            "dimension": "Attribute Change",
+            "question": "What changes have occurred in the background attributes, from lush outdoor scenes to abstract design scenes?",
+            "options": [
+                "A. The background transitions from lush green plants to dark geometric patterns.",
+                "B. The background remains filled with lush green plants in all scenes.",
+                "C. The background transitions from modern minimalist design to densely populated urban scenes.",
+                "D. The background initially features abstract shapes and gradually shifts to a bustling urban landscape."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_211": {
+            "id": "g7PjwIzqyCQ_211",
+            "scene": 16,
+            "dimension": "Visual-cue",
+            "question": "What visual elements consistently appear in the abstract images?",
+            "options": [
+                "A. The text elements 'YTN' and '추천영상' consistently appear.",
+                "B. Geometric shapes overlaid with bright colors run throughout.",
+                "C. A man wearing an olive shirt is visible in all the images.",
+                "D. The abstract images contain lush green vegetation."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_212": {
+            "id": "g7PjwIzqyCQ_212",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What natural landscape is revealed after the mist dissipates?",
+            "options": [
+                "A. A deep blue lake appears.",
+                "B. An endless vast desert emerges.",
+                "C. Snow-covered peaks come into view.",
+                "D. A lush, towering forest is revealed."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_213": {
+            "id": "g7PjwIzqyCQ_213",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What scene is shown in the video after the lake environment surrounded by mountains?",
+            "options": [
+                "A. The focus shifts to people walking on a trail in the dense forest.",
+                "B. The scene switches to a vibrant city skyline with twinkling lights at night.",
+                "C. A colorful school of fish swimming in the underwater world of coral reefs is shown.",
+                "D. The video switches to a desert landscape with rolling sand dunes."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_214": {
+            "id": "g7PjwIzqyCQ_214",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "In the video, what content is shown immediately after the scene of a person walking on a forest path?",
+            "options": [
+                "A. Switch to the Changbai Mountain Geological Park Museum, showcasing its modern glass exterior and bustling tourists.",
+                "B. Switch to a group of chefs preparing gourmet dishes in a rustic outdoor kitchen.",
+                "C. Switch to a tranquil beach with waves gently lapping at the shore.",
+                "D. Switch to a lively city market where vendors are selling colorful produce and goods."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_215": {
+            "id": "g7PjwIzqyCQ_215",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How does the video introduce the geopolitics of Changbai Mountain?",
+            "options": [
+                "A. The Korean subtitles displayed at the bottom of the video.",
+                "B. The video shows a heated debate among experts about the geopolitical significance of Changbai Mountain.",
+                "C. The video uses animated maps and charts to show the territorial disputes of Changbai Mountain.",
+                "D. The video does not involve geopolitics, focusing only on the natural beauty of Changbai Mountain."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_216": {
+            "id": "g7PjwIzqyCQ_216",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the impact of Changbai Mountain mentioned in the video?",
+            "options": [
+                "A. The video discusses the potential impact of the naming controversy.",
+                "B. The video only focuses on the impact of the natural beauty of Changbai Mountain.",
+                "C. The video explains the historical background but does not mention any impact.",
+                "D. The video does not mention any impact on Changbai Mountain at all."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_217": {
+            "id": "g7PjwIzqyCQ_217",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the role of the Changbai Mountain Geological Park Museum?",
+            "options": [
+                "A. The museum connects the natural beauty of Changbai Mountain with its cultural and institutional significance.",
+                "B. The museum mainly focuses on the wildlife of Changbai Mountain.",
+                "C. The museum is a center for geological and volcanic research.",
+                "D. The role of the museum is to display ancient artifacts found around Changbai Mountain."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_218": {
+            "id": "g7PjwIzqyCQ_218",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why are Korean subtitles important in videos about Changbai Mountain?",
+            "options": [
+                "A. Korean subtitles provide geopolitical, cultural, and historical context that supplements the visual narrative of Changbai Mountain.",
+                "B. Korean subtitles are used to translate technical data about Changbai Mountain into simplified terms.",
+                "C. Korean subtitles serve as decorative elements to enhance the aesthetic appeal of the video.",
+                "D. Korean subtitles only provide information for non-Korean speaking audiences."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_219": {
+            "id": "g7PjwIzqyCQ_219",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the sequence of natural scenes in the video?",
+            "options": [
+                "A. The natural scenes start with an aerial view of snow-covered mountains and lakes, then move to lush forest paths, vibrant meadows, tranquil lakesides, and finally desolate hillsides.",
+                "B. The natural scenes start with lush forest paths, vibrant meadows, tranquil lakesides, desolate hillsides, and end with an aerial view of snow-covered mountains and volcanic lakes.",
+                "C. The natural scenes start with tranquil lakesides, vibrant meadows, desolate hillsides, lush forest paths, and end with an aerial view of snow-covered mountains and volcanic lakes.",
+                "D. The natural scenes start with vibrant meadows, tranquil lakesides, desolate hillsides, lush forest paths, and end with an aerial view of snow-covered mountains and volcanic lakes."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_220": {
+            "id": "g7PjwIzqyCQ_220",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "After the path filled with flowers and plants, what scene does the video transition to?",
+            "options": [
+                "A. The video transitions to a bustling cityscape.",
+                "B. The video transitions to a tranquil lakeside setting.",
+                "C. The video transitions to an indoor art gallery.",
+                "D. The video transitions to serene mountains."
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_221": {
+            "id": "g7PjwIzqyCQ_221",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "Is there any other text on the 'Changbai Mountain Jinjiang Grand Canyon' sign?",
+            "options": [
+                "A. No, no other text was found.",
+                "B. Yes, white text is clearly visible at the bottom of the sign.",
+                "C. Yes, white text is clearly visible at the top of the sign.",
+                "D. Yes, text is faintly visible at the bottom of the sign."
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_222": {
+            "id": "g7PjwIzqyCQ_222",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the indoor scene depict?",
+            "options": [
+                "A. It depicts people visiting a museum.",
+                "B. It depicts people attending a nature conference.",
+                "C. It depicts people visiting an art gallery.",
+                "D. It depicts people participating in a science exhibition."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_223": {
+            "id": "g7PjwIzqyCQ_223",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the font of the webpage text body?",
+            "options": [
+                "A. English",
+                "B. Korean",
+                "C. Russian",
+                "D. German"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_224": {
+            "id": "g7PjwIzqyCQ_224",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What kind of video ending is shown after the natural interaction in the video?",
+            "options": [
+                "A. The video transitions to abstract modern design after the natural interaction scene.",
+                "B. The video transitions to a bustling cityscape after the natural interaction scene.",
+                "C. The video transitions to a lively festival scene filled with colorful lights after the natural interaction scene.",
+                "D. The video transitions to a serene starry night scene after the natural interaction scene."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_225": {
+            "id": "g7PjwIzqyCQ_225",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "In what kind of environment is the tower?",
+            "options": [
+                "A. The tower is in a lush forest.",
+                "B. The tower is on the shore with a deep blue seascape.",
+                "C. The tower is on a sparsely vegetated hillside.",
+                "D. The tower does not appear in any scene."
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_226": {
+            "id": "g7PjwIzqyCQ_226",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why were highlights added to the aerial footage of Baekdu Mountain?",
+            "options": [
+                "A. Highlights were added to emphasize important geological features, such as the crater lake and rugged peaks.",
+                "B. Highlights were added for artistic effect to obscure part of the footage.",
+                "C. Highlights were added to make the video appear more colorful and vibrant.",
+                "D. Highlights were added to create a sense of mystery and suspense for the audience."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_227": {
+            "id": "g7PjwIzqyCQ_227",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "Recommended video: Is the 'YTN' logo visible throughout the entire video?",
+            "options": [
+                "A. Yes, the logo is visible throughout the video.",
+                "B. Yes, the logo is visible in some scenes.",
+                "C. Yes, the logo is partially obscured in the video.",
+                "D. No, the logo does not appear in the video at all."
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_228": {
+            "id": "g7PjwIzqyCQ_228",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the video use abstract and minimalist design at the end?",
+            "options": [
+                "A. To indicate the end of the video and display the logo of the video content source.",
+                "B. To simplify the complexity of visual storytelling.",
+                "C. To depict a retro and traditional atmosphere.",
+                "D. To remove all text elements and focus on abstract shapes."
+            ],
+            "answer": "A"
+        }
+    }
+}

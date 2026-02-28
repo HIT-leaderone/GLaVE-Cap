@@ -1,0 +1,1652 @@
+{
+    "scene_hint": {
+        "0": "浅蓝渐变背景中出现不同文字和图案。",
+        "1": "两个人物剪影站在星空背景下，旁边有一栋建筑。",
+        "2": "一个发光的球体出现，后一双大手将球体托起。",
+        "3": "一个人站在讲台上对坐着的人进行讲解。",
+        "4": "红褐色山地景观中不同图案出现，镜头聚焦建筑。",
+        "5": "建筑内部人们看向墙上显示文字和图案的纸张，之后出现在窗边。",
+        "6": "人们出现在夜空下，孩子手里照片被放大，之后内容发生了转换。",
+        "7": "网址伴随不同文字图案出现在蓝色背景中，视频结束。"
+    },
+    "qa": {
+        "gD0MvkDGAMg_0": {
+            "id": "gD0MvkDGAMg_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "社交媒体图标刚出现时，对于视频画面中放的位置在哪里？",
+            "options": [
+                "A. 图标位于框架的底部中心。",
+                "B. 图标位于框架的顶部中心。",
+                "C. 图标位于框架的左侧。",
+                "D. 图标位于框架的右侧。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_1": {
+            "id": "gD0MvkDGAMg_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这个场景的主题有什么特征？",
+            "options": [
+                "A. 场景画面简约且宁静。",
+                "B. 场景画面混乱且杂乱。",
+                "C. 场景画面未来感且阴暗。",
+                "D. 场景画面传统且华丽。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_2": {
+            "id": "gD0MvkDGAMg_2",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "场景中的视觉焦点是什么？",
+            "options": [
+                "A. 一个淡蓝色渐变背景，点缀着文字、几何网络结构和社交媒体图标。",
+                "B. 一个深蓝色渐变背景，带有发光的白色星星和极少的文字。",
+                "C. 一个亮黄色背景，突出大而醒目的文字，没有其它视觉元素。",
+                "D. 一个多色条纹背景，带有旋转图案并且没有文字。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_3": {
+            "id": "gD0MvkDGAMg_3",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "场景中有出现人类角色吗？",
+            "options": [
+                "A. 是的，有几个是人类角色。",
+                "B. 没有，场景中没有人类角色。",
+                "C. 是的，但只有一个人类角色短暂出现。",
+                "D. 是的，但他们只是剪影。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_4": {
+            "id": "gD0MvkDGAMg_4",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "在场景中，文字'SCI ANI'会发生什么变化？",
+            "options": [
+                "A. 文字'SCI ANI'从黑色透明轮廓过渡为全黑色字体。",
+                "B. 文字'SCI ANI'从黑色全黑字体变化为金属灰字体。",
+                "C. 文字'SCI ANI'完全从画面中消失。",
+                "D. 文字'SCI ANI'从醒目的黑色过渡为较浅的蓝色。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_5": {
+            "id": "gD0MvkDGAMg_5",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "在场景中，哪个文本在“SCI ANI”底部出现？",
+            "options": [
+                "A. 'Science Animated'",
+                "B. 'Cartoon Animated'",
+                "C. 'Historical Animated'",
+                "D. 'Creature Animated'"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_6": {
+            "id": "gD0MvkDGAMg_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "场景中一共出现多少个圆形图标？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "D"
+        },
+        "gD0MvkDGAMg_7": {
+            "id": "gD0MvkDGAMg_7",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "背景是一致的纯色吗？",
+            "options": [
+                "A. 是的，背景是纯浅蓝色。",
+                "B. 不，背景是浅蓝色渐变。",
+                "C. 是的，背景是纯白色。",
+                "D. 不，背景是深蓝色渐变。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_8": {
+            "id": "gD0MvkDGAMg_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "将文本更改为粗体黑色字母会如何影响其视觉效果？",
+            "options": [
+                "A. 它增强了文本在浅蓝色渐变背景上的突出性和可读性。",
+                "B. 它通过使文本融入背景而降低了文本的可见性。",
+                "C. 它使文本显得不够专业并且更难阅读。",
+                "D. 它去除了文本本身的细微渐变效果。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_9": {
+            "id": "gD0MvkDGAMg_9",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "场景中，红色、黄色和蓝色的圆圈有移动吗？",
+            "options": [
+                "A. 圆圈保持静止。",
+                "B. 圆圈有移动。",
+                "C. 圆圈完全消失。",
+                "D. 圆圈变成方形。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_10": {
+            "id": "gD0MvkDGAMg_10",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "场景中，哪个视觉元素的颜色发生了变化？",
+            "options": [
+                "A. 文本'SCI ANI'颜色黑色透明轮廓变成了全黑色。",
+                "B. 背景的颜色从浅蓝色变成了深蓝色。",
+                "C. 社交媒体图标的颜色从其标准颜色变成了灰度。",
+                "D. 几何网络结构的颜色从黑色变成了白色。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_11": {
+            "id": "gD0MvkDGAMg_11",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "场景结束时，红色圆形图标的位置在哪？",
+            "options": [
+                "A. 在画面右上角",
+                "B. 在画面左下角",
+                "C. 在画面正中央",
+                "D. 在画面右下角"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_12": {
+            "id": "gD0MvkDGAMg_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "剪影中人相对于铺设好的道路是如何摆放的？",
+            "options": [
+                "A. 剪影中的人并肩站立在道路上，靠近画面的中心。",
+                "B. 剪影中的人坐在道路上，靠近画面的边缘。",
+                "C. 剪影中的人坐在道路旁边的椅子上。",
+                "D. 剪影中的人躺在道路中间，靠近前景。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_13": {
+            "id": "gD0MvkDGAMg_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "剪影的人的形象如何为整个场景做出贡献？",
+            "options": [
+                "A. 剪影的人物形象十分渺小，为星空背景提供了比例和存在感。",
+                "B. 剪影的人物形象是整个场景的焦点。",
+                "C. 剪影的人物形象破坏了宁静和沉思的氛围。",
+                "D. 剪影的人物形象难以辨认，对场景没有实质性贡献。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_14": {
+            "id": "gD0MvkDGAMg_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景中描述的画面整体设计是什么？",
+            "options": [
+                "A. 一个夜晚户外场景，有紫色星空、路、树木、建筑等。",
+                "B. 一个品牌设计组合，背景为淡蓝色，有几何图案设计等。",
+                "C. 一幅繁忙的城市景象，有高耸的摩天大楼和热闹的街道等。",
+                "D. 一幅宁静的沙漠场景，天空湛蓝，有零星的仙人掌和远处的山脉等。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_15": {
+            "id": "gD0MvkDGAMg_15",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频中描述的新画面的氛围是什么？",
+            "options": [
+                "A. 它传达了一种温馨且宁静的氛围。",
+                "B. 它传达了一种混乱且充满活力的氛围。",
+                "C. 它传达了一种专业且静态的氛围。",
+                "D. 它传达了一种荒凉且凄凉的氛围。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_16": {
+            "id": "gD0MvkDGAMg_16",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "场景中的人是如何在视觉上被描绘的？",
+            "options": [
+                "A. 人以剪影形式呈现，完全是黑色的。",
+                "B. 人是彩色的，以鲜艳的色调表现。",
+                "C. 人被绘制得有详细的特征和服装。",
+                "D. 人是发光的，带有霓虹轮廓。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_17": {
+            "id": "gD0MvkDGAMg_17",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "场景中的一共出现几棵树？",
+            "options": [
+                "A. 两棵",
+                "B. 三棵",
+                "C. 四棵",
+                "D. 五棵"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_18": {
+            "id": "gD0MvkDGAMg_18",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "场景中建筑是什么样的？",
+            "options": [
+                "A. 建筑是圆柱形的，有多个窗户口整齐排列。",
+                "B. 建筑是弧形的，一整面墙壁由玻璃建造。",
+                "C. 建筑是方形的，墙由木头建造，没有窗户。",
+                "D. 建筑是方形的，狭小的窗户出现在石墙上。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_19": {
+            "id": "gD0MvkDGAMg_19",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "在场景中的圆柱形建筑物的色调是什么？",
+            "options": [
+                "A. 建筑物呈现的是单色紫色调。",
+                "B. 建筑物呈现的是鲜艳的红色和橙色调。",
+                "C. 建筑物呈现的是单色蓝色调。",
+                "D. 建筑物呈现的是绿色和黄色调。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_20": {
+            "id": "gD0MvkDGAMg_20",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "圆柱形建筑有什么样的窗户？",
+            "options": [
+                "A. 建筑有几排圆形窗户。",
+                "B. 建筑有几排矩形窗户。",
+                "C. 建筑有几排三角形窗户。",
+                "D. 建筑没有窗户。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_21": {
+            "id": "gD0MvkDGAMg_21",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "圆柱形建筑的地面层有什么特点？",
+            "options": [
+                "A. 地面层有一个由柱子和墙支撑的开放区域。",
+                "B. 地面层完全封闭，没有可见的开口。",
+                "C. 地面层有一系列小商店和咖啡馆。",
+                "D. 地面层覆盖着玻璃幕墙，反射着夜空。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_22": {
+            "id": "gD0MvkDGAMg_22",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "建筑的基础结构是什么？",
+            "options": [
+                "A. 建筑物坐落在一个圆形平台上。",
+                "B. 建筑物坐落在一个方形地基上。",
+                "C. 建筑物有一个三角形底座。",
+                "D. 建筑物悬浮在空中。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_23": {
+            "id": "gD0MvkDGAMg_23",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "在路上可以看到多少个剪影的人形？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_24": {
+            "id": "gD0MvkDGAMg_24",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "圆柱形建筑位于画面左侧吗？",
+            "options": [
+                "A. 是的，圆柱形建筑位于画面左侧。",
+                "B. 不，圆柱形建筑位于画面右侧。",
+                "C. 不，画面中看不到圆柱形建筑。",
+                "D. 是的，圆柱形建筑横跨画面的两侧。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_25": {
+            "id": "gD0MvkDGAMg_25",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "构图中的哪个元素吸引观众的目光？",
+            "options": [
+                "A. 画面上方独特的紫色星空",
+                "B. 右侧的大型圆柱形建筑",
+                "C. 远处轮廓分明的起伏山丘",
+                "D. 左侧零星排列的树木"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_26": {
+            "id": "gD0MvkDGAMg_26",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "在场景中，道路看起来朝哪个方向移动？",
+            "options": [
+                "A. 道路看起来向地平线延伸。",
+                "B. 道路看起来急转向左。",
+                "C. 道路似乎向天空上升。",
+                "D. 道路看起来突然中断。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_27": {
+            "id": "gD0MvkDGAMg_27",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "场景中地球是如何被描绘的？",
+            "options": [
+                "A. 地球悬浮在黑暗的空中，周围环绕着发光的蓝色光晕。",
+                "B. 地球停滞在桌面上，其上用鲜艳的颜色绘制了大陆和海洋。",
+                "C. 地球围绕圆形轨道旋转，周围环绕着众多天体。",
+                "D. 地球悬浮在空中，棱角分明，且没有可见的大气层。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_28": {
+            "id": "gD0MvkDGAMg_28",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "在场景中，周围的元素是如何与地球相关联的？",
+            "options": [
+                "A. 较小的星星散布在背景中，微妙地强调了太空的广阔。",
+                "B. 周围的元素被表现为围绕地球的明亮彗星。",
+                "C. 带有可见光环和卫星的行星被展示为在地球附近运行。",
+                "D. 周围的空间被描绘成完全空旷，没有其他天体元素。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_29": {
+            "id": "gD0MvkDGAMg_29",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "地球出现后的视频环境是什么？",
+            "options": [
+                "A. 一个灯火辉煌的繁华都市景观。",
+                "B. 一片黑暗的虚空和零星的星星。",
+                "C. 一片充满多样野生动物和瀑布的森林。",
+                "D. 一片云雾缭绕的傍晚天空，地平线上有光辉的晚霞。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_30": {
+            "id": "gD0MvkDGAMg_30",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景中地球上可以看到哪些元素？",
+            "options": [
+                "A. 绿色的陆地和蓝色的海洋清晰可见，部分大陆轮廓可见。",
+                "B. 只有亚洲和欧洲的绿色陆地可见，没有描绘海洋。",
+                "C. 地球主要由海洋组成，只有小片陆地，没有可辨认的大陆。",
+                "D. 陆地显示为红色，没有可见的海洋，突出显示南美洲和南极洲。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_31": {
+            "id": "gD0MvkDGAMg_31",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "场景中描绘的陆地上有哪些独特的设计特征？",
+            "options": [
+                "A. 陆地呈现绿色色调。",
+                "B. 陆地呈现蓝色色调。",
+                "C. 陆地呈现纯棕色色调。",
+                "D. 陆地呈现淡黄色色调。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_32": {
+            "id": "gD0MvkDGAMg_32",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "视频场景中有文字吗？",
+            "options": [
+                "A. 有。",
+                "B. 没有。",
+                "C. 只有几个字。",
+                "D. 有几句话。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_33": {
+            "id": "gD0MvkDGAMg_33",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "从视频来看，球体内部是怎样转动的？",
+            "options": [
+                "A. 从左向右转动",
+                "B. 从上向下转动",
+                "C. 从右向左转动",
+                "D. 无规则转动"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_34": {
+            "id": "gD0MvkDGAMg_34",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "托起地球的大手有什么特点？",
+            "options": [
+                "A. 是肉色的，指甲修剪整齐。",
+                "B. 是深棕色的额，手指细长。",
+                "C. 是亮白色的，手指纹路清晰可见。",
+                "D. 是黑色的，未观察到明显特征。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_35": {
+            "id": "gD0MvkDGAMg_35",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "使用哪种类型的摄像机视角来展示地球？",
+            "options": [
+                "A. 一个静态、居中的镜头用于突出地球。",
+                "B. 一个动态旋转的镜头表现环绕地球的运动感。",
+                "C. 一个放大的特写镜头仅聚焦于地球的特定大陆。",
+                "D. 一个从远距离位置拍摄的广角镜头减少了地球的细节。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_36": {
+            "id": "gD0MvkDGAMg_36",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "地球上散发的光圈是什么颜色的？",
+            "options": [
+                "A. 浅蓝色",
+                "B. 浅黄色",
+                "C. 浅红色",
+                "D. 浅绿色"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_37": {
+            "id": "gD0MvkDGAMg_37",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景中出现的文本是什么？",
+            "options": [
+                "A. “What's the future like?”",
+                "B  “Is Venus our future?”",
+                "C. “What is the future?”",
+                "D. “Should we look forward to the future?”"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_38": {
+            "id": "gD0MvkDGAMg_38",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景发生在哪里？",
+            "options": [
+                "A. 一个明亮的教室内。",
+                "B  一个昏暗的电影院。",
+                "C. 一个模糊的体育馆。",
+                "D. 一个明亮的露天场馆。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_39": {
+            "id": "gD0MvkDGAMg_39",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "场景中是否有人在教室内站立？",
+            "options": [
+                "A. 是的，有一个人站立。",
+                "B  是的，有两个人站立。",
+                "C. 不，所有人坐在凳子中。",
+                "D. 画面大部分被遮挡，无法确定。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_40": {
+            "id": "gD0MvkDGAMg_40",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "站在讲台上的人穿着是怎样的？",
+            "options": [
+                "A. 她穿着一件蓝色衣服和黑色裤子。",
+                "B  她穿着一件绿色衣服和蓝色裤子。",
+                "C. 她穿着一件紫白色条纹的连衣裙。",
+                "D. 她穿着一件红色衣服和棕色裤子。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_41": {
+            "id": "gD0MvkDGAMg_41",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "站在讲台上的人的姿势是怎样的？",
+            "options": [
+                "A. 她右手拿着棍子，指向墙壁。",
+                "B  她左手手心向上抬起，似乎在介绍什么。",
+                "C. 她左手食指指向下方某个坐着的人。",
+                "D. 她右手举起，似乎在进行某种暴力动作。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_42": {
+            "id": "gD0MvkDGAMg_42",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "讲台的桌子上有什么物品？",
+            "options": [
+                "A. 有一摞书、电脑和键盘。",
+                "B  有一个包、平板电脑和遥控器。",
+                "C. 有一个笔记本电脑和打开的书本。",
+                "D. 有一包纸巾、杯子和笔记本。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_43": {
+            "id": "gD0MvkDGAMg_43",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "场景中一共有多少人坐在凳子上？",
+            "options": [
+                "A. 六个",
+                "B  七个",
+                "C. 八个",
+                "D. 九个"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_44": {
+            "id": "gD0MvkDGAMg_44",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "从视频来看，在场景后期画面左下角的人穿着什么颜色的衣服？",
+            "options": [
+                "A. 紫色",
+                "B  蓝色",
+                "C. 红色",
+                "D. 棕色"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_45": {
+            "id": "gD0MvkDGAMg_45",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "场景结束时，后排中间穿蓝色衣服的人的姿势有发生变化吗？",
+            "options": [
+                "A. 是的，他将双手高高抬起鼓掌。",
+                "B  是的，他将左手食指放于嘴边。",
+                "C. 是的，他将右手高高举起。",
+                "D. 不，他保持原动作，未发生任何变化。"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_46": {
+            "id": "gD0MvkDGAMg_46",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "场景中一共有几个人姿势动作发生明显变化？",
+            "options": [
+                "A. 一个",
+                "B  两个",
+                "C. 三个",
+                "D. 没有"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_47": {
+            "id": "gD0MvkDGAMg_47",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "太阳在场景中的哪个位置？",
+            "options": [
+                "A. 在右上角。",
+                "B. 在左下角。",
+                "C. 在天空的中央。",
+                "D. 在天文台后面。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_48": {
+            "id": "gD0MvkDGAMg_48",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景的主要视觉焦点是什么？",
+            "options": [
+                "A. 通向天文台的蜿蜒的道路和中心的建筑。",
+                "B. 荒凉的山地景观，其颜色为红棕色调。",
+                "C. 显示土星的圆形插图，其黄色棕色主体和环状结构。",
+                "D. 带有大圆顶和望远镜的未来派天文台设施。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_49": {
+            "id": "gD0MvkDGAMg_49",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "场景中是否可以看到人类的存在？",
+            "options": [
+                "A. 是的，有人在路上行走。",
+                "B. 是的，可以看到科学家在天文台附近。",
+                "C. 不，没有人类的存在可见。",
+                "D. 是的，有车辆停在天文台附近。"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_50": {
+            "id": "gD0MvkDGAMg_50",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "新出现的三个插图可以看到什么物体？",
+            "options": [
+                "A. 一个有圆顶的天文台或研究站",
+                "B. 一个大型水库",
+                "C. 一组风力涡轮机",
+                "D. 一个有房屋的小村庄"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_51": {
+            "id": "gD0MvkDGAMg_51",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "前景中有多少圆形插图？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_52": {
+            "id": "gD0MvkDGAMg_52",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "土星是否显示在其中一个圆形插图中？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 可能",
+                "D. 不确定"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_53": {
+            "id": "gD0MvkDGAMg_53",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "未铺砌的道路通往哪个方向？",
+            "options": [
+                "A. 未铺砌的道路通向山顶的建筑群。",
+                "B. 未铺砌的道路下降到一个森林覆盖的山谷。",
+                "C. 未铺砌的道路通向山中的一个小村庄。",
+                "D. 未铺砌的道路在崎岖的地形中漫无目的地绕圈。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_54": {
+            "id": "gD0MvkDGAMg_54",
+            "scene": 4,
+            "dimension": "Camera Direction",
+            "question": "这一场景摄像机是否改变了视角？",
+            "options": [
+                "A. 是的，摄像机切换到了一个新的角度。",
+                "B. 不，摄像机保持了与之前画面相同的构图。",
+                "C. 是的，摄像机拉近镜头对准了天文台。",
+                "D. 是的，摄像机向左移动镜头，展示了更多的景观。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_55": {
+            "id": "gD0MvkDGAMg_55",
+            "scene": 4,
+            "dimension": "Speed",
+            "question": "场景中是否有显著的速度变化？",
+            "options": [
+                "A. 是的，场景显示了明显的移动和速度变化。",
+                "B. 不，场景基本保持静止。",
+                "C. 是的，蜿蜒的道路上显示车辆快速移动。",
+                "D. 是的，土星插图展现了动态运动。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_56": {
+            "id": "gD0MvkDGAMg_56",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "圆柱形结构在特写镜头中的哪个位置？",
+            "options": [
+                "A. 圆柱形结构位于镜头的左侧。",
+                "B. 圆柱形结构位于镜头的中央。",
+                "C. 圆柱形结构位于镜头的右侧。",
+                "D. 圆柱形结构位于镜头的背景中。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_57": {
+            "id": "gD0MvkDGAMg_57",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "圆柱形结构周围地面的表面是如何描述的？",
+            "options": [
+                "A. 它是一个平坦的浅米色表面，上面有白色线条组成的精确几何图案。",
+                "B. 它是一个粗糙的深灰色表面，上面散布着碎石和裂缝。",
+                "C. 它是一个光滑的黑色表面，上面有反光的金属条。",
+                "D. 它是一个柔软的浅棕色表面，上面覆盖着沙子和脚印。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_58": {
+            "id": "gD0MvkDGAMg_58",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "建筑显示了哪些特征？",
+            "options": [
+                "A. 建筑周围有一个色彩丰富且精美的马赛克图案。",
+                "B. 建筑底部是深灰色的，支撑着浅灰色的上部区域。",
+                "C. 建筑上有华丽的雕刻和装饰元素，表明它具有历史设计风格。",
+                "D. 建筑被茂密的绿色植物环绕，并装饰有花卉图案。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_59": {
+            "id": "gD0MvkDGAMg_59",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "什么视觉处理强化了场景的极简主义？",
+            "options": [
+                "A. 圆柱结构上的精细细节和鲜艳的色彩搭配。",
+                "B. 建筑和周围采用的灰白的单调色彩。",
+                "C. 结构上复杂的文字或标志，突出其用途。",
+                "D. 具有多样环境特征的动态多彩背景。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_60": {
+            "id": "gD0MvkDGAMg_60",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "海报在场景中的位置在哪里？",
+            "options": [
+                "A. 海报在窗户上。",
+                "B. 海报在墙上。",
+                "C. 海报在门上。",
+                "D. 海报在地板上。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_61": {
+            "id": "gD0MvkDGAMg_61",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "视频场景的背景是什么？",
+            "options": [
+                "A. 场景在一个类似数据中心或服务器机房，有米色分段墙壁淡黄色灯光等。",
+                "B. 场景在一个传统教室中，有木制课桌、黑板，带有学术氛围。",
+                "C. 场景在一个室外公园中，有树木、小径和轻松随意的氛围。",
+                "D. 场景在一个舒适的咖啡馆中，有木制桌子、柔和的灯光和休闲的互动。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_62": {
+            "id": "gD0MvkDGAMg_62",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "场景中最开始出现的人有何特点？",
+            "options": [
+                "A. 她穿着浅蓝色连衣裙，卷曲的黑色长发。",
+                "B. 她穿着浅蓝色衣服和黑色裤子，棕色长发。",
+                "C. 她穿着黑色外套和黑色裤子，头发是金黄色的。",
+                "D. 她穿着红色衣服和蓝色裤子，卷曲的棕色短发。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_63": {
+            "id": "gD0MvkDGAMg_63",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "从视频来看，最左边的女性有什么特别的外貌或特征？",
+            "options": [
+                "A. 她有棕色头发，穿着深色的商务套装里面配白色衬衫。",
+                "B. 她扎着马尾辫，穿着休闲装，看起来很害羞。",
+                "C. 她有直的金色头发，穿着红色连衣裙，坐在椅子上。",
+                "D. 她有长长的黑色头发，穿着实验室外套，手里拿着剪报板。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_64": {
+            "id": "gD0MvkDGAMg_64",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "场景后期中间位置那个人有什么独特的外貌或特征？",
+            "options": [
+                "A. 那个人戴着眼镜，穿着一套深蓝色蓝色西装和红色领带。",
+                "B. 那个人有卷曲的棕色头发，穿着深色商务套装，里面搭配白色衬衫。",
+                "C. 那个人表现生动，穿着浅蓝色的纽扣衬衫，神情活跃。",
+                "D. 那个人戴着口罩，穿着休闲服，看起来很放松。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_65": {
+            "id": "gD0MvkDGAMg_65",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "这一场景中一共出现几个人？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_66": {
+            "id": "gD0MvkDGAMg_66",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "场景中海报上突出的信息是什么？",
+            "options": [
+                "A. International Astronomy Virtual Conference",
+                "B. Advanced Technological Innovations",
+                "C. Modern Business Solutions",
+                "D. Global Sustainability Summit"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_67": {
+            "id": "gD0MvkDGAMg_67",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "场景中的海报突出了什么生态特点？",
+            "options": [
+                "A. “3000x smaller carbon footprint”。",
+                "B. “reduction of energy consumption by 50%”。",
+                "C. “net-zero emissions commitment”。",
+                "D. “recyclable materials for production”。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_68": {
+            "id": "gD0MvkDGAMg_68",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "海报上的图案有什么特点？",
+            "options": [
+                "A. 是一个脚掌图案，有字体显示。",
+                "B. 是一个手掌图案，有条纹显示。",
+                "C. 是一个猫爪图案，有圆点显示。",
+                "D. 是一个仙人掌图案，有白色尖刺。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_69": {
+            "id": "gD0MvkDGAMg_69",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "在场景背景中可以看到服务器机柜吗？",
+            "options": [
+                "A. 是的，可以在背景中看到服务器机柜。",
+                "B. 不，背景中没有可见的服务器机柜。",
+                "C. 是的，但服务器机柜并未在运行。",
+                "D. 不，背景中只有宣传板可以看到。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_70": {
+            "id": "gD0MvkDGAMg_70",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "从视频来看，服务器机柜在哪个位置？",
+            "options": [
+                "A. 服务器机柜在画面左侧。",
+                "B. 服务器机柜在画面底部。",
+                "C. 服务器机柜在画面右侧。",
+                "D. 服务器机柜在画面上方。"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_71": {
+            "id": "gD0MvkDGAMg_71",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "这一场景中有绿色植物出现吗？",
+            "options": [
+                "A. 有，绿色植物几乎完全被遮挡。",
+                "B. 有，绿色植物显眼位于窗户左侧。",
+                "C. 没有，场景中未出现任何绿色植物。",
+                "D. 有，绿色植物位于宣传画册右侧。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_72": {
+            "id": "gD0MvkDGAMg_72",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "透过窗户可以观察到什么物体？",
+            "options": [
+                "A. 一排排太阳能板和一个太阳",
+                "B. 一个闪烁绿色指示灯和服务器机架",
+                "C. 一张带有绿色足迹图案海报和米色墙壁",
+                "D. 一个阳光明媚的密林景观"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_73": {
+            "id": "gD0MvkDGAMg_73",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "在最后的画面里，穿浅蓝色衬衫的年轻女子完全可见吗？",
+            "options": [
+                "A. 是的，她完全可见。",
+                "B. 不，她部分在画面之外。",
+                "C. 是的，她比之前更清楚可见。",
+                "D. 不，她完全不可见。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_74": {
+            "id": "gD0MvkDGAMg_74",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "当焦点转移到户外景观时，穿黑色西装的女人做了什么？",
+            "options": [
+                "A. 穿黑色西装的女人安静站在窗户前，未做什么。",
+                "B. 穿黑色西装的女人与穿红色领带的男人交谈。",
+                "C. 穿黑色西装的女人完全退出了画面。",
+                "D. 穿黑色西装的女人指向窗外的太阳能板。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_75": {
+            "id": "gD0MvkDGAMg_75",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "当焦点转移到户外景观时，穿红色领带西装的男人做了什么？",
+            "options": [
+                "A. 穿红色领带西装的男人在说话的同时将左手抬起。",
+                "B. 穿红色领带西装的男人离开房间打电话。",
+                "C. 穿红色领带西装的男人开始与穿淡蓝色上衣的女人交谈。",
+                "D. 穿红色领带西装的男人指向外面的太阳能板。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_76": {
+            "id": "gD0MvkDGAMg_76",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "在户外视图中，太阳能板朝哪个方向？",
+            "options": [
+                "A. 太阳能板朝上，面向阳光。",
+                "B. 太阳能板朝下，面向地面。",
+                "C. 太阳能板朝西，面向落日。",
+                "D. 太阳能板朝东，面向晨曦。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_77": {
+            "id": "gD0MvkDGAMg_77",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "视频场景中，当焦点转移到户外视图时发生了什么变化？",
+            "options": [
+                "A. 海报和服务器机架消失，太阳能板和丘陵景观进入画面。",
+                "B. 服务器机架开始发出红光，强调警告信号。",
+                "C. 正装人物离开画面，只剩下穿蓝色衬衫的年轻女子。",
+                "D. 随着室外阳光渐暗，室内场景变得更暗。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_78": {
+            "id": "gD0MvkDGAMg_78",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "从视频来看，这个女人相对于望远镜的位置是在哪里？",
+            "options": [
+                "A. 这个女人站在望远镜左侧。",
+                "B. 这个女人坐在望远镜前方。",
+                "C. 这个女人站在望远镜右侧。",
+                "D. 这个女人手里拿着望远镜在观星。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_79": {
+            "id": "gD0MvkDGAMg_79",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "这个场景的景观是什么？",
+            "options": [
+                "A. 一片广阔的草原上，四周是丘陵和一片水域，在暮色的天空下。",
+                "B. 一片茂密的森林中，周围是高耸的树木和一座闪闪发光的湖泊。",
+                "C. 一个布满岩石的山坡上，周围有陡峭的山峰和一条结冰的河流，头顶是多云的天空。",
+                "D. 一个沙滩上，四周是海浪冲击和明亮的正午阳光。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_80": {
+            "id": "gD0MvkDGAMg_80",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "场景是如何从室内的专业环境转变到户外环境的？",
+            "options": [
+                "A. 场景转变为一个宁静的夜晚户外环境。",
+                "B. 场景转变为一个城市夜生活户外环境。",
+                "C. 场景转变为一个阳光明媚的户外环境。",
+                "D. 场景转变为一片茂密的森林的户外环境。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_81": {
+            "id": "gD0MvkDGAMg_81",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "牵着小孩的人穿着什么服装？",
+            "options": [
+                "A. 男人穿着紫色短袖衣服和深海军蓝裤子。",
+                "B. 男人穿着正式的黑色西装外套和灰色裤子。",
+                "C. 男人穿着红色毛衣和蓝色牛仔裤。",
+                "D. 男人穿着白色无袖上衣和卡其色短裤。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_82": {
+            "id": "gD0MvkDGAMg_82",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "望远镜旁的女人在做什么？",
+            "options": [
+                "A. 她正站立在望远镜旁头部微微晃动进行观星。",
+                "B. 她正在调整望远镜以观察附近的野生动物。",
+                "C. 她正在教男孩如何使用望远镜观星。",
+                "D. 她在结束观察后收拾望远镜。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_83": {
+            "id": "gD0MvkDGAMg_83",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "户外场景中有多少人？",
+            "options": [
+                "A. 户外场景中有两个人。",
+                "B. 户外场景中有三个人。",
+                "C. 户外场景中有四个人。",
+                "D. 户外场景中有五个人。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_84": {
+            "id": "gD0MvkDGAMg_84",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "在户外场景中有哪些人？",
+            "options": [
+                "A. 一位望远镜旁的女子和一位带着小男孩的男子。",
+                "B. 两位穿着正式服装的男子和一个在望远镜附近玩耍的孩子。",
+                "C. 一名独自观测天空的女子，没有受到任何打扰。",
+                "D. 一群朋友在望远镜附近野餐。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_85": {
+            "id": "gD0MvkDGAMg_85",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景中描述的天空完全晴朗吗？",
+            "options": [
+                "A. 是的，天空完全晴朗，没有任何遮挡物。",
+                "B. 不，天空中有乌云部分遮挡了新月。",
+                "C. 是的，天空很晴朗，只能看到星星。",
+                "D. 不，天空布满了厚厚的风暴云。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_86": {
+            "id": "gD0MvkDGAMg_86",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "在男人牵着小男孩出现后，女人做了什么动作？",
+            "options": [
+                "A. 她一只手拿着望远镜，一只手朝小男孩们挥手。",
+                "B. 她单膝跪在草地上，一只手放在小男孩背部。",
+                "C. 她身体前倾，和小男孩们察水里的动植物。",
+                "D. 她躺在草地上，和小男孩们一起仰望星星。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_87": {
+            "id": "gD0MvkDGAMg_87",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "望远镜是朝哪个方向倾斜的？",
+            "options": [
+                "A. 望远镜镜头向上倾斜，朝向天空。",
+                "B. 望远镜镜头向下倾斜，朝向地面。",
+                "C. 望远镜镜头水平倾斜，朝向地平线。",
+                "D. 望远镜镜头倾斜指向附近的灌木丛。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_88": {
+            "id": "gD0MvkDGAMg_88",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "天空中的哪些视觉元素为场景增添了深度？",
+            "options": [
+                "A. 天空蓝橙色渐变，有星星、乌云和月亮等。",
+                "B. 天空完全黑暗，没有可见的天体元素来表现深度。",
+                "C. 天空只有明亮的阳光和晴朗的天空，没有星星或云彩。",
+                "D. 天空布满浓厚的云层，遮挡了任何天体和渐变。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_89": {
+            "id": "gD0MvkDGAMg_89",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "天空中的哪些视觉元素为场景增添了神秘感？",
+            "options": [
+                "A. 宁静的夜晚，被乌云遮挡部分的圆月等。",
+                "B. 一轮满月，天空晴朗无云，伴有一道彩虹。",
+                "C. 明媚的阳光，没有星星，渐变为淡蓝色的天际。",
+                "D. 暴风雨的天空，倾盆大雨和雷云遮挡了所有天体景象。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_90": {
+            "id": "gD0MvkDGAMg_90",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "地球在宇宙空间中的位置在哪里？",
+            "options": [
+                "A. 地球在画面中央。",
+                "B. 地球在画面左上角。",
+                "C. 地球在画面右上角。",
+                "D. 地球在画面底部。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_91": {
+            "id": "gD0MvkDGAMg_91",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景始于何处？",
+            "options": [
+                "A. 一个宁静宽阔夜晚环境。",
+                "B. 一个繁忙的夜晚城市景观。",
+                "C. 一个从太空看地球的画面。",
+                "D. 一个宣传地球意识的标志和文字。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_92": {
+            "id": "gD0MvkDGAMg_92",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "视角放大握着照片的那只手的袖子是什么颜色？",
+            "options": [
+                "A. 浅蓝色",
+                "B. 白色",
+                "C. 深蓝色",
+                "D. 灰色"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_93": {
+            "id": "gD0MvkDGAMg_93",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "手是怎样拿着照片的？",
+            "options": [
+                "A. 手拿着照片的中心。",
+                "B. 手抓着照片边缘。",
+                "C. 手紧紧地把照片攥在拳头里。",
+                "D. 手用手指捏着照片的角。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_94": {
+            "id": "gD0MvkDGAMg_94",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "照片上的地球图像包括什么？",
+            "options": [
+                "A. 绿色的大陆、浅蓝色的海洋和一个蓝色光环。",
+                "B. 红色的大陆、深蓝色的海洋和一个黄色光环。",
+                "C. 棕色的大陆、清澈的海洋和一个白色的光环。",
+                "D. 紫色的大陆、绿色的海洋和一个粉色的光环。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_95": {
+            "id": "gD0MvkDGAMg_95",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "地球转动时背景颜色是什么？",
+            "options": [
+                "A. 深绿色",
+                "B. 浅蓝色",
+                "C. 黑色",
+                "D. 白色"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_96": {
+            "id": "gD0MvkDGAMg_96",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "随着时间变化地球是否完全从视野中消失？",
+            "options": [
+                "A. 是的，视频逐渐拉远，将地球从视野中抹去。",
+                "B. 不，地球在整个视频过程中始终可见。",
+                "C. 是的，但地球立刻被另一颗行星取代。",
+                "D. 不，地球被一艘飞船遮挡，但并未从视野中消失。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_97": {
+            "id": "gD0MvkDGAMg_97",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "在特写镜头之后，拿着照片的手会发生什么？",
+            "options": [
+                "A. 手和照片从画面中消失，场景转变为聚焦地球。",
+                "B. 手放开照片，照片漂浮到太空中。",
+                "C. 手将照片放在桌子上，场景切换到一个房间。",
+                "D. 手将照片揉皱后扔掉。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_98": {
+            "id": "gD0MvkDGAMg_98",
+            "scene": 6,
+            "dimension": "Camera Direction",
+            "question": "在从地球缩放出来后，摄像机聚焦于什么？",
+            "options": [
+                "A. 'ASTRONOMERS FOR PLANET EARTH'的标志",
+                "B. 带有家庭和望远镜的宁静夜间环境",
+                "C. 星光闪烁的虚空，出现一颗完全不同的球体。",
+                "D. 手中拿着一张宝丽来风格的照片"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_99": {
+            "id": "gD0MvkDGAMg_99",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "地球消失过程是如何发生的？",
+            "options": [
+                "A. 很突然，从地球切换到图案文字标识。",
+                "B. 逐渐进行，从地球的显著景象无缝过渡到浩瀚的太空。",
+                "C. 以碎片化的方式发生，一个接一个地展示不同的行星。",
+                "D. 完全跳过地球，集中在淡蓝色的航天器上。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_100": {
+            "id": "gD0MvkDGAMg_100",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "从地球转向宇宙虚空后，会发生什么视觉变化？",
+            "options": [
+                "A. 地球颜色发生变化，显示出鲜艳的紫色和红色色调。",
+                "B. 地球从视野中消失，出现文字图案标识。",
+                "C. 地球的照片掉落在地并破碎，揭示出一个隐藏的信息。",
+                "D. 一颗巨大的彗星经过地球，为地球投下了戏剧性的阴影。"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_101": {
+            "id": "gD0MvkDGAMg_101",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "场景最后一帧中出现了哪些视觉元素来传达一个宣传信息？",
+            "options": [
+                "A. 一个蓝黑色标志，带有文字标志。",
+                "B. 一张带有发光蓝色光环的地球照片。",
+                "C. 一台指向星空的望远镜。",
+                "D. 一只手拿着一张宝丽来风格的地球照片。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_102": {
+            "id": "gD0MvkDGAMg_102",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "场景最后一帧中出现了哪些文本元素来传达倡议信息？",
+            "options": [
+                "A. “ASTRONOMERS FOR PLANET EARTH”。",
+                "B. “SAVE OUR PLANET”。",
+                "C. “COSMIC UNITY FOR ALL”。",
+                "D. “PROTECT OUR UNIVERSE”。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_103": {
+            "id": "gD0MvkDGAMg_103",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "场景中描绘的主要场景是什么？",
+            "options": [
+                "A. 浅蓝渐变背景的简约布局，动态排版、几何设计和交互元素。",
+                "B. 静态的宇宙图像，包含标志和消息“ASTRONOMERS FOR PLANET EARTH。”",
+                "C. 简洁的基于文字的布局，仅使用白色背景和黑色排版。",
+                "D. 一个纯粹的抽象设计，没有交互元素或品牌标识。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_104": {
+            "id": "gD0MvkDGAMg_104",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "在场景中，文本 'SCIANI' 代表什么？",
+            "options": [
+                "A. 文本 'SCIANI' 表现与主题相关的排版设计元素。",
+                "B. 文本 'SCIANI' 是未来标志设计的占位符。",
+                "C. 文本 'SCIANI' 是视频中一个虚构星球的引用。",
+                "D. 文本 'SCIANI' 是创作该作品的艺术家的名字。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_105": {
+            "id": "gD0MvkDGAMg_105",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "画面中的排版有哪些显著特点？",
+            "options": [
+                "A. 排版以现代而艺术的风格拼出了“SCIANI”，并辅以鲜艳的圆形图案。",
+                "B. 排版采用大胆而坚实的设计，直接拼出“SCIANI”，没有抽象元素。",
+                "C. 排版以极简字体突出显示“ASTRONOMERS FOR PLANET EARTH”。",
+                "D. 排版侧重于以抽象几何形式书写的科学方程。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_106": {
+            "id": "gD0MvkDGAMg_106",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "该文案是否包含号召用户关注社交媒体渠道的行动指引？",
+            "options": [
+                "A. 是的，包含一个行动指引，配有图标。",
+                "B. 不，没有提到该文案中的社交媒体渠道。",
+                "C. 是的，但仅包含一个网站链接，并未配有社交媒体图标。",
+                "D. 是的，但仅包含文字标志。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_107": {
+            "id": "gD0MvkDGAMg_107",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "场景中出现的网址是什么？",
+            "options": [
+                "A. “www.sciani.com”",
+                "B. “www.visuals.com”",
+                "C. “www.sentence.com”",
+                "D. “www.sversen.com”"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_108": {
+            "id": "gD0MvkDGAMg_108",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "“FOLLOW”标志在场景中的位置在哪？",
+            "options": [
+                "A. 在右上角",
+                "B. 在左下角",
+                "C. 在右下角",
+                "D. 居中显示"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_109": {
+            "id": "gD0MvkDGAMg_109",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "构图使用了哪些视觉元素来保持清晰度和吸引力？",
+            "options": [
+                "A. 使用了渐变背景和文本及图形的集中排列。",
+                "B. 依靠全黑背景和无序元素来制造视觉趣味。",
+                "C. 使用多种随机颜色和分散的文本布局来保持吸引力。",
+                "D. 采用重纹理和无渐变设计来创造清晰度。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_110": {
+            "id": "gD0MvkDGAMg_110",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "字体如何变化以反映更结构化的品牌？",
+            "options": [
+                "A. 字体 'SCIANI' 从半透明转为纯黑，并添加了文本元素等。",
+                "B. 字体 'SCIANI' 变为 'SCIENTIFIC'，去掉了一些元素以简化。",
+                "C. 字体 'SCIANI' 变为 'SCAN'，并添加了额外的装饰元素。",
+                "D. 字体 'SCIANI' 变为 'SCALD'，并添加了副标题 'Animated visuals'。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_111": {
+            "id": "gD0MvkDGAMg_111",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "网页上的文字提供了什么视觉提示？",
+            "options": [
+                "A. 以黑色字体显示的文字作为视觉提示。",
+                "B. 渐变背景提供了主要的视觉提示。",
+                "C. 鲜艳的圆形图案作为主要的视觉提示。",
+                "D. 浅灰色字体的短语提供了视觉提示。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_112": {
+            "id": "gD0MvkDGAMg_112",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "极简品牌构图展示后会发生什么？",
+            "options": [
+                "A. 它被充满活力的引人入胜的夜间户外场景所取代。",
+                "B. 极简品牌构图过渡到一个太空的静态图片。",
+                "C. 品牌构图渐变为无文字的白色空白背景。",
+                "D. 它转变为白天繁忙都市风景的彩色描绘。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_113": {
+            "id": "gD0MvkDGAMg_113",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在荒凉的山地景观之后展示了什么？",
+            "options": [
+                "A. 展示了一个大型圆柱结构的建筑特写。",
+                "B. 展示了一个充满星星和星系的宇宙天空的生动描绘。",
+                "C. 展示了一座高楼林立、繁忙的城市天际线。",
+                "D. 展示了一片高大古树密布的森林。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_114": {
+            "id": "gD0MvkDGAMg_114",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在女人，男人和男孩场景之后的下一个场景是什么？",
+            "options": [
+                "A. 场景转换到一个特写镜头，显示一只手拿着一张类似拍立得的照片。",
+                "B. 场景转换到一个望远镜指向夜空的画面。",
+                "C. 场景转换到一段包含星座的宇宙动画。",
+                "D. 场景转换到一群人在星空下穿过田野的画面。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_115": {
+            "id": "gD0MvkDGAMg_115",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么文本 'SCI ANI' 被更改为粗体黑色字母？",
+            "options": [
+                "A. 为了增强在浅蓝色渐变背景上的突出性和可读性。",
+                "B. 为了匹配充满活力的重叠圆形图案的配色方案。",
+                "C. 为了与其上方的几何设计元素无缝融合。",
+                "D. 为了与“地球天文学家”标志保持一致的外观。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_116": {
+            "id": "gD0MvkDGAMg_116",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "这个构图中的三个挨在一起圆形图标代表什么意义？",
+            "options": [
+                "A. 它们代表整合与连通性，提升了吸引力。",
+                "B. 它们代表没有实际功能用途的随机美学元素。",
+                "C. 它们代表与整体主题冲突的过时设计选择。",
+                "D. 它们代表强调传统品牌而缺乏交互元素。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_117": {
+            "id": "gD0MvkDGAMg_117",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "夜晚寂静的场景中，包含人的黑色剪影、道路和未来感的建筑，它如何影响观众？",
+            "options": [
+                "A. 它展现了一种梦幻、宁静的氛围。",
+                "B. 它创造了一种紧迫感和兴奋感。",
+                "C. 它唤起了混乱和不可预测的感觉。",
+                "D. 它作为繁忙城市环境的象征。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_118": {
+            "id": "gD0MvkDGAMg_118",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在最初显示地球带有蓝色光环的画面之后发生了什么？",
+            "options": [
+                "A. 地球被身穿蓝色衣物的一手双大手向上托起。",
+                "B. 地球逐渐淡出背景，而一系列来自太阳系的行星取而代之。",
+                "C. 地球周围的蓝色光环增强，场景转变为空间站的视图。",
+                "D. 地球照片转变成一幅带有动画轨道的太阳系示意图。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_119": {
+            "id": "gD0MvkDGAMg_119",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "哪个角色在室内场景后再一次出现在户外夜晚场景中？",
+            "options": [
+                "A. 一名身穿浅蓝色衣服和深色裤子的女性。",
+                "B. 一名身穿紫色衣服和浅棕色裤子的男性。",
+                "C. 一名身穿黑色西装和黑色鞋子的女性。",
+                "D. 一名身穿蓝色西装和戴着红领带的男性。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_120": {
+            "id": "gD0MvkDGAMg_120",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "女人在夜晚场景中重新出现后，谁加入了她？",
+            "options": [
+                "A. 一个男人和一个小男孩加入了她。",
+                "B. 一群天文学家加入了她。",
+                "C. 她由一只狗和一个男人陪伴。",
+                "D. 她独自站在星空下。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_121": {
+            "id": "gD0MvkDGAMg_121",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "从视频来看紫色梦幻星空下的树木在什么位置？",
+            "options": [
+                "A. 在右侧建筑周围。",
+                "B. 在中央道路两旁。",
+                "C. 在画面左下角。",
+                "D. 在画面右下角。"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_122": {
+            "id": "gD0MvkDGAMg_122",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在教室内，面对讲台第一排中间的女生穿着什么颜色的衣服？",
+            "options": [
+                "A. 紫色",
+                "B. 蓝色",
+                "C. 红色",
+                "D. 黄色"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_123": {
+            "id": "gD0MvkDGAMg_123",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "透过窗户可以观察到几排太阳能板？",
+            "options": [
+                "A. 三排",
+                "B. 四排",
+                "C. 五排",
+                "D. 六排"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_124": {
+            "id": "gD0MvkDGAMg_124",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "在最后场景加入图标文字元素的目的是是什么？",
+            "options": [
+                "A. 为了强调设计的天体主题。",
+                "B. 为了增强视觉复杂性并保持未来感的基调。",
+                "C. 为了吸引观众关注作者的频道。",
+                "D. 为了显示一个纯粹的美学特征，没有功能性目的。"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_125": {
+            "id": "gD0MvkDGAMg_125",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么在最后的画面中引入社交媒体图标？",
+            "options": [
+                "A. 为了吸引观众关注作者的频道。",
+                "B. 强调天体和抽象主题。",
+                "C. 突出多彩的圆形形状及其运动。",
+                "D. 用简约的视觉效果取代几何设计。"
+            ],
+            "answer": "A"
+        }
+    }
+}

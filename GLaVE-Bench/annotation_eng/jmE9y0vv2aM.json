@@ -1,0 +1,1341 @@
+{
+    "scene_hint": {
+        "0": "The man performs the first set of movements indoors for the first time.",
+        "1": "The man performs the second set of movements indoors for the first time.",
+        "2": "The man performs the third set of movements indoors for the first time.",
+        "3": "The man exercises outdoors for the first time.",
+        "4": "The man performs the first set of movements indoors for the second time.",
+        "5": "The man performs the second set of movements indoors for the second time.",
+        "6": "The man performs the third set of movements indoors for the second time.",
+        "7": "The man exercises outdoors for the second time.",
+        "8": "The person leaves the frame, serving as the ending shot."
+    },
+    "qa": {
+        "jmE9y0vv2aM_0": {
+            "id": "jmE9y0vv2aM_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the exercise ball located at the end of the scene?",
+            "options": [
+                "A. The exercise ball is on the exercise mat.",
+                "B. The exercise ball is in the man's hands.",
+                "C. The exercise ball is next to the exercise mat.",
+                "D. The exercise ball is taken outside the door."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_1": {
+            "id": "jmE9y0vv2aM_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "How is the overall environment depicted in the scene?",
+            "options": [
+                "A. Spacious with high walls.",
+                "B. Narrow with low walls.",
+                "C. Spacious but with low walls.",
+                "D. Narrow but with high walls."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_2": {
+            "id": "jmE9y0vv2aM_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the ground like in the scene?",
+            "options": [
+                "A. It is a wooden floor.",
+                "B. It is a cement floor.",
+                "C. It is a tiled floor.",
+                "D. The floor is covered with carpet."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_3": {
+            "id": "jmE9y0vv2aM_3",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the decoration like in the scene?",
+            "options": [
+                "A. The decoration is colorful.",
+                "B. The decoration is chaotic.",
+                "C. The decoration is simple and orderly.",
+                "D. The decoration is vintage style."
+            ],
+            "answer": "C"
+        },
+        "jmE9y0vv2aM_4": {
+            "id": "jmE9y0vv2aM_4",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the man in black shirt and white pants doing?",
+            "options": [
+                "A. Exercising with a fitness ball.",
+                "B. Walking slowly with a cane.",
+                "C. Lying on the exercise mat.",
+                "D. Sitting on the exercise mat."
+            ],
+            "answer": "B"
+        },
+        "jmE9y0vv2aM_5": {
+            "id": "jmE9y0vv2aM_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What are the main characteristics of the motion mats in the scene's focal point?",
+            "options": [
+                "A. It is long and inflatable.",
+                "B. It is foam and circular.",
+                "C. It is short and wooden.",
+                "D. It is covered with fabric and elevated."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_6": {
+            "id": "jmE9y0vv2aM_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many people can be seen in this segment?",
+            "options": [
+                "A. Three people",
+                "B. Four people",
+                "C. Five people",
+                "D. Two people"
+            ],
+            "answer": "C"
+        },
+        "jmE9y0vv2aM_7": {
+            "id": "jmE9y0vv2aM_7",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the man in black shorts doing?",
+            "options": [
+                "A. Walking forward.",
+                "B. Performing gymnastics flips on the mat.",
+                "C. Picking up the fitness ball and starting to bounce.",
+                "D. Sitting on a pile of mats resting."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_8": {
+            "id": "jmE9y0vv2aM_8",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What happens when that person no longer uses the fitness ball?",
+            "options": [
+                "A. The fitness ball stays on the exercise mat.",
+                "B. The fitness ball is picked up by a little boy.",
+                "C. The fitness ball rolls to the back of the gym.",
+                "D. The fitness ball is used by someone else for training."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_9": {
+            "id": "jmE9y0vv2aM_9",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What visual elements or signs are present in the scene?",
+            "options": [
+                "A. 'CATERS' sign and '@aaron_hakala'.",
+                "B. 'Gymnastics' sign and '@aaron_hakala'.",
+                "C. 'Life lies in movement'.",
+                "D. 'Exercise makes the body healthy'."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_10": {
+            "id": "jmE9y0vv2aM_10",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "What is the initial spatial relationship between the young person and the exercise ball?",
+            "options": [
+                "A. Place the right leg on the exercise ball.",
+                "B. Place the right hand on the exercise ball.",
+                "C. Lie flat and touch the exercise ball with both feet.",
+                "D. Sit cross-legged on the exercise ball."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_11": {
+            "id": "jmE9y0vv2aM_11",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What did the young man do in the scene?",
+            "options": [
+                "A. He performed rolling motions on the exercise ball.",
+                "B. He maintained a steady posture on top of the ball.",
+                "C. He stood beside the ball and continuously spun it with his hands.",
+                "D. He used the exercise ball for a few seconds and then threw it away."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_12": {
+            "id": "jmE9y0vv2aM_12",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene take place?",
+            "options": [
+                "A. Gymnasium.",
+                "B. Game hall.",
+                "C. Grand theater.",
+                "D. Living room."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_13": {
+            "id": "jmE9y0vv2aM_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the environment in the scene like?",
+            "options": [
+                "A. There are tall walls and floor-to-ceiling windows.",
+                "B. There are low ceilings and small windows.",
+                "C. There are tall walls and no windows.",
+                "D. There are medium-sized walls and large skylights."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_14": {
+            "id": "jmE9y0vv2aM_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the ground like in the scene?",
+            "options": [
+                "A. Wooden floor.",
+                "B. Tiled floor.",
+                "C. Cement floor.",
+                "D. Marble floor."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_15": {
+            "id": "jmE9y0vv2aM_15",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the attire of the man interacting with the fitness ball in the scene?",
+            "options": [
+                "A. Wearing a light gray T-shirt and black long pants.",
+                "B. Wearing a dark gray T-shirt and white pants.",
+                "C. Wearing a white T-shirt and black shorts.",
+                "D. Wearing a green T-shirt and gray pants."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_16": {
+            "id": "jmE9y0vv2aM_16",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What kind of shoes is the man interacting with the fitness ball wearing in the scene?",
+            "options": [
+                "A. Not wearing shoes.",
+                "B. Wearing slippers.",
+                "C. Wearing boots.",
+                "D. Wearing sneakers."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_17": {
+            "id": "jmE9y0vv2aM_17",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "In the scene, besides the man interacting with the fitness ball, how many other people can be seen?",
+            "options": [
+                "A. There are two people.",
+                "B. There are three people.",
+                "C. There are four people.",
+                "D. There are five people."
+            ],
+            "answer": "C"
+        },
+        "jmE9y0vv2aM_18": {
+            "id": "jmE9y0vv2aM_18",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What are the other people in the scene doing?",
+            "options": [
+                "A. Performing acrobatics with the young people.",
+                "B. Casually staying in the far corner of the venue.",
+                "C. Providing guidance and advice to the young people.",
+                "D. Setting up equipment for the next performance."
+            ],
+            "answer": "B"
+        },
+        "jmE9y0vv2aM_19": {
+            "id": "jmE9y0vv2aM_19",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Will the fitness ball move in the scene?",
+            "options": [
+                "A. Yes, the fitness ball moves to some extent.",
+                "B. No, the fitness ball remains stationary.",
+                "C. Yes, the fitness ball is thrown into the air.",
+                "D. No, the fitness ball only shakes slightly."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_20": {
+            "id": "jmE9y0vv2aM_20",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the young man perform with his hand on the exercise ball?",
+            "options": [
+                "A. The young man waved his hand in a circular motion.",
+                "B. The young man waved his hand to signal to the audience.",
+                "C. The young man supported or grasped the ball with his palm.",
+                "D. The young man placed his arms at his sides."
+            ],
+            "answer": "C"
+        },
+        "jmE9y0vv2aM_21": {
+            "id": "jmE9y0vv2aM_21",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "At the beginning of the scene, what is the young person in the focus of the picture doing?",
+            "options": [
+                "A. He is lying flat on the exercise mat.",
+                "B. He is lying flat on the ball.",
+                "C. He is sitting upright on the ball.",
+                "D. He is standing on the ball with both feet."
+            ],
+            "answer": "B"
+        },
+        "jmE9y0vv2aM_22": {
+            "id": "jmE9y0vv2aM_22",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the scene?",
+            "options": [
+                "A. It is a sports stadium.",
+                "B. It is an outdoor park.",
+                "C. It is a family living room.",
+                "D. It is a dance studio."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_23": {
+            "id": "jmE9y0vv2aM_23",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the attire of the young person interacting with the fitness ball?",
+            "options": [
+                "A. Wearing a light gray T-shirt and black pants.",
+                "B. Wearing a bright orange shirt and blue jeans.",
+                "C. Wearing a black tank top and gray shorts.",
+                "D. Wearing a green hoodie and beige pants."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_24": {
+            "id": "jmE9y0vv2aM_24",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What did the young person in the scene focus demonstrate?",
+            "options": [
+                "A. Demonstrated balance and agility.",
+                "B. Demonstrated hesitation and imbalance.",
+                "C. Performed simple stretching exercises.",
+                "D. He remained still."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_25": {
+            "id": "jmE9y0vv2aM_25",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What does the fitness ball look like in the scene?",
+            "options": [
+                "A. The fitness ball is orange.",
+                "B. The fitness ball is blue.",
+                "C. The fitness ball is green.",
+                "D. The fitness ball is red."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_26": {
+            "id": "jmE9y0vv2aM_26",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many people are in the background at the start of the scene?",
+            "options": [
+                "A. There are initially no people in the background.",
+                "B. Initially, there is a group of people by the wall.",
+                "C. Initially, there is only one person with a cane.",
+                "D. Initially, the background is completely empty."
+            ],
+            "answer": "C"
+        },
+        "jmE9y0vv2aM_27": {
+            "id": "jmE9y0vv2aM_27",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Does the scene contain any branded or marked text?",
+            "options": [
+                "A. Yes, there are '@aaron_hakala' and 'CATERS' marks.",
+                "B. No, the scene does not contain any branded or marked text.",
+                "C. Yes, but only '@aaron_hakala'.",
+                "D. Yes, but only 'Song Gymnastics/Fortsafe'."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_28": {
+            "id": "jmE9y0vv2aM_28",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What position is the young person in on the stability ball?",
+            "options": [
+                "A. He is lying flat on the ball.",
+                "B. He is curled up into a ball.",
+                "C. He is standing upright on the ball.",
+                "D. He is lying flat on his back on the ball."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_29": {
+            "id": "jmE9y0vv2aM_29",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "Will the exercise ball move during the workout for young people?",
+            "options": [
+                "A. Yes, the exercise ball will roll forward.",
+                "B. Yes, the exercise ball will bounce up and down.",
+                "C. No, the exercise ball will remain stationary.",
+                "D. Yes, the exercise ball will be tossed around."
+            ],
+            "answer": "B"
+        },
+        "jmE9y0vv2aM_30": {
+            "id": "jmE9y0vv2aM_30",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle in the scene?",
+            "options": [
+                "A. The camera is moving horizontally.",
+                "B. The camera is zooming in and out.",
+                "C. The camera angle is switching rapidly.",
+                "D. The camera maintains a top-down angle."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_31": {
+            "id": "jmE9y0vv2aM_31",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "What is the focus of the camera in the scene?",
+            "options": [
+                "A. The performance of young people.",
+                "B. Dynamic background activities.",
+                "C. Switching between static elements and young people.",
+                "D. Emphasizing the exterior of green trees."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_32": {
+            "id": "jmE9y0vv2aM_32",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What can be seen outside the window?",
+            "options": [
+                "A. The green trees outside the window.",
+                "B. The cityscape outside the window.",
+                "C. The desert landscape outside the window.",
+                "D. The snowy mountain landscape outside the window."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_33": {
+            "id": "jmE9y0vv2aM_33",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "At the end of the scene, where is the exercise ball placed?",
+            "options": [
+                "A. On the mat",
+                "B. Near the evergreen tree",
+                "C. In front of the villa",
+                "D. By the window"
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_34": {
+            "id": "jmE9y0vv2aM_34",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of this scene?",
+            "options": [
+                "A. It is a lawn.",
+                "B. It is a beach.",
+                "C. It is a gym.",
+                "D. It is a city park."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_35": {
+            "id": "jmE9y0vv2aM_35",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is this young person wearing?",
+            "options": [
+                "A. Black sleeveless top and black shorts.",
+                "B. Light gray or white T-shirt and black sweatpants.",
+                "C. Red T-shirt and blue jeans",
+                "D. Yellow vest and gray sweatpants"
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_36": {
+            "id": "jmE9y0vv2aM_36",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What color is the fitness ball in the scene?",
+            "options": [
+                "A. The fitness ball is white.",
+                "B. The fitness ball is orange.",
+                "C. The fitness ball is yellow.",
+                "D. The fitness ball is blue."
+            ],
+            "answer": "B"
+        },
+        "jmE9y0vv2aM_37": {
+            "id": "jmE9y0vv2aM_37",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many people are in the scene?",
+            "options": [
+                "A. One person",
+                "B. Two people",
+                "C. Three people",
+                "D. Four people"
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_38": {
+            "id": "jmE9y0vv2aM_38",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "Is the overall lighting in the scene consistent?",
+            "options": [
+                "A. No, the lighting is gradually turning blue.",
+                "B. No, the lighting in the last part of the scene becomes darker, possibly indicating a scene transition.",
+                "C. No, the lighting is gradually getting brighter over time, possibly indicating a scene transition.",
+                "D. No, the lighting alternates constantly between bright and dim."
+            ],
+            "answer": "B"
+        },
+        "jmE9y0vv2aM_39": {
+            "id": "jmE9y0vv2aM_39",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the young man doing in the scene?",
+            "options": [
+                "A. He is rolling and exercising on the fitness ball.",
+                "B. He is stretching on the grass.",
+                "C. He lifts the fitness ball and throws it.",
+                "D. He is lying still on the fitness ball."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_40": {
+            "id": "jmE9y0vv2aM_40",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What text signs are present in the scene?",
+            "options": [
+                "A. '@aaron_hakala' and 'CATERS'.",
+                "B. Only '@aaron_hakala'.",
+                "C. Only 'CATERS'.",
+                "D. There is no text in the scene."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_41": {
+            "id": "jmE9y0vv2aM_41",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the young man with the cane in relation to the large vertical window?",
+            "options": [
+                "A. In the center of the large vertical window.",
+                "B. Far from the vertical window.",
+                "C. Between the two vertical windows.",
+                "D. Behind the vertical window."
+            ],
+            "answer": "C"
+        },
+        "jmE9y0vv2aM_42": {
+            "id": "jmE9y0vv2aM_42",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What are the main features of the scene?",
+            "options": [
+                "A. High ceilings and wide vertical windows.",
+                "B. Low ceilings and small round windows.",
+                "C. Glass walls and arched ceilings.",
+                "D. Brick walls and narrow windows."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_43": {
+            "id": "jmE9y0vv2aM_43",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "How is the scene illuminated?",
+            "options": [
+                "A. Only a few small lights are hanging on the wall.",
+                "B. Illuminated by incandescent lights on the ceiling.",
+                "C. Natural light coming in through large windows.",
+                "D. Specific areas are lit with spotlights."
+            ],
+            "answer": "C"
+        },
+        "jmE9y0vv2aM_44": {
+            "id": "jmE9y0vv2aM_44",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What did the young man do after getting off the exercise ball?",
+            "options": [
+                "A. He walked forward.",
+                "B. He jumped in place.",
+                "C. He stood quietly.",
+                "D. He lay on the exercise mat."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_45": {
+            "id": "jmE9y0vv2aM_45",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What is the state of the fitness ball in the scene?",
+            "options": [
+                "A. The fitness ball rolls along with the young person.",
+                "B. The fitness ball is stationary.",
+                "C. The fitness ball has been deflated.",
+                "D. The fitness ball has disappeared behind the scene."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_46": {
+            "id": "jmE9y0vv2aM_46",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many men are described in the scene?",
+            "options": [
+                "A. One man",
+                "B. Two men",
+                "C. Five men",
+                "D. Four men"
+            ],
+            "answer": "C"
+        },
+        "jmE9y0vv2aM_47": {
+            "id": "jmE9y0vv2aM_47",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the young person with a cane take?",
+            "options": [
+                "A. Move to the left side of the screen.",
+                "B. Sit by the window.",
+                "C. Start walking without using the cane.",
+                "D. Lift the exercise ball."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_48": {
+            "id": "jmE9y0vv2aM_48",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "Relative to the screen, in which direction is the person on the exercise ball moving overall?",
+            "options": [
+                "A. Moving towards the right side of the screen.",
+                "B. Moving towards the left side of the screen.",
+                "C. Moving back and forth across the screen.",
+                "D. Overall not moving from the original position."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_49": {
+            "id": "jmE9y0vv2aM_49",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What elements are marked in the scene?",
+            "options": [
+                "A. '@aaron_hakala' and 'CATERS' marks.",
+                "B. '@move_fit' and 'SPORTS' marks.",
+                "C. '@fit_life' and 'ACTIVE' marks.",
+                "D. '@gym_time' and 'ENERGY' marks."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_50": {
+            "id": "jmE9y0vv2aM_50",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "At the beginning of the scene, where is the man wearing black sweatpants and a gray T-shirt located relative to the position in the frame?",
+            "options": [
+                "A. He is slightly to the left of the center of the frame.",
+                "B. He is slightly to the right of the center of the frame.",
+                "C. He is on the right side of the frame.",
+                "D. He is at the bottom of the frame."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_51": {
+            "id": "jmE9y0vv2aM_51",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What is this young man doing with the exercise ball?",
+            "options": [
+                "A. He is doing rolling movements on the exercise ball.",
+                "B. He is sitting on the exercise ball lifting dumbbells with both hands.",
+                "C. He is doing sit-ups with the exercise ball.",
+                "D. He is dribbling the exercise ball on the floor."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_52": {
+            "id": "jmE9y0vv2aM_52",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the environment like in the scene?",
+            "options": [
+                "A. Cream-colored walls, high ceilings.",
+                "B. Gray walls, low ceilings.",
+                "C. Blue walls, high ceilings.",
+                "D. Beige walls, arched ceilings."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_53": {
+            "id": "jmE9y0vv2aM_53",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What types of lighting are in the scene?",
+            "options": [
+                "A. Natural light illuminates through large windows.",
+                "B. Bright fluorescent ceiling lights illuminate.",
+                "C. Dim overhead spotlights illuminate.",
+                "D. Illuminated by colored LED ambient lights."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_54": {
+            "id": "jmE9y0vv2aM_54",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What type of flooring is on the ground in the scene?",
+            "options": [
+                "A. Glass flooring.",
+                "B. Wooden flooring.",
+                "C. Tile flooring.",
+                "D. Carpet flooring."
+            ],
+            "answer": "B"
+        },
+        "jmE9y0vv2aM_55": {
+            "id": "jmE9y0vv2aM_55",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What equipment is in the scene?",
+            "options": [
+                "A. There are some mats near the window.",
+                "B. There is a swimming pool in the corner.",
+                "C. There is a boxing ring in the center.",
+                "D. There is a climbing wall on one side."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_56": {
+            "id": "jmE9y0vv2aM_56",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many people are near the big window?",
+            "options": [
+                "A. Two people",
+                "B. Three people",
+                "C. Four people",
+                "D. Five people"
+            ],
+            "answer": "C"
+        },
+        "jmE9y0vv2aM_57": {
+            "id": "jmE9y0vv2aM_57",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "Was the man in the gray T-shirt initially exercising on a red fitness ball?",
+            "options": [
+                "A. Yes, he first used a red fitness ball.",
+                "B. No, he initially used an orange fitness ball.",
+                "C. No, he first used a green fitness ball.",
+                "D. No, he initially used a blue fitness ball."
+            ],
+            "answer": "B"
+        },
+        "jmE9y0vv2aM_58": {
+            "id": "jmE9y0vv2aM_58",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "In the man's movement process, in which direction does the fitness ball move in the picture?",
+            "options": [
+                "A. The fitness ball moves to the right.",
+                "B. The fitness ball moves to the left.",
+                "C. The fitness ball remains stationary.",
+                "D. The fitness ball bounces in place."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_59": {
+            "id": "jmE9y0vv2aM_59",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in the scene?",
+            "options": [
+                "A. The camera uses a side angle.",
+                "B. The camera uses a top-down angle.",
+                "C. The camera uses a close-up angle.",
+                "D. The camera uses a low-angle shot."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_60": {
+            "id": "jmE9y0vv2aM_60",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What text can be seen on the exercise mat in the scene?",
+            "options": [
+                "A. 'Gymnaslikefforskole'.",
+                "B. 'Elite Gymnasium'.",
+                "C. 'Fitness World'.",
+                "D. 'Health Club Arena'."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_61": {
+            "id": "jmE9y0vv2aM_61",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What watermark appeared in the scene?",
+            "options": [
+                "A. The watermark '@aaron_hakala' appeared.",
+                "B. The watermark '@fitness_pro' appeared.",
+                "C. The watermark 'Gymnastics4Life' appeared.",
+                "D. The watermark '@acro_fun' appeared."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_62": {
+            "id": "jmE9y0vv2aM_62",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the man in the gray shirt relative to the exercise ball?",
+            "options": [
+                "A. The man is standing next to the exercise ball.",
+                "B. The man is lying on the ground.",
+                "C. The man is above the exercise ball.",
+                "D. The man is sitting on the chair next to it."
+            ],
+            "answer": "C"
+        },
+        "jmE9y0vv2aM_63": {
+            "id": "jmE9y0vv2aM_63",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene take place?",
+            "options": [
+                "A. It takes place in the gymnasium.",
+                "B. It takes place in the dance studio.",
+                "C. It takes place in the park.",
+                "D. It takes place in the living room."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_64": {
+            "id": "jmE9y0vv2aM_64",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the scene like?",
+            "options": [
+                "A. Cream-colored walls, high ceilings.",
+                "B. Blue walls, low ceilings.",
+                "C. Gray walls, arched ceilings.",
+                "D. White walls, glass ceilings."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_65": {
+            "id": "jmE9y0vv2aM_65",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "How is the scene illuminated?",
+            "options": [
+                "A. Illuminated by overhead fluorescent lights.",
+                "B. Lit by natural light coming through the windows.",
+                "C. Illuminated by several spotlights.",
+                "D. Lit by incandescent lights on the ceiling."
+            ],
+            "answer": "B"
+        },
+        "jmE9y0vv2aM_66": {
+            "id": "jmE9y0vv2aM_66",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the focus man in the scene complete?",
+            "options": [
+                "A. Bouncing up and down while holding a fitness ball.",
+                "B. Completed a backflip.",
+                "C. Spun in the air and sat on the ball.",
+                "D. Landed on the fitness ball with one foot."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_67": {
+            "id": "jmE9y0vv2aM_67",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "How does the focal man in the scene interact with the ball?",
+            "options": [
+                "A. He makes contact with the ball horizontally.",
+                "B. He stands on the ground next to the ball.",
+                "C. He stands and holds the ball with both hands.",
+                "D. He rotates and jumps around the ball."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_68": {
+            "id": "jmE9y0vv2aM_68",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What posture or action is the focal man in the scene maintaining?",
+            "options": [
+                "A. He keeps his body straight and level.",
+                "B. He arches his back in a curled posture.",
+                "C. He raises his arms and stands straight.",
+                "D. He sits upright with his legs crossed."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_69": {
+            "id": "jmE9y0vv2aM_69",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the fitness ball?",
+            "options": [
+                "A. The fitness ball is orange.",
+                "B. The fitness ball is red.",
+                "C. The fitness ball is blue.",
+                "D. The fitness ball is green."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_70": {
+            "id": "jmE9y0vv2aM_70",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many people appear in the background of the scene?",
+            "options": [
+                "A. One person appears.",
+                "B. Two people appear.",
+                "C. Three people appear.",
+                "D. No people appear."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_71": {
+            "id": "jmE9y0vv2aM_71",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "In the scene, does the exercise ball move?",
+            "options": [
+                "A. Yes, the exercise ball moves to the left of the screen.",
+                "B. No, the exercise ball remains stationary.",
+                "C. Yes, the exercise ball moves to the right of the screen.",
+                "D. No, the exercise ball bounces in place."
+            ],
+            "answer": "D"
+        },
+        "jmE9y0vv2aM_72": {
+            "id": "jmE9y0vv2aM_72",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "How does this man stabilize himself on the ball?",
+            "options": [
+                "A. He lies on the ball.",
+                "B. He stands on the ball.",
+                "C. He sits on the ball.",
+                "D. He lies flat on the ball."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_73": {
+            "id": "jmE9y0vv2aM_73",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What did the man do with his arms when he was on the ball?",
+            "options": [
+                "A. He used both arms to hold the ball to support his balance.",
+                "B. He crossed his arms in front of his chest.",
+                "C. He held the ball with one hand.",
+                "D. He let his arms hang at his sides."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_74": {
+            "id": "jmE9y0vv2aM_74",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used in the scene?",
+            "options": [
+                "A. A medium shot is used.",
+                "B. A close-up shot is used.",
+                "C. A wide-angle shot is used.",
+                "D. An overhead shot is used."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_75": {
+            "id": "jmE9y0vv2aM_75",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "During the airborne phase of the movement, how does the man's leg position change?",
+            "options": [
+                "A. During the airborne phase, the man's legs extend downward.",
+                "B. During the airborne phase, the man's legs bend at the knees.",
+                "C. During the airborne phase, the man's legs are positioned horizontally.",
+                "D. During the airborne phase, the man's legs cross."
+            ],
+            "answer": "C"
+        },
+        "jmE9y0vv2aM_76": {
+            "id": "jmE9y0vv2aM_76",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What are the text elements that are always visible in the scene?",
+            "options": [
+                "A. '@aaron_hakala' and 'CATERS' logo.",
+                "B. '@exercise_pro' and 'FITNESS' logo.",
+                "C. '@aaron_smith' and 'ATHLETE' logo.",
+                "D. '@acrobat_moves' and 'SPORTS' logo."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_77": {
+            "id": "jmE9y0vv2aM_77",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the man and the mat at the beginning of the scene?",
+            "options": [
+                "A. The man is standing on the mat.",
+                "B. The man is lying on the mat.",
+                "C. The man is doing a somersault on the mat.",
+                "D. The man is sitting cross-legged on the mat."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_78": {
+            "id": "jmE9y0vv2aM_78",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the man and the exercise ball at the beginning of the scene?",
+            "options": [
+                "A. The man is sitting on the exercise ball.",
+                "B. The man is standing next to the exercise ball.",
+                "C. The man is lying face down on the exercise ball.",
+                "D. The man is balancing on the exercise ball."
+            ],
+            "answer": "B"
+        },
+        "jmE9y0vv2aM_79": {
+            "id": "jmE9y0vv2aM_79",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the environment in the scene like?",
+            "options": [
+                "A. A lawn.",
+                "B. A beach.",
+                "C. A city park.",
+                "D. A concert."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_80": {
+            "id": "jmE9y0vv2aM_80",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the man wearing?",
+            "options": [
+                "A. Wearing a sleeveless black vest and dark shorts.",
+                "B. Wearing a light gray shirt and black pants.",
+                "C. Wearing a blue T-shirt and white shorts.",
+                "D. Wearing a red vest and black pants."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_81": {
+            "id": "jmE9y0vv2aM_81",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What color is the fitness ball that appears in the scene?",
+            "options": [
+                "A. It is bright orange.",
+                "B. It is light blue.",
+                "C. It is vibrant green.",
+                "D. It is dark gray."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_82": {
+            "id": "jmE9y0vv2aM_82",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many fitness balls are there in the scene?",
+            "options": [
+                "A. One fitness ball",
+                "B. Two fitness balls",
+                "C. Three fitness balls",
+                "D. Four fitness balls"
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_83": {
+            "id": "jmE9y0vv2aM_83",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Will this person do a handstand during the performance?",
+            "options": [
+                "A. Yes, this person did a handstand during the performance.",
+                "B. No, this person did not do a handstand during the performance.",
+                "C. Yes, this person completed a handstand with one hand.",
+                "D. This person tried but couldn't complete the handstand."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_84": {
+            "id": "jmE9y0vv2aM_84",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "What action did this person perform while interacting with the fitness ball?",
+            "options": [
+                "A. This person rolled on the fitness ball.",
+                "B. This person balanced the fitness ball on their head.",
+                "C. This person threw the fitness ball into the air and caught it.",
+                "D. This person used the fitness ball to jump."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_85": {
+            "id": "jmE9y0vv2aM_85",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "How does the camera capture the scene?",
+            "options": [
+                "A. The camera remains stable and stationary to capture the entire scene.",
+                "B. The camera focuses only on the stationary exercise ball.",
+                "C. The camera uses a close-up shot aimed at the man's face.",
+                "D. The camera focuses on the house in the background."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_86": {
+            "id": "jmE9y0vv2aM_86",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred to the fitness ball?",
+            "options": [
+                "A. The fitness ball's size changed from small to large.",
+                "B. The fitness ball was flattened and then recovered.",
+                "C. The fitness ball changed from orange to blue.",
+                "D. The fitness ball changed from smooth to rough."
+            ],
+            "answer": "B"
+        },
+        "jmE9y0vv2aM_87": {
+            "id": "jmE9y0vv2aM_87",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "Which elements consistently appear in the scene?",
+            "options": [
+                "A. “@aaron_hakala” and “CATERS”.",
+                "B. “@gymnastics_expert” and “ACRO”.",
+                "C. “@fit_lifestyle” and “MOVE”.",
+                "D. “@health_guru” and “TRAIN”."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_88": {
+            "id": "jmE9y0vv2aM_88",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "Where is the fitness ball positioned relative to the mat at the beginning of the scene?",
+            "options": [
+                "A. The fitness ball is placed on the mat.",
+                "B. The fitness ball is next to the mat.",
+                "C. The fitness ball is hovering above the mat.",
+                "D. The fitness ball is not in the scene at all."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_89": {
+            "id": "jmE9y0vv2aM_89",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Is there anyone visible in the scene?",
+            "options": [
+                "A. Yes, there is someone visible in the scene.",
+                "B. No, there is no one visible in the scene.",
+                "C. Yes, but they exit the frame at the end.",
+                "D. There are multiple people visible in the scene."
+            ],
+            "answer": "C"
+        },
+        "jmE9y0vv2aM_90": {
+            "id": "jmE9y0vv2aM_90",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What provides the lighting in the scene?",
+            "options": [
+                "A. Moonlight.",
+                "B. Flashlight.",
+                "C. Sunlight.",
+                "D. Spotlight."
+            ],
+            "answer": "C"
+        },
+        "jmE9y0vv2aM_91": {
+            "id": "jmE9y0vv2aM_91",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many text elements are visible in the scene?",
+            "options": [
+                "A. '@aaron_hakala'.",
+                "B. '@aaron_hakala' and 'CATERS'.",
+                "C. '@aaron_hakala', 'CATERS', and a timestamp.",
+                "D. No text elements are visible in the scene."
+            ],
+            "answer": "B"
+        },
+        "jmE9y0vv2aM_92": {
+            "id": "jmE9y0vv2aM_92",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "Is the exercise ball moving in the scene?",
+            "options": [
+                "A. Yes, the exercise ball is moving to the left of the screen.",
+                "B. Yes, the exercise ball is moving to the right of the screen.",
+                "C. No, the exercise ball is not moving.",
+                "D. Yes, the exercise ball is moving back and forth in the scene."
+            ],
+            "answer": "C"
+        },
+        "jmE9y0vv2aM_93": {
+            "id": "jmE9y0vv2aM_93",
+            "scene": 8,
+            "dimension": "Camera Direction",
+            "question": "Is the camera moving in the scene?",
+            "options": [
+                "A. Yes, the camera will zoom in.",
+                "B. Yes, the camera will pan to the right.",
+                "C. No, the camera does not move.",
+                "D. Yes, the camera will tilt upward."
+            ],
+            "answer": "C"
+        },
+        "jmE9y0vv2aM_94": {
+            "id": "jmE9y0vv2aM_94",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What did this person do after completing the first set of movements indoors for the first time?",
+            "options": [
+                "A. Stand upright and step onto the mat.",
+                "B. Lie on the exercise ball and stretch out both arms.",
+                "C. Jump off the exercise ball and do a roll.",
+                "D. Roll the exercise ball across the lawn and follow it."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_95": {
+            "id": "jmE9y0vv2aM_95",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is in the first outdoor scene?",
+            "options": [
+                "A. Light yellow house.",
+                "B. Blue lake.",
+                "C. Garden full of flowers.",
+                "D. Children's playground."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_96": {
+            "id": "jmE9y0vv2aM_96",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "Where does the scene initially take place?",
+            "options": [
+                "A. It first occurs in an indoor setting.",
+                "B. It first occurs in an outdoor setting.",
+                "C. It occurs at the transition from indoor to outdoor.",
+                "D. In a completely black screen."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_97": {
+            "id": "jmE9y0vv2aM_97",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the purpose of the fitness ball in the video?",
+            "options": [
+                "A. Used for performing acrobatic moves.",
+                "B. Only serves as a decorative item.",
+                "C. Used for people to rest on.",
+                "D. Reflects time changes through its brightness."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_98": {
+            "id": "jmE9y0vv2aM_98",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What changes occur in the video at the end?",
+            "options": [
+                "A. The screen becomes darker.",
+                "B. The screen significantly brightens.",
+                "C. The screen remains unchanged.",
+                "D. The screen turns completely black."
+            ],
+            "answer": "D"
+        },
+        "jmE9y0vv2aM_99": {
+            "id": "jmE9y0vv2aM_99",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "How is the first scene transition made?",
+            "options": [
+                "A. Transition from indoor acrobatic moves to the lawn.",
+                "B. Transition from indoor technical demonstration to the playground.",
+                "C. Transition from the living room to the garden.",
+                "D. Transition from a cooking scene to the square."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_100": {
+            "id": "jmE9y0vv2aM_100",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "How does the first outdoor scene transition to the indoor setting?",
+            "options": [
+                "A. Transition back indoors through the gradual darkening of the screen.",
+                "B. Transition back indoors by zooming in on the window.",
+                "C. Transition back indoors by depicting someone opening a door.",
+                "D. Transition back indoors by fading into a fireplace scene."
+            ],
+            "answer": "A"
+        },
+        "jmE9y0vv2aM_101": {
+            "id": "jmE9y0vv2aM_101",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What is the purpose of the dark image at the end of the scene?",
+            "options": [
+                "A. It indicates the end of the scene.",
+                "B. It shows that the scene was shot at night.",
+                "C. It is to highlight a hidden object.",
+                "D. It is caused by a sudden power outage."
+            ],
+            "answer": "A"
+        }
+    }
+}

@@ -1,0 +1,1480 @@
+{
+    "scene_hint": {
+        "0": "背景中显示文本。",
+        "1": "猫脸的制作过程。",
+        "2": "猪脸的制作过程。",
+        "3": "狗头的制作过程。",
+        "4": "图形和网址出现，视频结束。"
+    },
+    "qa": {
+        "BiJtPU9uP0c_0": {
+            "id": "BiJtPU9uP0c_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频中描绘的主要场景是什么？",
+            "options": [
+                "A. 一个浅棕色纹理表面，可能是一块纸板或纸张。",
+                "B. 一个夜间明亮的城市景观。",
+                "C. 一个带有明显纹理的木板的详细特写。",
+                "D. 一幅色彩鲜艳、笔触大胆的抽象画。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_1": {
+            "id": "BiJtPU9uP0c_1",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "哪些特征形成了表面的纹理外观？",
+            "options": [
+                "A. 细微的水平线和轻微的褶皱",
+                "B. 突出的垂直线条和深深的褶皱",
+                "C. 表面光滑，没有细节",
+                "D. 鲜艳的颜色和反光斑块"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_2": {
+            "id": "BiJtPU9uP0c_2",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "场景中有任何文字可见吗？",
+            "options": [
+                "A. 是的，有文字可见。",
+                "B. 不，没有文字可见。",
+                "C. 有淡淡的文字可见。",
+                "D. 文字模糊不清，无法阅读。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_3": {
+            "id": "BiJtPU9uP0c_3",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "视频中的相机视角是什么？",
+            "options": [
+                "A. 相机视角是从侧面倾斜的。",
+                "B. 相机视角是直接从上方拍摄，。",
+                "C. 相机从下方拍摄，向上看。",
+                "D. 相机角度是对角的，从斜角捕捉表面。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_4": {
+            "id": "BiJtPU9uP0c_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "均匀的光线如何影响表面的外观？",
+            "options": [
+                "A. 均匀的光线会产生戏剧性的阴影，突出某些区域。",
+                "B. 均匀的光线不会产生明显的阴影，确保表面呈现均匀的视图。",
+                "C. 均匀的光线会使表面某些区域看起来更暗。",
+                "D. 均匀的光线会引起反射和眩光，使细节难以看清。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_5": {
+            "id": "BiJtPU9uP0c_5",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "彩色图案相对于 'kids craft' 文本位于哪里？",
+            "options": [
+                "A. 位于文本左上角。",
+                "B. 位于文本右下角。",
+                "C. 位于文本的正上方。",
+                "D. 位于文本中心。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_6": {
+            "id": "BiJtPU9uP0c_6",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "场景传达了什么主题特点？",
+            "options": [
+                "A. 主题通过鲜艳的字体颜色和与之相配的标志得以突出。",
+                "B. 主题完全专注于极简主义，没有任何鲜艳色彩的元素。",
+                "C. 主题以暗黑和阴郁的美学为主，色调偏沉。",
+                "D. 主题展示了工业设计风格，配以金属质感和锐利的几何图案。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_7": {
+            "id": "BiJtPU9uP0c_7",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "现场是否有人类可见?",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 也许",
+                "D. 不清楚"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_8": {
+            "id": "BiJtPU9uP0c_8",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "场景中右下角的图案是什么？",
+            "options": [
+                "A. 是一个带有不同色彩的圆形设计。",
+                "B. 是一个带有黑白条纹的方形设计。",
+                "C. 是一个带有蓝色和绿色圆点的三角形设计。",
+                "D. 是一个带有彩虹色闪光图案的星形设计。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_9": {
+            "id": "BiJtPU9uP0c_9",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "“kids”这个词的字体是否具有多种颜色？",
+            "options": [
+                "A. 是的，“kids”这个词的字体具有多种颜色。",
+                "B. 不，“kids”这个词的字体是单一颜色。",
+                "C. 不，“kids”这个词的字体只有黑色。",
+                "D. 是的，但“kids”这个词是一个完整的渐变色。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_10": {
+            "id": "BiJtPU9uP0c_10",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "哪种设计技巧被用来使单词 'craft' 看起来充满活力？",
+            "options": [
+                "A. 单词 'craft' 使用单一纯色来保持简洁。",
+                "B. 单词 'craft' 使用一系列鲜艳显眼的颜色。",
+                "C. 单词 'craft' 用粗体轮廓突出以增强其活力。",
+                "D. 单词 'craft' 以单色渐变呈现，以赋予柔和而充满活力的外观。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_11": {
+            "id": "BiJtPU9uP0c_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "“ATR”文本标志在画面的什么位置？",
+            "options": [
+                "A. 在画面的左下角。",
+                "B. 在画面的右下角。",
+                "C. 在画面的右上角。",
+                "D. 在画面中居中显示。"
+            ],
+            "answer": "D"
+        },
+        "BiJtPU9uP0c_12": {
+            "id": "BiJtPU9uP0c_12",
+            "scene": 0,
+            "dimension": "Speed",
+            "question": "场景中是否有速度或运动的变化？",
+            "options": [
+                "A. 有，视频在快慢运动之间交替。",
+                "B. 没有，视频保持稳定的视角。",
+                "C. 有，视频包含平滑的平移和缩放效果。",
+                "D. 有，视频通过快速剪切和转场来变化。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_13": {
+            "id": "BiJtPU9uP0c_13",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "场景中背景纹理是否有任何明显变化？",
+            "options": [
+                "A. 是的，背景纹理变为更亮的颜色。",
+                "B. 不，背景纹理保持浅棕色且一致。",
+                "C. 是的，背景纹理上偶尔出现图案。",
+                "D. 不，背景纹理在米色和白色之间交替。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_14": {
+            "id": "BiJtPU9uP0c_14",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "在场景中灯光有任何明显的变化吗？",
+            "options": [
+                "A. 是的，视频过程中灯光变得更暗。",
+                "B. 不，灯光没有明显变化。",
+                "C. 是的，灯光逐渐变得更亮。",
+                "D. 是的，灯光间歇性闪烁。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_15": {
+            "id": "BiJtPU9uP0c_15",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "什么视觉元素创作了一个欢乐的主题？",
+            "options": [
+                "A. 背景中的一致光线和细微褶皱。",
+                "B. 不同鲜艳颜色的字母组成的文本。",
+                "C. 带有纹理的米色表面和俯视摄像角度。",
+                "D. 粗体字体以及缺乏额外的设计元素。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_16": {
+            "id": "BiJtPU9uP0c_16",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中“kids craft”文本的位置在哪里？",
+            "options": [
+                "A. 在画面中心。",
+                "B. 在右下角。",
+                "C. 在左上角。",
+                "D. 在右上角。"
+            ],
+            "answer": "C"
+        },
+        "BiJtPU9uP0c_17": {
+            "id": "BiJtPU9uP0c_17",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这一场景开始时的整体设置是什么？",
+            "options": [
+                "A. 是一个手工指导的一部分，背景是浅棕色的，有一双手和桃粉方形纸张等。",
+                "B. 是一个在户外拍摄的自然教程，背景是绿色的，周围有各种植物，中心有文字。",
+                "C. 是一个烹饪演示，有一个木制柜台，中间有一张食谱卡片，周围放着各种用具。",
+                "D. 是一个家居装饰展示，背景有图案墙纸，中间有一个装饰花瓶，左上角有一个标志。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_18": {
+            "id": "BiJtPU9uP0c_18",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "橙色方形纸片上写了什么？",
+            "options": [
+                "A. ‘take a square sheet (14 X 14 cms)’。",
+                "B. ‘fold the square sheet diagonally’。",
+                "C. ‘cut the sheet into smaller pieces’。",
+                "D. ‘draw a design on the square sheet’。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_19": {
+            "id": "BiJtPU9uP0c_19",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "在这个场景开始时，有多少个显著的视觉文本元素？",
+            "options": [
+                "A. 两个",
+                "B. 三个",
+                "C. 四个",
+                "D. 五个"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_20": {
+            "id": "BiJtPU9uP0c_20",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景开始时，显著的视觉文本元素有哪些？",
+            "options": [
+                "A. 左上角的'kids craft'文本和桃粉方形纸上的文本。",
+                "B. 右上角的'kids craft'文本和桃粉色方形纸上的文本。",
+                "C. 左上角的'craft corner'文本和绿色方形纸上的文本。",
+                "D. 左下角的'creative kids'文本和黄色方形纸上的文本。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_21": {
+            "id": "BiJtPU9uP0c_21",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "彩色图形是否位于场景框架的中心？",
+            "options": [
+                "A. 是的，它位于框架的中心。",
+                "B. 不，它位于框架的左上角。",
+                "C. 不，它位于框架的右下角。",
+                "D. 不，它位于框架的左下角。"
+            ],
+            "answer": "C"
+        },
+        "BiJtPU9uP0c_22": {
+            "id": "BiJtPU9uP0c_22",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "桃粉色方块上传达的指示步骤是什么？",
+            "options": [
+                "A. 取一张边长14厘米的正方形纸。",
+                "B. 将一张长方形纸对折。",
+                "C. 从一张方形纸上剪出一个圆形。",
+                "D. 是在一张纸上画一个图案。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_23": {
+            "id": "BiJtPU9uP0c_23",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "从上一场景到这一场景“kids craft”文字的定位发生了怎样的变化？",
+            "options": [
+                "A. “kids craft”文字从中心移到了右下角。",
+                "B. “kids craft”文字从中心移到了左上角。",
+                "C. “kids craft”文字从左下角移到了中心。",
+                "D. “kids craft”文字从右上角移到了中心。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_24": {
+            "id": "BiJtPU9uP0c_24",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "从上一场景到这一场景“kids craft”文本的大小发生了怎样的变化？",
+            "options": [
+                "A. “kids craft”文本现在看起来稍微大了一些，更加显眼。",
+                "B. “kids craft”文本现在看起来稍微小了一些，更加低调。",
+                "C. “kids craft”文本现在的大小和样式与之前完全相同。",
+                "D. “kids craft”文本现在显示为加粗且大写的样式。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_25": {
+            "id": "BiJtPU9uP0c_25",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "最初桃粉色纸张放在哪里?",
+            "options": [
+                "A. 纸张平放在浅棕色表面上。",
+                "B. 纸张由双手悬空拿着。",
+                "C. 纸张放在明亮的红色桌子上。",
+                "D. 纸张贴在一个垂直的板上。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_26": {
+            "id": "BiJtPU9uP0c_26",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "右手在折纸上执行什么动作？",
+            "options": [
+                "A. 右手施加轻微的压力以确保精确对齐。",
+                "B. 右手在中央折痕附近进行仔细调整。",
+                "C. 右手轻松地握住一个边缘。",
+                "D. 右手稍微将纸张抬离表面。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_27": {
+            "id": "BiJtPU9uP0c_27",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "左手在折纸上执行什么动作？",
+            "options": [
+                "A. 左手放在折纸角周围固定纸张。",
+                "B. 左手撕掉折纸的一部分以调整其形状。",
+                "C. 左手将纸折成一个全新的设计。",
+                "D. 左手加上胶水以固定折叠处。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_28": {
+            "id": "BiJtPU9uP0c_28",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "折纸的颜色是什么？",
+            "options": [
+                "A. 粉橙色。",
+                "B. 天蓝色。",
+                "C. 黄绿色。",
+                "D. 深紫色。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_29": {
+            "id": "BiJtPU9uP0c_29",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "折纸的颜色鲜艳度如何？",
+            "options": [
+                "A. 这张折纸的颜色很暗淡。",
+                "B. 这张折纸的颜色很鲜艳。",
+                "C. 这张折纸的颜色已褪色。",
+                "D. 这张折纸的颜色很柔和。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_30": {
+            "id": "BiJtPU9uP0c_30",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "折纸的折痕是如何描述的？",
+            "options": [
+                "A. 折纸展示了尖锐的折痕。",
+                "B. 折纸呈现出柔和且圆滑的折痕。",
+                "C. 折纸具有不平整且皱巴巴的折痕。",
+                "D. 折纸没有任何明显的折痕。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_31": {
+            "id": "BiJtPU9uP0c_31",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在折纸过程中，折纸纸张会发生什么变化？",
+            "options": [
+                "A. 折纸纸张在整个过程中保持平坦和对称。",
+                "B. 折纸纸张会演变成具有结构的三维形状。",
+                "C. 折纸纸张被撕成更小的碎片并重新拼装。",
+                "D. 折纸纸张被用鲜艳的记号笔上色以增强其设计。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_32": {
+            "id": "BiJtPU9uP0c_32",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "处理折纸需要用几只手？",
+            "options": [
+                "A. 一只手",
+                "B. 两只手",
+                "C. 三只手",
+                "D. 四只手"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_33": {
+            "id": "BiJtPU9uP0c_33",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "有哪些视觉元素框构了这个场景结尾？",
+            "options": [
+                "A. 画面中多彩的文字和图案。",
+                "B. 没有其他元素的纯白背景。",
+                "C. 屏幕底部滚动的说明横幅。",
+                "D. 有聚光灯效果的深色渐变背景。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_34": {
+            "id": "BiJtPU9uP0c_34",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素确保连贯性？",
+            "options": [
+                "A. 左上角五彩斑斓文字和充满色彩的圆形图案。",
+                "B. 质感浅棕色表面和折纸锋利的折痕。",
+                "C. 折纸作品的对称设计和向上的三角形折瓣。",
+                "D. 右手的精心调整和左手施加的微妙压力。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_35": {
+            "id": "BiJtPU9uP0c_35",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "在制作过程中，左手的位置在哪里？",
+            "options": [
+                "A. 左手位于画面左下角附近。",
+                "B. 左手位于画面右下角附近。",
+                "C. 左手位于画面中央。",
+                "D. 左手位于画面右边缘。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_36": {
+            "id": "BiJtPU9uP0c_36",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "在装饰猫脸折纸过程中，左手在做什么？",
+            "options": [
+                "A. 左手施加轻微的压力以稳定其位置。",
+                "B. 左手在狐狸形折纸上画眼睛图案。",
+                "C. 左手将折纸的角折成尖耳朵。",
+                "D. 左手悬在纸上方，准备添加更多细节。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_37": {
+            "id": "BiJtPU9uP0c_37",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "在装饰猫脸形状的折纸过程中，右手在做什么？",
+            "options": [
+                "A. 右手稳稳地固定住狐狸头。",
+                "B. 右手拿着一支记号笔绘画图案。",
+                "C. 右手将纸折成三角形状。",
+                "D. 右手在带纹理的米色背景上绘制彩色图案。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_38": {
+            "id": "BiJtPU9uP0c_38",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "场景中记号笔的可见特征是什么？",
+            "options": [
+                "A. 记号笔有一个白色笔身和一个黑色笔尖。",
+                "B. 记号笔完全是白色的，没有可见的标记。",
+                "C. 记号笔有一个黑色的笔身和一个白色的笔尖。",
+                "D. 记号笔装饰有多彩图案，没有黑色笔尖。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_39": {
+            "id": "BiJtPU9uP0c_39",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "猫脸折纸上能看到多少只眼睛？",
+            "options": [
+                "A. 可见一只眼睛。",
+                "B. 可见两只眼睛。",
+                "C. 可见三只眼睛。",
+                "D. 看不见任何眼睛。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_40": {
+            "id": "BiJtPU9uP0c_40",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "记号笔描绘完成猫脸形状折纸右眼的状态如何？",
+            "options": [
+                "A. 右眼部分勾勒。",
+                "B. 右眼轮廓完整。",
+                "C. 右眼缺失。",
+                "D. 右眼还在绘制中。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_41": {
+            "id": "BiJtPU9uP0c_41",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "橙色折纸纸张最终的形状是什么？",
+            "options": [
+                "A. 一个猫脸。",
+                "B. 一张狗脸。",
+                "C. 一只兔耳。",
+                "D. 一只鸟翅。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_42": {
+            "id": "BiJtPU9uP0c_42",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "折纸上被添加了哪些细节？",
+            "options": [
+                "A. 折纸上被记号笔描绘了黑色卡眼睛、胡须、鼻子和嘴巴。",
+                "B. 折纸被描绘成一只猫，使用黄色颜料作为毛皮，并用蓝色墨水描绘眼睛。",
+                "C. 折纸上用彩色记号笔绘制了条纹和斑点的图案。",
+                "D. 折纸被变成了一张狗脸，带有耷拉的耳朵和红色的舌头画在鼻子下面。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_43": {
+            "id": "BiJtPU9uP0c_43",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "什么标志着折纸猫脸项目的完成？",
+            "options": [
+                "A. 折纸下方写着“done!!!”的字样。",
+                "B. 折纸被折叠成一个新的形状。",
+                "C. 摄像机角度切换到场景的广角镜头。",
+                "D. 右上角文本“project complete”。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_44": {
+            "id": "BiJtPU9uP0c_44",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "折纸猫脸有任何动作的迹象吗？",
+            "options": [
+                "A. 是的，折纸猫脸是活动的。",
+                "B. 不，折纸猫脸保持静止。",
+                "C. 是的，猫脸稍微旋转。",
+                "D. 不，但是周围的文字稍微移动。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_45": {
+            "id": "BiJtPU9uP0c_45",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中文本“done!!!”被替换成了什么？",
+            "options": [
+                "A. “Cheeky Cat”",
+                "B. “Finished Cat”",
+                "C. “Craft Complete”",
+                "D. “Origami Cat”"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_46": {
+            "id": "BiJtPU9uP0c_46",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中最后猫脸上方出现了什么新的文字标签？",
+            "options": [
+                "A. 'origami animal face'。",
+                "B. 'creative cat face'",
+                "C. 'paper origami art'",
+                "D. 'crafty cat whiskers'"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_47": {
+            "id": "BiJtPU9uP0c_47",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景中主要背景是什么？",
+            "options": [
+                "A. 一个粉红色的方形纸张位于浅棕色背景纹理中央。",
+                "B. 一个色彩斑斓的教室，孩子们在桌子上进行各种手工制作项目。",
+                "C. 一个充满活力的户外场景，在野餐桌上展示折纸。",
+                "D. 一个科学实验设置，说明书写在白板上。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_48": {
+            "id": "BiJtPU9uP0c_48",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "在制作过程中，手首先在粉色正方形纸上做了什么？",
+            "options": [
+                "A. 手准确而有目的地将粉色正方形纸折叠成三角形状。",
+                "B. 手把粉色正方形纸撕成小块，以制作拼贴画。",
+                "C. 手在粉色正方形纸上绘制复杂的设计和图案。",
+                "D. 手用剪刀将粉色正方形纸剪成较小的三角形部分。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_49": {
+            "id": "BiJtPU9uP0c_49",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景结束时，粉红色方形纸上标记的文字是什么？",
+            "options": [
+                "A. “origami animal face”。",
+                "B. “kids craft start here”。",
+                "C. “take a square sheet (14 X 14cms)”。",
+                "D. “create your own cat face”。"
+            ],
+            "answer": "C"
+        },
+        "BiJtPU9uP0c_50": {
+            "id": "BiJtPU9uP0c_50",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景的背景颜色是深色的吗？",
+            "options": [
+                "A. 不是",
+                "B. 是",
+                "C. 有时",
+                "D. 不清楚"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_51": {
+            "id": "BiJtPU9uP0c_51",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "如何用双手在三角形上创建一个锋利的折痕？",
+            "options": [
+                "A. 左手稳定纸张，右手则引导边缘，创建锋利的折痕。",
+                "B. 双手同时沿着边缘折叠纸张，而不进行稳定。",
+                "C. 右手将纸张压平，而左手折叠并压出边缘的折痕。",
+                "D. 左手抬起纸张，而右手将其压平，在创建一个折痕。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_52": {
+            "id": "BiJtPU9uP0c_52",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "手如何将纸折叠形成三角形？",
+            "options": [
+                "A. 手水平折叠纸张形成三角形。",
+                "B. 手对角线折叠纸张形成三角形。",
+                "C. 手垂直折叠纸张形成三角形。",
+                "D. 手将纸折成矩形，然后形成三角形。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_53": {
+            "id": "BiJtPU9uP0c_53",
+            "scene": 2,
+            "dimension": "Speed",
+            "question": "场景中折叠动作的速度怎样？",
+            "options": [
+                "A. 折叠动作精确且有条不紊。",
+                "B. 折叠动作匆忙且草率。",
+                "C. 折叠动作快速且不规律。",
+                "D. 折叠动作犹疑且不确定。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_54": {
+            "id": "BiJtPU9uP0c_54",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "在折纸过程中，纸张的形状是如何变化的？",
+            "options": [
+                "A. 纸张从一个平坦的正方形变成三角形，展开为菱形，并通过各种中间形态过渡。",
+                "B. 纸张从一个矩形纸片变为圆形，然后转变为星形结构。",
+                "C. 纸张从一个平坦的正方形折叠成信封，然后直接变为最终的猫脸形状。",
+                "D. 纸张保持平坦的正方形，仅仅增加折痕而没有显著的形状变化。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_55": {
+            "id": "BiJtPU9uP0c_55",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "场景中，折纸结束后右手在做什么？",
+            "options": [
+                "A. 右手正在折叠折纸。",
+                "B. 右手正在拿着马克笔装饰折折纸。",
+                "C. 右手正在用剪刀剪折纸。",
+                "D. 右手正在握紧折纸，以固定它。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_56": {
+            "id": "BiJtPU9uP0c_56",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "场景中，折纸结束后左手在做什么？",
+            "options": [
+                "A. 左手正在将纸折成心形。",
+                "B. 左手正在按住折纸，使其保持稳定。",
+                "C. 左手正在用记号笔在折纸上画图案。",
+                "D. 左手正在调整摄像机的角度。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_57": {
+            "id": "BiJtPU9uP0c_57",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "场景中的折纸是什么样子的？",
+            "options": [
+                "A. 是淡粉色的。",
+                "B. 是鲜红色的。",
+                "C. 是淡蓝色的。",
+                "D. 是深紫色的。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_58": {
+            "id": "BiJtPU9uP0c_58",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "粉色折纸纸张最终的形状是什么？",
+            "options": [
+                "A. 一只狐狸。",
+                "B. 一个星星折纸。",
+                "C. 一张猪脸。",
+                "D. 一条小鱼。"
+            ],
+            "answer": "C"
+        },
+        "BiJtPU9uP0c_59": {
+            "id": "BiJtPU9uP0c_59",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "场景中的灯光是否刺眼而刺目？",
+            "options": [
+                "A. 是的，灯光刺眼而刺目。",
+                "B. 不，灯光昏暗且不均匀。",
+                "C. 不，灯光柔和且均匀扩散。",
+                "D. 是的，灯光产生了强烈的阴影。"
+            ],
+            "answer": "C"
+        },
+        "BiJtPU9uP0c_60": {
+            "id": "BiJtPU9uP0c_60",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "在折纸折叠完成之后，右手的动作有什么改变？",
+            "options": [
+                "A. 右手从折叠切换到装饰折纸。",
+                "B. 右手把记号笔放到一边以重新调整折纸位置。",
+                "C. 右手开始将折纸折成一个新的形状。",
+                "D. 右手用记号笔在牛皮纸背景上画线。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_61": {
+            "id": "BiJtPU9uP0c_61",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "哪只手为折叠完成的纸张添加装饰？",
+            "options": [
+                "A. 使用左手添加装饰。",
+                "B. 两只手都用于等量添加装饰。",
+                "C. 使用右手添加装饰。",
+                "D. 为折纸装饰时不使用任何手。"
+            ],
+            "answer": "C"
+        },
+        "BiJtPU9uP0c_62": {
+            "id": "BiJtPU9uP0c_62",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "折纸猪鼻孔状的标记位于折纸的什么位置？",
+            "options": [
+                "A. 位于折纸的底部附近。",
+                "B. 位于折纸的中下部。",
+                "C. 位于折纸的上角附近。",
+                "D. 位于折纸的两侧。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_63": {
+            "id": "BiJtPU9uP0c_63",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "折纸小猪脸制作的背景是什么？",
+            "options": [
+                "A. 一个带有文字和图形标志的纹理浅棕色手工表面。",
+                "B. 一个光滑的白色桌面，没有其他品牌元素。",
+                "C. 一个带有各种动物贴纸和闪光的鲜艳蓝色手工垫。",
+                "D. 一个深棕色饰面的木制桌子和一个聚光灯。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_64": {
+            "id": "BiJtPU9uP0c_64",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "文字 'origami animal face' 是否以彩色字体显示？",
+            "options": [
+                "A. 是的，它以鲜艳的彩虹字体显示。",
+                "B. 是的，它以醒目的红色字体显示。",
+                "C. 不，它以干净的手写风格黑色字体显示。",
+                "D. 是的，它以明亮的黄色字体显示。"
+            ],
+            "answer": "C"
+        },
+        "BiJtPU9uP0c_65": {
+            "id": "BiJtPU9uP0c_65",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "右手完成什么具体动作将折纸变成猪脸？",
+            "options": [
+                "A. 右手将上角向内折叠以形成类似猪的耳朵。",
+                "B. 右手使用记号笔在折纸上画出黑色圆眼和鼻孔。",
+                "C. 右手固定住心形，同时左手画出面部特征。",
+                "D. 右手将完成的猪脸放置在有纹理的手工制作表面上。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_66": {
+            "id": "BiJtPU9uP0c_66",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "“Pinky Pig”文字标题是什么颜色的？",
+            "options": [
+                "A. 粉红色",
+                "B. 橙色",
+                "C. 浅黄色",
+                "D. 蓝色"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_67": {
+            "id": "BiJtPU9uP0c_67",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "视频中完成的手工艺由哪些文字元素表明？",
+            "options": [
+                "A. 彩虹色的文字“kids craft”和多彩的圆形标志",
+                "B. 文字‘origami animal face’和‘Pinky Pig’",
+                "C. 米色的制作表面和黑色记号笔细节",
+                "D. 中性色背景和一致的灯光"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_68": {
+            "id": "BiJtPU9uP0c_68",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "在手工制作的开始阶段，方形纸张被放在什么地方？",
+            "options": [
+                "A. 它平放在有纹理的浅棕色背景中部附近。",
+                "B. 它竖立在带有多彩“kids craft”字样的地方。",
+                "C. 它垂直放在一个粉红色折纸猪脸的顶部。",
+                "D. 它被放在一张光滑的白色桌子上。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_69": {
+            "id": "BiJtPU9uP0c_69",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景中介绍语气是什么样的？",
+            "options": [
+                "A. 语气是欢快且具有指导性的。",
+                "B. 语气是粗狂且自信的。",
+                "C. 语气是严肃且技术性的。",
+                "D. 场景未出现任何语气有关信息。"
+            ],
+            "answer": "D"
+        },
+        "BiJtPU9uP0c_70": {
+            "id": "BiJtPU9uP0c_70",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "在制作过程中使用的黄色正方形纸张的尺寸是多少？",
+            "options": [
+                "A. 这个正方形纸张的尺寸是14 x 14厘米。",
+                "B. 这个正方形纸张的尺寸是12 x 12厘米。",
+                "C. 这个正方形纸张的尺寸是15 x 15厘米。",
+                "D. 这个正方形纸张的尺寸是10 x 10厘米。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_71": {
+            "id": "BiJtPU9uP0c_71",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "用于制作过程中的这张方形纸是什么颜色？",
+            "options": [
+                "A. 这张方形纸是黄色的。",
+                "B. 这张方形纸是粉色的。",
+                "C. 这张方形纸是绿色的。",
+                "D. 这张方形纸是蓝色的。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_72": {
+            "id": "BiJtPU9uP0c_72",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "在黄色纸张折叠过程中涉及到多少只手？",
+            "options": [
+                "A. 折叠过程中涉及到一只手。",
+                "B. 折叠过程中涉及到两只手。",
+                "C. 折叠过程中涉及到三只手。",
+                "D. 折叠过程中涉及到四只手。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_73": {
+            "id": "BiJtPU9uP0c_73",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "如何将正方形纸张折成三角形状？",
+            "options": [
+                "A. 将正方形纸的一角沿对角线折向其对角。",
+                "B. 将纸卷成锥形然后压平。",
+                "C. 用剪刀将正方形纸裁剪成三角形。",
+                "D. 将正方形纸的两条相对边向中心折叠以形成三角形。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_74": {
+            "id": "BiJtPU9uP0c_74",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景开始时黄色纸张中出现了什么指示文本？",
+            "options": [
+                "A. 'take a square sheet (14 X 14cms)' 。",
+                "B. 'fold the paper in half diagonally'",
+                "C. 'start with a triangular shape'。",
+                "D. 'make a neat symmetrical point'。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_75": {
+            "id": "BiJtPU9uP0c_75",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "黄色折纸最终折叠的形状是什么？",
+            "options": [
+                "A. 一个狗头。",
+                "B. 一个三角形",
+                "C. 一个狐狸脸",
+                "D. 一个兔头"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_76": {
+            "id": "BiJtPU9uP0c_76",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "折纸狗头的最终展示在哪里进行？",
+            "options": [
+                "A. 展示在有纹理的浅棕色背景上进行。",
+                "B. 展示在光滑的白色背景上进行。",
+                "C. 展示在色彩斑斓的图案背景上进行。",
+                "D. 展示在木质表面上进行。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_77": {
+            "id": "BiJtPU9uP0c_77",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "在黄色折纸折叠完成后右手在做什么？",
+            "options": [
+                "A. 右手使用记号笔在折纸上添加细节。",
+                "B. 右手将纸折叠成三角形。",
+                "C. 右手固定纸张，同时左手添加细节。",
+                "D. 右手将制作工具移出视线。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_78": {
+            "id": "BiJtPU9uP0c_78",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "在黄色折纸折叠完成装饰过程中，左手负责什么？",
+            "options": [
+                "A. 左手将纸张折叠成复杂的形状。",
+                "B. 左手将折纸固定以便右手操作。",
+                "C. 左手在折纸上绘制黑色细节。",
+                "D. 左手在整个过程中完全闲置。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_79": {
+            "id": "BiJtPU9uP0c_79",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "在折纸狗的头部画上多少个主要特征可以完成脸部？（左右眼算作一个特征）",
+            "options": [
+                "A. 画上两个主要特征。",
+                "B. 画上三个主要特征。",
+                "C. 画上四个主要特征。",
+                "D. 画上五个主要特征。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_80": {
+            "id": "BiJtPU9uP0c_80",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "折纸狗的头部画上哪些主要特征来完成五官？",
+            "options": [
+                "A. 黑色眼睛和黑色鼻子",
+                "B. 蓝色眼睛和方形鼻子",
+                "C. 绿色眼睛和圆形鼻子",
+                "D. 粉色眼睛和长鼻子"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_81": {
+            "id": "BiJtPU9uP0c_81",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "完成的折纸狗头是用什么相机视角显示的？",
+            "options": [
+                "A. 使用侧面角度视角来显示完成的折纸狗头。",
+                "B. 使用放大的特写视角来显示完成的折纸狗头。",
+                "C. 使用稳定的俯视角度视角来显示完成的折纸狗头。",
+                "D. 使用旋转360度视角来显示完成的折纸狗头。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_82": {
+            "id": "BiJtPU9uP0c_82",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "视角转换过程的速度如何？",
+            "options": [
+                "A. 转换过程是稳定的。",
+                "B. 转换过程是快速的。",
+                "C. 转换过程是突然的。",
+                "D. 转换过程是缓慢的。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_83": {
+            "id": "BiJtPU9uP0c_83",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "在折纸过程中，黄色折纸纸张会发生哪些变化？",
+            "options": [
+                "A. 从一个正方形翻折演变成细致的狗头造型，上面画有眼睛、鼻子等特征。",
+                "B. 从一张正方形纸变成复杂的猫头形状，上面画有胡须和嘴巴的特征。",
+                "C. 从一个圆形变成一个几何构造，类似于一只鸟，上面画有翅膀和喙。",
+                "D. 从三角形形态变成一个带有详细花瓣和叶子的3D花朵模型。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_84": {
+            "id": "BiJtPU9uP0c_84",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景最终展示狗头的折纸顶部可以看到什么标签？",
+            "options": [
+                "A. “origami animal face”。",
+                "B. “crafting masterpiece”。",
+                "C. “cute paper creatures”。",
+                "D. “creative foldings”。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_85": {
+            "id": "BiJtPU9uP0c_85",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景最终展示狗头底部可以看到什么标签？",
+            "options": [
+                "A. 'Naughty Dog'",
+                "B. 'Happy Dog'",
+                "C. 'Origami Dog'",
+                "D. 'Crafted Dog'"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_86": {
+            "id": "BiJtPU9uP0c_86",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "彩色图形相对于背景的位置在哪里？",
+            "options": [
+                "A. 位于背景的左上角。",
+                "B. 位于背景的右下角。",
+                "C. 位于背景的中心位置。",
+                "D. 位于背景的外部。"
+            ],
+            "answer": "C"
+        },
+        "BiJtPU9uP0c_87": {
+            "id": "BiJtPU9uP0c_87",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景的设计风格是什么？",
+            "options": [
+                "A. 风格简洁而精致，能够很好地衬托品牌元素。",
+                "B. 风格混乱且杂乱无章，令观众感到不知所措。",
+                "C. 风格复古且怀旧，包含复古元素。",
+                "D. 风格具有未来感和高科技感，配有数字动画。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_88": {
+            "id": "BiJtPU9uP0c_88",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景的环境是什么？",
+            "options": [
+                "A. 带有横向细小纹理的浅棕色背景。",
+                "B. 带有金属光泽的光滑白色背景。",
+                "C. 带有光亮效果的深黑色背景。",
+                "D. 带有几何图案的鲜艳红色背景。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_89": {
+            "id": "BiJtPU9uP0c_89",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "场景中展示的图形有哪些视觉特征？",
+            "options": [
+                "A. 圆形，有鲜艳的颜色显示。",
+                "B. 矩形，有昏暗的颜色显示。",
+                "C. 方形，有紫色竖条纹显示。",
+                "D. 星形，有深色纹理显示。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_90": {
+            "id": "BiJtPU9uP0c_90",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "场景中展示了多少个网址？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_91": {
+            "id": "BiJtPU9uP0c_91",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "彩色图形最显眼的颜色是什么？",
+            "options": [
+                "A. 黄色、蓝色和黑色。",
+                "B. 黄色、绿色和蓝色。",
+                "C. 红色、灰色和绿色。",
+                "D. 棕色、灰色和黑色。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_92": {
+            "id": "BiJtPU9uP0c_92",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "在这一场景中，标志下方的文字发生了什么变化？",
+            "options": [
+                "A. 标志下方的文字内容发生了变化，但字体和位置保持不变。",
+                "B. 标志下方的文字颜色从灰色变为黑色，但内容和字体保持不变。",
+                "C. 标志下方文字的字体更改为衬线字体，而内容保持不变。",
+                "D. 标志下方的文字在场景中未发生任何变化。"
+            ],
+            "answer": "D"
+        },
+        "BiJtPU9uP0c_93": {
+            "id": "BiJtPU9uP0c_93",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "在整个场景中，网址是否发生变化？",
+            "options": [
+                "A. 是的，网址颜色发生变化。",
+                "B. 不，网址未发生任何变化。",
+                "C. 是的，网址内容发生变化。",
+                "D. 是的，网址位置发生变化。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_94": {
+            "id": "BiJtPU9uP0c_94",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "整个场景中，彩色图形是否发生变化？",
+            "options": [
+                "A. 不，图形未发生任何变化。",
+                "B. 是的，图形颜色发生变化。",
+                "C. 是的，图形形状发生变化。",
+                "D. 是的，图形位置发生变化。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_95": {
+            "id": "BiJtPU9uP0c_95",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "阅读“take a square sheet (14 X 14 cms)”之后，粉红色正方形纸将用于做什么？",
+            "options": [
+                "A. 粉红色正方形纸在开始手工制作时被折成三角形。",
+                "B. 粉红色正方形纸被剪成更小的正方形以备进一步使用。",
+                "C. 粉红色正方形纸在折叠之前被装饰上图案。",
+                "D. 粉红色正方形纸在制作之前被揉皱以创造纹理。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_96": {
+            "id": "BiJtPU9uP0c_96",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "当黄色纸张折叠完成后，引入了什么物品？",
+            "options": [
+                "A. 引入了一支马克笔。",
+                "B. 引入了一条彩色的丝带。",
+                "C. 引入了一把小剪刀。",
+                "D. 引入了一套折纸说明。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_97": {
+            "id": "BiJtPU9uP0c_97",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "白色记号笔是用来做什么的？",
+            "options": [
+                "A. 它是用来标记折纸部分的。",
+                "B. 它是用来增强网站文字效果的。",
+                "C. 它是用来在折叠完成纸张上画出眼睛和嘴巴等。",
+                "D. 它是用来突出品牌徽标颜色的。"
+            ],
+            "answer": "C"
+        },
+        "BiJtPU9uP0c_98": {
+            "id": "BiJtPU9uP0c_98",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频在展示完成的\"Naughty Dog\"折纸作品后，最终的焦点是什么？",
+            "options": [
+                "A. 多彩的圆形标志和更新网址。",
+                "B. 展示如何折叠'顽皮狗'作品。",
+                "C. 制作多彩圆形标志的过程。",
+                "D. 折纸作品在米色纹理背景上的陈列。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_99": {
+            "id": "BiJtPU9uP0c_99",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频中的创意点是什么？",
+            "options": [
+                "A. 视频展示了一步步的手工制作教程。",
+                "B. 视频突出了一个独特的动画技术。",
+                "C. 视频展示了一个新网站的发布。",
+                "D. 视频演示了烹饪菜谱。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_100": {
+            "id": "BiJtPU9uP0c_100",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频中主要展示的内容是什么？",
+            "options": [
+                "A. 不同的方形纸被折叠成不同动物的脸。",
+                "B. 徽标改变颜色和形状以代表不同的动物。",
+                "C. 一个有趣的折纸狗被换成了一个真实的动物。",
+                "D. URL在整个视频中保持不变。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_101": {
+            "id": "BiJtPU9uP0c_101",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在制作过程中，右手有一个显着特点是什么？",
+            "options": [
+                "A. 右手带有一个简约的手链。",
+                "B. 右手涂有彩色的指甲油。",
+                "C. 右手上有一个星星的纹身。",
+                "D. 右手戴着一枚绿宝石戒指。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_102": {
+            "id": "BiJtPU9uP0c_102",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在制作教程视频中，品牌是如何融入的？",
+            "options": [
+                "A. 在左上角显示多彩的文字，在右下角添加一个彩色图形标志。",
+                "B. 在整个教程过程中在右上角采用黑白极简风格的标志。",
+                "C. 品牌呈现较为低调，仅限于标题画面，视频中无其他标志或文字出现。",
+                "D. 视频通过随机间隔显示的单色文字标志来体现品牌身份。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_103": {
+            "id": "BiJtPU9uP0c_103",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频中“origami animal face”这段文字的目的是什么？",
+            "options": [
+                "A. 这段文字清晰地标注并描述了完成的手工艺品。",
+                "B. 这段文字提供了制作折纸动物脸的步骤说明。",
+                "C. 这段文字作为网站宣传标语使用。",
+                "D. 这段文字是一个没有特定用途的占位符。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_104": {
+            "id": "BiJtPU9uP0c_104",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在视频中，像'Cheeky Cat'或'Naughty Dog'这样的标题有什么作用？",
+            "options": [
+                "A. 强化了折纸教程愉快过程。",
+                "B. 提供了制作折纸动物的说明。",
+                "C. 帮助识别网站的品牌身份。",
+                "D. 用来强调标志的鲜艳颜色。"
+            ],
+            "answer": "B"
+        },
+        "BiJtPU9uP0c_105": {
+            "id": "BiJtPU9uP0c_105",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "粉红色方形的折纸的第一个变化是什么？",
+            "options": [
+                "A. 粉红色的纸被折成了三角形。",
+                "B. 粉红色的纸被折成了狗头形。",
+                "C. 粉红色的纸被折成了花形。",
+                "D. 粉红色的纸被折成了星形。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_106": {
+            "id": "BiJtPU9uP0c_106",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "粉色折纸上添加了哪些细节？",
+            "options": [
+                "A. 眼睛和鼻子。",
+                "B. 眼睛和胡子。",
+                "C. 眼睛和嘴巴。",
+                "D. 眼睛和耳朵。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_107": {
+            "id": "BiJtPU9uP0c_107",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "猫脸折纸是什么颜色的？",
+            "options": [
+                "A. 橙粉色",
+                "B. 黄色",
+                "C. 红色",
+                "D. 绿色"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_108": {
+            "id": "BiJtPU9uP0c_108",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "焦点何时转移到新的手工制作序列的开头？",
+            "options": [
+                "A. 当折叠完成折纸被另一张不同颜色的方形纸张替换后，焦点转移到新的序列开头。",
+                "B. 当‘Naughty Dog’折纸被一个宣传视频替换时，焦点转移到新的序列开头。",
+                "C. 当圆形标志移动到背景中央时，焦点转移到新的序列开头。",
+                "D. 当网址变为‘www.ventunotech.com’时，焦点转移到新的序列开头。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_109": {
+            "id": "BiJtPU9uP0c_109",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "从视频来看，黄色方形纸张第一次被折叠成三角形的方向是怎样的？",
+            "options": [
+                "A. 将正方形右上角向左下方折叠。",
+                "B. 将正方形左上角向右下方折叠。",
+                "C. 将正方形右下角向左上方折叠。",
+                "D. 将正方形左下角向右上方折叠。"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_110": {
+            "id": "BiJtPU9uP0c_110",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "场景开始时，彩色标志旁的“ventuno”文本标志有何特点？",
+            "options": [
+                "A. 黑色粗体文字",
+                "B. 白色斜体文字",
+                "C. 彩色艺术体文字",
+                "D. 棕色粗体文字"
+            ],
+            "answer": "A"
+        },
+        "BiJtPU9uP0c_111": {
+            "id": "BiJtPU9uP0c_111",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "“kids craft”文本有几种不同的颜色组成？",
+            "options": [
+                "A. 四个",
+                "B. 五个",
+                "C. 六个",
+                "D. 七个"
+            ],
+            "answer": "C"
+        },
+        "BiJtPU9uP0c_112": {
+            "id": "BiJtPU9uP0c_112",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频最后显示的网址文本是什么？",
+            "options": [
+                "A. “www.sciani.com”",
+                "B. “www.ventunotech.com”",
+                "C. “www.saueare.com”",
+                "D. “www.vanesure.com”"
+            ],
+            "answer": "B"
+        }
+    }
+}

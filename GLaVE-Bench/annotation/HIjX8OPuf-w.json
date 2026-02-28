@@ -1,0 +1,2553 @@
+{
+    "scene_hint": {
+        "0": "视频开始，一只手在带有文字的纸上写字介绍视频的主题。",
+        "1": "双手出现，开始故事的讲述。",
+        "2": "牛排出现在纸上,手在纸上绘出一幅地图。",
+        "3": "背景再次改变，出现手绘的海上的背景以及两个国家的国旗。",
+        "4": "双手出现，来时绘制MANHATTAN的展示图。",
+        "5": "一个美国地图被绘制了出来。",
+        "6": "一个计时器和汉堡包的剪纸出现在空白纸张上。",
+        "7": "双手在纸张描绘出不同人物，带有标签和建筑。",
+        "8": "双手出现继续描绘背景，带有标签和食物。",
+        "9": "双手在纸张上写出文字。",
+        "10": "纸张上文字改变，多个汉堡出现在纸张上。",
+        "11": "视频以黑屏结束。"
+    },
+    "qa": {
+        "HIjX8OPuf-w_0": {
+            "id": "HIjX8OPuf-w_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "从视频上看，两支距离相近的笔相对于纸堆的位置在哪里？",
+            "options": [
+                "A. 两支笔放在纸堆的左侧。",
+                "B. 两支笔放在纸堆的右侧。",
+                "C. 两支笔放在纸堆的上方。",
+                "D. 两支笔斜放在纸堆上。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_1": {
+            "id": "HIjX8OPuf-w_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "从视频看，桌面上单独的笔相对于这堆纸的位置在哪里？",
+            "options": [
+                "A. 笔位于这堆纸的左上角。",
+                "B. 笔位于这堆纸的下面。",
+                "C. 笔位于这堆纸的右下角。",
+                "D. 笔位于这堆纸的右上角。"
+            ],
+            "answer": "D"
+        },
+        "HIjX8OPuf-w_2": {
+            "id": "HIjX8OPuf-w_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "场景中描绘的环境是什么？",
+            "options": [
+                "A. 场景特写镜头是一个俯视视角：一只手在白纸上书写，周围是笔、薯条和水印。",
+                "B. 场景为一个忙碌的办公环境，多个人在计算机上工作，文件堆散落在各处。",
+                "C. 场景展示的是户外公园的野餐桌，上面有三明治、饮料和书写笔记本。",
+                "D. 场景展示了一个教室环境：老师在白板上写字，学生在课桌上记笔记。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_3": {
+            "id": "HIjX8OPuf-w_3",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "场景中使用了什么样的灯光？",
+            "options": [
+                "A. 灯光均匀。",
+                "B. 灯光刺眼且有阴影。",
+                "C. 灯光昏暗且不均匀。",
+                "D. 灯光以明亮的聚光灯为主。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_4": {
+            "id": "HIjX8OPuf-w_4",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这个场景之后是什么背景？",
+            "options": [
+                "A. 场景换成了一个静态背景，带有“13th Century”标签。",
+                "B. 场景换成了一个动态背景，有动画的骑士和马匹。",
+                "C. 场景换成了一个繁华都市的背景。",
+                "D. 场景换成了一个有棕榈树的宁静海滩背景。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_5": {
+            "id": "HIjX8OPuf-w_5",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "手在场景中正在执行什么动作？",
+            "options": [
+                "A. 手拿着一支笔在纸上写字。",
+                "B. 手正在画一个山的插图。",
+                "C. 手拿着一个装满薯条的纸袋。",
+                "D. 手正在从纸上擦除文字。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_6": {
+            "id": "HIjX8OPuf-w_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "纸张中的标题是什么？",
+            "options": [
+                "A. Hamburger History",
+                "B. Medieval Times",
+                "C. French Fry Chronicles",
+                "D. New York Stories"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_7": {
+            "id": "HIjX8OPuf-w_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "纸上还有什么其他文字？",
+            "options": [
+                "A. 纸张上还有“Briefly”和“By Joyce C.”等文字。",
+                "B. 纸上展示了一份13世纪的详细地图，并用红色墨水标注。",
+                "C. 纸张包含一个汉堡制作配料的清单，用蓝色墨水书写。",
+                "D. 纸上显示了一个中世纪事件的时间线，用绿色标出。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_8": {
+            "id": "HIjX8OPuf-w_8",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "在场景中可以看到多少支笔？",
+            "options": [
+                "A. 两支笔",
+                "B. 三支笔",
+                "C. 四支笔",
+                "D. 五支笔"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_9": {
+            "id": "HIjX8OPuf-w_9",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "图像的右下角有一个标志吗？",
+            "options": [
+                "A. 是的，“New York”的标志存在。",
+                "B. 不，右下角没有标志。",
+                "C. 是的，但那是一个不同的标志。",
+                "D. 不，标志在左上角。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_10": {
+            "id": "HIjX8OPuf-w_10",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "手写标签“13th Century”的目的是什么？",
+            "options": [
+                "A. 标签强调了历史中世纪主题。",
+                "B. 标签表明作者的年龄。",
+                "C. 标签标记了文件的页数。",
+                "D. 标签突出了出版的当前年份。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_11": {
+            "id": "HIjX8OPuf-w_11",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "视频中纸堆右上角的笔是怎样摆放的？",
+            "options": [
+                "A. 笔垂直放置。",
+                "B. 笔直立。",
+                "C. 笔水平放置。",
+                "D. 笔斜着放。"
+            ],
+            "answer": "D"
+        },
+        "HIjX8OPuf-w_12": {
+            "id": "HIjX8OPuf-w_12",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "视频右上角上的那支笔是什么样的？",
+            "options": [
+                "A. 那支笔有一个灰色的笔身和一个黑色的笔帽。",
+                "B. 那支笔是全黑的。",
+                "C. 那支笔有一个白色的笔身和一个蓝色的笔帽。",
+                "D. 那支笔有一个金属的笔身和纤细的设计。"
+            ],
+            "answer": "D"
+        },
+        "HIjX8OPuf-w_13": {
+            "id": "HIjX8OPuf-w_13",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "这个场景中使用的摄像机角度是什么？",
+            "options": [
+                "A. 摄像机角度是直接在头顶上方，可以清楚地看到场景。",
+                "B. 摄像机角度是低角度，从下往上看物体。",
+                "C. 摄像机角度是侧视图，从桌子的边缘捕捉场景。",
+                "D. 摄像机角度是特写，仅聚焦在手上。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_14": {
+            "id": "HIjX8OPuf-w_14",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "俯拍镜头如何提升场景的清晰度？",
+            "options": [
+                "A. 俯拍镜头提供了对称且细致的视角，确保所有元素都清晰可见。",
+                "B. 俯拍镜头创造出戏剧性的阴影，为场景增添了深度。",
+                "C. 俯拍镜头聚焦于单一元素，使其他细节变得模糊。",
+                "D. 俯拍镜头通过倾斜的视角引入了动态感。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_15": {
+            "id": "HIjX8OPuf-w_15",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "当前场景过渡到下一场景时，会发生什么变化？",
+            "options": [
+                "A. 动画呈现的中世纪骑士和马被移除。",
+                "B. 标题“Hamburger History”被更改。",
+                "C. 装有薯条的纸袋被移除。",
+                "D. 桌子上的笔被重新排列。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_16": {
+            "id": "HIjX8OPuf-w_16",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "静态场景中哪个视觉元素突出了历史背景？",
+            "options": [
+                "A. 一个装有薯条的小纸袋",
+                "B. 一只手握着一支钢笔",
+                "C. 'New York'标识",
+                "D. 手写标签'13th Century'。"
+            ],
+            "answer": "D"
+        },
+        "HIjX8OPuf-w_17": {
+            "id": "HIjX8OPuf-w_17",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "第三支金属笔在哪里？",
+            "options": [
+                "A. 第三支金属笔位于视频右下角",
+                "B. 第三支金属笔位于视频左上角",
+                "C. 第三支金属笔位于视频右上角",
+                "D. 第三支金属笔位于手边"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_18": {
+            "id": "HIjX8OPuf-w_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景的整体环境是什么？",
+            "options": [
+                "A. 场景的整体环境是现代与历史元素结合在一个极简主义背景中。",
+                "B. 场景的整体环境是一个纯粹的历史场景，具有古典元素。",
+                "C. 场景的整体环境完全是现代的，没有历史参考。",
+                "D. 场景的整体环境是明亮颜色和图案的混乱组合。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_19": {
+            "id": "HIjX8OPuf-w_19",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "视频中描述了什么人类动作？",
+            "options": [
+                "A. 一只手臂从左边伸进来，手悬在'13th Century'标签上方。",
+                "B. 一个人拿起汉堡并重新整理了一摞纸。",
+                "C. 有人在'13th Century'标签上用黑色笔写字。",
+                "D. 一只手臂将一摞纸向左推，同时薯条从左上角被拿走。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_20": {
+            "id": "HIjX8OPuf-w_20",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "在场景中可以看到的笔的颜色是什么？",
+            "options": [
+                "A. 笔是黑色，灰色 和 金属色。",
+                "B. 笔是黑色，蓝色 和 金属色。",
+                "C. 笔是黑色，灰色 和 金色。",
+                "D. 笔是蓝色，灰色 和 金属色。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_21": {
+            "id": "HIjX8OPuf-w_21",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "布置中是否有游戏性的动作指示？",
+            "options": [
+                "A. 有，那张写着“13 Century”的小纸片暗示着游戏性的动作。",
+                "B. 没有，这个场景完全是静态的，没有任何动作的迹象。",
+                "C. 有，靠近手放置的笔平行排列，表明有动态互动。",
+                "D. 没有，布置仅集中在历史元素上，没有任何动作。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_22": {
+            "id": "HIjX8OPuf-w_22",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "这一场景中上方的手握着什么？",
+            "options": [
+                "A. 手上拿着一张小纸片或卡片，上面写着‘13th Century'’。",
+                "B. 手上拿着一张小纸片或卡片，上面写着‘20th Century'’。",
+                "C. 手上拿着一支带橡皮头的铅笔。",
+                "D. 手上拿着一幅中世纪城堡的小画。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_23": {
+            "id": "HIjX8OPuf-w_23",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "手臂是从哪个方向进入场景的？",
+            "options": [
+                "A. 手臂从右侧进入场景。",
+                "B. 手臂从上方进入场景。",
+                "C. 手臂从左侧进入场景。",
+                "D. 手臂从下方进入场景。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_24": {
+            "id": "HIjX8OPuf-w_24",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "场景组合中的哪些变化引入了时代的冲突？",
+            "options": [
+                "A. 在场景中加入了现代的汉堡和一张写着“13th Century”的卡片。",
+                "B. 加入了一只手拿着一张小纸片，改变了场景的组合。",
+                "C. 左上角的薯条引入了一个现代元素。",
+                "D. 增加了金属笔，暗示一个未来主义主题。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_25": {
+            "id": "HIjX8OPuf-w_25",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在场景的右下角能看到什么文字？",
+            "options": [
+                "A. 右下角看到的文字是“New York”。",
+                "B. 右下角看到的文字是“13th Century”。",
+                "C. 右下角看到的文字是“3 Century”。",
+                "D. 右下角看到的文字是“Fries”。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_26": {
+            "id": "HIjX8OPuf-w_26",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "场景中的油炸薯条在哪里？",
+            "options": [
+                "A. 在左上角",
+                "B. 在右上角",
+                "C. 在左下角附近",
+                "D. 在桌子的中央"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_27": {
+            "id": "HIjX8OPuf-w_27",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频的场景是什么？",
+            "options": [
+                "A. 场景是一个户外公园。",
+                "B. 场景是一条繁忙的城市街道。",
+                "C. 场景是室内并有自然光。",
+                "D. 场景是一个夜间的咖啡馆。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_28": {
+            "id": "HIjX8OPuf-w_28",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频中展示了什么活动？",
+            "options": [
+                "A. 视频展示了一项涉及绘画和纸张操作的创意活动。",
+                "B. 视频展示了准备牛排的烹饪演示。",
+                "C. 视频描绘了一个安静的读写信件的场景。",
+                "D. 视频展示了一场关于历史事件的激烈讨论。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_29": {
+            "id": "HIjX8OPuf-w_29",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "这个场景中左前臂做了什么?",
+            "options": [
+                "A. 左前臂在纸上画了一个简单的矩形.",
+                "B. 左前臂把一张标有'SOON AFTER!'的小纸片放左上角.",
+                "C. 左前臂用黑色记号笔在白纸上写字.",
+                "D. 左前臂把一碗油炸小吃移到不同的位置."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_30": {
+            "id": "HIjX8OPuf-w_30",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "在这个场景中右前臂做了什么？",
+            "options": [
+                "A. 右前臂用黑色记号笔在纸张的中部偏右画了一个矩形。",
+                "B. 右前臂将一张标有“STEAK!”的纸放在靠近顶部中央的位置。",
+                "C. 右前臂从一叠白纸中取出了汉堡。",
+                "D. 右前臂在右下角写下了“NEW YORK”这个词。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_31": {
+            "id": "HIjX8OPuf-w_31",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "上个场景在那堆纸上面的是什麼?",
+            "options": [
+                "A. 上个场景在那堆纸上面的是一個漢堡。",
+                "B. 上个场景在那堆纸上面的是一塊紅肉。",
+                "C. 上个场景在那堆纸上面的是一碗炸小吃。",
+                "D. 上个场景在那堆纸上面的是一幅手繪的山脈。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_32": {
+            "id": "HIjX8OPuf-w_32",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "什么取代了堆在纸堆上的汉堡？",
+            "options": [
+                "A. 一张历史文件的照片",
+                "B. 一碗油炸小吃",
+                "C. 一块手绘的类似牛排的红肉",
+                "D. 一叠复古书籍"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_33": {
+            "id": "HIjX8OPuf-w_33",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "桌面上能看到多少支笔？",
+            "options": [
+                "A. 两支笔",
+                "B. 三支笔",
+                "C. 四支笔",
+                "D. 五支笔"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_34": {
+            "id": "HIjX8OPuf-w_34",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "场景中，“NEW YORK”的水印是否位于右上角？",
+            "options": [
+                "A. 是的",
+                "B. 不是",
+                "C. 可能",
+                "D. 不清楚"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_35": {
+            "id": "HIjX8OPuf-w_35",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景中‘NEW YORK’水印位于哪里？",
+            "options": [
+                "A. 它位于左上角。",
+                "B. 它位于右下角。",
+                "C. 它位于纸张的中央。",
+                "D. 它位于右上角。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_36": {
+            "id": "HIjX8OPuf-w_36",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "右手画的是什么形状？",
+            "options": [
+                "A. 圆形",
+                "B. 三角形",
+                "C. 矩形",
+                "D. 星形"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_37": {
+            "id": "HIjX8OPuf-w_37",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "右前臂是从哪个方向进入画面的？",
+            "options": [
+                "A. 从右下方",
+                "B. 从左上方",
+                "C. 从左中间",
+                "D. 从左下方"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_38": {
+            "id": "HIjX8OPuf-w_38",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "捕捉桌面上的活动时使用哪种摄像机镜头？",
+            "options": [
+                "A. 俯拍镜头",
+                "B. 侧拍镜头",
+                "C. 特写镜头",
+                "D. 低角度镜头"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_39": {
+            "id": "HIjX8OPuf-w_39",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "纸堆最上面最初是什么标签？",
+            "options": [
+                "A. 一幅标注为“13th Century”的山脉图",
+                "B. 一块鲜艳的手绘红肉切块",
+                "C. 一个用黑色马克笔画的简单矩形",
+                "D. 一张标注为“STEAK!”的卡片"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_40": {
+            "id": "HIjX8OPuf-w_40",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "什么替代了纸堆最上面的初始图画？",
+            "options": [
+                "A. 一块手绘的鲜红肉片，看起来像牛排",
+                "B. 一碗油炸小吃",
+                "C. 一支金属细笔",
+                "D. 一幅标有“New York”的手绘山脉"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_41": {
+            "id": "HIjX8OPuf-w_41",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "薯条的纸盒在哪里?",
+            "options": [
+                "A. 薯条的纸盒位于场景的左上角。",
+                "B. 薯条的纸盒位于场景的右下角。",
+                "C. 薯条的纸盒位于场景的中央。",
+                "D. 薯条的纸盒位于场景的右上角。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_42": {
+            "id": "HIjX8OPuf-w_42",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频场景的环境是什么？",
+            "options": [
+                "A. 视频发生在一个繁忙的城市街道上，有交通和行人。",
+                "B. 视频展示了一个充满创意的环境，有一堆白纸以及一些物品。",
+                "C. 视频设定在一个厨房里，有各种烹饪用具和食材。",
+                "D. 视频在一个安静的图书馆中，书架上摆满了书，并配有阅读桌。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_43": {
+            "id": "HIjX8OPuf-w_43",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "当左前臂重新出现时，它执行了什么动作？",
+            "options": [
+                "A. 左前臂正在写在堆中心的纸上。",
+                "B. 左前臂正从左上角的容器中拿着一根薯条。",
+                "C. 左前臂正在积极操控堆中心附近一个小型的红色物体。",
+                "D. 左前臂正在将“New York”标志替换为其他标志。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_44": {
+            "id": "HIjX8OPuf-w_44",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "原本标记为'13th Century'的卡片发生了什么变化？",
+            "options": [
+                "A. 原本标记为'13th Century'的卡片被一张写着'SOON AFTER!'的卡片以一种调皮、不均匀的风格所取代。",
+                "B. 原本标记为'13th Century'的卡片被一张写着'LATER!'的卡片以一种调皮、不均匀的风格所取代。",
+                "C. 原本标记为'13th Century'的卡片被一张写着'DINNER!'的卡片以一种调皮、不均匀的风格所取代。",
+                "D. 原本标记为'13th Century'的卡片被一张写着'NEXT!'的卡片以一种调皮、不均匀的风格所取代。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_45": {
+            "id": "HIjX8OPuf-w_45",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "画的那块红色肉片在场景中有被改动吗？",
+            "options": [
+                "A. 是的，那块红色肉片改变了颜色。",
+                "B. 是的，那块红色肉片被替换成了另一个物体。",
+                "C. 不，那块红色肉片在整个场景中都没有变化。",
+                "D. 是的，那块红色肉片被折叠成了一个红色小纸团。"
+            ],
+            "answer": "D"
+        },
+        "HIjX8OPuf-w_46": {
+            "id": "HIjX8OPuf-w_46",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "左前臂在场景中发生了什么变化？",
+            "options": [
+                "A. 左前臂使用马克笔为旗帜状物体添加细节。",
+                "B. 左前臂用另一张卡片替换了“SOON AFTER!”卡片。",
+                "C. 左前臂通过操作纸堆中央附近的小红色物体，继续创作活动。",
+                "D. 左前臂移动车载薯条盒。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_47": {
+            "id": "HIjX8OPuf-w_47",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "小型旗帜状物体的横条纹是什么样子的？",
+            "options": [
+                "A. 横条纹有黑色轮廓线，包围着白色的顶部、蓝色的中间和鲜艳的红色底部条纹。",
+                "B. 横条纹有红色轮廓线，包围着白色的顶部、绿色的中间和鲜艳的蓝色底部条纹。",
+                "C. 横条纹有黑色轮廓线，包围着蓝色的顶部、白色的中间和鲜艳的红色底部条纹。",
+                "D. 横条纹有黑色轮廓线，包围着红色的顶部、白色的中间和鲜艳的蓝色底部条纹。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_48": {
+            "id": "HIjX8OPuf-w_48",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景右下角可见哪个标志？",
+            "options": [
+                "A. 'New York'标志",
+                "B. 'California'标志",
+                "C. 'Paris'标志",
+                "D. 'London'标志"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_49": {
+            "id": "HIjX8OPuf-w_49",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "‘SOON AFTER!’的对话气泡相对于手绘地图的位置在哪里？",
+            "options": [
+                "A. ‘SOON AFTER!’的对话气泡位于手绘地图的上方并稍微偏左。",
+                "B. ‘SOON AFTER!’的对话气泡位于手绘地图的下方并偏右。",
+                "C. ‘SOON AFTER!’的对话气泡位于手绘地图的正中心。",
+                "D. ‘SOON AFTER!’的对话气泡位于手绘地图的上方并稍微偏右。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_50": {
+            "id": "HIjX8OPuf-w_50",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "视频中可以看到哪些具体物品？",
+            "options": [
+                "A. 一张白纸上的手绘地图、几支笔、一盒薯条，以及带有“NEW YORK”字样的水印。",
+                "B. 一张白纸上的手绘地图、一杯咖啡、一盒薯条，以及带有“NEW YORK”字样的水印。",
+                "C. 一张白纸上的手绘地图、一台笔记本电脑、一盒薯条，以及带有“NEW YORK”字样的水印。",
+                "D. 一张白纸上的手绘地图、一部智能手机、一盒薯条，以及带有“NEW YORK”字样的水印。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_51": {
+            "id": "HIjX8OPuf-w_51",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "这个视频的视角是什么？",
+            "options": [
+                "A. 视角是俯视的。",
+                "B. 视角是侧视的。",
+                "C. 视角是从下往上的。",
+                "D. 视角是正面的。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_52": {
+            "id": "HIjX8OPuf-w_52",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "人在场景中执行了什么动作？",
+            "options": [
+                "A. 人的手臂从画面的左下角对角延伸，并置于地图上，表明是在绘画或书写。",
+                "B. 人的手臂捡起红色的骰子并把它移到地图上。",
+                "C. 人的手臂调整地图上俄罗斯国旗的插图位置。",
+                "D. 人的手臂把地图左侧的笔移开。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_53": {
+            "id": "HIjX8OPuf-w_53",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "红色纸团最终停在地图上的哪个位置？",
+            "options": [
+                "A. 红色纸团最终停在德国国旗图案黑色、红色和黄色横条纹交汇处。",
+                "B. 红色纸团最终停在标有'不久之后！'的话泡附近。",
+                "C. 红色纸团最终停在俄罗斯国旗图上，其具有白色、蓝色和红色的三色横条纹。",
+                "D. 红色纸团最终停在地图底部三个人物轮廓旁边。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_54": {
+            "id": "HIjX8OPuf-w_54",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "笔放在哪里？",
+            "options": [
+                "A. 两支笔在纸的左边，一支棕色的笔在右上角。",
+                "B. 两支笔在右上角，一支棕色的笔在纸的左边。",
+                "C. 三支笔随机散放在桌子上，没有特定的位置。",
+                "D. 所有的笔都直接放在地图上。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_55": {
+            "id": "HIjX8OPuf-w_55",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "在场景中炸薯条容器被移动了吗？",
+            "options": [
+                "A. 是的，炸薯条容器被移到了桌子的中央。",
+                "B. 不，炸薯条容器保持在桌上两个笔的上方。",
+                "C. 是的，炸薯条容器被移得离地图更近了。",
+                "D. 不，炸薯条容器被放在了桌子的左侧。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_56": {
+            "id": "HIjX8OPuf-w_56",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "在涉及人类手部的场景中，地图会发生哪些变化？",
+            "options": [
+                "A. 地图的对话框和德国国旗部分被人类手部部分遮挡。",
+                "B. 地图被人类手画的全新地图完全替代。",
+                "C. 地图上的德国国旗被人类手移除。",
+                "D. 人类手为地图上的图形轮廓着色。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_57": {
+            "id": "HIjX8OPuf-w_57",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "在右下角出现了什么文字？",
+            "options": [
+                "A. 右下角出现了“NEW YORK”的文字。",
+                "B. 右下角出现了“SOON AFTER!”的文字。",
+                "C. 右下角出现了“GERMAN FLAG”的文字。",
+                "D. 右下角出现了“RUSSIAN FLAG”的文字。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_58": {
+            "id": "HIjX8OPuf-w_58",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "右下角的文字起什么作用？",
+            "options": [
+                "A. 它将场景与其潜在的媒体或出版来源联系起来。",
+                "B. 它提供了使用插图地图的说明。",
+                "C. 它是用来标识地图上人物形象的标签。",
+                "D. 它表明插图是在哪里创建的。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_59": {
+            "id": "HIjX8OPuf-w_59",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "视频场景的环境是什么？",
+            "options": [
+                "A. 环境是一个带有简约布置的工作空间。",
+                "B. 环境是一个繁忙的都市街道。",
+                "C. 环境是一个杂乱的艺术家工作室。",
+                "D. 环境是一个户外咖啡馆。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_60": {
+            "id": "HIjX8OPuf-w_60",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "在艺术创作过程中右手做什么？",
+            "options": [
+                "A. 右手先用黑色记号笔画波浪线，然后将主题剪纸放到纸质画布上。",
+                "B. 右手整理纸张堆，然后在最上面的一张纸上写字。",
+                "C. 右手用米色钢笔在纸上勾勒建筑设计图。",
+                "D. 右手将波纹状的薯条放在纸质画布上作为艺术品的一部分。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_61": {
+            "id": "HIjX8OPuf-w_61",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "纸质立体模型上出现了哪些物品？",
+            "options": [
+                "A. 纸质立体模型包括自由女神像、国旗、建筑物、带有红色、白色和黑色条纹的旗帜、波浪线、三角形帆等物品。",
+                "B. 纸质立体模型包括波纹薯条、一支米色的笔和羊皮纸以及自由女神像和美国国旗的素描插图。",
+                "C. 纸质立体模型包括气球、一根米色木棍和带有白色星星的蓝旗。",
+                "D. 纸质立体模型包括食物、一座纽约水印和没有主题剪裁的抽象画。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_62": {
+            "id": "HIjX8OPuf-w_62",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "办公区域有炸薯条吗？",
+            "options": [
+                "A. 有",
+                "B. 没有",
+                "C. 只有在绘图阶段",
+                "D. 只有在场景开始的时候"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_63": {
+            "id": "HIjX8OPuf-w_63",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "手用木棒做了什么？",
+            "options": [
+                "A. 手用木棒在纸上画出更多的线条。",
+                "B. 手用木棒操控一个带有点状图案的粉色，上方粘有三角形剪纸。",
+                "C. 手用木棒排列一张美国国旗的剪纸。",
+                "D. 手用木棒画出自由女神像的立体模型。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_64": {
+            "id": "HIjX8OPuf-w_64",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "美国国旗在纸堆哪个方向摆放？",
+            "options": [
+                "A. 美国国旗水平地摆放在纸堆的右侧。",
+                "B. 美国国旗直立地摆放在纸堆的左侧。",
+                "C. 美国国旗斜着摆放在纸堆的中央。",
+                "D. 美国国旗垂直地摆放在纸堆的右上角。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_65": {
+            "id": "HIjX8OPuf-w_65",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "场景中顶层纸张发生了什么？",
+            "options": [
+                "A. 顶层纸张完全空白，在整个场景中未被触及。",
+                "B. 顶层纸张从空白变成拥有流动的波浪线。",
+                "C. 顶层纸张立即被五颜六色的颜料和闪粉装饰。",
+                "D. 顶层纸张被撕毁并丢弃，以腾出空间放置新纸张。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_66": {
+            "id": "HIjX8OPuf-w_66",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景中的哪个文本元素起到了水印或主题引用的作用？",
+            "options": [
+                "A. 右下角的淡淡的“NEW YORK”文字作为水印或主题引用。",
+                "B. 写在顶层纸上的短语“SOON AFTER!”起到了主题引用的作用。",
+                "C. 左侧的自由女神像素描剪纸起到了水印的作用。",
+                "D. 粉色三角形剪纸上的点状图案充当了主题引用。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_67": {
+            "id": "HIjX8OPuf-w_67",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "烤棕色土豆在盘子里的哪个位置？",
+            "options": [
+                "A. 烤棕色土豆在左边，稍加装饰。",
+                "B. 烤棕色土豆在右边，稍加装饰。",
+                "C. 烤棕色土豆在中间，稍加装饰。",
+                "D. 烤棕色土豆在碎肉的下面。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_68": {
+            "id": "HIjX8OPuf-w_68",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "碎暗肉在菜肴中的位置在哪里？",
+            "options": [
+                "A. 碎暗肉配上透明炒洋葱在左边。",
+                "B. 碎暗肉配上透明炒洋葱在右边。",
+                "C. 碎暗肉配上透明炒洋葱在中间。",
+                "D. 碎暗肉配上透明炒洋葱在顶部。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_69": {
+            "id": "HIjX8OPuf-w_69",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "这一场景整体环境如何？",
+            "options": [
+                "A. 环境主题丰富，充满文化元素。",
+                "B. 环境单调乏味，完全缺乏任何文化或艺术参考。",
+                "C. 环境混乱，食物四处散落，没有任何明确的重点。",
+                "D. 环境完全专注于烹饪技巧，没有任何文化元素。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_70": {
+            "id": "HIjX8OPuf-w_70",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "视频中的双手对黑色液体做了什么？",
+            "options": [
+                "A. 双手把黑色液体倒进一个更大的碗里。",
+                "B. 双手用勺子搅拌黑色液体。",
+                "C. 双手把装有黑色液体的碗掉了。",
+                "D. 双手把黑色液体和盘子里的食物混合在一起。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_71": {
+            "id": "HIjX8OPuf-w_71",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "倒入深色液体后，双手会做什么？",
+            "options": [
+                "A. 双手退后，显现完成的菜肴。",
+                "B. 双手开始搅拌碗中的食材。",
+                "C. 双手将装饰物放在菜肴上。",
+                "D. 双手重新整理包装纸上的薯条。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_72": {
+            "id": "HIjX8OPuf-w_72",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "大陶瓷碗的显著特点是什么？",
+            "options": [
+                "A. 大陶瓷碗是白色的，边缘是蓝色的。",
+                "B. 大陶瓷碗是蓝色的，边缘是白色的。",
+                "C. 大陶瓷碗完全是白色的。",
+                "D. 大陶瓷碗完全是蓝色的。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_73": {
+            "id": "HIjX8OPuf-w_73",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "这道菜有多少主要食物部分？",
+            "options": [
+                "A. 这道菜中有一个主要食物部分。",
+                "B. 这道菜中有两个主要食物部分。",
+                "C. 这道菜中有三个主要食物部分。",
+                "D. 这道菜中有四个主要食物部分。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_74": {
+            "id": "HIjX8OPuf-w_74",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "这道菜的主要食品部分是什么？",
+            "options": [
+                "A. 烤土豆和炒洋葱碎肉",
+                "B. 烤鸡和蒸蔬菜",
+                "C. 烤鱼和土豆泥",
+                "D. 炒饭和春卷"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_75": {
+            "id": "HIjX8OPuf-w_75",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "与这张纸的接触会影响食物的呈现吗？",
+            "options": [
+                "A. 是的，这种接触对食物的呈现造成了显著干扰。",
+                "B. 不，这不会影响食物的呈现。",
+                "C. 食物受到了一点干扰，但整体上基本未受影响。",
+                "D. 与纸的接触使食物从场景中移除了。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_76": {
+            "id": "HIjX8OPuf-w_76",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "在食物准备好后，双手会做什么？",
+            "options": [
+                "A. 双手与一张纸互动，重新排列场景中的元素。",
+                "B. 双手开始将食物分装到盘子里进行呈现。",
+                "C. 双手添加更多调味料以增强风味。",
+                "D. 双手将薯条从包装中取出并放在菜的旁边。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_77": {
+            "id": "HIjX8OPuf-w_77",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "小碗从视频中移出的方向是哪个？",
+            "options": [
+                "A. 小碗被向上移出。",
+                "B. 小碗被向下移出。",
+                "C. 小碗被向左移出。",
+                "D. 小碗被向右移出。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_78": {
+            "id": "HIjX8OPuf-w_78",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "向更大的碗里倒入液体后，场景的重点发生了什么变化？",
+            "options": [
+                "A. 重点从食物的积极准备转向展示完成的菜肴。",
+                "B. 重点从完成的菜肴转向背景中的文化插图。",
+                "C. 重点从完成的菜肴转向人与纸的互动。",
+                "D. 重点从文化插图转向积极的食物准备。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_79": {
+            "id": "HIjX8OPuf-w_79",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "哪些文化元素为场景提供了额外的背景?",
+            "options": [
+                "A. 装饰华丽的陶瓷碗和烤马铃薯",
+                "B. 卡通人物和文具笔",
+                "C. 自由女神像和美国与匈牙利的国旗",
+                "D. 油炸食品的包装纸和桌子上的笔"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_80": {
+            "id": "HIjX8OPuf-w_80",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "黑色笔在桌子上的碗的哪个位置？",
+            "options": [
+                "A. 黑色笔在桌面左侧，靠近碗。",
+                "B. 黑色笔直接放在碗的右侧。",
+                "C. 黑色笔堆放在碗下面的文件上。",
+                "D. 黑色笔放在装满豆子和土豆块的碗里。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_81": {
+            "id": "HIjX8OPuf-w_81",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "这一场景后期的环境如何？",
+            "options": [
+                "A. 场景特点是一个黑色的桌面，上面有一个固定的碗，碗里盛满了黑肉和烤土豆块，在顶灯的照射下。",
+                "B. 场景特点是一个白色的桌面，上面有一个固定的碗，碗里盛满了五颜六色的蔬菜，在昏暗的灯光下。",
+                "C. 场景特点是一个黑色的桌面，上面有水果和一个花瓶，在明亮的灯光下。",
+                "D. 场景特点是一个木制的桌面，上面有一个固定的碗，碗里盛满了意大利面，在聚光灯下。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_82": {
+            "id": "HIjX8OPuf-w_82",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "视频中手正在对白纸做什么？",
+            "options": [
+                "A. 手正在故意地将一张稍微有些皱的白纸折叠或包裹在一个碗上。",
+                "B. 手正在用黑色的笔在一张稍微有些皱的白纸上书写。",
+                "C. 手正在一张稍微有些皱的白纸上画卡通般的图案。",
+                "D. 手正在把稍微有些皱的白纸撕成小块。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_83": {
+            "id": "HIjX8OPuf-w_83",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "碗里的内容是如何呈现的？",
+            "options": [
+                "A. 他们的土色调在柔和的顶灯照明下得到了突显。",
+                "B. 他们被阴影覆盖，难以辨认。",
+                "C. 他们被呈现为鲜艳的人工色彩。",
+                "D. 他们完全被白色纸张包裹。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_84": {
+            "id": "HIjX8OPuf-w_84",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "该场景中是否有城市景观的插图？",
+            "options": [
+                "A. 没有，该场景没有描绘任何城市景观插图。",
+                "B. 有，在画面的右边缘有一幅描绘高楼大厦的城市景观插图。",
+                "C. 有，在装满薯条的棕色纸袋旁边有一幅城市景观插图。",
+                "D. 没有，该场景中有一个类似卡通的自由女神像剪纸，但没有城市景观插图。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_85": {
+            "id": "HIjX8OPuf-w_85",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "左手对纸张执行了什么操作？",
+            "options": [
+                "A. 左手按住略微皱起的白纸边缘。",
+                "B. 左手把纸折成一个小方块。",
+                "C. 左手把纸撕成条状。",
+                "D. 左手用笔在纸上写字。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_86": {
+            "id": "HIjX8OPuf-w_86",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "装着炸薯条的棕色纸袋相对于碗的位置在哪里?",
+            "options": [
+                "A. 装着炸薯条的棕色纸袋位于碗的左侧，紧靠碗旁边。",
+                "B. 装着炸薯条的棕色纸袋位于碗的下方，稍微偏右。",
+                "C. 装着炸薯条的棕色纸袋位于碗的左上角。",
+                "D. 装着炸薯条的棕色纸袋位于碗的右下角。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_87": {
+            "id": "HIjX8OPuf-w_87",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "俯视镜头的目的是为了什么？",
+            "options": [
+                "A. 它提供了食物、物品和手部动作的细节，同时强调了构图元素。",
+                "B. 通过聚焦于阴影并模糊场景的某些元素，营造出戏剧效果。",
+                "C. 突显构图中物体的深度和三维方面。",
+                "D. 模糊不必要的细节，只强调背景风景。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_88": {
+            "id": "HIjX8OPuf-w_88",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "桌面上能看到什么文字？",
+            "options": [
+                "A. 黑色桌子的右下角优雅地写着“New York”。",
+                "B. “Manhattan”写在桌子的中央。",
+                "C. “Welcome to New York”刻在桌面上。",
+                "D. “Cityscape”标记在桌子的左上角。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_89": {
+            "id": "HIjX8OPuf-w_89",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "白纸堆放在深色桌面的什么位置？",
+            "options": [
+                "A. 白纸堆位于深色桌面右侧的中间位置。",
+                "B. 白纸堆位于深色桌面左上角。",
+                "C. 白纸堆位于深色桌面左侧的中间位置。",
+                "D. 白纸堆位于深色桌面右下角附近。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_90": {
+            "id": "HIjX8OPuf-w_90",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "当左手进入场景时，它做什么？",
+            "options": [
+                "A. 左手固定纸张。",
+                "B. 左手在纸上画一个形状。",
+                "C. 左手将碗从场景中移走。",
+                "D. 左手在草图上加点。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_91": {
+            "id": "HIjX8OPuf-w_91",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "当右手进入场景时，它在做什么？",
+            "options": [
+                "A. 右手整理了那一叠白纸。",
+                "B. 右手拿起了炸薯条的容器。",
+                "C. 右手拿着一支黑色圆笔。",
+                "D. 右手把黑色记号笔移到了桌子的右侧。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_92": {
+            "id": "HIjX8OPuf-w_92",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "桌面上可以看到多少个书写工具？",
+            "options": [
+                "A. 两个书写工具",
+                "B. 三个书写工具",
+                "C. 四个书写工具",
+                "D. 五个书写工具"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_93": {
+            "id": "HIjX8OPuf-w_93",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "场景中是否能看到“NEW YORK”文字？",
+            "options": [
+                "A. 是的，可以在右下角看到“NEW YORK”文字。",
+                "B. 不，场景中看不到“NEW YORK”文字。",
+                "C. 是的，可以在左上角看到“NEW YORK”文字。",
+                "D. 不，“NEW YORK”文字只出现一下。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_94": {
+            "id": "HIjX8OPuf-w_94",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "右手在纸上执行什么动作？",
+            "options": [
+                "A. 右手擦去纸上的标记。",
+                "B. 右手在最上面的纸上画出一个未完成的形状。",
+                "C. 右手把纸折成一个更小的尺寸。",
+                "D. 右手翻阅这叠纸。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_95": {
+            "id": "HIjX8OPuf-w_95",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "用什么类型的镜头来拍摄工作区?",
+            "options": [
+                "A. 摄像机镜头是固定的，角度一致，提供详细且无遮掩的工作区视图。",
+                "B. 摄像机镜头动态转换，捕捉工作区的不同角度。",
+                "C. 摄像机镜头是手持的，给视频带来摇晃且富有活力的感觉。",
+                "D. 摄像机镜头频繁拉近和拉远，聚焦工作区的特定元素。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_96": {
+            "id": "HIjX8OPuf-w_96",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "“MANHATTAN!”的铭文是如何随着时间演变的？",
+            "options": [
+                "A. 每次手触碰纸张，“MANHATTAN!”的铭文都会变得更加清晰和醒目。",
+                "B. 随着手操作纸张，“MANHATTAN!”的铭文逐渐消失。",
+                "C. 在整个场景中，“MANHATTAN!”的铭文保持静止不变。",
+                "D. 在活动过程中，“MANHATTAN!”的铭文转变成一个完全不同的单词。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_97": {
+            "id": "HIjX8OPuf-w_97",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "红白蓝三色旗相对于纸张的位置在哪里?",
+            "options": [
+                "A. 红白蓝三色旗位于纸张的左侧。",
+                "B. 红白蓝三色旗位于纸张的上方。",
+                "C. 红白蓝三色旗位于纸张的右侧。",
+                "D. 红白蓝三色旗位于纸张的下方。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_98": {
+            "id": "HIjX8OPuf-w_98",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "人类的手对笔执行了什么动作？",
+            "options": [
+                "A. 人类的手握住灰色的笔并进行勾画。",
+                "B. 人类的手用黑色记号笔在餐巾上画了自由女神像。",
+                "C. 人类的手握住棕褐色的笔，在薯条盘上写下了‘New York’这个词。",
+                "D. 人类的手将灰色的笔水平放置在餐巾上，没有进行任何勾画。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_99": {
+            "id": "HIjX8OPuf-w_99",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "人类的手在纸张方面执行了什么动作？",
+            "options": [
+                "A. 人类的手在餐巾纸上描绘了曼哈顿的轮廓。",
+                "B. 人类的手摆放了自由女神像和美国国旗的剪纸。",
+                "C. 人类的手在右下角画了纽约的标志。",
+                "D. 人类的手将薯条排列在棕色纸盘中。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_100": {
+            "id": "HIjX8OPuf-w_100",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "场景开头时在纸上画了什么？",
+            "options": [
+                "A. 曼哈顿的轮廓",
+                "B. 美国本土的轮廓",
+                "C. 自由女神像的详细素描",
+                "D. 地铁系统地图"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_101": {
+            "id": "HIjX8OPuf-w_101",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "纸张图上还有哪些其他标记？",
+            "options": [
+                "A. 曼哈顿轮廓中下端有醒目的红点。",
+                "B. 纸张图上边缘有绿色的线条。",
+                "C. 曼哈顿旁边画了一条蓝色的河流。",
+                "D. 曼哈顿轮廓顶部附近有金色的圆圈。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_102": {
+            "id": "HIjX8OPuf-w_102",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "纸张上写的是什么单词？",
+            "options": [
+                "A. BROOKLYN",
+                "B. NEW YORK",
+                "C. MANHATTAN",
+                "D. QUEENS"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_103": {
+            "id": "HIjX8OPuf-w_103",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "纸张上 'MANHATTAN' 这个词是用小写字母写的吗？",
+            "options": [
+                "A. 是的，'MANHATTAN' 这个词是用小写字母写的。",
+                "B. 不是的，'MANHATTAN' 这个词是用大写字母写的。",
+                "C. 是的，'MANHATTAN' 这个词根本没有写。",
+                "D. 不是的，'MANHATTAN' 这个词是用草书写的。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_104": {
+            "id": "HIjX8OPuf-w_104",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "场景描绘完成后，左手会做什么？",
+            "options": [
+                "A. 左手将自由女神像的剪纸插图放在餐巾纸的左侧。",
+                "B. 左手从餐巾纸上移除一张美国国旗的剪纸。",
+                "C. 左手开始在曼哈顿的素描上绘制一个红点。",
+                "D. 左手将剪纸放在餐巾纸的右侧。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_105": {
+            "id": "HIjX8OPuf-w_105",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "右手向哪个方向移动，以将美国国旗的剪影添加到纸张上？",
+            "options": [
+                "A. 右手移动到画面的右上角。",
+                "B. 右手移动到画面的左下角。",
+                "C. 右手移动到画面的左上角。",
+                "D. 右手移动到画面的右下角。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_106": {
+            "id": "HIjX8OPuf-w_106",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "什么类型的摄像机角度能捕捉到这个场景？",
+            "options": [
+                "A. 一个俯拍角度捕捉到这个场景。",
+                "B. 一个地面水平角度捕捉到这个场景。",
+                "C. 一个侧视角度捕捉到这个场景。",
+                "D. 一个特写镜头捕捉到这个场景。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_107": {
+            "id": "HIjX8OPuf-w_107",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "在纸上添加剪纸元素时，会有哪些变化？",
+            "options": [
+                "A. 在添加剪纸元素时，这些元素本身位置保持不变。",
+                "B. 在添加剪纸元素时，桌子上的所有元素都被重新排列。",
+                "C. 在添加剪纸元素时，场景中没有观察到任何变化。",
+                "D. 在添加剪纸元素时，导致所有元素频繁地改变位置。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_108": {
+            "id": "HIjX8OPuf-w_108",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "这一场景纸张背景设计是如何开始的？",
+            "options": [
+                "A. 纸张背景设计以曼哈顿的简略轮廓开始。",
+                "B. 纸张背景设计以自由女神像的轮廓开始。",
+                "C. 纸张背景设计以美国国旗的草图开始。",
+                "D. 纸张背景设计以美国本土地区的地图开始。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_109": {
+            "id": "HIjX8OPuf-w_109",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "这一场景纸张设计中包含哪些额外元素？",
+            "options": [
+                "A. 纸张设计中包含自由女神像和美国国旗的额外剪纸。",
+                "B. 纸张设计中包含帝国大厦和披萨片的额外剪纸。",
+                "C. 纸张设计中包含中央公园和布鲁克林大桥的额外剪纸。",
+                "D. 纸张设计中包含克莱斯勒大厦和出租车的额外剪纸。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_110": {
+            "id": "HIjX8OPuf-w_110",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "自由女神像剪纸在地图的哪个位置？",
+            "options": [
+                "A. 位于地图的左侧。",
+                "B. 位于地图的上方。",
+                "C. 位于地图的右侧。",
+                "D. 位于地图的下方。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_111": {
+            "id": "HIjX8OPuf-w_111",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "当人类的手臂再次进入场景时，它执行什么动作？",
+            "options": [
+                "A. 人类的手臂重新排列地图上的红点。",
+                "B. 人类的手臂移动红色方形物体。",
+                "C. 人类的手臂抓住一个黄绿色的物体。",
+                "D. 人类的手臂从左上角拿起薯条。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_112": {
+            "id": "HIjX8OPuf-w_112",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "地图中央食物堆的底层是什么？",
+            "options": [
+                "A. 一片土豆或面包",
+                "B. 一块奶酪",
+                "C. 一片番茄",
+                "D. 一片生菜"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_113": {
+            "id": "HIjX8OPuf-w_113",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "地图中央食物堆叠的最顶部是什么？",
+            "options": [
+                "A. 一片面包",
+                "B. 一块奶酪",
+                "C. 一个脆脆的物品",
+                "D. 一颗樱桃"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_114": {
+            "id": "HIjX8OPuf-w_114",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景中的光线是否刺眼且有阴影？",
+            "options": [
+                "A. 是的，光线刺眼并产生强烈的阴影。",
+                "B. 不，光线柔和自然，没有刺眼的阴影。",
+                "C. 是的，光线昏暗，产生了浓重的阴影。",
+                "D. 不，光线过于明亮，造成眩光。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_115": {
+            "id": "HIjX8OPuf-w_115",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "在人类手臂与红色方块剪纸互动后，手臂朝哪个方向移动？",
+            "options": [
+                "A. 人类手臂向上并向右移动。",
+                "B. 人类手臂向下并向左移动。",
+                "C. 人类手臂直接向上移动。",
+                "D. 人类手臂直接向左移动。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_116": {
+            "id": "HIjX8OPuf-w_116",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "视频中描述的场景环境是什么？",
+            "options": [
+                "A. 场景是一个有黑色桌面的整齐工作区。",
+                "B. 场景是一个有木制书桌的杂乱卧室。",
+                "C. 场景是一个有各种烹饪材料的厨房。",
+                "D. 场景是一个有咖啡桌和沙发的客厅。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_117": {
+            "id": "HIjX8OPuf-w_117",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "这一场景中双手在做什么动作？",
+            "options": [
+                "A. 双手抬起顶层的纸，部分暴露了下面的一层。",
+                "B. 双手把顶层的纸弄皱然后扔到一边。",
+                "C. 双手用墨黑的笔在顶层的纸上绘画。",
+                "D. 双手把左侧画框中的厨房定时器移开。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_118": {
+            "id": "HIjX8OPuf-w_118",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "汉堡剪纸插图中，面包的独特特点是什么？",
+            "options": [
+                "A. 面包是光滑的。",
+                "B. 面包上有斑点。",
+                "C. 面包有条纹。",
+                "D. 面包是简单的。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_119": {
+            "id": "HIjX8OPuf-w_119",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "汉堡剪纸插图中的肉饼是什么样子的？",
+            "options": [
+                "A. 肉饼是红棕色的。",
+                "B. 肉饼是亮粉色的。",
+                "C. 肉饼是黄色的。",
+                "D. 肉饼是绿色的。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_120": {
+            "id": "HIjX8OPuf-w_120",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "汉堡剪纸插图中底部的颜色是什么？",
+            "options": [
+                "A. 浅粉色",
+                "B. 深棕色",
+                "C. 黄色",
+                "D. 白色"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_121": {
+            "id": "HIjX8OPuf-w_121",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "上一场景结束手执行了什么动作？",
+            "options": [
+                "A. 手将顶端的纸张提起并故意折叠。",
+                "B. 手将纸张揉皱并扔掉。",
+                "C. 手在纸上画了一个新的插图。",
+                "D. 手将一叠纸移动到一旁。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_122": {
+            "id": "HIjX8OPuf-w_122",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "上一场景掀开上层纸张暗示着什么？",
+            "options": [
+                "A. 这暗示着通过揭示隐藏在下面的新内容来探索或进展。",
+                "B. 这暗示着努力彻底重新整理这叠纸张。",
+                "C. 这意味着因为不重要，纸张正在被舍弃。",
+                "D. 这表示纸张被撕裂，表明沮丧。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_123": {
+            "id": "HIjX8OPuf-w_123",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "上一场景中手朝哪个方向移动最上面的一张纸？",
+            "options": [
+                "A. 手将最上面的一张纸向上移动。",
+                "B. 手将最上面的一张纸向下移动。",
+                "C. 手将最上面的一张纸向左移动。",
+                "D. 手将最上面的一张纸向右移动。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_124": {
+            "id": "HIjX8OPuf-w_124",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "绘画场景发生在哪里？",
+            "options": [
+                "A. 绘画场景发生在一个光滑的黑色桌面上。",
+                "B. 绘画场景发生在一个木制桌子上。",
+                "C. 绘画场景发生在一张玻璃桌上。",
+                "D. 绘画场景发生在一个白色大理石台面上。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_125": {
+            "id": "HIjX8OPuf-w_125",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "这一场景中人的左手在做什么？",
+            "options": [
+                "A. 左手拿着一支笔。",
+                "B. 左手在画眉毛。",
+                "C. 左手稳定纸张。",
+                "D. 左手在拿薯条。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_126": {
+            "id": "HIjX8OPuf-w_126",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "这一场景中人的右手在做什么？",
+            "options": [
+                "A. 右手正在固定纸张。",
+                "B. 右手正在绘制男性素描。",
+                "C. 右手正准备在素描下方写字。",
+                "D. 右手正在桌面上摆放薯条。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_127": {
+            "id": "HIjX8OPuf-w_127",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "纸张左边男性素描下方的手写文字是什么？",
+            "options": [
+                "A. 是 'Fleck DAVIS'。",
+                "B. 是 'John SMITH'。",
+                "C. 是 'Mark LEE'。",
+                "D. 是 'Alex BROWN'。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_128": {
+            "id": "HIjX8OPuf-w_128",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "这一场景中左手执行什么动作以确保更牢固地抓住纸张？",
+            "options": [
+                "A. 左手向下移动，并合拢拇指和食指固定纸张。",
+                "B. 左手稍微向上移动，张开拇指和食指以更牢固地抓住纸张。",
+                "C. 左手向一侧扭动，用手掌固定纸张。",
+                "D. 左手用指尖按压纸张以使其稳定。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_129": {
+            "id": "HIjX8OPuf-w_129",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "柔和、散射的光线会投射出什么样的阴影？",
+            "options": [
+                "A. 锐利且清晰的阴影",
+                "B. 巨大且压倒性的阴影",
+                "C. 柔和、散射的光线投射出极小的阴影",
+                "D. 明亮且色彩鲜艳的阴影"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_130": {
+            "id": "HIjX8OPuf-w_130",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "纸张上的描绘是如何随着时间发展变化的？",
+            "options": [
+                "A. 逐渐发展，最终变成了一个个成熟男性面孔的细致描绘。",
+                "B. 逐渐发展成一幅详细的风景画，包括树木、山脉和一条河流。",
+                "C. 发展为描绘一个抽象几何设计，包含圆形和矩形。",
+                "D. 发展为描绘一个年轻女子，拥有飘逸的头发和复杂的珠宝。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_131": {
+            "id": "HIjX8OPuf-w_131",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素有助于理解这一场景事件？",
+            "options": [
+                "A. 手写文字“Fleck DAVIS”。",
+                "B. 奶油色的钢笔有助于理解场景事件。",
+                "C. “BTW1885+1990!”文字标签。",
+                "D. “New York”水印。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_132": {
+            "id": "HIjX8OPuf-w_132",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "‘Charlie Nagreen’与‘Fletch Davis’相对的位置在哪里？",
+            "options": [
+                "A. ‘Charlie Nagreen’在‘Fletch Davis’的上方。",
+                "B. ‘Charlie Nagreen’在‘Fletch Davis’的左边。",
+                "C. ‘Charlie Nagreen’在‘Fletch Davis’的下方。",
+                "D. ‘Charlie Nagreen’在‘Fletch Davis’的右边。"
+            ],
+            "answer": "D"
+        },
+        "HIjX8OPuf-w_133": {
+            "id": "HIjX8OPuf-w_133",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "“Fletch Davis”的漫画形象有哪些特点？",
+            "options": [
+                "A. 一个大胆的形象，简单的小胡子和短发",
+                "B. 一枚异想天开的领结，一顶尖帽子和一张拉长的脸",
+                "C. 两个戴礼帽的卡通形象",
+                "D. 一张带有红色建筑物、黑色边框和黑色文字的矩形卡片"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_134": {
+            "id": "HIjX8OPuf-w_134",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "引入这一场景中的剪纸有哪些关键特征？",
+            "options": [
+                "A. 剪纸是矩形的，有红色窗户和红色门，顶部有黑色的文字“Lou's Lunch”。",
+                "B. 剪纸是方形的，特点是一栋蓝色建筑，白色框架，底部有红色的文字“Lou's Cafe”。",
+                "C. 剪纸是矩形的，展示了一栋红色建筑，有蓝色窗户，左侧有白色的文字“Lou's Diner”。",
+                "D. 剪纸是圆形的，包含一幅红色谷仓的图像，中间有黑色的文字“Lou's Place”。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_135": {
+            "id": "HIjX8OPuf-w_135",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "纸张上有多少个人物素描对象？",
+            "options": [
+                "A. 有两个。",
+                "B. 有三个。",
+                "C. 有四个。",
+                "D. 有五个。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_136": {
+            "id": "HIjX8OPuf-w_136",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "纸张上描绘的人物都有谁？",
+            "options": [
+                "A. 'Fletch Davis,' 'Charlie Nagreen,'和'Menches Bros.'",
+                "B. 'Lou's Lunch,' 'Charlie Nagreen,'和 'Menches Bros.'",
+                "C. 'Fletch Davis,' 'Lou's Lunch,'和'Charlie Nagreen.'",
+                "D. 'Fletch Davis,' 'Menches Bros.,'和'Lou's Lunch.'"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_137": {
+            "id": "HIjX8OPuf-w_137",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "这一场景结束时，文字'Menches Bros.'是否完整？",
+            "options": [
+                "A. 是的，视频结束时文字'Menches Bros.'是完整的。",
+                "B. 不，视频结束时文字'Menches Bros.'是不完整的。",
+                "C. 视频结束时文字'Menches Bros.'仍在绘制中。",
+                "D. 视频结束时文字'Menches Bros.'消失了。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_138": {
+            "id": "HIjX8OPuf-w_138",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "当手将剪纸引入场景时会发生什么？",
+            "options": [
+                "A. 它部分覆盖了“Charlie Nagreen”的素描，并暂时主导了中心构图。",
+                "B. 它完全覆盖了“Fletch Davis”的漫画肖像，并无限期地停留在中心。",
+                "C. 它仅触碰到纸张的边缘，永远不会覆盖其他元素。",
+                "D. 它在页面顶部新增了一个漫画肖像，并改变了整个布局。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_139": {
+            "id": "HIjX8OPuf-w_139",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "移除剪纸后，素描板的焦点会发生什么变化？",
+            "options": [
+                "A. 纸张被隐藏在薯条下面。",
+                "B. 纸张中素描人物重新获得焦点。",
+                "C. 汉堡成为了新的焦点。",
+                "D. 薯条掉在了纸张上。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_140": {
+            "id": "HIjX8OPuf-w_140",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "用于拍摄速写本细节和工作区布置的是哪种镜头？",
+            "options": [
+                "A. 使用静态的镜头，清晰地捕捉速写的细节以及周围的工作区元素。",
+                "B. 使用动态摇摄镜头，专注于工作区和速写本的不同部分。",
+                "C. 仅使用特写镜头拍摄人物漫画，不包含周围的工作区元素。",
+                "D. 使用高角度俯拍镜头提供鸟瞰视角，更加突出工作区的布置。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_141": {
+            "id": "HIjX8OPuf-w_141",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "将新的元素添加到场景中的节奏与对现有插图的关注相比如何？",
+            "options": [
+                "A. 新元素的添加，与对现有插图的稳重和精致的关注形成对比。",
+                "B. 新元素的添加非常匆忙，完全掩盖了现有的插图。",
+                "C. 添加新元素的节奏保持不变，与现有插图相比没有明显的区别。",
+                "D. 新元素的添加完全停止，关注点仅仅集中在完善现有插图上。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_142": {
+            "id": "HIjX8OPuf-w_142",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "在描绘过程中，'Menches Bros.' 的轮廓发生了哪些变化？",
+            "options": [
+                "A. 被完全重新绘制。",
+                "B. 变成了彩色插图。",
+                "C. 未发生变化。",
+                "D. 被完全移除。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_143": {
+            "id": "HIjX8OPuf-w_143",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "这一场景中汉堡在白纸堆的哪个位置？",
+            "options": [
+                "A. 汉堡在白纸堆的正中间。",
+                "B. 汉堡在白纸堆的左侧。",
+                "C. 汉堡在白纸堆的下方。",
+                "D. 汉堡在白纸堆的右侧。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_144": {
+            "id": "HIjX8OPuf-w_144",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "在这一场景中，拿着黑色笔的右手对纸张做了什么？",
+            "options": [
+                "A. 右手正在纸张上积极地写或画。",
+                "B. 右手正在擦掉那张上的草图。",
+                "C. 右手正在翻阅纸张。",
+                "D. 右手正在整理纸张。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_145": {
+            "id": "HIjX8OPuf-w_145",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "这一场景中汉堡初层中能看到哪些元素？",
+            "options": [
+                "A. 面包、奶酪、西红柿和肉饼。",
+                "B. 面包、西红柿、洋葱和培根。",
+                "C. 面包、奶酪、西红柿和生菜。",
+                "D. 面包、鸡肉、生菜和奶酪。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_146": {
+            "id": "HIjX8OPuf-w_146",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "这一场景中有多少只手接触到了汉堡？",
+            "options": [
+                "A. 一只手接触到了汉堡。",
+                "B. 两只手接触到了汉堡。",
+                "C. 三只手接触到了汉堡。",
+                "D. 没有手接触到汉堡。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_147": {
+            "id": "HIjX8OPuf-w_147",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "在这一场景中，纸张上是否始终显示文本“NINETEEN TWENTY!”？",
+            "options": [
+                "A. 是的，在视频中，纸张上始终显示文本“NINETEEN TWENTY!”。",
+                "B. 不，文本“NINETEEN TWENTY!”仅在视频开始时短暂可见。",
+                "C. 不，文本“NINETEEN TWENTY!”仅在视频结尾时出现。",
+                "D. 是的，但文本“NINETEEN TWENTY!”在视频中仅间歇性可见。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_148": {
+            "id": "HIjX8OPuf-w_148",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "这一场景中后出现的手从哪个方向与汉堡互动？",
+            "options": [
+                "A. 后出现的手看起来从画面的左侧与汉堡互动。",
+                "B. 后出现的手看起来从画面的右侧与汉堡互动。",
+                "C. 后出现的手看起来从画面的上方与汉堡互动。",
+                "D. 后出现的手看起来从画面的下方与汉堡互动。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_149": {
+            "id": "HIjX8OPuf-w_149",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "在场景结束时，汉堡的位置发生了什么变化？",
+            "options": [
+                "A. 汉堡位于中央位置。",
+                "B. 汉堡被移动到左上角。",
+                "C. 汉堡完全消失了。",
+                "D. 汉堡在整个过程中保持不变。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_150": {
+            "id": "HIjX8OPuf-w_150",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "在场景的最后，哪种配料被加入到部分组装好的汉堡中？",
+            "options": [
+                "A. 一片鳄梨被加在奶酪上面。",
+                "B. 脆培根条被加在奶酪上面。",
+                "C. 洋葱圈被加在红色番茄上面。",
+                "D. 一层焦糖洋葱被加在奶酪上面。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_151": {
+            "id": "HIjX8OPuf-w_151",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "白色纸张上有什么插图？",
+            "options": [
+                "A. 白色纸张上有一幅城堡插图。",
+                "B. 白色纸张上有一幅森林插图。",
+                "C. 白色纸张上有一幅海滩插图。",
+                "D. 白色纸张上有一幅城市景观插图。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_152": {
+            "id": "HIjX8OPuf-w_152",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "这一场景中白纸上的文字内容是什么？",
+            "options": [
+                "A. 文字是'TWENTY FIFTEEN!'。",
+                "B. 文字是'EIGHTEEN NINETY!'。",
+                "C. 文字是'NINETEEN TWENTY!'。",
+                "D. 文字是'TWENTY TEN'。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_153": {
+            "id": "HIjX8OPuf-w_153",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "该场景中还有什么标志吗？",
+            "options": [
+                "A. 底部右侧有“NEW YORK”标志",
+                "B. 左上角有“PARIS”标志",
+                "C. 中央有“LONDON”标志",
+                "D. 底部左侧有“TOKYO”标志"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_154": {
+            "id": "HIjX8OPuf-w_154",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "这一场景中最后两只手一起做什么？",
+            "options": [
+                "A. 两只手用白纸打包了汉堡。",
+                "B. 两只手准备金黄色的薯条并将其放入容器中。",
+                "C. 两只手用黑色的笔在白纸上写字。",
+                "D. 两只手重新定位纸上的汉堡包。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_155": {
+            "id": "HIjX8OPuf-w_155",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "视频中有几只手与纸互动?",
+            "options": [
+                "A. 一只手与纸互动。",
+                "B. 两只手与纸互动。",
+                "C. 三只手与纸互动。",
+                "D. 没有手与纸互动。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_156": {
+            "id": "HIjX8OPuf-w_156",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "视频中有多少只手与汉堡互动？",
+            "options": [
+                "A. 两只手与汉堡互动。",
+                "B. 一只手与汉堡互动。",
+                "C. 三只手与汉堡互动。",
+                "D. 没有手与汉堡互动。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_157": {
+            "id": "HIjX8OPuf-w_157",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "视频中黑色的笔被移动了吗？",
+            "options": [
+                "A. 是的，黑色的笔被移动了好几次。",
+                "B. 不，黑色的笔一直未被移动。",
+                "C. 是的，黑色的笔被稍微重新放置了一下。",
+                "D. 不，黑色的笔被从画面中移除了。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_158": {
+            "id": "HIjX8OPuf-w_158",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "手在场景后半部分对白纸做了什么？",
+            "options": [
+                "A. 手轻握住白纸，用其打包汉堡。",
+                "B. 手将白纸撕成小块并撒开。",
+                "C. 手拿起白纸并将其移出场景。",
+                "D. 手在白纸上放了更多的薯条。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_159": {
+            "id": "HIjX8OPuf-w_159",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "在这一场景的最后，汉堡下纸张有什么变化？",
+            "options": [
+                "A. 纸张包裹汉堡被移走。",
+                "B. 纸张位置无变化。",
+                "C. 纸张被揉成一团。",
+                "D. 纸张被折成了一个三角形。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_160": {
+            "id": "HIjX8OPuf-w_160",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "视频中什么暗示了场景设定在纽约？",
+            "options": [
+                "A. 白纸右下角的“NEW YORK”标签暗示视频场景设定在纽约。",
+                "B. 白纸上的城堡插图和龙暗示视频场景设定在纽约。",
+                "C. 白纸包装中的金黄色薯条暗示视频场景设定在纽约。",
+                "D. 双手与汉堡的互动暗示视频场景设定在纽约。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_161": {
+            "id": "HIjX8OPuf-w_161",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "左手有什么独特的特征？",
+            "options": [
+                "A. 左手指甲很长，用于写字。",
+                "B. 左手指甲较短，用于固定纸张。",
+                "C. 左手有纹身，用于调整纸张。",
+                "D. 左手戴着戒指，用于添加文字。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_162": {
+            "id": "HIjX8OPuf-w_162",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "右手有哪些独特的特点？",
+            "options": [
+                "A. 右手用一支光亮的黑色笔书写。",
+                "B. 右手用短指甲固定纸张。",
+                "C. 右手用来拿薯条。",
+                "D. 右手将笔对角放在桌上。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_163": {
+            "id": "HIjX8OPuf-w_163",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "在合作写作中使用多少只手？",
+            "options": [
+                "A. 一只手",
+                "B. 两只手",
+                "C. 三只手",
+                "D. 四只手"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_164": {
+            "id": "HIjX8OPuf-w_164",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "文字 'VIDEO BY Jorge Corona' 有被划掉吗？",
+            "options": [
+                "A. 是的",
+                "B. 不是",
+                "C. 只有部分",
+                "D. 它是下划线"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_165": {
+            "id": "HIjX8OPuf-w_165",
+            "scene": 9,
+            "dimension": "Object Direction",
+            "question": "左手在写字时如何调整其位置？",
+            "options": [
+                "A. 随着书写的进行，左手向下移动以更稳固地固定纸。",
+                "B. 随着书写的进行，左手向上移动以更稳固地固定纸。",
+                "C. 左手向右移动以在书写时握住笔。",
+                "D. 左手保持不动，在书写过程中不调整其位置。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_166": {
+            "id": "HIjX8OPuf-w_166",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "这一场景中右手执行了什么动作？",
+            "options": [
+                "A. 右手固定纸张。",
+                "B. 右手用笔写下文字。",
+                "C. 右手擦拭表面。",
+                "D. 右手调整薯条。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_167": {
+            "id": "HIjX8OPuf-w_167",
+            "scene": 9,
+            "dimension": "Speed",
+            "question": "视频中如何描述写作的速度？",
+            "options": [
+                "A. 写作进展迅速。",
+                "B. 写作瞬间完成。",
+                "C. 写作逐步进行。",
+                "D. 写作未完成。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_168": {
+            "id": "HIjX8OPuf-w_168",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "写作的发展如何与视频内容相一致？",
+            "options": [
+                "A. 写作显示了新信息随时间的发展。",
+                "B. 写作在整个视频中保持静止和不变。",
+                "C. 写作主要关注装饰性元素而不是内容。",
+                "D. 写作引入了没有明显进展的随机词汇。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_169": {
+            "id": "HIjX8OPuf-w_169",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "在视频接近尾声时，纸上的文字有什么显著变化？",
+            "options": [
+                "A. 文本变为一条单独的线，'NYmag.com'，旁边有一个对号。",
+                "B. 纸上的所有文字被清除，留下完全空白没有被触动。",
+                "C. 文本变为要完成的任务详细列表，用蓝色墨水书写。",
+                "D. 文本更改为粗体字'VIDEO BY Jorge Corona'，没有其他标记。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_170": {
+            "id": "HIjX8OPuf-w_170",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "什么视觉元素强化了工作空间的专业氛围？",
+            "options": [
+                "A. 光滑的黑色桌面上的淡淡的“NEW YORK”水印。",
+                "B. 左上角随意放置的薯条。",
+                "C. 金属米色钢笔的斜置位置。",
+                "D. 保持稳定的俯视相机角度。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_171": {
+            "id": "HIjX8OPuf-w_171",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "手写文字的位置在哪？",
+            "options": [
+                "A. 手写文字完全隐藏在汉堡下面。",
+                "B. 手写文字放在三明治和汉堡的上面。",
+                "C. 手写文字被汉堡部分遮挡。",
+                "D. 手写文字水平放置在右下角附近。"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_172": {
+            "id": "HIjX8OPuf-w_172",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "这一场景的整体环境如何？",
+            "options": [
+                "A. 环境变成了一个视觉吸引人的展示，主要集中在食物展示。",
+                "B. 环境保持简约，注重办公用品。",
+                "C. 环境变得混乱无序，各种物品散落到处。",
+                "D. 环境似乎只集中在饮料选择上。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_173": {
+            "id": "HIjX8OPuf-w_173",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "视频中有真人角色吗？",
+            "options": [
+                "A. 是的，有真人角色出现。",
+                "B. 不，视频中没有真人角色。",
+                "C. 真人角色有短暂出现。",
+                "D. 有些人的手可见。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_174": {
+            "id": "HIjX8OPuf-w_174",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "左上角的芝士汉堡是什么样子？",
+            "options": [
+                "A. 左上角的芝士汉堡有一个芝麻面包，上面有生菜和芝士层。",
+                "B. 左上角的芝士汉堡有一个方形恰巴塔面包，配有香蒜酱和额外的番茄片。",
+                "C. 左上角的芝士汉堡有一个普通的面包，上面有一块厚厚的肉饼，并且有明显的咬痕。",
+                "D. 左上角的芝士汉堡有一个压缩的面包，里面有金黄的薯条。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_175": {
+            "id": "HIjX8OPuf-w_175",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "有多少三明治和汉堡放在纸上？",
+            "options": [
+                "A. 四个三明治和汉堡",
+                "B. 五个三明治和汉堡",
+                "C. 六个三明治和汉堡",
+                "D. 七个三明治和汉堡"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_176": {
+            "id": "HIjX8OPuf-w_176",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "中间上面的汉堡被咬了一口吗？",
+            "options": [
+                "A. 是的，中间上面的汉堡上有一个明显的咬痕。",
+                "B. 不，中间上面的汉堡是完整且没有被碰过的。",
+                "C. 是的，但是咬痕来自左下角的汉堡。",
+                "D. 不，所有汉堡都是完全没有被碰过的。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_177": {
+            "id": "HIjX8OPuf-w_177",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "是什么表明了中间底部汉堡的质量？",
+            "options": [
+                "A. 中间底部汉堡看起来略微压缩，表明它有柔软的新鲜烘烤的质地。",
+                "B. 中间底部汉堡有明显的烧烤痕迹，说明它是在明火上烹制的。",
+                "C. 中间底部汉堡上撒有芝麻，这意味着使用了优质的原料。",
+                "D. 中间底部汉堡包裹着金色的锡箔纸，暗示高档的展示。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_178": {
+            "id": "HIjX8OPuf-w_178",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "场景中是否有物体移动？",
+            "options": [
+                "A. 是的，汉堡在场景中被重新排列。",
+                "B. 不，物体保持静止，刻意安排在桌面上的位置不变。",
+                "C. 是的，薯条被移动到另一个位置。",
+                "D. 是的，钢笔被重新摆放到汉堡附近。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_179": {
+            "id": "HIjX8OPuf-w_179",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "顶视角的摄像机角度如何影响对场景的感知？",
+            "options": [
+                "A. 它提供了清晰的视野，突出了所有物品的形状和质感，与桌面形成对比。",
+                "B. 它为场景增添了戏剧性的光线效果，创造出鲜明的阴影和对比。",
+                "C. 它会遮挡一些细节，使得难以区分各个元素。",
+                "D. 它只聚焦于一个特定物品，模糊了场景的其他部分。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_180": {
+            "id": "HIjX8OPuf-w_180",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "视频中的镜头强调了什么？",
+            "options": [
+                "A. 它强调了桌面上食物摆放的整齐性和纹理。",
+                "B. 它强调了桌面上的手写纸条和笔。",
+                "C. 它强调了场景中的光影效果。",
+                "D. 它强调了桌面的背景和整体空旷感。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_181": {
+            "id": "HIjX8OPuf-w_181",
+            "scene": 10,
+            "dimension": "Speed",
+            "question": "场景中是否有速度变化？",
+            "options": [
+                "A. 是的，场景在元素之间快速切换。",
+                "B. 否，场景中没有速度变化。",
+                "C. 是的，一些物品在纸张上快速移动。",
+                "D. 是的，汉堡被动画化以展示不同角度。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_182": {
+            "id": "HIjX8OPuf-w_182",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "场景中发生了什么变化？",
+            "options": [
+                "A. 场景从一个简约的工作空间变为充满活力的食品展示。",
+                "B. 场景从一个艺术画廊变为一个忙碌的厨房。",
+                "C. 场景从展示饮品变为展示甜点。",
+                "D. 场景从杂乱的桌面变为空荡荡的桌面。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_183": {
+            "id": "HIjX8OPuf-w_183",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "过渡后白色文字在黑色屏幕上的位置在哪里？",
+            "options": [
+                "A. 白色文字出现在画面底部的中央。",
+                "B. 白色文字出现在画面顶部的中央。",
+                "C. 白色文字出现在画面左侧。",
+                "D. 白色文字出现在画面右下角。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_184": {
+            "id": "HIjX8OPuf-w_184",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "在过渡之后，'NEW YORK' 水印在黑屏上的哪个位置？",
+            "options": [
+                "A. 右下角",
+                "B. 右上角",
+                "C. 左下角",
+                "D. 左上角"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_185": {
+            "id": "HIjX8OPuf-w_185",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "这个场景在视觉上是如何结束的？",
+            "options": [
+                "A. 场景以色彩鲜艳的显示和动画草图结束。",
+                "B. 场景转变为带有文本的黑屏，最终变成完全黑色。",
+                "C. 场景过渡到带有文本和彩色标志的白屏。",
+                "D. 场景渐变成一系列图像和动态互动的蒙太奇。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_186": {
+            "id": "HIjX8OPuf-w_186",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "这个场景中与准备食物制作的初始动作是什么？",
+            "options": [
+                "A. 显示一只手将深色液体倒入一个大碗。",
+                "B. 一名厨师在热锅上翻煎饼。",
+                "C. 一个人在木制菜板上切新鲜蔬菜。",
+                "D. 一名咖啡师熟练地为卡布奇诺打奶泡。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_187": {
+            "id": "HIjX8OPuf-w_187",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "哪个场景展示了手在纸上大量写字？",
+            "options": [
+                "A. 最后展示手在纸上写“Video By Jorge Corona...”。",
+                "B. 最后的场景过渡到一个极简的黑屏，同时显示音乐和品牌的致谢。",
+                "C. 视频中间展示了汉堡的传播过程，包含“America”以及“MANHATTAN”。",
+                "D. 开场介绍了手在纸上书写标题“Hamburger History”。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_188": {
+            "id": "HIjX8OPuf-w_188",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "当手写的文本‘NYmag.com’显示后，会发生什么？",
+            "options": [
+                "A. 场景转变为展示食物如汉堡在纸张上的摆放。",
+                "B. 场景展示了纽约市景观的全景画面。",
+                "C. 屏幕渐变呈现出多彩的烟花展示。",
+                "D. 一位角色出现并开始讲述NYmag的历史。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_189": {
+            "id": "HIjX8OPuf-w_189",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "这个场景如何体现纽约主题？",
+            "options": [
+                "A. 场景包括自由女神像和美国国旗的剪影，以及“New York”水印。",
+                "B. 场景使用了鲜艳的颜色和动态动画展示了纽约著名的地标，如时代广场。",
+                "C. 场景运用了喧闹的城市交通和鸣笛声，来表现纽约标志性的氛围。",
+                "D. 场景切换到繁忙的纽约城市景观，显著展示了摩天大楼和黄色出租车。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_190": {
+            "id": "HIjX8OPuf-w_190",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在食物摆放在纸上之后会发生什么？",
+            "options": [
+                "A. 场景转换为带有音乐鸣谢的黑屏，标志着视频的结束。",
+                "B. 场景切换到一个展示工作空间的精美动画序列。",
+                "C. 场景展示一种新种类的五彩缤纷的食物和办公用品。",
+                "D. 场景切换到一个热闹的街景伴随着欢快的背景音乐。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_191": {
+            "id": "HIjX8OPuf-w_191",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "视频结束之前的最后一个视觉元素是什么？",
+            "options": [
+                "A. 五彩缤纷的工作空间物品拼贴。",
+                "B. 一个完全黑色、没有任何特征的画面标志着结束。",
+                "C. 带有彩色背景的白色文字字幕。",
+                "D. 品牌标志的细腻动画。"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_192": {
+            "id": "HIjX8OPuf-w_192",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么场景会从吸引人的纸张中转变为食物展示？",
+            "options": [
+                "A. 这种转变可能是为了进行美食评论或宣传，重点展示汉堡和三明治的呈现质量。",
+                "B. 这种转变旨在描绘从欢快的情绪到更庄重主题的过渡。",
+                "C. 场景的变化是为了突出在影视制作中使用的灯光技术的变化。",
+                "D. 从纸张到食物展示的切换强调了数字动画技能的重要性。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_193": {
+            "id": "HIjX8OPuf-w_193",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么“New York”标志会出现在画面的角落里？",
+            "options": [
+                "A. “New York”标志作为水印以在大部分视频中保持品牌的一致性。",
+                "B. “New York”标志提供了视频位置的信息。",
+                "C. “New York”标志象征着极简设计的过渡。",
+                "D. 添加“New York”标志是为了致敬制作公司。"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_194": {
+            "id": "HIjX8OPuf-w_194",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "汉堡的排列有什么意义？",
+            "options": [
+                "A. 整齐的排列突出了食物种类丰富，符合介绍汉堡的历史。",
+                "B. 这种排列只是一个随意组合，没有任何特定目的。",
+                "C. 汉堡象征着一个杂乱无序的工作环境，没有组织意图。",
+                "D. 排列的目的是为了遮掩场景的中心焦点。"
+            ],
+            "answer": "A"
+        }
+    }
+}

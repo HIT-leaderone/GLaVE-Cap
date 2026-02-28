@@ -1,0 +1,1798 @@
+{
+    "scene_hint": {
+        "0": "There is a bowl with something in it on the screen.",
+        "1": "Add the first item to the container.",
+        "2": "Add the second item to the container.",
+        "3": "Add the third item to the container.",
+        "4": "Add the fourth item to the container.",
+        "5": "Add the fifth item to the container.",
+        "6": "Add the sixth item to the container.",
+        "7": "Add the seventh item to the container.",
+        "8": "The blender mixes layers in the glass container.",
+        "9": "The cream mixture is poured into the bowl.",
+        "10": "There is a white logo and text on a black background."
+    },
+    "qa": {
+        "J2rlJV7zKZw_0": {
+            "id": "J2rlJV7zKZw_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the position of the bowl relative to the table?",
+            "options": [
+                "A. The bowl is in the center of the table.",
+                "B. The bowl is on the right side of the table.",
+                "C. The bowl is on the left side of the table.",
+                "D. The bowl is not on the table."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_1": {
+            "id": "J2rlJV7zKZw_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the location of the scene in the picture?",
+            "options": [
+                "A. The scene is a clothing store.",
+                "B. The scene might be a kitchen or dining area.",
+                "C. The scene is a study room in a library.",
+                "D. The scene is an art gallery."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_2": {
+            "id": "J2rlJV7zKZw_2",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is the unique feature of the bowl in the picture?",
+            "options": [
+                "A. The edge of the bowl has a serrated pattern.",
+                "B. The bowl is decorated with floral patterns.",
+                "C. The surface of the bowl is pure white.",
+                "D. The bowl is made of transparent glass."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_3": {
+            "id": "J2rlJV7zKZw_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What words are displayed in the background?",
+            "options": [
+                "A. FOOD",
+                "B. MEAT",
+                "C. SAUCE",
+                "D. CHEF"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_4": {
+            "id": "J2rlJV7zKZw_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Is there text in the foreground in the final scene?",
+            "options": [
+                "A. Yes, the text in the foreground still exists.",
+                "B. No, the text in the foreground has been removed.",
+                "C. Yes, the text in the foreground is partially visible.",
+                "D. No, the text in the foreground was never there."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_5": {
+            "id": "J2rlJV7zKZw_5",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What does the camera angle highlight in the image?",
+            "options": [
+                "A. The camera angle highlights the swirl of the mayonnaise.",
+                "B. The camera angle emphasizes the pattern on the bowl.",
+                "C. The camera angle focuses on the text in the background.",
+                "D. The camera angle draws attention to the countertop."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_6": {
+            "id": "J2rlJV7zKZw_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What effect does the lighting have on the image?",
+            "options": [
+                "A. The lighting highlights the pattern on the bowl.",
+                "B. The lighting casts shadows on the mayonnaise.",
+                "C. The lighting makes the background text blurry.",
+                "D. The lighting creates a spotlight effect on the tabletop."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_7": {
+            "id": "J2rlJV7zKZw_7",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "Which direction does the pattern on the edge of the bowl appear to move?",
+            "options": [
+                "A. It appears to move vertically.",
+                "B. It appears to move diagonally.",
+                "C. It appears to move horizontally.",
+                "D. It appears to move in a circular motion."
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_8": {
+            "id": "J2rlJV7zKZw_8",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in the image?",
+            "options": [
+                "A. The camera angle is at eye level.",
+                "B. The camera angle is shot from above.",
+                "C. The camera angle is shot from below.",
+                "D. The camera is tilted at a steep angle."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_9": {
+            "id": "J2rlJV7zKZw_9",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the container located on the screen?",
+            "options": [
+                "A. Located in the center of the screen.",
+                "B. Located at the top of the screen.",
+                "C. Located on the left side of the screen.",
+                "D. Located on the right side of the screen."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_10": {
+            "id": "J2rlJV7zKZw_10",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What type of lighting is used in the scene?",
+            "options": [
+                "A. Uses bright and glaring lighting.",
+                "B. Uses dim and atmospheric lighting.",
+                "C. Uses soft and diffused lighting.",
+                "D. Uses colorful and focused lighting."
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_11": {
+            "id": "J2rlJV7zKZw_11",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What are the prominent visual elements in the scene?",
+            "options": [
+                "A. Letters on the background.",
+                "B. Bowl containing the contents.",
+                "C. Yellow liquid.",
+                "D. Dark background."
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_12": {
+            "id": "J2rlJV7zKZw_12",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "Who is pouring liquid into the container?",
+            "options": [
+                "A. Chef",
+                "B. Robotic arm",
+                "C. Cannot be determined",
+                "D. Chef's assistant"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_13": {
+            "id": "J2rlJV7zKZw_13",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is special about the bowl in this scene?",
+            "options": [
+                "A. The bowl is filled with something creamy.",
+                "B. The bowl is filled with fruit.",
+                "C. The bowl is empty.",
+                "D. The bowl is being washed."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_14": {
+            "id": "J2rlJV7zKZw_14",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What is the purpose of the container in the scene?",
+            "options": [
+                "A. Used to pour liquid into it.",
+                "B. Displayed as a decorative item.",
+                "C. Contains colorful fruits.",
+                "D. A container for serving finished dishes."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_15": {
+            "id": "J2rlJV7zKZw_15",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What does the text in the background show at the beginning of the scene?",
+            "options": [
+                "A. 'COOK WITH'.",
+                "B. 'PREPARE'.",
+                "C. 'SERVE'.",
+                "D. 'ENJOY'."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_16": {
+            "id": "J2rlJV7zKZw_16",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "Is the camera stationary?",
+            "options": [
+                "A. Yes, the camera remains stationary.",
+                "B. No, the camera will adjust the angle downward.",
+                "C. No, the camera will adjust the angle to the right.",
+                "D. No, the camera will zoom in closer."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_17": {
+            "id": "J2rlJV7zKZw_17",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What does it look like when something is poured into a container?",
+            "options": [
+                "A. It is poured steadily.",
+                "B. Overflowing the glass container.",
+                "C. Creates chaotic splashes.",
+                "D. Only captured the transition of the text."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_18": {
+            "id": "J2rlJV7zKZw_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the background of this scene?",
+            "options": [
+                "A. The background of the scene is a cooking environment.",
+                "B. The background of the scene is a laboratory.",
+                "C. The background of the scene is an office.",
+                "D. The background of the scene is a garden."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_19": {
+            "id": "J2rlJV7zKZw_19",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Does the scene depict obvious human actions?",
+            "options": [
+                "A. Yes, someone is pouring liquid into a container.",
+                "B. Yes, someone cracked an egg over the container.",
+                "C. No, the scene does not depict any human actions.",
+                "D. Yes, a hand is adjusting the measuring cup."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_20": {
+            "id": "J2rlJV7zKZw_20",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Are there any visible human features depicted in the scene?",
+            "options": [
+                "A. Yes, a human hand can be seen.",
+                "B. Yes, there is a reflection of a human face.",
+                "C. No, there are no human features in this scene.",
+                "D. Yes, there is a shadow of a person."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_21": {
+            "id": "J2rlJV7zKZw_21",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What was added to the container?",
+            "options": [
+                "A. Eggs",
+                "B. Raw meat",
+                "C. Lemon",
+                "D. Milk"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_22": {
+            "id": "J2rlJV7zKZw_22",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many things can be seen added in the measuring cup?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. None"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_23": {
+            "id": "J2rlJV7zKZw_23",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is there a scale on the container for measuring volume?",
+            "options": [
+                "A. Yes, there are two columns of numbers on the scale.",
+                "B. No, there are no visible scales or markings for measuring volume.",
+                "C. Yes, there is only one column of numbers on the scale.",
+                "D. No, there are only decorative texts."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_24": {
+            "id": "J2rlJV7zKZw_24",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is there any movement of the container in the scene?",
+            "options": [
+                "A. Yes, the container rotates and moves.",
+                "B. No, the container remains stationary.",
+                "C. Yes, the container sways left and right.",
+                "D. Yes, the container was knocked over."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_25": {
+            "id": "J2rlJV7zKZw_25",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What is the text displayed on the container?",
+            "options": [
+                "A. 'whole egg'",
+                "B. '20'",
+                "C. 'WHOLE'",
+                "D. 'MEAT'"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_26": {
+            "id": "J2rlJV7zKZw_26",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the largest bubble on the front of the measuring cup located?",
+            "options": [
+                "A. Near the bottom of the measuring cup",
+                "B. Near the 2 milliliter mark",
+                "C. Near the 4 milliliter mark",
+                "D. At the top of the measuring cup"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_27": {
+            "id": "J2rlJV7zKZw_27",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the main scene depicted?",
+            "options": [
+                "A. A measuring cup is placed on the table.",
+                "B. A school laboratory.",
+                "C. A busy kitchen.",
+                "D. A messy bedroom."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_28": {
+            "id": "J2rlJV7zKZw_28",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Have any humans been observed?",
+            "options": [
+                "A. Yes, a few people are using the measuring cup.",
+                "B. Yes, a hand can be briefly seen.",
+                "C. No, no humans were observed in the video.",
+                "D. Yes, a person's reflection is visible in the measuring cup."
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_29": {
+            "id": "J2rlJV7zKZw_29",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What are the physical characteristics of this measuring cup?",
+            "options": [
+                "A. The measuring cup is transparent and cylindrical, with vertical markings.",
+                "B. The measuring cup is opaque, rectangular, and has no visible markings.",
+                "C. The measuring cup is round and has no markings.",
+                "D. This measuring cup has a colorful design and horizontal markings."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_30": {
+            "id": "J2rlJV7zKZw_30",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What does the item in the measuring cup look like?",
+            "options": [
+                "A. Orange yolk, surrounded by slightly yellowish liquid.",
+                "B. Red yolk, surrounded by clear liquid.",
+                "C. Light yellow yolk, surrounded by green liquid.",
+                "D. Dark brown yolk, surrounded by blue liquid."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_31": {
+            "id": "J2rlJV7zKZw_31",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many English text elements are there in the scene?",
+            "options": [
+                "A. One text element",
+                "B. Two text elements",
+                "C. Three text elements",
+                "D. No text elements"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_32": {
+            "id": "J2rlJV7zKZw_32",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Can the text 'WHOLE' be seen in the background?",
+            "options": [
+                "A. Yes, the text 'WHOLE' is always visible in the background.",
+                "B. No, the text 'WHOLE' is not visible in the background.",
+                "C. Yes, but it becomes somewhat blurred over time.",
+                "D. No, the text 'WHOLE' is partially obscured by 'MEAT'."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_33": {
+            "id": "J2rlJV7zKZw_33",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "What changes occurred with the camera?",
+            "options": [
+                "A. The camera angle did not change.",
+                "B. The camera angle tilted slightly downward.",
+                "C. The camera angle gradually moved upward.",
+                "D. The camera moved horizontally."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_34": {
+            "id": "J2rlJV7zKZw_34",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "Do the egg yolk and bubbles in the measuring cup move over time?",
+            "options": [
+                "A. Yes, the egg yolk and bubbles move slightly.",
+                "B. No, the egg yolk and bubbles in the measuring cup remain stationary.",
+                "C. The egg yolk moves, but the bubbles remain stationary.",
+                "D. The bubbles move, but the egg yolk stays in place."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_35": {
+            "id": "J2rlJV7zKZw_35",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the main foreground text in this scene?",
+            "options": [
+                "A. 'dijon mustard'.",
+                "B. 'whole egg'.",
+                "C. 'MEAT'.",
+                "D. 'WHOLE'."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_36": {
+            "id": "J2rlJV7zKZw_36",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where are the small white granular particles mainly distributed within the measuring cup?",
+            "options": [
+                "A. The small white granular particles are mainly distributed in the middle left side of the mixture.",
+                "B. The small white granular particles are mainly distributed in the middle right side of the mixture.",
+                "C. The small white granular particles are evenly distributed throughout the entire mixture.",
+                "D. The small white granular particles are mainly distributed at the bottom of the mixture."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_37": {
+            "id": "J2rlJV7zKZw_37",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What surface is the measuring cup placed on?",
+            "options": [
+                "A. Glass countertop.",
+                "B. Wooden surface.",
+                "C. Marble surface.",
+                "D. Metal tray."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_38": {
+            "id": "J2rlJV7zKZw_38",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "How is the lighting in this scene?",
+            "options": [
+                "A. The scene is evenly and softly lit.",
+                "B. The scene is brightly lit.",
+                "C. The scene is dimly lit.",
+                "D. The scene is colorful."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_39": {
+            "id": "J2rlJV7zKZw_39",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is the state of the egg yolk in the measuring cup?",
+            "options": [
+                "A. Suspended in a viscous pale yellow liquid.",
+                "B. The egg yolk is completely dissolved in a clear liquid.",
+                "C. The egg yolk is solid, resting at the bottom of the cup.",
+                "D. The egg yolk is broken and evenly mixed into the liquid."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_40": {
+            "id": "J2rlJV7zKZw_40",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "What is the volume of the liquid mixture in the measuring cup?",
+            "options": [
+                "A. The volume of the liquid mixture in the measuring cup is approximately 3 milliliters.",
+                "B. The volume of the liquid mixture in the measuring cup is approximately 4 milliliters.",
+                "C. The volume of the liquid mixture in the measuring cup is approximately 5 milliliters.",
+                "D. The volume of the liquid mixture in the measuring cup is approximately 6 milliliters."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_41": {
+            "id": "J2rlJV7zKZw_41",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "Will the surface underneath the measuring cup change its texture?",
+            "options": [
+                "A. No, its texture remains unchanged.",
+                "B. Yes, it becomes rougher.",
+                "C. Yes, it becomes smoother.",
+                "D. Yes, it turns into a glass surface."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_42": {
+            "id": "J2rlJV7zKZw_42",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What details can be seen in the background through the transparent part of the cup?",
+            "options": [
+                "A. The outline of the background text can be faintly seen, including the letters 'MEAT'.",
+                "B. There is nothing in the background.",
+                "C. The complete word 'measuring' can be clearly read.",
+                "D. Various vivid depictions of kitchen utensils can be seen."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_43": {
+            "id": "J2rlJV7zKZw_43",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "How can a camera lens highlight the features of a measuring cup and its contents?",
+            "options": [
+                "A. The camera lens uses a consistent angle, focus, and depth of field.",
+                "B. The camera lens suddenly zooms in on the mixture.",
+                "C. The camera lens adopts an overhead angle.",
+                "D. The camera lens keeps the background in sharp focus."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_44": {
+            "id": "J2rlJV7zKZw_44",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What is the text overlay on the screen in the scene?",
+            "options": [
+                "A. 'Sugar,'",
+                "B. 'Salt,'",
+                "C. 'dijon mustard,'",
+                "D. 'butter' to 'Honey,'"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_45": {
+            "id": "J2rlJV7zKZw_45",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where are the light-colored particles located in the measuring cup?",
+            "options": [
+                "A. The light-colored particles are randomly distributed in the liquid.",
+                "B. The light-colored particles are mainly located at the top of the liquid, slightly to the right.",
+                "C. The light-colored particles are mainly located in the center of the liquid.",
+                "D. The light-colored particles are mainly located at the bottom of the liquid."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_46": {
+            "id": "J2rlJV7zKZw_46",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the scene?",
+            "options": [
+                "A. The scene is centered around a measuring cup placed on a surface.",
+                "B. The scene focuses on a chef preparing ingredients in the kitchen.",
+                "C. The scene shows a dining table filled with dishes and condiments.",
+                "D. The scene depicts a market stall displaying various ingredients."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_47": {
+            "id": "J2rlJV7zKZw_47",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the background of this scene like?",
+            "options": [
+                "A. The background is clear, and the word 'MEAT' is clearly visible.",
+                "B. The background is blurry, and the word 'MEAT' can be roughly seen.",
+                "C. There are abstract geometric shapes in the background.",
+                "D. There is nothing in the background."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_48": {
+            "id": "J2rlJV7zKZw_48",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "Is there any description of human presence in the scene?",
+            "options": [
+                "A. Yes, someone is adding water.",
+                "B. No, there is no description of human presence.",
+                "C. Yes, someone is shaking the cup.",
+                "D. Yes, someone is stirring the cup."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_49": {
+            "id": "J2rlJV7zKZw_49",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What is the shape of the measuring cup?",
+            "options": [
+                "A. The measuring cup is cylindrical.",
+                "B. The measuring cup is spherical.",
+                "C. The measuring cup is rectangular.",
+                "D. The measuring cup is conical."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_50": {
+            "id": "J2rlJV7zKZw_50",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What is the transparency of the measuring cup?",
+            "options": [
+                "A. The measuring cup is opaque.",
+                "B. The measuring cup is clear and transparent.",
+                "C. The measuring cup is blurry and semi-transparent.",
+                "D. The measuring cup is partially transparent."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_51": {
+            "id": "J2rlJV7zKZw_51",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What is the maximum scale observable on the measuring cup?",
+            "options": [
+                "A. 10.",
+                "B. 9.",
+                "C. 8.",
+                "D. 7."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_52": {
+            "id": "J2rlJV7zKZw_52",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What is in the measuring cup?",
+            "options": [
+                "A. The measuring cup contains clear water with lemon slices.",
+                "B. The measuring cup contains an orange-yellow egg yolk.",
+                "C. The measuring cup contains flour mixed with water into a paste.",
+                "D. The measuring cup contains chopped vegetables soaked in clear broth."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_53": {
+            "id": "J2rlJV7zKZw_53",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What is the text displayed in the scene?",
+            "options": [
+                "A. 'Salt'.",
+                "B. 'Vinegar'.",
+                "C. 'Milk'.",
+                "D. 'Pepper'."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_54": {
+            "id": "J2rlJV7zKZw_54",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is there any movement in the liquid in the measuring cup?",
+            "options": [
+                "A. Yes, the liquid in the measuring cup is rotating.",
+                "B. Yes, the liquid in the measuring cup is slightly rising.",
+                "C. No, the liquid in the measuring cup remains still.",
+                "D. No, the liquid in the measuring cup is evaporating."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_55": {
+            "id": "J2rlJV7zKZw_55",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "Are there any visible features in the liquid?",
+            "options": [
+                "A. No, the liquid appears completely smooth and featureless.",
+                "B. Yes, small bubbles and light-colored particles can be seen in the liquid.",
+                "C. Yes, there are large chunks and a foamy texture in the liquid.",
+                "D. No, the liquid is completely opaque, making it impossible to see any features."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_56": {
+            "id": "J2rlJV7zKZw_56",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "Which camera angle emphasizes the measuring cup in the scene?",
+            "options": [
+                "A. A stable camera angle.",
+                "B. A top-down angle.",
+                "C. A dynamic camera angle.",
+                "D. A low-angle perspective."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_57": {
+            "id": "J2rlJV7zKZw_57",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "When squeezing lime slices, where is the hand positioned in the image?",
+            "options": [
+                "A. The hand is located at the central position of the upper part of the image.",
+                "B. The hand is located at the lower left corner of the image.",
+                "C. The hand is located at the right edge of the image.",
+                "D. The hand is near the center of the image but closer to the bottom."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_58": {
+            "id": "J2rlJV7zKZw_58",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What could be the scene depicted in the video?",
+            "options": [
+                "A. The scene is a kitchen.",
+                "B. The scene is an outdoor garden.",
+                "C. The scene is a restaurant.",
+                "D. The scene is a commercial office."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_59": {
+            "id": "J2rlJV7zKZw_59",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What is the hand doing with lime slices in the video?",
+            "options": [
+                "A. The hand is squeezing a fresh green lime wedge.",
+                "B. The hand is cutting the lime into smaller pieces.",
+                "C. The hand is peeling the lime wedge and discarding the peel.",
+                "D. The hand is placing the lime wedge on the cutting board without squeezing it."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_60": {
+            "id": "J2rlJV7zKZw_60",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What are the visual characteristics of squeezed lime slices?",
+            "options": [
+                "A. The lime slices appear bright green.",
+                "B. The lime slices appear light yellow.",
+                "C. The lime slices appear dark green.",
+                "D. The lime slices are vibrant orange."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_61": {
+            "id": "J2rlJV7zKZw_61",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What is the physical state of lime slices when squeezed?",
+            "options": [
+                "A. Lime slices are completely decomposed.",
+                "B. Lime slices are partially compressed.",
+                "C. Lime slices are completely intact.",
+                "D. Lime slices are dried and brittle."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_62": {
+            "id": "J2rlJV7zKZw_62",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "How many lines does the text 'COOK WITH MEAT' appear in?",
+            "options": [
+                "A. One line",
+                "B. Two lines",
+                "C. Three lines",
+                "D. Four lines"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_63": {
+            "id": "J2rlJV7zKZw_63",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Is there an overlay text label?",
+            "options": [
+                "A. Yes, the measuring cup shows the overlay text 'lime juice'.",
+                "B. No, there is no overlay text labeling the liquid.",
+                "C. Yes, the measuring cup shows the overlay text 'apple juice'.",
+                "D. Yes, the measuring cup shows the overlay text 'lemon juice'."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_64": {
+            "id": "J2rlJV7zKZw_64",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What elements can be seen in the scene background?",
+            "options": [
+                "A. Star patterns and the 'WITH MEAT' part are visible in the background.",
+                "B. A cutting board with a knife and some herbs are clearly visible in the background.",
+                "C. The background prominently displays a cookbook with a lime-themed recipe.",
+                "D. A set of measuring cups and spoons are neatly arranged in the background."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_65": {
+            "id": "J2rlJV7zKZw_65",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "Where does this scene take place?",
+            "options": [
+                "A. The scene takes place on a wooden surface.",
+                "B. The scene takes place on a glass table.",
+                "C. The scene takes place on a marble countertop.",
+                "D. The scene takes place on a metal countertop."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_66": {
+            "id": "J2rlJV7zKZw_66",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "What is the arrangement of the measuring cup?",
+            "options": [
+                "A. The measuring cup is placed in the center.",
+                "B. The measuring cup is placed off-center.",
+                "C. The measuring cup is placed on a metal surface.",
+                "D. The measuring cup is surrounded by various tools and ingredients."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_67": {
+            "id": "J2rlJV7zKZw_67",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "At the beginning, what is the human in the video doing?",
+            "options": [
+                "A. The person manually squeezes a lime into a measuring cup.",
+                "B. The person starts mixing the ingredients with a blender.",
+                "C. The person pours vegetable oil into the measuring cup.",
+                "D. The person directly cracks an egg into the measuring cup."
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_68": {
+            "id": "J2rlJV7zKZw_68",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What happens to the liquid level in the measuring cup?",
+            "options": [
+                "A. The liquid level rises.",
+                "B. The liquid level does not change at all.",
+                "C. The liquid level decreases over time.",
+                "D. The liquid level changes due to the cup tilting."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_69": {
+            "id": "J2rlJV7zKZw_69",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What happens to the mixture in the measuring cup?",
+            "options": [
+                "A. The mixture begins to homogenize.",
+                "B. The mixture separates into distinct layers.",
+                "C. The mixture evaporates.",
+                "D. The mixture remains completely unchanged."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_70": {
+            "id": "J2rlJV7zKZw_70",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "Which type of lens is used to emphasize a measuring cup?",
+            "options": [
+                "A. Wide-angle lens",
+                "B. Close-up lens",
+                "C. Bird's-eye view lens",
+                "D. Long shot lens"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_71": {
+            "id": "J2rlJV7zKZw_71",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What is the text displayed on the screen?",
+            "options": [
+                "A. 'vegetable oil'",
+                "B. 'olive oil'",
+                "C. 'cooking oil'",
+                "D. 'canola oil'"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_72": {
+            "id": "J2rlJV7zKZw_72",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "Where is the measuring cup placed?",
+            "options": [
+                "A. On the glass table.",
+                "B. On the wooden surface.",
+                "C. On the marble countertop.",
+                "D. On the steel frame."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_73": {
+            "id": "J2rlJV7zKZw_73",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the background of this scene?",
+            "options": [
+                "A. The setting is in a cooking environment.",
+                "B. The scene takes place in a garden.",
+                "C. The setting is in a workshop.",
+                "D. The scene takes place in a library."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_74": {
+            "id": "J2rlJV7zKZw_74",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the background of this scene like?",
+            "options": [
+                "A. Bright and detailed.",
+                "B. Soft and blurry.",
+                "C. Completely dark.",
+                "D. Colorful."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_75": {
+            "id": "J2rlJV7zKZw_75",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What is being displayed in the hand in the scene?",
+            "options": [
+                "A. What is being displayed in the hand is a small black truffle.",
+                "B. What is being displayed in the hand is a measuring cup containing egg yolk and liquid.",
+                "C. What is being displayed in the hand is a glass filled with water.",
+                "D. What is being displayed in the hand is the word 'C O O K'."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_76": {
+            "id": "J2rlJV7zKZw_76",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "As the scene progresses, what does the hand do?",
+            "options": [
+                "A. The hand releases the black truffle into the cup.",
+                "B. The hand places the truffle back on the table.",
+                "C. The hand waves at the camera.",
+                "D. The hand holds a measuring cup."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_77": {
+            "id": "J2rlJV7zKZw_77",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many decorative stars are visible in the scene description?",
+            "options": [
+                "A. Two decorative stars can be vaguely seen.",
+                "B. Three decorative stars can be vaguely seen.",
+                "C. Four decorative stars can be vaguely seen.",
+                "D. No decorative stars are visible."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_78": {
+            "id": "J2rlJV7zKZw_78",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "Where does the focus shift after the truffle is removed?",
+            "options": [
+                "A. The measuring cup and the movement of the hand.",
+                "B. The glass filled with water.",
+                "C. The black truffle placed on the cutting board.",
+                "D. The 'C O O K' text and decorative stars."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_79": {
+            "id": "J2rlJV7zKZw_79",
+            "scene": 7,
+            "dimension": "Camera Direction",
+            "question": "What is the direction of the camera's movement in the scene?",
+            "options": [
+                "A. The camera quickly pans across the scene.",
+                "B. The camera zooms in or out.",
+                "C. The camera remains stable.",
+                "D. The camera moves slowly from left to right."
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_80": {
+            "id": "J2rlJV7zKZw_80",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "What camera angle should be used to highlight black truffle?",
+            "options": [
+                "A. Use a close-up shot to highlight black truffle.",
+                "B. Use a wide-angle lens to highlight black truffle.",
+                "C. Use an overhead shot to highlight black truffle.",
+                "D. Use a long shot to highlight black truffle."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_81": {
+            "id": "J2rlJV7zKZw_81",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What is the most visually prominent text in the scene?",
+            "options": [
+                "A. 'black truffle (optional)'.",
+                "B. 'black truffle'.",
+                "C. 'truffle'.",
+                "D. 'truffle (optional)'."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_82": {
+            "id": "J2rlJV7zKZw_82",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "Who used a mixer in the video to participate in the mixing process?",
+            "options": [
+                "A. A robot used a mixer to participate in the mixing process.",
+                "B. A person used a mixer to participate in the mixing process.",
+                "C. No one participated in the mixing process, the machine automatically experimented with mixing.",
+                "D. An animal used a mixer to participate in the mixing process."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_83": {
+            "id": "J2rlJV7zKZw_83",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the glass container at the beginning of the scene?",
+            "options": [
+                "A. The glass container is transparent, without any marks or water droplets.",
+                "B. Part of the glass container is clear, with water droplets on the surface.",
+                "C. The glass container is opaque, decorated with various patterns.",
+                "D. The glass container is colored, without condensation droplets."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_84": {
+            "id": "J2rlJV7zKZw_84",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many layers of stratification are there in the glass container before stirring?",
+            "options": [
+                "A. There are two distinct layers of stratification in the glass container before stirring.",
+                "B. There are three distinct layers of stratification in the glass container before stirring.",
+                "C. There is only one layer of stratification in the glass container before stirring.",
+                "D. There is no stratification in the glass container before stirring."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_85": {
+            "id": "J2rlJV7zKZw_85",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Can you see the wooden surface in the background?",
+            "options": [
+                "A. Yes, the wooden surface is directly visible.",
+                "B. No, the wooden surface is completely hidden.",
+                "C. The wooden surface can only be seen through a plastic film.",
+                "D. The wooden surface is partially covered by cloth."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_86": {
+            "id": "J2rlJV7zKZw_86",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "What happened when the blender was introduced into the scene?",
+            "options": [
+                "A. The blender caused the ingredients in the glass container to overflow.",
+                "B. The blender just stirred without any ingredients overflowing.",
+                "C. The blender remained stationary inside the container.",
+                "D. The blender stirred while adding liquid inside."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_87": {
+            "id": "J2rlJV7zKZw_87",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "How does the visibility of the background text change?",
+            "options": [
+                "A. The visible parts are decreasing because the liquid is no longer transparent.",
+                "B. All the letters 'C O O K' are clearly visible.",
+                "C. The background text completely disappears.",
+                "D. The background text becomes completely blurred."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_88": {
+            "id": "J2rlJV7zKZw_88",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "When stirring, where is the bottom of the stirrer located in the glass container?",
+            "options": [
+                "A. Located at the surface of the liquid.",
+                "B. Located in the middle of the liquid.",
+                "C. Located at the bottom of the liquid.",
+                "D. The stirrer is not stirring."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_89": {
+            "id": "J2rlJV7zKZw_89",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video composed of?",
+            "options": [
+                "A. A kitchen with hanging cookware.",
+                "B. Letters and decorative stars.",
+                "C. A plain white wall with no decorations.",
+                "D. A window overlooking a garden."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_90": {
+            "id": "J2rlJV7zKZw_90",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Can the characters be seen in the video?",
+            "options": [
+                "A. Yes, the characters can be fully seen in the video.",
+                "B. No, the characters cannot be seen in the video.",
+                "C. Only a part of a person's hand can be seen in the video.",
+                "D. The shadow of the characters can be seen in the video."
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_91": {
+            "id": "J2rlJV7zKZw_91",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Does the video show the stirring action in progress?",
+            "options": [
+                "A. Yes, the layers are being mixed and emulsified.",
+                "B. No, it only shows the process of adding ingredients to the mixer.",
+                "C. No, there is no stirring action.",
+                "D. Yes, but it only shows the final product after stirring is completed."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_92": {
+            "id": "J2rlJV7zKZw_92",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "What transformation occurs inside the mixer tank during the mixing process?",
+            "options": [
+                "A. Mixed into a uniform combination.",
+                "B. Separated into different layers.",
+                "C. Completely dissolved, leaving a clear liquid.",
+                "D. The contents remain unchanged throughout the process."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_93": {
+            "id": "J2rlJV7zKZw_93",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "What movement is observed in the mixer tank during the stirring process?",
+            "options": [
+                "A. A distinct vortex motion can be observed.",
+                "B. The movement occurring in the tank cannot be observed.",
+                "C. The contents begin to separate into different layers.",
+                "D. Many large solid components appear in the mixture."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_94": {
+            "id": "J2rlJV7zKZw_94",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "During this segment, did the camera angle change?",
+            "options": [
+                "A. Yes, the camera angle changed multiple times.",
+                "B. Yes, the camera angle changed once.",
+                "C. No, the camera angle did not change, but there was a slight zoom.",
+                "D. No, the camera angle only changed at the beginning."
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_95": {
+            "id": "J2rlJV7zKZw_95",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "What lens is used to capture the mixing process?",
+            "options": [
+                "A. Use a close-up lens.",
+                "B. Use a wide-angle lens.",
+                "C. Use an overhead lens.",
+                "D. Use a panoramic lens."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_96": {
+            "id": "J2rlJV7zKZw_96",
+            "scene": 8,
+            "dimension": "Speed",
+            "question": "How is the specific performance of the mixing speed shown in the video?",
+            "options": [
+                "A. The smooth rotational motion demonstrates the blending of layers.",
+                "B. The contents splatter out of the jar.",
+                "C. The layers hardly mix, mainly remaining in a separated state.",
+                "D. Suddenly switches between fast and slow."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_97": {
+            "id": "J2rlJV7zKZw_97",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "Where is the mixer located at the beginning of the scene?",
+            "options": [
+                "A. The mixer is suspended in the air and moves downward.",
+                "B. The mixer is completely submerged in the jar.",
+                "C. The mixer is placed on the tabletop.",
+                "D. The mixer is placed next to the jar."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_98": {
+            "id": "J2rlJV7zKZw_98",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What color is the background described in the video?",
+            "options": [
+                "A. The background is colorful.",
+                "B. The background is white.",
+                "C. The background is dark.",
+                "D. The background is metallic."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_99": {
+            "id": "J2rlJV7zKZw_99",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "How are the stripes and residues inside the jar formed?",
+            "options": [
+                "A. Caused by recent vibrations during the stirring process.",
+                "B. The jar was not cleaned before use.",
+                "C. The mixture was poured out and then refilled.",
+                "D. Produced by the evaporation of the mixture."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_100": {
+            "id": "J2rlJV7zKZw_100",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "How does the volume of the mixture in the jar change?",
+            "options": [
+                "A. The volume increases.",
+                "B. The volume decreases.",
+                "C. It stays at the same level.",
+                "D. It has already overflowed the jar."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_101": {
+            "id": "J2rlJV7zKZw_101",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "Where should the dining bowl be placed?",
+            "options": [
+                "A. Place it on the wooden tabletop.",
+                "B. Place it on the marble countertop.",
+                "C. Place it on the stainless steel tray.",
+                "D. Place it on the glass dining table."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_102": {
+            "id": "J2rlJV7zKZw_102",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the scene?",
+            "options": [
+                "A. An indoor setting with soft, diffused lighting.",
+                "B. A bright outdoor setting.",
+                "C. A cluttered laboratory.",
+                "D. A dimly lit restaurant."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_103": {
+            "id": "J2rlJV7zKZw_103",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "What actions did the person perform in the scene?",
+            "options": [
+                "A. Pour the milky mixture into the bowl.",
+                "B. Clean the glass container before pouring.",
+                "C. Stir the milky mixture in the bowl.",
+                "D. Stir the milky mixture before pouring."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_104": {
+            "id": "J2rlJV7zKZw_104",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "What does the exterior surface of the bowl look like?",
+            "options": [
+                "A. The exterior of this bowl is a smooth white surface.",
+                "B. The exterior of this bowl is a matte black surface.",
+                "C. The exterior of this bowl is a textured brown surface.",
+                "D. The exterior of this bowl is a patterned blue surface."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_105": {
+            "id": "J2rlJV7zKZw_105",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "What pattern is inside the bowl?",
+            "options": [
+                "A. There is a serrated pattern inside.",
+                "B. The inside is pure white.",
+                "C. The inside has a floral pattern.",
+                "D. The inside has a striped pattern."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_106": {
+            "id": "J2rlJV7zKZw_106",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "What details are on the rim of the bowl?",
+            "options": [
+                "A. The bowl has a thin black rim.",
+                "B. The bowl has a gilded rim.",
+                "C. The bowl has a dotted rim design.",
+                "D. The bowl has a thick silver rim."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_107": {
+            "id": "J2rlJV7zKZw_107",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "How many seasoning particles are in the mixture?",
+            "options": [
+                "A. There are exactly 10 seasoning particles in the mixture.",
+                "B. The number of seasoning particles cannot be accurately measured.",
+                "C. There are approximately 50 seasoning particles in the mixture.",
+                "D. There are no seasoning particles in the mixture."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_108": {
+            "id": "J2rlJV7zKZw_108",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "During the pouring action, is there overlay text?",
+            "options": [
+                "A. Yes, there will be two lines of overlay text.",
+                "B. No, there is no overlay text, but there is a pattern.",
+                "C. Yes, there will be one line of overlay text.",
+                "D. No, there is no overlay text, nor is there a pattern."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_109": {
+            "id": "J2rlJV7zKZw_109",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What is the content written on the overlay text?",
+            "options": [
+                "A. 'precise measurements in the video description.'",
+                "B. 'best served chilled.'",
+                "C. 'mix thoroughly before serving.'",
+                "D. 'add seasoning to taste.'"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_110": {
+            "id": "J2rlJV7zKZw_110",
+            "scene": 9,
+            "dimension": "Camera Direction",
+            "question": "In this scene, does the camera move?",
+            "options": [
+                "A. The camera moves around the bowl.",
+                "B. The camera zooms in and out.",
+                "C. The description does not mention camera movement.",
+                "D. The camera pans across the table."
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_111": {
+            "id": "J2rlJV7zKZw_111",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens highlights mixtures and bowls?",
+            "options": [
+                "A. Use a close-up lens.",
+                "B. Use a wide-angle lens.",
+                "C. An overhead shot.",
+                "D. A medium shot."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_112": {
+            "id": "J2rlJV7zKZw_112",
+            "scene": 9,
+            "dimension": "Speed",
+            "question": "How would you describe the speed of the pouring action?",
+            "options": [
+                "A. The pouring action is described as smooth and continuous.",
+                "B. The pouring action is described as fast and chaotic.",
+                "C. The pouring action is described as slow and hesitant.",
+                "D. The pouring action is described as fast and abrupt."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_113": {
+            "id": "J2rlJV7zKZw_113",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "By the end of the scene, how does the appearance of the mixture change?",
+            "options": [
+                "A. Forms irregular heaps and soft peaks.",
+                "B. The mixture changes color and becomes a smooth, transparent liquid.",
+                "C. The mixture turns into a solid block with sharp edges.",
+                "D. The mixture evaporates, leaving only seasoning particles in the bowl."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_114": {
+            "id": "J2rlJV7zKZw_114",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What is the video scene like?",
+            "options": [
+                "A. Warm and natural.",
+                "B. Cool tones.",
+                "C. Colorful.",
+                "D. Dark."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_115": {
+            "id": "J2rlJV7zKZw_115",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What action does the brand element encourage?",
+            "options": [
+                "A. Purchasing the ceramic bowl",
+                "B. Please subscribe",
+                "C. Cooking with the same ingredients",
+                "D. Attending a cooking class"
+            ],
+            "answer": "B"
+        },
+        "J2rlJV7zKZw_116": {
+            "id": "J2rlJV7zKZw_116",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "How many different social media icons are displayed in the lower left corner of the screen?",
+            "options": [
+                "A. Three social media icons are displayed.",
+                "B. Four social media icons are displayed.",
+                "C. Two social media icons are displayed.",
+                "D. Five social media icons are displayed."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_117": {
+            "id": "J2rlJV7zKZw_117",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "During the conversion process, does the creamy mixture maintain its smooth texture?",
+            "options": [
+                "A. Yes, it maintains its thick and smooth texture.",
+                "B. No, it becomes dull and lackluster.",
+                "C. No, it becomes thin and is no longer thick.",
+                "D. No, it completely changes and becomes grainy."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_118": {
+            "id": "J2rlJV7zKZw_118",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "How can social media elements be used to promote a brand?",
+            "options": [
+                "A. 'COOK_WITH_MEAT' and social media icons are used for brand promotion.",
+                "B. Outline text with the brand name is used to promote the brand.",
+                "C. Visual advertisements with multiple emojis are used to promote the brand.",
+                "D. Rotating banners with brand slogans enhance brand promotion."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_119": {
+            "id": "J2rlJV7zKZw_119",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "Where is the word 'COOK' located in the logo?",
+            "options": [
+                "A. 'COOK' is located to the left near the handle of the spatula.",
+                "B. 'COOK' is located to the right near the handle of the ladle.",
+                "C. 'COOK' is located above the central flame graphic.",
+                "D. 'COOK' is located below the slogan."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_120": {
+            "id": "J2rlJV7zKZw_120",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "Where is the word 'ME.AT' located relative to the logo?",
+            "options": [
+                "A. 'ME.AT' is on the left side near the handle of the shovel.",
+                "B. 'ME.AT' is above the crossed cutlery.",
+                "C. 'ME.AT' is on the right side near the handle of the spoon.",
+                "D. 'ME.AT' is below the central flame graphic."
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_121": {
+            "id": "J2rlJV7zKZw_121",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "Where is the word 'WITH' located on the logo?",
+            "options": [
+                "A. 'WITH' is below the horizontal line of crossed cutlery.",
+                "B. 'WITH' is placed above the central flame graphic.",
+                "C. 'WITH' is located below the slogan.",
+                "D. 'WITH' is vertically aligned on the handle of the long-handled spoon."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_122": {
+            "id": "J2rlJV7zKZw_122",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the video after the transition?",
+            "options": [
+                "A. The environment is minimalist and professional.",
+                "B. The environment has a rich culinary background.",
+                "C. The environment is filled with various overlay elements and icons.",
+                "D. The environment includes a country kitchen setup."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_123": {
+            "id": "J2rlJV7zKZw_123",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "What items are included in the emblem?",
+            "options": [
+                "A. A ladle and a spoon, with a flame pattern.",
+                "B. A fork and a knife, with a flame pattern.",
+                "C. A spoon and a fork, with a star pattern.",
+                "D. Two crossed knives, with a heart pattern."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_124": {
+            "id": "J2rlJV7zKZw_124",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "How many words are immediately adjacent to the sign in the scene?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_125": {
+            "id": "J2rlJV7zKZw_125",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "How does the video emphasize brand image?",
+            "options": [
+                "A. The video emphasizes brand image by lingering on the composition of logos and text.",
+                "B. The video emphasizes brand image by showcasing dishes and background music.",
+                "C. The video emphasizes brand image by overlaying multiple graphics and animations on the logo.",
+                "D. The video emphasizes brand image by showcasing various barbecue recipes and customer testimonials."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_126": {
+            "id": "J2rlJV7zKZw_126",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "What visual elements were used in the final scene?",
+            "options": [
+                "A. White tones and flat lighting on a black background",
+                "B. Bright colors, diverse lighting",
+                "C. Gray shadows paired with soft lighting",
+                "D. Various color overlays and bright lighting"
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_127": {
+            "id": "J2rlJV7zKZw_127",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How does the scene focus change after removing the text marked 'truffle mayonnaise'?",
+            "options": [
+                "A. The focus shifts entirely to the bowl and mayonnaise.",
+                "B. The video switches to a blurred background.",
+                "C. It shifts to an empty scene.",
+                "D. It shifts to promotional elements in the scene."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_128": {
+            "id": "J2rlJV7zKZw_128",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What visual elements appear in the background when cracking the egg?",
+            "options": [
+                "A. The background features the phrase 'COOK WITH' with stars on both sides.",
+                "B. A vibrant photo of grilled meat and various seasonings is displayed.",
+                "C. The background switches to a dynamic image of flames rising from a grill.",
+                "D. The scene transitions to a plain white background with scattered food icons."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_129": {
+            "id": "J2rlJV7zKZw_129",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What change occurred in the camera angle when the egg liquid was poured out?",
+            "options": [
+                "A. The camera adjusted to a lower angle.",
+                "B. The camera zoomed in on the bowl.",
+                "C. The camera switched to a side angle.",
+                "D. The camera remained unchanged."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_130": {
+            "id": "J2rlJV7zKZw_130",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What is the role of the overlay text during the cooking process?",
+            "options": [
+                "A. The overlay text serves merely as a decorative element.",
+                "B. The overlay text is used to distract the audience during the cooking process.",
+                "C. The overlay text clearly identifies or emphasizes the ingredients being added.",
+                "D. The overlay text prominently displays the sponsor's logo in the scene."
+            ],
+            "answer": "C"
+        },
+        "J2rlJV7zKZw_131": {
+            "id": "J2rlJV7zKZw_131",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the scene of the mixing process show?",
+            "options": [
+                "A. It shows the transformation of liquid layers into a mixture.",
+                "B. It demonstrates various mixing techniques in cooking.",
+                "C. It shows the visual appeal of the ingredients.",
+                "D. It shows the difficulty of achieving a uniform texture."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_132": {
+            "id": "J2rlJV7zKZw_132",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the order of ingredients added to the measuring cup?",
+            "options": [
+                "A. Whole egg, Dijon mustard, sugar, salt, and lime juice.",
+                "B. Dijon mustard, whole egg, lime juice, sugar, and salt.",
+                "C. Lime juice, whole egg, Dijon mustard, salt, and sugar.",
+                "D. Sugar, salt, Dijon mustard, lime juice, and whole egg."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_133": {
+            "id": "J2rlJV7zKZw_133",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happened after the lime juice was squeezed into the measuring cup?",
+            "options": [
+                "A. Add vegetable oil to the cup after adding lime juice.",
+                "B. Discard the lime, leaving the cup empty.",
+                "C. Pour the lime juice into another bowl for mixing.",
+                "D. Use the lime juice immediately to marinate the chicken."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_134": {
+            "id": "J2rlJV7zKZw_134",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "After adding lime juice and oil to the measuring cup, what can be done?",
+            "options": [
+                "A. Mix the ingredients together.",
+                "B. Let the ingredients sit for a while to marinate.",
+                "C. Pour the lime juice and oil into another bowl.",
+                "D. Add more seasonings to the measuring cup."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_135": {
+            "id": "J2rlJV7zKZw_135",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after stirring evenly?",
+            "options": [
+                "A. The mixture is poured into a decorative bowl.",
+                "B. The mixture is left on the kitchen counter.",
+                "C. The mixture is placed in a stew pot.",
+                "D. The mixture is stored in the refrigerator."
+            ],
+            "answer": "A"
+        },
+        "J2rlJV7zKZw_136": {
+            "id": "J2rlJV7zKZw_136",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the final stage shown after the bowl with truffle mayonnaise?",
+            "options": [
+                "A. A minimalist background with logo and text.",
+                "B. Vegetables and spices spread out on the table.",
+                "C. A kitchen with a chef preparing dishes in the background.",
+                "D. A dining table filled with food and wine glasses."
+            ],
+            "answer": "A"
+        }
+    }
+}

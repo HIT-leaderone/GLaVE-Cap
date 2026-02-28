@@ -1,0 +1,2431 @@
+{
+    "scene_hint": {
+        "0": "A table tennis player is wearing a bright red jersey, with a scoreboard in the upper left corner.",
+        "1": "A table tennis player wearing a black and red jersey, with the scoreboard still in the upper left corner.",
+        "2": "The two players are focused before serving.",
+        "3": "The camera adjustment allows more of the playing field to be seen. The two players rally, the player in black hits the ball out of bounds, and the player in red scores 1 point.",
+        "4": "The camera shifts from the athletes to the enthusiastic audience, who are celebrating excitedly.",
+        "5": "A close-up shot of the player in the red jersey.",
+        "6": "A slow-motion replay of the recent match situation. The celebration of the player in red after scoring."
+    },
+    "qa": {
+        "FsLaTZmP6Uw_0": {
+            "id": "FsLaTZmP6Uw_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the athlete wearing a bright red sports shirt located in the scene?",
+            "options": [
+                "A. In the center of the frame.",
+                "B. On the right side of the frame.",
+                "C. On the left side of the frame.",
+                "D. It's unclear."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_1": {
+            "id": "FsLaTZmP6Uw_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "Where does the described scene take place?",
+            "options": [
+                "A. The scene takes place in an outdoor stadium.",
+                "B. The scene takes place in an indoor venue.",
+                "C. The scene takes place on the beach.",
+                "D. The scene takes place in the park."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_2": {
+            "id": "FsLaTZmP6Uw_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What type of activity is depicted in the scene?",
+            "options": [
+                "A. The activity is a concert featuring traditional Chinese musical instruments.",
+                "B. The activity is a sports event, specifically a table tennis match.",
+                "C. The activity is an art exhibition showcasing dragon-themed artworks.",
+                "D. The activity is a cultural dance performance with participants dressed in dragon costumes."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_3": {
+            "id": "FsLaTZmP6Uw_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What are the characteristics of the athlete's hair in the scene?",
+            "options": [
+                "A. The athlete has long blonde hair.",
+                "B. The athlete has curly brown hair.",
+                "C. The athlete has short black hair.",
+                "D. The athlete has no hair."
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_4": {
+            "id": "FsLaTZmP6Uw_4",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What kind of clothing is the athlete wearing in the scene?",
+            "options": [
+                "A. The athlete is wearing a bright red sports jersey with a complex yellow dragon pattern on the upper left, a small Chinese flag patch, and a white sports logo.",
+                "B. The athlete is wearing a yellow sports jersey with a multicolored dragon design, a small Japanese flag patch, and a black sports logo.",
+                "C. The athlete is wearing a red sports jersey with simple white stripes, no patterns, and a white sports logo.",
+                "D. The athlete is wearing a blue sports jersey with a complex silver dragon pattern, a large Chinese flag badge, and no sports logo."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_5": {
+            "id": "FsLaTZmP6Uw_5",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What aspects of the athlete's clothing did the lighting highlight?",
+            "options": [
+                "A. The lighting highlighted the bright colors of the jersey.",
+                "B. The lighting highlighted the folds of the jersey.",
+                "C. The lighting highlighted the thickness of the jersey.",
+                "D. The lighting highlighted the green stripes of the jersey."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_6": {
+            "id": "FsLaTZmP6Uw_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What information does the scoreboard display?",
+            "options": [
+                "A. The scoreboard shows a match where China (CHN) is leading with a big score of 3 to 2 and a small score of 2 to 1.",
+                "B. The scoreboard shows a match where both China (CHN) and Japan (JPN) have scores of 3 to 2.",
+                "C. The scoreboard shows China's (CHN) score is 2 to 1, while Japan's (JPN) score is 3 to 2.",
+                "D. The scoreboard shows a draw, with both China (CHN) and Japan (JPN) having scores of 2 to 2."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_7": {
+            "id": "FsLaTZmP6Uw_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "How is the scoreboard visually presented?",
+            "options": [
+                "A. The Chinese flag is next to 'CHN', the Japanese flag is next to 'JPN', and a yellow triangle indicates the server.",
+                "B. The Japanese flag is next to 'CHN', the Chinese flag is next to 'JPN', and a yellow circle indicates the server.",
+                "C. The flags of both countries are displayed in the center of the scoreboard, and a red circle indicates the server.",
+                "D. No flags are displayed on the scoreboard, only a star indicates the server."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_8": {
+            "id": "FsLaTZmP6Uw_8",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many countries are on the scoreboard?",
+            "options": [
+                "A. One country",
+                "B. Two countries",
+                "C. Three countries",
+                "D. Four countries"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_9": {
+            "id": "FsLaTZmP6Uw_9",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "From the scoreboard, can you tell the outcomes of the previous five matches?",
+            "options": [
+                "B. China (CHN) won 2 matches, Japan (JPN) won 1 match.",
+                "B. China (CHN) won 2 matches, Japan (JPN) won 3 matches.",
+                "C. China (CHN) won 3 matches, Japan (JPN) won 2 matches.",
+                "B. China (CHN) won 1 match, Japan (JPN) won 2 matches."
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_10": {
+            "id": "FsLaTZmP6Uw_10",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Can the athlete be seen holding a racket in all frames of the scene?",
+            "options": [
+                "A. The athlete can be seen holding a racket throughout the entire scene.",
+                "B. The athlete can only be seen holding a racket in the latter half of the scene.",
+                "C. The athlete can only be seen holding a racket in the first half of the scene.",
+                "D. The athlete cannot be seen holding a racket throughout the entire scene."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_11": {
+            "id": "FsLaTZmP6Uw_11",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What is the first action of the athlete at the beginning of the scene?",
+            "options": [
+                "A. The athlete bends slightly forward.",
+                "B. The athlete moves forward to the foreground.",
+                "C. The athlete steps back into a ready position.",
+                "D. The athlete raises their ping pong paddle."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_12": {
+            "id": "FsLaTZmP6Uw_12",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "How does the athlete take a small step in the scene relative to the camera?",
+            "options": [
+                "A. The athlete moves to the right in a relaxed posture.",
+                "B. The athlete moves to the left in a leaning forward posture.",
+                "C. The athlete jumps up in an excited posture.",
+                "D. The athlete remains still in a calm posture."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_13": {
+            "id": "FsLaTZmP6Uw_13",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What logo can the athlete see on the clothes at the end of the scene?",
+            "options": [
+                "A. Nike logo",
+                "B. Xtep logo",
+                "C. Adidas logo",
+                "D. Li-Ning logo"
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_14": {
+            "id": "FsLaTZmP6Uw_14",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "Which camera angle was used in this scene to focus on the athlete?",
+            "options": [
+                "A. The camera used a close-up shot, emphasizing the upper body of the athlete.",
+                "B. The camera used a wide-angle lens, capturing the entire field and surrounding audience.",
+                "C. The camera used an overhead shot, showcasing the game from above.",
+                "D. The camera used a side-angle shot, primarily focusing on background actions."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_15": {
+            "id": "FsLaTZmP6Uw_15",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of lens is used in the scene to direct attention to the athlete's actions?",
+            "options": [
+                "A. Use a slightly blurred background to direct attention to the athlete's actions.",
+                "B. Use a wide-angle lens to capture the entire field to focus on the athlete's actions.",
+                "C. Use a zoomed-out shot to show the audience cheering to highlight the athlete's actions.",
+                "D. Use dim lighting effects in the foreground to emphasize the athlete's actions."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_16": {
+            "id": "FsLaTZmP6Uw_16",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "In the images of these scenes, what elements of the athlete's clothing cannot be seen?",
+            "options": [
+                "A. White stripes on the sleeves.",
+                "B. White text on the back of the clothing.",
+                "C. National flag on the left chest.",
+                "D. Logo on the right chest."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_17": {
+            "id": "FsLaTZmP6Uw_17",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements help to understand the competitive atmosphere of a scene?",
+            "options": [
+                "A. Digital scoreboards, athletes' focused postures, and spectators help to understand the competitive atmosphere.",
+                "B. Beach balls, relaxed spectators, and crowds in swimsuits help to understand the competitive atmosphere.",
+                "C. The sight of balloons, festival parades, and bands playing music help to understand the competitive atmosphere.",
+                "D. The sight of snow-covered peaks, Alpine cabins, and people skiing help to understand the competitive atmosphere."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_18": {
+            "id": "FsLaTZmP6Uw_18",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the position of the Japanese athlete relative to the background at the beginning of the scene?",
+            "options": [
+                "A. The Japanese athlete is prominently placed in the foreground, while the dim audience and venue are in the background.",
+                "B. The Japanese athlete is in the background, blending in with the audience.",
+                "C. The Japanese athlete is completely out of the frame, with only the audience visible in the foreground.",
+                "D. The Japanese athlete is in the center of the audience, surrounded by fans."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_19": {
+            "id": "FsLaTZmP6Uw_19",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "For the audience in the background, what rotational movement did the Japanese athlete perform at the beginning and end of the scene?",
+            "options": [
+                "A. Turned left.",
+                "B. Turned right.",
+                "C. Turned backward.",
+                "D. No change."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_20": {
+            "id": "FsLaTZmP6Uw_20",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the competition environment?",
+            "options": [
+                "A. The setting is a brightly lit gymnasium with pure white walls.",
+                "B. The setting is a dimly lit arena with appropriate sports lighting.",
+                "C. The setting is an outdoor court under natural sunlight.",
+                "D. The setting is a dark underground space with no audience."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_21": {
+            "id": "FsLaTZmP6Uw_21",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "How do the spectators treat the match?",
+            "options": [
+                "A. The spectators are fully focused on the intense match.",
+                "B. The spectators are chatting and not paying attention to the match.",
+                "C. The spectators are booing the players.",
+                "D. The spectators are leaving the arena."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_22": {
+            "id": "FsLaTZmP6Uw_22",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "In this scene, what is the Japanese athlete wearing?",
+            "options": [
+                "A. The Japanese athlete is wearing a black sports shirt with the Japanese flag emblem.",
+                "B. The Japanese athlete is wearing a colorful outfit with a dragon theme.",
+                "C. The Japanese athlete is wearing a dark striped white shirt and light-colored pants.",
+                "D. The Japanese athlete is wearing a red shirt and light-colored pants."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_23": {
+            "id": "FsLaTZmP6Uw_23",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What action is the Japanese athlete doing with their right arm at the beginning of the scene?",
+            "options": [
+                "A. The Japanese athlete is raising their arm to greet the audience.",
+                "B. The Japanese athlete's right arm is raised, holding a ping pong paddle.",
+                "C. The Japanese athlete is waving to teammates in the stands.",
+                "D. The Japanese athlete is adjusting their jersey with their right hand."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_24": {
+            "id": "FsLaTZmP6Uw_24",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "In this scenario, can you tell what the Japanese athlete is experiencing from his facial expression at this moment?",
+            "options": [
+                "A. Focused and concentrated.",
+                "B. Cheering and joyful.",
+                "C. Feeling down.",
+                "D. Extremely frustrated."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_25": {
+            "id": "FsLaTZmP6Uw_25",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What logo is on the Japanese athlete's jersey?",
+            "options": [
+                "A. Mizuno logo on the right chest.",
+                "B. Adidas logo on the right chest.",
+                "C. Nike logo on the right chest.",
+                "D. Puma logo on the right chest."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_26": {
+            "id": "FsLaTZmP6Uw_26",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "According to the scoreboard, is the Japanese team leading in the match?",
+            "options": [
+                "A. Yes, the Japanese team is leading the match.",
+                "B. No, the scoreboard shows the Chinese team is leading the match.",
+                "C. The scoreboard shows the Japanese team and the Chinese team are tied.",
+                "D. The scoreboard is not shown in the scene."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_27": {
+            "id": "FsLaTZmP6Uw_27",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the posture of the Japanese athlete in this scene?",
+            "options": [
+                "A. The Japanese athlete raised both hands higher.",
+                "B. The Japanese athlete slightly bent down.",
+                "C. The Japanese athlete placed their right hand on their chest and made a fist.",
+                "D. The Japanese athlete slightly leaned backward."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_28": {
+            "id": "FsLaTZmP6Uw_28",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "Where is the Japanese athlete's table tennis racket held?",
+            "options": [
+                "A. The Japanese athlete's table tennis racket is held on his right side.",
+                "B. The Japanese athlete's table tennis racket is held on his left side.",
+                "C. The Japanese athlete's table tennis racket is held in front of him.",
+                "D. The Japanese athlete's table tennis racket is held behind him."
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_29": {
+            "id": "FsLaTZmP6Uw_29",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What colors can be seen on the walls of the audience seats at the beginning of the scene?",
+            "options": [
+                "A. Green and blue",
+                "B. Red and white",
+                "C. Yellow and purple",
+                "D. Black and gray"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_30": {
+            "id": "FsLaTZmP6Uw_30",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "As the scene develops, which color clothing does the character in the lower left corner of the screen wear?",
+            "options": [
+                "A. Yellow.",
+                "B. Blue.",
+                "C. Red.",
+                "D. Green."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_31": {
+            "id": "FsLaTZmP6Uw_31",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the general background of the scene?",
+            "options": [
+                "A. The background is a competitive sports atmosphere with a visible scoreboard and dimly lit background spectators.",
+                "B. The background is a quiet library where people are reading, and there is a scoreboard displaying scores.",
+                "C. The background is a busy city street with bright lights and a scoreboard showing advertisements.",
+                "D. The background is a tranquil park where people are jogging, and there is a scoreboard displaying weather updates."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_32": {
+            "id": "FsLaTZmP6Uw_32",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many countries are included on the scoreboard?",
+            "options": [
+                "A. The scoreboard always displays two countries.",
+                "B. The scoreboard always displays three countries.",
+                "C. The scoreboard always displays four countries.",
+                "D. The scoreboard always displays five countries."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_33": {
+            "id": "FsLaTZmP6Uw_33",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What elements are included on the scoreboard?",
+            "options": [
+                "A. 'CHN 3 2' and 'JPN 2 1', along with their respective flags.",
+                "B. 'CHN 4 3' and 'JPN 3 2', along with their respective flags.",
+                "C. 'CHN 2 1' and 'JPN 3 2', along with their respective flags.",
+                "D. 'CHN 3 2' and 'JPN 2 2', along with their respective flags."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_34": {
+            "id": "FsLaTZmP6Uw_34",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "Will the score on the scoreboard keep changing in the scene?",
+            "options": [
+                "A. Yes, the score changes frequently.",
+                "B. No, the scoreboard always shows the same score details.",
+                "C. Yes, the score changes slightly near the end.",
+                "D. No, there is no scoreboard displayed in the scene."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_35": {
+            "id": "FsLaTZmP6Uw_35",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "Does the camera highlight the prominence of the athlete?",
+            "options": [
+                "A. The camera clearly places the athlete in the foreground.",
+                "B. The camera pans to emphasize only the scoreboard.",
+                "C. The camera zooms in on the audience, making the athlete less noticeable.",
+                "D. The camera angle changes to show a panoramic view of the stadium."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_36": {
+            "id": "FsLaTZmP6Uw_36",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "How can camera shots highlight the competitive aspect?",
+            "options": [
+                "A. The camera shot includes the scoreboard in the top left corner.",
+                "B. The camera focuses solely on the audience.",
+                "C. The camera pans to show the entire audience.",
+                "D. The camera completely avoids showing the scoreboard."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_37": {
+            "id": "FsLaTZmP6Uw_37",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What visual clues in the image indicate the presence of a referee?",
+            "options": [
+                "A. A new figure wearing a bright yellow shirt appears at the lower left of the players, indicating the presence of a referee.",
+                "B. The Japanese flag emblem on the player's jersey indicates the presence of a referee.",
+                "C. The scoreboard displaying the scores of both sides indicates the presence of a referee.",
+                "D. The dimly lit background of the audience indicates the presence of a referee."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_38": {
+            "id": "FsLaTZmP6Uw_38",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where was the Japanese athlete's initial position in the frame?",
+            "options": [
+                "A. The Japanese athlete was initially on the right side of the frame, with only the upper body partially visible.",
+                "B. The Japanese athlete was initially in the center of the frame, with the entire body visible.",
+                "C. The Japanese athlete was initially on the left side of the frame, facing away from the camera.",
+                "D. The Japanese athlete was initially completely obscured and not in the frame."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_39": {
+            "id": "FsLaTZmP6Uw_39",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "How does the position of the Japanese player change in the frame?",
+            "options": [
+                "A. He moves to the far left of the frame, obscuring his stance.",
+                "B. He repositions to a more central location in the frame, making his stance clearer.",
+                "C. He retreats into the shadows, becoming less noticeable.",
+                "D. He crouches down to the floor, disappearing from view."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_40": {
+            "id": "FsLaTZmP6Uw_40",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the lighting like in the audience area of the scene?",
+            "options": [
+                "A. Bright red and blue tones illuminate it.",
+                "B. Dim lighting, with some audience outlines visible.",
+                "C. Dark, with no visible lighting or audience.",
+                "D. Yellow lighting highlights red and white jerseys."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_41": {
+            "id": "FsLaTZmP6Uw_41",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "In the scene, how is the competition area displayed?",
+            "options": [
+                "A. A brightly lit competition area, highlighting the players.",
+                "B. The competition area is dimly lit, blending with the background.",
+                "C. The competition area is completely green, matching the tone of the audience silhouettes.",
+                "D. A completely dark competition area, where nothing can be seen."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_42": {
+            "id": "FsLaTZmP6Uw_42",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What additional features are described in the arena scene?",
+            "options": [
+                "A. There is also a scoreboard in the upper left corner.",
+                "B. The arena is filled with bright, colorful banners.",
+                "C. A large electronic clock is displayed above the players.",
+                "D. A red carpet is laid on the floor."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_43": {
+            "id": "FsLaTZmP6Uw_43",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What kind of clothing did the Japanese player wear during the match?",
+            "options": [
+                "A. The Japanese player wore a black jersey with red and white design elements, and a Japanese flag badge.",
+                "B. The Japanese player wore a blue jersey with green and yellow design elements, and a Japanese flag badge.",
+                "C. The Japanese player wore a red jersey with white and blue design elements, and a Japanese flag badge.",
+                "D. The Japanese player wore a white jersey with black and red design elements, and a Japanese flag badge."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_44": {
+            "id": "FsLaTZmP6Uw_44",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "Where is the Japanese player in the picture?",
+            "options": [
+                "A. He is holding a ping pong paddle by the table.",
+                "B. He is sitting in the shaded area facing the court.",
+                "C. He is standing near the perimeter of the field.",
+                "D. He is lying near the perimeter of the field."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_45": {
+            "id": "FsLaTZmP6Uw_45",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "How are Chinese athletes dressed in the competition?",
+            "options": [
+                "A. Chinese athletes wear red jerseys with yellow dragon patterns.",
+                "B. Chinese athletes wear black jerseys with red and white design elements.",
+                "C. Chinese athletes wear simple red jerseys without other designs.",
+                "D. Chinese athletes wear green and blue jerseys with light dragon patterns."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_46": {
+            "id": "FsLaTZmP6Uw_46",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the initial positioning of the Chinese athlete in the competition scene?",
+            "options": [
+                "A. He lowers his stance and approaches the table with focus.",
+                "B. He stands upright, passively holding the racket.",
+                "C. He retreats away from the table, taking a defensive posture.",
+                "D. He remains still, focusing more on the opponent than the game."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_47": {
+            "id": "FsLaTZmP6Uw_47",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What are the main characteristics of a ping pong net?",
+            "options": [
+                "A. The ping pong net is brightly colored and decorated with intricate patterns.",
+                "B. The ping pong net divides the frame into two, maintaining a structured focus.",
+                "C. The ping pong net is completely invisible in the scene.",
+                "D. The position of the ping pong net is off-center, disrupting the balance of the frame."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_48": {
+            "id": "FsLaTZmP6Uw_48",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What does the main scoreboard in table tennis express?",
+            "options": [
+                "A. The scoreboard in the upper right corner shows that 'CHN' and 'JPN' have tied.",
+                "B. The scoreboard in the upper left corner shows 'CHN' leading 'JPN'.",
+                "C. The scoreboard at the bottom of the screen shows 'JPN' leading 'CHN'.",
+                "D. The scoreboard in the upper left corner is completely blank."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_49": {
+            "id": "FsLaTZmP6Uw_49",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the person wearing the red jacket at the beginning of the scene?",
+            "options": [
+                "A. The person wearing the red jacket is on the left side of the screen.",
+                "B. The person wearing the red jacket is on the right side of the screen.",
+                "C. The person wearing the red jacket is in the center of the screen.",
+                "D. The person wearing the red jacket does not appear in the entire scene."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_50": {
+            "id": "FsLaTZmP6Uw_50",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where are the three people wearing brown vests sitting as the scene is about to end?",
+            "options": [
+                "A. Sitting at the far right of the screen.",
+                "B. Sitting at the far left of the screen.",
+                "C. Sitting in the audience area in the center of the screen.",
+                "D. Sitting in the competition area in the center of the screen."
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_51": {
+            "id": "FsLaTZmP6Uw_51",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "Is the competition venue well-lit?",
+            "options": [
+                "A. Yes, the lighting in the competition venue is bright, highlighting the athletes.",
+                "B. No, the lighting in the competition venue is dim, creating a dramatic effect.",
+                "C. The lighting in the competition venue is only good during replays but not during the live match.",
+                "D. The lighting in the competition venue changes based on the players' positions."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_52": {
+            "id": "FsLaTZmP6Uw_52",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What adjustments did the Chinese athlete make to his stance from the beginning to the end of the scene?",
+            "options": [
+                "A. The Chinese athlete lowered his stance.",
+                "B. The Chinese athlete stood straight to stretch.",
+                "C. The Chinese athlete moved further away from the table.",
+                "D. The Chinese athlete raised the racket above his head."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_53": {
+            "id": "FsLaTZmP6Uw_53",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "How does the distance between the Chinese athlete's head and the table change from the beginning to the end of the scene?",
+            "options": [
+                "A. The Chinese athlete's head is closer to the table.",
+                "A. The Chinese athlete's head is farther from the table.",
+                "C. The distance between the Chinese athlete's head and the table remains unchanged.",
+                "D. The Chinese athlete's head first approaches the table and then moves away."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_54": {
+            "id": "FsLaTZmP6Uw_54",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "What factors in the scene divide the frame through the movement or position of objects?",
+            "options": [
+                "A. The physical position of the table tennis net structurally divides the frame, emphasizing the competitive scene setting.",
+                "B. The scoreboard in the top left corner divides the scene with its prominent display.",
+                "C. The green and blue tones of the arena provide a visual division within the frame.",
+                "D. The players' differently colored hair creates a visual division in the frame."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_55": {
+            "id": "FsLaTZmP6Uw_55",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "How does the camera angle affect the presentation of the game?",
+            "options": [
+                "A. The camera angle highlights the athletes' movements and expressions, enhancing the audience's immersion in the game.",
+                "B. The camera angle primarily shows the scoreboard, reducing focus on the athletes.",
+                "C. The camera angle obscures the athletes, emphasizing the audience's reactions.",
+                "D. The camera angle mainly highlights the dim background, reducing the prominence of the athletes."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_56": {
+            "id": "FsLaTZmP6Uw_56",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "How does lighting affect the presentation of the game?",
+            "options": [
+                "A. Lighting highlights the athletes' expressions and movements, adding tension and immersion to the game.",
+                "B. Lighting darkens the background, making the audience almost invisible.",
+                "C. Lighting focuses only on the scoreboard, distracting attention from the players.",
+                "D. Lighting illuminates the surrounding areas, making the venue appear larger and more spacious."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_57": {
+            "id": "FsLaTZmP6Uw_57",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "In the picture, which visual element indicates the progress of the match?",
+            "options": [
+                "A. The change in player positions",
+                "B. The scoreboard in the top left corner",
+                "C. The lights on the players",
+                "D. The audience in the background"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_58": {
+            "id": "FsLaTZmP6Uw_58",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "At the start of the match, where is the Japanese player positioned relative to the ping pong table?",
+            "options": [
+                "A. The Japanese player is positioned above the ping pong table.",
+                "A. The Japanese player is positioned below the ping pong table.",
+                "A. The Japanese player is positioned far away from the ping pong table.",
+                "A. The Japanese player is positioned next to the ping pong table."
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_59": {
+            "id": "FsLaTZmP6Uw_59",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "At the beginning of the scene, where is the Chinese player positioned relative to the ping pong table?",
+            "options": [
+                "A. The Chinese player is positioned above the ping pong table.",
+                "A. The Chinese player is positioned below the ping pong table.",
+                "A. The Chinese player is positioned far away from the ping pong table.",
+                "A. The Chinese player is positioned next to the ping pong table."
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_60": {
+            "id": "FsLaTZmP6Uw_60",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene?",
+            "options": [
+                "A. The background of the scene is a professional sports venue with a ping-pong court in the middle.",
+                "B. The background of the scene is a casual backyard with a makeshift ping-pong table.",
+                "C. The background of the scene is a school gymnasium where a local ping-pong match is taking place.",
+                "D. The background of the scene is a quiet park with a public ping-pong table."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_61": {
+            "id": "FsLaTZmP6Uw_61",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the brightness of the scene?",
+            "options": [
+                "A. The brightness is bright.",
+                "B. The brightness is dim.",
+                "C. The brightness is flickering.",
+                "D. The brightness is completely black."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_62": {
+            "id": "FsLaTZmP6Uw_62",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the background event of the scene?",
+            "options": [
+                "A. 2020 Tokyo Olympics",
+                "B. 2016 Rio Olympics",
+                "C. 2008 Beijing Olympics",
+                "D. 2012 London Olympics"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_63": {
+            "id": "FsLaTZmP6Uw_63",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What uniform do Chinese players wear?",
+            "options": [
+                "A. Chinese players are wearing a red jersey.",
+                "B. Chinese players are wearing a black jersey.",
+                "C. Chinese players are wearing a green jersey.",
+                "D. Chinese players are wearing a white jersey."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_64": {
+            "id": "FsLaTZmP6Uw_64",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What physical actions is the Chinese athlete performing at the start of the scene?",
+            "options": [
+                "A. The Chinese athlete extends their left arm to toss the ball, holding the racket in their right hand.",
+                "B. The Chinese athlete is sitting, observing the match and taking notes.",
+                "C. The Chinese athlete jumps up to cheer for their teammates.",
+                "D. The Chinese athlete stands in the audience with arms crossed."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_65": {
+            "id": "FsLaTZmP6Uw_65",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is the main color of the net on a ping pong table?",
+            "options": [
+                "A. The net is white.",
+                "B. The net is black.",
+                "C. The net is blue.",
+                "D. The net is red."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_66": {
+            "id": "FsLaTZmP6Uw_66",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "From which angle was the ping pong table photographed?",
+            "options": [
+                "A. Photographed from above behind the player.",
+                "B. Photographed from directly above.",
+                "C. Photographed from a diagonal angle.",
+                "D. Photographed from directly below."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_67": {
+            "id": "FsLaTZmP6Uw_67",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What are the lighting conditions for the ping pong table?",
+            "options": [
+                "A. Bright lighting.",
+                "B. Dim lighting.",
+                "C. Under natural sunlight.",
+                "D. Illuminated with colored lights."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_68": {
+            "id": "FsLaTZmP6Uw_68",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many players are participating in the match?",
+            "options": [
+                "A. One player",
+                "B. Two players",
+                "C. Three players",
+                "D. Four players"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_69": {
+            "id": "FsLaTZmP6Uw_69",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Can the scoreboard be seen in the scene?",
+            "options": [
+                "A. Yes, the scoreboard is displayed in the upper left corner of the screen.",
+                "B. No, the scoreboard is not displayed in the scene.",
+                "C. Yes, the scoreboard is displayed in the lower right corner of the screen.",
+                "D. No, the scoreboard is only mentioned but not displayed in the scene."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_70": {
+            "id": "FsLaTZmP6Uw_70",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What action does the Japanese player use to indicate readiness at the beginning of the scene?",
+            "options": [
+                "A. The Japanese player maintains a bent posture and adjusts the position of the racket.",
+                "B. The Japanese player quickly moves sideways and lowers the racket.",
+                "C. The Japanese player stands upright and passively waits for the ball to arrive.",
+                "D. The Japanese player leans back and focuses on observing the scoreboard."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_71": {
+            "id": "FsLaTZmP6Uw_71",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "After the first stroke by the Japanese player, in which direction will the ball move?",
+            "options": [
+                "A. After being hit, the ball will move to the right side of the Chinese player.",
+                "B. After being hit, the ball will move to the left side of the Chinese player.",
+                "C. After being hit, the ball will move straight towards the top of the table.",
+                "D. After being hit, the ball will move towards the bottom of the table."
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_72": {
+            "id": "FsLaTZmP6Uw_72",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "Will the shooting angle change in the scene?",
+            "options": [
+                "A. Yes, the shooting angle in the scene will change.",
+                "B. No, the shooting angle in the scene remains unchanged.",
+                "C. Yes, but only the lighting changes, not the angle.",
+                "D. No, there will be no change in the shooting angle in this type of competition."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_73": {
+            "id": "FsLaTZmP6Uw_73",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "How does the camera change in the scene?",
+            "options": [
+                "A. The camera remains stationary during the match, capturing from a bird's-eye view.",
+                "B. The camera angle slightly retreats, but the angle remains unchanged.",
+                "C. The camera alternates between a bird's-eye view and close-ups of the audience.",
+                "D. The camera only captures the scoreboard, excluding any player actions."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_74": {
+            "id": "FsLaTZmP6Uw_74",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "How can the speed of the ball be captured in the frame?",
+            "options": [
+                "A. The speed of the ball is captured through the blur effect as it approaches the Japanese player's racket, indicating rapid motion.",
+                "B. The speed of the ball is highlighted by showing a still frame of the ball in mid-air to create a dramatic effect.",
+                "C. The speed of the ball is captured through the colorful trail it leaves as it moves across the frame.",
+                "D. The speed of the ball is depicted through slow-motion replay, focusing on the moment of contact between the ball and the racket."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_75": {
+            "id": "FsLaTZmP6Uw_75",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What happens to the Chinese player's right arm when they return the ball for the first time at the beginning of the scene?",
+            "options": [
+                "A. The Chinese player's right arm will extend and complete the stroke.",
+                "B. The Chinese player's right arm remains still throughout the match.",
+                "C. The Chinese player's right arm is used to hold the racket throughout the match.",
+                "D. The Chinese player's right arm is used to signal to the referee."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_76": {
+            "id": "FsLaTZmP6Uw_76",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What happens to the Chinese player's racket in the entire scene?",
+            "options": [
+                "A. The color of the Chinese player's racket changes.",
+                "B. The Chinese player's black racket is no longer visible.",
+                "C. The Chinese player puts down the racket to adjust their grip.",
+                "D. The Chinese player's racket gets damaged midway through the match."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_77": {
+            "id": "FsLaTZmP6Uw_77",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What visual cues associate the match with an international sports event?",
+            "options": [
+                "A. The 'Rio2016' logo displayed in the scene.",
+                "B. The green seats appearing among the audience.",
+                "C. The scoreboard showing the scores of China and Japan.",
+                "D. The dragon pattern on the Chinese player's jersey."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_78": {
+            "id": "FsLaTZmP6Uw_78",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "At the beginning of the scene, where is the Japanese player positioned relative to the table?",
+            "options": [
+                "A. The Japanese player is at the left rear of the table.",
+                "B. The Japanese player is at the right rear of the table.",
+                "C. The Japanese player is at the center rear of the table.",
+                "D. The Japanese player is not near the table."
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_79": {
+            "id": "FsLaTZmP6Uw_79",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the venue for the competition?",
+            "options": [
+                "A. The competition takes place on a bright green field, decorated with the Olympic rings.",
+                "B. The competition occurs on a red clay court, surrounded by tennis nets and spectator stands.",
+                "C. The venue is a gymnasium with wooden flooring, with basketball hoops in the background.",
+                "D. The competition takes place on a concrete court, with a skateboard ramp nearby."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_80": {
+            "id": "FsLaTZmP6Uw_80",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What brand logos are around the competition?",
+            "options": [
+                "A. There are 'Rio 2016' brand logos around the competition.",
+                "B. There are 'Tokyo 2020' brand logos around the competition.",
+                "C. There are 'BeiJing 2008' brand logos around the competition.",
+                "D. There are 'London 2012' brand logos around the competition."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_81": {
+            "id": "FsLaTZmP6Uw_81",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "How is the atmosphere of the competition?",
+            "options": [
+                "A. The competition has a competitive atmosphere.",
+                "B. The competition feels relaxed and casual.",
+                "C. The competition has a celebratory atmosphere.",
+                "D. The competition is tense and slow-paced."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_82": {
+            "id": "FsLaTZmP6Uw_82",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the Chinese athlete wearing?",
+            "options": [
+                "A. The Chinese athlete is wearing a bright red shirt with yellow patterns, black shorts, and white shoes with red accents.",
+                "B. The Chinese athlete is wearing a blue shirt with white stripes, black shorts, and white shoes with blue accents.",
+                "C. The Chinese athlete is wearing a red shirt with black stripes, black shorts, and red shoes.",
+                "D. The Chinese athlete is wearing a yellow shirt with patterns, blue shorts, and white shoes with yellow accents."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_83": {
+            "id": "FsLaTZmP6Uw_83",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What does the posture of the Chinese player after the first return in the initial scene convey?",
+            "options": [
+                "A. His bent left knee and racket-holding stance show concentration.",
+                "B. His relaxed posture indicates a lack of engagement.",
+                "C. His completely upright stance shows indecision.",
+                "D. His defensive crouch indicates he is retreating from the match."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_84": {
+            "id": "FsLaTZmP6Uw_84",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is unique about the tables used in the competition?",
+            "options": [
+                "A. The tables are green with the Olympic torch emblem on them.",
+                "B. The tables are blue, decorated with the Olympic rings.",
+                "C. The tables are blue with floral patterns.",
+                "D. The tables are green with the flags of participating countries on them."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_85": {
+            "id": "FsLaTZmP6Uw_85",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many people are there inside the competition venue besides the participants?",
+            "options": [
+                "A. Three.",
+                "B. Two.",
+                "C. Five.",
+                "D. Four."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_86": {
+            "id": "FsLaTZmP6Uw_86",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Does the scoreboard at the beginning of the scene favor the Japanese player?",
+            "options": [
+                "A. Yes, it favors the Japanese player.",
+                "B. No, it favors the Chinese player.",
+                "C. Yes, the score becomes tied during the match.",
+                "D. Uncertain, the scoreboard is not visible."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_87": {
+            "id": "FsLaTZmP6Uw_87",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle should be used to introduce the match?",
+            "options": [
+                "A. Use a wider overhead shot to introduce the match.",
+                "B. Use close-up shots of the players' faces to introduce the match.",
+                "C. Use a side view of the table to introduce the match.",
+                "D. Use a low-angle shot from behind the net to introduce the match."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_88": {
+            "id": "FsLaTZmP6Uw_88",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What effect does using a wider overhead camera angle to introduce the game have?",
+            "options": [
+                "A. It provides a comprehensive perspective, showcasing the excitement of the game.",
+                "B. It focuses solely on the players' facial expressions.",
+                "C. It only highlights the Olympic symbols and logos.",
+                "D. It makes the game area appear smaller and less important."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_89": {
+            "id": "FsLaTZmP6Uw_89",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "How is the speed of the player's movements during the game?",
+            "options": [
+                "A. The player's movements include quick sprints and dynamic postures.",
+                "B. The player's movements are slow and cautious, focusing on maintaining balance.",
+                "C. The player's movements are mostly stationary, rarely involved in activities during the game.",
+                "D. The player's movements are relaxed and casual, indicating a lack of tension."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_90": {
+            "id": "FsLaTZmP6Uw_90",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "In this scene, what change occurred in the appearance of the Japanese athlete's costume?",
+            "options": [
+                "A. The Japanese athlete's costume initially had a red and black pattern, but later changed to predominantly black.",
+                "B. The Japanese athlete's costume gradually changed from black to predominantly red.",
+                "C. The Japanese athlete's costume initially had a blue and red pattern, but later changed to all black.",
+                "D. Throughout the entire scene, there was no change in the appearance of the Japanese athlete's costume."
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_91": {
+            "id": "FsLaTZmP6Uw_91",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements help define this event as part of the 2016 Olympics?",
+            "options": [
+                "A. 'Rio2016' logo, Olympic rings on the table, and the vibrant green field.",
+                "B. The players' bright red jerseys and the tense expressions on their faces.",
+                "C. The cheers of numerous spectators in the stands and the waving flags.",
+                "D. The players' black and red sportswear and their dynamic movements."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_92": {
+            "id": "FsLaTZmP6Uw_92",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the person wearing a white shirt relative to the audience area?",
+            "options": [
+                "A. The person wearing a white shirt is at the back of the audience area.",
+                "B. The person wearing a white shirt is at the front of the audience area.",
+                "C. The person wearing a white shirt is in the middle of the audience area.",
+                "D. The person wearing a white shirt is near the scoreboard."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_93": {
+            "id": "FsLaTZmP6Uw_93",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What major scene transition occurred relative to the previous scene?",
+            "options": [
+                "A. The scene transitions from players and referees on the field to the audience.",
+                "B. The scene transitions from an empty field to players entering.",
+                "C. The scene transitions from the excitement of the audience to players resting.",
+                "D. The scene transitions from the scoreboard to the award ceremony."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_94": {
+            "id": "FsLaTZmP6Uw_94",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "How is the man in the white shirt described?",
+            "options": [
+                "A. The man in the white shirt is clapping shyly.",
+                "B. The man in the white shirt is clapping enthusiastically.",
+                "C. The man in the white shirt is raising his hand in celebration.",
+                "D. The man in the white shirt is holding a scoreboard."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_95": {
+            "id": "FsLaTZmP6Uw_95",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "How is the person wearing a black short-sleeve shirt with white stripes described?",
+            "options": [
+                "A. The person wearing a black short-sleeve shirt with white stripes is raising their arms in celebration.",
+                "B. The person wearing a black short-sleeve shirt with white stripes is quietly sitting in the audience.",
+                "C. The person wearing a black short-sleeve shirt with white stripes is enthusiastically clapping.",
+                "D. The person wearing a black short-sleeve shirt with white stripes is leaning against the metal railing."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_96": {
+            "id": "FsLaTZmP6Uw_96",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many audience members stood up in this scene?",
+            "options": [
+                "A. Eight people",
+                "B. Seven people",
+                "C. Six people",
+                "D. Five people"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_97": {
+            "id": "FsLaTZmP6Uw_97",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Can the audience area completely see the little boy wearing a yellow short-sleeve and a red hat?",
+            "options": [
+                "A. No, the little boy wearing a yellow jacket is partially obscured by the metal railing.",
+                "B. Yes, the little boy wearing a yellow jacket can be completely seen from the audience area.",
+                "C. No, the little boy wearing a yellow jacket is completely obscured by the crowd.",
+                "D. Yes, the little boy wearing a yellow jacket is standing at the very front of the audience area."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_98": {
+            "id": "FsLaTZmP6Uw_98",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "What change occurred in the position of the man wearing a white shirt who stood up?",
+            "options": [
+                "A. The man wearing a white shirt moved slightly to the right.",
+                "B. The man wearing a white shirt seems to have sat down.",
+                "C. The man wearing a white shirt completely left the frame.",
+                "D. The position of the man wearing a white shirt did not change."
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_99": {
+            "id": "FsLaTZmP6Uw_99",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the scoreboard visible on the screen?",
+            "options": [
+                "A. The scoreboard is visible in the upper right part of the screen.",
+                "B. The scoreboard is visible in the lower left part of the screen.",
+                "C. The scoreboard is visible in the upper left part of the screen.",
+                "D. The scoreboard is visible in the lower right part of the screen."
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_100": {
+            "id": "FsLaTZmP6Uw_100",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "Which camera angle should be used to highlight the activities of the central crowd?",
+            "options": [
+                "A. Use a close-up angle to highlight the activities of the central crowd.",
+                "B. Use a slightly elevated angle to highlight the activities of the central crowd.",
+                "C. Use a ground-level angle to highlight the activities of the central crowd.",
+                "D. Use an overhead angle to highlight the activities of the central crowd."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_101": {
+            "id": "FsLaTZmP6Uw_101",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What characteristics of the audience are highlighted by the slightly elevated perspective?",
+            "options": [
+                "A. The slightly elevated perspective highlights the unity and enthusiasm of the audience.",
+                "B. The slightly elevated perspective highlights the individual performance of the players.",
+                "C. The slightly elevated perspective highlights the detailed actions of the referees.",
+                "D. The slightly elevated perspective highlights the technical aspects of the table tennis match."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_102": {
+            "id": "FsLaTZmP6Uw_102",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Which visual element indicates that China is leading in the competition?",
+            "options": [
+                "A. The scoreboard in the top left corner.",
+                "B. The color of the audience's uniforms.",
+                "C. The celebratory actions of the audience.",
+                "D. The position of the main referee's chair."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_103": {
+            "id": "FsLaTZmP6Uw_103",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the scoreboard located relative to the screen?",
+            "options": [
+                "A. The scoreboard is located at the top left corner of the screen.",
+                "B. The scoreboard is located at the top right corner of the screen.",
+                "C. The scoreboard is located directly behind the screen.",
+                "D. The scoreboard is located at the bottom left corner of the screen."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_104": {
+            "id": "FsLaTZmP6Uw_104",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the background color of the field when the screen is first initialized?",
+            "options": [
+                "A. The background is dark green and orange tones.",
+                "B. The background is bright with blue tones.",
+                "C. The background is completely black.",
+                "D. The background is a bright yellow and red color scheme."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_105": {
+            "id": "FsLaTZmP6Uw_105",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is the athlete wearing?",
+            "options": [
+                "A. The athlete is wearing a bright red sports shirt.",
+                "B. The athlete is wearing a white sports jacket.",
+                "C. The athlete is wearing a blue tracksuit.",
+                "D. The athlete is wearing a green basketball uniform."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_106": {
+            "id": "FsLaTZmP6Uw_106",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "How is the athlete's jersey designed?",
+            "options": [
+                "A. The jersey is adorned with a golden dragon pattern, the Chinese national flag emblem, and a collar with yellow trim.",
+                "B. The jersey is pure red, without any other designs or patterns.",
+                "C. The jersey has a silver dragon pattern, the Japanese national flag emblem, and a collar with green trim.",
+                "D. The jersey has alternating red and black stripes, without a national flag emblem or collar trim."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_107": {
+            "id": "FsLaTZmP6Uw_107",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "What is China's score in this round?",
+            "options": [
+                "A. China's score is 4.",
+                "B. China's score is 3.",
+                "C. China's score is 2.",
+                "D. China's score is 1."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_108": {
+            "id": "FsLaTZmP6Uw_108",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "What is Japan's score in the current round?",
+            "options": [
+                "A. Japan's score is 3.",
+                "B. Japan's score is 2.",
+                "C. Japan's score is 4.",
+                "D. Japan's score is 1."
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_109": {
+            "id": "FsLaTZmP6Uw_109",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many countries' scores are displayed on the scoreboard?",
+            "options": [
+                "A. The scoreboard shows the score of one country.",
+                "B. The scoreboard shows the scores of two countries.",
+                "C. The scoreboard shows the scores of three countries.",
+                "D. The scoreboard does not display any scores."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_110": {
+            "id": "FsLaTZmP6Uw_110",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What detail of the athlete's clothing is highlighted as the scene ends?",
+            "options": [
+                "A. The name and country on the back of his jersey.",
+                "B. The number on the back of his jersey.",
+                "C. The brand logo on his shorts.",
+                "D. The shoes he is wearing."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_111": {
+            "id": "FsLaTZmP6Uw_111",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "Does the scoreboard show any dynamic changes?",
+            "options": [
+                "A. Yes, the scoreboard shows dynamic changes, with China's score updated to 3.",
+                "B. No, the scoreboard remains static, with no team's score updated.",
+                "C. Yes, the scoreboard shows Japan's score increasing to 4.",
+                "D. No, the scoreboard only shows the initial scores, with no updates."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_112": {
+            "id": "FsLaTZmP6Uw_112",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "Which type of shot is used to highlight an athlete's clothing?",
+            "options": [
+                "A. Close-up shots are used to highlight the athlete's upper body and clothing.",
+                "B. Wide-angle panoramic shots are used to showcase the entire competition venue.",
+                "C. Bird's-eye view shots are used to capture the atmosphere of the stadium.",
+                "D. Panning shots are used to follow the athlete's movements."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_113": {
+            "id": "FsLaTZmP6Uw_113",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements on the athletes' jerseys in the early scene enhanced their national representation?",
+            "options": [
+                "A. The patch of the Chinese flag and the dragon pattern on the jersey",
+                "B. The patch of the Japanese flag and the lion pattern on the jersey",
+                "C. The patch of the Chinese flag and the tiger pattern on the jersey",
+                "D. The patch of the Japanese flag and the dragon pattern on the jersey"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_114": {
+            "id": "FsLaTZmP6Uw_114",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the person wearing a blue blazer and beige pants?",
+            "options": [
+                "A. The person wearing a blue blazer and beige pants is near the edge of the competition area.",
+                "B. The person wearing a blue blazer and beige pants is sitting in the audience.",
+                "C. The person wearing a blue blazer and beige pants is standing on a green chair.",
+                "D. The person wearing a blue blazer and beige pants is behind the scoreboard."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_115": {
+            "id": "FsLaTZmP6Uw_115",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What action is the individual wearing a blue blazer and beige pants doing at the end of the scene?",
+            "options": [
+                "A. The individual wearing a blue blazer and beige pants remains still.",
+                "B. The individual wearing a blue blazer and beige pants stood up.",
+                "C. The individual wearing a blue blazer and beige pants raised a palm.",
+                "D. The individual wearing a blue blazer and beige pants raised both hands."
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_116": {
+            "id": "FsLaTZmP6Uw_116",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What type of venue is the competition in the scene held at?",
+            "options": [
+                "A. Outdoor stadium",
+                "B. Large indoor arena",
+                "C. Small gym",
+                "D. Public park"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_117": {
+            "id": "FsLaTZmP6Uw_117",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What are the main athlete's physical characteristics in the video?",
+            "options": [
+                "A. The main athlete has long black hair and a slender build.",
+                "B. The main athlete has short black hair and a muscular build, symbolizing the qualities of a professional athlete.",
+                "C. The main athlete has medium-length brown hair and a slim build.",
+                "D. The main athlete has curly blonde hair and a solid build."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_118": {
+            "id": "FsLaTZmP6Uw_118",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What does the Chinese flag emblem on the athlete's jersey look like?",
+            "options": [
+                "A. The Chinese flag emblem on the jersey has three stars.",
+                "B. The Chinese flag emblem on the jersey has five stars.",
+                "C. The Chinese flag emblem on the jersey has only one big star.",
+                "D. The Chinese flag emblem on the jersey has no stars."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_119": {
+            "id": "FsLaTZmP6Uw_119",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What color is the collar of the athlete's jersey?",
+            "options": [
+                "A. Red",
+                "B. Yellow",
+                "C. Green",
+                "D. Blue"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_120": {
+            "id": "FsLaTZmP6Uw_120",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What text can be seen on the back of the athlete's jersey?",
+            "options": [
+                "A. Ma Long, CHN",
+                "B. Ai Long, CHN",
+                "C. Ma Long, JPN",
+                "D. Ai Long, JPN"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_121": {
+            "id": "FsLaTZmP6Uw_121",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many countries are displayed on the background scoreboard?",
+            "options": [
+                "A. One country is displayed.",
+                "B. Two countries are displayed.",
+                "C. Three countries are displayed.",
+                "D. Four countries are displayed."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_122": {
+            "id": "FsLaTZmP6Uw_122",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What is the score for 'CHN' (China) in this round on the background scoreboard?",
+            "options": [
+                "A. The score for 'CHN' (China) is 3.",
+                "B. The score for 'CHN' (China) is 4.",
+                "C. The score for 'CHN' (China) is 2.",
+                "D. The score for 'CHN' (China) is 1."
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_123": {
+            "id": "FsLaTZmP6Uw_123",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What is the score for 'JPN' (Japan) in this round on the background scoreboard?",
+            "options": [
+                "A. The score for 'JPN' (Japan) is 2.",
+                "B. The score for 'JPN' (Japan) is 3.",
+                "C. The score for 'JPN' (Japan) is 1.",
+                "D. The score for 'JPN' (Japan) is 4."
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_124": {
+            "id": "FsLaTZmP6Uw_124",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "Does the color of the arena floor change in different scenes?",
+            "options": [
+                "A. Yes, it changes from green to blue.",
+                "B. Yes, it changes from green to red.",
+                "C. No, the floor remains a vibrant green in all scenes.",
+                "D. Yes, it changes from green to yellow."
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_125": {
+            "id": "FsLaTZmP6Uw_125",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in the scene to capture the athlete?",
+            "options": [
+                "A. The camera angle is a close-up from a slightly elevated perspective.",
+                "B. The camera angle is a wide-angle shot from a low perspective.",
+                "C. The camera angle is a medium shot from behind the athlete.",
+                "D. The camera angle is a long shot, capturing the entire arena."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_126": {
+            "id": "FsLaTZmP6Uw_126",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements on the scoreboard display the scores of the teams currently competing in the match?",
+            "options": [
+                "A. The scoreboard shows 'CHN 3, 2' and 'JPN 2, 1', along with their respective national flags.",
+                "B. The scoreboard shows 'CHN 4, 2' and 'JPN 3, 2', along with the athletes' names.",
+                "C. The scoreboard shows 'CHN 2, 2' and 'JPN 3, 1', but without any national flags.",
+                "D. The scoreboard presents 'CHN 3, 1' and 'JPN 2, 3', accompanied by detailed graphics."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_127": {
+            "id": "FsLaTZmP6Uw_127",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What additional text elements are displayed on the scoreboard?",
+            "options": [
+                "A. The scoreboard includes elements like 'Olympic Rings' and 'OMEGA'.",
+                "B. The scoreboard includes elements like 'Ping Pong' and 'CHN'.",
+                "C. The scoreboard includes elements like 'JPN' and 'Winner'.",
+                "D. The scoreboard includes elements like 'Match Point' and 'Loser'."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_128": {
+            "id": "FsLaTZmP6Uw_128",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is Ma Long's opponent positioned in the scene at the start of the shot?",
+            "options": [
+                "A. Left side of the screen.",
+                "B. Right side of the screen.",
+                "C. Top of the screen.",
+                "D. Bottom of the screen."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_129": {
+            "id": "FsLaTZmP6Uw_129",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the main environment described in the scene?",
+            "options": [
+                "A. The scene takes place at the Olympic table tennis match, with 'Rio 2016' and a full house of spectators visible.",
+                "B. The scene takes place in the high school gymnasium of a local table tennis match, with a small number of spectators in the stands.",
+                "C. The scene takes place at a professional sports club's practice venue, with a few spectators and no large decorations.",
+                "D. The scene takes place at a table tennis match at a community center, where participants are relaxed and casual with no spectators."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_130": {
+            "id": "FsLaTZmP6Uw_130",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What is Ma Long's posture at the beginning of the scene?",
+            "options": [
+                "A. Ma Long is sitting and observing the match.",
+                "B. Ma Long's right arm and racket are raised high.",
+                "C. Ma Long maintains a forward-leaning posture throughout the scene without moving.",
+                "D. Ma Long performs a forehand stroke at the beginning of the scene."
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_131": {
+            "id": "FsLaTZmP6Uw_131",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many athletes are the focus in the scene?",
+            "options": [
+                "A. One athlete.",
+                "B. Two athletes.",
+                "C. Three athletes.",
+                "D. Four athletes."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_132": {
+            "id": "FsLaTZmP6Uw_132",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Is China leading Japan according to the scoreboard?",
+            "options": [
+                "A. Yes, according to the electronic scoreboard, China is leading Japan.",
+                "B. No, according to the electronic scoreboard, Japan is leading China.",
+                "C. The scoreboard does not show any leading situation.",
+                "D. According to the scoreboard, the match between China and Japan is a draw."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_133": {
+            "id": "FsLaTZmP6Uw_133",
+            "scene": 6,
+            "dimension": "Camera Direction",
+            "question": "Which angle is Ma Long primarily filmed from?",
+            "options": [
+                "A. Ma Long is primarily filmed from behind.",
+                "B. Ma Long is primarily filmed from the front.",
+                "C. Ma Long is primarily filmed from the side.",
+                "D. Ma Long is primarily filmed from above."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_134": {
+            "id": "FsLaTZmP6Uw_134",
+            "scene": 6,
+            "dimension": "Speed",
+            "question": "Does the scene description mention changes in the speed of the athlete's movements?",
+            "options": [
+                "A. Yes, because during the match, the blurred surface of the ping pong ball indicated high speed.",
+                "B. No, the scene description does not mention any changes in the athlete's movements.",
+                "C. Yes, the scene description clearly states that the athlete's movements slowed down near the end.",
+                "D. No, the scene description only mentioned the audience's attention."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_135": {
+            "id": "FsLaTZmP6Uw_135",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What is Ma Long's initial stance after the first return in the scene?",
+            "options": [
+                "A. Ma Long's initial stance is an upright position.",
+                "B. Ma Long's initial stance is a crouching position.",
+                "C. Ma Long's initial stance is lying down.",
+                "D. Ma Long's initial stance is sitting on a bench."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_136": {
+            "id": "FsLaTZmP6Uw_136",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What is Ma Long's posture during the second return shot?",
+            "options": [
+                "A. Semi-squat position.",
+                "B. Standing position.",
+                "C. Upright position.",
+                "D. Sitting position."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_137": {
+            "id": "FsLaTZmP6Uw_137",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Which element on the ping pong table reinforces the setting of the match as an Olympic event?",
+            "options": [
+                "A. The white Olympic rings marking.",
+                "B. The 'Ma Long' text on the athlete's jersey.",
+                "C. The 'CHN' text on the athlete's jersey.",
+                "D. The electronic scoreboard displaying the match score."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_138": {
+            "id": "FsLaTZmP6Uw_138",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What symbol on the ping pong table reinforces the Olympic setting?",
+            "options": [
+                "A. Olympic rings on the ping pong table",
+                "B. Map of Rio on the ping pong table",
+                "C. National flag on the ping pong table",
+                "D. Sports federation logo on the ping pong table"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_139": {
+            "id": "FsLaTZmP6Uw_139",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Which decorative elements enhanced the scene of the Olympic Games events?",
+            "options": [
+                "A. The racket in the athlete's hand",
+                "B. Rio2016 banners",
+                "C. The coach's red outfit",
+                "D. The black silhouettes of the audience"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_140": {
+            "id": "FsLaTZmP6Uw_140",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene?",
+            "options": [
+                "A. The scene takes place in an Olympic-themed environment with colorful decorations and a green competition field.",
+                "B. The scene takes place at a local community center during a casual table tennis match.",
+                "C. The scene takes place in a dimly lit indoor gymnasium with no audience.",
+                "D. The scene takes place in a school auditorium with simple decorations and a wooden floor."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_141": {
+            "id": "FsLaTZmP6Uw_141",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the atmosphere of this scene like?",
+            "options": [
+                "A. The atmosphere is lively, with enthusiastic spectators and bright lights.",
+                "B. The atmosphere is calm and quiet, with peaceful spectators and dim lighting.",
+                "C. The atmosphere is tense, the audience remains silent, and spotlights focus only on the equipment.",
+                "D. The atmosphere is chaotic, with dim lighting, inattentive spectators, and a lack of interest in the competition."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_142": {
+            "id": "FsLaTZmP6Uw_142",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What information does the scoreboard display about the players?",
+            "options": [
+                "A. The scoreboard displays 'CHN,' 'Ma Long,' 'JPN,' and 'Mizutani Jun.'",
+                "B. The scoreboard displays 'USA,' 'John Doe,' 'GER,' and 'Hans Muller.'",
+                "C. The scoreboard lists 'FRA,' 'Pierre Dupont,' 'ITA,' and 'Giovanni Rossi.'",
+                "D. The scoreboard displays 'BRA,' 'Carlos Silva,' 'ARG,' and 'Diego Maradona.'"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_143": {
+            "id": "FsLaTZmP6Uw_143",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What is the current score displayed on the scoreboard for this game?",
+            "options": [
+                "A. China is leading 2-1.",
+                "B. Japan is leading 2-1.",
+                "C. The game is tied at 1-1.",
+                "D. China is leading 3-0."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_144": {
+            "id": "FsLaTZmP6Uw_144",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What is the score of China's first five games displayed on the scoreboard?",
+            "options": [
+                "A. The scores are 11-5, 11-5, 11-5, 7-11, 10-12.",
+                "B. The scores are 11-7, 11-5, 11-5, 7-11, 10-11.",
+                "C. The scores are 10-5, 11-6, 11-5, 7-12, 10-10.",
+                "D. The scores are 11-5, 11-4, 11-5, 7-10, 10-12."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_145": {
+            "id": "FsLaTZmP6Uw_145",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What additional information is displayed on the scoreboard?",
+            "options": [
+                "A. The word 'OMEGA' appears in the top right corner.",
+                "B. The current weather conditions.",
+                "C. The number of spectators present.",
+                "D. The players' heart rate."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_146": {
+            "id": "FsLaTZmP6Uw_146",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Is there a celebration by Ma Long in the scene?",
+            "options": [
+                "A. Yes, Ma Long is celebrating in a joyful manner in the scene.",
+                "B. No, Ma Long looks disappointed in the scene.",
+                "C. Yes, Ma Long is sitting in the scene.",
+                "D. No, Ma Long does not appear in the scene."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_147": {
+            "id": "FsLaTZmP6Uw_147",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the athlete in the red sportswear do at the beginning of the scene?",
+            "options": [
+                "A. Sit down",
+                "B. Stand up",
+                "C. Jumped",
+                "D. Remained still"
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_148": {
+            "id": "FsLaTZmP6Uw_148",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "How did the camera capture Ma Long's celebration pose?",
+            "options": [
+                "A. The camera shifted positions, placing Ma Long on the left side of the foreground, highlighting his celebration pose.",
+                "B. The camera zoomed in on the opponent in black, obscuring Ma Long's celebration pose.",
+                "C. The camera panned right, focusing on the audience's reaction instead of Ma Long.",
+                "D. The camera remained stationary, providing a wide-angle view of the entire court without emphasizing Ma Long."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_149": {
+            "id": "FsLaTZmP6Uw_149",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Which visual element indicates the intensity as the athlete moves towards the center?",
+            "options": [
+                "A. His uniform becomes clearly visible and sharp.",
+                "B. The spectators in the background turned their heads.",
+                "C. Slight motion blur obscures his features.",
+                "D. The scoreboard in the background undergoes significant changes."
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_150": {
+            "id": "FsLaTZmP6Uw_150",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What is Ma Long's posture at the start of the celebration?",
+            "options": [
+                "A. Knees bent, arms folded, racket close to the chest.",
+                "B. Legs straight, arms raised, racket held high above the head.",
+                "C. Knees bent, arms open, racket pointing forward.",
+                "D. Legs straight, arms crossed, racket placed on the table."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_151": {
+            "id": "FsLaTZmP6Uw_151",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What details on Ma Long's jersey help identify him during a match?",
+            "options": [
+                "A. The bright red jersey with 'MA LONG' and 'CHN' printed on the back helps identify him.",
+                "B. The white sneakers with red stripes help identify him.",
+                "C. The black shorts with his team logo help identify him.",
+                "D. The blue wristband with his initials helps identify him."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_152": {
+            "id": "FsLaTZmP6Uw_152",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the staff member performing the punching action located as the scene is about to end?",
+            "options": [
+                "A. On the far left of the screen",
+                "B. In the center of the screen",
+                "C. On the far right of the screen",
+                "D. Not in the screen"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_153": {
+            "id": "FsLaTZmP6Uw_153",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "Where did the celebration centered around Ma Long take place?",
+            "options": [
+                "A. In a local sports arena.",
+                "B. At the Olympic table tennis venue.",
+                "C. At a national training facility.",
+                "D. At an amateur table tennis club."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_154": {
+            "id": "FsLaTZmP6Uw_154",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What gesture will the staff on the green referee chair make?",
+            "options": [
+                "A. The match official raises both arms in celebration.",
+                "B. The match official raises one arm firmly.",
+                "C. The match official waves a flag to indicate a rule violation.",
+                "D. The match official claps along with the audience."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_155": {
+            "id": "FsLaTZmP6Uw_155",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Which teams are displayed on the scoreboard?",
+            "options": [
+                "A. China (CHN) and Japan (JPN)",
+                "B. China (CHN) and South Korea (KOR)",
+                "C. Japan (JPN) and Germany (GER)",
+                "D. China (CHN) and the United States (USA)"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_156": {
+            "id": "FsLaTZmP6Uw_156",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What is the current score between China and Japan on the scoreboard?",
+            "options": [
+                "A. China is leading 2-1 in the match.",
+                "B. Japan is leading 2-1 in the match.",
+                "C. The score is tied at 1-1 in the match.",
+                "D. China is leading 3-0 in the match."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_157": {
+            "id": "FsLaTZmP6Uw_157",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What are the scores of the two matches displayed on the right side of the scoreboard?",
+            "options": [
+                "A. 11-5 and 12-8",
+                "B. 11-7 and 12-10",
+                "C. 9-11 and 10-12",
+                "D. 10-11 and 8-12"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_158": {
+            "id": "FsLaTZmP6Uw_158",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Can Ma Long's opponent see at the end of the scene?",
+            "options": [
+                "A. Can see",
+                "B. Cannot see",
+                "C. Partially visible",
+                "D. Not clear"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_159": {
+            "id": "FsLaTZmP6Uw_159",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What action does Ma Long perform before standing proudly?",
+            "options": [
+                "A. Ma Long changes to a more compact, forward-leaning posture, lowering his head and bending his body.",
+                "B. Ma Long raises his arms in a victory pose and jumps to celebrate his victory.",
+                "C. Ma Long switches to a defensive stance, ready to receive the opponent's next shot.",
+                "D. Ma Long throws his racket into the air in celebration and then bows to the audience."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_160": {
+            "id": "FsLaTZmP6Uw_160",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What direction of perspective is the camera angle adjustment intended to provide?",
+            "options": [
+                "A. The camera angle adjustment is intended to provide a wider, more comprehensive perspective.",
+                "B. The camera angle adjustment is intended to provide a closer, more focused perspective.",
+                "C. The camera angle adjustment is intended to provide a lower perspective, more dramatic perspective.",
+                "D. The camera angle adjustment is intended to provide a higher perspective, more overlooking effect."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_161": {
+            "id": "FsLaTZmP6Uw_161",
+            "scene": 6,
+            "dimension": "Camera Direction",
+            "question": "What did the adjusted camera angle capture?",
+            "options": [
+                "A. It captured more details of the audience seats.",
+                "B. It focused on Ma Long's facial expressions.",
+                "C. It only highlighted the scoreboard in the corner.",
+                "D. It completely turned towards the audience's reactions."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_162": {
+            "id": "FsLaTZmP6Uw_162",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "How does the adjustment of the camera framing affect the scope of the scene?",
+            "options": [
+                "A. The adjustment focuses solely on Ma Long, blurring all other elements.",
+                "B. The adjustment expands the scope of the scene to include new elements and interactions.",
+                "C. The adjustment makes the audience and referees the central focus of the scene.",
+                "D. The adjustment provides a close-up of Ma Long's opponent, highlighting their reactions."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_163": {
+            "id": "FsLaTZmP6Uw_163",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Does the description mention changes in Ma Long's speed during the movement?",
+            "options": [
+                "A. Yes, the description mentions that Ma Long accelerates during the movement.",
+                "B. Yes, the description mentions that Ma Long decelerates during the movement.",
+                "C. No, the description does not mention changes in Ma Long's speed during the movement.",
+                "D. Yes, the description mentions that Ma Long both accelerates and decelerates during the movement."
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_164": {
+            "id": "FsLaTZmP6Uw_164",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What indicates on the scoreboard that Ma Long is the server for this game?",
+            "options": [
+                "A. Ma Long's name is framed by a blue rectangle on the scoreboard.",
+                "B. There is a gold medal icon next to Ma Long's name on the scoreboard.",
+                "C. The word 'Champion' is displayed next to Ma Long's name on the scoreboard.",
+                "D. There is a trophy icon next to Ma Long's name on the scoreboard."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_165": {
+            "id": "FsLaTZmP6Uw_165",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "Where does this scene take place?",
+            "options": [
+                "A. This scene takes place at the climax of a table tennis match.",
+                "B. This scene takes place in the final of a swimming competition.",
+                "C. This scene takes place during a weightlifting championship.",
+                "D. This scene takes place in the last minute of a football match."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_166": {
+            "id": "FsLaTZmP6Uw_166",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the overall atmosphere of this scene?",
+            "options": [
+                "A. The atmosphere is filled with enthusiastic celebration and victory after Ma Long's win.",
+                "B. The atmosphere is calm and quiet at the end of the match.",
+                "C. The atmosphere is filled with disappointment and sadness.",
+                "D. The atmosphere is chaotic and disordered during the match."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_167": {
+            "id": "FsLaTZmP6Uw_167",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What is Ma Long's expression when celebrating a score?",
+            "options": [
+                "A. Ma Long lowers his head with a disappointed look, reflecting on the match.",
+                "B. Ma Long looks up to the sky, joy written all over his face.",
+                "C. Ma Long stares at the audience with a serious expression.",
+                "D. Ma Long gazes at the scoreboard, looking pensive."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_168": {
+            "id": "FsLaTZmP6Uw_168",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What are the main features of Ma Long's jersey?",
+            "options": [
+                "A. Ma Long's jersey is bright red with intricate yellow dragon patterns and the national emblem, along with a small red logo and other detailed designs.",
+                "B. Ma Long's jersey is green with silver stripes and the national emblem, along with a small red logo and other detailed designs.",
+                "C. Ma Long's jersey is blue with white polka dots and the national emblem, along with a small red logo and other detailed designs.",
+                "D. Ma Long's jersey is black with golden stars and the national emblem, along with a small red logo and other detailed designs."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_169": {
+            "id": "FsLaTZmP6Uw_169",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many main characters can be seen clearly by the end of the scene?",
+            "options": [
+                "A. Two main characters.",
+                "B. Three main characters.",
+                "C. Four main characters.",
+                "D. Five main characters."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_170": {
+            "id": "FsLaTZmP6Uw_170",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "Who are the main characters described at the end of the scene?",
+            "options": [
+                "A. Ma Long, the referee.",
+                "B. Ma Long, Mizutani Jun.",
+                "C. Ma Long, Ma Long's coach.",
+                "D. Mizutani Jun, the referee."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_171": {
+            "id": "FsLaTZmP6Uw_171",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Does the scoreboard show that Ma Long won?",
+            "options": [
+                "A. No, the scoreboard currently only shows that Ma Long is leading.",
+                "B. No, the scoreboard shows that 'Mizutani Jun' from Japan won the match.",
+                "C. Yes, but the name on the scoreboard is not clear enough to confirm the winner.",
+                "D. No, the scoreboard is not visible in the scene."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_172": {
+            "id": "FsLaTZmP6Uw_172",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "How do the referee's gestures change in the scene?",
+            "options": [
+                "A. The referee first crosses his arms, then claps for Ma Long, and finally extends his arms outward in celebration.",
+                "B. The referee raises his arms from his thighs, eventually raising them above his head and clenching his fists.",
+                "C. The referee stands quietly at first, then steps forward to shake hands with Ma Long, and finally raises both fists above his head.",
+                "D. The referee starts with his hands on his knees, then waves a flag to signal the end of the match, and finally remains seated without further movement."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_173": {
+            "id": "FsLaTZmP6Uw_173",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "Which direction is Ma Long looking when crouching down to celebrate?",
+            "options": [
+                "A. Ma Long's gaze is upwards.",
+                "B. Ma Long's gaze is downwards.",
+                "C. Ma Long's gaze is to the left.",
+                "D. Ma Long's gaze is towards the audience."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_174": {
+            "id": "FsLaTZmP6Uw_174",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "During the event, how should the camera adjust its focus?",
+            "options": [
+                "A. The camera slightly increases the focus to emphasize the central figure.",
+                "B. The camera zooms out to capture the entire audience.",
+                "C. The camera maintains a consistent focus throughout the event.",
+                "D. The camera zooms in only on the digital scoreboard."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_175": {
+            "id": "FsLaTZmP6Uw_175",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "How should the camera adjust its angle during the event?",
+            "options": [
+                "A. The camera zooms out to clearly show the entire audience and scoreboard.",
+                "B. The camera remains stationary, showing the entire scene without focusing on specific content.",
+                "C. The camera changes angle to focus on key figures.",
+                "D. The camera turns to focus on the audience and scoreboard, highlighting details of the surrounding environment."
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_176": {
+            "id": "FsLaTZmP6Uw_176",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements highlight Ma Long's cultural and competitive identity?",
+            "options": [
+                "A. The jersey pattern and national emblem, the scoreboard's 'CHN', highlight his cultural and competitive identity.",
+                "B. The referee's blue suit and yellow tie highlight Ma Long's cultural and competitive identity.",
+                "C. The bright yellow shirts worn by the audience in the background highlight Ma Long's cultural and competitive identity.",
+                "D. The green chair used by the referee highlights Ma Long's cultural and competitive identity."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_177": {
+            "id": "FsLaTZmP6Uw_177",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What does Ma Long do after scoring?",
+            "options": [
+                "A. Ma Long adopts a celebratory posture, bends his knees, keeps his arms close to his body, and holds his racket tightly near his chest.",
+                "B. Ma Long sits on the umpire's chair and smiles while waving to the audience.",
+                "C. Ma Long raises his racket high above his head, stands straight, and lightly jumps in place.",
+                "D. Ma Long kneels on the ground, raises his arms into a 'V' shape, and looks up at the scoreboard."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_178": {
+            "id": "FsLaTZmP6Uw_178",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How did the chief referee acknowledge Ma Long's valid score?",
+            "options": [
+                "A. The chief referee raised both arms and excitedly waved.",
+                "B. The chief referee slightly raised an arm to show approval.",
+                "C. The chief referee stood up and loudly applauded to congratulate Ma Long.",
+                "D. The chief referee rang the bell to announce the end of the match."
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_179": {
+            "id": "FsLaTZmP6Uw_179",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How does the dynamic atmosphere change during the competition?",
+            "options": [
+                "A. The scene transitions from capturing the athletes' competitive postures to the audience's celebration.",
+                "B. The scene completely focuses on the scoreboard and referees, ignoring the athletes and audience.",
+                "C. The scene transitions from showcasing the cheering crowd to solely focusing on the referees' attire and actions.",
+                "D. The scene starts with the scoreboard and ends by focusing on random spectators in the crowd."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_180": {
+            "id": "FsLaTZmP6Uw_180",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How did Ma Long's score stand out in the match?",
+            "options": [
+                "A. Ma Long's victory was highlighted at the climax of the match, accompanied by intense audience celebration and the referee's actions.",
+                "B. Ma Long's victory was highlighted in a quiet venue with the referee nodding slightly.",
+                "C. Ma Long's victory was highlighted by the opponent silently leaving the court.",
+                "D. Ma Long's victory was highlighted in an empty stadium with the referee's neutral expression."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_181": {
+            "id": "FsLaTZmP6Uw_181",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How do scoreboards add to the narrative of a game?",
+            "options": [
+                "A. Scoreboards display scores, game status, and key game outcomes.",
+                "B. Scoreboards display advertisements and sponsors, adding commercial value to the game.",
+                "C. Scoreboards are used to display player statistics and historical game data.",
+                "D. Scoreboards provide real-time updates of audience reactions and comments."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_182": {
+            "id": "FsLaTZmP6Uw_182",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "During the scene transition, which elements of the background lighting remain unchanged?",
+            "options": [
+                "A. The vibrant green playing field, the dim outlines of the audience, and the Olympic logo on the ping pong table remain visually consistent.",
+                "B. The vibrant red jerseys, the dim outlines of the audience, and the referee's blue suit remain visually consistent.",
+                "C. The vibrant green playing field, the scoreboard details, and Ma Long's racket remain visually consistent.",
+                "D. The Olympic logo on the ping pong table, the audience's vibrant yellow clothing, and the referee's raised hand remain visually consistent."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_183": {
+            "id": "FsLaTZmP6Uw_183",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What action did Ma Long take in the initial scene?",
+            "options": [
+                "A. You can see Ma Long slightly bending down.",
+                "B. You can see Ma Long standing straight, clenching his right fist in celebration.",
+                "C. You can see Ma Long raising his racket high in celebration.",
+                "D. You can see Ma Long shaking hands with his opponent."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_184": {
+            "id": "FsLaTZmP6Uw_184",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What caused the enthusiastic atmosphere among the audience?",
+            "options": [
+                "A. The celebratory atmosphere among the audience was heightened by Ma Long's scoring and the referee's official acknowledgment of his score, triggering an enthusiastic response from the audience.",
+                "B. The enthusiastic atmosphere among the audience was caused by the bright venue lights and the appearance of a new figure in yellow clothing entering the scene.",
+                "C. The audience was excited by the scoreboard's detailed display of score updates, reflecting Ma Long's victory over Mizutani Jun.",
+                "D. The referee raised a yellow flag indicating the end of the match, inspiring the cheering crowd."
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_185": {
+            "id": "FsLaTZmP6Uw_185",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the significance of the referee's gestures in the match narrative?",
+            "options": [
+                "A. The referee's gesture officially confirmed the validity of the point won by Ma Long.",
+                "B. The referee's gesture indicated the end of the match, encouraging the audience to start enthusiastically celebrating Ma Long's victory.",
+                "C. The referee's gesture indicated that the final point needed an official review before Ma Long could be confirmed as the winner.",
+                "D. The referee's gesture was to thank the audience for their enthusiastic support during the match."
+            ],
+            "answer": "A"
+        }
+    }
+}

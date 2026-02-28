@@ -1,0 +1,1307 @@
+{
+    "scene_hint": {
+        "0": "一段开场动画",
+        "1": "天空由亮变黑的过程",
+        "2": "画面中许多的人聚在一起",
+        "3": "一处自然景观。",
+        "4": "日食的过程",
+        "5": "昏暗的户外场景",
+        "6": "一段模拟天体运动的动画",
+        "7": "单调背景中有一个发光的球体",
+        "8": "一个发光球体悬挂在天空上",
+        "9": "城市上空画面和温度计。",
+        "10": "路边立着的一块展示板。",
+        "11": "一条蛇出现在画面中",
+        "12": "一辆车出现在画面中",
+        "13": "日食画面"
+    },
+    "qa": {
+        "990ci2H9BBc_0": {
+            "id": "990ci2H9BBc_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "场景中的山丘和树木在哪里？",
+            "options": [
+                "A. 山丘和树木位于场景的正中央。",
+                "B. 山丘和树木位于观众的身后。",
+                "C. 山丘和树木位于场景的底部稍上。",
+                "D. 山丘和树木随机分布在场景中。"
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_1": {
+            "id": "990ci2H9BBc_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这个场景中描述的环境是什么？",
+            "options": [
+                "A. 环境宁静祥和。",
+                "B. 环境热闹嘈杂。",
+                "C. 环境寒冷多雪。",
+                "D. 环境城市化和工业化。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_2": {
+            "id": "990ci2H9BBc_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "场景中有哪些元素？",
+            "options": [
+                "A. 一个城市景观。",
+                "B. 一大片水域。",
+                "C. 一个沙滩。",
+                "D. 一片茂密的森林。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_3": {
+            "id": "990ci2H9BBc_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "场景中包含哪些图形元素？",
+            "options": [
+                "A. 场景包括右下角的 'AccuWeather' 标志。",
+                "B. 场景包括左下角的 'AccuWeather' 标志。",
+                "C. 场景包括右下角的 'SOLAR EFFECTS DURING LUNAR ECLIPSE'。",
+                "D. 场景包括右下角的 'DECREASING EFFECTS DURING PARTIAL ECLIPSE'。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_4": {
+            "id": "990ci2H9BBc_4",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "场景中可以看到多少个文本元素标志？",
+            "options": [
+                "A. 可以看到一个标志",
+                "B. 可以看到两个标志",
+                "C. 可以看到三个标志",
+                "D. 看不到任何标志"
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_5": {
+            "id": "990ci2H9BBc_5",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "这个场景是在白天拍摄的吗？",
+            "options": [
+                "A. 是的，这个场景是在白天拍摄的。",
+                "B. 是的，这个场景是在中午拍摄的。",
+                "C. 不，这个场景是在夜晚拍摄的。",
+                "D. 是的，这个场景是在下午拍摄的。"
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_6": {
+            "id": "990ci2H9BBc_6",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "在场景中云层有什么变化？",
+            "options": [
+                "A. 云层在画面中不断放大。",
+                "B. 云层在天空中形成直线。",
+                "C. 云层静止悬浮。",
+                "D. 云层迅速散去。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_7": {
+            "id": "990ci2H9BBc_7",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "使用哪种类型的镜头捕捉这场景？",
+            "options": [
+                "A. 特写镜头",
+                "B. 广角镜头",
+                "C. 全景镜头",
+                "D. 中景镜头"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_8": {
+            "id": "990ci2H9BBc_8",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "在日全食阶段，日冕位于何处？",
+            "options": [
+                "A. 日冕位于画面中心稍往右上。",
+                "B. 日冕位于画面的正中心。",
+                "C. 日冕位于画面的底部。",
+                "D. 日冕位于画面的最左侧的。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_9": {
+            "id": "990ci2H9BBc_9",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "场景中是否描述了任何人类行为？",
+            "options": [
+                "A. 是的，人们为日食欢呼。",
+                "B. 场景中没有描述人类行为。",
+                "C. 是的，人们正在准备相机拍摄日食。",
+                "D. 是的，人们正在为日食鼓掌。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_10": {
+            "id": "990ci2H9BBc_10",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中可以看到哪些品牌元素？",
+            "options": [
+                "A. 'YouTube/NASA Goddard'标志和'AccuWeather'标志。",
+                "B. 'Discovery Channel'标志和'Weather Channel'标志。",
+                "C. 'National Geographic'标志和'BBC Earth'标志。",
+                "D. 'SpaceX'标志和'Weather Network'标志。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_11": {
+            "id": "990ci2H9BBc_11",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "“YouTube/NASA Goddard”标志的位置在哪里？",
+            "options": [
+                "A. “YouTube/NASA Goddard”标志位于右上角。",
+                "B. “YouTube/NASA Goddard”标志位于左下角。",
+                "C. “YouTube/NASA Goddard”标志位于右下角。",
+                "D. “YouTube/NASA Goddard”标志位于左上角。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_12": {
+            "id": "990ci2H9BBc_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "“AccuWeather”标志位于什么位置？",
+            "options": [
+                "A. “AccuWeather”标志位于左下角。",
+                "B. “AccuWeather”标志位于右下角。",
+                "C. “AccuWeather”标志位于右上角。",
+                "D. “AccuWeather”标志位于左上角。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_13": {
+            "id": "990ci2H9BBc_13",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "场景中出现了多少文本元素？",
+            "options": [
+                "A. 一个文本",
+                "B. 两个文本",
+                "C. 三个文本",
+                "D. 四个文本"
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_14": {
+            "id": "990ci2H9BBc_14",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "在场景中，广角视角会发生变化吗？",
+            "options": [
+                "A. 是的，广角视角变为特写视图。",
+                "B. 不，广角视角保持不变。",
+                "C. 是的，视角从广角切换为全景。",
+                "D. 是的，广角视角发生了显著变化。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_15": {
+            "id": "990ci2H9BBc_15",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "树枝和树叶会发生什么变化？",
+            "options": [
+                "A. 树枝和树叶与天空形成模糊的剪影。",
+                "B. 树枝和树叶被太阳的日冕照亮。",
+                "C. 树枝和树叶完全消失。",
+                "D. 树枝和树叶在天空上变得更加鲜艳。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_16": {
+            "id": "990ci2H9BBc_16",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "摄像机有移动吗？",
+            "options": [
+                "A. 是的，摄像机只有略微的移动。",
+                "B. 是的，摄像机会放大拍摄太阳。",
+                "C. 不，摄像机保持静止。",
+                "D. 不，摄像机只是左右平移。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_17": {
+            "id": "990ci2H9BBc_17",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "场景中的环境是如何变化的？",
+            "options": [
+                "A. 从稍昏暗的白天转变为接近黑暗。",
+                "B. 环境亮度保持不变。",
+                "C. 从明亮的白天变为稍微昏暗。",
+                "D. 环境变得均匀明亮。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_18": {
+            "id": "990ci2H9BBc_18",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "场景的第一个画面中，穿黄色和蓝色的人在什么位置？",
+            "options": [
+                "A. 位于场景的左侧。",
+                "B. 位于场景的右侧。",
+                "C. 位于场景的中央。",
+                "D. 位于场景的背景中。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_19": {
+            "id": "990ci2H9BBc_19",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景中的画面是什么样的？",
+            "options": [
+                "A. 场景是一个黑暗的夜空。",
+                "B. 场景是一个户外看台。",
+                "C. 场景是一个森林空地。",
+                "D. 场景是一个城市游行。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_20": {
+            "id": "990ci2H9BBc_20",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "场景的第一个画面中，穿黑衣戴眼镜的老人有什么特点？",
+            "options": [
+                "A. 衣服上印有'THE GREAT AMERICA'。",
+                "B. 戴着宽边帽和深色太阳镜。",
+                "C. 抬着一部智能手机，戴着编织帽。",
+                "D. 站在一个印有字母的横幅下。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_21": {
+            "id": "990ci2H9BBc_21",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景右下角可以看到什么标志元素？",
+            "options": [
+                "A. NASA标志",
+                "B. Weather Channel标志",
+                "C. AccuWeather标志",
+                "D. BBC Earth标志"
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_22": {
+            "id": "990ci2H9BBc_22",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "场景的第一个画面中，戴着橙色帽的人在做什么？",
+            "options": [
+                "A.高举摄像机拍摄。",
+                "B.正在指着天空。",
+                "C.戴着日食眼镜。",
+                "D.正在与另一位观众交谈。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_23": {
+            "id": "990ci2H9BBc_23",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "大多数观众在场景中朝哪个方向看？",
+            "options": [
+                "A. 大多数观众低头看着他们的手机。",
+                "B. 大多数观众抬头看着天空。",
+                "C. 大多数观众相互侧目。",
+                "D. 大多数观众向前看着一个大屏幕。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_24": {
+            "id": "990ci2H9BBc_24",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "场景的第一个画面中，使用了什么摄像角度？",
+            "options": [
+                "A. 广角视角。",
+                "B. 中近景视角。",
+                "C. 鸟瞰视角。",
+                "D. 特写视角。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_25": {
+            "id": "990ci2H9BBc_25",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景中的环境是什么样的？",
+            "options": [
+                "A. 较为明亮的户外环境。",
+                "B. 自始至终保持昏暗，几乎不可见颜色。",
+                "C. 明亮的室内场景。",
+                "D. 明亮的月光之夜。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_26": {
+            "id": "990ci2H9BBc_26",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "离镜头最近的那棵高大的无叶树位于哪里？",
+            "options": [
+                "A. 这棵高大的无叶树位于场景的中心。",
+                "B. 这棵高大的无叶树位于场景的最右边。",
+                "C. 这棵高大的无叶树位于场景的最左边。",
+                "D. 这棵高大的无叶树位于水体旁边。"
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_27": {
+            "id": "990ci2H9BBc_27",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景的主要环境是什么？",
+            "options": [
+                "A. 第二场景设定在一个户外活动中。",
+                "B. 第二场景设定在一个自然环境中。",
+                "C. 第二场景设定在都市景观中。",
+                "D. 第二场景设定在没有水体可见的森林中。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_28": {
+            "id": "990ci2H9BBc_28",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "场景中有人可见吗？",
+            "options": [
+                "A. 是的，场景中可以看到一个人。",
+                "B. 是的，可以看到有一小群人。",
+                "C. 不，场景中没有人可见。",
+                "D. 不，场景中什么都没有。"
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_29": {
+            "id": "990ci2H9BBc_29",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景中，屏幕右上角显示的文字是什么？",
+            "options": [
+                "A. 'YouTube/NASA Goddard'",
+                "B. 'AccuWeather'",
+                "C. 'NASA Twilight Observatory'",
+                "D. 'Weather Channel'"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_30": {
+            "id": "990ci2H9BBc_30",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景中屏幕右下角显示的是什么文字？",
+            "options": [
+                "A. 'AccuWeather'",
+                "B. 'YouTube/NASA Goddard'",
+                "C. 包含温度详情的天气报告",
+                "D. 描述宁静水体的字幕"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_31": {
+            "id": "990ci2H9BBc_31",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景存在哪些类型的树？",
+            "options": [
+                "A. 常绿树和无叶树",
+                "B. 白桦树和樱桃树",
+                "C. 橡树和垂柳",
+                "D. 雪松和棕榈树"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_32": {
+            "id": "990ci2H9BBc_32",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "场景中天空的颜色是否有变化？",
+            "options": [
+                "A. 是的，天空的蓝色略有加深。",
+                "B. 不，天空一直是浅蓝色。",
+                "C. 是的，天空从蓝色过渡到深灰色。",
+                "D. 不，天空从一开始就是全粉色。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_33": {
+            "id": "990ci2H9BBc_33",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "水面上反射的影像是什么样的？",
+            "options": [
+                "A. 云层以及城市灯光。",
+                "B. 常绿树和天空。",
+                "C. 鱼类和植物。",
+                "D. 鲜艳装饰和灯光。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_34": {
+            "id": "990ci2H9BBc_34",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "场景使用了哪种类型的摄影机视角？",
+            "options": [
+                "A. 摄影机采用水平视角。",
+                "B. 摄影机采用鸟瞰视角。",
+                "C. 摄影机使用特写视角。",
+                "D. 摄影机从低角度拍摄。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_35": {
+            "id": "990ci2H9BBc_35",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "场景使用了哪种类型的镜头？",
+            "options": [
+                "A. 相机使用广角镜头。",
+                "B. 相机使用放大镜头。",
+                "C. 相机使用俯视镜头。",
+                "D. 相机使用特写镜头。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_36": {
+            "id": "990ci2H9BBc_36",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景的环境是什么样的？",
+            "options": [
+                "A. 拥有柔和略暗的自然光。",
+                "B. 拥有始终明亮的白炽光。",
+                "C. 拥有明亮的正午阳光。",
+                "D. 没有任何光源。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_37": {
+            "id": "990ci2H9BBc_37",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景中的画面是什么样的？",
+            "options": [
+                "A. 小黑球周围有一圈光芒。",
+                "B. 天空中有流星群。",
+                "C. 行星排列。",
+                "D. 银河系的天体视图。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_38": {
+            "id": "990ci2H9BBc_38",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "除了主要光源外，还能看到多少个较小的发光点？",
+            "options": [
+                "A. 两个",
+                "B. 三个",
+                "C. 四个",
+                "D. 五个"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_39": {
+            "id": "990ci2H9BBc_39",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "文本 'AccuWeather' 是否在整个场景中始终存在？",
+            "options": [
+                "A. 是的，文本 'AccuWeather' 在整个场景中始终存在。",
+                "B. 不，文本 'AccuWeather' 在天象转换期间消失了。",
+                "C. 是的，但文本 'AccuWeather' 在场景中改变了位置。",
+                "D. 不，文本 'AccuWeather' 仅在天象转换前可见。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_40": {
+            "id": "990ci2H9BBc_40",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "两个个发光点的光强如何变化？",
+            "options": [
+                "A. 逐渐减弱。",
+                "B. 逐渐增强。",
+                "C. 保持不变。",
+                "D. 随机波动。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_41": {
+            "id": "990ci2H9BBc_41",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景中的背景是什么样的？",
+            "options": [
+                "A. 深蓝色的天空",
+                "B. 红色的天空",
+                "C. 灰色的天空",
+                "D. 橙色的天空"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_42": {
+            "id": "990ci2H9BBc_42",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "场景中有哪些视觉元素？",
+            "options": [
+                "A. 发光点和信息图文本横幅。",
+                "B. 一排明亮的灯光和星空背景。",
+                "C. 垂直排列的发光球体和滚动文本。",
+                "D. 灯光的星座和水印版权。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_43": {
+            "id": "990ci2H9BBc_43",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "月球相对于地球的位置在画面中的哪里？",
+            "options": [
+                "A. 月球在右侧，地球在左侧。",
+                "B. 月球在地球的上方。",
+                "C. 月球正好在地球的下方。",
+                "D. 月球在左侧，地球在右侧。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_44": {
+            "id": "990ci2H9BBc_44",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景开头描绘的环境是什么？",
+            "options": [
+                "A. 山丘和天空。",
+                "B. 夕阳城市景象。",
+                "C. 月光照亮的森林。",
+                "D. 火山景观。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_45": {
+            "id": "990ci2H9BBc_45",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "场景中有人物角色吗？",
+            "options": [
+                "A. 是的，场景中有一个人物角色。",
+                "B. 不，场景中没有人物角色。",
+                "C. 场景只显示人物角色的轮廓。",
+                "D. 是的，场景中有多个人物角色。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_46": {
+            "id": "990ci2H9BBc_46",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景中，地球表面可以看到哪些细节？",
+            "options": [
+                "A. 陆地、海洋和云层。",
+                "B. 沙漠、极地和城市灯光。",
+                "C. 荒凉的地貌、陨石坑和火山喷发。",
+                "D. 无尽的山脉、森林和发光的河流。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_47": {
+            "id": "990ci2H9BBc_47",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "场景中描绘了多少个天体？",
+            "options": [
+                "A. 一个天体",
+                "B. 两个天体",
+                "C. 三个天体",
+                "D. 四个天体"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_48": {
+            "id": "990ci2H9BBc_48",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "在整个场景中，背景是否保持一致？",
+            "options": [
+                "A. 是的，背景始终保持为黄昏景观。",
+                "B. 不，背景从黄昏景观过渡到太空。",
+                "C. 是的，背景始终是保持一致的。",
+                "D. 不，背景从地球表面过渡到水下场景。"
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_49": {
+            "id": "990ci2H9BBc_49",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "地球表面的影子在移动吗？",
+            "options": [
+                "A. 是的，地球表面的影子在移动。",
+                "B. 不，地球表面的影子是静止的。",
+                "C. 场景中没有影子存在。",
+                "D. 影子在移动和静止之间交替。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_50": {
+            "id": "990ci2H9BBc_50",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "场景中相机角度会发生变化吗？",
+            "options": [
+                "A. 不，相机的角度几乎没有变化。",
+                "B. 是的，相机角度在不同视角之间切换。",
+                "C. 是的，相机角度在特写镜头之间交替。",
+                "D. 相机角度只专注于地球的视角。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_51": {
+            "id": "990ci2H9BBc_51",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "哪种镜头用于捕捉地球和月球？",
+            "options": [
+                "A. 一个广阔宇宙视角的镜头。",
+                "B. 一个地球的特写镜头，月球几乎不可见。",
+                "C. 一个全景风景镜头。",
+                "D. 一个月球表面时间推移的镜头。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_52": {
+            "id": "990ci2H9BBc_52",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "在整个场景中始终保持一致的是什么？",
+            "options": [
+                "A. 场景中的天空。",
+                "B. “AccuWeather”标志。",
+                "C. 地球的阴影。",
+                "D. 地球和月球的模型。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_53": {
+            "id": "990ci2H9BBc_53",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "日全食不见之后的环境是什么样的？",
+            "options": [
+                "A. 夜空中有类似星星或天体的光点。",
+                "B. 橙色和红色的色调逐渐消退到地平线。",
+                "C. 被月亮微光照亮的多云天空。",
+                "D. 远处有闪电的暴风天气。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_54": {
+            "id": "990ci2H9BBc_54",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "场景中展示了什么样的资讯横幅？",
+            "options": [
+                "A. 带有黑色文字的横幅。",
+                "B. 多彩文字描述的横幅。",
+                "C. 采用亮红色文字的横幅。",
+                "D. 显示月相的白色文字横幅。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_55": {
+            "id": "990ci2H9BBc_55",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "在场景的右下角放置了什么标志？",
+            "options": [
+                "A. 'Weather Channel'标志。",
+                "B. 'AccuWeather'标志。",
+                "C. 'National Geographic'标志。",
+                "D. 'BBC Weather'标志。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_56": {
+            "id": "990ci2H9BBc_56",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "横幅是否在整个场景中保持可见？",
+            "options": [
+                "A. 是的，横幅始终保持可见。",
+                "B. 不，它们在某个时间点会消失。",
+                "C. 是的，但它们会改变位置和设计。",
+                "D. 不，它们会被信息性音频替代。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_57": {
+            "id": "990ci2H9BBc_57",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "日食在过渡到夜空时会发生什么？",
+            "options": [
+                "A. 日食及其日冕消失。",
+                "B. 日食过渡为满月。",
+                "C. 日食变得部分可见。",
+                "D. 日食被风暴云取代。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_58": {
+            "id": "990ci2H9BBc_58",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "日食消失后的场景是什么样的？",
+            "options": [
+                "A. 深紫色的广阔空间。",
+                "B. 带有长尾的明亮彗星。",
+                "C. 色彩斑斓的星云。",
+                "D. 一弯新月。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_59": {
+            "id": "990ci2H9BBc_59",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "在场景开始时，树枝位于画面中的什么位置？",
+            "options": [
+                "A. 树枝位于画面的左上角。",
+                "B. 树枝位于画面的右下角。",
+                "C. 树枝位于画面的左下角。",
+                "D. 树枝位于画面的右上角。"
+            ],
+            "answer": "D"
+        },
+        "990ci2H9BBc_60": {
+            "id": "990ci2H9BBc_60",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "场景的总体设置是什么？",
+            "options": [
+                "A. 场景从深蓝色的天空过渡到橙黄色近地面。",
+                "B. 场景从城市景观过渡到乡村地区。",
+                "C. 场景是连续的日落海滩景观。",
+                "D. 场景展示了从白天过渡到夜晚的大都市。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_61": {
+            "id": "990ci2H9BBc_61",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "场景中是否有描绘人类出现？",
+            "options": [
+                "A. 有，有人在观看日食。",
+                "B. 没有，聚焦于天文现象和自然元素。",
+                "C. 有，有人在跑步锻炼。",
+                "D. 没有，但是有旁白描述场景。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_62": {
+            "id": "990ci2H9BBc_62",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "画面中始终出现的标志是什么？",
+            "options": [
+                "A. 'Weather Channel'。",
+                "B. 'AccuWeather'。",
+                "C. 'National Geographic'。",
+                "D. 'NASA'。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_63": {
+            "id": "990ci2H9BBc_63",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "背景颜色是否始终保持不变？",
+            "options": [
+                "A. 是的，背景颜色在整个持续时间内保持统一的深灰色。",
+                "B. 不是，背景颜色从紫色过渡到暗蓝色，然后到粉色和橙色调。",
+                "C. 是的，背景颜色在整个持续时间内保持统一的深蓝色。",
+                "D. 不是，背景颜色从亮黄色变为黑色，中间没有其他色调。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_64": {
+            "id": "990ci2H9BBc_64",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "场景开始时的树枝是否一直存在？",
+            "options": [
+                "A. 它们完全消失，留下空荡荡的天空。",
+                "B. 它们刚开始存在，然后切换到其他画面。",
+                "C. 它们始终存在于背景里面。",
+                "D. 它们从背景过渡到前景画面中。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_65": {
+            "id": "990ci2H9BBc_65",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "在场景中，棕榈状的叶片出现在什么位置？",
+            "options": [
+                "A. 棕榈状的叶片出现在画面的两侧。",
+                "B. 棕榈状的叶片出现在画面的顶部中央。",
+                "C. 棕榈状的叶片出现在画面右侧。",
+                "D. 棕榈状的叶片出现在画面右下角。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_66": {
+            "id": "990ci2H9BBc_66",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "场景中主要使用了哪种类型的拍摄镜头？",
+            "options": [
+                "A. 主要使用了特写镜头。",
+                "B. 主要使用了广角镜头。",
+                "C. 主要使用了中景镜头。",
+                "D. 主要使用了俯拍镜头。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_67": {
+            "id": "990ci2H9BBc_67",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "天空渐变的过渡是突然发生的吗？",
+            "options": [
+                "A. 是的，天空渐变的过渡是突然发生的。",
+                "B. 不是，天空渐变的过渡是逐渐发生的。",
+                "C. 天空没有渐变发生。",
+                "D. 天空渐变的过渡难以察觉。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_68": {
+            "id": "990ci2H9BBc_68",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "在场景初始视图中，哪些元素位于上侧？",
+            "options": [
+                "A. 天空、云朵、发光球体。",
+                "B. 松树状枝条",
+                "C. 带灯光的城市景观",
+                "D. 温度计状结构"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_69": {
+            "id": "990ci2H9BBc_69",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "在场景的初始视角中，画面下侧有哪些元素？",
+            "options": [
+                "A. 昏暗的城市景观",
+                "B. 类似棕榈的叶子",
+                "C. 白雪覆盖的山脉",
+                "D. 城市天际线"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_70": {
+            "id": "990ci2H9BBc_70",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "场景的设置是什么样的？",
+            "options": [
+                "A. 一个城市景观。",
+                "B. 一个摩天大楼。",
+                "C. 一个茂密雨林。",
+                "D. 一个沙漠中。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_71": {
+            "id": "990ci2H9BBc_71",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "提到的类似温度计的结构有哪些主要特点？",
+            "options": [
+                "A. 内部装有橙色液体，带有黑色刻度标记。",
+                "B. 内部装有蓝色液体，带有红色刻度标记。",
+                "C. 内部装有绿色液体，带有黄色刻度标记。",
+                "D. 内部装有紫色液体，带有白色刻度标记。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_72": {
+            "id": "990ci2H9BBc_72",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "‘AccuWeather’标志是否保持可见？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 只有在开头",
+                "D. 只有在结尾"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_73": {
+            "id": "990ci2H9BBc_73",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "温度计中的液体如何改变？",
+            "options": [
+                "A. 液体逐渐上升。",
+                "B. 液体逐渐下降。",
+                "C. 液体从视线中消失。",
+                "D. 液体保持不变。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_74": {
+            "id": "990ci2H9BBc_74",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "用什么类型的镜头来介绍温度计？",
+            "options": [
+                "A. 使用特写镜头强。",
+                "B. 使用广角镜头。",
+                "C. 使用航拍镜头。",
+                "D. 使用远景镜头。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_75": {
+            "id": "990ci2H9BBc_75",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "天空发生了哪些变化？",
+            "options": [
+                "A. 天空从完全可见到被部分遮挡。",
+                "B. 天空变得完全黑暗。",
+                "C. 天空从亮橙色变为浅灰色。",
+                "D. 天空保持不变。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_76": {
+            "id": "990ci2H9BBc_76",
+            "scene": 10,
+            "dimension": "Object Direction",
+            "question": "人腿从哪一侧进入画面？",
+            "options": [
+                "A. 人腿从左侧进入画面。",
+                "B. 人腿从右侧进入画面。",
+                "C. 人腿从上方进入画面。",
+                "D. 人腿从下方进入画面。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_77": {
+            "id": "990ci2H9BBc_77",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "场景开头描绘了什么环境？",
+            "options": [
+                "A. 一个展示板放在路上。",
+                "B. 一个城市街道。",
+                "C. 一个热带丛林。",
+                "D. 一个火山爆发场景。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_78": {
+            "id": "990ci2H9BBc_78",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "场景中人类的腿执行了什么动作？",
+            "options": [
+                "A. 人类的腿行走进画面后，又走出去了。",
+                "B. 人类的腿保持静止不动。",
+                "C. 人类的腿在离开画面之前进行了一次跳跃动作。",
+                "D. 人类的腿围绕白色圆柱形结构转圈。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_79": {
+            "id": "990ci2H9BBc_79",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "那个大型白色物体是什么样子的？",
+            "options": [
+                "A. 表面光滑。",
+                "B. 覆盖着雪。",
+                "C. 由玻璃制成。",
+                "D. 有草状纹理。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_80": {
+            "id": "990ci2H9BBc_80",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "场景描述中提到了多少个文本元素？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_81": {
+            "id": "990ci2H9BBc_81",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "整个场景的光照是否比较柔和？",
+            "options": [
+                "A. 是的，光照柔和",
+                "B. 不是，光照刺眼",
+                "C. 只有在某些场景中",
+                "D. 场景是黑暗的"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_82": {
+            "id": "990ci2H9BBc_82",
+            "scene": 10,
+            "dimension": "Object Direction",
+            "question": "这条腿是向画面哪个方向移动的？",
+            "options": [
+                "A. 从左向右移动的。",
+                "B. 从右向左移动的。",
+                "C. 从上向下移动的。",
+                "D. 从下向上移动的。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_83": {
+            "id": "990ci2H9BBc_83",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "场景中的摄像机角度是什么样的？",
+            "options": [
+                "A. 摄像机规律的变换角度。",
+                "B. 摄像机角度稳定。",
+                "C. 摄像机移动不规律。",
+                "D. 摄像机角度保持静止。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_84": {
+            "id": "990ci2H9BBc_84",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "场景中哪些元素保持一致？",
+            "options": [
+                "A. 大型白展示板和照明保持一致。",
+                "B. 人腿和信息横幅保持一致。",
+                "C. 绿色面板和人腿元素保持一致。",
+                "D. 被雪覆盖的景色和摄像角度保持一致。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_85": {
+            "id": "990ci2H9BBc_85",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "画面中的主要场景发生在哪里？",
+            "options": [
+                "A. 发生在一个汽车修理店。",
+                "B. 日落时的一片陆地景观。",
+                "C. 发生在宇宙环境中。",
+                "D. 夜间城市中。"
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_86": {
+            "id": "990ci2H9BBc_86",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "场景中描述了任何人类行为吗？",
+            "options": [
+                "A. 是的，有人在打磨汽车车门。",
+                "B. 不，视频中没有描述任何人类行为。",
+                "C. 是的，有人在近距离观察日食。",
+                "D. 是的，人类被描绘成与品牌元素互动。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_87": {
+            "id": "990ci2H9BBc_87",
+            "scene": 12,
+            "dimension": "Description-Object",
+            "question": "场景中描述的车门有哪些特征？",
+            "options": [
+                "A. 车门有木质把手和哑光表面。",
+                "B. 车门有金属把手和光滑表面。",
+                "C. 车门有塑料把手和粗糙表面。",
+                "D. 车门有玻璃把手和闪亮表面。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_88": {
+            "id": "990ci2H9BBc_88",
+            "scene": 13,
+            "dimension": "Count",
+            "question": "在日食场景中，有多少天体可见？",
+            "options": [
+                "A. 可见一个天体。",
+                "B. 可见两个天体。",
+                "C. 可见三个天体。",
+                "D. 可见四个天体。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_89": {
+            "id": "990ci2H9BBc_89",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "该场景是否包含任何标志元素？",
+            "options": [
+                "A. 不，没有包含任何元素",
+                "B. 是的，在右下角包含了“CarBrand”的标志",
+                "C. 是的，在右下角包含了“AccuWeather”的标志",
+                "D. 是的，在右下角包含了“NASA”的标志"
+            ],
+            "answer": "C"
+        },
+        "990ci2H9BBc_90": {
+            "id": "990ci2H9BBc_90",
+            "scene": 13,
+            "dimension": "Camera Shot",
+            "question": "场景中使用了什么类型的摄影镜头？",
+            "options": [
+                "A. 全景航拍镜头",
+                "B. 稳定的近距离框架对焦",
+                "C. 广角镜头",
+                "D. 快速拉近拉远镜头"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_91": {
+            "id": "990ci2H9BBc_91",
+            "scene": 13,
+            "dimension": "Attribute Change",
+            "question": "场景中有哪些视觉变化？",
+            "options": [
+                "A. 太阳的光变暗。",
+                "B. 月亮开始明亮发光。",
+                "C. 天空中到处都能看到星星。",
+                "D. 太阳完全消失。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_92": {
+            "id": "990ci2H9BBc_92",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "初始场景暗示的是一天中的哪个时间段？",
+            "options": [
+                "A. 初始场景暗示的是中午。",
+                "B. 初始场景暗示的是黎明前或黄昏后。",
+                "C. 初始场景暗示的是下午晚些时候。",
+                "D. 初始场景暗示的是正午。"
+            ],
+            "answer": "B"
+        },
+        "990ci2H9BBc_93": {
+            "id": "990ci2H9BBc_93",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "第一次日全食展示之后，场景切换到什么画面？",
+            "options": [
+                "A. 一个满是人的户外场景。",
+                "B. 太阳能板的详细机制字幕。",
+                "C. 一个图书馆。",
+                "D. 一片森林。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_94": {
+            "id": "990ci2H9BBc_94",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在全是人的户外场景之后会发生什么？",
+            "options": [
+                "A. 场景转到一个有水域的自然环境。",
+                "B. 场景转到一个夜晚的城市景观。",
+                "C. 场景转到一个室内艺术画廊。",
+                "D. 场景转到一个在搞节日活动的街边。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_95": {
+            "id": "990ci2H9BBc_95",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "第一个日全食出现的场景是如何展示全日食的？",
+            "options": [
+                "A. 捕捉到了从明亮的全食前阶段到全食阶段的转变。",
+                "B. 描绘了整个事件，直到太阳完全落到地平线下。",
+                "C. 只聚焦在车门上，没有提到全日食。",
+                "D. 展示了日食逐渐消失，转为夜晚城市的场景。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_96": {
+            "id": "990ci2H9BBc_96",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在昏暗的，只有天空和山丘的户外场景之后是什么？",
+            "options": [
+                "A. 场景过渡到广阔的宇宙视角。",
+                "B. 场景切换到城市景观。",
+                "C. 场景切换到森林中的瀑布。",
+                "D. 场景移动到海滩。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_97": {
+            "id": "990ci2H9BBc_97",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在引入温度计之后会发生什么？",
+            "options": [
+                "A. 场景切换到一个白色展示板。",
+                "B. 科学家开始检查温度计并记录数据。",
+                "C. 摄像机拉近镜头，显示温度计的读数。",
+                "D. 温度计被展示为正在融化。"
+            ],
+            "answer": "A"
+        },
+        "990ci2H9BBc_98": {
+            "id": "990ci2H9BBc_98",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "车门特写后展示了什么？",
+            "options": [
+                "A. 场景切换到一场日食宇宙奇观。",
+                "B. 场景变换到一个都市景象。",
+                "C. 镜头聚焦于日落时分的山间风景。",
+                "D. 场景切换到正在运转的手表齿轮。"
+            ],
+            "answer": "A"
+        }
+    }
+}

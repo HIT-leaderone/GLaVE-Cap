@@ -1,0 +1,1952 @@
+{
+    "scene_hint": {
+        "0": "视频开始的黑屏场景。",
+        "1": "一位白发老人正向观众讲话。",
+        "2": "场景回到了一片空屏，之后出现一个徽标及相关说明。",
+        "3": "画面转向一栋燃烧的建筑。",
+        "4": "建筑继续燃烧，画面中出现了一些文件。",
+        "5": "画面切换到新的海岸场景。",
+        "6": "画面上出现一些文件，占据了整个画面。",
+        "7": "画面上展示两个横幅，分别代表起诉的双方。",
+        "8": "视频结尾的广告及logo展示"
+    },
+    "qa": {
+        "eTLMWnsStuk_0": {
+            "id": "eTLMWnsStuk_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频开头中描述的场景的主要特征是什么？",
+            "options": [
+                "A. 描述的场景完全是黑色的，没有可见的内容。",
+                "B. 描述的场景色彩斑斓，充满了详细标记的项目。",
+                "C. 描述的场景中有一些可见物体，但缺乏边界框数据。",
+                "D. 描述的场景中有物体的模糊轮廓，但没有标签。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_1": {
+            "id": "eTLMWnsStuk_1",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "视频开始是否出现任何可见物体？",
+            "options": [
+                "A. 是的，出现了几个可见物体。",
+                "B. 不，视频中并未发现可见物体。",
+                "C. 是的，出现了一个可见物体。",
+                "D. 描述中没有具体说明是否有可见物体。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_2": {
+            "id": "eTLMWnsStuk_2",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "视频中是否存在任何边界框？",
+            "options": [
+                "A. 是的，存在边界框。",
+                "B. 不，视频中没有边界框。",
+                "C. 是的，但边界框比较模糊。",
+                "D. 不，存在类似边界框的物体，并不清晰。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_3": {
+            "id": "eTLMWnsStuk_3",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "从视频看，美国国旗在视频中的什么位置？",
+            "options": [
+                "A. 美国国旗竖直放置在场景最右侧。",
+                "B. 美国国旗放置在讲台上年长男子的后面。",
+                "C. 美国国旗放置在对称窗户的左侧。",
+                "D. 美国国旗放置在法庭的中央。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_4": {
+            "id": "eTLMWnsStuk_4",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "法庭场景的氛围如何？",
+            "options": [
+                "A. 氛围是随意和昏暗的，给人一种放松的感觉。",
+                "B. 氛围是庄重、正式且明亮的，强化了一种审议或判断的感觉。",
+                "C. 氛围是混乱和嘈杂的，展示了缺乏礼仪。",
+                "D. 氛围是节日和多彩的，营造了一种庆祝的气氛。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_5": {
+            "id": "eTLMWnsStuk_5",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "场景中央的那位年长男子在做什么？",
+            "options": [
+                "A. 他安静地坐着，观察观众。",
+                "B. 他站在一个木制讲台后面，向外手势并对观众讲话。",
+                "C. 他在一张纸上写笔记。",
+                "D. 他在房间里走动，亲自与人交谈。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_6": {
+            "id": "eTLMWnsStuk_6",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "前排那个人穿的蓝色西装有什么特别之处？",
+            "options": [
+                "A. 它搭配了一顶带有蓝色边的高顶帽。",
+                "B. 它有金色纽扣和红色领带。",
+                "C. 它的袖子上有银色刺绣。",
+                "D. 它搭配了紫色领带和帽子。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_7": {
+            "id": "eTLMWnsStuk_7",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "在演讲者前排就座的有多少人？",
+            "options": [
+                "A. 两个人",
+                "B. 三个人",
+                "C. 四个人",
+                "D. 五个人"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_8": {
+            "id": "eTLMWnsStuk_8",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "中间的年长男子正在对观众讲话吗？",
+            "options": [
+                "A. 是的",
+                "B. 不是",
+                "C. 他正在默默等待",
+                "D. 他正在对另一个讲话者讲话"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_9": {
+            "id": "eTLMWnsStuk_9",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "年长的男子是否正在一个木制讲台后面发言？",
+            "options": [
+                "A. 是的",
+                "B. 不是",
+                "C. 他正在从一个金属讲台发言",
+                "D. 他站着，没有讲台"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_10": {
+            "id": "eTLMWnsStuk_10",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "这位年长的男子在讲话时做了什么动作？",
+            "options": [
+                "A. 这位年长的男子在面向观众讲话时做了向外的手势。",
+                "B. 这位年长的男子在面向观众讲话时保持不动，没有任何动作。",
+                "C. 这位年长的男子在面向观众讲话时直接指向美国国旗。",
+                "D. 这位年长的男子在面向观众讲话时坐在桌旁。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_11": {
+            "id": "eTLMWnsStuk_11",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "视频中的窗帘的窗户在场景中的位置在哪里？",
+            "options": [
+                "A. 窗帘的窗户在场景的两侧对称地放置。",
+                "B. 窗帘的窗户只位于场景的左侧。",
+                "C. 窗帘的窗户靠近场景后部的观众。",
+                "D. 窗帘的窗户直接位于演讲者的后方中央。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_12": {
+            "id": "eTLMWnsStuk_12",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "哪种镜头类型常用来展示法庭场景？",
+            "options": [
+                "A. 聚焦演讲者面部的特写镜头以达到情感冲击。",
+                "B. 使用平衡对称的镜头，拍摄整个法庭及其详细元素。",
+                "C. 低角度镜头强调法官的权威。",
+                "D. 手持相机镜头传达紧迫感和混乱感。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_13": {
+            "id": "eTLMWnsStuk_13",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "屏幕是如何切换到法庭场景的？",
+            "options": [
+                "A. 屏幕从完全黑屏快速渐变到细节丰富的法庭场景。",
+                "B. 屏幕从米色柔和地淡出至法庭场景。",
+                "C. 屏幕通过擦除效果从户外切换到法庭场景。",
+                "D. 屏幕从完全黑屏直接切换到细节丰富的法庭场景。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_14": {
+            "id": "eTLMWnsStuk_14",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "什么视觉提示表明场合是正式的？",
+            "options": [
+                "A. 穿着休闲的观众。",
+                "B. 演讲台和个人的正式服饰。",
+                "C. 背景中出现五颜六色的气球。",
+                "D. 缺少窗户或装饰。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_15": {
+            "id": "eTLMWnsStuk_15",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "什么视觉提示表明场景是政府性质的？",
+            "options": [
+                "A. 竖直的美国国旗暗示着一个政府性质的场景。",
+                "B. 绿色窗帘暗示着一个政府性质的场景。",
+                "C. 栗色帽子和红色夹克暗示着一个政府性质的场景。",
+                "D. 木制讲台暗示着一个政府性质的场景。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_16": {
+            "id": "eTLMWnsStuk_16",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景在哪里发生？",
+            "options": [
+                "A. 开场场景发生在法庭。",
+                "B. 开场场景发生在医院。",
+                "C. 开场场景发生在图书馆。",
+                "D. 开场场景发生在教室。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_17": {
+            "id": "eTLMWnsStuk_17",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "谁在法庭中央的讲台上？",
+            "options": [
+                "A. 一个年长男子在讲台上。",
+                "B. 一个年轻女子在讲台上。",
+                "C. 一个中年律师在讲台上。",
+                "D. 一个小孩在讲台上。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_18": {
+            "id": "eTLMWnsStuk_18",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "在法庭上是否有侧面扬声器？",
+            "options": [
+                "A. 是的，有侧面扬声器。",
+                "B. 不，没有侧面扬声器。",
+                "C. 视频没有提供足够的信息以确认。",
+                "D. 侧面扬声器仅短暂出现并消失。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_19": {
+            "id": "eTLMWnsStuk_19",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "在过渡之前，法庭上的场景中有哪些人？",
+            "options": [
+                "A. 讲台上的一位年长男子，坐在前方的三个人，以及一位旁边的发言者在场。",
+                "B. 只有站在讲台上的年长男子和美国国旗在场。",
+                "C. 只有中有坐在前面的三个人在场。",
+                "D. 讲台上的一位年长男子，坐在前方的三个人，一位旁边的发言者以及一位女记者在场。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_20": {
+            "id": "eTLMWnsStuk_20",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景中有哪些显著的物品或特征？",
+            "options": [
+                "A. 对称的窗户、美国国旗和法庭的正式装饰。",
+                "B. 一个大吊灯、一架大钢琴和一个大理石雕像。",
+                "C. 一幅现代艺术画作、玻璃天花板和螺旋楼梯。",
+                "D. 一个壁炉、一个书架和一个复古时钟。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_21": {
+            "id": "eTLMWnsStuk_21",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "法庭场景结束后，屏幕是否保持黑色？",
+            "options": [
+                "A. 是的，屏幕完全保持黑色。",
+                "B. 不，屏幕切换到另一个场景。",
+                "C. 是的，但只在短暂的瞬间后就改变。",
+                "D. 不，屏幕显示不同的颜色。"
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_22": {
+            "id": "eTLMWnsStuk_22",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "视频中的过渡标志是什么？",
+            "options": [
+                "A. 相机镜头拉近美国国旗。",
+                "B. 所有可见元素消失，屏幕完全变黑。",
+                "C. 年长的男子再次开始讲话，聚光灯照在他身上。",
+                "D. 所有可见元素消失，屏幕完全变白。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_23": {
+            "id": "eTLMWnsStuk_23",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "在过渡过程中，视觉属性发生了什么变化？",
+            "options": [
+                "A. 场景从一个详细的法庭设置过渡到完全的黑暗。",
+                "B. 场景从法庭变为一个明亮多彩的户外环境。",
+                "C. 场景过渡到一个灯光昏暗的房间，可见的特征减少。",
+                "D. 场景变得模糊，但仍保留了一些法庭的视觉细节。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_24": {
+            "id": "eTLMWnsStuk_24",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "在转场后，画面中是否存在任何视觉提示？",
+            "options": [
+                "A. 是的，可以看到物体的模糊轮廓。",
+                "B. 不，没有可识别的元素或视觉提示。",
+                "C. 是的，美国国旗和讲台仍然依稀可见。",
+                "D. 没有，但是背景中可以看到模糊的人影。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_25": {
+            "id": "eTLMWnsStuk_25",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "帆船徽章在视频中的哪个位置？",
+            "options": [
+                "A. 帆船徽章位于视频的左上角。",
+                "B. 帆船徽章位于视频的中央。",
+                "C. 帆船徽章位于视频的右下角。",
+                "D. 帆船徽章位于视频的左边缘。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_26": {
+            "id": "eTLMWnsStuk_26",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频场景中描绘的环境是什么？",
+            "options": [
+                "A. 环境是极简主义的，主要是黑色背景，中央有一个徽标和一些文字。",
+                "B. 环境是一个繁忙的城市景观，有许多移动的元素。",
+                "C. 环境是一个色彩斑斓的草地，有花和动物。",
+                "D. 环境是一个混乱的办公室场景，纸张到处飞。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_27": {
+            "id": "eTLMWnsStuk_27",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "场景中的徽章上描绘了哪些元素？",
+            "options": [
+                "A. 徽章上有一艘具有三个白色帆的帆船，棕色船身和浅灰色的圆形背景。",
+                "B. 徽章上有一艘具有两个白色帆的帆船，棕色船身和蓝色的圆形背景。",
+                "C. 徽章上有一艘具有三个黑色帆的帆船，棕色船身和深灰色的圆形背景。",
+                "D. 徽章上有一艘具有三个白色帆的帆船，黑色船身和白色的圆形背景。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_28": {
+            "id": "eTLMWnsStuk_28",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "场景中徽章的背景颜色是什么？",
+            "options": [
+                "A. 徽章设置在黑色背景上。",
+                "B. 徽章设置在白色背景上。",
+                "C. 徽章设置在蓝色背景上。",
+                "D. 徽章设置在灰色背景上。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_29": {
+            "id": "eTLMWnsStuk_29",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "场景转换后框架上出现多少行文字？",
+            "options": [
+                "A. 出现一行文字。",
+                "B. 出现两行文字。",
+                "C. 出现三行文字。",
+                "D. 出现四行文字。"
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_30": {
+            "id": "eTLMWnsStuk_30",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景转换后出现的第一行文字内容是什么？",
+            "options": [
+                "A. 'The Prize Cases'",
+                "B. 'United States Supreme Court'",
+                "C. '67 U.S. (2 Black) 635 (1863)'",
+                "D. 'A Sailing Ship and Maritime Emblem'"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_31": {
+            "id": "eTLMWnsStuk_31",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景转换后出现的第二行文字内容是什么？",
+            "options": [
+                "A. 'United States Supreme Court'",
+                "B. 'The Prize Cases'",
+                "C. '67 U.S. (2 Black) 635 (1863)'",
+                "D. 'Sailing Ship Emblem'"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_32": {
+            "id": "eTLMWnsStuk_32",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景转换后第三行的文本内容是什么？",
+            "options": [
+                "A. 'The Prize Cases'",
+                "B. 'United States Supreme Court'",
+                "C. '67 U.S. (2 Black) 635 (1863)'",
+                "D. 'Maritime Law and History'"
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_33": {
+            "id": "eTLMWnsStuk_33",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "场景的背景是否会从黑色改变？",
+            "options": [
+                "A. 是的，背景变为白色。",
+                "B. 是的，背景变为蓝色。",
+                "C. 不，背景在整个场景中始终保持黑色。",
+                "D. 是的，背景变为灰色。"
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_34": {
+            "id": "eTLMWnsStuk_34",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "场景中发生了什么变化来提供额外的上下文？",
+            "options": [
+                "A. 在‘The Prize Cases’下方添加了更多文字内容。",
+                "B. 徽章内容变化以提供更多上下文。",
+                "C. 摄像机角度向左移动，揭示场景中的更多元素。",
+                "D. 背景从黑色变为灰色，营造出了不同的氛围。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_35": {
+            "id": "eTLMWnsStuk_35",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "哪种镜头强调了徽章和文字？",
+            "options": [
+                "A. 使用直接正面的视角来清晰地强调徽章和文字。",
+                "B. 使用动态的倾斜镜头来围绕徽章和文字制造悬念。",
+                "C. 使用俯视图来提供徽章和文字的更广泛背景。",
+                "D. 使用广角镜头来从远处捕捉整个场景，包括徽章和文字。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_36": {
+            "id": "eTLMWnsStuk_36",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "在后续帧中，场景的视觉信息发生了哪些变化？",
+            "options": [
+                "A. 在“The Prize Cases”下方添加了额外的文本行，同时保持相同的构图和黑色背景。",
+                "B. 帆船徽章和“The Prize Cases”文本被移除，取而代之的是一个新的航海插图。",
+                "C. 背景从黑色变为渐变蓝色，帆船徽章变得更大。",
+                "D. 背景中添加了动画波浪，文本被替换为关于海事历史的引用。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_37": {
+            "id": "eTLMWnsStuk_37",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素传达了《The Prize Cases》的历史背景？",
+            "options": [
+                "A. 法律引文“87 U.S. (2 Black) 655 (1883)”提供了历史背景。",
+                "B. 短语“United States Supreme Court”是增加历史背景的关键视觉元素。",
+                "C. 法律引文“67 U.S. (2 Black) 635 (1863)”提供了历史背景。",
+                "D. 带有三片白帆的船徽代表了一个历史叙事。"
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_38": {
+            "id": "eTLMWnsStuk_38",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素传达了《The Prize Cases》的司法意义？",
+            "options": [
+                "A. 新增的文字“United States Supreme Court”提供了司法背景。",
+                "B. 船的棕色船体代表法律权威。",
+                "C. 黑色背景象征司法长袍。",
+                "D. 白色风帆代表司法公正。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_39": {
+            "id": "eTLMWnsStuk_39",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "从视频来看，两棵卡通风格的树相对于着火的大楼位于哪里？",
+            "options": [
+                "A. 两棵卡通风格的树在着火大楼的左边。",
+                "B. 两棵卡通风格的树在着火大楼的右边。",
+                "C. 两棵卡通风格的树在着火大楼的前面。",
+                "D. 两棵卡通风格的树在着火大楼的后面。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_40": {
+            "id": "eTLMWnsStuk_40",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "燃烧建筑场景的背景是什么？",
+            "options": [
+                "A. 背景包括一座被火焰吞噬的大型红砖建筑。",
+                "B. 背景包括一座被火焰吞噬的小木屋。",
+                "C. 背景包括一个有飞行汽车的未来城市景观。",
+                "D. 背景包括一座被火焰吞噬的大型中世纪堡垒。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_41": {
+            "id": "eTLMWnsStuk_41",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景中，着火的建筑周围是什么？",
+            "options": [
+                "A. 建筑被郁郁葱葱的绿色景观和树木包围。",
+                "B. 建筑被繁华的城市环境包围。",
+                "C. 建筑被荒芜无植被的荒地包围。",
+                "D. 建筑被白雪皑皑的景观包围。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_42": {
+            "id": "eTLMWnsStuk_42",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "燃烧建筑场景的前景有什么被描绘？",
+            "options": [
+                "A. 一个充满卡通化简单树木的茂密森林",
+                "B. 一个带有深色波浪线的深蓝色水体",
+                "C. 一个挤满人和车辆的拥挤街道",
+                "D. 一个带有浅蓝色河流，可以看到对面的陆地"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_43": {
+            "id": "eTLMWnsStuk_43",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "燃烧建筑场景中的天空是什么样的？",
+            "options": [
+                "A. 天空是背景中柔和的蓝色。",
+                "B. 天空明亮而晴朗。",
+                "C. 天空阴沉而暴风雨。",
+                "D. 天空星月交辉。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_44": {
+            "id": "eTLMWnsStuk_44",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "场景中有没有人？",
+            "options": [
+                "A. 是的，场景中有描绘人。",
+                "B. 不，场景中没有描绘人。",
+                "C. 是的，场景中有描绘消防员。",
+                "D. 是的，场景中有描绘旁观者。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_45": {
+            "id": "eTLMWnsStuk_45",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "着火建筑的建筑特征是什么？",
+            "options": [
+                "A. 该建筑有对称的白色拱形窗户，两个中央的大黑门，由红砖建成。",
+                "B. 该建筑有不对称的窗户，一个大木门，由灰色石头建成。",
+                "C. 该建筑有圆形窗户，两个小绿门，由黄色砖块建成。",
+                "D. 该建筑有矩形窗户，玻璃入口，由混凝土建成。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_46": {
+            "id": "eTLMWnsStuk_46",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "燃烧的建筑物发生了什么？",
+            "options": [
+                "A. 它被猛烈的火焰吞没，并且从多个地方冒出浓烟。",
+                "B. 它正在装修，屋顶正在施工。",
+                "C. 它正在被爆破拆除，导致有控制的坍塌，同时有火焰产生。",
+                "D. 它被明亮的灯光照亮，用于夜间节庆庆典。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_47": {
+            "id": "eTLMWnsStuk_47",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "场景中有多少棵完整的卡通树？",
+            "options": [
+                "A. 一棵卡通树",
+                "B. 两棵卡通树",
+                "C. 三棵卡通树",
+                "D. 四棵卡通树"
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_48": {
+            "id": "eTLMWnsStuk_48",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "在着火的场景中，前一帧的徽章是否可见？",
+            "options": [
+                "A. 是的，徽章在着火的场景中可见。",
+                "B. 不，徽章在着火的场景中不可见。",
+                "C. 徽章在着火的场景中部分可见。",
+                "D. 徽章仅在过渡期间可见。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_49": {
+            "id": "eTLMWnsStuk_49",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉线索表明建筑物被毁坏了？",
+            "options": [
+                "A. 强烈的火焰从屋顶升起，浓厚的灰白色烟雾从各处滚滚而出。",
+                "B. 建筑物倒塌成瓦砾，四处散落着碎片和灰烬云。",
+                "C. 大雨倾盆而下，浇灭了火焰，并在周围造成洪水。",
+                "D. 明亮的灯光和爆炸照亮了周围环境，伴随着火焰或烟雾。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_50": {
+            "id": "eTLMWnsStuk_50",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "从着火的建筑物中冒出的烟雾朝哪个方向移动？",
+            "options": [
+                "A. 烟雾向上移动，左右方向均有。",
+                "B. 烟雾向下移动。",
+                "C. 烟雾基本均向左上移动。",
+                "D. 烟雾基本均向右上移动。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_51": {
+            "id": "eTLMWnsStuk_51",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "使用了什么相机视角来描绘燃烧的建筑？",
+            "options": [
+                "A. 使用了静态、水平的相机视角。",
+                "B. 使用了动态、变焦的相机视角。",
+                "C. 使用了鸟瞰的相机视角。",
+                "D. 使用了倾斜、斜角的相机视角。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_52": {
+            "id": "eTLMWnsStuk_52",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "使用静态、水平的镜头视角来描绘燃烧中的建筑物的目的是什么？",
+            "options": [
+                "A. 提供一个没有阻碍的、宽广的燃烧建筑视图。",
+                "B. 强调左边卡通树的细节。",
+                "C. 在场景中营造运动和紧迫感。",
+                "D. 突出前景中深蓝的波浪。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_53": {
+            "id": "eTLMWnsStuk_53",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "烟雾的强度如何暗示火势？",
+            "options": [
+                "A. 烟雾形成厚厚的柱状，表明火势稳定。",
+                "B. 烟雾轻轻向上飘动，暗示燃烧缓慢。",
+                "C. 烟雾大量涌动，暗示火势强烈且移动迅速。",
+                "D. 烟雾不可见，表明根本没有火。"
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_54": {
+            "id": "eTLMWnsStuk_54",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "从极简风格设计转变为火热场景如何影响视频的主题基调？",
+            "options": [
+                "A. 视频从简单的黑色背景标志转变为生动且混乱的激烈破坏场景。",
+                "B. 视频保留了极简设计，略微增加了火的意象，保持了一致的基调。",
+                "C. 视频从杂乱多彩的设计转变为宁静的黑白极简主题，象征着和平。",
+                "D. 视频从抽象的彩色图案转变为静态的蓝天，没有破坏元素。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_55": {
+            "id": "eTLMWnsStuk_55",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "在燃烧大楼的场景中，哪些视觉元素与混乱形成对比？",
+            "options": [
+                "A. 前景中的绿地、树木和水体与燃烧大楼的混乱形成对比。",
+                "B. 建筑物对称的白色拱窗与混乱形成对比。",
+                "C. 背景中柔和明亮的浅蓝色天空腹与混乱形成对比。",
+                "D. 前一帧的黑暗背景与混乱形成对比。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_56": {
+            "id": "eTLMWnsStuk_56",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "历史文件在视频中的什么位置？",
+            "options": [
+                "A. 历史文件位于视频的左侧。",
+                "B. 历史文件位于视频的右侧。",
+                "C. 历史文件位于视频的中央。",
+                "D. 历史文件位于视频的背景中。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_57": {
+            "id": "eTLMWnsStuk_57",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "海军和燃烧的城市景观在场景中的哪个位置？",
+            "options": [
+                "A. 海军和燃烧的城市景观在画面的左侧。",
+                "B. 海军和燃烧的城市景观在画面的右侧。",
+                "C. 海军和燃烧的城市景观在画面的中央。",
+                "D. 海军和燃烧的城市景观在场景中不可见。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_58": {
+            "id": "eTLMWnsStuk_58",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频中描绘的环境是什么？",
+            "options": [
+                "A. 环境描绘的是一个平静的农村景观，有郁郁葱葱的绿色植被和晴朗的天空。",
+                "B. 环境描绘的是一个历史和战争时期的场景，并将当时场景与历史文件结合在一起。",
+                "C. 环境描绘的是一个战争时期的场景，海军舰队对沿海要塞展开猛攻，画面上密集的炮火可以证明这一点。",
+                "D. 环境描绘的是一个救火的场景，大量的水管和水桶能体现这个过程。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_59": {
+            "id": "eTLMWnsStuk_59",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "哪个历史人物与场景中的文件有关？",
+            "options": [
+                "A. Abraham Lincoln",
+                "B. George Washington",
+                "C. Ulysses S. Grant",
+                "D. Thomas Jefferson"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_60": {
+            "id": "eTLMWnsStuk_60",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "左侧第二个文件显示了什么特征？",
+            "options": [
+                "A. 文件显示标题为“Expanded List: Blockaded Ports”。",
+                "B. 文件显示标题为“Blockade: Rebel-Held Ports”。",
+                "C. 文件显示了一份参与封锁的海军军官名单。",
+                "D. 文件展示了燃烧的船只和城市景观的艺术描绘。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_61": {
+            "id": "eTLMWnsStuk_61",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "场景中有多少船只正在燃烧？",
+            "options": [
+                "A. 一艘船正在燃烧。",
+                "B. 两艘船正在燃烧。",
+                "C. 三艘船正在燃烧。",
+                "D. 没有船正在燃烧。"
+            ],
+            "answer": "D"
+        },
+        "eTLMWnsStuk_62": {
+            "id": "eTLMWnsStuk_62",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "在海军场景中是否引入了新船只？",
+            "options": [
+                "A. 是的，一艘新的小型无帆船出现在受损帆船的火焰下方。",
+                "B. 不，所有船只保持不变，没有任何新增加的。",
+                "C. 是的，一艘新的大型船只带着展开的帆加入了场景。",
+                "D. 不，只有受损的船只存在，没有任何新船只。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_63": {
+            "id": "eTLMWnsStuk_63",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "场景中的文件使用的是哪种相机视角？",
+            "options": [
+                "A. 文件的鸟瞰图。",
+                "B. 文件的正面视角。",
+                "C. 从侧面倾斜的视角。",
+                "D. 文档的特写角度视图。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_64": {
+            "id": "eTLMWnsStuk_64",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "在这一场景中，海军和燃烧城市景观使用了哪种类型的相机视角？",
+            "options": [
+                "A. 场景使用鸟瞰视角来展现海军和燃烧城市景观。",
+                "B. 场景使用侧视视角来展现海军和燃烧城市景观。",
+                "C. 场景使用正面视角来展现海军和燃烧城市景观。",
+                "D. 场景使用特写视角来展现海军和燃烧城市景观。"
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_65": {
+            "id": "eTLMWnsStuk_65",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "是什么表明水中间下方的大型完好无损的船只正在积极航行？",
+            "options": [
+                "A. 它受损的船体表明正在移动。",
+                "B. 它完全张开的帆表明它正在积极航行。",
+                "C. 从甲板升起的烟雾表明它正在快速移动。",
+                "D. 没有船员在船上突出表明它的移动。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_66": {
+            "id": "eTLMWnsStuk_66",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "视频左侧的第二个文件现在写的是什么？",
+            "options": [
+                "A. 文件现在写的是‘Expanded List: Blockaded Ports.’。",
+                "B. 文件现在写的是‘Declaration of Independence’。",
+                "C. 文件现在写的是‘Official Naval Proclamation’。",
+                "D. 文件现在写的是‘List of Regional Treaties’。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_67": {
+            "id": "eTLMWnsStuk_67",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "视频相比于第一个文件的文字发生了什么变化？",
+            "options": [
+                "A. 文本已更新为“Expanded List: Blockaded Ports”。",
+                "B. 文本已更改为“Naval Proclamation: New Orders”。",
+                "C. 文本现在为“Emergency Maritime Directive”。",
+                "D. 文本已被修改为“Updated Coastal Regulations”。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_68": {
+            "id": "eTLMWnsStuk_68",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "场景中哪些视觉元素强化了海上封锁的主题？",
+            "options": [
+                "A. 燃烧的建筑和文件上写着“Expanded List: Blockaded Ports”的标题强化了海上封锁的主题。",
+                "B. 救援船的出现和燃烧的红砖建筑强化了海上封锁的主题。",
+                "C. 未受损船只完全展开的帆和城市上升的灰烟强化了海上封锁的主题。",
+                "D. 燃烧建筑的绿色屋顶和始终如一的镜头视角强化了海上封锁的主题。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_69": {
+            "id": "eTLMWnsStuk_69",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "从视频看，视频中燃烧建筑旁的帆船发生了什么变化？",
+            "options": [
+                "A. 船在画框内向左移动了，并消失了。",
+                "B. 船直接从场景中消失了。",
+                "C. 船移动到了画框的右侧。",
+                "D. 船被一艘更大的船替换了。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_70": {
+            "id": "eTLMWnsStuk_70",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "船帆上悬挂着什么旗帜？",
+            "options": [
+                "A. 这艘船在船尾悬挂着英国国旗。",
+                "B. 这艘船在船尾悬挂着美国国旗。",
+                "C. 这艘船在船尾悬挂着法国国旗。",
+                "D. 这艘船在船尾悬挂着海盗旗。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_71": {
+            "id": "eTLMWnsStuk_71",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "红砖建筑物没有受损吗？",
+            "options": [
+                "A. 是的，红砖建筑物完好无损。",
+                "B. 不是，红砖建筑物燃烧得很猛烈，浓浓的灰烟升起。",
+                "C. 是的，红砖建筑物有轻微损伤，但大部分保持完好。",
+                "D. 不是，红砖建筑物已经完全倒塌成废墟。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_72": {
+            "id": "eTLMWnsStuk_72",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "前一个场景最右边的船发生了什么？",
+            "options": [
+                "A. 最右边的船，之前靠近着火的建筑，现在已经不在场景中。",
+                "B. 最右边的船已经被移到了场景的左侧。",
+                "C. 最右边的船已经停止冒火，现在正在平稳航行。",
+                "D. 最右边的船已经倾斜，快要沉没了。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_73": {
+            "id": "eTLMWnsStuk_73",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "画面的哪些视觉特征突出了沿海环境？",
+            "options": [
+                "A. 宁静通过平静的蓝绿色水域、沙质海岸线、棕色船体和完美船帆的船只以及前景中绿草伴随的斜木栅栏得以凸显。",
+                "B. 宁静通过暴风雨般的黑暗水域、岩石海岸线、燃烧的船只和背景中升起的浓厚灰烟得以凸显。",
+                "C. 宁静通过平静的蓝绿色水域、沙质海岸线、和前景中的一块荒地得以凸显。",
+                "D. 宁静通过木质码头、风暴般的海洋，以及背景中燃烧的城市建筑得以凸显。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_74": {
+            "id": "eTLMWnsStuk_74",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "视频中蒸汽动力船在画框的哪个位置？",
+            "options": [
+                "A. 蒸汽动力船位于画框的最左侧，靠近乳白色沙滩。",
+                "B. 蒸汽动力船位于画框中央，周围是青绿色的海水。",
+                "C. 蒸汽动力船位于画框的最右侧，靠近橙色调的沙滩。",
+                "D. 蒸汽动力船位于画框的最左侧，靠近木制围栏。"
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_75": {
+            "id": "eTLMWnsStuk_75",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "在从混乱过渡后，这个场景描绘了什么类型的环境？",
+            "options": [
+                "A. 场景描绘了一个宁静的海岸环境，和平的海洋氛围。",
+                "B. 场景描绘了一场混乱的海战，建筑物燃烧，天空烟雾弥漫。",
+                "C. 场景描绘了一个繁忙的港口，充满了工业货船和忙碌的工人。",
+                "D. 场景描绘了一个风暴肆虐的海洋，高浪和阴沉的乌云。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_76": {
+            "id": "eTLMWnsStuk_76",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "场景中是否有人类角色？",
+            "options": [
+                "A. 是的，场景中可以看到多个有人类角色。",
+                "B. 不，场景中没有描绘任何人类角色。",
+                "C. 是的，但只能在船上看到少数几个人类角色。",
+                "D. 是的，沙滩附近有一大群人。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_77": {
+            "id": "eTLMWnsStuk_77",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "视频中框架左侧附近的船有什么特征？",
+            "options": [
+                "A. 框架左侧附近的船有一个深色的船体，完整的白色船帆，且位于沙滩附近。",
+                "B. 框架左侧附近的船有一个白色的船体，三面白色船帆。",
+                "C. 框架左侧附近的船有一个深色的工业船体，两个烟囱，且位于呈橙色调的沙滩附近。",
+                "D. 框架左侧附近的船有一个红色的船体和白色的船帆，从右侧行驶过来。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_78": {
+            "id": "eTLMWnsStuk_78",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "场景中能看到多少艘船？",
+            "options": [
+                "A. 三艘船",
+                "B. 四艘船",
+                "C. 五艘船",
+                "D. 六艘船"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_79": {
+            "id": "eTLMWnsStuk_79",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "视频中红色船体和白色帆船向哪个方向移动？",
+            "options": [
+                "A. 它从最左边向画面的中心移动。",
+                "B. 它从最右边向画面的左侧移动。",
+                "C. 它从中心向画面的最左边移动。",
+                "D. 它停在画面的中心。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_80": {
+            "id": "eTLMWnsStuk_80",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "场景是如何在视觉上划分的？",
+            "options": [
+                "A. 场景被分成三个垂直部分。",
+                "B. 场景被分成四个水平区域。",
+                "C. 场景被分成五个对角层。",
+                "D. 场景被分成两个不同的部分。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_81": {
+            "id": "eTLMWnsStuk_81",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "视频场景的左侧部分展示了什么？",
+            "options": [
+                "A. 左侧展示了两艘船和一片沙滩。",
+                "B. 左侧展示了一艘蒸汽船和一个岩石海岸。",
+                "C. 左侧展示了一艘大型红色船只和一个木制码头。",
+                "D. 左侧展示了一座灯塔和一个繁忙的港口。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_82": {
+            "id": "eTLMWnsStuk_82",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景的中间部分描绘了什么？",
+            "options": [
+                "A. 中间部分专注于一艘大型红色船只，航行在青绿色的海洋中，前景是一片乳白色的沙滩。",
+                "B. 中间部分描绘了一艘蒸汽动力的船只，航行在绿松石色的水域中，背景是一片红橙色的沙滩。",
+                "C. 中间部分展示了两艘船在晴朗的蓝天下航行，背景是沙滩和一条对角排列的木篱笆。",
+                "D. 中间部分突出了一场海战，背景中有烟雾和火焰。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_83": {
+            "id": "eTLMWnsStuk_83",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "视频场景的右侧有什么特色？",
+            "options": [
+                "A. 右侧的特点是蒸汽动力船在绿松石色的海水中，靠近红橙色的海滩。",
+                "B. 右侧的特点是红色船体的船只，搭配三个白色风帆，航行在青蓝色的海洋中。",
+                "C. 右侧的特点是两艘船在湛蓝的天空下靠近沙滩航行。",
+                "D. 右侧的特点是带有白帆的黑色船体的船只，靠近乳白色的沙滩。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_84": {
+            "id": "eTLMWnsStuk_84",
+            "scene": 5,
+            "dimension": "Speed",
+            "question": "场景中是否有任何船只看起来在快速移动？",
+            "options": [
+                "A. 是的，所有船只都在高速移动。",
+                "B. 不，船只看起来并没有快速移动。",
+                "C. 是的，只有右边的蒸汽船在快速移动。",
+                "D. 是的，船只正在进行比赛，快速移动。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_85": {
+            "id": "eTLMWnsStuk_85",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "相比于上个场景中，景观是如何变化的？",
+            "options": [
+                "A. 景观从动荡的海军水域和强烈的火焰变为平静的海岸和海洋景观。",
+                "B. 景观变为繁忙的海军港口，停泊着众多船只，浓雾弥漫，海滩上有一个热闹的市场。",
+                "C. 场景转变为茂密的热带丛林，有高耸的树木、色彩鲜艳的野生动物和蜿蜒穿过的溪流。",
+                "D. 景观从宁静的水域演变为活跃的战场，伴随着暴风雨般的天空、火爆的爆炸和下沉的船只。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_86": {
+            "id": "eTLMWnsStuk_86",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素突显了场景中的海洋多样性？",
+            "options": [
+                "A. 各种各样的船只，包括传统的帆船和一艘蒸汽动力船，突显了海洋多样性。",
+                "B. 明亮的蓝绿色海洋与沙滩相结合展示了海洋多样性。",
+                "C. 场景中各式各样的海洋生物，展示了海洋多样性。",
+                "D. 斜斜的木栅栏和乳白色的沙滩突显了海洋多样性。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_87": {
+            "id": "eTLMWnsStuk_87",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "场景中哪些视觉元素表明了海事进步？",
+            "options": [
+                "A. 传统帆船到蒸汽船只的变化表明了海事进步。",
+                "B. 独木舟到木制舰队的变化表明了海事进步。",
+                "C. 旗语以及电子通信等元素表明了海事进步。",
+                "D. 小渔船到大型木制帆船的变化表明了海事进步。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_88": {
+            "id": "eTLMWnsStuk_88",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "这两份历史文件是如何排列的？",
+            "options": [
+                "A. 文件是一上一下排列的。",
+                "B. 文件是并排放置的，一个在左，一个在右。",
+                "C. 文件是以对角线的布局相互重叠的。",
+                "D. 文件是围绕一个中心点以圆形排列的。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_89": {
+            "id": "eTLMWnsStuk_89",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "文件呈现的背景是什么？",
+            "options": [
+                "A. 文件呈现在平坦的灰色背景上。",
+                "B. 文件呈现在木制的桌面上。",
+                "C. 文件呈现在鲜艳的蓝色背景上。",
+                "D. 文件呈现在一张历史地图上。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_90": {
+            "id": "eTLMWnsStuk_90",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "文件展示的灯光环境是什么样的？",
+            "options": [
+                "A. 灯光柔和并均匀分布，以强调文件的重要性。",
+                "B. 灯光昏暗且富有戏剧性，以营造一种神秘感。",
+                "C. 灯光明亮而刺眼，以吸引对细节的注意。",
+                "D. 灯光色彩丰富且动态，以为场景增添视觉亮点。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_91": {
+            "id": "eTLMWnsStuk_91",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "谁的签名出现在这两份历史文件上？",
+            "options": [
+                "A. Abraham Lincoln's的签名",
+                "B. George Washington's的签名",
+                "C. Thomas Jefferson's的签名",
+                "D. James Madison's的签名"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_92": {
+            "id": "eTLMWnsStuk_92",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "视频左边文件的标题是什么？",
+            "options": [
+                "A. Blockade Rebel-Held Ports",
+                "B. Expanded List: Blockaded Ports",
+                "C. Approved by Congress",
+                "D. Proclamation of Naval Blockade"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_93": {
+            "id": "eTLMWnsStuk_93",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "视频右边文件的标题是什么？",
+            "options": [
+                "A. Blockade Rebel-Held Ports",
+                "B. Expanded List: Blockaded Ports",
+                "C. Emancipation Proclamation",
+                "D. Gettysburg Address"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_94": {
+            "id": "eTLMWnsStuk_94",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "视频中展示了多少份历史文献？",
+            "options": [
+                "A. 一份历史文献",
+                "B. 两份历史文献",
+                "C. 三份历史文献",
+                "D. 四份历史文献"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_95": {
+            "id": "eTLMWnsStuk_95",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "绿色横幅是否覆盖了文件的全部文字？",
+            "options": [
+                "A. 是的，绿色横幅完全覆盖了文件的所有文字。",
+                "B. 是的，绿色横幅部分覆盖了文件的某些部分。",
+                "C. 不，绿色横幅在文件的水平面展开，但不阻挡其关键细节。",
+                "D. 不，绿色横幅只在文件旁边出现，并没有压盖它们。"
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_96": {
+            "id": "eTLMWnsStuk_96",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "引入绿色横幅时会出现哪些视觉变化？",
+            "options": [
+                "A. 绿色横幅添加了鲜艳的绿色，并配有醒目的白色文字。",
+                "B. 背景变为鲜艳的绿色，以突出文件的标题。",
+                "C. 修改文件上的文字，添加关于国会批准的说明。",
+                "D. 文件被移除，取而代之的是绿色背景和白色文字。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_97": {
+            "id": "eTLMWnsStuk_97",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "文件上的绿色横幅是如何摆放的？",
+            "options": [
+                "A. 绿色横幅是竖直摆放在文件上的。",
+                "B. 绿色横幅是水平摆放在文件上的。",
+                "C. 绿色横幅是沿着对角线摆放在文件上的。",
+                "D. 绿色横幅以水平到对角线之间的角度摆放在文件上面。"
+            ],
+            "answer": "D"
+        },
+        "eTLMWnsStuk_98": {
+            "id": "eTLMWnsStuk_98",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "使用哪种相机视角来突出显示文件？",
+            "options": [
+                "A. 使用固定相机视角以确保文件的细节保持清晰和平衡。",
+                "B. 使用动态相机角度来强调文件与横幅之间的互动。",
+                "C. 使用旋转相机视角来提供文件和横幅的全面视图。",
+                "D. 使用缩放相机技术来聚焦于签名的复杂细节。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_99": {
+            "id": "eTLMWnsStuk_99",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "使用什么类型的摄像机视角来突出显示绿色横幅？",
+            "options": [
+                "A. 使用固定的摄像机视角以确保绿色横幅的细节保持清晰和均衡。",
+                "B. 使用动态的摄像机视角来聚焦绿色横幅。",
+                "C. 使用缩放的摄像机视角来突出显示绿色横幅。",
+                "D. 使用旋转的摄像机视角来强调绿色横幅。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_100": {
+            "id": "eTLMWnsStuk_100",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "绿色横幅如何改变场景的视觉构图？",
+            "options": [
+                "A. 绿色横幅引入了鲜艳的绿色，与文件和背景的中性色调形成了鲜明的对比。",
+                "B. 绿色横幅与场景无缝融合，与文件和背景的中性色调相匹配。",
+                "C. 绿色横幅遮挡了文件标题和签名的视线，使其内容难以辨认。",
+                "D. 绿色横幅创造了微妙的阴影，增强了历史文件的质感。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_101": {
+            "id": "eTLMWnsStuk_101",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "绿色横幅上写的是什么？",
+            "options": [
+                "A. Declared official by Congress",
+                "B. Approved by Congress",
+                "C. Validated documents",
+                "D. Certified by law"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_102": {
+            "id": "eTLMWnsStuk_102",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "绿色横幅代表什么？",
+            "options": [
+                "A. 绿色横幅代表一种没有特定意义的装饰元素。",
+                "B. 绿色横幅表示国会对文件的正式验证和认可。",
+                "C. 绿色横幅强调文件的历史重要性。",
+                "D. 绿色横幅在演示中引入一个新部分。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_103": {
+            "id": "eTLMWnsStuk_103",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "视频的主要场景发生在哪里？",
+            "options": [
+                "A. 主要场景过渡到在一个黑白背景上的美国司法系统的结构化文本表示。",
+                "B. 主要场景发生在一个忙碌的法庭中，充满了律师和法官。",
+                "C. 主要场景设定在一个历史悠久的图书馆，里面装满了旧的法律文件和文物。",
+                "D. 主要场景出现在一个数字科技实验室，专注于现代法律软件开发。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_104": {
+            "id": "eTLMWnsStuk_104",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "视频主场景的整体环境是什么样的？",
+            "options": [
+                "A. 整体环境是一个明亮的白色背景，并具有层次布局。",
+                "B. 整体环境是一个充满活力的多彩背景，带有随机元素。",
+                "C. 整体环境是一个黑暗而富有戏剧性的背景，带有抽象的视觉效果。",
+                "D. 整体环境是一个有树木和绿植的自然户外场景。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_105": {
+            "id": "eTLMWnsStuk_105",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "文件中提到的是哪位历史人物？",
+            "options": [
+                "A. Abraham Lincoln",
+                "B. George Washington",
+                "C. Thomas Jefferson",
+                "D. Theodore Roosevelt"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_106": {
+            "id": "eTLMWnsStuk_106",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "历史人物Abraham Lincoln是如何被提及的？",
+            "options": [
+                "A. 他的肖像展示在文件上。",
+                "B. 他的签名出现在文件上。",
+                "C. 文件中包含他的一句名言。",
+                "D. 他的名字在文件标题中被提及。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_107": {
+            "id": "eTLMWnsStuk_107",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "是什么提高了后面画面中'Owners lose'标签的可见度？",
+            "options": [
+                "A. 标签变得更大更粗。",
+                "B. 标签背景变为深红色。",
+                "C. 标签用黑色描边以强调。",
+                "D. 标签移到屏幕中央。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_108": {
+            "id": "eTLMWnsStuk_108",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "场景展示中，美国司法系统有多少个层级的等级制度？",
+            "options": [
+                "A. 两个层级",
+                "B. 三个层级",
+                "C. 四个层级",
+                "D. 五个层级"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_109": {
+            "id": "eTLMWnsStuk_109",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "场景展示中，美国司法系统的等级层次有哪些？",
+            "options": [
+                "A.“United States Supreme Court”和“District Courts”。",
+                "B.“United States Supreme Court”、“Circuit Courts”和“District Courts”。",
+                "C.“Federal Courts”和“State Courts”。",
+                "D.“Appellate Courts”和“Trial Courts”。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_110": {
+            "id": "eTLMWnsStuk_110",
+            "scene": 7,
+            "dimension": "Camera Direction",
+            "question": "视频中是否包含动态的镜头移动？",
+            "options": [
+                "A. 是的，视频中包含大幅度的动态镜头移动。",
+                "B. 不，视频保持静态的镜头视角。",
+                "C. 是的，视频频繁切换角度以增强表现力。",
+                "D. 不，视频中仅有简短的镜头调整。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_111": {
+            "id": "eTLMWnsStuk_111",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "在“District Courts”和“United States Supreme Court”部分之间引入了什么元素？",
+            "options": [
+                "A. 引入了一个浅灰色向上的箭头，暗示着层级的进展。",
+                "B. 引入了一个深红色向下的箭头，暗示着降级。",
+                "C. 引入了一个星形图标，象征着司法权威。",
+                "D. 引入了一个绿色的对勾，暗示着国会的批准。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_112": {
+            "id": "eTLMWnsStuk_112",
+            "scene": 7,
+            "dimension": "Object Direction",
+            "question": "“District Courts”和“United States Supreme Court”之间的箭头指向哪个方向？",
+            "options": [
+                "A. 箭头向上。",
+                "B. 箭头向下。",
+                "C. 箭头向左。",
+                "D. 箭头向右。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_113": {
+            "id": "eTLMWnsStuk_113",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "整个视频使用了哪种相机视角？",
+            "options": [
+                "A. 视频使用了动态相机视角。",
+                "B. 视频使用了摇摄相机视角。",
+                "C. 视频使用了静态相机视角。",
+                "D. 视频使用了缩放相机视角。"
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_114": {
+            "id": "eTLMWnsStuk_114",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "静态镜头视角如何影响展示方式？",
+            "options": [
+                "A. 它为展示创造了一种动态和运动感。",
+                "B. 它强化了展示的结构性和正式性。",
+                "C. 它让历史文献显得不那么真实。",
+                "D. 它引入了一种混乱和不可预测感。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_115": {
+            "id": "eTLMWnsStuk_115",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "在开场场景中，哪个视觉元素表示对历史文件的批准？",
+            "options": [
+                "A. 一个绿色横幅，上面写着“approved by congress”覆盖在文件上。",
+                "B. 文件底部的一个红色印章。",
+                "C. 一个带有亚伯拉罕·林肯签名的蓝色印章。",
+                "D. 文件上出现一个写着“certified approval”的灰色水印。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_116": {
+            "id": "eTLMWnsStuk_116",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "在司法层级图中，“United States Supreme Court”如何呈现？",
+            "options": [
+                "A. “United States Supreme Court”以黑色矩形形式呈现在顶部。",
+                "B. “United States Supreme Court”以黑色矩形形式呈现在底部。",
+                "C. “United States Supreme Court”以灰色矩形形式呈现在中间。",
+                "D. “United States Supreme Court”以红色矩形形式呈现在图中。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_117": {
+            "id": "eTLMWnsStuk_117",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "在司法层级图中，“District Courts”是如何表示和定位的？",
+            "options": [
+                "A. 一个标有“District Courts”字样的灰色矩形位于“United States Supreme Court”下方，并通过向上的浅灰色箭头与之相连。",
+                "B. 一个标有“District Courts”字样的灰色圆圈位于“United States Supreme Court”上方，并通过向下的浅灰色箭头与之相连。",
+                "C. 一个标有“District Courts”字样的红色矩形位于“United States Supreme Court”下方，并通过向下的黑色箭头与之相连。",
+                "D. 一个标有“District Courts”字样的灰色矩形与“United States Supreme Court”并排放置，没有连接箭头。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_118": {
+            "id": "eTLMWnsStuk_118",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "在司法层级图中，“Owners lose”是如何表示的？",
+            "options": [
+                "A. 在灰色矩形内，一个标有“Owners lose”的红色矩形表示一个决定。",
+                "B. 在司法层级图之外，“Owners lose”以粗体红色文字显示。",
+                "C. 在图的顶部，“Owners lose”写在一个连接到最高法院的红色矩形中。",
+                "D. “Owners lose”显示在图下方的一个独立灰色矩形中。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_119": {
+            "id": "eTLMWnsStuk_119",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "在具有司法介绍的第一个场景中，环境是什么样的？",
+            "options": [
+                "A. 环境混乱多彩，充满活力的动画代表司法层级。",
+                "B. 环境简约而专业，以白色背景和结构化图表展示司法层级。",
+                "C. 环境昏暗而戏剧化，使用阴影图像营造神秘感。",
+                "D. 环境质朴随意，带有手绘的司法系统插图。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_120": {
+            "id": "eTLMWnsStuk_120",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "在司法层级图中有多少个被不同颜色标记的矩形？",
+            "options": [
+                "A. 两个矩形被标记。",
+                "B. 三个矩形被标记。",
+                "C. 四个矩形被标记。",
+                "D. 五个矩形被标记。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_121": {
+            "id": "eTLMWnsStuk_121",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "司法层级图中矩形的标注是什么？",
+            "options": [
+                "A. 'United States Supreme Court'、 'Circuit Courts'和'Owners win'。",
+                "B. 'Court of Appeals'、 'District Courts'和'Owners win'。",
+                "C. 'Supreme Court'、 'Local Court,'和 'Debtors win'。",
+                "D. 'United States Supreme Court'、 'District Courts'和'Owners lose'。"
+            ],
+            "answer": "D"
+        },
+        "eTLMWnsStuk_122": {
+            "id": "eTLMWnsStuk_122",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "第一个场景除了文字外，还包括任何图片或装饰元素吗？",
+            "options": [
+                "A. 是的，下一个场景包括图片和装饰元素。",
+                "B. 不，下一个场景只有位于中央的白色文字，背景是纯黑色，没有装饰元素。",
+                "C. 是的，下一个场景包括图片，但没有装饰元素。",
+                "D. 不，下一个场景只有一个带文字和装饰视觉效果的宣传视频。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_123": {
+            "id": "eTLMWnsStuk_123",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "司法图表中向上指的浅灰色箭头表示什么？",
+            "options": [
+                "A. 它表示“District Courts”和“United States Supreme Court”之间的程序关系。",
+                "B. 它代表法院的等级排名。",
+                "C. 它表示法院之间的地理联系。",
+                "D. 它强调“United States Supreme Court”作出的法院判决。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_124": {
+            "id": "eTLMWnsStuk_124",
+            "scene": 7,
+            "dimension": "Object Direction",
+            "question": "司法图中的箭头连接了什么？",
+            "options": [
+                "A. 箭头将“District Courts”连接到“United States Supreme Court”。",
+                "B. 箭头将“District Courts”连接到“Court of Appeals”。",
+                "C. 箭头将“United States Supreme Court”连接到“District Courts”。",
+                "D. 箭头将“District Courts”连接到“State Courts”。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_125": {
+            "id": "eTLMWnsStuk_125",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "用来宣传网站的是什么类型的镜头拍摄？",
+            "options": [
+                "A. 镜头拍摄是稳定和静止的，中央聚焦在黑色背景上的白色文字。",
+                "B. 镜头在文本上平移，显示动态运动。",
+                "C. 镜头反复放大和缩小，在文本上营造出脉动效果。",
+                "D. 镜头缓慢向上倾斜，同时宣传文本逐渐出现。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_126": {
+            "id": "eTLMWnsStuk_126",
+            "scene": 8,
+            "dimension": "Speed",
+            "question": "在从司法示意图过渡到宣传信息过程中，节奏是如何变化的？",
+            "options": [
+                "A. 过渡很迅速，突出了宣传信息。",
+                "B. 过渡在视觉上鲜明但平滑，没有突然的动作或快节奏的变化。",
+                "C. 过渡包括一个逐渐的淡出，然后迅速切换到宣传信息。",
+                "D. 过渡以色彩爆发和快速动作为特点，以吸引注意力。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_127": {
+            "id": "eTLMWnsStuk_127",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "下一幕中哪个视觉元素强调了促销信息?",
+            "options": [
+                "A. 白色文本采用加粗字体，并居中排列。",
+                "B. 使用多彩背景和动画图形以吸引对信息的注意。",
+                "C. 大型标志出现在屏幕角落以突出品牌。",
+                "D. 屏幕底部滚动的文本横幅用于强调信息。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_128": {
+            "id": "eTLMWnsStuk_128",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "视频中圆形元素是如何连接的？",
+            "options": [
+                "A. 圆形元素通过一条细蓝线连接。",
+                "B. 圆形元素通过一条粗红线连接。",
+                "C. 圆形元素通过一条细红线连接。",
+                "D. 圆形元素没有连接。"
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_129": {
+            "id": "eTLMWnsStuk_129",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "视频中背景的变化主要在哪里发生？",
+            "options": [
+                "A. 变化发生在黑色背景下。",
+                "B. 变化发生在白色背景下。",
+                "C. 变化发生在灰色背景下。",
+                "D. 变化发生在蓝色背景下。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_130": {
+            "id": "eTLMWnsStuk_130",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "宣传视频中有真人角色吗？",
+            "options": [
+                "A. 是的，视频中有几个真人角色。",
+                "B. 不，视频中没有真人角色。",
+                "C. 是的，视频中有一个真人角色。",
+                "D. 不过，视频中有动画的人物形象。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_131": {
+            "id": "eTLMWnsStuk_131",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "视频中白色轮廓的小槌象征什么？",
+            "options": [
+                "A. 白色轮廓的小槌象征司法正义的主题。",
+                "B. 白色轮廓的小槌象征创造力的主题。",
+                "C. 白色轮廓的小槌象征极简主义的主题。",
+                "D. 白色轮廓的小槌象征紧迫感的主题。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_132": {
+            "id": "eTLMWnsStuk_132",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "视频中描绘了多少个圆形元素？",
+            "options": [
+                "A. 一个圆形元素",
+                "B. 两个圆形元素",
+                "C. 三个圆形元素",
+                "D. 四个圆形元素"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_133": {
+            "id": "eTLMWnsStuk_133",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "在讨论正义概念时，所描绘的圆形元素是什么？",
+            "options": [
+                "A. 法槌",
+                "B. 电灯泡",
+                "C. 椭圆环",
+                "D. 正义的天平"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_134": {
+            "id": "eTLMWnsStuk_134",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "在讨论创造力概念时，所描绘的圆形元素是什么？",
+            "options": [
+                "A. 灯泡。",
+                "B. 法槌。",
+                "C. 圆环。",
+                "D. 橙色下划线。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_135": {
+            "id": "eTLMWnsStuk_135",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "视频中是否包含品牌标识以外的元素？",
+            "options": [
+                "A. 不，视频仅包含品牌标识作为文本内容。",
+                "B. 是的，视频中包括其他文本元素。",
+                "C. 不，视频主要集中于抽象图像和符号，没有其他文本。",
+                "D. 是的，视频仅包含品牌标识以外的文本内容，但没有品牌标识。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_136": {
+            "id": "eTLMWnsStuk_136",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "白色椭圆环是否在画面中保持固定不动？",
+            "options": [
+                "A. 是的，白色椭圆环在画面中保持固定不动。",
+                "B. 不，白色椭圆环在画面中移动。",
+                "C. 白色椭圆环的位置有些许变化，但并非完全固定。",
+                "D. 白色椭圆环在出现后不久便消失了。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_137": {
+            "id": "eTLMWnsStuk_137",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "宣传视频中的镜头角度是什么？",
+            "options": [
+                "A. 镜头角度保持不变且静止，确保将注意力集中在不断变化的设计元素和品牌上。",
+                "B. 镜头角度多次切换，以创造动态效果。",
+                "C. 镜头角度通过拉近和拉远来强调视频的不同方面。",
+                "D. 镜头角度旋转，以提供视觉的360度观看。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_138": {
+            "id": "eTLMWnsStuk_138",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "在场景开头的广告中，使用了哪些视觉提示来突出显示 'www.Quimbee.com'？",
+            "options": [
+                "A. 文本 'www.Quimbee.com' 在黑色背景上被橙色下划线。",
+                "B. 文本 'www.Quimbee.com' 以粗体红色显示在白色背景上。",
+                "C. 文本 'www.Quimbee.com' 使用黄色背景突出显示。",
+                "D. 文本 'www.Quimbee.com' 使用绿色下划线的蓝色字体。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_139": {
+            "id": "eTLMWnsStuk_139",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频中最初的黑屏之后是什么？",
+            "options": [
+                "A. 视频过渡到一个详细的法庭场景。",
+                "B. 背景变为深红色，并有浅粉色的文字。",
+                "C. 出现两个带有法槌和灯泡的圆形元素。",
+                "D. 以草书字体出现“Quumbe?”的文字。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_140": {
+            "id": "eTLMWnsStuk_140",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在法庭场景之后发生了什么变化？",
+            "options": [
+                "A. 法庭场景之后，画面完全变成黑屏。",
+                "B. 明亮的颜色和动画角色取代了法庭场景。",
+                "C. 屏幕上显著地出现了一幅详细的法槌图像。",
+                "D. 法庭场景渐渐消失，变成了星空的描绘。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_141": {
+            "id": "eTLMWnsStuk_141",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在展示了带有帆船的极简徽标之后，出现了什么画面？",
+            "options": [
+                "A. 一栋红砖建筑被火焰吞噬，呈现出一幅生动而混乱的火灾场景。",
+                "B. 一条宁静的河流，帆船静静地漂过。",
+                "C. 一片开阔的田野，孤独的树木伫立在晴朗的蓝天下。",
+                "D. 一个未来主义的天际线，霓虹灯照亮的摩天大楼主宰着地平线。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_142": {
+            "id": "eTLMWnsStuk_142",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在法庭场景中，站在讲台上的白发老人的意义是什么？",
+            "options": [
+                "A. 他似乎在对观众讲话，表明这是一个正式的互动。。",
+                "B. 他在默默观察法庭，暗示他在诉讼中扮演被动角色。",
+                "C. 他在讲台上与另一个人辩论，暗示存在直接的冲突或挑战。",
+                "D. 他在宣布法庭会议的结束，标志着事件的结束。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_143": {
+            "id": "eTLMWnsStuk_143",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频中是如何视觉呈现《The Prize Cases》的概念的？",
+            "options": [
+                "A. 它以极简设计展示：一个圆形徽章上有一艘航船的图案，黑色背景上用白色粗体字写着‘The Prize Cases’。",
+                "B. 它通过一系列动态动画展示，包括一个法槌和天平，并配有说明‘The Prize Cases’的文字。",
+                "C. 该概念以一组与海事法相关的历史图像的生动拼贴呈现，标题用金色草书叠加其上。",
+                "D. 它通过一个时间轴图形展示了关键事件，中心用红色粗体字标注‘The Prize Cases’。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_144": {
+            "id": "eTLMWnsStuk_144",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在将破坏与平静的海岸环境切换的场景中，表现了哪些主题？",
+            "options": [
+                "A. 现代法律体系中正义与创新的相互作用。",
+                "B. 视频突出了海战和城市破坏的毁灭性，与平静的海岸环境形成对比。",
+                "C. 极简设计元素与生动、混乱的图像的并置。",
+                "D. 抽象符号连接法律与创造力的变革力量。"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_145": {
+            "id": "eTLMWnsStuk_145",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在火灾场景和两份历史文件的正式展示之间描绘了什么场景？",
+            "options": [
+                "A. 该场景描绘了一种航海构图，展示了船只的图像和更广阔的海岸视角。",
+                "B. 该场景展示了一个法庭，法官们正在审议一个具有历史重要性的案件。",
+                "C. 该场景过渡到一个昏暗的森林，展现了野生动物的动画描绘和自然的宁静。",
+                "D. 该场景突出了一个繁忙的城市景观，包括程序性的发展和建筑设计。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_146": {
+            "id": "eTLMWnsStuk_146",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在视频的结尾序列中，广告信息之后是什么？",
+            "options": [
+                "A. 视频过渡到一些概念符号，如法槌和灯泡，最后以文本形式显示品牌“Quimbee”。",
+                "B. 视频转换为一个全红色背景，上面有描述各种订阅计划的文字。",
+                "C. 视频包括一个法律案例研究的蒙太奇，同时有动画视觉效果。",
+                "D. 视频突然用一道白光结束，随后是沉默。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_147": {
+            "id": "eTLMWnsStuk_147",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么《The Prize Cases》的文本中包含了关于美国最高法院的额外内容？",
+            "options": [
+                "A. 提供该短语的历史和法律背景，并突显最高法院案件的重要性。",
+                "B. 使文本看起来更长，视觉上更吸引人。",
+                "C. 用额外的信息分散读者注意力。",
+                "D. 为娱乐目的创造一个更复杂的叙述。"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_148": {
+            "id": "eTLMWnsStuk_148",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "混乱的火灾场景与宁静的海岸环境之间的对比有何目的？",
+            "options": [
+                "A. 这种对比突出了战争的冲突与和平的宁静。",
+                "B. 这种对比用于展示自然景观的多样性。",
+                "C. 这种对比用来说明气候变化对不同环境的影响。",
+                "D. 这种对比旨在展示城市化对农村地区的影响。"
+            ],
+            "answer": "A"
+        }
+    }
+}

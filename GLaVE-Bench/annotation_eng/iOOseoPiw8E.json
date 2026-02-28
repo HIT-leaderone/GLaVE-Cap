@@ -1,0 +1,1208 @@
+{
+    "scene_hint": {
+        "0": "There are characters standing on stage with a text box displaying the theme",
+        "1": "The camera focuses on the activities of different characters",
+        "2": "The camera shows the reaction shots of most of the audience",
+        "3": "The camera shows the reaction shots of a small part of the audience",
+        "4": "All characters stand together",
+        "5": "A promotional image of cartoon animation appears"
+    },
+    "qa": {
+        "iOOseoPiw8E_0": {
+            "id": "iOOseoPiw8E_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "In the initial scene, where is the character positioned on the stage?",
+            "options": [
+                "A. Positioned at the center foreground of the stage.",
+                "B. Positioned at the back corner of the stage.",
+                "C. Positioned at the far right side of the stage.",
+                "D. Sitting at the far left side of the stage."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_1": {
+            "id": "iOOseoPiw8E_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What environment does the stage initially represent?",
+            "options": [
+                "A. A scene with a garden-like setting",
+                "B. Modern urban landscape",
+                "C. A battlefield with soldiers",
+                "D. A space station with robots"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_2": {
+            "id": "iOOseoPiw8E_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the outfit of the character on the left side of the screen?",
+            "options": [
+                "A. A bright pink dress",
+                "B. A dark blue or purple witch costume",
+                "C. A red ball gown",
+                "D. A colorful outfit resembling garden flowers"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_3": {
+            "id": "iOOseoPiw8E_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What phrase is displayed on the purple sign?",
+            "options": [
+                "A. 'Live on Stage!'",
+                "B. 'Now Playing!'",
+                "C. 'Showtime!'",
+                "D. 'Magic Begins!'"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_4": {
+            "id": "iOOseoPiw8E_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is the floral pattern added to the purple speech bubble shape board?",
+            "options": [
+                "A. A yellow flower with pink.",
+                "B. A red flower with blue.",
+                "C. A green flower with purple.",
+                "D. A white flower with orange."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_5": {
+            "id": "iOOseoPiw8E_5",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the flower added to the purple speech bubble shape board?",
+            "options": [
+                "A. Added to the top left corner of the purple speech bubble board.",
+                "B. Added to the right side of the purple speech bubble board.",
+                "C. Added to the top of the purple speech bubble board.",
+                "D. Added to the bottom of the purple speech bubble board."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_6": {
+            "id": "iOOseoPiw8E_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many performers can be seen on stage?",
+            "options": [
+                "A. One performer",
+                "B. Two performers",
+                "C. Three performers",
+                "D. Four performers"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_7": {
+            "id": "iOOseoPiw8E_7",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "What is the direction of the female character's movement?",
+            "options": [
+                "A. Basically did not change position.",
+                "B. Moved to the center of the stage.",
+                "C. Moved to the left side.",
+                "D. Walked directly off the stage."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_8": {
+            "id": "iOOseoPiw8E_8",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What camera angle was used to shoot the stage scene?",
+            "options": [
+                "A. A front angle was used.",
+                "B. A high angle was used.",
+                "C. A low angle was used.",
+                "D. A side angle was used."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_9": {
+            "id": "iOOseoPiw8E_9",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the lighting like in the scene?",
+            "options": [
+                "A. The lighting brightly illuminates the stage scene.",
+                "B. The lighting makes the background completely dark.",
+                "C. The lighting is further dimmed, with only faint light.",
+                "D. The lighting introduces a red hue."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_10": {
+            "id": "iOOseoPiw8E_10",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What visual changes are there in the background?",
+            "options": [
+                "A. White star-shaped twinkles are scattered across the stage and move.",
+                "B. The canvas background is replaced with a plain black curtain.",
+                "C. Yellow spotlights are added to the background.",
+                "D. All stage decorations are removed."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_11": {
+            "id": "iOOseoPiw8E_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What does the sign in the center of the stage say?",
+            "options": [
+                "A. 'Ben & Holly’s Little Kingdom'",
+                "B. 'Whimsical World'",
+                "C. 'Fairy Tale Land'",
+                "D. 'Magical Garden'"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_12": {
+            "id": "iOOseoPiw8E_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the character wearing a purple hat located at the beginning of the scene?",
+            "options": [
+                "A. He is on the left side of the screen.",
+                "B. He is in the center of the screen.",
+                "C. He is slightly to the right of the center of the screen.",
+                "D. They are not visible at the beginning of the scene."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_13": {
+            "id": "iOOseoPiw8E_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What kind of environment is depicted in the background?",
+            "options": [
+                "A. A realistic urban landscape.",
+                "B. A fantasy magical world.",
+                "C. A tranquil beach scene.",
+                "D. A dark and mysterious forest."
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_14": {
+            "id": "iOOseoPiw8E_14",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the character appearance with ethereal butterfly-like features?",
+            "options": [
+                "A. The character wears a sleeveless deep purple robe with glowing wing-like extensions at the back.",
+                "B. The character wears bright red clothing with large feather-like wings.",
+                "C. The character wears a long green robe with insect-like antennae on the head.",
+                "D. The character wears bright yellow clothing with petals extending from the back."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_15": {
+            "id": "iOOseoPiw8E_15",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What is this orange-yellow character doing?",
+            "options": [
+                "A. The character is dancing with a ladybug.",
+                "B. The character is holding a book.",
+                "C. The character is talking with another character.",
+                "D. The character is adjusting his hat."
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_16": {
+            "id": "iOOseoPiw8E_16",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "In the scene, what prop did the orange-red female character interact with?",
+            "options": [
+                "A. A big red ladybug.",
+                "B. A big green frog.",
+                "C. A small blue butterfly.",
+                "D. A shiny coin."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_17": {
+            "id": "iOOseoPiw8E_17",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many characters are in the scene?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "D"
+        },
+        "iOOseoPiw8E_18": {
+            "id": "iOOseoPiw8E_18",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "Has the background style changed?",
+            "options": [
+                "A. The background remains consistent.",
+                "B. The background shifts to a dark urban environment.",
+                "C. The background becomes less colorful.",
+                "D. The background becomes an abstract design."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_19": {
+            "id": "iOOseoPiw8E_19",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the character in the orange-red clothes do?",
+            "options": [
+                "A. The character bent forward and moved forward.",
+                "B. The character stood upright.",
+                "C. The character sat next to the flowers.",
+                "D. The character faced away from the audience."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_20": {
+            "id": "iOOseoPiw8E_20",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where are the prominent daisies located in the background at the beginning of the scene?",
+            "options": [
+                "A. In the central position of the garden background.",
+                "B. On the far left side of the garden background.",
+                "C. On the far right side of the garden background.",
+                "D. Near the top of the background."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_21": {
+            "id": "iOOseoPiw8E_21",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What camera angle is used in the scene?",
+            "options": [
+                "A. A medium distance frontal angle is used.",
+                "B. A high angle long shot is used.",
+                "C. A low angle close-up is used.",
+                "D. An over-the-shoulder shot is used."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_22": {
+            "id": "iOOseoPiw8E_22",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "How does the camera angle affect the performance?",
+            "options": [
+                "A. It highlights the stage props in the scene.",
+                "B. It clearly showcases the characters and interactions.",
+                "C. It obscures important elements of the performance.",
+                "D. It only emphasizes a few characters."
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_23": {
+            "id": "iOOseoPiw8E_23",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What does the character wearing a purple hat look like?",
+            "options": [
+                "A. Wearing purple clothing and carrying a banana-shaped satchel.",
+                "B. The hat is star-shaped and comes with a backpack.",
+                "C. Has a pair of butterfly wings and a magic wand.",
+                "D. Wearing red clothing and a blue cape."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_24": {
+            "id": "iOOseoPiw8E_24",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "The scene begins with, what are the flowers in the scene like?",
+            "options": [
+                "A. Daisies with white petals and yellow centers.",
+                "B. Numerous red roses scattered throughout the scene.",
+                "C. Flowers dominated by green leaves.",
+                "D. Hanging lavender bouquets."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_25": {
+            "id": "iOOseoPiw8E_25",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the stage scene setup like?",
+            "options": [
+                "A. The stage features urban landscapes and soft colors.",
+                "B. The stage includes green vegetation and cartoon-style flowers.",
+                "C. The stage uses minimalist elements and monochrome lighting designs.",
+                "D. The stage incorporates traditional furniture and historical artifacts."
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_26": {
+            "id": "iOOseoPiw8E_26",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the lighting like in the scene?",
+            "options": [
+                "A. Uses bright and even lighting.",
+                "B. The lighting is dim.",
+                "C. The lighting only highlights the leaves.",
+                "D. The lighting is uneven."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_27": {
+            "id": "iOOseoPiw8E_27",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the atmosphere in the scene?",
+            "options": [
+                "A. Relaxed and joyful.",
+                "B. Serious.",
+                "C. Gloomy.",
+                "D. Realistic."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_28": {
+            "id": "iOOseoPiw8E_28",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the character with bright yellow hair wearing?",
+            "options": [
+                "A. Wearing a pink dress.",
+                "B. Wearing a green robe.",
+                "C. Wearing a yellow jumpsuit.",
+                "D. Wearing a blue gown."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_29": {
+            "id": "iOOseoPiw8E_29",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the hairstyle of the character wearing a crown headpiece?",
+            "options": [
+                "A. Shoulder-length yellow bob hairstyle.",
+                "B. Long, flowing black hair.",
+                "C. Curly red updo.",
+                "D. Short green spiky hairstyle."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_30": {
+            "id": "iOOseoPiw8E_30",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "How does the bright yellow-haired character perform?",
+            "options": [
+                "A. Perform energetically.",
+                "B. Perform slowly with eyes closed.",
+                "C. Smile shyly and lower the head.",
+                "D. Perform silently with a serious expression."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_31": {
+            "id": "iOOseoPiw8E_31",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What prop did the character wearing a crown use in the performance?",
+            "options": [
+                "A. A star wand.",
+                "B. A blue staff.",
+                "C. A crystal ball scepter.",
+                "D. A glowing magic book."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_32": {
+            "id": "iOOseoPiw8E_32",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many major costume changes occur during the performance?",
+            "options": [
+                "A. There is one major costume change.",
+                "B. There are two major costume changes.",
+                "C. There are three major costume changes.",
+                "D. There are no major costume changes."
+            ],
+            "answer": "D"
+        },
+        "iOOseoPiw8E_33": {
+            "id": "iOOseoPiw8E_33",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is the character wearing a purple hat holding anything in their left hand?",
+            "options": [
+                "A. Yes, the character is holding a small green flower in their left hand.",
+                "B. Yes, the character is holding a blue crystal in their left hand.",
+                "C. No, the character is not holding anything in their left hand.",
+                "D. Yes, the character is holding a silver bell in their left hand."
+            ],
+            "answer": "C"
+        },
+        "iOOseoPiw8E_34": {
+            "id": "iOOseoPiw8E_34",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What action did this character perform with the magic wand?",
+            "options": [
+                "A. The character dynamically waved the magic wand.",
+                "B. The character gently tapped the ground with the magic wand.",
+                "C. The character tossed the magic wand into the air.",
+                "D. The character quietly held the magic wand."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_35": {
+            "id": "iOOseoPiw8E_35",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What are the actions of the character wearing the crown during the performance?",
+            "options": [
+                "A. Waving the wand and spinning to face the audience.",
+                "B. Posing with the wand and crown.",
+                "C. Running through the set.",
+                "D. Walking slowly."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_36": {
+            "id": "iOOseoPiw8E_36",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Which visual element assisted the character's magic performance?",
+            "options": [
+                "A. The pink star glowing at the tip of the magic wand.",
+                "B. The large cone-shaped magic hat.",
+                "C. The bright yellow flowers on the left side of the stage.",
+                "D. The shimmering translucent wings in the background."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_37": {
+            "id": "iOOseoPiw8E_37",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the ladybug in the scene?",
+            "options": [
+                "A. The ladybug has a smooth, red, dome-shaped body.",
+                "B. The ladybug is a real insect, small-bodied.",
+                "C. The ladybug has a matte green body.",
+                "D. The ladybug is a metallic-winged robotic creature."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_38": {
+            "id": "iOOseoPiw8E_38",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "When the character in the orange-red dress interacts with the ladybug, is she wearing a crown?",
+            "options": [
+                "A. Yes, she is wearing a crown.",
+                "B. No, she is not wearing a crown.",
+                "C. No, but she is wearing a magic hat.",
+                "D. No character interacts with the ladybug."
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_39": {
+            "id": "iOOseoPiw8E_39",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is the character in the orange-red dress holding a wand while interacting with the ladybug?",
+            "options": [
+                "A. Yes, she is holding a wand.",
+                "B. No, she is not holding a wand.",
+                "C. No, but she is holding a crystal broom.",
+                "D. No character interacts with the ladybug."
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_40": {
+            "id": "iOOseoPiw8E_40",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What happens to the hairstyle of the character in the orange-red dress when she interacts with the ladybug?",
+            "options": [
+                "A. Her hairstyle remains unchanged.",
+                "B. Her hair changes from brown to blonde.",
+                "C. She ties her hair into a bun.",
+                "D. Her hair grows longer and is styled into waves."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_41": {
+            "id": "iOOseoPiw8E_41",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What camera angle was used?",
+            "options": [
+                "A. A medium shot camera angle was used.",
+                "B. An overhead camera angle was used.",
+                "C. A low-angle camera shot was used.",
+                "D. A close-up shot was used."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_42": {
+            "id": "iOOseoPiw8E_42",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "How is the movement of the character in the orange-red dress described?",
+            "options": [
+                "A. The movement is slow.",
+                "B. The movement is unstable.",
+                "C. The movement is energetic.",
+                "D. The movement is motionless."
+            ],
+            "answer": "C"
+        },
+        "iOOseoPiw8E_43": {
+            "id": "iOOseoPiw8E_43",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the character in the pink outfit perform in the scene?",
+            "options": [
+                "A. Her arms moved in a continuous wave-like motion.",
+                "B. She waved a magic wand while spinning in place.",
+                "C. She waved both hands above her head.",
+                "D. She crossed her arms in front of her chest."
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_44": {
+            "id": "iOOseoPiw8E_44",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "Who does the character in the orange-red dress interact with?",
+            "options": [
+                "A. She interacts with a ladybug.",
+                "B. She interacts with the character wearing blue clothing.",
+                "C. She interacts with a big pink flower.",
+                "D. She interacts with another person wearing purple clothing."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_45": {
+            "id": "iOOseoPiw8E_45",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the lighting like in the scene space?",
+            "options": [
+                "A. The space lighting is dim.",
+                "B. The space lighting is bright.",
+                "C. The space is illuminated by complex chandeliers.",
+                "D. The space is illuminated by colorful props."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_46": {
+            "id": "iOOseoPiw8E_46",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What source is illuminating the scene?",
+            "options": [
+                "A. Illuminated by glow sticks and LED wands held by the audience.",
+                "B. Illuminated by lanterns hanging from the ceiling.",
+                "C. Chandelier decorations provide light for the audience.",
+                "D. The soft light from the candles on each seat."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_47": {
+            "id": "iOOseoPiw8E_47",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the scene?",
+            "options": [
+                "A. A spacious auditorium.",
+                "B. A park hosting outdoor activities.",
+                "C. A small recording studio with no audience.",
+                "D. A museum hosting an art exhibition."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_48": {
+            "id": "iOOseoPiw8E_48",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What are the people in the scene doing?",
+            "options": [
+                "A. Watching the performance attentively.",
+                "B. Singing loudly along with the performance.",
+                "C. Standing and dancing in the aisle.",
+                "D. Making phone calls, not paying attention to the performance."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_49": {
+            "id": "iOOseoPiw8E_49",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Can the word 'Australian' be seen in the scene?",
+            "options": [
+                "A. Yes, it is displayed in an interesting font on the screen.",
+                "B. No, the word 'Australian' does not appear in this scene.",
+                "C. Yes, it briefly appears on one of the performers' costumes.",
+                "D. No, there is no text displayed in this scene."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_50": {
+            "id": "iOOseoPiw8E_50",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the performer wearing?",
+            "options": [
+                "A. The performer is wearing bright clothing.",
+                "B. The performer is wearing casual clothes.",
+                "C. The performer is wearing traditional Australian clothing.",
+                "D. The performer is wearing a black and white uniform."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_51": {
+            "id": "iOOseoPiw8E_51",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Where is the word 'Australian' located in the image?",
+            "options": [
+                "A. The word 'Australian' is located at the top left of the image.",
+                "B. The word 'Australian' is located at the top right of the image.",
+                "C. The word 'Australian' is located in the center of the image.",
+                "D. The word 'Australian' is located at the bottom center of the image."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_52": {
+            "id": "iOOseoPiw8E_52",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "Which type of lens is used to depict the audience?",
+            "options": [
+                "A. Close-up shot",
+                "B. Wide-angle shot",
+                "C. Medium shot",
+                "D. Over-the-shoulder shot"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_53": {
+            "id": "iOOseoPiw8E_53",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the scene?",
+            "options": [
+                "A. The scene is set in a theater audience.",
+                "B. The scene is set at an outdoor festival.",
+                "C. The scene takes place in a small conference room.",
+                "D. The scene is set in a quiet library."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_54": {
+            "id": "iOOseoPiw8E_54",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What are the common items in the hands of the audience?",
+            "options": [
+                "A. The audience is holding glowing items.",
+                "B. The audience is holding balloons and confetti cannons.",
+                "C. The audience is holding streamers and flags.",
+                "D. The audience is holding books and programs."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_55": {
+            "id": "iOOseoPiw8E_55",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the text displayed completely on the screen?",
+            "options": [
+                "A. 'Australian Tour 2016'",
+                "B. 'Australian Concert Night'",
+                "C. 'Welcome to Australia 2016'",
+                "D. 'Australian Stars Tour'"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_56": {
+            "id": "iOOseoPiw8E_56",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "Where is the woman wearing a striped knit sweater relative to the bald man in the picture?",
+            "options": [
+                "A. The woman is to the right of the bald man.",
+                "B. The woman is to the left of the bald man.",
+                "C. The woman is directly behind the bald man.",
+                "D. The woman is in front of the bald man."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_57": {
+            "id": "iOOseoPiw8E_57",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video event?",
+            "options": [
+                "A. The event takes place in a dimly lit theater.",
+                "B. The event takes place outdoors in a park.",
+                "C. The event is set in a brightly lit classroom.",
+                "D. The event takes place in a quiet art gallery."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_58": {
+            "id": "iOOseoPiw8E_58",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many children are primarily described in the center of the scene?",
+            "options": [
+                "A. One child",
+                "B. Two children",
+                "C. Three children",
+                "D. Four children"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_59": {
+            "id": "iOOseoPiw8E_59",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Can any text be seen in the video?",
+            "options": [
+                "A. Yes, 'Tickets Now On Sale!'",
+                "B. No, there is no visible text in the video.",
+                "C. Yes, but the text only mentions the event time.",
+                "D. Yes, the text is displayed in small and blurry font, making it unreadable."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_60": {
+            "id": "iOOseoPiw8E_60",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "How is the child in the bald man's arms moving?",
+            "options": [
+                "A. The child is slightly leaning and has one hand hanging down.",
+                "B. The child raises both arms.",
+                "C. The child enthusiastically claps for the performance.",
+                "D. The child tilts their head back."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_61": {
+            "id": "iOOseoPiw8E_61",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "Is the child in the foreground holding a glowing object moving in a certain direction?",
+            "options": [
+                "A. Yes, the child is leaning to the left.",
+                "B. Yes, the child is leaning to the right.",
+                "C. No, the child is moving but not leaning in any direction.",
+                "D. The glowing object is not held by the child in the foreground."
+            ],
+            "answer": "D"
+        },
+        "iOOseoPiw8E_62": {
+            "id": "iOOseoPiw8E_62",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What is the focus of the camera in the frame?",
+            "options": [
+                "A. A close-up portrait of a group of attendees.",
+                "B. A panoramic view of the live audience.",
+                "C. The interior of the auditorium.",
+                "D. The main stage."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_63": {
+            "id": "iOOseoPiw8E_63",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the fireplace located?",
+            "options": [
+                "A. The fireplace is located in the center of the background.",
+                "B. The fireplace is located on the far right of the background.",
+                "C. The fireplace is located at the top of the background near the circular window.",
+                "D. The fireplace is located on the far left of the background."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_64": {
+            "id": "iOOseoPiw8E_64",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the decoration on the wall in the scene?",
+            "options": [
+                "A. The wall is decorated with decorative plates, tableware, wooden arches, etc.",
+                "B. The wall features murals of forest scenes and mythical creatures.",
+                "C. The wall is carved with intricate royal crests and castle patterns.",
+                "D. The wall is made of simple wooden patterns with minimalist decoration."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_65": {
+            "id": "iOOseoPiw8E_65",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What does the top of the background look like?",
+            "options": [
+                "A. The top is a background image with a blue hue.",
+                "B. The top is decorated with medieval banners and shields.",
+                "C. The top is hung with herbs and utensils.",
+                "D. The top displays a rock texture covered with vines."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_66": {
+            "id": "iOOseoPiw8E_66",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is the performer in the bright pink dress doing?",
+            "options": [
+                "A. The performer is energetically jumping.",
+                "B. The performer is quietly sitting in the background.",
+                "C. The performer is striking a dramatic pose.",
+                "D. The performer is leaning forward with humorous movements."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_67": {
+            "id": "iOOseoPiw8E_67",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What elements are on the shelf in the background?",
+            "options": [
+                "A. There are books and scrolls on the shelf.",
+                "B. There are bottles and plates on the shelf.",
+                "C. There are pots and pans on the shelf.",
+                "D. There are baskets and flowers on the shelf."
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_68": {
+            "id": "iOOseoPiw8E_68",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many different performers are described in the scene?",
+            "options": [
+                "A. Five different performers",
+                "B. Six different performers",
+                "C. Seven different performers",
+                "D. Eight different performers"
+            ],
+            "answer": "D"
+        },
+        "iOOseoPiw8E_69": {
+            "id": "iOOseoPiw8E_69",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "Is there a performer wearing a headpiece similar to a crown in the scene?",
+            "options": [
+                "A. Yes, there is one performer wearing a headpiece similar to a crown.",
+                "B. No, there are no performers wearing a headpiece similar to a crown.",
+                "C. Yes, there are three performers wearing a headpiece similar to a crown.",
+                "D. Yes, there are two performers wearing a headpiece similar to a crown."
+            ],
+            "answer": "D"
+        },
+        "iOOseoPiw8E_70": {
+            "id": "iOOseoPiw8E_70",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What action did the character in purple and white attire perform?",
+            "options": [
+                "A. The character deliberately bent over and jogged.",
+                "B. The character struck a serious and solemn pose.",
+                "C. The character gracefully waved one hand.",
+                "D. The character quietly sat at the back of the stage."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_71": {
+            "id": "iOOseoPiw8E_71",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is the person on the far left of the screen doing?",
+            "options": [
+                "A. Moving from left to right",
+                "B. Turning and moving to the left",
+                "C. Moving toward the back of the stage",
+                "D. Standing still, observing the scene"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_72": {
+            "id": "iOOseoPiw8E_72",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle should be used to capture a stage performance?",
+            "options": [
+                "A. Use a slightly elevated central angle.",
+                "B. Use a bird's-eye view angle.",
+                "C. Use a ground-level side angle.",
+                "D. Use a wide-angle rear view."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_73": {
+            "id": "iOOseoPiw8E_73",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What are the movements of the performer wearing the orange dress?",
+            "options": [
+                "A. The performer's movements are dynamic and lively.",
+                "B. The performer maintains a static standing posture.",
+                "C. The performer uses deliberate slow movements.",
+                "D. The performer remains seated and motionless."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_74": {
+            "id": "iOOseoPiw8E_74",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the color of the stage floor?",
+            "options": [
+                "A. Emerald Green",
+                "B. Dark Blue",
+                "C. Bright Red",
+                "D. Dark Purple"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_75": {
+            "id": "iOOseoPiw8E_75",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is Princess Holly located in the promotional image?",
+            "options": [
+                "A. Princess Holly is on the left.",
+                "B. Princess Holly is on the right.",
+                "C. Princess Holly is in the middle.",
+                "D. Princess Holly does not appear in the promotional image."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_76": {
+            "id": "iOOseoPiw8E_76",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "In the promotional image, where is Ben's position?",
+            "options": [
+                "A. Ben is on the left.",
+                "B. Ben is in the middle.",
+                "C. Ben is on the right.",
+                "D. Ben is above Princess Holly."
+            ],
+            "answer": "C"
+        },
+        "iOOseoPiw8E_77": {
+            "id": "iOOseoPiw8E_77",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What environment is depicted in the promotional material for 'Ben & Holly’s Little Kingdom'?",
+            "options": [
+                "A. The environment background is a tranquil blue.",
+                "B. The environment is dark and mysterious.",
+                "C. The environment is a busy cityscape.",
+                "D. The environment is a desert landscape."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_78": {
+            "id": "iOOseoPiw8E_78",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "How is Princess Holly depicted in the promotional poster?",
+            "options": [
+                "A. Princess Holly is wearing a pink dress, a golden crown, and has blonde hair.",
+                "B. Princess Holly is wearing a blue dress, a silver crown, and has brown hair.",
+                "C. Princess Holly is wearing a yellow dress, a golden headpiece, and has red hair.",
+                "D. Princess Holly is wearing a green dress, a golden crown, and has blonde hair."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_79": {
+            "id": "iOOseoPiw8E_79",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What decorative details are in the program title depicted in the promotion?",
+            "options": [
+                "A. The dot on the first letter 'i' is replaced by a purple flower, and a gold crown is placed above the second letter 'i'.",
+                "B. The dot on the letter 'i' is replaced by a silver star, and a blue crown is placed above the letter 'y'.",
+                "C. The dot on the letter 'i' is replaced by a green leaf, and a silver crown is placed above the letter 'y'.",
+                "D. The dot on the first letter 'i' is replaced by a yellow sun, and a red crown is placed above the second letter 'i'."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_80": {
+            "id": "iOOseoPiw8E_80",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What is the name of the logo at the bottom of the promotional image?",
+            "options": [
+                "A. ABD Ltd/Ent. One UK Ltd. 2008",
+                "B. Magic Leap",
+                "C. Animated Concepts",
+                "D. Stage Creation"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_81": {
+            "id": "iOOseoPiw8E_81",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Are there any call-to-action phrases in the promotional description?",
+            "options": [
+                "A. 'BOOK NOW'",
+                "B. 'Visit Us'",
+                "C. 'Join Today'",
+                "D. 'Sign Up'"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_82": {
+            "id": "iOOseoPiw8E_82",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is Ben doing in the promotional poster?",
+            "options": [
+                "A. Ben is putting a yellow horn to his mouth.",
+                "B. Ben is waving a magic wand.",
+                "C. Ben is juggling strawberries and berries.",
+                "D. Ben is playing guitar in the background."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_83": {
+            "id": "iOOseoPiw8E_83",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "'BOOK NOW' is located in which position on the screen?",
+            "options": [
+                "A. 'BOOK NOW' is located in the top left corner of the screen.",
+                "B. 'BOOK NOW' is located in the top right corner of the screen.",
+                "C. 'BOOK NOW' is located in the bottom left corner of the screen.",
+                "D. 'BOOK NOW' is located in the bottom right corner of the screen."
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_84": {
+            "id": "iOOseoPiw8E_84",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How does the character in the orange-red dress interact with the toy-like ladybug?",
+            "options": [
+                "A. She leans forward to communicate with the toy-like ladybug.",
+                "B. She starts singing to the toy-like ladybug.",
+                "C. She waves a wand to cast a spell on the toy-like ladybug.",
+                "D. She stands still next to the toy-like ladybug."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_85": {
+            "id": "iOOseoPiw8E_85",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is shown when the scene first switches to the audience?",
+            "options": [
+                "A. This scene shows a wide-angle view of the auditorium.",
+                "B. This scene shows a close-up preparing for the next program.",
+                "C. This scene shows backstage performers getting ready to go on stage.",
+                "D. This scene shows an animation of Ben and Holly flying in the sky."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_86": {
+            "id": "iOOseoPiw8E_86",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the background like at the beginning of the scene?",
+            "options": [
+                "A. The background presents a forest-like scene.",
+                "B. The background is a bustling urban landscape.",
+                "C. The background shows a tranquil beach scene.",
+                "D. The background is minimalist design."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_87": {
+            "id": "iOOseoPiw8E_87",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What role does the big red ladybug play in the performance?",
+            "options": [
+                "A. The big red ladybug serves as a central prop, with characters interacting with it.",
+                "B. The big red ladybug is a background decoration.",
+                "C. The big red ladybug is an instrument used by Ben the elf.",
+                "D. The big red ladybug is a costume worn by Princess Holly in the performance."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_88": {
+            "id": "iOOseoPiw8E_88",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What visual changes might occur in the theatrical stage setup?",
+            "options": [
+                "A. The stage setup transforms into a medieval kitchen background.",
+                "B. The stage setup transforms into a modern cityscape.",
+                "C. The stage setup transforms into an underwater scene with mermaids.",
+                "D. The stage setup transforms into a forest filled with animals."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_89": {
+            "id": "iOOseoPiw8E_89",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happened after switching to the audience scene?",
+            "options": [
+                "A. The scene transitions to promotional text, displaying 'Tickets Now On Sale!'.",
+                "B. The scene shifts to a silent forest where Princess Holly and the elf Ben walk hand in hand.",
+                "C. The scene switches to an animated segment showing magical creatures flying in the air.",
+                "D. The scene focuses on the technical staff setting up glowing props on stage."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_90": {
+            "id": "iOOseoPiw8E_90",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What elements are in the animation trailer of 'Ben & Holly’s Little Kingdom'?",
+            "options": [
+                "A. There are characters like princesses and elves.",
+                "B. Historical figures and documentary-style narration.",
+                "C. Abstract art and monochrome tones.",
+                "D. Futuristic technology and robot characters."
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_91": {
+            "id": "iOOseoPiw8E_91",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the purpose of the glowing objects held by the audience in the scene?",
+            "options": [
+                "A. The glowing objects are used to focus on the main characters.",
+                "B. The glowing objects illuminate the dim auditorium, expressing the audience's love for the performance.",
+                "C. The glowing objects are distributed as magical props, indicating the interactive part of the performance with the audience.",
+                "D. The glowing objects are designed to mimic the stars in the sky."
+            ],
+            "answer": "B"
+        }
+    }
+}

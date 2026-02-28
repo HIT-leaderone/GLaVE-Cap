@@ -1,0 +1,2449 @@
+{
+    "scene_hint": {
+        "0": "The player in orange kicks the football out.",
+        "1": "The camera follows the football's movement, and a player successfully scores a goal.",
+        "2": "After scoring, the player runs and slides in celebration, teammates come over and pile on top of him.",
+        "3": "The audience shakes items in their hands and cheers enthusiastically.",
+        "4": "The players gradually get up, and the player covers his face with his hands.",
+        "5": "The audience shakes clothes or flags to cheer and celebrate.",
+        "6": "The players form a circle, and a pattern appears.",
+        "7": "The view expands, capturing the trajectory of the player and the football.",
+        "8": "A close-up near the goal captures the player scoring.",
+        "9": "The camera focuses on the individual player, capturing the goal.",
+        "10": "The camera shifts to observe the player scoring through the goal net.",
+        "11": "A blue background and text appear, marking the end of the video."
+    },
+    "qa": {
+        "ByUONqA1IJY_0": {
+            "id": "ByUONqA1IJY_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "Where is the football match held?",
+            "options": [
+                "A. The football match is held on natural grass outdoors.",
+                "B. The football match is held on the beach by the sea.",
+                "C. The football match is held on a professional football field.",
+                "D. The football match is held inside a basketball gym."
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_1": {
+            "id": "ByUONqA1IJY_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What are the environmental conditions during the football match?",
+            "options": [
+                "A. The environmental conditions are nighttime match, with artificial lighting, dry grass.",
+                "B. The environmental conditions are heavy fog, poor field maintenance.",
+                "C. The environmental conditions are clear lighting, neatly trimmed turf.",
+                "D. The environmental conditions are during heavy rain, muddy field."
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_2": {
+            "id": "ByUONqA1IJY_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the goalkeeper wearing?",
+            "options": [
+                "A. The goalkeeper is wearing a bright orange uniform, neon pink shoes, and yellow gloves.",
+                "B. The goalkeeper is wearing a white uniform with blue details, black shoes, and gloves without any details.",
+                "C. The goalkeeper is wearing a green uniform with red shorts, orange shoes, and blue gloves.",
+                "D. The goalkeeper is wearing a black uniform, white shorts, silver shoes, and red gloves."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_3": {
+            "id": "ByUONqA1IJY_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What on the goalkeeper's jersey indicates his identity?",
+            "options": [
+                "A. The jersey displays 'STERLING' and the number '7', indicating the player's identity.",
+                "B. The back of the jersey shows the name 'F. MUSLERA' and the number '1', indicating his identity.",
+                "C. The jersey has the name 'STURRIDGE' and the number '2', indicating the player's identity.",
+                "D. The jersey has no name or number, revealing no details about the player's identity."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_4": {
+            "id": "ByUONqA1IJY_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What can be seen on the sleeve of the player wearing a white jersey?",
+            "options": [
+                "A. A small green logo can be seen on the left sleeve of the white jersey.",
+                "B. The number '7' is printed on the left sleeve of the white jersey.",
+                "C. A red stripe can be seen on the left sleeve of the white jersey.",
+                "D. The FIFA logo is printed on the left sleeve of the white jersey."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_5": {
+            "id": "ByUONqA1IJY_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many players can be seen at the beginning of the video?",
+            "options": [
+                "A. Two players",
+                "B. Three players",
+                "C. One player",
+                "D. Four players"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_6": {
+            "id": "ByUONqA1IJY_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Can you see the word 'FIFA' in the background?",
+            "options": [
+                "A. Yes, the word 'FIFA' can be seen in the background.",
+                "B. No, the word 'FIFA' cannot be seen in the background.",
+                "C. Only part of the word 'FIFA' can be seen in the background.",
+                "D. The word 'FIFA' is only visible on the players' uniforms."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_7": {
+            "id": "ByUONqA1IJY_7",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the goalkeeper take in the following scene?",
+            "options": [
+                "A. The goalkeeper made a kicking motion, taking the ball off the field.",
+                "B. The goalkeeper performed a heading action because the ball flew towards the opponent.",
+                "C. The goalkeeper made a throwing motion, kicking the soccer ball out.",
+                "D. The goalkeeper performed a defensive interception action because the ball was approaching the goal area."
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_8": {
+            "id": "ByUONqA1IJY_8",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "How does the goalkeeper perform during the throwing action?",
+            "options": [
+                "A. The goalkeeper appears solemn and stable during the throwing process.",
+                "B. The goalkeeper tosses the ball back and forth in the air during the throwing action.",
+                "C. The goalkeeper appears distracted during the throwing process.",
+                "D. The goalkeeper stands still and does not complete the throwing action."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_9": {
+            "id": "ByUONqA1IJY_9",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "What is the trajectory of the soccer ball after the goalkeeper throws it?",
+            "options": [
+                "A. The trajectory of the soccer ball moves away from the goalkeeper.",
+                "B. The trajectory of the soccer ball curves towards the goalkeeper.",
+                "C. The soccer ball moves directly downward.",
+                "D. The soccer ball spins in place and does not move."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_10": {
+            "id": "ByUONqA1IJY_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What kind of camera angles are used in this scene?",
+            "options": [
+                "A. The camera angle is slightly elevated and positioned diagonally.",
+                "B. The camera is directly behind the goalkeeper.",
+                "C. The camera angle is level with the players and parallel to the field.",
+                "D. The camera is positioned high up, looking vertically down at the field."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_11": {
+            "id": "ByUONqA1IJY_11",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What is the impact of camera angles on the visual presentation of actions?",
+            "options": [
+                "A. It provides a close-up view, focusing on the goalkeeper's actions.",
+                "B. It provides a mid-range view, capturing interactions between players while maintaining focus on the ball's movement.",
+                "C. It presents a wide-angle view, making it difficult to see individual players and their actions clearly.",
+                "D. It captures an overhead view, highlighting the overall layout of the field but lacking details of player actions."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_12": {
+            "id": "ByUONqA1IJY_12",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What visual cues indicate that the white player is moving?",
+            "options": [
+                "A. His white jersey is fluttering in the wind.",
+                "B. His hands are swinging and he is focused on the football.",
+                "C. He is wearing bright pink football shoes.",
+                "D. The player is standing still, waiting for the ball to arrive."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_13": {
+            "id": "ByUONqA1IJY_13",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Which visual element in the video reinforces the official background of the football match?",
+            "options": [
+                "A. The 'FIFA' logo in the top right corner reinforces the official background of the match.",
+                "B. The green emblem on the player's right sleeve reinforces the official background of the match.",
+                "C. The 'FIFA' lettering on the player's jersey reinforces the official background of the match.",
+                "D. The green and yellow design on the field reinforces the official background of the match."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_14": {
+            "id": "ByUONqA1IJY_14",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "From the video, where is the goalkeeper positioned relative to the goal after the goal is scored?",
+            "options": [
+                "A. The goalkeeper is positioned to the right of the goal.",
+                "B. The goalkeeper is positioned in the center of the goal.",
+                "C. The goalkeeper is positioned to the left of the goal.",
+                "D. The goalkeeper is outside the penalty area."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_15": {
+            "id": "ByUONqA1IJY_15",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What was the atmosphere like after the goal?",
+            "options": [
+                "A. The atmosphere was lively and jubilant, with the crowd erupting in celebration, raising their arms, waving banners, and filled with joy.",
+                "B. The atmosphere was tense and heavy, with players reacting angrily and the crowd showing disappointment.",
+                "C. The atmosphere was quiet and contemplative, with both teams calmly returning to their positions.",
+                "D. The atmosphere was chaotic and disordered, with fans and players clashing on the field."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_16": {
+            "id": "ByUONqA1IJY_16",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "How does the goalkeeper near the goalpost react after a goal?",
+            "options": [
+                "A. The goalkeeper runs towards other defenders to provide support.",
+                "B. The goalkeeper crouches near the goal with hands on the ground.",
+                "C. The goalkeeper signals teammates to gather and prepare for the next round.",
+                "D. The goalkeeper approaches the referee to protest the goal."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_17": {
+            "id": "ByUONqA1IJY_17",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the football after scoring a goal?",
+            "options": [
+                "A. The football is embedded in the net.",
+                "B. The football is with the goalkeeper.",
+                "C. The football is near the midfield line.",
+                "D. The football bounced off the goal frame."
+            ],
+            "answer": "D"
+        },
+        "ByUONqA1IJY_18": {
+            "id": "ByUONqA1IJY_18",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "In the scene of scoring, how many players wearing white clothing are described?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_19": {
+            "id": "ByUONqA1IJY_19",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Can the FIFA logo be seen in the picture?",
+            "options": [
+                "A. Yes, the FIFA logo appears in the upper right corner of the picture.",
+                "B. No, the FIFA logo is not visible in this scene.",
+                "C. Yes, the FIFA logo appears on the players' jerseys.",
+                "D. No, the FIFA logo only appears on the billboards."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_20": {
+            "id": "ByUONqA1IJY_20",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "After the goal was scored, what action did the goalkeeper take?",
+            "options": [
+                "A. The goalkeeper was near the goal, hanging his head in frustration.",
+                "B. The goalkeeper jumped up and protested the goal to the referee.",
+                "C. The goalkeeper fell to the ground in frustration, covering his face with his hands.",
+                "D. The goalkeeper rushed to his defenders to discuss the strategy for the next round."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_21": {
+            "id": "ByUONqA1IJY_21",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "From the video, what is the direction of the players' movement as they are about to score?",
+            "options": [
+                "A. They are running from right to left",
+                "B. They are running from left to right",
+                "C. They are running from bottom to top",
+                "D. They are running from top to bottom"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_22": {
+            "id": "ByUONqA1IJY_22",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "How does the camera capture the moment after a goal?",
+            "options": [
+                "A. The camera captures the goal from multiple angles, focusing on the goalkeeper's reaction.",
+                "B. The camera switches to a close-up of the attacking player, ignoring the audience's reaction.",
+                "C. The camera maintains a relatively fixed angle, comprehensively presenting the goal, player reactions, and the enthusiastic audience behind the goal.",
+                "D. The camera sweeps across the entire stadium, highlighting billboards and sponsors."
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_23": {
+            "id": "ByUONqA1IJY_23",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "What does the sprint speed of the defender indicate?",
+            "options": [
+                "A. The defender's sprint indicates that the match is tense and fast-paced.",
+                "B. The defender's sprint indicates a lack of awareness and random actions.",
+                "C. The defender's sprint reflects a celebratory action for scoring.",
+                "D. The defender's sprint suggests an intentional departure from the playing area."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_24": {
+            "id": "ByUONqA1IJY_24",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "After the goal, which sponsor logos are displayed on the electronic board?",
+            "options": [
+                "A. 'Nike', 'Pepsi', and 'Samsung'",
+                "B. '#BRASILBEYOND', 'Itaú', and 'WISEUP.COM'",
+                "C. 'Coca-Cola', 'Adidas', and 'Sony'",
+                "D. 'Carlsberg', 'Emirates', and 'Gazprom'"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_25": {
+            "id": "ByUONqA1IJY_25",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Which logo confirms the association of the game with the global football organization?",
+            "options": [
+                "A. The 'FIFA' logo confirms the association of the game with the global football organization.",
+                "B. The 'UEFA' logo confirms the association of the game with the global football organization.",
+                "C. The 'Coca-Cola' logo confirms the association of the game with the global football organization.",
+                "D. The 'Itaú' logo confirms the association of the game with the global football organization."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_26": {
+            "id": "ByUONqA1IJY_26",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "From the video, after scoring the goal, from which position of the goal did the player run out of the field?",
+            "options": [
+                "A. Ran out from the left side of the goal",
+                "B. Ran out from the right side of the goal",
+                "C. Ran out directly in front of the goal.",
+                "D. The player did not pass through the goal."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_27": {
+            "id": "ByUONqA1IJY_27",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the emotional reaction of the football player during the celebration?",
+            "options": [
+                "A. The emotional reaction of the football player is excited and intense.",
+                "B. The emotional reaction of the football player is calm and restrained.",
+                "C. The emotional reaction of the football player is confused and uncertain.",
+                "D. The emotional reaction of the football player is indifferent and uninterested."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_28": {
+            "id": "ByUONqA1IJY_28",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "How have football players' celebration moves changed?",
+            "options": [
+                "A. The player's move starts with a 'V' shaped finger gesture and then gradually opens all fingers.",
+                "B. The player's move changes from waving both arms to crossing them in front of the chest.",
+                "C. The player's move evolves from a 'V' shaped finger gesture to clapping hands above the head.",
+                "D. The player's move changes from a 'V' shaped finger gesture to pointing both arms at the goalpost."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_29": {
+            "id": "ByUONqA1IJY_29",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What color is the jersey worn by the jubilant football players?",
+            "options": [
+                "A. The jersey is light blue.",
+                "B. The jersey is green.",
+                "C. The jersey is black.",
+                "D. The jersey is white."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_30": {
+            "id": "ByUONqA1IJY_30",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the number on the jersey of the football player who is celebrating enthusiastically?",
+            "options": [
+                "A. Number '7'",
+                "B. Number '10'",
+                "C. Number '9'",
+                "D. Number '11'"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_31": {
+            "id": "ByUONqA1IJY_31",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What is on this football player's jersey?",
+            "options": [
+                "A. There is a white badge on the jersey.",
+                "B. There is a golden star-shaped badge on the jersey.",
+                "C. There is a red circular patch on the jersey.",
+                "D. There is a black diagonal stripe on the jersey."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_32": {
+            "id": "ByUONqA1IJY_32",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What color are the shorts worn by this football player?",
+            "options": [
+                "A. The shorts are black.",
+                "B. The shorts are white.",
+                "C. The shorts are red.",
+                "D. The shorts are blue."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_33": {
+            "id": "ByUONqA1IJY_33",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "Does this football player wear any accessories?",
+            "options": [
+                "A. The football player is wearing a black wristband on their wrist.",
+                "B. The football player is wearing a headband.",
+                "C. The football player is wearing a white badge on their chest.",
+                "D. The football player is wearing a fluorescent yellow jacket."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_34": {
+            "id": "ByUONqA1IJY_34",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "After the player is pinned down by teammates, is the photographer near the boundary visible?",
+            "options": [
+                "A. Yes, the photographer near the boundary is clearly visible.",
+                "B. No, the photographer near the boundary is no longer visible.",
+                "C. Yes, but the photographer is blurry and hard to see.",
+                "D. Not visible, but the photographer has already retreated."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_35": {
+            "id": "ByUONqA1IJY_35",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "In this scenario, what action did the audience participate in?",
+            "options": [
+                "A. The audience sat quietly.",
+                "B. The audience participated in the celebration.",
+                "C. The audience left the stadium.",
+                "D. The audience booed the players."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_36": {
+            "id": "ByUONqA1IJY_36",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What lens should be used to capture players' celebrations and broader elements of the game?",
+            "options": [
+                "A. Use a wide-angle lens.",
+                "B. Use a close-up lens.",
+                "C. Use an overhead lens.",
+                "D. Use a low-angle lens."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_37": {
+            "id": "ByUONqA1IJY_37",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What text can be seen on the billboard?",
+            "options": [
+                "A. WISEUP.COM",
+                "B. SCOREBOARDS.COM",
+                "C. PLAYNOW.NET",
+                "D. SPORTSZONE.CO"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_38": {
+            "id": "ByUONqA1IJY_38",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "From the video, where is this player positioned while celebrating the knee slide?",
+            "options": [
+                "A. At the right edge of the foreground",
+                "B. Slightly to the left in the foreground",
+                "C. In the center of the background",
+                "D. On the left side of the background"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_39": {
+            "id": "ByUONqA1IJY_39",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the player located at the end of the slide celebration?",
+            "options": [
+                "A. Near the center of the field",
+                "B. Near the opponent's goal",
+                "C. Near the sideline",
+                "D. Near the penalty area"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_40": {
+            "id": "ByUONqA1IJY_40",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video scene?",
+            "options": [
+                "A. The scene takes place on a basketball court with wooden flooring.",
+                "B. The scene takes place on a lush grassy soccer field.",
+                "C. The scene takes place on a tennis court with a clay surface.",
+                "D. The scene takes place in a crystal-clear swimming pool."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_41": {
+            "id": "ByUONqA1IJY_41",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What are the additional features of the video scene?",
+            "options": [
+                "A. The scene features a packed football stadium with colorful, cheering crowds.",
+                "B. The scene features an empty football stadium with silent spectators.",
+                "C. The scene takes place in a quiet, secluded training ground with no audience.",
+                "D. The video shows a small group of people watching a local match."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_42": {
+            "id": "ByUONqA1IJY_42",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What did the main player in the football match do first when celebrating near the sideline?",
+            "options": [
+                "A. The main player slid across the grass on his knees with arms outstretched.",
+                "B. The main player ran towards the audience and punched the air in celebration.",
+                "C. The main player jumped into the air and spun around in celebration.",
+                "D. The main player knelt down, clapped his hands, and looked up at the sky."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_43": {
+            "id": "ByUONqA1IJY_43",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Were the spectators in the stadium clearly shown?",
+            "options": [
+                "A. Yes, the spectators were shown clearly, and their faces were also very clear.",
+                "B. No, the spectators looked a bit blurry, forming a dynamic moving whole.",
+                "C. Yes, the spectators were cheering and holding up banners.",
+                "D. No, the description did not show the spectators at all."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_44": {
+            "id": "ByUONqA1IJY_44",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What gesture did the player make with his hands at the start of the knee slide celebration?",
+            "options": [
+                "A. The player placed his right index and middle fingers on his lips.",
+                "B. The player knelt upright with both hands raised.",
+                "C. The player remained kneeling with arms outstretched.",
+                "D. The player leaned back with both hands covering his face."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_45": {
+            "id": "ByUONqA1IJY_45",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What effect does the camera position have when the athlete is lying down?",
+            "options": [
+                "A. The camera position is close to the ground, enhancing the drama of the player's actions and emotions.",
+                "B. The camera position is high in the stands, providing a panoramic view of the entire field.",
+                "C. The camera position is behind the goal, focusing on the goalkeeper's reactions.",
+                "D. The camera position is directly above the player, providing a bird's-eye view of the scene."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_46": {
+            "id": "ByUONqA1IJY_46",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What is the effect of the camera angle when the athlete is lying down?",
+            "options": [
+                "A. The camera tilts downward, focusing on the grass instead of the player.",
+                "B. The camera tilts slightly upward, using the bustling stadium as a vivid backdrop.",
+                "C. The camera remains level, focusing only on the player's attire.",
+                "D. The camera tilts sideways to capture the entire stadium in a panoramic view."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_47": {
+            "id": "ByUONqA1IJY_47",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements help identify the importance of the event?",
+            "options": [
+                "A. The 'FIFA' logo, electronic advertising banners, etc., highlight the global and commercial background of the event.",
+                "B. The players' jerseys and the number '9' emphasize the sports background of the event.",
+                "C. The presence of the crowd and the stadium lights highlight the joyful atmosphere of the event.",
+                "D. The players' celebratory actions and sliding knee movements emphasize the emotional intensity of the event."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_48": {
+            "id": "ByUONqA1IJY_48",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "In a group celebration pile, where is the position of the goal-scoring football player?",
+            "options": [
+                "A. The football player is at the very bottom of the group pile.",
+                "B. The football player stands right in the center of the group pile.",
+                "C. The football player is lying face up at the very top of the group pile.",
+                "D. The football player is running around the group pile."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_49": {
+            "id": "ByUONqA1IJY_49",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What is the notable feature of the shoes worn by players during the group celebration?",
+            "options": [
+                "A. The players wear brightly colored shoes, such as yellow and blue.",
+                "B. The players wear pure white shoes, with no other colors.",
+                "C. The players wear dark-toned shoes, such as black and brown.",
+                "D. The players wear completely light blue shoes, without any patterns."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_50": {
+            "id": "ByUONqA1IJY_50",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What did the player wearing jersey number 21 do during the celebration?",
+            "options": [
+                "A. The player wearing jersey number 21 approached the team and reached out towards the pile of players.",
+                "B. The player wearing jersey number 21 jumped to the top of the pile of players.",
+                "C. The player wearing jersey number 21 stood at a distance and waved to the crowd.",
+                "D. The player wearing jersey number 21 sat on the grass and watched the celebration from afar."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_51": {
+            "id": "ByUONqA1IJY_51",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "From the video, from which direction does the teammate wearing the orange-brown jacket approach the group pile?",
+            "options": [
+                "A. The teammate wearing the orange-brown jacket appears from the left side of the screen to approach the group pile.",
+                "B. The teammate wearing the orange-brown jacket appears from the right side of the screen to approach the group pile.",
+                "C. The teammate wearing the orange-brown jacket appears from behind to approach the group pile.",
+                "D. The teammate wearing the orange-brown jacket appears from above to approach the group pile."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_52": {
+            "id": "ByUONqA1IJY_52",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "From the video, where is player number '21'?",
+            "options": [
+                "A. On the left side of the screen.",
+                "B. In the center of the pile.",
+                "C. On the right side of the screen.",
+                "D. Behind the team near the sideline."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_53": {
+            "id": "ByUONqA1IJY_53",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What activity is happening in the video scene?",
+            "options": [
+                "A. The players are forming a human pile to cheer and celebrate.",
+                "B. The players are quietly standing in a circle.",
+                "C. The players are engaged in an intense match.",
+                "D. The players are slowly leaving the field."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_54": {
+            "id": "ByUONqA1IJY_54",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What are the prominent objects or features in the video scene?",
+            "options": [
+                "A. The scene includes white boundary lines, electronic boards, FIFA logos, etc.",
+                "B. The scene includes a scoreboard, goal net, speakers, and team flags.",
+                "C. The scene includes a trophy podium, confetti, DJ booth, and celebratory fireworks.",
+                "D. The scene includes a film crew, a referee holding a trophy, benches, and a medical vehicle."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_55": {
+            "id": "ByUONqA1IJY_55",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "How did the player wearing bright orange socks and fluorescent yellow football shoes perform?",
+            "options": [
+                "A. The player stepped back to watch the celebration.",
+                "B. The player jumped forcefully into the crowd and took a prominent position in the pile.",
+                "C. The player calmly walked off the field.",
+                "D. The player stood beside the pile and gestured to the audience."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_56": {
+            "id": "ByUONqA1IJY_56",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "From the video, from which direction do the players mainly join the celebration pile?",
+            "options": [
+                "A. They join from the right side area.",
+                "B. They join from the left side area.",
+                "C. They join from the back side area.",
+                "D. They join from the front side area."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_57": {
+            "id": "ByUONqA1IJY_57",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Did the player in the brown vest participate in the celebration pile?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Not clear from the description",
+                "D. The player has left the scene"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_58": {
+            "id": "ByUONqA1IJY_58",
+            "scene": 2,
+            "dimension": "Speed",
+            "question": "What can be said about the players' pace in joining the pile?",
+            "options": [
+                "A. The players joined the pile quickly and energetically.",
+                "B. The players joined the pile slowly and cautiously.",
+                "C. The players avoided the pile and celebrated individually.",
+                "D. The players joined the pile hesitantly and tentatively."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_59": {
+            "id": "ByUONqA1IJY_59",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where are the spectators located in the stadium?",
+            "options": [
+                "A. Spectators are distributed throughout the stadium.",
+                "B. Spectators are mainly concentrated in the lower area near the entrance.",
+                "C. Spectators are only in the upper stands far from the field.",
+                "D. Spectators are mainly located in the central area of the stadium."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_60": {
+            "id": "ByUONqA1IJY_60",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the main focus of this scene?",
+            "options": [
+                "A. The focus is on the players celebrating on the field.",
+                "B. The focus is on the coaches giving instructions.",
+                "C. The focus is on the spectators in the stadium.",
+                "D. The focus is on the architecture of the stadium."
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_61": {
+            "id": "ByUONqA1IJY_61",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What are the supporters in the crowd doing with the flags?",
+            "options": [
+                "A. They are waving the flags.",
+                "B. They are throwing the flags.",
+                "C. They are folding the flags.",
+                "D. They are hiding the flags."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_62": {
+            "id": "ByUONqA1IJY_62",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What are the supporters in the crowd doing with the banners?",
+            "options": [
+                "A. They are shaking and waving the banners.",
+                "B. They are throwing the banners onto the field.",
+                "C. They are sitting in their seats holding the banners without moving.",
+                "D. They are tearing the banners apart."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_63": {
+            "id": "ByUONqA1IJY_63",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What kind of physical actions are the supporters in the crowd doing?",
+            "options": [
+                "A. They are sitting quietly.",
+                "B. They are jumping and gesturing.",
+                "C. They are waving flags and holding banners.",
+                "D. They are leaving the stadium."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_64": {
+            "id": "ByUONqA1IJY_64",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What emotion are the supporters in the crowd displaying?",
+            "options": [
+                "A. They are displaying enthusiastic joy.",
+                "B. They are displaying calm contemplation.",
+                "C. They are displaying anger and frustration.",
+                "D. They are displaying indifference and boredom."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_65": {
+            "id": "ByUONqA1IJY_65",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What visual elements are present in the scene when it shifts to the audience?",
+            "options": [
+                "A. Partially visible 'FIFA' text and logo",
+                "B. Fireworks lighting up the sky",
+                "C. Large scoreboard displaying the final score",
+                "D. Camera drone hovering above the crowd"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_66": {
+            "id": "ByUONqA1IJY_66",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What color predominantly dominates the crowd's clothing?",
+            "options": [
+                "A. Blue",
+                "B. White",
+                "C. Yellow",
+                "D. Purple"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_67": {
+            "id": "ByUONqA1IJY_67",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Does the transition in the video focus entirely on the players' celebration scenes?",
+            "options": [
+                "A. Yes, the video focuses only on the players' celebration.",
+                "B. No, the transition shifts focus from the players' celebration to the enthusiastic audience.",
+                "C. Yes, the whole scene involves players celebrating, with no other focus.",
+                "D. No, the video focuses only on the FIFA logo and its association with the event."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_68": {
+            "id": "ByUONqA1IJY_68",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What contributions do the spectators in the stands make to the atmosphere of the event?",
+            "options": [
+                "A. The spectators wave flags, hold banners, jump in place, and make various celebratory gestures.",
+                "B. The spectators sit quietly watching the game, with almost no movement.",
+                "C. The spectators wear headphones and focus on reading.",
+                "D. The spectators recline in their seats and quietly sleep."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_69": {
+            "id": "ByUONqA1IJY_69",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle should be used to capture the energy of a crowd?",
+            "options": [
+                "A. Use a wide-angle perspective to capture the density of the crowd and the scale of the celebration.",
+                "B. Use a close-up perspective to focus on individual expressions within the crowd.",
+                "C. Use a bird's-eye view to showcase the entire stadium from above.",
+                "D. Use a fisheye lens to create a distorted perspective of the crowd."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_70": {
+            "id": "ByUONqA1IJY_70",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of camera shot is used when transitioning from a close-up of the player to the audience?",
+            "options": [
+                "A. A wide-angle panning shot is used.",
+                "B. A close-up shot of a single audience member is used.",
+                "C. A rotating shot from the player to the audience is used.",
+                "D. A zoom-in shot on the team banner is used."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_71": {
+            "id": "ByUONqA1IJY_71",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "How is the speed of the waving flags and the waving fans' movements depicted?",
+            "options": [
+                "A. The movements are portrayed as vivid and energetic, matching the celebratory energy.",
+                "B. The movements are described as slow and subdued, contrasting with the celebratory atmosphere.",
+                "C. The movements are characterized as chaotic and disordered, diminishing the energy of the event.",
+                "D. The movements are depicted as very minimal or almost still, highlighting the tranquility of the moment."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_72": {
+            "id": "ByUONqA1IJY_72",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What key change happens in the scene as the focus shifts away from the players?",
+            "options": [
+                "A. The scene transitions from close-ups of players' intimate celebrations to a wide-angle view of a vast and lively crowd.",
+                "B. The scene shifts from players' celebrations to a desolate stadium setting.",
+                "C. The scene moves from the dramatic moments on the field to a tranquil shot of the team's bench.",
+                "D. The scene transitions from players' celebrations to focusing on field markings and the goal."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_73": {
+            "id": "ByUONqA1IJY_73",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "From the video, where is the yellow flag located in the frame?",
+            "options": [
+                "A. Appears from the right side of the frame and disappears from the right side",
+                "B. Appears from the left side of the frame and disappears from the left side",
+                "C. Appears from the right side of the frame and does not disappear",
+                "D. Appears from the right side of the frame and disappears from the left side"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_74": {
+            "id": "ByUONqA1IJY_74",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the celebration scene like?",
+            "options": [
+                "A. The scene is on a football field, filled with an atmosphere of celebration and excitement, with players gathered together and a blurred crowd of spectators in the background.",
+                "B. The scene is in the locker room, dimly lit, with players sitting scattered, quietly contemplating.",
+                "C. The scene is on a city street, with fans celebrating around parade floats amidst confetti and loud music.",
+                "D. The scene is on the training ground, with players practicing in a quiet atmosphere without spectators."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_75": {
+            "id": "ByUONqA1IJY_75",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the player at the bottom do when other players got up?",
+            "options": [
+                "A. The player lay on the grass facing the sky, covering his face with both hands.",
+                "B. The player stood up straight from the grass, raising both arms.",
+                "C. The player sat on the ground with arms crossed.",
+                "D. The player leaned back, extending both arms."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_76": {
+            "id": "ByUONqA1IJY_76",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What logo can be seen on the brown vests worn by the players?",
+            "options": [
+                "A. 'Olympic Games'",
+                "B. 'FIFA World Cup Brazil'",
+                "C. 'UEFA Champions League'",
+                "D. 'Premier League'"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_77": {
+            "id": "ByUONqA1IJY_77",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many players wearing light blue jerseys are mentioned in this scene?",
+            "options": [
+                "A. Six",
+                "B. Seven",
+                "C. Eight",
+                "D. Nine"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_78": {
+            "id": "ByUONqA1IJY_78",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is there a player wearing yellow sneakers in this scene?",
+            "options": [
+                "A. Yes, there is a player wearing yellow sneakers.",
+                "B. No, there is no player wearing yellow sneakers.",
+                "C. No player is without any sneakers.",
+                "D. No, there are no players appearing in this scene."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_79": {
+            "id": "ByUONqA1IJY_79",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "In this scene, what action is the player with the number '21' doing?",
+            "options": [
+                "A. The player with the number '21' bends down to check on the athlete at the bottom.",
+                "B. The player with the number '21' bends deeply, focusing on the center of the team.",
+                "C. The player with the number '21' leans back, disengaging from the tactical discussion.",
+                "D. The player with the number '21' runs around the discussion circle, cheering loudly."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_80": {
+            "id": "ByUONqA1IJY_80",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "From the video, what direction is the player with number '21'?",
+            "options": [
+                "A. The player with number '21' is located on the far left of the screen",
+                "B. The player with number '21' is located on the far right of the screen",
+                "C. The player with number '21' is located in the center position",
+                "D. The player with number '21' does not appear on the screen"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_81": {
+            "id": "ByUONqA1IJY_81",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used in this scene to emphasize the players' involvement?",
+            "options": [
+                "A. Use zoom shots to highlight the players' individual and collective involvement.",
+                "B. Use wide-angle shots to capture the entire field and players.",
+                "C. Use close-up shots to focus on the facial expressions of individual players.",
+                "D. Use aerial shots to showcase the stadium from above."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_82": {
+            "id": "ByUONqA1IJY_82",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "How does the density of gathering change as the scene progresses?",
+            "options": [
+                "A. The density of gathering remains unchanged throughout the scene.",
+                "B. As more players join and integrate into the team, the density of gathering increases.",
+                "C. As players leave the team, the density of gathering decreases.",
+                "D. As players enter and exit the team, the density of gathering fluctuates."
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_83": {
+            "id": "ByUONqA1IJY_83",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is the player wearing with the number '11'?",
+            "options": [
+                "A. Light blue top, black shorts, black and blue knee-high socks",
+                "B. Light blue top, black shorts, orange and white socks",
+                "C. Blue jacket, orange socks, purple shoes and gloves",
+                "D. Light pink football shoes, black shorts, cyan shoes"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_84": {
+            "id": "ByUONqA1IJY_84",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What items around the stadium indicate the presence of sponsors?",
+            "options": [
+                "A. Bright scoreboard",
+                "B. Colorful fan banners",
+                "C. Advertisements and text around the venue",
+                "D. Arrangement of audience seats"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_85": {
+            "id": "ByUONqA1IJY_85",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Can you see the 'ltaú' logo in this scene?",
+            "options": [
+                "A. Yes, it is fully visible",
+                "B. Yes, but only partially visible",
+                "C. No, the logo does not appear",
+                "D. No, the scene is too blurry to determine"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_86": {
+            "id": "ByUONqA1IJY_86",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Are there any players wearing gloves in this scene?",
+            "options": [
+                "A. Yes, there are two players wearing gloves.",
+                "B. No, there are no players wearing gloves.",
+                "C. Yes, all players are wearing gloves.",
+                "D. Yes, there is one player wearing gloves."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_87": {
+            "id": "ByUONqA1IJY_87",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What content is prominently displayed on the electronic banner in the background?",
+            "options": [
+                "A. The banner prominently displays 'ltaú' in yellow font with a blue background.",
+                "B. The banner prominently displays 'Nike' in white font with a black background.",
+                "C. The banner prominently displays 'Adidas' in black font with a white background.",
+                "D. The banner prominently displays 'Puma' in red font with a yellow background."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_88": {
+            "id": "ByUONqA1IJY_88",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Is player number 21 located near the center of the screen?",
+            "options": [
+                "A. Yes, player number 21 is located near the center of the screen.",
+                "B. No, player number 21 is located near the right edge of the screen.",
+                "C. Yes, player number 21 is near the center, interacting with the main team.",
+                "D. No, player number 21 is located near the left edge of the screen."
+            ],
+            "answer": "D"
+        },
+        "ByUONqA1IJY_89": {
+            "id": "ByUONqA1IJY_89",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What visual elements indicate the grand background of the event?",
+            "options": [
+                "A. The prominent 'Itaú' sponsor banners, the vibrant green field, and the bright stadium lights indicate the grand background of the event.",
+                "B. The crowded stands and the lively green field suggest that this is a grand event.",
+                "C. The players' enthusiastic celebrations and the presence of a referee in bright clothing indicate a grand background.",
+                "D. The large number of players on the field and the bright stadium lights indicate that this is an important event."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_90": {
+            "id": "ByUONqA1IJY_90",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the player wearing fluorescent yellow soccer shoes located?",
+            "options": [
+                "A. They are located at the right edge of the frame.",
+                "B. They are located in the center of the frame.",
+                "C. They are located at the left edge of the frame.",
+                "D. They are located next to the player wearing light blue shorts."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_91": {
+            "id": "ByUONqA1IJY_91",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What is special about the shoes of the player with the number '20'?",
+            "options": [
+                "A. The player is wearing one pink and one blue shoe",
+                "B. The player is wearing a pair of bright orange shoes",
+                "C. The player is wearing a pair of blue shoes",
+                "D. The player is wearing one white and one blue shoe."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_92": {
+            "id": "ByUONqA1IJY_92",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is the player wearing white gloves doing when the teammates get up?",
+            "options": [
+                "A. The player is bending over, helping another teammate up.",
+                "B. The player is standing upright with arms crossed.",
+                "C. The player is lying flat on the ground, looking up.",
+                "D. The player is running towards the center of the field."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_93": {
+            "id": "ByUONqA1IJY_93",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "In the initial scene, what position are the players in around the fallen teammate?",
+            "options": [
+                "A. The players are closely surrounding the fallen teammate.",
+                "B. The players are spread out, far from the fallen teammate.",
+                "C. The players are standing in a line, at some distance from the fallen teammate.",
+                "D. The players are forming a circle, but at a certain distance from the fallen teammate."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_94": {
+            "id": "ByUONqA1IJY_94",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "When the camera turns to the audience, what logo can be seen on the banner?",
+            "options": [
+                "A. \"C.A. CERRO\"",
+                "B. \"Nike\"",
+                "C. \"FIFV\"",
+                "D. \"WISEUP.COM\""
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_95": {
+            "id": "ByUONqA1IJY_95",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the banners held by the audience?",
+            "options": [
+                "A. Most of the banners have blue and white stripes, with a yellow pattern at the top.",
+                "B. Most of the banners are light blue, with a yellow pattern at the top.",
+                "C. Most of the banners have yellow and white stripes, with text on the white part.",
+                "D. Most of the banners are pure white, with text displayed."
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_96": {
+            "id": "ByUONqA1IJY_96",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What are the audience like when the scene shifts to them?",
+            "options": [
+                "A. They are excited and thrilled",
+                "B. They are frustrated and sorrowful",
+                "C. They are angry and dissatisfied",
+                "D. They are calm and unperturbed"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_97": {
+            "id": "ByUONqA1IJY_97",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is the prominent audience member in the center of the screen doing?",
+            "options": [
+                "A. He is raising a flag and waving it back and forth.",
+                "B. He is shirtless, vigorously waving his clothes.",
+                "C. He is placing his hands around his mouth and shouting loudly.",
+                "D. He is shirtless, vigorously waving a flag."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_98": {
+            "id": "ByUONqA1IJY_98",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What color is the clothing that the naked person is waving?",
+            "options": [
+                "A. Brown",
+                "B. Blue",
+                "C. Yellow",
+                "D. White"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_99": {
+            "id": "ByUONqA1IJY_99",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the person with both hands raised, back to the camera, draped in a yellow patterned flag?",
+            "options": [
+                "A. In the middle position on the far right of the frame",
+                "B. In the middle position on the far left of the frame",
+                "C. In the middle position at the top of the frame",
+                "D. In the middle position at the bottom of the frame"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_100": {
+            "id": "ByUONqA1IJY_100",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What is the player wearing gloves doing?",
+            "options": [
+                "A. The player raises both hands above their head.",
+                "B. The player places both hands on a teammate's shoulders.",
+                "C. The player walks alone towards the inside of the field.",
+                "D. The player is obscured by a flag, and their actions are not observed."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_101": {
+            "id": "ByUONqA1IJY_101",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Can the player with the number '9' be observed in this scene?",
+            "options": [
+                "A. The player can be clearly observed",
+                "B. The player is obstructed, only the player with number 10 can be seen",
+                "C. The player is obstructed and cannot be observed",
+                "D. No players appear in this scene"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_102": {
+            "id": "ByUONqA1IJY_102",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "From the video, in which direction is the player with the number '11' moving?",
+            "options": [
+                "A. Moving to the right",
+                "B. Moving to the left",
+                "C. Moving forward with back to the camera",
+                "D. The player is standing still"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_103": {
+            "id": "ByUONqA1IJY_103",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What does the person standing next to the camera in the picture look like?",
+            "options": [
+                "A. He is wearing a black suit and holding a microphone, possibly the host.",
+                "B. He is wearing a yellow sports outfit and holding a whistle, possibly the referee.",
+                "C. He is wearing a black sports outfit and holding a sign, possibly the staff.",
+                "D. He is wearing a black casual outfit and holding a notebook, should be the scorer."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_104": {
+            "id": "ByUONqA1IJY_104",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What are the characteristics of the electronic screens around the stadium in this scene?",
+            "options": [
+                "A. The colors and text on the electronic screens are completely unified",
+                "B. The electronic screens are divided into three different colors",
+                "C. The text on the electronic screens is separated by orange squares",
+                "D. The electronic screens display multiple different advertisements"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_105": {
+            "id": "ByUONqA1IJY_105",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What number is shown on the screen as this scene is about to end?",
+            "options": [
+                "A. 2013",
+                "B. 2014",
+                "C. 2015",
+                "D. 2016"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_106": {
+            "id": "ByUONqA1IJY_106",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "In which position does the logo appear at the end of the scene?",
+            "options": [
+                "A. Center of the screen",
+                "B. Left side of the screen",
+                "C. Right side of the screen",
+                "D. No logo appears in this scene"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_107": {
+            "id": "ByUONqA1IJY_107",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the environment depicted in the video?",
+            "options": [
+                "A. The video depicts a tennis match in a peaceful and serene environment.",
+                "B. The video depicts a football match in a packed stadium with an intense and competitive atmosphere.",
+                "C. The video depicts a basketball game taking place in an indoor court with moderate foot traffic.",
+                "D. The video depicts a cricket match taking place in a sparse venue with few spectators."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_108": {
+            "id": "ByUONqA1IJY_108",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What can be observed about the players' jerseys?",
+            "options": [
+                "A. The players are wearing orange and green jerseys.",
+                "B. The players are wearing purple and pink jerseys.",
+                "C. The players are wearing black and white jerseys.",
+                "D. The players are wearing blue and green jerseys."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_109": {
+            "id": "ByUONqA1IJY_109",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What can be observed about the player's jerseys?",
+            "options": [
+                "A. The player is wearing a blue and white jersey.",
+                "B. The player is wearing a red and yellow jersey.",
+                "C. The player is wearing a black and white jersey.",
+                "D. The player is wearing a blue and green jersey."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_110": {
+            "id": "ByUONqA1IJY_110",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "What actions can be observed from players on the field?",
+            "options": [
+                "A. As the game progresses, players engage in various formations and dynamic movements.",
+                "B. Players stand still at designated positions throughout the game.",
+                "C. Players focus solely on defending their own goal without forming strategic formations.",
+                "D. Players move randomly across the field in a chaotic manner, without clear formations or actions."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_111": {
+            "id": "ByUONqA1IJY_111",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What are the visual elements of a football field itself?",
+            "options": [
+                "A. The football field is a green lawn, with the entire field marked by white lines.",
+                "B. The football field is made of artificial turf and marked with yellow lines for zones and goals.",
+                "C. The football field is brown, with faded markings only near the goals.",
+                "D. The football field is blue, with no clear markings for zones or goals."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_112": {
+            "id": "ByUONqA1IJY_112",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What visual elements are around the soccer field?",
+            "options": [
+                "A. There are advertising banners around the soccer field.",
+                "B. The soccer field is surrounded by empty stands.",
+                "C. The soccer field is surrounded by a dense forest.",
+                "D. There is a track around the soccer field, not spectators."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_113": {
+            "id": "ByUONqA1IJY_113",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many teams are shown participating in the football match on the field?",
+            "options": [
+                "A. One team",
+                "B. Two teams",
+                "C. Three teams",
+                "D. Four teams"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_114": {
+            "id": "ByUONqA1IJY_114",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "Can the FIFA logo be seen in this scene?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only in close-up shots",
+                "D. Only in wide-angle shots"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_115": {
+            "id": "ByUONqA1IJY_115",
+            "scene": 7,
+            "dimension": "Camera Direction",
+            "question": "What changes occur to the players as the camera moves?",
+            "options": [
+                "A. Most players in white start running, while players in blue mostly move slowly.",
+                "B. The teams switch positions, with the team in white moving to the left side of the field.",
+                "C. The team in blue occupies both halves of the field, pushing the team in white back to their goal area.",
+                "D. The player formations completely dissolve, and both teams prepare for halftime."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_116": {
+            "id": "ByUONqA1IJY_116",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens primarily dominated this sequence?",
+            "options": [
+                "A. High-angle, slightly tilted wide-angle lens",
+                "B. Close-up shots of individual players",
+                "C. Extreme close-up shots of the crowd",
+                "D. Low-angle shots taken from the sidelines"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_117": {
+            "id": "ByUONqA1IJY_117",
+            "scene": 7,
+            "dimension": "Camera Direction",
+            "question": "How does the camera move in this scene?",
+            "options": [
+                "A. The camera moves quickly and unstably.",
+                "B. The camera moves smoothly and steadily.",
+                "C. The camera moves slowly and irregularly.",
+                "D. The camera moves swiftly and shakes."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_118": {
+            "id": "ByUONqA1IJY_118",
+            "scene": 7,
+            "dimension": "Camera Direction",
+            "question": "What changes occur in the spatial view when the camera moves?",
+            "options": [
+                "A. The view expands to include more audience members, with those at the far end gradually disappearing from the frame.",
+                "B. The camera zooms in on individual players, focusing on close-up action scenes.",
+                "C. The direction shifts to the right, showing more of the audience on the right and moving the left side audience out of view.",
+                "D. The camera angle changes to a ground-level perspective, capturing the scene at the sidelines."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_119": {
+            "id": "ByUONqA1IJY_119",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "Where is the ball located after scoring a goal?",
+            "options": [
+                "A. The ball is located at the bottom right corner of the white net.",
+                "B. The ball is located at the top left corner of the white net.",
+                "C. The ball is located at the center of the white net.",
+                "D. The ball is located outside the goal near the penalty area."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_120": {
+            "id": "ByUONqA1IJY_120",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What information is displayed on the stadium banner?",
+            "options": [
+                "A. The information displayed on the banner includes 'Itau,' 'WISEUP.com' '#BRASILBEYOND,' and 'SAO PAULO.'",
+                "B. The information displayed on the banner includes 'Nike,' 'Adidas,' and 'RIO DE JANEIRO.'",
+                "C. The information displayed on the banner includes 'Coca-Cola,' 'Samsung,' and 'FLAMENGO.'",
+                "D. The information displayed on the banner includes 'Pepsi,' 'Microsoft,' and 'RECIFE.'"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_121": {
+            "id": "ByUONqA1IJY_121",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many different colors of jerseys appeared in this scene?",
+            "options": [
+                "A. Three colors appeared.",
+                "B. Four colors appeared.",
+                "C. Five colors appeared.",
+                "D. Six colors appeared."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_122": {
+            "id": "ByUONqA1IJY_122",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Did the goalkeeper in green block the shot?",
+            "options": [
+                "A. Yes, the goalkeeper made an incredible save.",
+                "B. No, the goalkeeper did not stop the ball from going in.",
+                "C. Yes, the goalkeeper deflected the ball out of bounds.",
+                "D. No, the shot completely missed the goal."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_123": {
+            "id": "ByUONqA1IJY_123",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "What position does the goalkeeper take before a shot?",
+            "options": [
+                "A. The goalkeeper bends down, ready to respond to the shot.",
+                "B. The goalkeeper jumps up to block the shot.",
+                "C. The goalkeeper runs towards the ball.",
+                "D. The goalkeeper stands straight waiting for the shot."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_124": {
+            "id": "ByUONqA1IJY_124",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "From the video, how is the soccer ball shot into the goal?",
+            "options": [
+                "A. The soccer ball is shot from the left side of the goal into the bottom right of the net.",
+                "B. The soccer ball is shot from the right side of the goal into the bottom left of the net.",
+                "C. The soccer ball is shot from directly in front of the goal into the bottom right of the net.",
+                "D. The soccer ball is shot by the player from directly in front into the bottom right of the net."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_125": {
+            "id": "ByUONqA1IJY_125",
+            "scene": 8,
+            "dimension": "Camera Direction",
+            "question": "How does the camera transition compared to the previous scene?",
+            "options": [
+                "A. The camera transitions from a high-angle view of the field to a low-angle focus on the action near the goal.",
+                "B. The camera remains at a high angle, continuously showing the entire field throughout the scene.",
+                "C. The camera moves from a low-angle view of the players to a high-angle panoramic view of the audience.",
+                "D. The camera starts with a close-up of the goalkeeper and then shifts to a high-angle view of the scoreboard."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_126": {
+            "id": "ByUONqA1IJY_126",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "What is the camera's perspective?",
+            "options": [
+                "A. The camera switches to the perspective behind the goal net.",
+                "B. The camera remains at a high angle to capture the entire field.",
+                "C. The camera turns to capture a close-up of the goalkeeper's reaction.",
+                "D. The camera focuses on a wide-angle view of the celebrating crowd."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_127": {
+            "id": "ByUONqA1IJY_127",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "Which perspective can highlight a specific goal?",
+            "options": [
+                "A. The perspective from behind the goal, showing the football in the net.",
+                "B. A high-angle view showing the entire field and the distant goal.",
+                "C. A close-up shot showing the moment before the attacking player shoots.",
+                "D. A side view showing both teams lined up, with the stands in the background."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_128": {
+            "id": "ByUONqA1IJY_128",
+            "scene": 8,
+            "dimension": "Speed",
+            "question": "After scoring a goal, does the pace of action slow down?",
+            "options": [
+                "A. Yes, the pace transitions to focusing on the outcome after the goal.",
+                "B. No, the action remains intense after the goal, continuing to focus on the players.",
+                "C. Yes, the goal is ignored, and the camera continues to follow individual players.",
+                "D. No, the pace accelerates as players compete for another scoring opportunity."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_129": {
+            "id": "ByUONqA1IJY_129",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "After scoring a goal, where does the attention shift?",
+            "options": [
+                "A. Attention shifts to the ball in the net.",
+                "B. Attention shifts to the goal scorer and his teammates.",
+                "C. Attention shifts to the goalkeeper retrieving the ball from the net.",
+                "D. Attention shifts to the cheers of the audience."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_130": {
+            "id": "ByUONqA1IJY_130",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "Where is the position of the referee holding the flag relative to the player?",
+            "options": [
+                "A. The referee is on the player's right side",
+                "B. The referee is on the player's left side",
+                "C. The referee is directly in front of the player",
+                "D. The referee does not appear in the scene"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_131": {
+            "id": "ByUONqA1IJY_131",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What text signs are visible on the electronic screen in this scene?",
+            "options": [
+                "A. Visible advertisements include 'Adidas' and a blue and white Nike logo.",
+                "B. Visible advertisements include 'Continental' and a red text sign.",
+                "C. Visible advertisements include 'Puma' and a red and white Coca-Cola logo.",
+                "D. Visible advertisements include 'Sony' and a blue and red Pepsi logo."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_132": {
+            "id": "ByUONqA1IJY_132",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "What are the characteristics of the referee?",
+            "options": [
+                "A. The referee wears a yellow jersey and black shorts.",
+                "B. The referee wears a black jersey and blue shorts.",
+                "C. The referee wears a yellow jersey and yellow shorts.",
+                "D. The referee wears a blue jersey and black shorts."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_133": {
+            "id": "ByUONqA1IJY_133",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "What accessory is the goal-scoring player wearing on their left hand?",
+            "options": [
+                "A. The player is wearing a black wristband on their left hand.",
+                "B. The player is wearing a watch on their left hand.",
+                "C. The player is not wearing any accessories on their left hand.",
+                "D. The player is wearing a black bracelet on their left hand."
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_134": {
+            "id": "ByUONqA1IJY_134",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "What color are the goal scorer's socks?",
+            "options": [
+                "A. White socks with red stripes",
+                "B. Black socks with blue stripes",
+                "C. Green socks with yellow stripes",
+                "D. Blue socks with white stripes"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_135": {
+            "id": "ByUONqA1IJY_135",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "What colors are on the patterns of the soccer ball?",
+            "options": [
+                "A. The soccer ball has turquoise and red.",
+                "B. The soccer ball has black and orange-yellow.",
+                "C. The soccer ball has light red and white.",
+                "D. The soccer ball has black and orange-yellow."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_136": {
+            "id": "ByUONqA1IJY_136",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "How many different text signs appear in this scene in total?",
+            "options": [
+                "A. Four",
+                "B. Five",
+                "C. Six",
+                "D. Seven"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_137": {
+            "id": "ByUONqA1IJY_137",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "Is the focus of the video on team coordination?",
+            "options": [
+                "A. Yes, the focus is on team coordination involving multiple players.",
+                "B. No, the focus of the video is on the critical actions of a single player.",
+                "C. Yes, the focus is evenly distributed among team members on both sides.",
+                "D. No, the focus is on the referee and their decisions."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_138": {
+            "id": "ByUONqA1IJY_138",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "Which body part does the player use to kick the ball?",
+            "options": [
+                "A. The player kicks the ball with their right leg.",
+                "B. The player kicks the ball with their left leg.",
+                "C. The player throws the ball with their hands.",
+                "D. The player hits the ball with their knee."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_139": {
+            "id": "ByUONqA1IJY_139",
+            "scene": 9,
+            "dimension": "Camera Direction",
+            "question": "How does the camera movement change when the player is preparing to hit the ball?",
+            "options": [
+                "A. The camera remains stationary and zooms in on the assistant referee.",
+                "B. The camera first takes a close-up of the player and the ball, then slightly moves the lens to track the ball.",
+                "C. The camera focuses entirely on the audience in the stands without changing the angle.",
+                "D. The camera zooms out to capture the entire field and the surrounding spectators."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_140": {
+            "id": "ByUONqA1IJY_140",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What visual elements establish the professional background and importance of the match?",
+            "options": [
+                "A. Players wearing cleats, a well-manicured field, and assistant referees holding flags",
+                "B. Players' light blue jerseys, checkered flags, and scattered spectators",
+                "C. A well-manicured green field, iconic FIFA text, and advertising banners displaying sponsors",
+                "D. Players' determination, the referee's bright yellow jersey, and red and yellow flags"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_141": {
+            "id": "ByUONqA1IJY_141",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "Where is the green goalkeeper positioned in the initial image relative to the scoring player?",
+            "options": [
+                "A. The soccer ball is on the player's right side.",
+                "B. The soccer ball is on the player's left side.",
+                "C. The soccer ball is directly in front of the player.",
+                "D. The distance between the soccer ball and the player is relatively far."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_142": {
+            "id": "ByUONqA1IJY_142",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "How is the body posture of a scoring player described when moving on the field?",
+            "options": [
+                "A. The player's knees are bent, and their arms are raised to maintain balance.",
+                "B. The player's legs are straight, and their arms hang down.",
+                "C. The player's arms are crossed, and their knees are locked.",
+                "D. The player has one leg extended and arms crossed."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_143": {
+            "id": "ByUONqA1IJY_143",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "How many players appear in the scene?",
+            "options": [
+                "A. Three",
+                "B. Four",
+                "C. Five",
+                "D. Six"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_144": {
+            "id": "ByUONqA1IJY_144",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "Which players appear in this scene?",
+            "options": [
+                "A. The player in the blue jersey, the player in the white jersey, and the goalkeeper in the green jersey.",
+                "B. The player in the blue jersey, the player in the white jersey advancing with the ball, and a nearby referee.",
+                "C. The player in the blue jersey and two defensive players positioned on either side of the goal.",
+                "D. The player in the blue jersey, the goalkeeper in the red uniform, and a substitute player."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_145": {
+            "id": "ByUONqA1IJY_145",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "Did the player wearing the white jersey successfully touch the ball before scoring?",
+            "options": [
+                "A. Yes, the player successfully touched the ball.",
+                "B. No, the player did not touch the ball.",
+                "C. Yes, but the touch was weak and did not significantly affect the ball's trajectory.",
+                "D. No, the ball had already completely entered the goal when the player arrived."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_146": {
+            "id": "ByUONqA1IJY_146",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the scoring player use to shoot?",
+            "options": [
+                "A. The player used their right leg to make a powerful shot.",
+                "B. The player stood upright and headed the ball.",
+                "C. The player extended their left leg to the side for a side kick.",
+                "D. The player performed a backflip and struck the ball with their foot."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_147": {
+            "id": "ByUONqA1IJY_147",
+            "scene": 10,
+            "dimension": "Object Direction",
+            "question": "From the video, in which direction is the goalkeeper blocking the ball?",
+            "options": [
+                "A. The goalkeeper is blocking the ball to the left.",
+                "B. The goalkeeper is blocking the ball to the right.",
+                "C. The goalkeeper is blocking the ball forward.",
+                "D. The goalkeeper is blocking the ball backward."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_148": {
+            "id": "ByUONqA1IJY_148",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "How can the fast pace of a football match be demonstrated through the players' movements?",
+            "options": [
+                "A. The fast pace is demonstrated through the players' powerful kicks and athletic skills.",
+                "B. The fast pace is demonstrated through the colors of the jerseys and billboards.",
+                "C. The fast pace is demonstrated through the camera angles focusing on the sidelines.",
+                "D. The fast pace is demonstrated through the commentary and the reactions of the audience in the background."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_149": {
+            "id": "ByUONqA1IJY_149",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "What is the venue of the match like?",
+            "options": [
+                "A. A quiet stadium with few advertisements and not many spectators.",
+                "B. A professional football match venue with staff and technical equipment.",
+                "C. A training ground where only players are practicing.",
+                "D. A desolate venue with no advertisements or personnel."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_150": {
+            "id": "ByUONqA1IJY_150",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "What action does the goalkeeper take to block the shot?",
+            "options": [
+                "A. The goalkeeper dives down to block the shot.",
+                "B. The goalkeeper slides his left foot on the ground and leans back to block the shot.",
+                "C. The goalkeeper jumps straight up to block the shot.",
+                "D. The goalkeeper stands still and raises both hands to block the shot."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_151": {
+            "id": "ByUONqA1IJY_151",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "What pose does the goalkeeper make at the end of the scene?",
+            "options": [
+                "A. The goalkeeper dives to the left.",
+                "B. The goalkeeper is half-lying, looking back.",
+                "C. The goalkeeper stands straight with hands on hips.",
+                "D. The goalkeeper jumps up to block the ball."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_152": {
+            "id": "ByUONqA1IJY_152",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "What happens when a soccer ball hits the net during a goal?",
+            "options": [
+                "A. The net visibly deforms due to the impact of the soccer ball, and the ball stays within the tightened hexagonal grid, confirming the goal.",
+                "B. The net remains unchanged, only the ball is caught in the grid, indicating a goal.",
+                "C. The net completely collapses, causing the soccer ball to roll out of the goal area.",
+                "D. The net bursts open, causing the soccer ball to fly out of the goal frame."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_153": {
+            "id": "ByUONqA1IJY_153",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "Is the attacking player wearing a sky blue jersey with the number '9' on it?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Sometimes",
+                "D. Not mentioned"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_154": {
+            "id": "ByUONqA1IJY_154",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "What does the attacking player do immediately after taking a shot?",
+            "options": [
+                "A. The attacking player raises both arms to celebrate victory.",
+                "B. The attacking player raises both arms in a running posture.",
+                "C. The attacking player turns to observe the goalkeeper's reaction.",
+                "D. The attacking player kneels on the ground in disappointment."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_155": {
+            "id": "ByUONqA1IJY_155",
+            "scene": 10,
+            "dimension": "Camera Direction",
+            "question": "How does the camera move after a goal?",
+            "options": [
+                "A. The camera follows the football, capturing the goal state.",
+                "B. The camera zooms in, focusing solely on the goalkeeper's reaction.",
+                "C. The camera is fixed on the goal to highlight the net deformation after the ball hits.",
+                "D. The camera switches to a new angle to capture the coach's reaction on the sidelines."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_156": {
+            "id": "ByUONqA1IJY_156",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "Can it be inferred how powerful the attacker's stroke is?",
+            "options": [
+                "A. The attacker's stroke is powerful, as seen from his forward momentum and the speed of the ball as it moves toward the net.",
+                "B. The attacker's stroke is weak because the ball hovers near the ground, lacking momentum.",
+                "C. The attacker's stroke is inaccurate, completely missing the goal and flying toward the sideline.",
+                "D. The attacker's stroke is hesitant, as observed from his posture and actions, showing a lack of confidence."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_157": {
+            "id": "ByUONqA1IJY_157",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "What happens after the ball hits the net?",
+            "options": [
+                "A. The net is torn.",
+                "B. The net is unaffected.",
+                "C. The net is visibly deformed.",
+                "D. The net falls to the ground."
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_158": {
+            "id": "ByUONqA1IJY_158",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "Where is the bold white 'FIFA' text located on the screen?",
+            "options": [
+                "A. In the top left corner of the screen.",
+                "B. In the bottom right corner of the screen.",
+                "C. In the center of the screen.",
+                "D. At the top center of the screen."
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_159": {
+            "id": "ByUONqA1IJY_159",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "What does the overall environment of the scene look like after the football match ends?",
+            "options": [
+                "A. A deep blue background with text displayed on the screen.",
+                "B. A brightly lit stadium with cheering spectators and vibrant colors.",
+                "C. A desert landscape with a colorful sunset in the background.",
+                "D. A bustling nighttime cityscape with flashing neon signs."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_160": {
+            "id": "ByUONqA1IJY_160",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "What are the football players doing in this scene?",
+            "options": [
+                "A. The players are continuing the match.",
+                "B. The players have completely disappeared from the screen.",
+                "C. The players are paused and motionless on the screen.",
+                "D. The players are hugging each other."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_161": {
+            "id": "ByUONqA1IJY_161",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "What happens to the vibrant crowd in this scene?",
+            "options": [
+                "A. They remain visible but become blurred.",
+                "B. They disappear completely from the video.",
+                "C. They become more animated.",
+                "D. They are transformed into text on the screen."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_162": {
+            "id": "ByUONqA1IJY_162",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "What is the 'FIFA' logo like in this scene?",
+            "options": [
+                "A. Bold white",
+                "B. Bold red",
+                "C. Bold blue",
+                "D. Bold green"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_163": {
+            "id": "ByUONqA1IJY_163",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "In the video, what symbols are next to the 'FIFA' logo?",
+            "options": [
+                "A. A symbol similar to '+' made up of small dots",
+                "B. Three stars combined into a circle",
+                "C. A symbol similar to '∷' made up of small dots",
+                "D. A prominent '÷' symbol"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_164": {
+            "id": "ByUONqA1IJY_164",
+            "scene": 11,
+            "dimension": "Count",
+            "question": "How many small white dots appear on the screen?",
+            "options": [
+                "A. Three small white dots",
+                "B. Four small white dots",
+                "C. Five small white dots",
+                "D. Six small white dots"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_165": {
+            "id": "ByUONqA1IJY_165",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "Will the background color of the video change dramatically in this scene?",
+            "options": [
+                "A. Yes, it turns into a vibrant red.",
+                "B. No, the background remains a consistent deep navy blue.",
+                "C. Yes, it turns into a vivid green.",
+                "D. Yes, it alternates between multiple vibrant colors."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_166": {
+            "id": "ByUONqA1IJY_166",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "As the video progresses, what happens to the 'Watch More On' text?",
+            "options": [
+                "A. The text gradually becomes clear, guiding the audience to notice the navigation options.",
+                "B. The text color changes and starts to blink to attract the audience's attention.",
+                "C. The text remains blurry throughout the entire video.",
+                "D. As new frames are introduced, the text disappears."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_167": {
+            "id": "ByUONqA1IJY_167",
+            "scene": 11,
+            "dimension": "Object Direction",
+            "question": "What changes will occur to the small white dot in the video?",
+            "options": [
+                "A. The small white dot rotates in place",
+                "B. The small white dot moves to the right side of the screen",
+                "C. The small white dot moves to the left side of the screen",
+                "D. The small white dot moves to the bottom of the screen"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_168": {
+            "id": "ByUONqA1IJY_168",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "What visual effects accompany the transitions between elements in the video?",
+            "options": [
+                "A. Elements enter and exit quickly and abruptly.",
+                "B. Elements slide in from both sides, adding dynamic effects.",
+                "C. Elements fade in and gradually blur out, presenting an animation effect.",
+                "D. Elements rotate, creating a rotational transition effect."
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_169": {
+            "id": "ByUONqA1IJY_169",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "What is the phrase on the left side of the screen?",
+            "options": [
+                "A. Explore More Content",
+                "B. Watch More On",
+                "C. Discover Next",
+                "D. Find More Options"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_170": {
+            "id": "ByUONqA1IJY_170",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What are the characteristics of the goalkeeper trying to block the goal?",
+            "options": [
+                "A. The goalkeeper is wearing a green jersey with the number '1', green shorts, and green socks.",
+                "B. The goalkeeper is wearing a white jersey with the number '5', white shorts, and white socks.",
+                "C. The goalkeeper is wearing a blue jersey with the number '9', black shorts, and black socks.",
+                "D. The goalkeeper is wearing a yellow jersey with the number '7', black shorts, and black socks."
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_171": {
+            "id": "ByUONqA1IJY_171",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What happens to the ball after the goalkeeper makes a save?",
+            "options": [
+                "A. The ball goes into the net.",
+                "B. The ball is caught by the goalkeeper.",
+                "C. The ball hits the post and bounces back.",
+                "D. The ball is blocked by a defender."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_172": {
+            "id": "ByUONqA1IJY_172",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What happens when a soccer player kicks the ball hard towards the goal?",
+            "options": [
+                "A. The ball goes into the net, confirming a goal.",
+                "B. The goalkeeper catches the ball, preventing a score.",
+                "C. The ball hits the crossbar and bounces out.",
+                "D. The ball is blocked by a defender."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_173": {
+            "id": "ByUONqA1IJY_173",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the reaction of the players and spectators after the goal is confirmed?",
+            "options": [
+                "A. The players and spectators react with great joy.",
+                "B. The players and spectators remain silent.",
+                "C. The players become excited, while the spectators boo.",
+                "D. The players and spectators immediately leave the stadium."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_174": {
+            "id": "ByUONqA1IJY_174",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What happened after the focus shifted from the players' celebration to the audience?",
+            "options": [
+                "A. The camera captured the audience's excitement and enthusiastic cheers.",
+                "B. The camera turned to the coach discussing strategy on the sidelines.",
+                "C. The camera focused on a player preparing to take a penalty kick.",
+                "D. The camera switched to show advertisements for the upcoming match."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_175": {
+            "id": "ByUONqA1IJY_175",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What emotions are conveyed while the team celebrates a goal?",
+            "options": [
+                "A. The celebration reflects joy, unity, and excitement.",
+                "B. The celebration reflects frustration, confusion, and disappointment.",
+                "C. The celebration reflects indifference, calmness, and neutrality.",
+                "D. The celebration reflects anger, hostility, and aggression."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_176": {
+            "id": "ByUONqA1IJY_176",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the FIFA logo appear in the video?",
+            "options": [
+                "A. The FIFA logo symbolizes the official and professional nature of the event.",
+                "B. The FIFA logo appears as a sponsorship advertisement for the local football club tournament.",
+                "C. The FIFA logo is displayed as part of a promotional campaign but is not related to any specific event.",
+                "D. The FIFA logo is purely decorative and has no connection to the competition."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_177": {
+            "id": "ByUONqA1IJY_177",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "Is 'FIFA' visible throughout the entire video scene?",
+            "options": [
+                "A. Yes, it is almost always visible in the video scene.",
+                "B. No, it is only visible in some scenes.",
+                "C. No, some scenes are blurry, making it difficult to determine.",
+                "D. No, it is never seen in the video scene."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_178": {
+            "id": "ByUONqA1IJY_178",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How does this scene reflect the commercial significance of the event?",
+            "options": [
+                "A. The visible electronic screens display text signs and brand logos, highlighting the commercial scale of the event.",
+                "B. The appearance of the 'FIFA+' logo indicates a focus on promoting FIFA's digital platform.",
+                "C. The deep blue background and simple transitions emphasize the artistic representation of the event.",
+                "D. The dramatic changes in visual effects showcase the emotional significance of the event, rather than its commercial aspect."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_179": {
+            "id": "ByUONqA1IJY_179",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What actions did the attacking player take during the goal-scoring process?",
+            "options": [
+                "A. The attacking player kicked the ball towards the goal.",
+                "B. The attacking player passed the ball to a teammate.",
+                "C. The attacking player dribbled the ball out of bounds.",
+                "D. The attacking player committed a foul against a defender before scoring."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_180": {
+            "id": "ByUONqA1IJY_180",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What did the goalkeeper do during the shot attempt?",
+            "options": [
+                "A. The goalkeeper blocked the ball.",
+                "B. The goalkeeper missed.",
+                "C. The goalkeeper kicked the ball away.",
+                "D. The goalkeeper stood still."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_181": {
+            "id": "ByUONqA1IJY_181",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What was the result of the shot?",
+            "options": [
+                "A. The ball went into the net.",
+                "B. The ball hit the post and bounced back.",
+                "C. The goalkeeper successfully blocked the ball.",
+                "D. The shot completely missed the target and went out of bounds."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_182": {
+            "id": "ByUONqA1IJY_182",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is the next scene after the goal at the beginning of the video?",
+            "options": [
+                "A. Players celebrating on the field.",
+                "B. The screen suddenly goes dark and shows the FIFA+ logo.",
+                "C. Replay of the goal from different angles.",
+                "D. Fans cheering in the stadium."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_183": {
+            "id": "ByUONqA1IJY_183",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "After the tense match scene, how does the video end?",
+            "options": [
+                "A. The video ends with a replay of the most exciting moment of the match.",
+                "B. The video transitions to a blue background screen displaying different text.",
+                "C. The video ends with interviews of players and fans.",
+                "D. The video shifts to a bright and colorful montage of upcoming matches and events."
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_184": {
+            "id": "ByUONqA1IJY_184",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why didn't the goalkeeper manage to stop the ball?",
+            "options": [
+                "A. The attacking player's powerful and precise shot exceeded the goalkeeper's best efforts.",
+                "B. The goalkeeper was distracted by the audience.",
+                "C. The ball deflected unexpectedly after touching the defender.",
+                "D. The goalkeeper slipped just before the ball reached him."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_185": {
+            "id": "ByUONqA1IJY_185",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why do players rush together during goal celebrations?",
+            "options": [
+                "A. Players rush together during goal celebrations to express their shared excitement and unity in celebrating the achievement.",
+                "B. Players rush together during goal celebrations to exchange jerseys.",
+                "C. Players rush together during goal celebrations to block the opposing team's view.",
+                "D. Players rush together during goal celebrations because the coach instructed them to do so."
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_186": {
+            "id": "ByUONqA1IJY_186",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the focus shift from the game to the audience after a shot?",
+            "options": [
+                "A. The focus shifts to highlight the collective excitement and celebration of the fans.",
+                "B. The focus shifts to emphasize the individual achievements of the players on the field after the game.",
+                "C. The focus shifts to showcase advertisements and sponsor banners for promotional purposes.",
+                "D. The focus shifts to transition to the upcoming match trailer."
+            ],
+            "answer": "A"
+        }
+    }
+}

@@ -1,0 +1,1433 @@
+{
+    "scene_hint": {
+        "0": "A blank screen with nothing on it.",
+        "1": "The screen shows 'WHAT IS AN INDEX?'.",
+        "2": "The screen shows index and other symbols.",
+        "3": "A girl appears on the screen, followed by many other elements.",
+        "4": "The screen shows index again.",
+        "5": "The screen shows the number 3.",
+        "6": "The screen shows DowJones and other symbols.",
+        "7": "The screen shows 'S&P 500' and other symbols.",
+        "8": "The screen shows 'NASDAQ' and other symbols.",
+        "9": "The screen shows index and a line of text."
+    },
+    "qa": {
+        "EQ-67udZEeg_0": {
+            "id": "EQ-67udZEeg_0",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is there any recognizable content in the image?",
+            "options": [
+                "A. There is text",
+                "B. No",
+                "C. There are people",
+                "D. There are patterns"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_1": {
+            "id": "EQ-67udZEeg_1",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What is the first symbol to appear in the scene?",
+            "options": [
+                "A. 'WHAT IS AN INDEX?'",
+                "B. The symbol on the dark gray block",
+                "C. 'WALL STREET SURVIVOR'",
+                "D. Character roles"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_2": {
+            "id": "EQ-67udZEeg_2",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene mainly take place?",
+            "options": [
+                "A. In an outdoor park setting.",
+                "B. In an indoor arena.",
+                "C. In a busy office environment.",
+                "D. Against a solid color background."
+            ],
+            "answer": "D"
+        },
+        "EQ-67udZEeg_3": {
+            "id": "EQ-67udZEeg_3",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What kind of texture does the rectangle have in its design?",
+            "options": [
+                "A. The rectangle has a granular texture.",
+                "B. The rectangle has a smooth texture.",
+                "C. The rectangle has a reflective texture.",
+                "D. The rectangle has a shiny texture."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_4": {
+            "id": "EQ-67udZEeg_4",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What markings are on the block?",
+            "options": [
+                "A. A back-and-forth bending arrow.",
+                "B. A small red circle.",
+                "C. A thin yellow stripe.",
+                "D. A blue star marking."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_5": {
+            "id": "EQ-67udZEeg_5",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Does the scene depict any humans?",
+            "options": [
+                "A. A humanoid monster is depicted",
+                "B. No humans are depicted",
+                "C. Only one human is depicted",
+                "D. Multiple humans are depicted"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_6": {
+            "id": "EQ-67udZEeg_6",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What text appears next to the square?",
+            "options": [
+                "A. 'WALL STREET SURVIVOR'.",
+                "B. 'STOCK MARKET GUIDE'.",
+                "C. 'FINANCIAL ADVISOR'.",
+                "D. 'INVESTMENT TIPS'."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_7": {
+            "id": "EQ-67udZEeg_7",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What does the text 'WALL STREET SURVIVOR' look like?",
+            "options": [
+                "A. The text is bold, sans-serif, all uppercase letters.",
+                "B. The text is italic, serif, lowercase letters.",
+                "C. The text is bold, cursive, uppercase letters.",
+                "D. The text is thin, sans-serif, lowercase letters."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_8": {
+            "id": "EQ-67udZEeg_8",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Is the background of the scene visually cluttered?",
+            "options": [
+                "A. Yes, the background is chaotic.",
+                "B. No, the background is simple.",
+                "C. Yes, the background has many details and patterns.",
+                "D. No, the background is filled with abstract artwork."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_9": {
+            "id": "EQ-67udZEeg_9",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Where is the position of the word 'INDEX' in the frame?",
+            "options": [
+                "A. The word 'INDEX' is located at the top center of the frame.",
+                "B. The word 'INDEX' is located at the bottom left corner of the frame.",
+                "C. The word 'INDEX' is located at the center of the frame.",
+                "D. The word 'INDEX' is located at the top right corner of the frame."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_10": {
+            "id": "EQ-67udZEeg_10",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene?",
+            "options": [
+                "A. The background is a light gray gradient.",
+                "B. The background is a blue swirl.",
+                "C. The background is a red striped pattern.",
+                "D. The background is a checkerboard design."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_11": {
+            "id": "EQ-67udZEeg_11",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What is the color of the word 'INDEX'?",
+            "options": [
+                "A. The word 'INDEX' is filled with light purple.",
+                "B. The word 'INDEX' is filled with bright green.",
+                "C. The word 'INDEX' is filled with yellow.",
+                "D. The word 'INDEX' is filled with red."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_12": {
+            "id": "EQ-67udZEeg_12",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the style of the word “INDEX”?",
+            "options": [
+                "A. The word “INDEX” is designed in uppercase.",
+                "B. The word “INDEX” has a dark blue outline.",
+                "C. The word “INDEX” is designed in mixed case.",
+                "D. The word “INDEX” is presented in lowercase."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_13": {
+            "id": "EQ-67udZEeg_13",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many words are prominently displayed in the scene?",
+            "options": [
+                "A. Three",
+                "B. Four",
+                "C. Five",
+                "D. Two"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_14": {
+            "id": "EQ-67udZEeg_14",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What are the prominent text elements displayed in the scene?",
+            "options": [
+                "A. 'INDEX,' 'QUICK,' '+,' and 'EASY.'",
+                "B. 'INDEX,' 'FAST,' '+,' and 'SIMPLE.'",
+                "C. 'INDEX,' 'QUICK,' '*,' and 'EASY.'",
+                "D. 'SECTION,' 'QUICK,' '+,' and 'EFFICIENT.'"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_15": {
+            "id": "EQ-67udZEeg_15",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "What has been added to the scene?",
+            "options": [
+                "A. The word 'HARD' has been added directly below the '+' symbol.",
+                "B. The word 'EASY' has been added directly below the '+' symbol.",
+                "C. The word 'INDEX' has been added directly below the '+' symbol.",
+                "D. The word 'QUICK' has been added directly below the '+' symbol."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_16": {
+            "id": "EQ-67udZEeg_16",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "What camera angle is used in the scene?",
+            "options": [
+                "A. Fixed camera angle.",
+                "B. Rotating camera angle.",
+                "C. Zooming camera angle.",
+                "D. Panning camera angle."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_17": {
+            "id": "EQ-67udZEeg_17",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the newly introduced text attribute in the framework?",
+            "options": [
+                "A. 'EASY' filled with green.",
+                "B. 'EASY' filled with light yellow.",
+                "C. 'QUICK,' filled with green.",
+                "D. 'QUICK,' filled with light blue."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_18": {
+            "id": "EQ-67udZEeg_18",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What border is used around the text?",
+            "options": [
+                "A. Black border",
+                "B. White border",
+                "C. Light purple border",
+                "D. Red border"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_19": {
+            "id": "EQ-67udZEeg_19",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the little girl positioned in the picture?",
+            "options": [
+                "A. The little girl is on the right side of the picture.",
+                "B. The little girl is in the center of the picture.",
+                "C. The little girl is on the left side of the picture.",
+                "D. The little girl is in the background of the picture."
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_20": {
+            "id": "EQ-67udZEeg_20",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the position of the bar chart relative to the little girl in the image?",
+            "options": [
+                "A. The bar chart appears to the left of the little girl.",
+                "B. The bar chart appears directly above the little girl.",
+                "C. The bar chart appears to the right of the little girl.",
+                "D. The bar chart appears below the little girl."
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_21": {
+            "id": "EQ-67udZEeg_21",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the scene?",
+            "options": [
+                "A. Bright outdoor scene.",
+                "B. Dark, ominous background.",
+                "C. Gray gradient background.",
+                "D. Colorful forest."
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_22": {
+            "id": "EQ-67udZEeg_22",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the visual style of this scene?",
+            "options": [
+                "A. Dark visual style.",
+                "B. Children's hand-drawn style.",
+                "C. Realistic visual style.",
+                "D. Cyberpunk style."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_23": {
+            "id": "EQ-67udZEeg_23",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the young girl wearing at the end of the scene?",
+            "options": [
+                "A. A white T-shirt and a yellow skirt.",
+                "B. A blue T-shirt and light cyan pants.",
+                "C. A white T-shirt and a light cyan skirt.",
+                "D. A blue T-shirt and a yellow dress."
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_24": {
+            "id": "EQ-67udZEeg_24",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "When punctuation marks appear above the little girl's head, what posture is she holding?",
+            "options": [
+                "A. She is holding a thoughtful posture.",
+                "B. She is excitedly waving her hand in the air.",
+                "C. She is pointing at the bar chart with her left hand.",
+                "D. She is placing her hands together in front of her."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_25": {
+            "id": "EQ-67udZEeg_25",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What punctuation mark is shown above the young girl's head?",
+            "options": [
+                "A. A question mark.",
+                "B. Three question marks.",
+                "C. An exclamation mark.",
+                "D. Three exclamation marks."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_26": {
+            "id": "EQ-67udZEeg_26",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many bars are displayed in the bar chart?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_27": {
+            "id": "EQ-67udZEeg_27",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What labels are on the bar chart?",
+            "options": [
+                "A. 'MATT', 'AMY', and 'JESS'.",
+                "B. 'JOHN', 'LUCY', and 'ELLA'.",
+                "C. 'TOM', 'KATE', and 'SOPHIA'.",
+                "D. 'SAM', 'LILA', and 'NOAH'."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_28": {
+            "id": "EQ-67udZEeg_28",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Does the bar chart for 'JESS' have a value?",
+            "options": [
+                "A. Yes, the bar chart for 'JESS' has a value of 150.",
+                "B. No, the bar chart for 'JESS' shows '??'.",
+                "C. Yes, the value of the bar chart for 'JESS' is the highest.",
+                "D. No, the bar chart for 'JESS' is empty."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_29": {
+            "id": "EQ-67udZEeg_29",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "What is the count of 'MATT' in the bar chart?",
+            "options": [
+                "A. The count of 'MATT' is '201'.",
+                "B. The count of 'MATT' is '122'.",
+                "C. The count of 'MATT' is '??'.",
+                "D. The count of 'MATT' is '150'."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_30": {
+            "id": "EQ-67udZEeg_30",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What is the quantity of 'AMY' shown in the bar chart?",
+            "options": [
+                "A. The quantity of 'AMY' is '201'.",
+                "B. The quantity of 'AMY' is '98'.",
+                "C. The quantity of 'AMY' is '122'.",
+                "D. The quantity of 'AMY' is '??'."
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_31": {
+            "id": "EQ-67udZEeg_31",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "What type of camera angle is used in the scene?",
+            "options": [
+                "A. The scene uses a fixed camera angle.",
+                "B. The scene uses a rotating camera angle.",
+                "C. The scene uses a panning camera angle.",
+                "D. The scene uses a zooming camera angle."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_32": {
+            "id": "EQ-67udZEeg_32",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "Is the background consistent?",
+            "options": [
+                "A. Yes, the background is consistent.",
+                "B. No, the background has been replaced with a vibrant pattern.",
+                "C. No, the background has been enhanced with some new colors.",
+                "D. No, the background has been replaced with a white background."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_33": {
+            "id": "EQ-67udZEeg_33",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the young girl positioned relative to the background?",
+            "options": [
+                "A. She is slightly to the right.",
+                "B. She is exactly in the center of the background.",
+                "C. She is slightly to the left.",
+                "D. She is at the far left edge of the background."
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_34": {
+            "id": "EQ-67udZEeg_34",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of this scene?",
+            "options": [
+                "A. This scene has an urban environment.",
+                "B. This scene has a minimalist and neutral environment.",
+                "C. This scene takes place in a park.",
+                "D. This environment is a room."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_35": {
+            "id": "EQ-67udZEeg_35",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What does the little girl in this picture look like?",
+            "options": [
+                "A. The little girl has light brown wavy hair.",
+                "B. The little girl has dark brown curly hair.",
+                "C. The little girl has black straight hair.",
+                "D. The little girl has golden wavy hair."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_36": {
+            "id": "EQ-67udZEeg_36",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is written at the top of the girl's T-shirt?",
+            "options": [
+                "A. The text at the top of the girl's T-shirt is 'VOTE'.",
+                "B. The text at the top of the girl's T-shirt is 'LOVE'.",
+                "C. The text at the top of the girl's T-shirt is 'HOPE'.",
+                "D. The text at the top of the girl's T-shirt is 'GROVE'."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_37": {
+            "id": "EQ-67udZEeg_37",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many numbers can be seen on the girl's outfit?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. None"
+            ],
+            "answer": "D"
+        },
+        "EQ-67udZEeg_38": {
+            "id": "EQ-67udZEeg_38",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "What change occurred in the girl's position on the screen?",
+            "options": [
+                "A. She moved slightly to the right.",
+                "B. Her position has hardly changed.",
+                "C. She moved to the far left.",
+                "D. She disappeared from the screen."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_39": {
+            "id": "EQ-67udZEeg_39",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred to the girl's T-shirt between scene changes?",
+            "options": [
+                "A. The text on the T-shirt changed from 'MOVE' to 'STYLE'.",
+                "B. The color of the T-shirt changed from white to gray.",
+                "C. The color on her T-shirt changed from pink to white.",
+                "D. The girl ended up wearing a jacket."
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_40": {
+            "id": "EQ-67udZEeg_40",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Where is the text 'INDEX' located in the scene?",
+            "options": [
+                "A. At the top center of the screen",
+                "B. At the bottom right corner of the screen",
+                "C. In the middle of the screen",
+                "D. At the top left corner of the screen"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_41": {
+            "id": "EQ-67udZEeg_41",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What type of background appears in the entire scene?",
+            "options": [
+                "A. Light gray background",
+                "B. Cartoon style background",
+                "C. Blue and white background",
+                "D. Textured wooden background"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_42": {
+            "id": "EQ-67udZEeg_42",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What does the rectangular illustration below the text 'INDEX' look like?",
+            "options": [
+                "A. The illustration looks like a picture frame.",
+                "B. The illustration looks like a book.",
+                "C. The illustration looks like a fence.",
+                "D. The illustration looks like a gate."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_43": {
+            "id": "EQ-67udZEeg_43",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "How are the rectangular illustrations arranged below the text 'INDEX'?",
+            "options": [
+                "A. The illustrations are arranged in a straight line.",
+                "B. The illustrations are arranged at a slightly tilted angle.",
+                "C. The illustrations are stacked completely vertically.",
+                "D. The illustrations are randomly distributed within the frame."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_44": {
+            "id": "EQ-67udZEeg_44",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many rectangular illustrations are introduced below the 'INDEX' text?",
+            "options": [
+                "A. Three rectangular illustrations",
+                "B. Four rectangular illustrations",
+                "C. Five rectangular illustrations",
+                "D. Two rectangular illustrations"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_45": {
+            "id": "EQ-67udZEeg_45",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "Will the word 'INDEX' change?",
+            "options": [
+                "A. Yes, the content of 'INDEX' will change.",
+                "B. No, the structure of 'INDEX' remains unchanged.",
+                "C. Yes, the font type of 'INDEX' will change.",
+                "D. No, 'INDEX' has disappeared."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_46": {
+            "id": "EQ-67udZEeg_46",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "Will the position of the word 'INDEX' change?",
+            "options": [
+                "A. Yes, 'INDEX' will move to the left edge.",
+                "B. No, the position of 'INDEX' remains unchanged.",
+                "C. Yes, when enlarged, 'INDEX' will move to the center.",
+                "D. When enlarged, 'INDEX' will disappear."
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_47": {
+            "id": "EQ-67udZEeg_47",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What happens to the word 'INDEX' during the zoom effect?",
+            "options": [
+                "A. It shrinks and becomes less visible.",
+                "B. It changes color and disappears.",
+                "C. It significantly expands and occupies more of the screen.",
+                "D. It first significantly expands and occupies more of the screen, then shrinks to become invisible."
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_48": {
+            "id": "EQ-67udZEeg_48",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "Which direction does the magnifying glass handle move?",
+            "options": [
+                "A. The handle moves diagonally to the bottom-right.",
+                "B. The handle moves diagonally to the bottom-left.",
+                "C. The handle moves vertically upwards.",
+                "D. The handle moves horizontally to the right."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_49": {
+            "id": "EQ-67udZEeg_49",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "How does the magnifying glass appear?",
+            "options": [
+                "A. It suddenly appears in the scene.",
+                "B. It slides into the scene from the bottom of the screen.",
+                "C. It suddenly pops into the scene.",
+                "D. It slides horizontally into the scene."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_50": {
+            "id": "EQ-67udZEeg_50",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "After the magnifying glass disappears, where is the position of the word 'INDEX' relative to the frame?",
+            "options": [
+                "A. The word 'INDEX' is at the top center of the frame.",
+                "B. The word 'INDEX' is at the bottom left corner of the frame.",
+                "C. The word 'INDEX' is at the middle right of the frame.",
+                "D. The word 'INDEX' is at the bottom center of the frame."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_51": {
+            "id": "EQ-67udZEeg_51",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the background like in the scene?",
+            "options": [
+                "A. A bright pink background",
+                "B. A deep blue gradient background",
+                "C. A light gray gradient background",
+                "D. A black and white striped background"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_52": {
+            "id": "EQ-67udZEeg_52",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Are there real human characters in the scene?",
+            "options": [
+                "A. Yes, there are several real human characters in the video.",
+                "B. Yes, there is one real human character in the video.",
+                "C. No, there are no real human characters in the video.",
+                "D. No, there are only humanoid monster characters in the video."
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_53": {
+            "id": "EQ-67udZEeg_53",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What is the main visual attribute of the number '3' at the center of the composition?",
+            "options": [
+                "A. The number '3' is pink and black.",
+                "B. The number '3' is black.",
+                "C. The number '3' is neon green and blue.",
+                "D. The number '3' is pure white."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_54": {
+            "id": "EQ-67udZEeg_54",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What text elements are introduced in the scene?",
+            "options": [
+                "A. The number '3', 'DOWJONES' and 'S&P 500'.",
+                "B. The number '3', no other labels.",
+                "C. The number '3', labels 'NASDAQ' and 'FTSE 100'.",
+                "D. The number '3' and label 'DOW JONES'."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_55": {
+            "id": "EQ-67udZEeg_55",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "How does the number '3' change relative to the observer at the beginning of the scene?",
+            "options": [
+                "A. The number '3' enters the scene as the image zooms in.",
+                "B. The number '3' remains stationary.",
+                "C. The number '3' moves backward.",
+                "D. The number '3' rotates while maintaining its size."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_56": {
+            "id": "EQ-67udZEeg_56",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "Which type of lens is used to highlight the number '3' and text elements?",
+            "options": [
+                "A. A clear, focused lens.",
+                "B. A cluttered, chaotic lens.",
+                "C. A defocused lens.",
+                "D. A dark, shadowy lens."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_57": {
+            "id": "EQ-67udZEeg_57",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What is the initial focus of the scene?",
+            "options": [
+                "A. The number '3'.",
+                "B. The word 'INDEX'.",
+                "C. Magnifying glass.",
+                "D. 'S&P 500' logo."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_58": {
+            "id": "EQ-67udZEeg_58",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What visual elements are used in the composition?",
+            "options": [
+                "A. 'DOW JONES' logo, 'S&P 500' label.",
+                "B. The number '3' and 'INDEX'.",
+                "C. Magnifying glass, and the number '3'.",
+                "D. 'INDEX', 'S&P 500' label."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_59": {
+            "id": "EQ-67udZEeg_59",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "Where is the position of the 'S&P 500' text on the screen?",
+            "options": [
+                "A. The 'S&P 500' text is located at the bottom center of the composition.",
+                "B. The 'S&P 500' text is located at the top left corner of the composition.",
+                "C. The 'S&P 500' text is located at the top center of the composition.",
+                "D. The 'S&P 500' text is located on the right side of the composition."
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_60": {
+            "id": "EQ-67udZEeg_60",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What themes are maintained in the framework?",
+            "options": [
+                "A. The themes maintained in the framework are finance and corporate style.",
+                "B. The themes maintained in the framework are nature and wildlife.",
+                "C. The themes maintained in the framework are family and kitchenware.",
+                "D. The themes maintained in the framework are science and technology."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_61": {
+            "id": "EQ-67udZEeg_61",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What do these frameworks look like overall?",
+            "options": [
+                "A. Consistent and minimalist.",
+                "B. Chaotic and cluttered.",
+                "C. Vibrant and maximalist.",
+                "D. Monochrome and dull."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_62": {
+            "id": "EQ-67udZEeg_62",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What visual dynamic element was added to the right side of the screen?",
+            "options": [
+                "A. A dynamic statistical line chart.",
+                "B. A bright red indicator.",
+                "C. A clock displaying financial data.",
+                "D. A chart with an upward arrow."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_63": {
+            "id": "EQ-67udZEeg_63",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "In the first scene, how many signs appear on the right side of the frame?",
+            "options": [
+                "A. Describes two signs.",
+                "B. Describes three signs.",
+                "C. Describes four signs.",
+                "D. Describes five signs."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_64": {
+            "id": "EQ-67udZEeg_64",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What logos are described in the scene on the right side of the screen?",
+            "options": [
+                "A. 'Ford', 'Visa','FedEx'",
+                "B. 'Tesla', 'MasterCard','DHL'",
+                "C. 'Ford', 'MasterCard', 'UPS'",
+                "D. 'Toyota', 'Visa', 'Amazon'"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_65": {
+            "id": "EQ-67udZEeg_65",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Is the Ford logo located at the bottom of the right column of the frame?",
+            "options": [
+                "A. Yes, the Ford logo is located at the bottom of the right column.",
+                "B. No, the Ford logo is above VISA.",
+                "C. No, the Ford logo is located at the top center.",
+                "D. No, there is no Ford logo in the frame."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_66": {
+            "id": "EQ-67udZEeg_66",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "How are the signs arranged?",
+            "options": [
+                "A. The signs are neatly arranged in zones.",
+                "B. The signs are arranged horizontally at the bottom of the frame.",
+                "C. The signs are randomly scattered within the frame.",
+                "D. The signs are concentrated in the center of the frame."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_67": {
+            "id": "EQ-67udZEeg_67",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What changes have been made to the brand logo within the frame?",
+            "options": [
+                "A. Added a new logo.",
+                "B. Remains unchanged.",
+                "C. Reduced the number of logos.",
+                "D. No brand logo at all."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_68": {
+            "id": "EQ-67udZEeg_68",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the main scene of the picture?",
+            "options": [
+                "A. Light gray background with various other symbols.",
+                "B. Dark background with various other symbols.",
+                "C. Dynamic animation of various stock indices.",
+                "D. Close-up view of a company meeting room."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_69": {
+            "id": "EQ-67udZEeg_69",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What kind of clothes is the hand-drawn person wearing?",
+            "options": [
+                "A. The hand-drawn person is wearing a gray suit.",
+                "B. The hand-drawn person is wearing a black suit.",
+                "C. The hand-drawn person is wearing a white suit.",
+                "D. The hand-drawn person is wearing a blue suit."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_70": {
+            "id": "EQ-67udZEeg_70",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the hair color of the hand-drawn man?",
+            "options": [
+                "A. Blonde",
+                "B. Orange-Brown",
+                "C. Black",
+                "D. Gray"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_71": {
+            "id": "EQ-67udZEeg_71",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the pose of the hand-drawn character?",
+            "options": [
+                "A. The hand-drawn character is standing upright with arms naturally hanging down.",
+                "B. The hand-drawn character is sitting with arms crossed.",
+                "C. The hand-drawn character is leaning forward with one hand raised.",
+                "D. The hand-drawn character is lying down with arms crossed."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_72": {
+            "id": "EQ-67udZEeg_72",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What is the original style of the 'S&P 500' text?",
+            "options": [
+                "A. Large three-dimensional gray and white letters",
+                "B. Flat white letters",
+                "C. Hand-drawn black letters",
+                "D. Large golden letters"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_73": {
+            "id": "EQ-67udZEeg_73",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many company logos are shown in the first scene?",
+            "options": [
+                "A. Two company logos",
+                "B. Three company logos",
+                "C. Four company logos",
+                "D. Five company logos"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_74": {
+            "id": "EQ-67udZEeg_74",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "Which company logos were initially shown in the footage?",
+            "options": [
+                "A. Ford, Visa, UPS.",
+                "B. Ford, Visa, FedEx.",
+                "C. Ford, Mastercard, FedEx.",
+                "D. Toyota, Visa, FedEx."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_75": {
+            "id": "EQ-67udZEeg_75",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "Will the background color change?",
+            "options": [
+                "A. Yes, it changes from light gray to dark gray.",
+                "B. No, the background remains consistently light gray.",
+                "C. Yes, it changes from light gray to blue.",
+                "D. Yes, it changes from light gray to white."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_76": {
+            "id": "EQ-67udZEeg_76",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "What happens to the company logo during the screen transition?",
+            "options": [
+                "A. The company logo disappears.",
+                "B. The company logo enlarges.",
+                "C. The company logo changes color.",
+                "D. The company logo moves to the bottom of the screen."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_77": {
+            "id": "EQ-67udZEeg_77",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "Where does the number '500' initially appear on the screen?",
+            "options": [
+                "A. The number '500' appears on the left side of the screen.",
+                "B. The number '500' appears at the bottom center of the screen.",
+                "C. The number '500' appears on the right side of the screen.",
+                "D. The number '500' appears at the top center of the screen."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_78": {
+            "id": "EQ-67udZEeg_78",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the new scene after transitioning from the company logo?",
+            "options": [
+                "A. A cartoon character appeared in the scene.",
+                "B. A bar chart appeared in the scene.",
+                "C. A magnifying glass appeared in the scene.",
+                "D. A building appeared in the scene."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_79": {
+            "id": "EQ-67udZEeg_79",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "What type of camera perspective is used in the scene?",
+            "options": [
+                "A. A direct and consistent camera perspective is used.",
+                "B. A dynamic and constantly changing camera perspective is used.",
+                "C. A high-angle camera perspective is used.",
+                "D. Close-up and zoom camera perspectives are used."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_80": {
+            "id": "EQ-67udZEeg_80",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "In the scene, where is the 'S&P 500' text located relative to the illustration of the man?",
+            "options": [
+                "A. The 'S&P 500' text is above, and the man in the illustration is below it.",
+                "B. The 'S&P 500' text is below, and the man in the illustration is above it.",
+                "C. The 'S&P 500' text is to the left of the man in the illustration.",
+                "D. The 'S&P 500' text is to the right of the man in the illustration."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_81": {
+            "id": "EQ-67udZEeg_81",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the scene after the text and illustrations disappear?",
+            "options": [
+                "A. The scene becomes completely blank with a light gray background.",
+                "B. The scene transitions to a cityscape.",
+                "C. The scene shows a colorful abstract design.",
+                "D. The scene becomes dark with a black background."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_82": {
+            "id": "EQ-67udZEeg_82",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "Where is the position of the 'NASDAQ' text on the screen?",
+            "options": [
+                "A. The 'NASDAQ' text is located at the top center of the screen.",
+                "B. The 'NASDAQ' text is located at the bottom center of the screen.",
+                "C. The 'NASDAQ' text is located at the top left corner of the screen.",
+                "D. The 'NASDAQ' text is located at the center of the screen."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_83": {
+            "id": "EQ-67udZEeg_83",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the entire scene?",
+            "options": [
+                "A. A light gray gradient background.",
+                "B. A dark blue textured background.",
+                "C. A pure white background.",
+                "D. A colorful mosaic background."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_84": {
+            "id": "EQ-67udZEeg_84",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What is the color of the number '3,000' in the scene?",
+            "options": [
+                "A. The number '3,000' is in red font.",
+                "B. The number '3,000' is in dark green font.",
+                "C. The number '3,000' is in blue font.",
+                "D. The number '3,000' is in black font."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_85": {
+            "id": "EQ-67udZEeg_85",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "How is the number '3,000' designed in the scene?",
+            "options": [
+                "A. The number '3,000' is in bold with a black outline.",
+                "B. The number '3,000' is in bold hand-drawn style with a textured pattern and a white outline.",
+                "C. The number '3,000' is in bold serif with a yellow outline.",
+                "D. The number '3,000' is in a thin italic style with no outline."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_86": {
+            "id": "EQ-67udZEeg_86",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many company logos appear in this scene?",
+            "options": [
+                "A. Two company logos",
+                "B. Three company logos",
+                "C. Four company logos",
+                "D. Five company logos"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_87": {
+            "id": "EQ-67udZEeg_87",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "Which company logos are introduced in this scene?",
+            "options": [
+                "A. Google, Adobe, EA.",
+                "B. Google, Microsoft, EA.",
+                "C. Adobe, Microsoft, Amazon.",
+                "D. Google, Amazon, Adobe."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_88": {
+            "id": "EQ-67udZEeg_88",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "Is the 'Google' logo located to the left of the number '3,000'?",
+            "options": [
+                "A. Yes, the 'Google' logo is located to the left of the number '3,000'.",
+                "B. No, the 'Google' logo is located to the right of the number '3,000'.",
+                "C. No, the 'Google' logo is directly below the number '3,000'.",
+                "D. No, the 'Google' logo does not appear in the scene."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_89": {
+            "id": "EQ-67udZEeg_89",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "Where is the 'Adobe' logo added?",
+            "options": [
+                "A. The 'Adobe' logo is integrated below the 'Google' logo.",
+                "B. The 'Adobe' logo is placed above the 'Google' logo.",
+                "C. The 'Adobe' logo replaces the 'Google' logo.",
+                "D. The 'Adobe' logo is added to the left side of the 'Google' logo."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_90": {
+            "id": "EQ-67udZEeg_90",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "Where is the 'Electronic Arts' logo placed?",
+            "options": [
+                "A. The 'Electronic Arts' logo is integrated below the 'Google' logo and slightly to the right.",
+                "B. The 'Electronic Arts' logo is placed above the 'Google' logo.",
+                "C. The 'Electronic Arts' logo is introduced to the left of 'NASDAQ'.",
+                "D. The 'Electronic Arts' logo replaced the 'Adobe' logo."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_91": {
+            "id": "EQ-67udZEeg_91",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in the scene?",
+            "options": [
+                "A. A centered and stable camera angle is used.",
+                "B. A tilted and dynamic camera angle is used.",
+                "C. A shaky handheld camera angle is used.",
+                "D. A wide-angle panoramic camera angle is used."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_92": {
+            "id": "EQ-67udZEeg_92",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "Where is the 'INDEX' text located in the frame?",
+            "options": [
+                "A. The 'INDEX' text is located at the top of the frame.",
+                "B. The 'INDEX' text is located at the bottom center of the frame.",
+                "C. The 'INDEX' text is located slightly above the center of the frame.",
+                "D. The 'INDEX' text is located at the top right corner of the frame."
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_93": {
+            "id": "EQ-67udZEeg_93",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What is the color of the text 'INDEX'?",
+            "options": [
+                "A. The text 'INDEX' is purple.",
+                "B. The text 'INDEX' is green.",
+                "C. The text 'INDEX' is red.",
+                "D. The text 'INDEX' is blue."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_94": {
+            "id": "EQ-67udZEeg_94",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What is the font style of the 'INDEX' text?",
+            "options": [
+                "A. The 'INDEX' text is in bold uppercase letters.",
+                "B. The 'INDEX' text is in streamlined italics.",
+                "C. The 'INDEX' text is in bold lowercase letters.",
+                "D. The 'INDEX' text is in serif font."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_95": {
+            "id": "EQ-67udZEeg_95",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "How many text elements are in the final scene image?",
+            "options": [
+                "A. One text element",
+                "B. Two text elements",
+                "C. Three text elements",
+                "D. Four text elements"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_96": {
+            "id": "EQ-67udZEeg_96",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What are the text elements in the scene?",
+            "options": [
+                "A. 'NASDAQ', 'GOOGLE'.",
+                "B. '3,000', 'ELECTRONIC ARTS'.",
+                "C. 'INDEX', 'WALLSTREETSURVIVOR.COM'.",
+                "D. 'ADOBE', 'INDEX'."
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_97": {
+            "id": "EQ-67udZEeg_97",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "Is there animation for text elements in the scene?",
+            "options": [
+                "A. Yes, the text elements appear dynamically.",
+                "B. No, the text elements have no animation effects.",
+                "C. Yes, there is dynamic interaction between text elements.",
+                "D. Yes, the positions of the text elements change frequently."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_98": {
+            "id": "EQ-67udZEeg_98",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "At the end of the scene, did the visual elements or their layout change?",
+            "options": [
+                "A. Yes, the visual elements and their layout changed significantly.",
+                "B. No, the visual elements and their layout did not change.",
+                "C. Yes, the background color changed.",
+                "D. Yes, the URL disappeared, but the main text remained unchanged."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_99": {
+            "id": "EQ-67udZEeg_99",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What effect does the 'INDEX' text have?",
+            "options": [
+                "A. Projection effect",
+                "B. Gradient overlay",
+                "C. Emboss effect",
+                "D. Reflection effect"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_100": {
+            "id": "EQ-67udZEeg_100",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the first text element that appears in the scene?",
+            "options": [
+                "A. “WHAT IS AN INDEX?”.",
+                "B. 'Google', 'Adobe', and 'Electronic Arts'.",
+                "C. “NASDAQ INDEX”.",
+                "D. “INDEX”."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_101": {
+            "id": "EQ-67udZEeg_101",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What changes appear below 'INDEX' after 'WHAT IS AN INDEX?' disappears?",
+            "options": [
+                "A. The words 'QUICK' and 'EASY' appear slightly to the left below the word 'INDEX'.",
+                "B. The words 'secure' and 'fast' appear below the word 'INDEX'.",
+                "C. The words 'reliable' and 'safe' appear below the word 'INDEX'.",
+                "D. The words 'simple' and 'effective' appear below the word 'INDEX'."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_102": {
+            "id": "EQ-67udZEeg_102",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What symbol appears between 'QUICK' and 'EASY'?",
+            "options": [
+                "A. A '+' symbol appears in the middle.",
+                "B. A '-' symbol appears in the middle.",
+                "C. A '&' symbol appears in the middle.",
+                "D. A '=' symbol appears in the middle."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_103": {
+            "id": "EQ-67udZEeg_103",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What visual elements appeared when the little girl was on the left side of the screen?",
+            "options": [
+                "A. A colorful bar chart appeared on her right side.",
+                "B. A pie chart displaying data percentages appeared on her right side.",
+                "C. A text box containing statistical and numerical data appeared on her right side.",
+                "D. An animated video clip played on her right side."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_104": {
+            "id": "EQ-67udZEeg_104",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "At the beginning of the scene, what visual elements are present in the first frame?",
+            "options": [
+                "A. 'WHAT IS AN INDEX?', square.",
+                "B. Text and logo of NASDAQ.",
+                "C. Purple bold text 'index'.",
+                "D. 'WALLSTREETSURVIVOR.COM'."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_105": {
+            "id": "EQ-67udZEeg_105",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the first text element introduced under the word 'INDEX'?",
+            "options": [
+                "A. The first element is 'QUICK'.",
+                "B. The first element is 'NASDAQ'.",
+                "C. The first element is 'GOOGLE'.",
+                "D. The first element is '3,000'."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_106": {
+            "id": "EQ-67udZEeg_106",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What changes occur in the scene after the bar chart on the right side of the girl disappears?",
+            "options": [
+                "A. The word 'INDEX' is prominently displayed with a magnifying effect.",
+                "B. The girl is still in the picture, 'INDEX' is next to her.",
+                "C. The young girl and the bar chart are replaced by a pie chart animation.",
+                "D. The number '500' appears on the right side of the girl."
+            ],
+            "answer": "D"
+        },
+        "EQ-67udZEeg_107": {
+            "id": "EQ-67udZEeg_107",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What text replaced 'DowJones' at the top center of the screen?",
+            "options": [
+                "A. 'S&P 500'.",
+                "B. 'NASDAQ'.",
+                "C. 'Google'.",
+                "D. 'INDEX'."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_108": {
+            "id": "EQ-67udZEeg_108",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "\"What elements appeared in the 'S&P 500' themed scene?\"",
+            "options": [
+                "A. The word 'INDEX' and a URL below it",
+                "B. The number '500' and additional company logos",
+                "C. A changing background with animated elements",
+                "D. Green bold 'NASDAQ' text"
+            ],
+            "answer": "B"
+        }
+    }
+}

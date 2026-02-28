@@ -1,0 +1,2700 @@
+{
+    "scene_hint": {
+        "0": "纯白背景上有两行文字显示。",
+        "1": "镜头拉近一男人侧身站立。",
+        "2": "背景虚化，镜头转向男人正面。",
+        "3": "一辆汽车载着乘客行驶在路面上，边上有建筑和树。",
+        "4": "一只手拿出手枪并瞄准开枪。",
+        "5": "多行文字出现在浅灰背景上。",
+        "6": "战舰出现并带有不同国旗。",
+        "7": "文字“ALLIANCES”出现在浅灰背景上。",
+        "8": "地图显示不同文字和国旗并有箭头出现。",
+        "9": "文字“IMPERIALISM”显示在浅灰背景上。",
+        "10": "一个穿着浅绿色服装的人站在地图旁边。",
+        "11": "文字“NATIONALISM”出现在浅灰背景上。",
+        "12": "颜色多样的地图背景中出现很多人。",
+        "13": "文字出现伴随着不同背景人物。",
+        "14": "一名身着迷彩服的士兵在一张宣传图上出现。",
+        "15": "文字在黑色背景上滚动。"
+    },
+    "qa": {
+        "24i4ncHuf6A_0": {
+            "id": "24i4ncHuf6A_0",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "视频中是否能看到任何可辨识的物体？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 只有一个模糊的轮廓",
+                "D. 一个模糊的物体"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_1": {
+            "id": "24i4ncHuf6A_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频中显示了什么环境?",
+            "options": [
+                "A. 一条繁忙的城市街道，有汽车和行人。",
+                "B. 一个没有明显特征或物体的均匀灰色背景。",
+                "C. 一片茂密的森林，有高大的树木和野生动物。",
+                "D. 一个有清澈蓝色海水和阳光的沙滩。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_2": {
+            "id": "24i4ncHuf6A_2",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "视频中灰色背景是否会发生颜色变化？",
+            "options": [
+                "A. 是的，背景从灰色变为蓝色。",
+                "B. 是的，背景变为包含渐变。",
+                "C. 不，灰色背景始终保持一致。",
+                "D. 是的，背景变换显示各种颜色。"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_3": {
+            "id": "24i4ncHuf6A_3",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "灰色背景在视频中有任何纹理上的变化吗？",
+            "options": [
+                "A. 有，它在中途变得有纹理。",
+                "B. 没有，灰色背景始终保持均匀。",
+                "C. 有，它逐渐变为黑色。",
+                "D. 有，过一段时间后会出现微妙的图案。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_4": {
+            "id": "24i4ncHuf6A_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "视频中有任何视觉提示吗？",
+            "options": [
+                "A. 是的，视频中充满了复杂的图案。",
+                "B. 不，视频中没有视觉提示。",
+                "C. 是的，视频中有动画角色。",
+                "D. 是的，视频中有可见的文字元素。"
+            ],
+            "answer": "D"
+        },
+        "24i4ncHuf6A_5": {
+            "id": "24i4ncHuf6A_5",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "视频中有符号吗？",
+            "options": [
+                "A. 是的，视频中有符号。",
+                "B. 不，视频中没有符号。",
+                "C. 视频中被符号沾满。",
+                "D. 由于背景的原因，符号很难看清。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_6": {
+            "id": "24i4ncHuf6A_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "视频中“WHAT CAUSED THE DEVASTATING”这句话位于哪里？",
+            "options": [
+                "A. 在屏幕的中偏上位置。",
+                "B. 在屏幕的中偏下位置。",
+                "C. 在屏幕的中央位置。",
+                "D. 沿屏幕的左侧位置。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_7": {
+            "id": "24i4ncHuf6A_7",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频场景的主要焦点是什么？",
+            "options": [
+                "A. 主要焦点是浅灰色背景下展示的文本短语。",
+                "B. 主要焦点是关于第一次世界大战的历史视频蒙太奇。",
+                "C. 主要焦点是第一次世界大战前的欧洲地图。",
+                "D. 主要焦点是导致第一次世界大战的事件时间轴。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_8": {
+            "id": "24i4ncHuf6A_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "场景中除了文字还有其他视觉元素吗？",
+            "options": [
+                "A. 有，有一些细微的插图。",
+                "B. 没有。",
+                "C. 有，有一个战场的背景图像。",
+                "D. 有，有一些动画效果。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_9": {
+            "id": "24i4ncHuf6A_9",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "场景是如何变化的？",
+            "options": [
+                "A. 场景通过引入文字与未改变的背景而发生了变化。",
+                "B. 场景通过添加多张彩色图片而发生了变化。",
+                "C. 场景通过动画角色的出现而发生了变化。",
+                "D. 场景通过用复杂的图案替换背景而发生了变化。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_10": {
+            "id": "24i4ncHuf6A_10",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "“‘WHAT CAUSED THE DEVASTATING’ 和 ‘FIRST WORLD WAR?’ 的文本样式有何不同？”",
+            "options": [
+                "A. “‘WHAT CAUSED THE DEVASTATING’ 字体粗重加粗，而 ‘FIRST WORLD WAR?’ 优雅、较细且字体稍大。”",
+                "B. “‘WHAT CAUSED THE DEVASTATING’ 使用斜体且带有颜色，而 ‘FIRST WORLD WAR?’ 加粗且字体较小。”",
+                "C. “‘WHAT CAUSED THE DEVASTATING’ 带下划线并居中，而 ‘FIRST WORLD WAR?’ 使用斜体加粗。”",
+                "D. “‘WHAT CAUSED THE DEVASTATING’ 为手写体风格，而 ‘FIRST WORLD WAR?’ 为方块字体并带有色彩设计。”"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_11": {
+            "id": "24i4ncHuf6A_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "在视频中，哪些视觉元素有助于传达严肃和沉思的基调？",
+            "options": [
+                "A. 丰富的图形和玩味动画在简洁背景上的存在有助于营造严肃和沉思的氛围。",
+                "B. 在简洁的灰色背景下，采用简约设计的字体有助于营造严肃和沉思的氛围。",
+                "C. 带有鲜艳黄色背景的Comic Sans字体有助于营造严肃和沉思的氛围。",
+                "D. 使用小写草书字体和复杂背景有助于营造严肃和沉思的氛围。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_12": {
+            "id": "24i4ncHuf6A_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "从视频来看，绿色的树相对于粉色建筑在哪里？",
+            "options": [
+                "A. 绿色的树位于粉色建筑的右侧。",
+                "B. 绿色的树位于粉色建筑的左侧。",
+                "C. 绿色的树位于粉色建筑的后面。",
+                "D. 绿色的树位于粉色建筑的前面。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_13": {
+            "id": "24i4ncHuf6A_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频的整体环境是怎样的？",
+            "options": [
+                "A. 视频从一个极简主义风格过渡到城市街景。",
+                "B. 视频从一片森林过渡到一个热闹的市场。",
+                "C. 视频从一个海滩过渡到一个安静的郊区社区。",
+                "D. 视频从一个黑暗的房间过渡到一个明亮的办公室。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_14": {
+            "id": "24i4ncHuf6A_14",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "卡通人物穿着怎样？",
+            "options": [
+                "A. 卡通人物正式地穿着黑色西装外套。",
+                "B. 卡通人物休闲地穿着彩色T恤和牛仔裤。",
+                "C. 卡通人物穿着带有装饰图案的长袍。",
+                "D. 卡通人物穿着带有腰带的传统和服。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_15": {
+            "id": "24i4ncHuf6A_15",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "卡通人物的外貌是什么样的？",
+            "options": [
+                "A. 这个卡通角色有短短的黑发，浅色皮肤和一个小黑胡子。",
+                "B. 这个卡通角色有长长的金发，晒得黝黑的皮肤和一把显眼的胡须。",
+                "C. 这个卡通角色有卷曲的棕发，深色的皮肤，没有胡须。",
+                "D. 这个卡通角色有短红发，苍白的皮肤和一副眼镜。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_16": {
+            "id": "24i4ncHuf6A_16",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "大型粉色建筑有哪些建筑细节？",
+            "options": [
+                "A. 该建筑有白色装饰、拱形窗户、矩形窗框、圆形装饰和玻璃窗格。",
+                "B. 该建筑有流线型的灰色墙壁、三角形窗户、金属装饰，没有可见的玻璃窗格。",
+                "C. 该建筑用深红色砖块装饰，有方形窗户、绿色百叶窗和木门。",
+                "D. 该建筑包括白色简约墙壁、椭圆形窗户、装饰柱子和彩色玻璃窗格。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_17": {
+            "id": "24i4ncHuf6A_17",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "背景中引入的显著视觉元素是什么？",
+            "options": [
+                "A. 显著的视觉元素是大型粉色建筑和绿色的树。",
+                "B. 显著的视觉元素是一个大的蓝色喷泉和一条鹅卵石路。",
+                "C. 显著的视觉元素是一座高耸的摩天大楼和停放的汽车。",
+                "D. 显著的视觉元素是一座木屋和浓密的森林。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_18": {
+            "id": "24i4ncHuf6A_18",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "这个角色是向左看吗？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 有时",
+                "D. 不确定"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_19": {
+            "id": "24i4ncHuf6A_19",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "从视频来看，绿树相对于角色的位置在哪里？",
+            "options": [
+                "A. 绿树位于角色的前方。",
+                "B. 绿树位于角色的左侧。",
+                "C. 绿树位于角色的右侧。",
+                "D. 绿树位于角色的后方。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_20": {
+            "id": "24i4ncHuf6A_20",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "视频中的场景之间有摄像机切换吗？",
+            "options": [
+                "A. 没有，摄像机在整个视频过程中都专注于一个简约的场景。",
+                "B. 是的，摄像机从一个浅灰色背景的简约场景切换到一个动态的城市环境。",
+                "C. 没有，整个视频都设置在相同的动态城市环境中，没有任何切换。",
+                "D. 是的，摄像机在多个抽象场景之间切换，这些场景中没有角色或详细的设置。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_21": {
+            "id": "24i4ncHuf6A_21",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "哪种类型的镜头在前景中突出显示卡通人物？",
+            "options": [
+                "A. 侧面特写镜头",
+                "B. 鸟瞰镜头",
+                "C. 广角镜头",
+                "D. 越肩镜头"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_22": {
+            "id": "24i4ncHuf6A_22",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "场景转换速度快吗？",
+            "options": [
+                "A. 是的，场景转换很快。",
+                "B. 不，场景转换很慢。",
+                "C. 描述中并未具体说明场景转换的速度。",
+                "D. 场景转换是瞬间发生的。"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_23": {
+            "id": "24i4ncHuf6A_23",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "视频的背景是如何变化的？",
+            "options": [
+                "A. 背景从浅灰色的极简设计过渡到充满活力的都市环境，包括一栋粉色建筑和一棵绿色的树。",
+                "B. 背景从充满活力的都市环境，包括一栋粉色建筑和一棵绿色的树，过渡到浅灰色的极简设计。",
+                "C. 背景从繁忙的城市景观，带有大量交通，过渡到安静的极简森林环境。",
+                "D. 视频中的背景始终保持为浅灰色的极简设计。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_24": {
+            "id": "24i4ncHuf6A_24",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "哪个视觉元素强调了城市环境？",
+            "options": [
+                "A. 那个大型粉色建筑，带有复杂的白色建筑细节和拱形窗户。",
+                "B. 在画面左侧的绿色圆形树。",
+                "C. 之前看到的简约浅灰色背景。",
+                "D. 卡通人物穿的正式黑色西装和中性色表情。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_25": {
+            "id": "24i4ncHuf6A_25",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这个场景主要在什么地方发生？",
+            "options": [
+                "A. 在充满交通的繁忙城市街道上",
+                "B. 在一个拥挤的大礼堂内",
+                "C. 在一个粉红色建筑物前",
+                "D. 在有拍打浪花的沙滩上"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_26": {
+            "id": "24i4ncHuf6A_26",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "背景如何帮助突出焦点？",
+            "options": [
+                "A. 背景被故意淡化以突出人物。",
+                "B. 背景颜色浅淡且细节丰富。",
+                "C. 背景细节繁多以分散对人物的注意力。",
+                "D. 背景明亮且充满活力来匹配角色的表情。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_27": {
+            "id": "24i4ncHuf6A_27",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "这个角色表情的显著特征是什么？",
+            "options": [
+                "A. 角色有一个中性的嘴型。",
+                "B. 角色有一个灿烂的笑容。",
+                "C. 角色眉头紧皱，表明愤怒或沮丧。",
+                "D. 角色皱着眉，显得悲伤。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_28": {
+            "id": "24i4ncHuf6A_28",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "背景物体中有哪些显著的视觉细节？",
+            "options": [
+                "A. 背景包括一栋浅粉色建筑的外墙来自远处树木的绿色。",
+                "B. 背景显示了一条热闹的街道，有明亮的招牌和人群。",
+                "C. 背景包含一个详细描绘的森林景象，有茂密的绿色植物和野生动物。",
+                "D. 背景描绘了雪山顶峰和色彩鲜艳的日落。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_29": {
+            "id": "24i4ncHuf6A_29",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "视频中哪一组面部特征被特别突出？",
+            "options": [
+                "A. 短卷发、黑色胡子、黑色眼睛、深色眉毛、中性嘴",
+                "B. 长直发、浓密胡须、蓝色眼睛、浅色眉毛、微笑的嘴",
+                "C. 金色卷发、浓密胡子、绿色眼睛、弧形眉毛、皱眉的嘴",
+                "D. 直黑发、无面部毛发、棕色眼睛、细眉毛、张开的嘴"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_30": {
+            "id": "24i4ncHuf6A_30",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频是否强调环境细节?",
+            "options": [
+                "A. 是的，环境细节被突出了。",
+                "B. 不是，环境细节被模糊以突出角色。",
+                "C. 是的，环境细节丰富。",
+                "D. 不是，背景保持清晰。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_31": {
+            "id": "24i4ncHuf6A_31",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "角色的眉毛表明了什么？",
+            "options": [
+                "A. 上扬的浓眉表明了好奇心或专注。",
+                "B. 较细的黑眉使角色显得不感兴趣。",
+                "C. 角色紧皱的眉毛表明了沮丧。",
+                "D. 角色低垂的眉毛表示放弃。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_32": {
+            "id": "24i4ncHuf6A_32",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "什么类型的镜头突出了角色的面部和上胸部？",
+            "options": [
+                "A. 展示整体环境的广角镜头。",
+                "B. 用虚化背景的特写镜头。",
+                "C. 从角色上方拍摄的空中镜头。",
+                "D. 捕捉角色全身的远景镜头。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_33": {
+            "id": "24i4ncHuf6A_33",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "镜头如何切换到更紧凑的画面？",
+            "options": [
+                "A. 镜头突然转为更紧凑的画面，聚焦于角色的周围环境。",
+                "B. 镜头逐渐拉近，完全聚焦于角色。",
+                "C. 镜头将焦点转向背景，更加强调环境细节而非角色。",
+                "D. 镜头切换到一个远景广角画面，展现更多的场景。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_34": {
+            "id": "24i4ncHuf6A_34",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "从视频来看，绿色的树相对于汽车的位置在哪里？",
+            "options": [
+                "A. 绿色的树在汽车右后面，靠近一栋建筑。",
+                "B. 绿色的树在汽车的左边，位于街道上。",
+                "C. 绿色的树在汽车的右边，靠近人行道。",
+                "D. 绿色的树正好在汽车前面，挡住了它的路。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_35": {
+            "id": "24i4ncHuf6A_35",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "街景的整体环境是什么？",
+            "options": [
+                "A. 场景设定在一个动态的城市区域，有建筑、一块空白的黄色标志和一棵树。",
+                "B. 场景设定在一个安静的乡村地区，有开阔的田野、一座谷仓和零星的几棵树。",
+                "C. 场景设定在一个住宅区，有独立的房屋、一座公园以及少量的商业建筑。",
+                "D. 场景设定在一个热闹的市场广场，充满街头小贩、拥挤的摊位和色彩斑斓的横幅。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_36": {
+            "id": "24i4ncHuf6A_36",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "汽车的司机穿着什么？",
+            "options": [
+                "A. 黄色帽子和蓝色服装",
+                "B. 黑色礼帽和红色服装",
+                "C. 绿色羽毛头饰和白色服装",
+                "D. 白色服装和紫色配饰"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_37": {
+            "id": "24i4ncHuf6A_37",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "汽车司机的外貌是什么样的？",
+            "options": [
+                "A. 司机戴着帽子，肤色红润。",
+                "B. 司机留着长卷发，肤色苍白。",
+                "C. 司机秃头，肤色晒得很黑。",
+                "D. 司机留着短发，肤色较黑。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_38": {
+            "id": "24i4ncHuf6A_38",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "汽车车身是什么颜色的？",
+            "options": [
+                "A. 是浅绿色的。",
+                "B. 是深绿色的。",
+                "C. 是深黑色的。",
+                "D. 是深灰色的。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_39": {
+            "id": "24i4ncHuf6A_39",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "汽车的车轮是什么颜色的？",
+            "options": [
+                "A. 黑+灰的车轮",
+                "B. 全黑色的车轮",
+                "C. 全灰色的车轮",
+                "D. 全绿色的车轮"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_40": {
+            "id": "24i4ncHuf6A_40",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "汽车的挡泥板是什么颜色的？",
+            "options": [
+                "A. 是灰色的。",
+                "B. 是绿色的。",
+                "C. 是黑色的。",
+                "D. 是白色的。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_41": {
+            "id": "24i4ncHuf6A_41",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "汽车的顶部是怎样的？",
+            "options": [
+                "A. 汽车顶部是敞篷的。",
+                "B. 汽车顶部有一个天窗。",
+                "C. 汽车有顶部完全封闭。",
+                "D. 汽车有一个目前关闭的可折叠车顶。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_42": {
+            "id": "24i4ncHuf6A_42",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "汽车里有多少乘客？",
+            "options": [
+                "A. 有一名乘客。",
+                "B. 有两名乘客。",
+                "C. 有三名乘客。",
+                "D. 有四名乘客。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_43": {
+            "id": "24i4ncHuf6A_43",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "视频左边最靠边的建筑上的黄色标志是空白的吗？",
+            "options": [
+                "A. 是的，是空白的。",
+                "B. 不，标志上文字。",
+                "C. 不，填充了部分内容。",
+                "D. 是的，有一张图片。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_44": {
+            "id": "24i4ncHuf6A_44",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "车后座的人物在做什么？",
+            "options": [
+                "A. 后座的人物正在静静地观察周围的环境。",
+                "B. 后座的人物正在与他的同伴互动。",
+                "C. 后座的人物正在看书。",
+                "D. 后座的人物正在指挥司机。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_45": {
+            "id": "24i4ncHuf6A_45",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "汽车正朝哪个方向行驶？",
+            "options": [
+                "A. 向画面的左侧",
+                "B. 向画面的右侧",
+                "C. 向画面的顶部",
+                "D. 汽车并未在行驶"
+            ],
+            "answer": "D"
+        },
+        "24i4ncHuf6A_46": {
+            "id": "24i4ncHuf6A_46",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "摄像机角度是什么？",
+            "options": [
+                "A. 初始的摄像机角度是一个角色面部特写的亲密镜头。",
+                "B. 初始的摄像机角度是街景的广角镜头。",
+                "C. 初始的摄像机角度是城市环境的鸟瞰图。",
+                "D. 初始的摄像机角度是城市的全景图。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_47": {
+            "id": "24i4ncHuf6A_47",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "视频描述是否表明汽车的速度？",
+            "options": [
+                "A. 是的，汽车被描述为移动得很快。",
+                "B. 是的，汽车被描述为移动得很慢。",
+                "C. 不，视频描述没有提供有关汽车速度的信息。",
+                "D. 是的，汽车被描述为静止不动。"
+            ],
+            "answer": "D"
+        },
+        "24i4ncHuf6A_48": {
+            "id": "24i4ncHuf6A_48",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "汽车后排的男人穿着怎样？",
+            "options": [
+                "A. 那个人穿着一顶绿色羽毛头饰和一件蓝色外套。",
+                "B. 那人穿着一套正式的黑色西装外套和领带。",
+                "C. 那个人穿着与司机相似的红色外套。",
+                "D. 那人穿着休闲，穿着白衬衫和牛仔裤。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_49": {
+            "id": "24i4ncHuf6A_49",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "汽车后排的女人穿着怎样？",
+            "options": [
+                "A. 那位女士戴着一顶金色帽子，穿着绿色衣服。",
+                "B. 那位女士戴着一顶白紫色帽子，穿着一身白衣。",
+                "C. 那位女士戴着华丽的绿色羽毛头饰，披着一件白色斗篷。",
+                "D. 那位女士戴着一顶红色帽子，穿着一套相配的红色服装。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_50": {
+            "id": "24i4ncHuf6A_50",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "汽车里有多少人能看见？",
+            "options": [
+                "A. 三个人",
+                "B. 四个人",
+                "C. 五个人",
+                "D. 两个人"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_51": {
+            "id": "24i4ncHuf6A_51",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "场景中手臂握着手枪时，哪些特征被显著展示出来？",
+            "options": [
+                "A. 浅色的皮肤和黑色服装被显著展示出来。",
+                "B. 绿色羽毛头饰和白色斗篷被显著展示出来。",
+                "C. 鲜艳的城市街景和黄色标志被显著展示出来。",
+                "D. 灰白色的三角区域和多彩的戏剧服装被显著展示出来。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_52": {
+            "id": "24i4ncHuf6A_52",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "在特写镜头中，手枪的方向是什么？",
+            "options": [
+                "A. 手枪朝内。",
+                "B. 手枪直指向下。",
+                "C. 手枪略微向上倾斜。",
+                "D. 手枪朝外。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_53": {
+            "id": "24i4ncHuf6A_53",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "在过渡到有人手臂和手枪场景时使用了哪种类型的摄影镜头？",
+            "options": [
+                "A. 使用了特写镜头。",
+                "B. 使用了广角镜头。",
+                "C. 使用了俯拍镜头。",
+                "D. 使用了追踪镜头。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_54": {
+            "id": "24i4ncHuf6A_54",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "从有复古汽车的场景到手枪特写镜头之间的气氛是如何变化的？",
+            "options": [
+                "A. 气氛从充满活力、热闹的城市街道动态转变为手枪和手臂为焦点，庄重且紧张。",
+                "B. 气氛从宁静的乡村景观过渡到充满明亮灯光和嘈杂的令人压迫的城市全景。",
+                "C. 气氛从安静的郊区街道转变为充满色彩和兴奋的欢乐嘉年华。",
+                "D. 气氛从带有柔和灯光的温暖家内部转变为充满笑声和喧闹的露天市场。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_55": {
+            "id": "24i4ncHuf6A_55",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "从视频来看，手拿着黑色手枪是从画面的哪个地方出现的？",
+            "options": [
+                "A. 是从画面的左上角出现的。",
+                "B. 是从画面的右上角出现的。",
+                "C. 从画面的中央出现的。",
+                "D. 是从画面的右下角出现的。"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_56": {
+            "id": "24i4ncHuf6A_56",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "这个场景中手的特点是什么？",
+            "options": [
+                "A. 这只手是浅色皮肤，拿着一把光滑的黑色手枪。",
+                "B. 这只手是深色皮肤，拿着一把银色的左轮手枪。",
+                "C. 这只手是浅色皮肤，拿着一把带有栗色手柄的刀。",
+                "D. 这只手戴着手套，拿着一把没有装饰的黑色手枪。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_57": {
+            "id": "24i4ncHuf6A_57",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "这个场景中，手部动作有什么显著之处？",
+            "options": [
+                "A. 手明确地展现出控制力和目的性。",
+                "B. 手在努力保持枪支稳定。",
+                "C. 手在拾起枪之前犹豫不决。",
+                "D. 手意外地掉落了枪。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_58": {
+            "id": "24i4ncHuf6A_58",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "背景中的手枪的外观是怎样的？",
+            "options": [
+                "A. 手枪表面为黑色，握把上带有棕色点缀。",
+                "B. 手枪表面为银色，扳机部分有金色装饰。",
+                "C. 手枪配备古色古香的木质手柄，并有黄铜装饰。",
+                "D. 手枪完全为白色，没有额外的点缀。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_59": {
+            "id": "24i4ncHuf6A_59",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "抽象背景是否包含尖锐或清晰定义的元素？",
+            "options": [
+                "A. 是的，抽象背景具有尖锐且清晰定义的元素。",
+                "B. 不，抽象背景是模糊的。",
+                "C. 是的，抽象背景包括详细且集中的形状。",
+                "D. 不，抽象背景是完全黑色的。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_60": {
+            "id": "24i4ncHuf6A_60",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "当手进入场景时，它执行了什么动作？",
+            "options": [
+                "A. 手将枪支掉落。",
+                "B. 手控制、明确地握住枪支。",
+                "C. 手挥动枪支。",
+                "D. 手把枪指向地面。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_61": {
+            "id": "24i4ncHuf6A_61",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "这把手枪在进入场景时是否朝特定方向指向？",
+            "options": [
+                "A. 是的，它指向上方。",
+                "B. 不是，指向的方向没有明确指出。",
+                "C. 是的，它指向下方。",
+                "D. 是的，它指向正前方。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_62": {
+            "id": "24i4ncHuf6A_62",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "过渡后，单词'MILITARISM'在画面中的位置是哪里？",
+            "options": [
+                "A. 单词'MILITARISM'位于画面中央",
+                "B. 单词'MILITARISM'位于画面左下角",
+                "C. 单词'MILITARISM'位于画面右上角",
+                "D. 单词'MILITARISM'位于画面右下角"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_63": {
+            "id": "24i4ncHuf6A_63",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "视频背景的设计是什么样的？",
+            "options": [
+                "A. 背景设计简约。",
+                "B. 背景色彩丰富且细节精致。",
+                "C. 背景呈现出繁忙而杂乱的图案。",
+                "D. 背景采用黑暗和有质感的主题。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_64": {
+            "id": "24i4ncHuf6A_64",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "视频中背景的颜色是什么？",
+            "options": [
+                "A. 背景是深灰色。",
+                "B. 背景是白色。",
+                "C. 背景是浅灰色。",
+                "D. 背景是黑色。"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_65": {
+            "id": "24i4ncHuf6A_65",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "场景切换后，“ALLIANCES”这个词会发生什么变化？",
+            "options": [
+                "A. 场景切换后，“ALLIANCES”这个词变得加粗并居中。",
+                "B. 场景切换后，“ALLIANCES”这个词被移除。",
+                "C. 场景切换后，“ALLIANCES”这个词变成不同的颜色。",
+                "D. 场景切换后，“ALLIANCES”这个词被放在“MILITARISM”这个词的下面。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_66": {
+            "id": "24i4ncHuf6A_66",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "“ALLIANCES”消失后出现的词是什么？",
+            "options": [
+                "A. “MILITARISM”。",
+                "B. “IMPERIALISM”。",
+                "C. “NATIONALISM”。",
+                "D. 之后不再新出现单词了"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_67": {
+            "id": "24i4ncHuf6A_67",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "场景前显示了多少个单词？",
+            "options": [
+                "A. 显示了一个单词。",
+                "B. 显示了两个单词。",
+                "C. 显示了三个单词。",
+                "D. 显示了四个单词。"
+            ],
+            "answer": "D"
+        },
+        "24i4ncHuf6A_68": {
+            "id": "24i4ncHuf6A_68",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "场景切换后显示了多少个单词？",
+            "options": [
+                "A. 显示了一个单词。",
+                "B. 显示了两个单词。",
+                "C. 显示了三个单词。",
+                "D. 没有显示任何单词。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_69": {
+            "id": "24i4ncHuf6A_69",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "在过渡过程中，这个视频一直保持简约的美学风格吗？",
+            "options": [
+                "A. 是的，这个视频在过渡过程中一直保持简约的美学风格。",
+                "B. 不，这个视频在过渡过程中变成了杂乱和忙碌的设计。",
+                "C. 不，这个视频在过渡过程中突然引入了复杂而详细的背景。",
+                "D. 是的，但仅在过渡的后半部分。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_70": {
+            "id": "24i4ncHuf6A_70",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "什么设计选择能增强‘MILITARISM’这个词的显著性？",
+            "options": [
+                "A. 把这个词隔离并置于背景的中心位置可以增强它的显著性。",
+                "B. 增大所有词的字体同样可以增强它的显著性。",
+                "C. 给‘MILITARISM’这个词添加阴影效果可以增强它的显著性。",
+                "D. 使用深色背景和粗体红色文字可以增强它的显著性。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_71": {
+            "id": "24i4ncHuf6A_71",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "在过渡期间，文本内容发生了什么属性变化？",
+            "options": [
+                "A. 文本从四个单词，过渡到一个居中的单词。",
+                "B. 文本从四个单词，过渡到两个居中的单词。",
+                "C. 文本从一个单词，过渡到三个居中的单词。",
+                "D. 文本从一个单词，过渡到一个居中的短语。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_72": {
+            "id": "24i4ncHuf6A_72",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "在新的框架中，如何通过视觉强调“MILITARISM”？",
+            "options": [
+                "A. 通过去除其他词语，并将“MILITARISM”以粗体字置于浅灰色背景的中心位置。",
+                "B. 通过将“MILITARISM”与“ALLIANCES”和“IMPERIALISM”一起以鲜艳的配色方案展示。",
+                "C. 通过在“MILITARISM”周围添加装饰性边框并使用彩色背景。",
+                "D. 通过将“MILITARISM”对齐到框架的底部并使用较小的字体。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_73": {
+            "id": "24i4ncHuf6A_73",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "带红旗的军舰在视频中的哪个位置？",
+            "options": [
+                "A. 在视频的左上方",
+                "B. 在视频的中心",
+                "C. 在视频的右下方",
+                "D. 在视频的右上方"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_74": {
+            "id": "24i4ncHuf6A_74",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "灰色背景转换后，视频的场景是什么？",
+            "options": [
+                "A. 俯瞰视角下生动的蓝色海洋场景，以军舰为主。",
+                "B. 从岸边看见热闹的港口，停满了商船。",
+                "C. 从悬崖上眺望宁静的海岸村庄，渔船点缀其间。",
+                "D. 从地面视角看到繁忙的海军船坞，船只正在维修中。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_75": {
+            "id": "24i4ncHuf6A_75",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "在扩展舰队的最后一帧中可以看到多少种国旗？",
+            "options": [
+                "A. 4种",
+                "B. 3种",
+                "C. 5种",
+                "D. 2种"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_76": {
+            "id": "24i4ncHuf6A_76",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "背景中除了战舰还有其他元素吗？",
+            "options": [
+                "A. 是的，背景中包含了其他海事特征。",
+                "B. 不，背景干净整洁，只专注于战舰。",
+                "C. 是的，背景中有云和波浪。",
+                "D. 不，除了战舰，背景是空的。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_77": {
+            "id": "24i4ncHuf6A_77",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "在转变为由六艘船组成的网格时，船只的位置如何变化？",
+            "options": [
+                "A. 视图转变为一个结构化的网格，六艘船排列成四列三行。",
+                "B. 船只形成一条单一的对角线穿过海洋，包含三艘英国船和三艘德国船。",
+                "C. 船只随机聚集，未呈现出任何特定的顺序或排列。",
+                "D. 船只围绕一艘中央旗舰组成一个圆圈，以表现其主导地位。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_78": {
+            "id": "24i4ncHuf6A_78",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "带有英国国旗船只在视频中的哪个位置？",
+            "options": [
+                "A. 带有英国国旗船只占据左列。",
+                "B. 带有英国国旗船只占据右列。",
+                "C. 带有英国国旗船只随机分布。",
+                "D. 带有英国国旗船只位于网格的中心。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_79": {
+            "id": "24i4ncHuf6A_79",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "带有德国国旗的船只在视频中的哪个位置？",
+            "options": [
+                "A. 带有德国国旗的船只排列在右侧。",
+                "B. 带有德国国旗的船只排列在左侧。",
+                "C. 带有德国国旗的船只随机分布。",
+                "D. 带有德国国旗的船只出现在顶部中央。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_80": {
+            "id": "24i4ncHuf6A_80",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "视频开头有多少艘船？",
+            "options": [
+                "A. 一艘船。",
+                "B. 两艘船。",
+                "C. 四艘船。",
+                "D. 六艘船。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_81": {
+            "id": "24i4ncHuf6A_81",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "视频中间有多少艘船只？",
+            "options": [
+                "A. 六艘船",
+                "B. 四艘船",
+                "C. 十二艘船",
+                "D. 两艘船"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_82": {
+            "id": "24i4ncHuf6A_82",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "什么破坏了最终画面中的双边对称性？",
+            "options": [
+                "A. 一个挂着红旗的战舰位于右下角。",
+                "B. 一个挂着英国国旗的第三艘战舰位于左上角。",
+                "C. 一艘额外的挂着德国国旗的战舰位于中心。",
+                "D. 两艘挂着红旗的战舰位于左侧。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_83": {
+            "id": "24i4ncHuf6A_83",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "视频中哪些内容表明了船只之间的竞争？",
+            "options": [
+                "A. 船上的国旗突显了竞争关系。",
+                "B. 船只的形状和颜色表明了它们的竞争。",
+                "C. 船只在网格中的位置显示了它们的竞争。",
+                "D. 参与的船只数量表明了竞争关系。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_84": {
+            "id": "24i4ncHuf6A_84",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "视频中哪个旗帜代表英国？",
+            "options": [
+                "A. 米字旗",
+                "B. 德国三色旗",
+                "C. 红旗战舰",
+                "D. 法国国旗"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_85": {
+            "id": "24i4ncHuf6A_85",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "视频中哪个旗代表德国？",
+            "options": [
+                "A. 德国三色旗",
+                "B. 联合杰克旗",
+                "C. 红白条纹旗",
+                "D. 一面纯红旗"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_86": {
+            "id": "24i4ncHuf6A_86",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "在这一场景中描绘了什么环境？",
+            "options": [
+                "A. 场景设置在一片蓝色海洋上，有多艘带有国旗艘战舰。",
+                "B. 场景发生在浓雾中，战舰几乎无法看清。",
+                "C. 场景设置在一个海军船坞里，船只正在为出发做准备。",
+                "D. 场景发生在一条被绿树林围绕的河流上。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_87": {
+            "id": "24i4ncHuf6A_87",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "在这一场景中有描绘到人吗？",
+            "options": [
+                "A. 有，在场景中描绘了好几个人。",
+                "B. 没有，在场景中没有描绘任何人。",
+                "C. 有，但只有船员可见。",
+                "D. 没有，但有影子暗示了人的存在。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_88": {
+            "id": "24i4ncHuf6A_88",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "场景是否从海军图像转向基于文本的通信？",
+            "options": [
+                "A. 是的，确实如此。",
+                "B. 不，不是。",
+                "C. 场景从海军图像转向动画图形。",
+                "D. 整个场景始终专注于海军图像。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_89": {
+            "id": "24i4ncHuf6A_89",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "在过渡的过程中，视觉元素发生了什么变化？",
+            "options": [
+                "A. 海军舰艇过渡到一个明亮的、动画化的海洋场景。",
+                "B. 详细的海军图像突然转变为极简设计的文字。",
+                "C. 场景转变为海军战斗动画的描绘。",
+                "D. 战舰在屏幕上形成几何图案。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_90": {
+            "id": "24i4ncHuf6A_90",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "单词 ‘ALLIANCES’ 的视觉呈现效果如何？",
+            "options": [
+                "A. 单词 ‘ALLIANCES’ 使用清晰的无衬线字体，以居中的方式展示在浅灰色背景上。",
+                "B. 单词 ‘ALLIANCES’ 以粗体连笔字的样式浮在战舰上方，背景是深海蓝色。",
+                "C. 单词 ‘ALLIANCES’ 以大号红色字母分散在海洋地图上，使用装饰性的衬线字体。",
+                "D. 单词 ‘ALLIANCES’ 以脚本字体投影在天空中，背景是动画的波浪。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_91": {
+            "id": "24i4ncHuf6A_91",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "“ALLIANCES”这个词的视觉呈现如何突出其主题重要性？",
+            "options": [
+                "A. 这种呈现突出了清晰和精准，强调其主题的重要性。",
+                "B. 这种呈现使用了复杂的历史图像来强调它的重要性。",
+                "C. 这种呈现通过展示鲜艳的色彩吸引观众的注意力。",
+                "D. 这种呈现利用了详细的背景来突出其重要性。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_92": {
+            "id": "24i4ncHuf6A_92",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "如何在地图上表示GERMANY的战术重点？",
+            "options": [
+                "A. GERMANY的战术重点通过各种方向的箭头来表示。",
+                "B. GERMANY的关注点仅通过一个指向法国的箭头来突出，表示其专注于西线。",
+                "C. GERMANY的策略通过只针对中立国家的箭头来描绘，避开了主要的协约国。",
+                "D. GERMANY的战术重点通过一系列向下的箭头表示，仅指向巴尔干地区，对其他区域没有兴趣。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_93": {
+            "id": "24i4ncHuf6A_93",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "在地图的描绘中，鲜红的箭头起到了什么作用？",
+            "options": [
+                "A. 鲜红的箭头代表了可能的冲突轴线，为原本静态的政治地图增添了动态元素。",
+                "B. 鲜红的箭头表示国家之间的和平条约，象征着对正在进行的冲突的外交解决。",
+                "C. 鲜红的箭头作为不同国家之间的边界，清晰地划分领土，从而避免误解。",
+                "D. 鲜红的箭头纯粹是装饰性的，在地图对一战战略的描绘中没有实际用途。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_94": {
+            "id": "24i4ncHuf6A_94",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "地图上新增了多少个红色箭头？",
+            "options": [
+                "A. 三个新的红色箭头",
+                "B. 四个新的红色箭头",
+                "C. 五个新的红色箭头",
+                "D. 六个新的红色箭头"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_95": {
+            "id": "24i4ncHuf6A_95",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "地图上被遮挡的文字吗？",
+            "options": [
+                "A. 是的，地图上有被遮挡的文字。",
+                "B. 不，地图上的所有文字都能看清。",
+                "C. 地图上没有任何文字。",
+                "D. 地图上的文字在过于模糊，难以分辨。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_96": {
+            "id": "24i4ncHuf6A_96",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "OTTOMAN EMPIRE的新箭头指向哪个方向？",
+            "options": [
+                "A. 北方",
+                "B. 南方",
+                "C. 西方",
+                "D. 东方"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_97": {
+            "id": "24i4ncHuf6A_97",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "这张地图如何在描绘各个国家名称的？",
+            "options": [
+                "A. 地图使用加粗的黑色大写国家名字来表示国家名称。",
+                "B. 地图使用国家名字的极简缩写来表示国家名称。",
+                "C. 地图为所有国家使用灰度调色板并移除国家标签。",
+                "D. 地图仅强调一个联盟以简化描绘，并没有体现国家名称。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_98": {
+            "id": "24i4ncHuf6A_98",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "地图如何帮助理解各国的战略攻势？",
+            "options": [
+                "A. 地图通过红色箭头、国家的颜色编码和国家名称来增强理解。",
+                "B. 地图仅通过白色箭头展示中立国的军事行动。",
+                "C. 地图使用绿色箭头，并专门强调协约国的主导地位。",
+                "D. 地图完全省略了箭头等视觉元素，仅专注于策略的文字描述。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_99": {
+            "id": "24i4ncHuf6A_99",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "在视频中哪些国家使用红色方向箭头作为其战略攻击？",
+            "options": [
+                "A. GERMANY、AUSTRO-HUNGARY和RUSSIA",
+                "B. UNITED KINGDOM、FRANCE和RUSSIA",
+                "C. ITALY、FRANCE和SPAIN",
+                "D. UNITED STATES、JAPAN和CHINA"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_100": {
+            "id": "24i4ncHuf6A_100",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "视频的主要场景是在哪里发生的？",
+            "options": [
+                "A. 在描绘士兵战斗场面的战场上",
+                "B. 在欧洲的地缘政治地图上",
+                "C. 在第一次世界大战期间的一个军事指挥中心内部",
+                "D. 在一个历史纪录片的解说录音室内"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_101": {
+            "id": "24i4ncHuf6A_101",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "在视频中，UNITED KINGDOM旁添加了哪些视觉对象？",
+            "options": [
+                "A. 在'UNITED KINGDOM'上方加上了英国国旗。",
+                "B. 在'UNITED KINGDOM'旁加上了英国首相的画像。",
+                "C. 在'UNITED KINGDOM'旁加上了一个指向法国的红色箭头。",
+                "D. 英国地图的轮廓用金色突出显示。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_102": {
+            "id": "24i4ncHuf6A_102",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "提到的新增加的内容是什么？",
+            "options": [
+                "A. 德国，奥匈帝国，西班牙国旗",
+                "B. 英国，德国国旗",
+                "C. 英国，法国，俄罗斯国旗",
+                "D. 英国，法国国旗"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_103": {
+            "id": "24i4ncHuf6A_103",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "蓝色箭头在图中表示什么意义？",
+            "options": [
+                "A. 蓝色箭头表示对法国、俄罗斯和其他国家的战略攻势。",
+                "B. 蓝色箭头表示中央同盟国之间的联盟变化。",
+                "C. 蓝色箭头表示中央同盟国建立的贸易路线。",
+                "D. 蓝色箭头表示中央同盟国的防御阵地。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_104": {
+            "id": "24i4ncHuf6A_104",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "哪个视觉元素增强了对UNITED KINGDOM的识别？",
+            "options": [
+                "A. 联合杰克旗。",
+                "B. 指向UNITED KINGDOM的红色箭头。",
+                "C. UNITED KINGDOM上方的星形符号。",
+                "D. 围绕UNITED KINGDOM的蓝色圆圈。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_105": {
+            "id": "24i4ncHuf6A_105",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "什么视觉元素可以增强对FRANCE的识别？",
+            "options": [
+                "A. FRANCE的三色旗",
+                "B. 带有FRANCE名称的地图标记",
+                "C. 标有“FRANCE”的覆盖文字",
+                "D. FRANCE周围突出显示的蓝色边框"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_106": {
+            "id": "24i4ncHuf6A_106",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "视频的主要场景发生在哪里？",
+            "options": [
+                "A. 主要场景发生在一个地图上。",
+                "B. 主要场景发生在一战期间的实际战场上。",
+                "C. 主要场景发生在描述三国协约签署的外交会议上。",
+                "D. 主要场景发生在展示一战文物的博物馆中。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_107": {
+            "id": "24i4ncHuf6A_107",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "视频中是否描述了人类的外貌？",
+            "options": [
+                "A. 是的，人类的外貌被详细描述。",
+                "B. 是的，视频中对人类外貌有简要提及。",
+                "C. 不，视频中没有描述人类的外貌。",
+                "D. 是的，但只是通过抽象的象征性表示。"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_108": {
+            "id": "24i4ncHuf6A_108",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "视频中的覆盖文字‘TRIPLE ENTENTE (1907)’是什么样子的？",
+            "options": [
+                "A. 它是用醒目的大写绿色字母书写，并配有对比强烈的黑色轮廓。",
+                "B. 它是用小的蓝色草书字体书写，没有轮廓。",
+                "C. 它是用粗体红色字母书写，并配有白色轮廓。",
+                "D. 它是用常规的小写黑色字母书写，背景是灰色的。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_109": {
+            "id": "24i4ncHuf6A_109",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "视频描述中提到了多少个联盟？",
+            "options": [
+                "A. 一个联盟",
+                "B. 两个联盟",
+                "C. 三个联盟",
+                "D. 四个联盟"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_110": {
+            "id": "24i4ncHuf6A_110",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "视频描述中提到了哪些联盟？",
+            "options": [
+                "A. Central Powers (1914)和Allied Powers (1914)",
+                "B. TRIPLE ENTENTE (1907)和TRIPLE ALLIANCE (1882)",
+                "C. Axis Powers (1939)和Allied Powers (1939)",
+                "D. NATO (1949)和Warsaw Pact (1955)"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_111": {
+            "id": "24i4ncHuf6A_111",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "UNITED KINGDOM和FRANCE的国旗在视频中是否保留了它们的位置？",
+            "options": [
+                "A. 是的，UNITED KINGDOM和FRANCE的国旗在各自的领土上保留了它们的位置。",
+                "B. 不，UNITED KINGDOM和FRANCE的国旗被移到了地图上的不同位置。",
+                "C. 是的，UNITED KINGDOM和FRANCE的国旗被移到了中立国家。",
+                "D. 不，UNITED KINGDOM和FRANCE的国旗没有在地图上显示。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_112": {
+            "id": "24i4ncHuf6A_112",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "文本叠加 'TRIPLE ENTENTE (1907)' 的效果是什么?",
+            "options": [
+                "A. 文本叠加 'TRIPLE ENTENTE (1907）' 强调了三国同盟的军事行动。",
+                "B. 文本叠加 'TRIPLE ENTENTE (1907）' 将历史重心和叙事焦点转移。",
+                "C. 文本叠加 'TRIPLE ENTENTE (1907）' 详细描绘了中立国家的立场。",
+                "D. 文本叠加 'TRIPLE ENTENTE (1907）' 提高了各国领土上国旗的清晰度。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_113": {
+            "id": "24i4ncHuf6A_113",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "地图上突出了战略军事行动的视觉元素是什么？",
+            "options": [
+                "A. UNITED KINGDOM和FRANCE的国旗",
+                "B. 地图上的箭头",
+                "C. 中立国家的白色标记",
+                "D. 覆盖文字 'TRIPLE ENTENTE (1907)'"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_114": {
+            "id": "24i4ncHuf6A_114",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "地图引入的新属性是什么？",
+            "options": [
+                "A. 引入的新属性是大型、居中的覆文字'TRIPLE ENTENTE (1907)'。",
+                "B. 引入的新属性是意大利和西班牙等中立国家周围的蓝色边框。",
+                "C. 引入的新属性是一条连接德国和奥匈帝国的红线，以表示他们的牢固联盟。",
+                "D. 引入的新属性是地图上军事行动的动画描绘。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_115": {
+            "id": "24i4ncHuf6A_115",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素有助于在地图上识别联盟？",
+            "options": [
+                "A. 国旗和结构化的配色方案有助于在地图上识别联盟。",
+                "B. 方向性红色箭头和粗体覆盖文字有助于在地图上识别联盟。",
+                "C. 使用白色表示中立国家和文字大小有助于在地图上识别联盟。",
+                "D. 历史日期和柔和的色调有助于在地图上识别联盟。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_116": {
+            "id": "24i4ncHuf6A_116",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "1907年“三重协约（TRIPLE ENTENTE）”的初始地图显示了什么？",
+            "options": [
+                "A. 地图展示了用颜色编码的国家、战略军事箭头和叠加文本。",
+                "B. 地图展示了一个简单的灰度世界图，没有额外的元素或注释。",
+                "C. 地图仅显示了三重协约国家的边界，没有任何额外的历史背景或细节。",
+                "D. 地图突出显示了国家之间的贸易路线和经济依赖关系，没有提及军事联盟。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_117": {
+            "id": "24i4ncHuf6A_117",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "环境从初始地图到极简设计有何变化？",
+            "options": [
+                "A. 复杂的地图展示地缘政治细节、颜色标注的国家，转换为仅有文字的背景。",
+                "B. 详细的地图变为黑色背景配以白色文字，列出各种历史事件。",
+                "C. 复杂的地图变为充满色彩的背景，并包含不同国家及其国旗的图像。",
+                "D. 精细的地图变为带有柔和文本的渐变背景，详述各种联盟。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_118": {
+            "id": "24i4ncHuf6A_118",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "在极简设计中，文本“IMPERIALISM”是如何定位的？",
+            "options": [
+                "A. 文本“IMPERIALISM”位于顶部。",
+                "B. 文本“IMPERIALISM”位于底部。",
+                "C. 文本“IMPERIALISM”位于中央。",
+                "D. 文本“IMPERIALISM”位于左侧。"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_119": {
+            "id": "24i4ncHuf6A_119",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "在极简主义设计中，“IMPERIALISM”这段文字以什么风格呈现？",
+            "options": [
+                "A. “IMPERIALISM”这段文字以黑色粗体无衬线大写字体呈现。",
+                "B. “IMPERIALISM”这段文字以白色粗体衬线字体呈现。",
+                "C. “IMPERIALISM”这段文字以黑色小写斜体手写字体呈现。",
+                "D. “IMPERIALISM”这段文字以灰色细体衬线大写字体呈现。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_120": {
+            "id": "24i4ncHuf6A_120",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "在极简主义设计中，文本“IMPERIALISM”的视觉效果如何？",
+            "options": [
+                "A. 文本“IMPERIALISM”几乎不可察觉。",
+                "B. 文本“IMPERIALISM”的尺寸小于其他元素。",
+                "C. 文本“IMPERIALISM”主导整个画面。",
+                "D. 文本“IMPERIALISM”被详细的图形所环绕。"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_121": {
+            "id": "24i4ncHuf6A_121",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "极简设计中有多少文字元素？",
+            "options": [
+                "A. 极简设计中只有一个文字元素。",
+                "B. 极简设计中没有文字元素。",
+                "C. 极简设计中有两个文字元素。",
+                "D. 极简设计中有多个文字元素。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_122": {
+            "id": "24i4ncHuf6A_122",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "极简主义设计中的文字元素是什么？",
+            "options": [
+                "A. 极简主义设计中的文字元素是“IMPERIALISM”。",
+                "B. 极简主义设计中的文字元素是“ALLIANCES”。",
+                "C. 极简主义设计中的文字元素是“NATIONS”。",
+                "D. 极简主义设计中的文字元素是“HISTORY”。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_123": {
+            "id": "24i4ncHuf6A_123",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "极简设计是否包括文本和背景之外的任何视觉元素？",
+            "options": [
+                "A. 不，它只包括文本和浅灰色背景。",
+                "B. 是的，它包括箭头和按颜色编码的国家。",
+                "C. 是的，它包括协约国的详细地图。",
+                "D. 是的，它包括各种历史图像。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_124": {
+            "id": "24i4ncHuf6A_124",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "在过渡到极简场景的过程中，地图会发生什么变化？",
+            "options": [
+                "A. 地图在过渡过程中部分可见。",
+                "B. 地图在过渡到极简设计时完全消失。",
+                "C. 地图改变颜色以匹配极简设计。",
+                "D. 地图在过渡过程中变成一个3D模型。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_125": {
+            "id": "24i4ncHuf6A_125",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "在极简主义设计中，哪个视觉元素最吸引观众的注意力？",
+            "options": [
+                "A. 具有地缘政治细节和战略军事箭头的复杂地图。",
+                "B. 中央位置的粗体黑色文字‘IMPERIALISM’。",
+                "C. 对历史联盟的彩色描绘。",
+                "D. 解释‘TRIPLE ENTENTE (1907)’的覆盖文字。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_126": {
+            "id": "24i4ncHuf6A_126",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "从观看视频角度来看，画面中关键元素的空间布局是什么？",
+            "options": [
+                "A. 穿着米色殖民服装的人物在左边，实心棕色的非洲轮廓在右边。",
+                "B. 穿着米色殖民服装的人物在右边，实心棕色的非洲轮廓在左边。",
+                "C. 人物与非洲轮廓都居中在画面内。",
+                "D. 人物位于画面顶部，而非洲轮廓位于底部。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_127": {
+            "id": "24i4ncHuf6A_127",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "场景中描绘的环境是什么？",
+            "options": [
+                "A. 场景过渡到明亮的青色背景。",
+                "B. 背景在整个场景中保持纯灰色。",
+                "C. 场景描绘了一个树木高耸的茂密丛林。",
+                "D. 场景发生在一个繁忙的殖民地前哨。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_128": {
+            "id": "24i4ncHuf6A_128",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "场景中描绘了什么环境？",
+            "options": [
+                "A. 场景展示了一个穿着殖民服装的人物和非洲的轮廓。",
+                "B. 场景展示了现代城市建筑，明亮的霓虹灯和繁忙的街道。",
+                "C. 场景展示了一片茂密的森林，各种野生动物在其中游荡。",
+                "D. 场景展示了一个宁静的海滩，清澈的蓝色海水和白色的沙滩。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_129": {
+            "id": "24i4ncHuf6A_129",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "左边的人穿着怎样的衣服？",
+            "options": [
+                "A. 穿着米黄色服装，包括一顶头盔、衬衫和短裤、一条腰带，棕色靴子。",
+                "B. 穿着现代的军装，包括一件迷彩外套、工装裤和战斗靴。",
+                "C. 穿着休闲服，包括一件T恤、牛仔裤和运动鞋。",
+                "D. 穿着传统的非洲服装，包括一件颜色鲜艳的长袍和头巾。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_130": {
+            "id": "24i4ncHuf6A_130",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "左边的画像手里拿着什么？",
+            "options": [
+                "A. 画像一只手里拿着一把长步枪。",
+                "B. 画像一只手拿着一张非洲的地图。",
+                "C. 画像双手拿着一顶皮帽。",
+                "D. 画像水平地拿着一把仪式用剑。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_131": {
+            "id": "24i4ncHuf6A_131",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "右边展示的主要物体是什么？",
+            "options": [
+                "A. 该物体是非洲大陆的棕色实心轮廓。",
+                "B. 该物体是一个明亮的青色图形。",
+                "C. 该物体是一套米色的殖民服装。",
+                "D. 该物体是一支长步枪。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_132": {
+            "id": "24i4ncHuf6A_132",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "右侧的物体是如何表现的？",
+            "options": [
+                "A. 它被表现为一个深棕色的实体轮廓。",
+                "B. 它被表现为一张详细的地图。",
+                "C. 它被表现为一个充满活力的景观。",
+                "D. 它被表现为一系列图标和符号。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_133": {
+            "id": "24i4ncHuf6A_133",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "场景中有多少个中心元素？",
+            "options": [
+                "A. 只有一个中心元素。",
+                "B. 有两个中心元素。",
+                "C. 有三个中心元素。",
+                "D. 有四个中心元素。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_134": {
+            "id": "24i4ncHuf6A_134",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "场景中的核心元素是什么？",
+            "options": [
+                "A. 左侧身着服饰的人物和右侧地图。",
+                "B. 带有抽象图案的明亮青色背景。",
+                "C. 画面两侧的两个殖民时代人物。",
+                "D. 一幅非洲地图和现代城市景观。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_135": {
+            "id": "24i4ncHuf6A_135",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "视频中，画框是否一直保持灰色背景？",
+            "options": [
+                "A. 是的，灰色背景在整个视频中都保持不变。",
+                "B. 不，灰色背景被明亮的蓝绿色背景代替了。",
+                "C. 是的，背景保持单色。",
+                "D. 不，灰色背景变成了纯棕色。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_136": {
+            "id": "24i4ncHuf6A_136",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "是什么动作强化了这人的军事存在感？",
+            "options": [
+                "A. 这人直立着站着，同时垂直地握着一支长步枪",
+                "B. 这人的白色殖民服和硬壳帽",
+                "C. 背景中非洲的深棕色轮廓",
+                "D. 强调构图的青色背景"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_137": {
+            "id": "24i4ncHuf6A_137",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "非洲的轮廓位于画面的哪一侧？",
+            "options": [
+                "A. 画面的左侧",
+                "B. 画面的右侧",
+                "C. 画面的中央",
+                "D. 画面的两侧"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_138": {
+            "id": "24i4ncHuf6A_138",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "框架中使用了哪种类型的视觉构图？",
+            "options": [
+                "A. 构图繁忙而混乱，多个元素散布在画面中，没有明确的焦点。",
+                "B. 构图简约而抢眼，集中突出殖民人物与非洲剪影的对比，背景为青绿色。",
+                "C. 构图抽象且令人困惑，明亮的形状和色彩未形成一致的图像。",
+                "D. 构图阴暗而忧郁，使用柔和的色调和阴影人物营造出一种不祥的氛围。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_139": {
+            "id": "24i4ncHuf6A_139",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "视频过程中背景发生了哪些变化？",
+            "options": [
+                "A. 背景从纯灰色变为鲜艳的青色。",
+                "B. 背景从纯灰色变为明亮的红色。",
+                "C. 整个视频背景保持纯灰色。",
+                "D. 背景从鲜艳的青色变为粉色。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_140": {
+            "id": "24i4ncHuf6A_140",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "画面开头显眼地出现了什么文字？",
+            "options": [
+                "A. 'COLONIALISM'一词以醒目的文字呈现在纯灰色背景上。",
+                "B. 'IMPERIALISM'一词以醒目的文字呈现在纯灰色背景上。",
+                "C. 'EXPLOITATION'一词以醒目的文字呈现在纯灰色背景上。",
+                "D. 'DOMINATION'一词以醒目的文字呈现在纯灰色背景上。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_141": {
+            "id": "24i4ncHuf6A_141",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "穿着殖民服装的人物在场景中的什么位置？",
+            "options": [
+                "A. 穿着殖民服装的人物位于场景的左侧。",
+                "B. 穿着殖民服装的人物位于场景的右侧。",
+                "C. 穿着殖民服装的人物位于场景的中央。",
+                "D. 场景中没有穿着殖民服装的人物。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_142": {
+            "id": "24i4ncHuf6A_142",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "视频中的主要场景转换是什么？",
+            "options": [
+                "A. 场景从宁静的乡村转变到繁忙的城市景观。",
+                "B. 场景从对殖民图像的详细描绘转变为极简主义的展示。",
+                "C. 场景从五彩缤纷的庆典转变为黑白分明的景观。",
+                "D. 场景从现代工业环境转变到宁静的森林。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_143": {
+            "id": "24i4ncHuf6A_143",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "初始详细场景中描绘了多少个人物？",
+            "options": [
+                "A. 未描绘任何人物",
+                "B. 描绘了一个人物",
+                "C. 描绘了两个人物",
+                "D. 描绘了三个人物"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_144": {
+            "id": "24i4ncHuf6A_144",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "视频中有文字吗？",
+            "options": [
+                "A. 没有，视频中没有任何文字。",
+                "B. 有，视频中有'COLONIALISM'这个词。",
+                "C. 有，视频中有'NATIONALISM'这个词。",
+                "D. 有，视频中有'HISTORICAL IMPERIALISM'这个词。"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_145": {
+            "id": "24i4ncHuf6A_145",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "视频中的文字说了什么？",
+            "options": [
+                "A. 文本以粗体黑色大写字母显示“NATIONALISM”。",
+                "B. 文本以粗体黑色大写字母显示“COLONIALISM”。",
+                "C. 文本以粗体黑色大写字母显示“HISTORY”。",
+                "D. 文本以粗体黑色大写字母显示“IMPERIALISM”。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_146": {
+            "id": "24i4ncHuf6A_146",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "当主题变化时，场景的画面会发生什么变化？",
+            "options": [
+                "A. 场景的画面从殖民主义描绘转变为只有文字的极简主义画面。",
+                "B. 图像从非洲野生动物的描绘变为现代城市景观。",
+                "C. 视觉主题从抽象图案过渡到对殖民人物的详细描绘。",
+                "D. 场景从极简主义文字转变为生动的殖民历史描述。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_147": {
+            "id": "24i4ncHuf6A_147",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "极简主义阶段中强调民族主义的视觉元素是什么？",
+            "options": [
+                "A. 在浅灰色背景上的粗体大写黑色字母'NATIONALISM'。",
+                "B. 在明亮的青色背景上的非洲大陆剪影。",
+                "C. 穿着米色殖民服装的角色手持竖立的步枪。",
+                "D. 象征殖民权威的工具带。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_148": {
+            "id": "24i4ncHuf6A_148",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "视频的主要背景是什么？",
+            "options": [
+                "A. 灰色背景上的简单文字",
+                "B. 欧洲及其周边地区的卡通地图",
+                "C. 现代城市景观",
+                "D. 极简主义艺术作品"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_149": {
+            "id": "24i4ncHuf6A_149",
+            "scene": 12,
+            "dimension": "Count",
+            "question": "场景右侧有多少个人物？",
+            "options": [
+                "A. 两个人物",
+                "B. 三个人物",
+                "C. 四个人物",
+                "D. 五个人物"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_150": {
+            "id": "24i4ncHuf6A_150",
+            "scene": 12,
+            "dimension": "Binary",
+            "question": "左边是否有一个穿白色军装和红色裤子的人物？",
+            "options": [
+                "A. 是",
+                "B. 不是",
+                "C. 不确定",
+                "D. 以上都不是"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_151": {
+            "id": "24i4ncHuf6A_151",
+            "scene": 12,
+            "dimension": "Object Direction",
+            "question": "戴高高的黑色大礼帽的身影正在向哪个方向举起他的右手？",
+            "options": [
+                "A. 上方并稍微偏右",
+                "B. 正左方",
+                "C. 下方并稍微偏右",
+                "D. 正上方的中心"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_152": {
+            "id": "24i4ncHuf6A_152",
+            "scene": 12,
+            "dimension": "Camera Shot",
+            "question": "哪种类型的镜头可以同时捕捉服饰和地理背景？",
+            "options": [
+                "A. 广角镜头捕捉包含人物和地图细节的整体场景。",
+                "B. 特写镜头聚焦于个体服饰细节。",
+                "C. 中景镜头仅展示主要人物。",
+                "D. 全景镜头只拍摄地理背景。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_153": {
+            "id": "24i4ncHuf6A_153",
+            "scene": 12,
+            "dimension": "Attribute Change",
+            "question": "视频场景在其进展过程中是如何演变的？",
+            "options": [
+                "A. 场景以历史人物之间复杂的互动开始，然后过渡到带有文字的纯背景。",
+                "B. 视频始终展示了地图上的历史人物一致的描绘。",
+                "C. 场景从带有灰色背景和文字极简风格演变为带有互动历史人物的详细地图。",
+                "D. 场景从生动多彩的卡通风格地图过渡到带有粗体文字“民族主义”的纯灰色背景。"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_154": {
+            "id": "24i4ncHuf6A_154",
+            "scene": 12,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素突出了历史和意识形态的讨论？",
+            "options": [
+                "A. 对比鲜明的服饰、手势以及人物之间的互动。",
+                "B. 简单的浅灰色背景和粗体文字突出了历史和意识形态的讨论。",
+                "C. 地图的暗淡色调完全掩盖了人物互动的重要性。",
+                "D. 人物和地理元素的缺失突出了历史讨论中的简洁性。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_155": {
+            "id": "24i4ncHuf6A_155",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "视频中描述的主要场景环境是什么？",
+            "options": [
+                "A. 场景热闹且有庆祝气氛，类似于城市广场或户外公园。",
+                "B. 场景安静且具有历史感，具有复杂的设计和沉稳的色调。",
+                "C. 场景设定在一个黑暗、神秘的森林中，营造出诡异和不祥的氛围。",
+                "D. 场景描绘的是一个宁静的乡村，拥有连绵的丘陵和平和、安宁的氛围。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_156": {
+            "id": "24i4ncHuf6A_156",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "汽车上这个女人在举止方面是如何描绘的？",
+            "options": [
+                "A. 这个女人显得沉郁和害羞，举止保守。",
+                "B. 这个女人高高举起手臂，欢欣鼓舞，散发出喜悦和活力。",
+                "C. 这个女人静止不动，显示出一种平静和安详的气质。",
+                "D. 这个女人显得漠不关心，没有任何情感表现。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_157": {
+            "id": "24i4ncHuf6A_157",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "穿蓝色制服的男人的服装有什么样的细节装饰？",
+            "options": [
+                "A. 蓝色制服有红色点缀、金属徽章、勋章和星形标志。",
+                "B. 蓝色制服很朴素，没有额外的细节装饰。",
+                "C. 蓝色制服有金色刺绣和皇冠标志。",
+                "D. 蓝色制服有银色纽扣和红色腰带。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_158": {
+            "id": "24i4ncHuf6A_158",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "与穿蓝色制服的男人的服装相配的是哪一项？",
+            "options": [
+                "A. 一件红色的披风和一个金色的王冠。",
+                "B. 一个绿色的羽毛头饰和一顶黑色的帽子。",
+                "C. 一顶银色的头盔和一双白色的手套。",
+                "D. 一条紫色的围巾和一条黄色的头巾。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_159": {
+            "id": "24i4ncHuf6A_159",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "这个场景的背景中是否有一片生动、无云的蓝天？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 天空多云",
+                "D. 天空未显示"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_160": {
+            "id": "24i4ncHuf6A_160",
+            "scene": 13,
+            "dimension": "Fine Grained Action",
+            "question": "新出现的生动角色在这个场景中做了什么动作？",
+            "options": [
+                "A. 两个角色都高高举起手臂，以庆祝的姿势。",
+                "B. 两个角色都在空中挥舞旗帜。",
+                "C. 两个角色一起跳舞。",
+                "D. 两个角色一起鼓掌。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_161": {
+            "id": "24i4ncHuf6A_161",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "在画面底部显示的重复文本是什么？",
+            "options": [
+                "A. 重复文本是“CLICK TO SEE PART 2”。",
+                "B. 重复文本是“EXPLORE THE NEXT SCENE”。",
+                "C. 重复文本是“WATCH THE FULL STORY”。",
+                "D. 重复文本是“CONTINUE TO THE NEXT PART”。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_162": {
+            "id": "24i4ncHuf6A_162",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "框架底部反复出现的文字有什么作用？",
+            "options": [
+                "A. 它提供了与场景相关的微妙叙事元素。",
+                "B. 它邀请观众的参与，并为之前的视觉效果提供连续性。",
+                "C. 它为设定提供了额外的历史背景。",
+                "D. 它详细描述了角色。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_163": {
+            "id": "24i4ncHuf6A_163",
+            "scene": 14,
+            "dimension": "Spatial",
+            "question": "士兵在灰色虚空中的位置在哪里？",
+            "options": [
+                "A. 稍微偏离中心，接近左上方",
+                "B. 稍微偏离中心，接近右下方",
+                "C. 直接在中心",
+                "D. 靠近右上角"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_164": {
+            "id": "24i4ncHuf6A_164",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "当前按场景时相比于上个场景有什么变化？",
+            "options": [
+                "A. 从充满活力的角色和城市背景过渡到一个无特征的灰色空域。",
+                "B. 动画场景过渡到一个五彩斑斓、充满活力的战场场景。",
+                "C. 动画场景淡化成一个明亮的白色空域，散布着元素。",
+                "D. 动画场景被另一个相同主题的动画序列替代。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_165": {
+            "id": "24i4ncHuf6A_165",
+            "scene": 14,
+            "dimension": "Description-Human",
+            "question": "当士兵首次登场时，他穿着什么？",
+            "options": [
+                "A. 士兵穿着详细的军用迷彩服、防弹背心和带头灯的绿色头盔。",
+                "B. 士兵穿着蓝色制服、防弹背心和带头灯的绿色头盔。",
+                "C. 士兵穿着详细的军用迷彩服、防弹背心和带头灯的蓝色头盔。",
+                "D. 士兵穿着详细的军用迷彩服、蓝色背心和带夜视仪的绿色头盔。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_166": {
+            "id": "24i4ncHuf6A_166",
+            "scene": 14,
+            "dimension": "Description-Object",
+            "question": "在宣传图中，绿色书籍的封面上描绘了什么？",
+            "options": [
+                "A. 封面上有士兵和飞机插图，反映了战争主题。",
+                "B. 封面上是一战期间的欧洲地图。",
+                "C. 封面上描绘了一个在城市环境中的动画卡通角色。",
+                "D. 封面上展示了现代战术背心和装备。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_167": {
+            "id": "24i4ncHuf6A_167",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "推广图形是否包含关于第一次世界大战的文字？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 只有部分提及",
+                "D. 未提及"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_168": {
+            "id": "24i4ncHuf6A_168",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "在初始场景中，动画元素和文字“CLICK TO SEE PART 2”会发生什么变化？",
+            "options": [
+                "A. 动画元素和文字在整个场景中保持不变。",
+                "B. 动画元素和文字消失，被灰色空白取代。",
+                "C. 动画元素变成一本封面上有士兵和飞机的书。",
+                "D. 动画元素和文字被一个繁忙的城市场景取代。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_169": {
+            "id": "24i4ncHuf6A_169",
+            "scene": 14,
+            "dimension": "Spatial",
+            "question": "在宣传图中，绿色图相对于士兵的位置在哪里？",
+            "options": [
+                "A. 绿色图位于屏幕的左侧。",
+                "B. 绿色图位于屏幕的右侧。",
+                "C. 绿色图位于图形中心的士兵上方。",
+                "D. 绿色图直接位于士兵的脚下。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_170": {
+            "id": "24i4ncHuf6A_170",
+            "scene": 14,
+            "dimension": "Description-Scene",
+            "question": "在士兵场景中使用了哪种类型的视觉焦点？",
+            "options": [
+                "A. 使用了极简主义的焦点，突出士兵在柔和的绿色和雾蒙蒙的背景下。",
+                "B. 使用了详细的城市焦点，具有生动的人物和吸引人的文字。",
+                "C. 使用了复杂的城市景观焦点，展示了动画人物和繁忙的城市背景。",
+                "D. 使用了宣传焦点，展示了士兵和彩色插图的双翼飞机在鲜艳的绿色书封面上。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_171": {
+            "id": "24i4ncHuf6A_171",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "灰色空白与宣传图之间的环境发生了哪些变化？",
+            "options": [
+                "A. 灰色空白转变为更富有色彩和细节的宣传图，包含插图和文字。",
+                "B. 灰色空白变得更暗并更具不祥的氛围，出现了风暴云和闪电。",
+                "C. 灰色空白转变为一个充满战斗和爆炸的战场。",
+                "D. 灰色空白变成一个明亮的白色空间，没有明显的特征或角色。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_172": {
+            "id": "24i4ncHuf6A_172",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "促销图片上显示的主要文字是什么？",
+            "options": [
+                "A. SIMPLE HISTORY: A Simple Guide to WORLD WAR II.",
+                "B. SIMPLE HISTORY: A Simple Guide to WORLD WAR I.",
+                "C. SIMPLE HISTORY: A Comprehensive Guide to WORLD WAR I.",
+                "D. A Simple Guide to Historical Wars。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_173": {
+            "id": "24i4ncHuf6A_173",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "宣传图中包含了哪些额外的细节？",
+            "options": [
+                "A. 有关百年纪念版以及其在amazon.com上的细节。",
+                "B. 有关作者传记以及本书内容的抢先预览。",
+                "C. 有关与本书相关的即将举行的活动信息以及对其插画师的专题介绍。",
+                "D. 同一出版社出版的其他书籍列表以及读者的推荐语。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_174": {
+            "id": "24i4ncHuf6A_174",
+            "scene": 15,
+            "dimension": "Description-Scene",
+            "question": "场景转换发生在哪里？",
+            "options": [
+                "A. 场景从一个高度细致的宣传图形转换为完全黑暗。",
+                "B. 场景从电影预告片转换为明亮的白天场景。",
+                "C. 场景从一个黑屏转换为丰富多彩的动画。",
+                "D. 场景从拥挤的街道转换为安静的海滩。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_175": {
+            "id": "24i4ncHuf6A_175",
+            "scene": 15,
+            "dimension": "Attribute Change",
+            "question": "场景转换后是怎样的环境？",
+            "options": [
+                "A. 环境继续为黑色背景上的极简字幕屏幕。",
+                "B. 环境充满了详细的宣传图。",
+                "C. 环境变成了繁忙的城市景观。",
+                "D. 环境转为战场场景。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_176": {
+            "id": "24i4ncHuf6A_176",
+            "scene": 14,
+            "dimension": "Description-Human",
+            "question": "宣传图中单独站立的士兵穿着如何？",
+            "options": [
+                "A. 士兵穿着迷彩服，手持步枪。",
+                "B. 士兵穿着蓝色制服，手持步枪。",
+                "C. 士兵穿着深色衣服，持有枪械。",
+                "D. 士兵打扮成飞行员，手持小册子。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_177": {
+            "id": "24i4ncHuf6A_177",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "宣传图书封面上包含哪些文字？",
+            "options": [
+                "A. 'SIMPLE HISTORY: A SIMPLE GUIDE TO WORLD WAR I','amazon.com' 标志，以及一些历史细节。",
+                "B. 'SIMPLE HISTORY: A GUIDE TO WWII'，'amazon.com' 标志，以及各种军事级别。",
+                "C. 'HISTORY MADE SIMPLE: AN EXCLUSIVE GUIDE'，一家书店的标志，以及作者姓名。",
+                "D. 'WORLD WAR I: A VISUAL GUIDE'，一家出版社的标志，以及用于获取更多信息的二维码。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_178": {
+            "id": "24i4ncHuf6A_178",
+            "scene": 15,
+            "dimension": "Count",
+            "question": "在致谢部分提到了多少个人？",
+            "options": [
+                "A. 致谢部分提到了四个人。",
+                "B. 致谢部分提到了五个人。",
+                "C. 致谢部分提到了六个人。",
+                "D. 致谢部分提到了七个人。"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_179": {
+            "id": "24i4ncHuf6A_179",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "在字幕部分提到了哪些角色？",
+            "options": [
+                "A. 提到的角色是'NARRATOR'、'ANIMATION'和'ARTWORK'。",
+                "B. 提到的角色是'DIRECTOR'、'EDITOR'和'PRODUCER'。",
+                "C. 提到的角色是'NARRATOR'、'EDITOR'和'SCRIPTWRITER'。",
+                "D. 提到的角色是'ANIMATION'、'PRODUCER'和'CINEMATOGRAPHY'。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_180": {
+            "id": "24i4ncHuf6A_180",
+            "scene": 15,
+            "dimension": "Count",
+            "question": "有多少人担任“NARRATOR”角色？",
+            "options": [
+                "A. 一位",
+                "B. 两位",
+                "C. 三位",
+                "D. 没有"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_181": {
+            "id": "24i4ncHuf6A_181",
+            "scene": 15,
+            "dimension": "Count",
+            "question": "有多少人参与了‘ANIMATION’角色？",
+            "options": [
+                "A. 两人",
+                "B. 三人",
+                "C. 四人",
+                "D. 一人"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_182": {
+            "id": "24i4ncHuf6A_182",
+            "scene": 15,
+            "dimension": "Count",
+            "question": "有多少人与“ARTWORK”角色相关联？",
+            "options": [
+                "A. 一个人",
+                "B. 两个人",
+                "C. 三个人",
+                "D. 四个人"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_183": {
+            "id": "24i4ncHuf6A_183",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "画面中的文字是否对齐整齐？",
+            "options": [
+                "A. 是的，画面中的文字对齐整齐。",
+                "B. 不，画面中的文字排列混乱且不均匀。",
+                "C. 画面中的文字对齐情况不一致。",
+                "D. 画面中的文字完全不可见。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_184": {
+            "id": "24i4ncHuf6A_184",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "字幕中的文本在字体样式和间距上是否一致？",
+            "options": [
+                "A. 是的，字幕中的文本在字体样式和间距上是一致的。",
+                "B. 不，字幕中的文本在字体样式上不一致。",
+                "C. 不，字幕中的文本在间距上不一致。",
+                "D. 不，字幕中的文本在字体样式和间距上都不一致。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_185": {
+            "id": "24i4ncHuf6A_185",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "当视频中出现“ARTWORK:”的角色和名字时，会出现什么动作？",
+            "options": [
+                "A. 向上的滚动动作将“ARTWORK:”标题和名字移至画面更高处。",
+                "B. “ARTWORK:”的标题和名字在屏幕上间歇性闪烁。",
+                "C. 向下滚动动作将“ARTWORK:”标题和名字移至画面更低处。",
+                "D. “ARTWORK:”的标题和名字在这段视频中始终保持静止。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_186": {
+            "id": "24i4ncHuf6A_186",
+            "scene": 15,
+            "dimension": "Attribute Change",
+            "question": "字幕在片尾字幕段落中朝哪个方向移动？",
+            "options": [
+                "A. 字幕向上移动。",
+                "B. 字幕向下移动。",
+                "C. 字幕向左移动。",
+                "D. 字幕保持不动。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_187": {
+            "id": "24i4ncHuf6A_187",
+            "scene": 15,
+            "dimension": "Attribute Change",
+            "question": "字幕滚动速度有变化吗？",
+            "options": [
+                "A. 是的，根据不同的部分，字幕滚动速度有所不同。",
+                "B. 是的，字幕会暂停片刻然后继续滚动。",
+                "C. 不是，字幕平滑地向上滚动，没有明显的变化。",
+                "D. 不是，字幕静止不动，没有滚动。"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_188": {
+            "id": "24i4ncHuf6A_188",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "视频结尾的视觉内容是什么？",
+            "options": [
+                "A. 视觉内容过渡到一个简洁字幕画面，然后完全变为黑暗。",
+                "B. 视觉内容变为一个带有多个角色的彩色动画。",
+                "C. 画面切换到一个带有详细图形的明亮宣传图片。",
+                "D. 屏幕显示了一组带有字幕的历史图片幻灯片。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_189": {
+            "id": "24i4ncHuf6A_189",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "在字幕屏幕上使用了哪些视觉提示来指示不同的角色？",
+            "options": [
+                "A. 不同角色使用不同的字体大小。",
+                "B. 每个角色的标题使用不同的颜色。",
+                "C. 使用独特标题标签。",
+                "D. 每个角色旁边使用图标和符号。"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_190": {
+            "id": "24i4ncHuf6A_190",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉提示表明在字幕屏幕中对应每个角色的个人？",
+            "options": [
+                "A. 个人的名字会以一致且易读的字体样式显示在标题标签之后。",
+                "B. 每个名字旁边会显示职业图标。",
+                "C. 颜色区分每个角色的文本标题与名字。",
+                "D. 个体的照片会出现在他们各自的角色旁边。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_191": {
+            "id": "24i4ncHuf6A_191",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在视频开始时的空白灰色背景之后引入了什么视觉元素？",
+            "options": [
+                "A. 以醒目排版显示的显眼文字。",
+                "B. 展示第一次世界大战期间联盟的详细地图。",
+                "C. 一张第一次世界大战期间士兵的历史照片。",
+                "D. 一条显示导致第一次世界大战的重大事件的时间轴。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_192": {
+            "id": "24i4ncHuf6A_192",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "浅灰色背景过渡到以文字为主的视觉效果后发生了什么？",
+            "options": [
+                "A. 场景过渡到一个动态叙事环境，呈现出一位卡人物和建筑的街景。",
+                "B. 场景转换为一组历史图像的蒙太奇，并伴有激昂的音乐。",
+                "C. 屏幕保持黑色，没有新的视觉内容或过渡。",
+                "D. 字幕结束后出现了一条感谢观众观看的信息。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_193": {
+            "id": "24i4ncHuf6A_193",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在视频中，书籍《SIMPLE HISTORY: A Simple Guide to WORLD WAR I》的宣传图像之后播出了什么内容？",
+            "options": [
+                "A. 场景转变为完全黑暗，然后引入清晰的字幕来表现制作团队的名单。",
+                "B. 场景转变为一个充满活力的第一次世界大战战斗场景剪辑。",
+                "C. 场景切换到一段描绘士兵行军的动画序列。",
+                "D. 场景展示了一个详细的第一次世界大战战场地图。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_194": {
+            "id": "24i4ncHuf6A_194",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "视频中短语“WHAT CAUSED THE DEVASTATING FIRST WORLD WAR？”的重要性是什么？",
+            "options": [
+                "A. 该短语以喜剧的方式介绍历史事件，以娱乐观众。",
+                "B. 该短语为关于第一次世界大战的原因和事件的讨论定下基调。",
+                "C. 该短语作为虚构战争主题故事的宣传标语。",
+                "D. 该短语提供了整个视频内容的一句话总结。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_195": {
+            "id": "24i4ncHuf6A_195",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "文本元素“MILITARISM”强调了什么？",
+            "options": [
+                "A. 它将军国主义视为第一次世界大战的主要原因之一。",
+                "B. 它强调了第一次世界大战期间士兵制服的重要性。",
+                "C. 它集中于第一次世界大战期间武器的技术进步。",
+                "D. 它强调了第一次世界大战期间国家间的联盟。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_196": {
+            "id": "24i4ncHuf6A_196",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "文本元素'ALLIANCES'突出了什么？",
+            "options": [
+                "A. 突出了同盟是第一次世界大战的一个因素。",
+                "B. 强调了同盟在第二次世界大战期间的经济影响。",
+                "C. 列出了参与形成同盟的主要政治人物。",
+                "D. 解释了同盟作为现代军事策略的一部分。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_197": {
+            "id": "24i4ncHuf6A_197",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "文本元素“IMPERIALISM”突出了什么？",
+            "options": [
+                "A. 它是书封面上的一个装饰元素。",
+                "B. 它突出了帝国主义是第一次世界大战的促成因素之一。",
+                "C. 它标明了场景中宣传的书中的一个章节标题。",
+                "D. 它作为正在宣传的书的作者的名字。"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_198": {
+            "id": "24i4ncHuf6A_198",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "详细的地图描绘在推进叙述中扮演了什么角色？",
+            "options": [
+                "A. 它们直观地展示了第一次世界大战期间的战略动向。",
+                "B. 它们作为装饰元素提升了书封面的美学吸引力。",
+                "C. 它们突出了第二次世界大战后的地理变化。",
+                "D. 它们通过艺术象征展示文化习俗和传统。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_199": {
+            "id": "24i4ncHuf6A_199",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在焦点转移到粗体文字'ALLIANCES'之前，哪个概念被描绘了？",
+            "options": [
+                "A. 视频描述了英国和德国的海军竞争，展示了战舰在网格状阵型中象征着军备扩展。",
+                "B. 视频展示了世界领导人围坐在桌子旁签署《Treaty of Versailles》的场景。",
+                "C. 视频突出了战壕中的激烈陆战，士兵们相互冲锋。",
+                "D. 视频展示了第一次世界大战时期的先进武器和技术。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_200": {
+            "id": "24i4ncHuf6A_200",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在引入'NATIONALISM'概念之前展示了什么场景？",
+            "options": [
+                "A. 有一个场景展示了一个殖民人物与非洲棕色剪影并列出现。",
+                "B. 屏幕显示了士兵在战场上行军的图像。",
+                "C. 一个场景展示了一张宣传海报，上面有着促进团结的粗体文字。",
+                "D. 有一个图像展示了各国的旗帜并排飘扬。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_201": {
+            "id": "24i4ncHuf6A_201",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在地缘政治地图上对'TRIPLE ENTENTE（1907）'的主题探索之后出现了什么视觉表现？",
+            "options": [
+                "A. 画面转为在纯灰背景上的大胆简约文字'IMPERIALISM'。",
+                "B. 画面转变为一段描绘一战期间战壕中士兵的动画。",
+                "C. 顺序展示了一战重要战役的时间线，并配有动画标记。",
+                "D. 画面展示了一个详细地图，展示了欧洲列强的殖民地。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_202": {
+            "id": "24i4ncHuf6A_202",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么视频以极简风格使用 'MILITARISM,' 'ALLIANCES,' 和 'IMPERIALISM'等术语？",
+            "options": [
+                "A. 以微妙的方式强调第一次世界大战事件的复杂性",
+                "B. 以直接而有影响力的方式突出第一次世界大战的关键原因",
+                "C. 展示第一次世界大战对现代战争的文化影响",
+                "D. 提供战争元素的艺术表现，而不让观众感到不知所措"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_203": {
+            "id": "24i4ncHuf6A_203",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么会从动画地图转变为像“ALLIANCES”这样的文本描述？",
+            "options": [
+                "A. 这种转变强调了从军事行动转向军事行动背后的主题变化。",
+                "B. 转变是为了在故事情节中引入新的动画角色和场景。",
+                "C. 转变旨在提供视觉上的休息并为视频添加动态效果。",
+                "D. 转变是为了纠正动画中的错误并提高视频的整体质量。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_204": {
+            "id": "24i4ncHuf6A_204",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "在描绘战略行动时，在地缘政治地图上添加新的红色箭头的目的是什么？",
+            "options": [
+                "A. 红色箭头旨在直观地描绘军事进攻的动态变化和复杂性。",
+                "B. 红色箭头用于区分和平谈判期间的各国领导人。",
+                "C. 红色箭头突出了战争对国际贸易路线的经济影响。",
+                "D. 红色箭头象征着在第一次世界大战期间保持中立的国家。"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_205": {
+            "id": "24i4ncHuf6A_205",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "在展示战略动作时，在地缘政治地图上添加国旗的目的是什么？",
+            "options": [
+                "A. 国旗的目的是为了描绘联盟。",
+                "B. 国旗用于突出参与国家的旅游景点。",
+                "C. 国旗作为标志，表示各地区即将发生的事件。",
+                "D. 国旗指示了不同时代主要历史战役的地点。"
+            ],
+            "answer": "A"
+        }
+    }
+}

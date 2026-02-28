@@ -1,0 +1,2453 @@
+{
+    "scene_hint": {
+        "0": "由黑色背景和视频切片过渡到'CRITICAL BENCH.com'。",
+        "1": "两个人站在一起。",
+        "2": "两人在做台阶运动。",
+        "3": "两人进行倾斜俯卧撑。",
+        "4": "两人在进行分腿蹲。",
+        "5": "两人腿搭在椅子上手支撑在地面并交换着摸肩膀。",
+        "6": "两人在篮球场前谈话。",
+        "7": "一个攀岩者攀登悬崖的画面，文字在中心展示。",
+        "8": "消防员救火的画面，文字在中心展示。",
+        "9": "夜间橄榄球比赛的画面，文字在中心展示。",
+        "10": "一个静音灰度场景，文字在中心展示。",
+        "11": "施工现场的画面，文字在中心展示。",
+        "12": "展示健身房的壶铃，文字在中心展示。",
+        "13": "大人和小孩站在湖边，文字在中心展示。",
+        "14": "一个人在健身的画面，文字在中心展示。",
+        "15": "一个沧桑面孔特写，文字在中心展示。"
+    },
+    "qa": {
+        "5kmnEgBSCfg_0": {
+            "id": "5kmnEgBSCfg_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "硬拉场景相对于中心画板位于哪里？",
+            "options": [
+                "A. 左上方。",
+                "B. 左下方。",
+                "C. 上方。",
+                "D. 右上方。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_1": {
+            "id": "5kmnEgBSCfg_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频切片中描绘的环境是什么？",
+            "options": [
+                "A. 室内健身房。",
+                "B. 户外公园。",
+                "C. 游泳池区域。",
+                "D. 住宅客厅。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_2": {
+            "id": "5kmnEgBSCfg_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "中央面板右上方屏幕中的人们在做什么？",
+            "options": [
+                "A. 卧推。",
+                "B. 上团体健身课。",
+                "C. 使用器械和长凳进行锻炼。",
+                "D. 用杠铃做硬拉。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_3": {
+            "id": "5kmnEgBSCfg_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "场景中有任何文字元素可见吗？",
+            "options": [
+                "A. 是的。",
+                "B. 不。",
+                "C. 只有场景后半部分有文字。",
+                "D. 可见但不清晰。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_4": {
+            "id": "5kmnEgBSCfg_4",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "是否有任何面板显示有人面向右边?",
+            "options": [
+                "A. 是的。",
+                "B. 没有。",
+                "C. 是面向左边。",
+                "D. 面向正面。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_5": {
+            "id": "5kmnEgBSCfg_5",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "场景中的画面随着情节的发展如何变化？",
+            "options": [
+                "A. 展示各种健身活动。",
+                "B. 转变为举重比赛。",
+                "C. 保持黑暗和模糊。",
+                "D. 转向户外运动场景。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_6": {
+            "id": "5kmnEgBSCfg_6",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "显示穿蓝色短裤的人的屏幕在哪里？",
+            "options": [
+                "A. 左上角",
+                "B. 右上角",
+                "C. 右下角",
+                "D. 中央"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_7": {
+            "id": "5kmnEgBSCfg_7",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "场景中的环境是什么样的？",
+            "options": [
+                "A. 高科技的室内。",
+                "B. 乡村风格的。",
+                "C. 极简风格的。",
+                "D. 在户外。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_8": {
+            "id": "5kmnEgBSCfg_8",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "中央显示屏是什么样子的？",
+            "options": [
+                "A. 长方形的屏幕。",
+                "B. 圆形的屏幕。",
+                "C. 小方形的屏幕。",
+                "D. 三角形的屏幕。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_9": {
+            "id": "5kmnEgBSCfg_9",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这个场景有未来感的氛围吗？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 有时",
+                "D. 从未"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_10": {
+            "id": "5kmnEgBSCfg_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "镜头的焦点是什么？",
+            "options": [
+                "A. 'CRITICAL BENCH.com' 的文字。",
+                "B. 靠在长椅上的人。",
+                "C. 金属表面和边缘。",
+                "D. 在举重的人。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_11": {
+            "id": "5kmnEgBSCfg_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "中央屏幕上的图形线代表什么？",
+            "options": [
+                "A. 心率监测波形。",
+                "B. 声波模式。",
+                "C. 股市趋势。",
+                "D. 行程图。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_12": {
+            "id": "5kmnEgBSCfg_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "两名男子相对于黑色金属公园长椅的位置如何？",
+            "options": [
+                "A. 前方。",
+                "B. 坐在长椅上。",
+                "C. 一个在前一个在后。",
+                "D. 后面。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_13": {
+            "id": "5kmnEgBSCfg_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "两个人处于什么样的环境中？",
+            "options": [
+                "A. 户外。",
+                "B. 健身房。",
+                "C. 沙滩上。",
+                "D. 街道上。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_14": {
+            "id": "5kmnEgBSCfg_14",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "左边的男人穿着什么衣服？",
+            "options": [
+                "A. 白色T恤和蓝色短裤。",
+                "B. 无袖衫和黑色短裤。",
+                "C. 红色T恤和蓝色牛仔裤。",
+                "D. 黑色衬衫和白色裤子。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_15": {
+            "id": "5kmnEgBSCfg_15",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "左边那个人的姿势是什么？",
+            "options": [
+                "A. 站着，双手自然下垂。",
+                "B. 站着，两手叉腰。",
+                "C. 坐在公园的长椅上。",
+                "D. 靠在木栅栏上。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_16": {
+            "id": "5kmnEgBSCfg_16",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "右边的男人穿着什么样的衣服？",
+            "options": [
+                "A. 无袖衬衫和黑色短裤。",
+                "B. T恤和亮蓝色短裤。",
+                "C. 背心和运动裤。",
+                "D. 连帽衫和牛仔裤。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_17": {
+            "id": "5kmnEgBSCfg_17",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "右边那个男人的姿势是什么？",
+            "options": [
+                "A. 双臂交叉站着。",
+                "B. 靠在长椅上。",
+                "C. 坐在长椅上。",
+                "D. 双手叉腰站着。"
+            ],
+            "answer": "D"
+        },
+        "5kmnEgBSCfg_18": {
+            "id": "5kmnEgBSCfg_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "两人背后中央部分的主题是由什么确立的？",
+            "options": [
+                "A. 白色线条的篮球场。",
+                "B. 围栏和树木。",
+                "C. 草地和灌木。",
+                "D. 公园长椅。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_19": {
+            "id": "5kmnEgBSCfg_19",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "有多少人显著地站在画面的中央？",
+            "options": [
+                "A. 一个人",
+                "B. 两个人",
+                "C. 三个人",
+                "D. 没有人"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_20": {
+            "id": "5kmnEgBSCfg_20",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "场景中是否能够看到一扇木制围栏？",
+            "options": [
+                "A. 是的，有一扇木制围栏横向贯穿画面。",
+                "B. 不，仅能看到一扇金属围栏。",
+                "C. 不，场景中没有任何围栏可见。",
+                "D. 是的，但围栏不是木制的，而且是竖向的。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_21": {
+            "id": "5kmnEgBSCfg_21",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "哪些信息有助于识别场景中的两个人？",
+            "options": [
+                "A. 视频底部的'CRITICAL BENCH.com'与'COACH CHRIS'和'BRIAN KLEPACKI'的文字。",
+                "B. 前景中的长椅上有名称牌，上面写着'COACH CHRIS'和'BRIAN KLEPACKI'的名字。",
+                "C. 白线篮球场上有一张大海报，上面有关于'COACH CHRIS'和'BRIAN KLEPACKI'的信息。",
+                "D. 这些人佩戴了写有'COACH CHRIS'和'BRIAN KLEPACKI'名字的名牌。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_22": {
+            "id": "5kmnEgBSCfg_22",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "从一开始，场景的风格发生了什么变化？",
+            "options": [
+                "A. 场景从抽象风格，伴随着快速移动的水平线，过渡到一个详细且可识别的户外环境。",
+                "B. 场景从室内环境过渡到室外环境。",
+                "C. 场景从夜间环境和昏暗的灯光变为明亮的白天设置。",
+                "D. 场景从拥挤的城市区域移动到安静的郊区空间。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_23": {
+            "id": "5kmnEgBSCfg_23",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "哪个视觉元素提供了有关场景中两名男子的信息？",
+            "options": [
+                "A. 他们脸上的表情。",
+                "B. 画面底部的图形横幅。",
+                "C. 篮球场的设计",
+                "D. 背景中的围栏。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_24": {
+            "id": "5kmnEgBSCfg_24",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "在两个人锻炼时，黑色金属长椅相对于他们的位置在哪里？",
+            "options": [
+                "A. 前方。",
+                "B. 一旁。",
+                "C. 背景中。",
+                "D. 栅栏后方"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_25": {
+            "id": "5kmnEgBSCfg_25",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频的场景是什么？",
+            "options": [
+                "A. 公园",
+                "B. 健身房。",
+                "C. 沙滩上。",
+                "D. 森林空地。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_26": {
+            "id": "5kmnEgBSCfg_26",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "穿着浅灰色T恤和亮蓝色短裤的男子在做什么？",
+            "options": [
+                "A. 跳上长凳。",
+                "B. 坐在长凳上。",
+                "C. 做瑜伽动作。",
+                "D. 散步。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_27": {
+            "id": "5kmnEgBSCfg_27",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "这个场景中的黑色金属长凳是什么样的？",
+            "options": [
+                "A. 居于中央。",
+                "B. 看不见的。",
+                "C. 是坏的。",
+                "D. 上面有健身器材。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_28": {
+            "id": "5kmnEgBSCfg_28",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "黑色金属长椅在场景中的作用是什么？",
+            "options": [
+                "A. 锻炼间隙休息的地点。",
+                "B. 用于跳跃等动作。",
+                "C. 作为装饰元素使用。",
+                "D. 用于拉伸锻炼。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_29": {
+            "id": "5kmnEgBSCfg_29",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "视频中有多少男性在进行锻炼？",
+            "options": [
+                "A. 一名",
+                "B. 两名",
+                "C. 三名",
+                "D. 四名"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_30": {
+            "id": "5kmnEgBSCfg_30",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "在锻炼过程中，男士们的动作是否同步？",
+            "options": [
+                "A. 是的，男士们的动作在锻炼过程中高度同步。",
+                "B. 不，男士们独立进行不同的锻炼。",
+                "C. 是的，尽管偶尔有一位男士会休息。",
+                "D. 不，男士们的动作完全不协调。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_31": {
+            "id": "5kmnEgBSCfg_31",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "这两名男子在锻炼期间协调进行的动作是什么？",
+            "options": [
+                "A. 交替进行冲刺。",
+                "B. 同步开合跳。",
+                "C. 跳上长凳，再跳回地面。",
+                "D. 单手俯卧撑。"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_32": {
+            "id": "5kmnEgBSCfg_32",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "男人们朝哪个方向跳上长椅？",
+            "options": [
+                "A. 向下跳。",
+                "B. 向侧面跳。",
+                "C. 向前并向上跳。",
+                "D. 向后跳。"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_33": {
+            "id": "5kmnEgBSCfg_33",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "视频中使用了哪种类型的镜头？",
+            "options": [
+                "A. 固定的、平视角度的镜头。",
+                "B. 动态旋转的镜头拍摄。",
+                "C. 俯视视角的镜头。",
+                "D. 从低处向上拍摄的视角。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_34": {
+            "id": "5kmnEgBSCfg_34",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "哪些背景元素有助于识别健身场地为公园？",
+            "options": [
+                "A. 绿色篮球场、白色木栅栏、草地。",
+                "B. 沙滩、棕榈树、海洋和日落。",
+                "C. 绿色的篮球场、蓝色木栅栏、红色瓦亭和人为照明。",
+                "D. 健身房内景、天花板风扇和荧光灯。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_35": {
+            "id": "5kmnEgBSCfg_35",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "在锻炼过程中，这两个男人彼此的相对位置是怎样的？",
+            "options": [
+                "A. 他们背靠背地做同步倾斜俯卧撑。",
+                "B. 他们面对面地做同步倾斜俯卧撑。",
+                "C. 他们并排地做同步倾斜俯卧撑。",
+                "D. 他们一前一后地做同步倾斜俯卧撑。"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_36": {
+            "id": "5kmnEgBSCfg_36",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "这个场景发生在什么地方？",
+            "options": [
+                "A. 公园。",
+                "B. 健身房。",
+                "C. 沙滩。",
+                "D. 住宅后院。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_37": {
+            "id": "5kmnEgBSCfg_37",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "公园的环境怎么样？",
+            "options": [
+                "A. 植被，长椅，带有白线的篮球场，白色木栅栏，树木。",
+                "B. 植被，木质野餐桌，明黄色线条的篮球场，一道砖墙，树木，亭子，人工光。",
+                "C. 植被，金属长椅，红线标出的足球场，链条围栏，灌木，亭子，阳光。",
+                "D. 树木，混凝土长椅，蓝线的网球场，金属门，花坛，月光。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_38": {
+            "id": "5kmnEgBSCfg_38",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "视频中的男人正在做什么动作？",
+            "options": [
+                "A. 同步的斜式俯卧撑。",
+                "B. 打篮球。",
+                "C. 练习瑜伽姿势。",
+                "D. 慢跑。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_39": {
+            "id": "5kmnEgBSCfg_39",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "视频两人的穿着是什么样的？",
+            "options": [
+                "A. 右边的男人穿着T恤和亮蓝色短裤，而左边的男人穿着无袖衫和黑色短裤。",
+                "B. 两个男人都穿着纯白色T恤和亮蓝色运动短裤。",
+                "C. 右边的男人穿着无袖衫和黑色短裤，而左边的男人穿着T恤和亮蓝色短裤。",
+                "D. 两个男人都穿着橙色无袖衫和黑色短裤。"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_40": {
+            "id": "5kmnEgBSCfg_40",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "长椅是什么样子的？",
+            "options": [
+                "A. 黑色金属。",
+                "B. 白色木头。",
+                "C. 绿色塑料。",
+                "D. 棕色木头。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_41": {
+            "id": "5kmnEgBSCfg_41",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "长椅对这些男人有什么用途？",
+            "options": [
+                "A. 它被用作支撑。",
+                "B. 它被用作坐下休息的地方。",
+                "C. 它是比赛的标志点。",
+                "D. 这是他们放置水瓶的地方。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_42": {
+            "id": "5kmnEgBSCfg_42",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "有多少人参与了这套锻炼计划？",
+            "options": [
+                "A. 一人",
+                "B. 两人",
+                "C. 三人",
+                "D. 四人"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_43": {
+            "id": "5kmnEgBSCfg_43",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "场景中有篮球场吗？",
+            "options": [
+                "A. 是的，场景中有一个篮球场。",
+                "B. 不，场景中没有篮球场。",
+                "C. 不清楚场景中是否有篮球场。",
+                "D. 场景中只有一个网球场。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_44": {
+            "id": "5kmnEgBSCfg_44",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "右边的男人在锻炼时对他的姿势做了什么调整？",
+            "options": [
+                "A. 弯曲手肘，手臂保持不动。",
+                "B. 伸直手臂并后退远离长凳来调整他的姿势。",
+                "C. 抬头向上看天空来调整他的姿势。",
+                "D. 将体重移到一只手上，同时将另一只手抬离长凳来调整他的姿势。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_45": {
+            "id": "5kmnEgBSCfg_45",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "视频中使用了哪种类型的镜头？",
+            "options": [
+                "A. 眼平镜头。",
+                "B. 俯拍镜头。",
+                "C. 特写镜头。",
+                "D. 低角度镜头。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_46": {
+            "id": "5kmnEgBSCfg_46",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "视频中哪些视觉元素突出了场景的环境？",
+            "options": [
+                "A. 绿地、篮球场、围栏、树木、亭子。",
+                "B. 城市天际线、道路和摩天大楼。",
+                "C. 沙滩、海浪和海鸥。",
+                "D. 覆盖着雪的山丘、冰柱和结冰的池塘。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_47": {
+            "id": "5kmnEgBSCfg_47",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "场景前期，穿着亮橙色无袖衬衫的那个人在做什么？",
+            "options": [
+                "A. 右腿弯曲向前，左腿向后伸展。",
+                "B. 他站在林间木桩旁的橡胶小径上。",
+                "C. 他坐在黑色金属长凳上，两条腿伸直。",
+                "D. 他躺在树下修剪整齐的草地上。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_48": {
+            "id": "5kmnEgBSCfg_48",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "场景前期，穿着亮橙色无袖衬衫的男子的右腿位置在哪里？",
+            "options": [
+                "A. 在黑色金属长椅上。",
+                "B. 向前伸展朝向篮球场。",
+                "C. 在地上。",
+                "D. 向上伸展朝向树木。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_49": {
+            "id": "5kmnEgBSCfg_49",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "这个场景的整体环境是怎样的？",
+            "options": [
+                "A. 健身房，有明亮的霓虹灯和健身设备。",
+                "B. 密林中，没有可见的建筑或者路径。",
+                "C. 公园里，有庭院、小路、大树、道路、白色建筑。",
+                "D. 靠近沙滩的地方，有沙滩、棕榈树，以及背景中的海浪。"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_50": {
+            "id": "5kmnEgBSCfg_50",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "穿着鲜橙色无袖衬衫的男子在做什么？",
+            "options": [
+                "A. 进行保加利亚分腿蹲。",
+                "B. 做俯卧撑。",
+                "C. 慢跑。",
+                "D. 开合跳。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_51": {
+            "id": "5kmnEgBSCfg_51",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "右边那个人穿着什么？",
+            "options": [
+                "A. 橙色无袖衬衫，深色短裤和橙色鞋子。",
+                "B. 白色T恤，蓝色短裤和黑色鞋子。",
+                "C. 黑色背心，灰色短裤和白色运动鞋。",
+                "D. 无袖衬衫，黑色裤子和黑色鞋子。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_52": {
+            "id": "5kmnEgBSCfg_52",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "该场景中黑色金属长凳的用途是什么？",
+            "options": [
+                "A. 坐下并观察锻炼过程。",
+                "B. 作为装饰物使用。",
+                "C. 为做保加利亚分腿蹲的提供支撑。",
+                "D. 中用来放置健身器材。"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_53": {
+            "id": "5kmnEgBSCfg_53",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "场景中有多少人？",
+            "options": [
+                "A. 一个。",
+                "B. 两个。",
+                "C. 三个。",
+                "D. 四个。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_54": {
+            "id": "5kmnEgBSCfg_54",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "穿白色T恤的男人在做运动吗？",
+            "options": [
+                "A. 是的，他在做运动。",
+                "B. 不，他没有在做运动。",
+                "C. 他在拉伸。",
+                "D. 他在背景中跑步。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_55": {
+            "id": "5kmnEgBSCfg_55",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "穿白色T恤的那个人是在观察还是在参与？",
+            "options": [
+                "A. 参与。",
+                "B. 观察。",
+                "C. 积极领导锻炼活动。",
+                "D. 只是路过，并没有参与。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_56": {
+            "id": "5kmnEgBSCfg_56",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "在分腿蹲后期，穿橙色无袖衬衫的男人腿处于什么位置？",
+            "options": [
+                "A. 双腿都向前弯曲。",
+                "B. 他的左腿向前弯曲，右腿向后伸展。",
+                "C. 他的右腿向前弯曲，左腿向后伸展。",
+                "D. 双腿都向后伸展。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_57": {
+            "id": "5kmnEgBSCfg_57",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "使用哪种类型的镜头来捕捉这个场景？",
+            "options": [
+                "A. 平视镜头。",
+                "B. 高角度镜头。",
+                "C. 低角度镜头。",
+                "D. 鸟瞰镜头。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_58": {
+            "id": "5kmnEgBSCfg_58",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "在保加利亚分腿蹲中，这名男子的动作是如何加剧的？",
+            "options": [
+                "A. 他换腿继续进行分腿蹲。",
+                "B. 他从蹲姿切换到弓步。",
+                "C. 他减少了蹲下的深度。",
+                "D. 他做蹲下动作更快。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_59": {
+            "id": "5kmnEgBSCfg_59",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "健身课程在哪里进行？",
+            "options": [
+                "A. 在健身房",
+                "B. 在公园中",
+                "C. 在海滩",
+                "D. 在家庭健身房"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_60": {
+            "id": "5kmnEgBSCfg_60",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "在锻炼期间穿着橙色无袖运动衫的那个人有哪些特征？",
+            "options": [
+                "A. 穿着黑色短裤，橙色鞋子。",
+                "B. 穿着白色无袖上衣并带有蓝色条纹。",
+                "C. 穿着深绿色背心。",
+                "D. 穿着亮黄色长袖T恤。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_61": {
+            "id": "5kmnEgBSCfg_61",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "橙色无袖运动上衣的男人在锻炼时做什么活动？",
+            "options": [
+                "A. 腿搭在椅子上手支撑在地面并交换着摸肩膀。",
+                "B. 他进行保加利亚分腿蹲，原地跑步，然后转换成开合跳。",
+                "C. 他进行斜向二头肌弯举，调整到平板支撑，最后做弓步。",
+                "D. 他以卧推开始，接着进行三头肌下沉，最后做蹲举。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_62": {
+            "id": "5kmnEgBSCfg_62",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "在开始时观察到有多少人在进行手支撑在地面并交换着摸肩膀练习？",
+            "options": [
+                "A. 一人",
+                "B. 两人",
+                "C. 三人",
+                "D. 四人"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_63": {
+            "id": "5kmnEgBSCfg_63",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "在高手支撑在地面并交换着摸肩膀练习过程中，后来发生了什么变化？",
+            "options": [
+                "A. 穿橙色上衣的男子调整为站立姿势，同时指导穿白色T恤的男子。",
+                "B. 穿白色T恤的男子开始用双腿支撑在长凳上进行手支撑在地面并交换着摸肩膀的练习，没有变化。",
+                "C. 穿橙色上衣的男子被另一位替代，这位新人继续和穿白色T恤的男子一起练习。",
+                "D. 两人转换到一个新练习，在绿色垫子上进行开合跳。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_64": {
+            "id": "5kmnEgBSCfg_64",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "在锻炼过程中，参与者是否有变化？",
+            "options": [
+                "A. 没有。",
+                "B. 是的，其中一位被替换了。",
+                "C. 是的，两个都被替换了。",
+                "D. 没有，但互换了角色。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_65": {
+            "id": "5kmnEgBSCfg_65",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "白衬衫男子在锻炼期间如何暂时支撑自己的体重？",
+            "options": [
+                "A. 双手交替支撑，双脚再椅子上支撑。",
+                "B. 依靠左腿支撑体重，同时双手离地。",
+                "C. 他双脚站稳，双手放在长凳上以保持稳定。",
+                "D. 他用右臂支撑身体，同时双脚稳稳踩在垫子上。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_66": {
+            "id": "5kmnEgBSCfg_66",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "在锻炼过程中，穿橙色上衣的男人是如何调整姿势的？",
+            "options": [
+                "A. 双手交替支撑身体。",
+                "B. 双腿离开长凳，进行全身平板支撑。",
+                "C. 变换位置，站起来做开合跳。",
+                "D. 向侧面倾斜，进行侧边拉伸。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_67": {
+            "id": "5kmnEgBSCfg_67",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "在锻炼过程中，穿白衬衫的男子是如何改变他的姿势的？",
+            "options": [
+                "A. 双手交替支撑身体。",
+                "B. 将左腿移到长凳上并转身。",
+                "C. 切换到包含开合跳的不同锻炼方式。",
+                "D. 停止锻炼，而是开始拉伸。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_68": {
+            "id": "5kmnEgBSCfg_68",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "在整个锻炼课程中，哪些视觉元素是一致的？",
+            "options": [
+                "A. 自然采光和一致的摄像机角度",
+                "B. 明亮的霓虹健身服和不断变化的场景",
+                "C. 频繁变换的摄像机焦点和昏暗的灯光",
+                "D. 可变的灯光和不断变化的摄像机角度"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_69": {
+            "id": "5kmnEgBSCfg_69",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "两人之间的互动发生在哪个地方？",
+            "options": [
+                "A. 体育馆。",
+                "B. 篮球场。",
+                "C. 教室。",
+                "D. 停车场。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_70": {
+            "id": "5kmnEgBSCfg_70",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "两个男人互动的场景是什么？",
+            "options": [
+                "A. 室外篮球场。",
+                "B. 健身房。",
+                "C. 沙滩。",
+                "D. 森林小道。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_71": {
+            "id": "5kmnEgBSCfg_71",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "篮球场周围是什么样的环境？",
+            "options": [
+                "A. 像公园一样。",
+                "B. 室内体育馆。",
+                "C. 城市街道。",
+                "D. 海滨区域。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_72": {
+            "id": "5kmnEgBSCfg_72",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "在互动中，穿白色T恤的男人的行为是什么？",
+            "options": [
+                "A. 专注于自己的锻炼。",
+                "B. 从锻炼状态转变为对话姿态。",
+                "C. 调整他的运动装备。",
+                "D. 准备离开现场。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_73": {
+            "id": "5kmnEgBSCfg_73",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "在互动中，穿白色T恤的男人有什么外貌特征？",
+            "options": [
+                "A. 穿着亮蓝色运动短裤和一件T恤，上面写着 'CRITICAL BENCH.com'。",
+                "B. 穿着黑色短裤和一件白色T恤，上面写着 'SPORTS.com'。",
+                "C. 穿着红色运动短裤和一件无袖上衣，上面写着 'ACTIVEWEAR.com'。",
+                "D. 穿着蓝色牛仔裤和一件灰色T恤，上面写着 'OUTDOORS.com'。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_74": {
+            "id": "5kmnEgBSCfg_74",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "浅灰色T恤上显示的网址是什么？",
+            "options": [
+                "A. CRITICAL BENCH.com",
+                "B. cryptological.com",
+                "C. htt25wwwcrypto.com",
+                "D. apocalyptical.com"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_75": {
+            "id": "5kmnEgBSCfg_75",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "有多少人在场景中互动？",
+            "options": [
+                "A. 两个。",
+                "B. 三个。",
+                "C. 四个。",
+                "D. 一个。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_76": {
+            "id": "5kmnEgBSCfg_76",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "两个男人之间的互动是静止且不变的吗？",
+            "options": [
+                "A. 是的，互动是静止。",
+                "B. 不是，姿态一直在变。",
+                "C. 是的，互动保持一致。",
+                "D. 不是，互动只涉及身体活动。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_77": {
+            "id": "5kmnEgBSCfg_77",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "橙色无袖衫男子为表明暂停或语气转变而采取了什么动作？",
+            "options": [
+                "A. 双手在叉腰。",
+                "B. 手臂交叉抱住胸口。",
+                "C. 坐到地上休息。",
+                "D. 背对同伴，望向风景。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_78": {
+            "id": "5kmnEgBSCfg_78",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "白色T恤男子伸出左臂的方向是哪里？",
+            "options": [
+                "A. 向前伸出。",
+                "B. 右臂向前伸出。",
+                "C. 旁边伸出。",
+                "D. 右臂向旁边伸出。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_79": {
+            "id": "5kmnEgBSCfg_79",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "摄像机如何捕捉场景的环境？",
+            "options": [
+                "A. 摄像机捕捉了更广阔的环境视野。",
+                "B. 摄像机仅聚焦于两名男子。",
+                "C. 摄像机捕捉了亭顶的特写镜头。",
+                "D. 摄像机专注于男子T恤上的文字。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_80": {
+            "id": "5kmnEgBSCfg_80",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "从画面来看，登山者的位置在哪里？",
+            "options": [
+                "A. 顶端。",
+                "B. 左侧。",
+                "C. 右侧。",
+                "D. 中部。"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_81": {
+            "id": "5kmnEgBSCfg_81",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "促销元素相对于攀登者的位置在哪里？",
+            "options": [
+                "A. 他上方的同侧。",
+                "B. 他下方的同侧。",
+                "C. 他的左边。",
+                "D. 另一侧的悬崖上。"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_82": {
+            "id": "5kmnEgBSCfg_82",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "过渡后的场景环境是什么？",
+            "options": [
+                "A. 岩石悬崖，森林，阴天。",
+                "B. 沙滩，海浪和晴朗。",
+                "C. 城市街道，摩天大楼和繁重的交通。",
+                "D. 草地，有花朵和阳光。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_83": {
+            "id": "5kmnEgBSCfg_83",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "场景后期，左侧的男人在篮球场上的外貌和动作是什么？",
+            "options": [
+                "A. 在篮球场上系鞋带。",
+                "B. 穿无袖短衫，双手叉腰。",
+                "C. 激烈地运球。",
+                "D. 坐在篮球场旁的长凳上。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_84": {
+            "id": "5kmnEgBSCfg_84",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "右侧的男人的外貌和动作是什么样的？",
+            "options": [
+                "A. 双手曲起，与旁边的人交流。",
+                "B. 坐在场边观看比赛。",
+                "C. 正在积极运球。",
+                "D. 正在篮球场上慢跑。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_85": {
+            "id": "5kmnEgBSCfg_85",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "在新的冒险场景中，与安全相关的显著物品是什么？",
+            "options": [
+                "A. 登山者的安全带和绳索",
+                "B. 安全头盔和手套",
+                "C. 防护笼和安全网",
+                "D. 救生圈和紧急灯"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_86": {
+            "id": "5kmnEgBSCfg_86",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "在新的冒险场景中显示了什么互动元素？",
+            "options": [
+                "A. 一个带有“CLICK HERE”文字的大红按钮",
+                "B. 一个带有“PRESS THIS”文字的蓝色盒子",
+                "C. 一个上面写有“PUSH NOW'”的黄色标志",
+                "D. 一个带有“TOUCH ME”标签的绿色横幅"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_87": {
+            "id": "5kmnEgBSCfg_87",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "有多少人在篮球场上？",
+            "options": [
+                "A. 一人",
+                "B. 两人",
+                "C. 三人",
+                "D. 四人"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_88": {
+            "id": "5kmnEgBSCfg_88",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "篮球场周围是否被城市建筑包围？",
+            "options": [
+                "A. 是的，被城市建筑包围。",
+                "B. 是的，位于一个高度城市化的区域。",
+                "C. 不是，一个城市公园的组成部分，周围有高楼。",
+                "D. 不是，娱乐设施，比如木栅栏、红顶凉亭和茂盛的绿化。"
+            ],
+            "answer": "D"
+        },
+        "5kmnEgBSCfg_89": {
+            "id": "5kmnEgBSCfg_89",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "这个攀登者在做什么？",
+            "options": [
+                "A. 正在攀爬垂直的悬崖面。",
+                "B. 站在悬崖顶上。",
+                "C. 在沿着悬崖下降。",
+                "D. 在悬崖底部休息。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_90": {
+            "id": "5kmnEgBSCfg_90",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "悬崖背景中的自然景色与什么视觉提示形成对比？",
+            "options": [
+                "A. 粗体文字“STOP LOW T-LEVELS”和一个标有“CLICK HERE”的大红按钮。",
+                "B. 左侧郁郁葱葱的绿色森林。",
+                "C. 苍白的阴云天空。",
+                "D. 攀爬者的蓝色衬衫和深色裤子。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_91": {
+            "id": "5kmnEgBSCfg_91",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "与攀爬者相比，森林位于何处？",
+            "options": [
+                "A. 左侧。",
+                "B. 上方。",
+                "C. 右侧。",
+                "D. 下方。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_92": {
+            "id": "5kmnEgBSCfg_92",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "视频场景中的初始环境是什么？",
+            "options": [
+                "A. 消防场景",
+                "B. 城市景观。",
+                "C. 海滩。",
+                "D. 郊区街区。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_93": {
+            "id": "5kmnEgBSCfg_93",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "视频中的登山者看起来是什么样子的？",
+            "options": [
+                "A. 蓝色的衬衫、深色的裤子，系着登山安全带。",
+                "B. 红色的夹克、黑色的短裤，穿着登山靴。",
+                "C. 白色的T恤、灰色的裤子，穿着安全背心。",
+                "D. 绿色的衬衫、米色的裤子，背着一个背包。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_94": {
+            "id": "5kmnEgBSCfg_94",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "视频中的攀岩者正在做什么？",
+            "options": [
+                "A. 休息，俯瞰森林。",
+                "B. 攀爬崖壁。",
+                "C. 悬崖底部露营。",
+                "D. 悬崖底部准备装备。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_95": {
+            "id": "5kmnEgBSCfg_95",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "消防员穿的是什么颜色的制服？",
+            "options": [
+                "A. 传统的黄色灭火服，带有反光安全条纹",
+                "B. 橙色灭火服，配有绿色点缀",
+                "C. 黑色灭火服，带有银色反光条纹",
+                "D. 红色灭火服，带有荧光绿色条纹"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_96": {
+            "id": "5kmnEgBSCfg_96",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "消防员戴的是什么样的头盔？",
+            "options": [
+                "A. 带有荧光黄色装饰的头盔",
+                "B. 带有红色条纹的头盔",
+                "C. 带有蓝色护目镜的头盔",
+                "D. 纯黑色的头盔"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_97": {
+            "id": "5kmnEgBSCfg_97",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "消防员还穿着哪些其他标准的消防装备？",
+            "options": [
+                "A. 还带有氧气瓶。",
+                "B. 休闲服配头盔。",
+                "C. 反光背心和攀爬安全带。",
+                "D. 霓黄色装饰的户外运动装备。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_98": {
+            "id": "5kmnEgBSCfg_98",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "有多少消防员在扑灭火灾？",
+            "options": [
+                "A. 一名",
+                "B. 两名",
+                "C. 三名",
+                "D. 四名"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_99": {
+            "id": "5kmnEgBSCfg_99",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "促销信息‘STOP LOW T-LEVELS’在整个场景中是否可见？",
+            "options": [
+                "A. 是的。",
+                "B. 否",
+                "C. 是的，但措辞变化。",
+                "D. 否，仅开头可见。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_100": {
+            "id": "5kmnEgBSCfg_100",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "左边的消防员拿的是什么？",
+            "options": [
+                "A. 消防水带",
+                "B. 一把斧头",
+                "C. 一个灭火器",
+                "D. 一把电锯"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_101": {
+            "id": "5kmnEgBSCfg_101",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "左边的消防员是面向哪个方向的？",
+            "options": [
+                "A. 面向浓烟。",
+                "B. 员背对火焰。",
+                "C. 面向攀登者。",
+                "D. 面向森林。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_102": {
+            "id": "5kmnEgBSCfg_102",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "摄像机在整个场景中的焦点是什么？",
+            "options": [
+                "A. 聚焦于关键人物和文本。",
+                "B. 聚焦于的天空和森林。",
+                "C. 聚焦于背景风景，无视动作。",
+                "D. 聚焦于消防员头盔"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_103": {
+            "id": "5kmnEgBSCfg_103",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "在场景切换中，哪个视觉元素保持一致？",
+            "options": [
+                "A. 穿蓝色衬衫并带有安全带的独行攀登者",
+                "B. 远处的森林",
+                "C. 文字“STOP LOW T-LEVELS”和红色“CLICK HERE”按钮",
+                "D. 拿着消防水管的左侧消防员"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_104": {
+            "id": "5kmnEgBSCfg_104",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "黑白配色球员在场上的位置在哪里？",
+            "options": [
+                "A. 站在黑金配色球员旁边。",
+                "B. 在画面的右侧追赶着身穿黑金配色的球员。",
+                "C. 坐在板凳上，观看比赛。",
+                "D. 站在球门柱旁。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_105": {
+            "id": "5kmnEgBSCfg_105",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "美国橄榄球比赛的环境是什么样的？",
+            "options": [
+                "A. 草地上进行。",
+                "B. 沙滩上进行。",
+                "C. 木地板上进行。",
+                "D. 赛道上进行。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_106": {
+            "id": "5kmnEgBSCfg_106",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "左边的球员穿着如何？",
+            "options": [
+                "A. 黑色球衣、金色裤子和金色头盔。",
+                "B. 白色球衣、黑色裤子和黑色头盔。",
+                "C. 红色球衣、金色裤子和黑色头盔。",
+                "D. 黑色球衣、白色裤子和金色头盔。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_107": {
+            "id": "5kmnEgBSCfg_107",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "左边的球员在场上做什么？",
+            "options": [
+                "A. 站着，观察比赛。",
+                "B. 快速奔跑，参与比赛。",
+                "C. 与场上的裁判争论。",
+                "D. 坐在板凳上休息。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_108": {
+            "id": "5kmnEgBSCfg_108",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "橄榄球比赛场景中有多少名球员是比赛的核心？",
+            "options": [
+                "A. 两名",
+                "B. 三名",
+                "C. 四名",
+                "D. 五名"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_109": {
+            "id": "5kmnEgBSCfg_109",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "在画面中能看到广告吗？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 仅在中场休息时",
+                "D. 仅在记分牌上"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_110": {
+            "id": "5kmnEgBSCfg_110",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "场地上方的广告是什么样子的？",
+            "options": [
+                "A. 写着‘STOP LOW T-LEVELS’，还有一个‘CLICK HERE’按钮。",
+                "B. 写着‘BOOST YOUR ENERGY’，还有一个电话号码。",
+                "C. 有一个运动标志和一个网站链接。",
+                "D. 写着‘GET FIT TODAY！’，还有一个健身房标志。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_111": {
+            "id": "5kmnEgBSCfg_111",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "穿58号球衣的球员在做什么？",
+            "options": [
+                "A. 追逐身穿黑色和金色衣服的球员。",
+                "B. 静止站立，观察比赛。",
+                "C. 在庆祝达阵得分。",
+                "D. 铲倒一名穿黑色和金色衣服的球员。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_112": {
+            "id": "5kmnEgBSCfg_112",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "在橄榄球比赛场景中，摄像机的位置是什么？",
+            "options": [
+                "A. 摄像机位于眼睛的高度。",
+                "B. 摄像机从空中俯视拍摄。",
+                "C. 摄像机从边线视角拍摄。",
+                "D. 摄像机从球门柱后面拍摄。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_113": {
+            "id": "5kmnEgBSCfg_113",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "从消防场景转到美式橄榄球比赛时，哪种视觉元素保持不变？",
+            "options": [
+                "A. 带有“STOP LOW T-LEVELS”字样。",
+                "B. 白色球衣，球衣号码为‘58’，配白裤和黑头盔。",
+                "C. 消防现场的浓密烟雾。",
+                "D. 足球运动员的黑金色制服。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_114": {
+            "id": "5kmnEgBSCfg_114",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "广告在视频的画面中放置在哪里？",
+            "options": [
+                "A. 顶部中央位置。",
+                "B. 画面左下角位置。",
+                "C. 第一个场景的画面右上角和第二个场景的左下角位置。",
+                "D. 在第二个场景的画面中心位置，仅限第二个场景。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_115": {
+            "id": "5kmnEgBSCfg_115",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "两个画面之间的视觉环境是如何变化的？",
+            "options": [
+                "A. 从美式足球场景变为一个灰度场景。",
+                "B. 从海滩场景变为夜晚的城市夜景。",
+                "C. 从市场变为黄昏时空旷的公园。",
+                "D. 从嘉年华变为一条荒无人烟的街道。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_116": {
+            "id": "5kmnEgBSCfg_116",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "在第一个画面中，穿白色球衣的球员有什么与众不同之处？",
+            "options": [
+                "A. 他是唯一一个穿白色衣服的。",
+                "B. 他是场上最高的球员。",
+                "C. 他是唯一一个在比赛中没有动态移动的。",
+                "D. 他是唯一一个穿红色球衣的。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_117": {
+            "id": "5kmnEgBSCfg_117",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "广告的文字在当前画面与前一个画面之间是否发生了变化？",
+            "options": [
+                "A. 是的，文字变成了不同的信息。",
+                "B. 不，广告的文字在两个画面之间保持一致。",
+                "C. 是的，广告的文字发生了变化，但主题上保持相似。",
+                "D. 不，广告的文字在第二个画面中完全被移除。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_118": {
+            "id": "5kmnEgBSCfg_118",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "广告在当前画面与前一个画面之间更换了风格吗？",
+            "options": [
+                "A. 是的，广告在两个画面之间完全改变了风格。",
+                "B. 不是，广告的风格在两个画面之间保持一致。",
+                "C. 是的，广告在第二个画面中变得不太明显。",
+                "D. 不是，但是广告的颜色在第二个画面中发生了变化。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_119": {
+            "id": "5kmnEgBSCfg_119",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "穿黑色球衣戴金色头盔的球员在第一帧里在做什么？",
+            "options": [
+                "A. 他们静静站着观察比赛。",
+                "B. 他们坐在场边观看球场。",
+                "C. 他们动态地朝观众跑来或追赶动作。",
+                "D. 他们聚在一起讨论策略。"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_120": {
+            "id": "5kmnEgBSCfg_120",
+            "scene": 9,
+            "dimension": "Object Direction",
+            "question": "黑色球衣、金色头盔的球员在朝哪个方向移动？",
+            "options": [
+                "A. 朝向镜头",
+                "B. 远离镜头",
+                "C. 向画面的左侧",
+                "D. 向画面的右侧"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_121": {
+            "id": "5kmnEgBSCfg_121",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "前一个画面与当前画面的色彩方案是如何变化的？",
+            "options": [
+                "A. 第一个画面色彩丰富，灯光明亮，而第二个画面则是低饱和的灰度色彩方案。",
+                "B. 两个画面都采用鲜艳的色彩方案，灯光明亮。",
+                "C. 第一个画面是灰度的，而第二个画面过渡到一个彩色场景。",
+                "D. 两个画面的色彩方案保持一致，都以明亮生动的颜色呈现。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_122": {
+            "id": "5kmnEgBSCfg_122",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "主要场景发生在哪里？",
+            "options": [
+                "A. 建筑工地上。",
+                "B. 在灰度办公环境中。",
+                "C. 城市街道上。",
+                "D. 仓库内。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_123": {
+            "id": "5kmnEgBSCfg_123",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "右边的工人穿着什么？",
+            "options": [
+                "A. 浅蓝色牛仔裤、白衬衫和红色安全帽。",
+                "B. 浅蓝色牛仔裤、白衬衫和黄色安全帽。",
+                "C. 深蓝色牛仔裤、白衬衫和红色安全帽。",
+                "D. 浅蓝色牛仔裤、蓝衬衫和红色安全帽。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_124": {
+            "id": "5kmnEgBSCfg_124",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "右边的工人正在进行什么操作？",
+            "options": [
+                "A. 他站在金属框架上，右臂伸出，握着一根电线或电缆。",
+                "B. 他站在金属框架上，带着严肃的表情检查钢筋。",
+                "C. 他在金属框架旁，正在为钢筋涂漆。",
+                "D. 他坐在框架上，若有所思地观察施工进度。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_125": {
+            "id": "5kmnEgBSCfg_125",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "在施工现场，哪种结构占据了主要位置？",
+            "options": [
+                "A. 带有红色点缀的风化模板",
+                "B. 由相互连接的钢筋制成的大型金属框架",
+                "C. 高耸在工地上的起重机",
+                "D. 一堆建筑材料"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_126": {
+            "id": "5kmnEgBSCfg_126",
+            "scene": 11,
+            "dimension": "Count",
+            "question": "场景中有多少工人？",
+            "options": [
+                "A. 一名",
+                "B. 两名",
+                "C. 三名",
+                "D. 四名"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_127": {
+            "id": "5kmnEgBSCfg_127",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "广告在转化后的场景中仍然可见吗？",
+            "options": [
+                "A. 是的，在画面的中间。",
+                "B. 不，不存在了。",
+                "C. 是的，画面的底部。",
+                "D. 不，替换成了一个建筑主题的横幅。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_128": {
+            "id": "5kmnEgBSCfg_128",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "框架中心附近的工人正在执行什么动作？",
+            "options": [
+                "A. 可能拿着工具或电缆。",
+                "B. 正在坐下休息。",
+                "C. 在与另一位工人交谈。",
+                "D. 在阅读一份文件。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_129": {
+            "id": "5kmnEgBSCfg_129",
+            "scene": 11,
+            "dimension": "Object Direction",
+            "question": "右边的工人手臂伸向哪个方向？",
+            "options": [
+                "A. 向外伸出他的左臂。",
+                "B. 向上伸出他的右臂。",
+                "C. 向下伸出他的左臂。",
+                "D. 向外伸出他的右臂。"
+            ],
+            "answer": "D"
+        },
+        "5kmnEgBSCfg_130": {
+            "id": "5kmnEgBSCfg_130",
+            "scene": 11,
+            "dimension": "Camera Shot",
+            "question": "这个场景使用了哪种摄像角度？",
+            "options": [
+                "A. 略微向上的角度。",
+                "B. 鸟瞰图。",
+                "C. 低角度拍摄。",
+                "D. 侧角度拍摄。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_131": {
+            "id": "5kmnEgBSCfg_131",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "过渡后环境如何变化？",
+            "options": [
+                "A. 从灰色框架变为施工现场。",
+                "B. 从施工现场变为草地。",
+                "C. 从城市景观变为房间。",
+                "D. 从市场变为办公室。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_132": {
+            "id": "5kmnEgBSCfg_132",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "场景中哪些文本保持一致？",
+            "options": [
+                "A. 文本 'STOP LOW T-LEVELS' 和红色的 'CLICK HERE' 按钮保持一致。",
+                "B. 文本 'BUILD STRONGER FOUNDATIONS' 和蓝色的 'READ MORE' 按钮保持一致。",
+                "C. 文本 'MAXIMIZE EFFICIENCY' 和绿色的 'LEARN HOW' 按钮保持一致。",
+                "D. 文本 'ENHANCE PRODUCTIVITY' 和黄色的 'SIGN UP NOW' 按钮保持一致。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_133": {
+            "id": "5kmnEgBSCfg_133",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "一致的文本位于哪里？",
+            "options": [
+                "A. 它显著地位于工地框架的顶部。",
+                "B. 它位于工地框架的右下角。",
+                "C. 它位于工地框架的中心。",
+                "D. 它位于工地框架的左下角。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_134": {
+            "id": "5kmnEgBSCfg_134",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "穿淡蓝色牛仔裤、白衬衫和红色安全帽的建筑工人在施工现场的画面中位于哪里？",
+            "options": [
+                "A. 左侧。",
+                "B. 中央。",
+                "C. 右侧。",
+                "D. 广告牌后面。"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_135": {
+            "id": "5kmnEgBSCfg_135",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "穿着白色衣服和带白色安全帽的施工工人在施工现场画面的什么位置？",
+            "options": [
+                "A. 工人在左侧稍微不太明显。",
+                "B. 工人在画面的中央非常显眼。",
+                "C. 工人在右侧稍微不太明显。",
+                "D. 工人站在红色“CLICK HERE”按钮附近，不太显眼。"
+            ],
+            "answer": "D"
+        },
+        "5kmnEgBSCfg_136": {
+            "id": "5kmnEgBSCfg_136",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "视频第一帧描绘的是哪个地点？",
+            "options": [
+                "A. 在晴朗蓝天下的繁忙建筑工地",
+                "B. 配备各种壶铃的室内健身房",
+                "C. 绿意盎然的安静公园",
+                "D. 有露天摊位的热闹市场"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_137": {
+            "id": "5kmnEgBSCfg_137",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "视频展示的是哪个地点？",
+            "options": [
+                "A. 户外建筑工地",
+                "B. 室内健身房",
+                "C. 专业办公大楼",
+                "D. 繁忙的城市街道"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_138": {
+            "id": "5kmnEgBSCfg_138",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "穿浅蓝色牛仔裤、白衬衫和红色安全帽的建筑工人在做什么？",
+            "options": [
+                "A. 工人正在拿着一根电线。",
+                "B. 工人正在使用一个工具。",
+                "C. 工人正在倒混凝土。",
+                "D. 工人正在整理壶铃。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_139": {
+            "id": "5kmnEgBSCfg_139",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "穿着白色衣服和白色安全帽的建筑工人正在做什么？",
+            "options": [
+                "A. 工人正在操作工具或电缆。",
+                "B. 工人正在操作起重机。",
+                "C. 工人正在粉刷墙壁。",
+                "D. 工人正在组装健身器材。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_140": {
+            "id": "5kmnEgBSCfg_140",
+            "scene": 12,
+            "dimension": "Visual-cue",
+            "question": "广告上写着什么？",
+            "options": [
+                "A. STOP LOW T-LEVELS  ",
+                "B. BOOST HIGH ENERGY  ",
+                "C. RAPIDLY INCREASE STRENGTH  ",
+                "D. ENHANCE YOUR WORKOUT"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_141": {
+            "id": "5kmnEgBSCfg_141",
+            "scene": 12,
+            "dimension": "Description-Object",
+            "question": "广告中使用了哪种字体、边框和按钮？",
+            "options": [
+                "A. 小写的黑色粗体字，绿色边框，中间有一个亮黄色的'CLICK HERE'按钮。",
+                "B. 大写的白色粗体字，红色边框，中间有一个亮红色的'CLICK HERE'按钮。",
+                "C. 体的白色粗体字，蓝色边框，中间有一个亮蓝色的'CLICK HERE'按钮。",
+                "D. 大写的灰色普通字体，红色边框，中间有一个亮红色的'CLICK HERE'按钮。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_142": {
+            "id": "5kmnEgBSCfg_142",
+            "scene": 12,
+            "dimension": "Count",
+            "question": "健身房环境中有多少个金属壶铃？",
+            "options": [
+                "A. 一个壶铃。",
+                "B. 有很多。",
+                "C. 三个。",
+                "D. 没有任何壶铃。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_143": {
+            "id": "5kmnEgBSCfg_143",
+            "scene": 12,
+            "dimension": "Attribute Change",
+            "question": "两个画面之间的广告是否不同？",
+            "options": [
+                "A. 不，没有变化。",
+                "B. 是的，位置变化，但外观保持不变。",
+                "C. 是的，外观和位置都发生了变化。",
+                "D. 不，外观发生变化，但位置保持不变。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_144": {
+            "id": "5kmnEgBSCfg_144",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "哪些迹象表明正在进行施工活动？",
+            "options": [
+                "A. 金属框架用于混凝土加固，混凝土浇筑的模板。",
+                "B. 各种壶铃和健身器材整齐排列。",
+                "C. 室内照明和柔和色调的存在表明是办公环境。",
+                "D. 带有“CLICK HERE”按钮的生动广告表明是商业环境。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_145": {
+            "id": "5kmnEgBSCfg_145",
+            "scene": 12,
+            "dimension": "Spatial",
+            "question": "较大的壶铃的位置相对于建筑工人对应于什么？",
+            "options": [
+                "A. 它对应于穿浅蓝色牛仔裤、白色衬衫和红色安全帽的工人之前的位置。",
+                "B. 它对应于穿白色衣服和白色安全帽的工人之前的位置。",
+                "C. 它不对应于建筑工地上任何工人的位置。",
+                "D. 它对应于广告的中心位置。"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_146": {
+            "id": "5kmnEgBSCfg_146",
+            "scene": 12,
+            "dimension": "Camera Shot",
+            "question": "摄像角度是什么？",
+            "options": [
+                "A. 从上方俯视",
+                "B. 正面稍微近距离的视角",
+                "C. 从远处的视角",
+                "D. 从顶部角落的斜角拍摄"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_147": {
+            "id": "5kmnEgBSCfg_147",
+            "scene": 12,
+            "dimension": "Attribute Change",
+            "question": "上一个场景与当前场景之间，观察到的照明变化是什么？",
+            "options": [
+                "A. 明亮的室外照明，柔和的室内照明。",
+                "B. 没有明显变化。",
+                "C. 昏暗的室内照明，明亮的室外照明。",
+                "D. 始终是明亮的室外照明。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_148": {
+            "id": "5kmnEgBSCfg_148",
+            "scene": 13,
+            "dimension": "Spatial",
+            "question": "两个人物相对于湖的位置在哪里？",
+            "options": [
+                "A. 在湖中心的一艘船上。",
+                "B. 在画面右侧靠近湖边。",
+                "C. 在湖上的一座桥上。",
+                "D. 在对岸，被树影映衬着。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_149": {
+            "id": "5kmnEgBSCfg_149",
+            "scene": 13,
+            "dimension": "Camera Shot",
+            "question": "当前场景从哪里切换得到？",
+            "options": [
+                "A. 健身房。",
+                "B. 市场。",
+                "C. 城市街道。",
+                "D. 图书馆。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_150": {
+            "id": "5kmnEgBSCfg_150",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "视频场景描述的是什么？",
+            "options": [
+                "A. 城市街道",
+                "B. 湖边环境",
+                "C. 购物中心",
+                "D. 健身房"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_151": {
+            "id": "5kmnEgBSCfg_151",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "湖边的那个大人在做什么？",
+            "options": [
+                "A. 那个人在指向或示意水中的某个东西。",
+                "B. 那个人正在用鱼竿钓鱼。",
+                "C. 那个人正在向湖面抛石头让石头跳跃。",
+                "D. 那个人安静地坐着，看着地平线。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_152": {
+            "id": "5kmnEgBSCfg_152",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "那个在湖边的小孩在做什么？",
+            "options": [
+                "A. 小孩在湖岸上玩玩具。",
+                "B. 小孩和那名男子看向同一个方向。",
+                "C. 小孩正在向湖里扔石头。",
+                "D. 小孩沿着湖岸奔跑。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_153": {
+            "id": "5kmnEgBSCfg_153",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "在健身房环境中可以看到什么物品？",
+            "options": [
+                "A. 壶铃。",
+                "B. 瑜伽垫。",
+                "C. 跑步机。",
+                "D. 哑铃。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_154": {
+            "id": "5kmnEgBSCfg_154",
+            "scene": 13,
+            "dimension": "Count",
+            "question": "湖边能看到多少个身影？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_155": {
+            "id": "5kmnEgBSCfg_155",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "那个男人在湖边做什么？",
+            "options": [
+                "A. 指向或示意水中的某物。",
+                "B. 湖边钓鱼。",
+                "C. 湖里游泳。",
+                "D. 水边坐着看书。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_156": {
+            "id": "5kmnEgBSCfg_156",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "广告中“CLICK HERE”文字位于画面什么位置？",
+            "options": [
+                "A. 顶部",
+                "B. 底部",
+                "C. 中央",
+                "D. 侧边"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_157": {
+            "id": "5kmnEgBSCfg_157",
+            "scene": 13,
+            "dimension": "Camera Shot",
+            "question": "湖边场景使用了哪种摄影视角？",
+            "options": [
+                "A. 摄影视角略微升高。",
+                "B. 摄影视角较低。",
+                "C. 摄影视角为正面。",
+                "D. 摄影视角朝上。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_158": {
+            "id": "5kmnEgBSCfg_158",
+            "scene": 13,
+            "dimension": "Spatial",
+            "question": "广告位于场景的什么位置？",
+            "options": [
+                "A. 广告位于画面中央，遮挡了部分场景。",
+                "B. 广告隐藏在健壮的手臂后面。",
+                "C. 广告放置在湖岸附近，有两个人影。",
+                "D. 广告嵌入在绿色的背景中。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_159": {
+            "id": "5kmnEgBSCfg_159",
+            "scene": 14,
+            "dimension": "Description-Scene",
+            "question": "视频中介绍的事件是什么？",
+            "options": [
+                "A. 一个男人在健身",
+                "B. 一个喧闹的城市健身房",
+                "C. 一个安静的森林空地",
+                "D. 一个有冲浪声的沙滩"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_160": {
+            "id": "5kmnEgBSCfg_160",
+            "scene": 14,
+            "dimension": "Description-Scene",
+            "question": "视频中主要的环境是什么？",
+            "options": [
+                "A. 户外环境",
+                "B. 城市景观",
+                "C. 室内健身房环境",
+                "D. 森林空地"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_161": {
+            "id": "5kmnEgBSCfg_161",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "湖边场景中的两个人物在做什么？",
+            "options": [
+                "A. 共同观察钓鱼。",
+                "B. 男人在钓鱼，孩子在玩玩具。",
+                "C. 在湖边打水漂。",
+                "D. 男人在看书，孩子正在湖岸边奔跑。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_162": {
+            "id": "5kmnEgBSCfg_162",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "广告传达了什么信息？",
+            "options": [
+                "A.  'START HIGH ENERGY' 并有蓝色 'LEARN MORE' 按钮。",
+                "B.  'BOOST YOUR IMMUNITY' 并有绿色 'CLICK HERE' 按钮。",
+                "C.  'STOP LOW T-LEVELS' 并有红色 'CLICK HERE' 按钮。",
+                "D.  'INCREASE VITALITY' 并有黄色 'READ MORE' 按钮。"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_163": {
+            "id": "5kmnEgBSCfg_163",
+            "scene": 13,
+            "dimension": "Count",
+            "question": "湖滨景色中可以看到多少个人物？",
+            "options": [
+                "A. 一个",
+                "B. 三个",
+                "C. 两个",
+                "D. 四个"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_164": {
+            "id": "5kmnEgBSCfg_164",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "广告在两个画面之间发生了变化吗？",
+            "options": [
+                "A. 是的，广告完全改变了。",
+                "B. 不，广告的设计和位置保持不变。",
+                "C. 广告颜色发生了变化，但设计没有变化。",
+                "D. 广告文本发生了变化，但位置没有变化。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_165": {
+            "id": "5kmnEgBSCfg_165",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "从前一个画面到当前画面，环境是如何变化的？",
+            "options": [
+                "A. 环境从湖畔场景转变为户外背景。",
+                "B. 环境从城市景观转变为湖畔。",
+                "C. 环境从健身房内景转变为山景。",
+                "D. 环境从房间转变为冰原。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_166": {
+            "id": "5kmnEgBSCfg_166",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "前一个画面到当前画面，有哪些文本元素保持一致？",
+            "options": [
+                "A. “STOP LOW T-LEVELS”和“CLICK HERE”按钮。",
+                "B.  文字“Natural Serenity”在两个画面中始终可见。",
+                "C. “AMAX”的黑色文字。",
+                "D. “Lush Greenery”。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_167": {
+            "id": "5kmnEgBSCfg_167",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "画面中有什么元素？",
+            "options": [
+                "A. 绿色背景和手臂，'STOP LOW T-LEVELS'红色边框，红色'CLICK HERE'按钮可见。",
+                "B. 手臂，T恤上文字'AMAX'，以及带有红色加粗文字'CLICK HERE'的单色背景。",
+                "C. 面部特写，广告，包括蓝色的'STOP LOW T-LEVELS'和黄色的'CLICK HERE''按钮。",
+                "D. 版权说明，文本小且部分模糊，背景绿色突出单色面部。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_168": {
+            "id": "5kmnEgBSCfg_168",
+            "scene": 15,
+            "dimension": "Description-Scene",
+            "question": "视频的前一个画面展示了什么样的环境？",
+            "options": [
+                "A. 充满活力的绿色户外背景。",
+                "B. 饱经风霜的脸的特写。",
+                "C. 较暗且更粗粝的环境。",
+                "D. 一幅单色图像。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_169": {
+            "id": "5kmnEgBSCfg_169",
+            "scene": 15,
+            "dimension": "Description-Scene",
+            "question": "场景画面中展示的是什么？",
+            "options": [
+                "A. 灰色T恤上有“AMAX”字样的结实臂膀特写。",
+                "B. 一张斑驳的脸孔。",
+                "C. 带有起伏山丘和湛蓝天空的风景画面。",
+                "D. 在明媚阳光下充满行人和车辆的繁忙城市街道。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_170": {
+            "id": "5kmnEgBSCfg_170",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "广告视频中文字的关键视觉元素是什么？",
+            "options": [
+                "A. 字体并用红色描边的粗体大写文字“STOP LOW T-LEVELS”。",
+                "B. 是黑色字体并用红色描边的粗体大写文字“BOOST HIGH T-LEVELS”。",
+                "C. 黄色字体并用绿色描边的粗体小写文字“STOP HIGH T-LEVELS”。",
+                "D. 白色字体并用蓝色描边的细体小写文字“REDUCE T-LEVELS”。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_171": {
+            "id": "5kmnEgBSCfg_171",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "广告视频中的关键按钮元素是什么？",
+            "options": [
+                "A. 鲜红色的“CLICK HERE”按钮。",
+                "B. 绿色的“SUBSCRIBE NOW”按钮。",
+                "C. 蓝色的“LEARN MOR”按钮。",
+                "D. 黄色的“SIGN UP”按钮。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_172": {
+            "id": "5kmnEgBSCfg_172",
+            "scene": 15,
+            "dimension": "Attribute Change",
+            "question": "视频中的广告信息是否始终如一？",
+            "options": [
+                "A. 是的，信息“STOP LOW T-LEVELS”和红色“CLICK HERE”按钮在整个视频中保持一致。",
+                "B. 不，信息在中途变为“BOOST ENERGY NOW”。",
+                "C. 是的，但视频中途背景颜色和文字字体发生了显著变化。",
+                "D. 不，信息和按钮仅在第一帧可见。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_173": {
+            "id": "5kmnEgBSCfg_173",
+            "scene": 15,
+            "dimension": "Camera Shot",
+            "question": "前场景与此场景之间，焦点发生了什么变化？",
+            "options": [
+                "A. 焦点从健身的人，转移到一张面孔的特写。",
+                "B. 焦点从森林，转移到室内。",
+                "C. 焦点从海滩，转移到城市。",
+                "D. 焦点从城市，转移到沙漠。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_174": {
+            "id": "5kmnEgBSCfg_174",
+            "scene": 15,
+            "dimension": "Attribute Change",
+            "question": "前场景和现场景之间，背景发生了什么变化？",
+            "options": [
+                "A. 背景变得更暗、更粗糙。",
+                "B. 背景变得更明亮、更生动。",
+                "C. 背景变为城市景观。",
+                "D. 背景变为海滩场景。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_175": {
+            "id": "5kmnEgBSCfg_175",
+            "scene": 14,
+            "dimension": "Camera Shot",
+            "question": "视频对健身的人使用了哪种类型的镜头拍摄？",
+            "options": [
+                "A. 广角镜头。",
+                "B. 特写镜头。",
+                "C. 中景镜头。",
+                "D. 航拍镜头。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_176": {
+            "id": "5kmnEgBSCfg_176",
+            "scene": 15,
+            "dimension": "Camera Shot",
+            "question": "视频中用于脸部的是哪种镜头拍摄方式？",
+            "options": [
+                "A. 远景拍摄风化的脸部。",
+                "B. 中景拍摄风化的脸部。",
+                "C. 特写镜头拍摄风化的脸部。",
+                "D. 空中镜头拍摄风化的脸部。"
+            ],
+            "answer": "C"
+        },
+        "5kmnEgBSCfg_177": {
+            "id": "5kmnEgBSCfg_177",
+            "scene": 15,
+            "dimension": "Attribute Change",
+            "question": "背景在帧之间的过渡有多快？",
+            "options": [
+                "A. 过渡在几帧之间逐渐发生。",
+                "B. 过渡几乎立即发生。",
+                "C. 过渡在多个场景中缓慢发生。",
+                "D. 帧之间从未有过过渡。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_178": {
+            "id": "5kmnEgBSCfg_178",
+            "scene": 15,
+            "dimension": "Attribute Change",
+            "question": "前场景和现场景之间有什么视觉特征变化？",
+            "options": [
+                "A. 背景从生机勃勃的绿色户外场景变为较暗、较粗糙的单色调。",
+                "B. 广告文本从粗体大写变成小写。",
+                "C. 后续帧中移除红色的“点击这里”按钮。",
+                "D. T恤上的文字在后续帧中完全可见。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_179": {
+            "id": "5kmnEgBSCfg_179",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "视频中的哪个细节提供了额外的背景信息但仍然部分被遮挡？",
+            "options": [
+                "A. 底部右侧的细小文字列出了图片版权信息。",
+                "B. 灰色T恤上部分可见的文字“AMAX”。",
+                "C. 左下角的一个小标志。",
+                "D. 右上角的水印。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_180": {
+            "id": "5kmnEgBSCfg_180",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "湖边场景之前描绘了什么？",
+            "options": [
+                "A. 街道",
+                "B. 健身房",
+                "C. 厨房",
+                "D. 图书馆"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_181": {
+            "id": "5kmnEgBSCfg_181",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "攀岩者攀爬悬崖后发生了什么活动？",
+            "options": [
+                "A. 场景转换到消防员在人烟弥漫的火场中灭火。",
+                "B. 场景转移到宁静的河流中，皮划艇爱好者轻轻地划动。",
+                "C. 聚焦于繁忙的都市景观，人们在拥挤的街道上行走。",
+                "D. 镜头移向宁静的森林，野生动物在平静地觅食。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_182": {
+            "id": "5kmnEgBSCfg_182",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "健身场景接下来是一个宁静的湖边场景，其中有一名男子和一名孩童吗?",
+            "options": [
+                "A. 是的。",
+                "B. 不是。",
+                "C. 是城市。",
+                "D. 图书馆"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_183": {
+            "id": "5kmnEgBSCfg_183",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么广告在不同场景中保持不变？",
+            "options": [
+                "A. 在变化的环境和背景下保持一致的宣传信息。",
+                "B. 让观众专注于风化的面孔。",
+                "C. 突出鲜艳的绿色户外背景。",
+                "D. 强调细小的文字和照片来源。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_184": {
+            "id": "5kmnEgBSCfg_184",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "哪个场景先出现，消防场景还是橄榄球比赛？",
+            "options": [
+                "A. 消防场景先出现。",
+                "B. 足球比赛先出现。",
+                "C. 两个场景同时发生。",
+                "D. 视频中未展示这些场景。"
+            ],
+            "answer": "A"
+        },
+        "5kmnEgBSCfg_185": {
+            "id": "5kmnEgBSCfg_185",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "施工现场场景是否发生在橄榄球比赛之后？",
+            "options": [
+                "A. 是的。",
+                "B. 不。",
+                "C. 施工现场场景和橄榄球比赛同时发生。",
+                "D. 视频中没有发生施工现场场景。"
+            ],
+            "answer": "B"
+        },
+        "5kmnEgBSCfg_186": {
+            "id": "5kmnEgBSCfg_186",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "哪一个发生得更早，是施工现场还是室内健身房？",
+            "options": [
+                "A. 施工现场早于室内健身房。",
+                "B. 室内健身房布置早于施工现场。",
+                "C. 两者在广告中同时出现。",
+                "D. 广告中既没有施工现场也没有室内健身房。"
+            ],
+            "answer": "A"
+        }
+    }
+}

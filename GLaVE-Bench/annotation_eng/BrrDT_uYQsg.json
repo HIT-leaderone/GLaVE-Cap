@@ -1,0 +1,1745 @@
+{
+    "scene_hint": {
+        "0": "A young gymnast completed the performance with the assistance of teammates, bowed with the team, and raised both hands.",
+        "1": "The athletes faced the audience, raised their arms, clapped, and interacted with the audience.",
+        "2": "The camera focuses, and an athlete raises their arm.",
+        "3": "The camera switches to the audience, who are clapping and cheering.",
+        "4": "The camera switches to the athletes, who are standing and lying on the floor.",
+        "5": "The camera zooms in, and other athletes lift the athlete lying on the floor.",
+        "6": "The athletes perform a unique routine and signal completion by raising their hands.",
+        "7": "The camera zooms in, and the athlete has completed the performance and exited.",
+        "8": "The athletes walk off the mat with their backs to the camera.",
+        "9": "The camera turns to the front of the athletes, who walk off the mat one by one and wave."
+    },
+    "qa": {
+        "BrrDT_uYQsg_0": {
+            "id": "BrrDT_uYQsg_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What type of event is shown in the video?",
+            "options": [
+                "A. The video shows a concert in an indoor stadium.",
+                "B. The video shows a sporting event from the 2016 Rio Olympics.",
+                "C. The video shows a theatrical performance themed around cultural traditions.",
+                "D. The video shows a fashion show themed around dragons."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_1": {
+            "id": "BrrDT_uYQsg_1",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What kind of clothing are the athletes wearing?",
+            "options": [
+                "A. The athletes are wearing a red and yellow outfit.",
+                "B. The athletes are wearing a blue and white outfit.",
+                "C. The athletes are wearing a green outfit.",
+                "D. The athletes are wearing a black and gold outfit."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_2": {
+            "id": "BrrDT_uYQsg_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What accessories are the athletes wearing on their arms?",
+            "options": [
+                "A. A red armband",
+                "B. A gold bracelet",
+                "C. A white wristband",
+                "D. A black dragon tattoo"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_3": {
+            "id": "BrrDT_uYQsg_3",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many athletes are there in total in the scene?",
+            "options": [
+                "A. Three athletes",
+                "B. Four athletes",
+                "C. Two athletes",
+                "D. Five athletes"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_4": {
+            "id": "BrrDT_uYQsg_4",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Does the background contain the Olympic logo?",
+            "options": [
+                "A. Yes, the background includes a 'Rio2016' banner and the Olympic rings.",
+                "B. No, the background only shows the audience and lighting.",
+                "C. Yes, but it only includes the Olympic rings without any 'Rio2016' banner.",
+                "D. No, the background is simple without any notable logos."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_5": {
+            "id": "BrrDT_uYQsg_5",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of shot was used in this scene?",
+            "options": [
+                "A. A level shot focused on the athlete was used.",
+                "B. A bird's-eye view shot overlooking the entire arena was used.",
+                "C. A close-up shot focused on the athlete's facial expressions was used.",
+                "D. A wide-angle shot showcasing the audience and the arena was used."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_6": {
+            "id": "BrrDT_uYQsg_6",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "From the video, what is the initial posture of the athlete on the far left?",
+            "options": [
+                "A. The athlete on the far left is standing upright.",
+                "B. The athlete on the far left is running.",
+                "C. The athlete on the far left is sitting.",
+                "D. The athlete on the far left is standing with arms crossed."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_7": {
+            "id": "BrrDT_uYQsg_7",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "From the video, what is the final posture of the athlete on the far left?",
+            "options": [
+                "A. He bows with his hands at his sides.",
+                "B. He smoothly raised both hands.",
+                "C. He sits on the ground to rest.",
+                "D. He clearly bends forward to bow."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_8": {
+            "id": "BrrDT_uYQsg_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What visual elements in the background can create the atmosphere of the event?",
+            "options": [
+                "A. The green banners, Olympic rings logo, a screen full of spectators, and warm lighting all create the atmosphere.",
+                "B. The vibrant dragon design on the athletes' clothing and the orange and red color scheme contribute to the atmosphere.",
+                "C. The sparse red seats in the stadium and the glass panels indicating rooms create the atmosphere.",
+                "D. The white wristbands worn by the athletes and the perspective from the ground all create the atmosphere."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_9": {
+            "id": "BrrDT_uYQsg_9",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the athlete's performance scene?",
+            "options": [
+                "A. The scene takes place in a gymnastics hall with tiered seating, bright lights at the top, and signs such as 'Rio2016' and the Olympic rings.",
+                "B. The scene takes place in a dimly lit small gymnasium with local school banners, indicating that this is a regional sports day event.",
+                "C. The scene takes place in a park with picnic tables and family spectators, indicating that this is a community festival.",
+                "D. The scene takes place in a street performance in a city square, with casual passersby and no formal seating, indicating that this is a public gathering."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_10": {
+            "id": "BrrDT_uYQsg_10",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What actions did the athletes perform when facing the audience?",
+            "options": [
+                "A. The athletes raised both arms above their heads.",
+                "B. The athletes extended both arms outward.",
+                "C. The athletes raised one arm and extended the other arm forward.",
+                "D. The athletes kept both arms at their sides."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_11": {
+            "id": "BrrDT_uYQsg_11",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "From the video, what did the athlete on the far right do when the other team members faced the audience?",
+            "options": [
+                "A. The athlete moved to the left.",
+                "B. The athlete moved to the right.",
+                "C. The athlete moved backward.",
+                "D. The athlete remained still."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_12": {
+            "id": "BrrDT_uYQsg_12",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What sound or action did the athlete on the right make when facing the audience?",
+            "options": [
+                "A. The athlete clapped.",
+                "B. The athlete stomped.",
+                "C. The athlete snapped their fingers.",
+                "D. The athlete shouted loudly."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_13": {
+            "id": "BrrDT_uYQsg_13",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Did the audience show higher engagement during the performance?",
+            "options": [
+                "A. Yes, the audience raised their arms and clapped enthusiastically.",
+                "B. No, the audience remained passive and uninterested.",
+                "C. Yes, but only a few audience members clapped lightly.",
+                "D. No, the audience started leaving the venue during the performance."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_14": {
+            "id": "BrrDT_uYQsg_14",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Which elements emphasize the theme of the event?",
+            "options": [
+                "A. The 'Rio2016' and Olympic rings on the green banner",
+                "B. The bright yellow and red uniforms worn by the athletes",
+                "C. The increasing participation of the audience with raised arms",
+                "D. The tiered seating of the arena and the bright overhead lighting"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_15": {
+            "id": "BrrDT_uYQsg_15",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "From the video, what is the position of the athlete on the far left?",
+            "options": [
+                "A. The athlete on the far left is slightly to the left in the video.",
+                "B. The athlete on the far left is exactly in the center position.",
+                "C. The athlete on the far left is slightly to the right in the video.",
+                "D. The athlete on the far left is at the far right end of the video."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_16": {
+            "id": "BrrDT_uYQsg_16",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where is the event held?",
+            "options": [
+                "A. The event is held at the Rio 2016 Olympic Gymnastics Arena.",
+                "B. The event is held at a local sports arena in Rio.",
+                "C. The event is held at the Rio 2016 Olympic Swimming Arena.",
+                "D. The event is held during a street parade in Rio."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_17": {
+            "id": "BrrDT_uYQsg_17",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment inside the gymnastics arena?",
+            "options": [
+                "A. The environment is lively and dynamic, with the audience's energy and colorful banners adding to the atmosphere.",
+                "B. The environment is quiet and understated, with little audience interaction.",
+                "C. The environment is chaotic and disorganized, making it difficult for athletes to stay in sync.",
+                "D. The environment is gloomy and melancholic, lacking noticeable energy and excitement."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_18": {
+            "id": "BrrDT_uYQsg_18",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the most noticeable feature in the gymnasts' costumes?",
+            "options": [
+                "A. Bright yellow and red alternating costumes.",
+                "B. Bright blue and green stripes.",
+                "C. Pure black and white alternating uniforms.",
+                "D. Red and orange patterned costumes."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_19": {
+            "id": "BrrDT_uYQsg_19",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "From the video, what adjustment did the athlete on the far right make to align with the choreographed movements?",
+            "options": [
+                "A. The athlete on the far right raised both hands above their head, echoing the celebratory gesture of the middle athlete.",
+                "B. The athlete on the far right slightly turned toward the audience while maintaining the team's celebratory gesture.",
+                "C. The athlete on the far right stepped forward toward the audience to make themselves more prominent.",
+                "D. The athlete on the far right leaned backward to better align with the posture of the middle athlete."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_20": {
+            "id": "BrrDT_uYQsg_20",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "How do camera lenses enhance the performance of athletes?",
+            "options": [
+                "A. The lens zooms out to capture the movements of the entire team.",
+                "B. The lens captures the movements of athletes as they approach.",
+                "C. The lens focuses on the back view of young gymnasts.",
+                "D. The lens moves to the athlete on the far right."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_21": {
+            "id": "BrrDT_uYQsg_21",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements in the performance background contribute to creating a celebratory atmosphere?",
+            "options": [
+                "A. Enthusiastic crowds waving flags, banners, electronic displays, and decorations on the gymnasium floor.",
+                "B. A calm crowd in the background, plain banners, and a lack of any electronic displays.",
+                "C. A dimly lit, sparsely decorated gymnasium with little audience interaction.",
+                "D. Quiet audience, no banners, and a plain, undecorated gymnasium floor."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_22": {
+            "id": "BrrDT_uYQsg_22",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What changes occur in the background when transitioning from a group gymnastics performance to an individual gymnast?",
+            "options": [
+                "A. The background remains consistent, with a large audience and banners visible in both shots.",
+                "B. The background changes from a large audience with banners and flags to only a few spectators sitting behind the gymnast.",
+                "C. The background becomes a completely empty gymnasium, with no audience or decorations.",
+                "D. The background evolves to show only close-up shots of the gymnast, with no audience or patterns visible."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_23": {
+            "id": "BrrDT_uYQsg_23",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where does the video take place?",
+            "options": [
+                "A. The video takes place at the swimming pool.",
+                "B. The video takes place at the gymnastics hall.",
+                "C. The video takes place at the concert hall.",
+                "D. The video takes place at the basketball court."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_24": {
+            "id": "BrrDT_uYQsg_24",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the video?",
+            "options": [
+                "A. The environment is lively and full of celebratory atmosphere, with an audience, banners, and a dynamic performance area.",
+                "B. The environment is calm and peaceful, with an empty gym and soft music playing.",
+                "C. The environment is chaotic and disorganized, with gymnasts accidentally colliding causing disruptions.",
+                "D. The environment is dark and mysterious, with dim lighting and some audience in the background."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_25": {
+            "id": "BrrDT_uYQsg_25",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "In the close-up, what is the gymnast wearing?",
+            "options": [
+                "A. A bright yellow and red outfit",
+                "B. A plain white uniform without patterns",
+                "C. A green and blue outfit",
+                "D. A black and gold outfit"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_26": {
+            "id": "BrrDT_uYQsg_26",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "In the close-up shot, what pose is the gymnast holding?",
+            "options": [
+                "A. The gymnast's arms are extended horizontally, presenting a graceful posture.",
+                "B. The gymnast is leaning forward, with the upper body noticeably bent down.",
+                "C. The gymnast is standing upright, with arms crossed in front of the chest.",
+                "D. The gymnast is in a handstand, with legs extended vertically."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_27": {
+            "id": "BrrDT_uYQsg_27",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "In the final frame of the close-up shot, what position does the gymnast transition into?",
+            "options": [
+                "A. Standing with arms extended horizontally",
+                "B. Bent over position with the upper body clearly inclined downward",
+                "C. Kneeling on the mat with arms raised",
+                "D. Jumping with legs apart and hands reaching upward"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_28": {
+            "id": "BrrDT_uYQsg_28",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "In the close-up shot, what change occurred in the audience composition?",
+            "options": [
+                "A. The audience completely disappeared, leaving an empty background.",
+                "B. Several obscured audience members appeared in the final shot, enhancing visual appeal and a lively atmosphere.",
+                "C. The audience approached the gymnast, creating an intimate environment.",
+                "D. Banners and flags in the crowd were replaced by solid colors, reducing the scene's vibrancy."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_29": {
+            "id": "BrrDT_uYQsg_29",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the dark-skinned woman wearing white clothes and glasses in the video?",
+            "options": [
+                "A. She is located in the bottom left corner of the video.",
+                "B. She is located in the center of the video.",
+                "C. She is located in the top left corner of the video.",
+                "D. She is located in the bottom right corner of the video."
+            ],
+            "answer": "D"
+        },
+        "BrrDT_uYQsg_30": {
+            "id": "BrrDT_uYQsg_30",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Can the audience be seen in this scene?",
+            "options": [
+                "A. Yes, the audience can be seen clearly and completely.",
+                "B. Yes, a small part of the audience can be seen vaguely.",
+                "C. Yes, only distant blurry silhouettes can be seen.",
+                "D. No, the audience cannot be seen at all."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_31": {
+            "id": "BrrDT_uYQsg_31",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the person wearing a black hat and clapping located in the video?",
+            "options": [
+                "A. He is located at the bottom left corner of the video.",
+                "B. He is located in the center of the video.",
+                "C. He is located at the top left corner of the video.",
+                "D. He is located on the right side of the video."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_32": {
+            "id": "BrrDT_uYQsg_32",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the overall mood of this group of people?",
+            "options": [
+                "A. The mood of this group is celebratory and energetic.",
+                "B. The mood of this group is melancholic and repressed.",
+                "C. The mood of this group is confused and chaotic.",
+                "D. The mood of this group is bored and uninterested."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_33": {
+            "id": "BrrDT_uYQsg_33",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What color is the little girl on the stairs wearing?",
+            "options": [
+                "A. It's white.",
+                "B. It's blue.",
+                "C. It's light-colored.",
+                "D. It's green."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_34": {
+            "id": "BrrDT_uYQsg_34",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "In the current context, which objects seen in the previous scene are still visible now?",
+            "options": [
+                "A. The red seats from the previous context are still visible now.",
+                "B. The 'Rio2016' text from the previous context is still visible.",
+                "C. The green floor from the previous context is still visible now.",
+                "D. The Olympic rings logo from the previous context is still visible."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_35": {
+            "id": "BrrDT_uYQsg_35",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Is the audience displayed in an outdoor location?",
+            "options": [
+                "A. Yes, the audience is displayed in an outdoor environment.",
+                "B. No, the audience is displayed near an amusement park.",
+                "C. Yes, the audience is displayed in a backyard garden.",
+                "D. No, the audience is displayed in an indoor environment."
+            ],
+            "answer": "D"
+        },
+        "BrrDT_uYQsg_36": {
+            "id": "BrrDT_uYQsg_36",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the specific behavior of the audience in this scene?",
+            "options": [
+                "A. The audience is booing the performance.",
+                "B. The audience is applauding enthusiastically and expressing their appreciation.",
+                "C. The audience is watching the performance silently.",
+                "D. The audience is leaving their seats and heading towards the exit."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_37": {
+            "id": "BrrDT_uYQsg_37",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "How does the camera movement shift the focus to the audience?",
+            "options": [
+                "A. The camera zooms in on the gymnast.",
+                "B. The camera takes a close-up of some audience members.",
+                "C. The camera focuses on the red seats.",
+                "D. The camera highlights only the metal railings."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_38": {
+            "id": "BrrDT_uYQsg_38",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used to emphasize the energy and emotions of the audience?",
+            "options": [
+                "A. A close-up shot focused on a single audience member.",
+                "B. A tighter shot focusing on the audience.",
+                "C. A wide-angle shot capturing the whole venue.",
+                "D. A panoramic shot emphasizing the architecture of the venue rather than the audience."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_39": {
+            "id": "BrrDT_uYQsg_39",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What is the focus of the current scene compared to the previous shots of the athletes?",
+            "options": [
+                "A. The current scene highlights the performance of the gymnastics athletes.",
+                "B. The current scene highlights the audience.",
+                "C. The current scene highlights the architectural structure of the stadium.",
+                "D. The current scene highlights the lighting and decorations."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_40": {
+            "id": "BrrDT_uYQsg_40",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What visual features highlight the crowd's enthusiasm?",
+            "options": [
+                "A. The audience wearing brightly colored clothes highlights the crowd's enthusiasm.",
+                "B. Clearly seeing the gymnasts' performance focused the crowd's excitement.",
+                "C. The dim lighting in the venue enhanced the calm atmosphere among the audience.",
+                "D. The audience applauding and cheering highlighted people's enthusiasm."
+            ],
+            "answer": "D"
+        },
+        "BrrDT_uYQsg_41": {
+            "id": "BrrDT_uYQsg_41",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What visual features highlight the crowd's celebratory mood?",
+            "options": [
+                "A. Their clapping and lively gestures highlight the crowd's celebratory mood.",
+                "B. The red stadium seats and quiet demeanor highlight the crowd's celebratory mood.",
+                "C. Their serious expressions and soft lighting highlight the crowd's celebratory mood.",
+                "D. The gymnasts' performance highlights the crowd's celebratory mood."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_42": {
+            "id": "BrrDT_uYQsg_42",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What was the initial position of the shorter gymnast in this scene?",
+            "options": [
+                "A. The gymnast was initially kneeling.",
+                "B. The gymnast was initially standing upright.",
+                "C. The gymnast was initially lying flat on the floor.",
+                "D. The gymnast was initially sitting cross-legged."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_43": {
+            "id": "BrrDT_uYQsg_43",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "How does the shorter gymnast transition between movements in this scene?",
+            "options": [
+                "A. The gymnast transitions to a prone position.",
+                "B. The gymnast transitions to a standing position.",
+                "C. The gymnast transitions to a standing position.",
+                "D. The gymnast transitions to a sitting position."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_44": {
+            "id": "BrrDT_uYQsg_44",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "In this scene, what is the starting position of the shorter gymnast?",
+            "options": [
+                "A. The gymnast starts kneeling with their head tilted upwards.",
+                "B. The gymnast starts standing with arms raised.",
+                "C. The gymnast starts lying flat on the ground with arms at their sides.",
+                "D. The gymnast starts crouching with hands on the ground."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_45": {
+            "id": "BrrDT_uYQsg_45",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What does the gymnast do after starting in a kneeling position?",
+            "options": [
+                "A. He transitions to a prone position, arms extended.",
+                "B. He remains kneeling and raises both arms.",
+                "C. He stands up and starts dancing.",
+                "D. He sits down and claps."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_46": {
+            "id": "BrrDT_uYQsg_46",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the position of the gymnast lying face down relative to the other standing gymnasts?",
+            "options": [
+                "A. He is in front of the standing gymnasts.",
+                "B. He is behind the standing gymnasts.",
+                "C. He is to the left of the standing gymnasts.",
+                "D. He is at the diagonal right side of the standing gymnasts."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_47": {
+            "id": "BrrDT_uYQsg_47",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What did the prone gymnast do?",
+            "options": [
+                "A. The prone gymnast moved slightly to the left.",
+                "B. The prone gymnast stood up and joined the others.",
+                "C. The prone gymnast completed a backflip.",
+                "D. The prone gymnast remained motionless."
+            ],
+            "answer": "D"
+        },
+        "BrrDT_uYQsg_48": {
+            "id": "BrrDT_uYQsg_48",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of shot combines the performer's routine with the atmosphere of the stadium?",
+            "options": [
+                "A. A steady wide-angle shot",
+                "B. A close-up slow-motion shot",
+                "C. A fast panning shot",
+                "D. A zoomed high-angle shot"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_49": {
+            "id": "BrrDT_uYQsg_49",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "How do the audience change during the performance?",
+            "options": [
+                "A. They become more lively and energetic.",
+                "B. The audience becomes more concentrated.",
+                "C. The audience completely disperses.",
+                "D. The audience remains basically unchanged."
+            ],
+            "answer": "D"
+        },
+        "BrrDT_uYQsg_50": {
+            "id": "BrrDT_uYQsg_50",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What are these gymnasts doing in the video?",
+            "options": [
+                "A. These gymnasts are performing a synchronized routine.",
+                "B. These gymnasts are practicing individual routines.",
+                "C. These gymnasts are warming up off-camera.",
+                "D. These gymnasts are resting."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_51": {
+            "id": "BrrDT_uYQsg_51",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "During the performance, which trait did the gymnasts display?",
+            "options": [
+                "A. They displayed teamwork and flexibility.",
+                "B. They displayed flexibility and grace.",
+                "C. They displayed balance and coordination.",
+                "D. All of the above."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_52": {
+            "id": "BrrDT_uYQsg_52",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What do the gymnast's pants look like?",
+            "options": [
+                "A. The gymnast's pants are red.",
+                "B. The gymnast's pants are yellow.",
+                "C. The gymnast's pants are blue.",
+                "D. The gymnast's pants are green."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_53": {
+            "id": "BrrDT_uYQsg_53",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many cycles did the gymnast complete in the 'human' jump rope activity?",
+            "options": [
+                "A. Once.",
+                "B. Twice.",
+                "C. Three times.",
+                "D. Did not perform the 'human' jump rope activity."
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_54": {
+            "id": "BrrDT_uYQsg_54",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Does this scene in the video show the audience of a gymnastics competition?",
+            "options": [
+                "A. Yes, the video shows the audience.",
+                "B. No, there is no audience shown in the video.",
+                "C. The audience is blurred in the background.",
+                "D. The video does not specify whether the audience is shown."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_55": {
+            "id": "BrrDT_uYQsg_55",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the gymnast perform after the jump rope performance?",
+            "options": [
+                "A. The gymnast threw their partner into the air and caught them.",
+                "B. The gymnast carried their partner while running forward.",
+                "C. The gymnast lifted their partner into the air.",
+                "D. The gymnast stood on their partner's shoulders."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_56": {
+            "id": "BrrDT_uYQsg_56",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What move did the gymnast complete first?",
+            "options": [
+                "A. The gymnast rotates around a central point while gradually rising or lowering.",
+                "B. The gymnast shakes the hands and legs of a partner, engaging in an activity similar to jump rope.",
+                "C. The gymnasts form a circle, holding hands and rotating, while someone jumps over or through the middle.",
+                "D. The gymnast stands on a partner's shoulders."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_57": {
+            "id": "BrrDT_uYQsg_57",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements in the background reinforce the video's setting as an Olympic scene?",
+            "options": [
+                "A. Bright costumes with dragon patterns and the symmetrical arrangement of gymnasts.",
+                "B. OMEGA and FIG logos and the 'Rio2016' text in parts of the background.",
+                "C. Spectators in the stands waving Olympic flags and cheering.",
+                "D. The precise movements of the gymnasts and their synchronized performance."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_58": {
+            "id": "BrrDT_uYQsg_58",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "From the perspective of the athlete, where is the gymnast positioned relative to the prone athlete before performing the forward leaning handstand?",
+            "options": [
+                "A. On the athlete's left side.",
+                "B. Behind the athlete.",
+                "C. On the athlete's right side.",
+                "D. In front of the athlete."
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_59": {
+            "id": "BrrDT_uYQsg_59",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "From the perspective of the athletes, in the extended position, where is the gymnast in the middle relative to the prone athlete?",
+            "options": [
+                "A. On the athlete's left side",
+                "B. On the athlete's right side",
+                "C. Behind the athlete",
+                "D. In front of the athlete"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_60": {
+            "id": "BrrDT_uYQsg_60",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What do gymnasts wear on their feet?",
+            "options": [
+                "A. Red socks",
+                "B. Barefoot",
+                "C. White socks",
+                "D. Black sneakers"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_61": {
+            "id": "BrrDT_uYQsg_61",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "In this scene, did the gymnasts' outfits change?",
+            "options": [
+                "A. Yes, they changed to blue tops with green pants.",
+                "B. Yes, they changed to black tops with white pants.",
+                "C. No, the outfits remained the same and did not change.",
+                "D. Yes, they changed to purple tops with yellow pants."
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_62": {
+            "id": "BrrDT_uYQsg_62",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What actions are the gymnasts on the left and right sides performing in this scene?",
+            "options": [
+                "A. The two gymnasts are performing mid-air movements, raising and lowering their arms simultaneously.",
+                "B. The two gymnasts are synchronously doing backflips, adding dynamism to the performance.",
+                "C. The two gymnasts are standing still with hands on hips, providing a stable presence.",
+                "D. The two gymnasts are lying prone on the ground, showcasing their flexibility."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_63": {
+            "id": "BrrDT_uYQsg_63",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "What type of camera was used to shoot the video in this scene?",
+            "options": [
+                "A. Close-up shot, focusing on the face and expressions of a single gymnast.",
+                "B. Stable wide-angle shot, preserving the immersive panorama of the performers.",
+                "C. Fast-moving shot, capturing dynamic movements from multiple angles.",
+                "D. High-altitude shot from above, showcasing the geometric patterns of the performance formation."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_64": {
+            "id": "BrrDT_uYQsg_64",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "In this scene, how does this shot contribute to the presentation?",
+            "options": [
+                "A. It highlights the gymnast and the Olympic atmosphere.",
+                "B. It mainly focuses on the audience, capturing their reactions.",
+                "C. It only shows close-up shots of the gymnast.",
+                "D. It frequently switches angles, leading to a disjointed viewing experience."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_65": {
+            "id": "BrrDT_uYQsg_65",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What kind of action is the gymnast on the far left performing in the entire sequence?",
+            "options": [
+                "A. The gymnast on the left flips in the air as part of the action.",
+                "B. The gymnast on the left is holding the hand of the central gymnast.",
+                "C. The gymnast on the left manipulates a red ribbon throughout the performance.",
+                "D. The gymnast on the left maintains a horizontal split position."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_66": {
+            "id": "BrrDT_uYQsg_66",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What is the gymnast on the far right doing during the entire performance?",
+            "options": [
+                "A. The gymnast on the right takes a dramatic horizontal pose as the focal point of the performance.",
+                "B. The gymnast on the right grabs the ankle of the central gymnast.",
+                "C. The gymnast on the right waves a bright red ribbon.",
+                "D. The gymnast on the right acts as the main choreographer."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_67": {
+            "id": "BrrDT_uYQsg_67",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "Where is the gymnastics performance conducted?",
+            "options": [
+                "A. The performance takes place on a cream-colored gymnastics mat.",
+                "B. The performance takes place on a blue gymnastics mat.",
+                "C. The performance takes place on a red carpet.",
+                "D. The performance takes place on a wooden floor."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_68": {
+            "id": "BrrDT_uYQsg_68",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What transition movements are included in the performances of gymnasts?",
+            "options": [
+                "A. The performance evolves with the athletes' transition movements and includes aerial flips.",
+                "B. The performance remains static, with no changes in athletes or movements.",
+                "C. Each athlete performs independently, with no interaction or transitions.",
+                "D. The athletes shift to a completely different performance focused on individual floor exercises."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_69": {
+            "id": "BrrDT_uYQsg_69",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "How do gymnasts' costumes enhance their appearance?",
+            "options": [
+                "A. Their costumes enhance their visual unity and professionalism.",
+                "B. Their costumes are too bright in color and have chaotic patterns.",
+                "C. Their costumes make it difficult to distinguish gymnasts.",
+                "D. Their costumes are ordinary and do not help the performance."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_70": {
+            "id": "BrrDT_uYQsg_70",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "During the performance, will the position of the gymnast in the middle change?",
+            "options": [
+                "A. Yes, the gymnast in the middle will be replaced during the performance.",
+                "B. No, the gymnast in the middle remains unchanged throughout the performance.",
+                "C. Yes, but only towards the end of the performance will it change.",
+                "D. No, all gymnasts maintain their initial positions."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_71": {
+            "id": "BrrDT_uYQsg_71",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What position did the gymnast perform in the air during the routine?",
+            "options": [
+                "A. The gymnast performed a flip in the air.",
+                "B. The gymnast performed a backflip in the air.",
+                "C. The gymnast performed a handstand in the air.",
+                "D. The gymnast performed a somersault in the air."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_72": {
+            "id": "BrrDT_uYQsg_72",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What visual elements indicate the presence of an American audience?",
+            "options": [
+                "A. The American flag among the audience indicates the presence of American spectators.",
+                "B. The gymnast is wearing a uniform with red, white, and blue colors.",
+                "C. The digital scoreboard displays the American flag.",
+                "D. The audience is chanting slogans in English."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_73": {
+            "id": "BrrDT_uYQsg_73",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "During the transformation performance, what action does the gymnast in the middle perform?",
+            "options": [
+                "A. The gymnast in the middle is thrown into the air by teammates.",
+                "B. The gymnast in the middle performs a series of backflips on the stage.",
+                "C. The gymnast in the middle remains stationary while others move around him.",
+                "D. The gymnast in the middle performs a handstand on a teammate's shoulders."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_74": {
+            "id": "BrrDT_uYQsg_74",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "Which direction does the gymnast move after flipping in the air?",
+            "options": [
+                "A. The gymnast moves downward.",
+                "B. The gymnast moves upward.",
+                "C. The gymnast moves sideways.",
+                "D. The gymnast moves in a spiral direction."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_75": {
+            "id": "BrrDT_uYQsg_75",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens can capture both athletes and spectators at the same time?",
+            "options": [
+                "A. A close-up lens that focuses only on the athletes' expressions.",
+                "B. Shot from a mid-range perspective.",
+                "C. A wide-angle lens that emphasizes spectators more than athletes.",
+                "D. An overhead shot showing the entire layout of the stadium."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_76": {
+            "id": "BrrDT_uYQsg_76",
+            "scene": 6,
+            "dimension": "Speed",
+            "question": "How does the speed of a gymnast performing in the air change throughout the movement?",
+            "options": [
+                "A. The speed gradually decreases throughout the process.",
+                "B. The speed remains constant, with the movement being slow and controlled.",
+                "C. The speed increases.",
+                "D. The speed fluctuates unpredictably, sometimes fast and sometimes slow."
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_77": {
+            "id": "BrrDT_uYQsg_77",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "How does the background change during the performance?",
+            "options": [
+                "A. The background changes to show more of the audience.",
+                "B. The background transitions from a single curtain to a vibrant fireworks display.",
+                "C. The background transitions from a dark arena to a bright stadium.",
+                "D. The background changes from a scattered audience to an empty arena."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_78": {
+            "id": "BrrDT_uYQsg_78",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "What impact does the transition of this scene's background have on the atmosphere?",
+            "options": [
+                "A. The transition makes the atmosphere dull by reducing attention to the performance.",
+                "B. The transition enhances the vibrancy and energy of the atmosphere.",
+                "C. The transition shifts the focus entirely to the audience, overshadowing the performers.",
+                "D. The transition creates a more formal and oppressive environment."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_79": {
+            "id": "BrrDT_uYQsg_79",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "During the entire performance, which elements remain consistently in view?",
+            "options": [
+                "A. The gymnast's vibrant costumes and intricate movements.",
+                "B. The 'Rio2016' and Olympic rings banners along with the electronic screens.",
+                "C. The diverse audience and their colorful attire.",
+                "D. The polished gymnasium floor and constant bright lighting."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_80": {
+            "id": "BrrDT_uYQsg_80",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "From the video, where is the position of the shorter gymnast relative to the taller gymnast on the far right?",
+            "options": [
+                "A. The shorter gymnast is to the left of the taller gymnast on the far right.",
+                "B. The shorter gymnast is behind the taller gymnast on the far right.",
+                "C. The shorter gymnast is in front of the taller gymnast on the far right.",
+                "D. The shorter gymnast is to the right of the taller gymnast on the far right."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_81": {
+            "id": "BrrDT_uYQsg_81",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the gymnasts collectively perform after the entire performance?",
+            "options": [
+                "A. The gymnasts raised both arms above their heads.",
+                "B. The gymnasts raised one arm while stepping back.",
+                "C. The gymnasts performed a backflip and then bowed to the audience.",
+                "D. The gymnasts raised both arms above their heads and stepped forward."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_82": {
+            "id": "BrrDT_uYQsg_82",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the main color around the gymnastics arena?",
+            "options": [
+                "A. The main color around the gymnastics arena is green.",
+                "B. The main color around the gymnastics arena is blue.",
+                "C. The main color around the gymnastics arena is red.",
+                "D. The main color around the gymnastics arena is white."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_83": {
+            "id": "BrrDT_uYQsg_83",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Are the audience interested in the performance?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only a small portion of the audience is interested",
+                "D. The audience remains silent"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_84": {
+            "id": "BrrDT_uYQsg_84",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens was used during the performance?",
+            "options": [
+                "A. A wide-angle lens was used to capture the panoramic view of the gymnasts and the enthusiasm of the audience.",
+                "B. Close-up shots focused on the performances of individual gymnasts.",
+                "C. Overhead shots provided a view of the entire venue from above.",
+                "D. A zoom lens was used to highlight the facial expressions of the performers."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_85": {
+            "id": "BrrDT_uYQsg_85",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred among the background audience during the performance?",
+            "options": [
+                "A. A new audience area came into view, adding new enthusiasm.",
+                "B. The audience turned their attention to the gymnasts and became quiet.",
+                "C. The audience left the arena midway through the performance.",
+                "D. More judges entered the venue, distracting the audience."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_86": {
+            "id": "BrrDT_uYQsg_86",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "From the video, where is the gymnast located after the camera changes?",
+            "options": [
+                "A. The gymnast gradually walks towards the edge of the stage after waving.",
+                "B. The gymnast has completely left the frame and is no longer visible.",
+                "C. The gymnast is still in the central foreground, with their right arm raised high.",
+                "D. The gymnast is located at the far left, remaining still."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_87": {
+            "id": "BrrDT_uYQsg_87",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "After the camera angle changed, what move did the shorter gymnast perform?",
+            "options": [
+                "A. The gymnast raised both arms high.",
+                "B. The gymnast completed a backflip.",
+                "C. The gymnast extended both arms outward.",
+                "D. The gymnast knelt on one knee and raised one arm."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_88": {
+            "id": "BrrDT_uYQsg_88",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Is the background of this scene blurry?",
+            "options": [
+                "A. Yes, the background is blurry.",
+                "B. No, the background is clear and in focus.",
+                "C. Yes, the background alternates between blurry and clear.",
+                "D. No, the background is completely black."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_89": {
+            "id": "BrrDT_uYQsg_89",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "In this scene, which type of shot is used to highlight the details of the clothing?",
+            "options": [
+                "A. Close-up shots are used to highlight the intricate details of the clothing.",
+                "B. Wide-angle shots are used to capture the entire performance area.",
+                "C. Aerial shots are used to provide a bird's-eye view of the clothing.",
+                "D. Tracking shots are used to follow the movements of the gymnast."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_90": {
+            "id": "BrrDT_uYQsg_90",
+            "scene": 6,
+            "dimension": "Speed",
+            "question": "In terms of action speed, how would you describe this gymnastics performance?",
+            "options": [
+                "A. The gymnastics performance is static, with slow movements.",
+                "B. The gymnastics performance is energetic, with dynamic movements.",
+                "C. The gymnastics performance is relaxed, with fewer movements.",
+                "D. The gymnastics performance is uncoordinated and lacks vitality."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_91": {
+            "id": "BrrDT_uYQsg_91",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "What position changes occur during a gymnast's performance?",
+            "options": [
+                "A. The gymnast remains stationary throughout the performance.",
+                "B. The gymnast's position changes dynamically, with the rhythmic gymnast taking the center position.",
+                "C. The gymnast only moves to the left side of the stage.",
+                "D. The gymnast's position does not change."
+            ],
+            "answer": "D"
+        },
+        "BrrDT_uYQsg_92": {
+            "id": "BrrDT_uYQsg_92",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Do gymnasts move around after their performance ends?",
+            "options": [
+                "A. Gymnasts walk out of the area after their performance ends.",
+                "B. Gymnasts remain in the same position without moving.",
+                "C. Gymnasts walk out of the area before their performance ends.",
+                "D. Gymnasts perform entirely off-camera."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_93": {
+            "id": "BrrDT_uYQsg_93",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "When the four gymnasts walk out from the center of the mat, where are they positioned?",
+            "options": [
+                "A. Around the stage, near the audience seating area.",
+                "B. Next to many event staff.",
+                "C. As they walk towards the center area of the mat, these gymnasts can be seen from behind.",
+                "D. Near the protective mats of the competition area."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_94": {
+            "id": "BrrDT_uYQsg_94",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "In this scene, are all four athletes completely visible in the video?",
+            "options": [
+                "A. No, not all four athletes are visible in the video.",
+                "B. Yes, all four athletes are always visible.",
+                "C. No, only one athlete is visible in the video.",
+                "D. No, there are no athletes appearing in the video."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_95": {
+            "id": "BrrDT_uYQsg_95",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What logo is prominently displayed in the venue background?",
+            "options": [
+                "A. Olympic Rings logo",
+                "B. FIFA World Cup logo",
+                "C. NBA logo",
+                "D. Wimbledon logo"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_96": {
+            "id": "BrrDT_uYQsg_96",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many gymnasts are walking out of the center of the mat?",
+            "options": [
+                "A. Two gymnasts",
+                "B. Three gymnasts",
+                "C. Four gymnasts",
+                "D. Five gymnasts"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_97": {
+            "id": "BrrDT_uYQsg_97",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Can a host holding a microphone be seen in the scene?",
+            "options": [
+                "A. Yes, it can be seen in the scene.",
+                "B. No, no one can be seen in the scene.",
+                "C. Yes, a woman holding a clipboard can be seen in the scene.",
+                "D. No, only athletes and spectators can be seen in the scene."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_98": {
+            "id": "BrrDT_uYQsg_98",
+            "scene": 8,
+            "dimension": "Camera Direction",
+            "question": "What action did the cameraman take in this scene?",
+            "options": [
+                "A. The cameraman clapped along with the audience to cheer for the gymnast.",
+                "B. The cameraman carried a professional shoulder-mounted camera to record the event.",
+                "C. The cameraman interacted with the event staff to coordinate the schedule.",
+                "D. The cameraman stood idly without any equipment, just observing the scene."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_99": {
+            "id": "BrrDT_uYQsg_99",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "When gymnasts walk off the mat with their backs to the camera, which direction do they move?",
+            "options": [
+                "A. The gymnast is walking forward, heading toward the upper left corner of the mat.",
+                "B. The gymnast is stepping backward, moving away from the mat area.",
+                "C. The gymnast is moving sideways along the edge of the mat area.",
+                "D. The gymnast is standing still at the edge of the mat area."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_100": {
+            "id": "BrrDT_uYQsg_100",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "What type of shot can capture the overall composition of a gymnast and the venue?",
+            "options": [
+                "A. A close-up shot can capture the overall composition of a gymnast and the venue.",
+                "B. A wide-angle shot can capture the overall composition of a gymnast and the venue.",
+                "C. A medium shot can capture the overall composition of a gymnast and the venue.",
+                "D. An overhead shot can capture the overall composition of a gymnast and the venue."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_101": {
+            "id": "BrrDT_uYQsg_101",
+            "scene": 8,
+            "dimension": "Speed",
+            "question": "At what speed does the gymnast move towards the edge of the mat area?",
+            "options": [
+                "A. The gymnast moves at a frantic sprinting speed.",
+                "B. The gymnast moves at a slow and hesitant speed.",
+                "C. The gymnast moves at a calm and steady speed.",
+                "D. The gymnast transitions from moving quickly to a leisurely and relaxed pace."
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_102": {
+            "id": "BrrDT_uYQsg_102",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "How does the scene transition in terms of composition when the athletes leave the field?",
+            "options": [
+                "A. The scene transitions from close-up arrangements to a broader composition.",
+                "B. The scene transitions from a wide-angle shot to focusing on a single gymnast.",
+                "C. The scene transitions from the audience's perspective to a close-up of the judges.",
+                "D. The scene transitions from the athletes' performance to static shots of the gym's interior design."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_103": {
+            "id": "BrrDT_uYQsg_103",
+            "scene": 9,
+            "dimension": "Object Direction",
+            "question": "From the video, in which direction does the gymnast move at the end of the scene?",
+            "options": [
+                "A. The gymnast moves to the left side of the video.",
+                "B. The gymnast moves to the center of the video.",
+                "C. The gymnast does not move.",
+                "D. The gymnast moves to the right side of the screen."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_104": {
+            "id": "BrrDT_uYQsg_104",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "How is the atmosphere inside the venue?",
+            "options": [
+                "A. The venue is very quiet, almost empty, with only a few scattered spectators around.",
+                "B. The event atmosphere is relaxed and casual, with gymnasts practicing leisurely.",
+                "C. The seats are filled with enthusiastic spectators, creating a lively and dynamic atmosphere.",
+                "D. The atmosphere is tense and subdued, with gymnasts quietly preparing."
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_105": {
+            "id": "BrrDT_uYQsg_105",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "How would you describe the movements of a gymnast leaving the floor?",
+            "options": [
+                "A. The gymnast's movements are chaotic and disorganized.",
+                "B. The gymnast displays deliberate and synchronized movements.",
+                "C. The gymnast exhibits chaotic and tense movements.",
+                "D. The gymnast shows unstable and unsynchronized movements."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_106": {
+            "id": "BrrDT_uYQsg_106",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What details can be seen around the gymnastics floor?",
+            "options": [
+                "A. The area around the gymnastics floor is green, with white text and logos on the surface.",
+                "B. The area around the gymnastics floor is yellow, with white star-shaped patterns on the surface.",
+                "C. The area around the gymnastics floor is white, with symbols of sports equipment on the surface.",
+                "D. The area around the gymnastics floor is gray, with geometric shapes on the surface."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_107": {
+            "id": "BrrDT_uYQsg_107",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What details can be seen in the venue?",
+            "options": [
+                "A. The venue is decorated with large banners displaying team names.",
+                "B. The venue is filled with enthusiastic spectators.",
+                "C. There are many billboards on the walls of the venue.",
+                "D. The venue is decorated with flags of different countries and the Olympic rings."
+            ],
+            "answer": "D"
+        },
+        "BrrDT_uYQsg_108": {
+            "id": "BrrDT_uYQsg_108",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "How many gymnasts walked out of the frame together?",
+            "options": [
+                "A. Three gymnasts",
+                "B. Four gymnasts",
+                "C. Five gymnasts",
+                "D. Six gymnasts"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_109": {
+            "id": "BrrDT_uYQsg_109",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "Does this scene showcase any other activities besides the gymnast moving forward?",
+            "options": [
+                "A. Yes, there is a person performing on the parallel bars in the background of the video.",
+                "B. No, the video only focuses on the gymnast moving forward.",
+                "C. Yes, there are audience members loudly singing in the background of the video.",
+                "D. No, the gymnast is quietly preparing in the video."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_110": {
+            "id": "BrrDT_uYQsg_110",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "At the very end of the video, what gesture did the first gymnast make as they walked out of the frame?",
+            "options": [
+                "A. The gymnast waved at the camera.",
+                "B. The gymnast made a heart shape with their hands.",
+                "C. The gymnast saluted.",
+                "D. The gymnast spread their arms wide."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_111": {
+            "id": "BrrDT_uYQsg_111",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "How does the camera angle change at the end of the video?",
+            "options": [
+                "A. The camera switches to a closer shot, focusing on the gymnast.",
+                "B. The camera pulls back to capture the entire arena, highlighting the international flags and the audience.",
+                "C. The camera is fixed on the audience, showing the crowd's reactions.",
+                "D. The camera follows the gymnast from a low angle to emphasize their movements under the arena lights."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_112": {
+            "id": "BrrDT_uYQsg_112",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "How would you describe the movement of a gymnast approaching the camera?",
+            "options": [
+                "A. The gymnast's movements are planned and synchronized.",
+                "B. The gymnast's movements are chaotic and disordered.",
+                "C. The gymnast's movements are random and spontaneous.",
+                "D. The gymnast's movements are hesitant and uncertain."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_113": {
+            "id": "BrrDT_uYQsg_113",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What visual elements in the video highlight the significance of the event?",
+            "options": [
+                "A. Bright lights, enthusiastic audience participation, and the gymnasts' uniform attire",
+                "B. Presence of international flags, dim lighting, and subdued audience",
+                "C. Quiet audience, dim gymnasium lighting, and plain gymnastics attire",
+                "D. Dark shadows, closed seating area, and monochrome athlete clothing"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_114": {
+            "id": "BrrDT_uYQsg_114",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What position did the gymnast initially adopt at the start of the video?",
+            "options": [
+                "A. The gymnast initially raised one arm.",
+                "B. The gymnast initially extended both arms outward.",
+                "C. The gymnast initially performed a backflip.",
+                "D. The gymnast initially had both arms at the sides of the body."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_115": {
+            "id": "BrrDT_uYQsg_115",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How did the gymnasts celebrate?",
+            "options": [
+                "A. The gymnasts performed a cartwheel.",
+                "B. The gymnasts dramatically raised their hands.",
+                "C. The gymnasts did a backflip.",
+                "D. The gymnasts enthusiastically started clapping."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_116": {
+            "id": "BrrDT_uYQsg_116",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "When the camera focuses on a single athlete, what is the gymnast's emotion?",
+            "options": [
+                "A. The athlete's emotion is joyful and delighted.",
+                "B. The athlete's emotion is frustrated and sorrowful.",
+                "C. The athlete's emotion is angry and panicked.",
+                "D. The athlete's emotion is anxious and uneasy."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_117": {
+            "id": "BrrDT_uYQsg_117",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the starting position of a shorter gymnast at the beginning of the performance?",
+            "options": [
+                "A. The gymnast demonstrated a prone horizontal position.",
+                "B. The gymnast completed a handstand.",
+                "C. The gymnast made a victory gesture.",
+                "D. The gymnast performed a backflip."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_118": {
+            "id": "BrrDT_uYQsg_118",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is the gymnast's posture after completing the entire set of performance moves?",
+            "options": [
+                "A. The gymnast transitions to an upright position with arms raised high above the head.",
+                "B. The gymnast performs a split jump with one leg extended forward.",
+                "C. The gymnast does a cartwheel, maintaining alignment with others.",
+                "D. The gymnast adopts a crouching position with hands on the floor."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_119": {
+            "id": "BrrDT_uYQsg_119",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What role did the shorter gymnast in the middle play during the gymnastics performance?",
+            "options": [
+                "A. The shorter gymnast in the middle acts as a stabilizing, flexible, and balancing role, participating in complex stunt performances.",
+                "B. The shorter gymnast in the middle is responsible for leading the completion of the most dramatic and complex stunt moves.",
+                "C. The shorter gymnast in the middle coordinates the team's movements through verbal cues.",
+                "D. The shorter gymnast in the middle remains stationary while others perform dynamic movements around them."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_120": {
+            "id": "BrrDT_uYQsg_120",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "When the camera turns to the audience, what are the audience doing?",
+            "options": [
+                "A. Most of the audience are clapping or recording, showing happy smiles.",
+                "B. The audience are shouting loudly from their seats, expressing dissatisfaction.",
+                "C. The audience are sitting in a lazy posture, indifferent.",
+                "D. The background of the audience is blurred, only vague silhouettes can be seen."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_121": {
+            "id": "BrrDT_uYQsg_121",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How does clothing enhance the visual unity of a team at the Olympics?",
+            "options": [
+                "A. Clothing uses exquisite designs and bright colors to enhance the visual unity of the team.",
+                "B. Clothing consists of simple yellow tops and red pants, making each gymnast blend into the background.",
+                "C. Clothing is adorned with international flags, emphasizing individual rather than team cohesion.",
+                "D. Clothing is designed with understated and soft colors, reducing visual focus on the team."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_122": {
+            "id": "BrrDT_uYQsg_122",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How many gymnasts performed handstands in the video?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_123": {
+            "id": "BrrDT_uYQsg_123",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why do lively audience reactions add meaning to gymnastics performances?",
+            "options": [
+                "A. Enthusiastic audience reactions amplify the celebratory and international atmosphere, providing energy and a sense of participation, making the performance more lively and popular.",
+                "B. Audience reactions can distract gymnasts, challenging their focus and making the competition more unpredictable.",
+                "C. Lively audience reactions can detract from the focus on gymnastics performances, making the event more centered on audience entertainment.",
+                "D. Audience reactions are unrelated to the performance and have no impact on its meaning."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_124": {
+            "id": "BrrDT_uYQsg_124",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the action of the shorter gymnast after the performance ends?",
+            "options": [
+                "A. The gymnast extends their arms outward.",
+                "B. The gymnast does a backflip.",
+                "C. The gymnast begins with a deep bow.",
+                "D. The gymnast initially stands with arms crossed."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_125": {
+            "id": "BrrDT_uYQsg_125",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "Before the performance begins, what is the next move after the shorter gymnast stretches their arms?",
+            "options": [
+                "A. The gymnast raises their arms above their head, keeping in sync with the team's movements.",
+                "B. The gymnast bows and then takes a step back.",
+                "C. The gymnast stretches their arms and spins in place.",
+                "D. The gymnast lowers their arms to a resting position while stepping forward."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_126": {
+            "id": "BrrDT_uYQsg_126",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What action did the other gymnasts perform after the shorter gymnast completed the prone position?",
+            "options": [
+                "A. The gymnasts took large steps forward to emphasize the visual rhythm.",
+                "B. The gymnasts performed backflips to showcase their skills.",
+                "C. The gymnasts performed handstands to attract the audience's attention.",
+                "D. The gymnasts waved to the audience to interact with them."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_127": {
+            "id": "BrrDT_uYQsg_127",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "Did the prone gymnast undergo a personnel change during the performance?",
+            "options": [
+                "A. The prone gymnast slightly moved to the left to exit, and another gymnast took their place.",
+                "B. The prone gymnast somersaulted to the right to exit, and another gymnast took over.",
+                "C. The prone gymnast was lifted up, with no one joining or leaving.",
+                "D. The prone gymnast exited to the right, and another gymnast entered the vacated space."
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_128": {
+            "id": "BrrDT_uYQsg_128",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What scene will appear after the camera moves back from the audience area to the performance area?",
+            "options": [
+                "A. The camera captures four gymnasts in bright costumes preparing for their performance.",
+                "B. The camera captures an enthusiastic audience member waving a flag, while the gymnasts wait in the background.",
+                "C. The camera focuses on a gymnast performing complex moves on the parallel bars, accompanied by enthusiastic cheers from the audience.",
+                "D. The camera highlights international flags hanging from the ceiling and provides a wide-angle view of the stadium, emphasizing its grandeur."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_129": {
+            "id": "BrrDT_uYQsg_129",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why do gymnasts use symmetrical movements during performances?",
+            "options": [
+                "A. To improve individual scores and surpass other teams.",
+                "B. Symmetrical movements emphasize unity and synchronization, showcasing teamwork and precision in performance.",
+                "C. Use complex patterns to distract judges and the audience.",
+                "D. Symmetrical movements make it easier for gymnasts to remember their routines."
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_130": {
+            "id": "BrrDT_uYQsg_130",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "Throughout the video, do the audience members consistently appear in the background of the scenes?",
+            "options": [
+                "A. Yes, the audience appears in every scene.",
+                "B. No, the audience appears only in some scenes.",
+                "C. No, the audience does not appear in any of the scenes.",
+                "D. None of the above."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_131": {
+            "id": "BrrDT_uYQsg_131",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How do vibrant costume colors evoke cultural symbolism?",
+            "options": [
+                "A. These vibrant colors enrich the thematic depth of the performance, reflecting traditional Chinese thematic elements.",
+                "B. These vibrant colors serve purely as a visual effect and have no cultural symbolic meaning.",
+                "C. These vibrant colors symbolize the diversity of international competitions.",
+                "D. These vibrant colors are intended to blend with the background and avoid drawing attention to the performers."
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_132": {
+            "id": "BrrDT_uYQsg_132",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why do gymnasts approach the camera during their performance?",
+            "options": [
+                "A. To adjust their stance facing the audience or judges and showcase confidence at key moments.",
+                "B. To leave the team and showcase personal victory.",
+                "C. To lead the team off the competition field and shift attention elsewhere.",
+                "D. To block the audience's view of other gymnasts."
+            ],
+            "answer": "A"
+        }
+    }
+}

@@ -1,0 +1,1014 @@
+{
+    "scene_hint": {
+        "0": "A man is introducing something in front of the camera.",
+        "1": "A man is doing pull-ups.",
+        "2": "A man is doing dips on a bar.",
+        "3": "A man is doing tricep dips.",
+        "4": "A man is doing horizontal pulls.",
+        "5": "A man is doing sit-ups.",
+        "6": "A sign is displayed in the center."
+    },
+    "qa": {
+        "6EIrArTyLVU_0": {
+            "id": "6EIrArTyLVU_0",
+            "scene": "0",
+            "dimension": "Description-Scene",
+            "question": "Where was this video filmed?",
+            "options": [
+                "A. The video was filmed in an indoor gym.",
+                "B. The video was filmed in a home gym.",
+                "C. The video was filmed in an outdoor fitness park.",
+                "D. The video was filmed in a stadium."
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_1": {
+            "id": "6EIrArTyLVU_1",
+            "scene": "0",
+            "dimension": "Description-Human",
+            "question": "What is that person wearing?",
+            "options": [
+                "A. That person is wearing a bright coral pink Nike T-shirt.",
+                "B. That person is wearing a dark blue Adidas tank top.",
+                "C. That person is wearing a green Reebok sweatshirt.",
+                "D. That person is wearing a yellow Puma jacket."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_2": {
+            "id": "6EIrArTyLVU_2",
+            "scene": "0",
+            "dimension": "Description-Human",
+            "question": "What are the notable features of this man's appearance?",
+            "options": [
+                "A. This man is standing in an outdoor fitness park.",
+                "B. This man is using a blue resistance band while exercising.",
+                "C. This man is wearing a bright yellow Nike T-shirt.",
+                "D. This man is casually sitting on a bench, observing others exercise."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_3": {
+            "id": "6EIrArTyLVU_3",
+            "scene": "0",
+            "dimension": "Description-Object",
+            "question": "What color is the resistance band used by the man in the video?",
+            "options": [
+                "A. Red",
+                "B. Yellow",
+                "C. Blue",
+                "D. Green"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_4": {
+            "id": "6EIrArTyLVU_4",
+            "scene": "0",
+            "dimension": "Description-Human",
+            "question": "What gestures did the man use in the video?",
+            "options": [
+                "A. The man used hand gestures to emphasize.",
+                "B. The man tapped the ground with his foot.",
+                "C. The man clapped continuously.",
+                "D. The man nodded frequently."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_5": {
+            "id": "6EIrArTyLVU_5",
+            "scene": "0",
+            "dimension": "Count",
+            "question": "How many different text overlays are shown in the scene?",
+            "options": [
+                "A. Two items: a salmon orange banner and brand elements.",
+                "B. Three items: a salmon orange banner, a black banner, and brand elements.",
+                "C. Four items: two banners and two sets of brand elements.",
+                "D. One item: a single banner containing all information."
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_6": {
+            "id": "6EIrArTyLVU_6",
+            "scene": "0",
+            "dimension": "Binary",
+            "question": "Does the video show anyone other than the man in front of the camera?",
+            "options": [
+                "A. No, the man is the only person.",
+                "B. Yes, there is another person using gym equipment in the background.",
+                "C. Yes, there are several people in the background.",
+                "D. Yes, there is another person standing in the background."
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_7": {
+            "id": "6EIrArTyLVU_7",
+            "scene": "0",
+            "dimension": "Description-Human",
+            "question": "During the commentary phase, what does the man's gesture mean?",
+            "options": [
+                "A. This gesture indicates an explanatory or emphatic meaning.",
+                "B. This gesture indicates he is about to start exercising again.",
+                "C. This gesture is a signal to prepare to switch to different exercise equipment.",
+                "D. This gesture means he has finished exercising."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_8": {
+            "id": "6EIrArTyLVU_8",
+            "scene": "0",
+            "dimension": "Camera Shot",
+            "question": "What camera angle was used in the video?",
+            "options": [
+                "A. A wide-angle view was used, focusing on the background, with the person occupying only a small part.",
+                "B. A medium close-up view was used, focusing on the person, with the background occupying only a small part.",
+                "C. An overhead view was used.",
+                "D. A panoramic view was used."
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_9": {
+            "id": "6EIrArTyLVU_9",
+            "scene": "0",
+            "dimension": "Visual-cue",
+            "question": "Which text overlay introduced this scene?",
+            "options": [
+                "A. A bold text overlay with a salmon orange banner introduced '**#SAM7 BEGINNER OUTDOOR GYM WORKOUT**'.",
+                "B. A bold text overlay with a bright yellow banner introduced '**ADVANCED OUTDOOR FITNESS ROUTINE**'.",
+                "C. A subtle text overlay with a pink soft banner introduced '**INTERMEDIATE FITNESS SESSION**'.",
+                "D. A bold text overlay with a blue banner introduced '**BEGINNERS OLYMPIC TRAINING**'."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_10": {
+            "id": "6EIrArTyLVU_10",
+            "scene": "0",
+            "dimension": "Visual-cue",
+            "question": "What text overlay is used in the scene description?",
+            "options": [
+                "A. A black banner with \"**30 SECONDS EACH OR UNTIL FATIGUED.**\"",
+                "B. A red banner with \"**HOLD POSITION FOR MAXIMUM DURATION.**\"",
+                "C. A green banner with \"**REPEAT UNTIL COMFORTABLE.**\"",
+                "D. A blue banner with \"**REST FOR 60 SECONDS BETWEEN SETS.**\""
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_11": {
+            "id": "6EIrArTyLVU_11",
+            "scene": "1",
+            "dimension": "Spatial",
+            "question": "Where does the chocolate brown dog appear in the scene?",
+            "options": [
+                "A. The chocolate brown dog appears in the upper left corner of the scene.",
+                "B. The chocolate brown dog appears in the lower right corner of the scene.",
+                "C. The chocolate brown dog appears in the center of the scene.",
+                "D. The chocolate brown dog appears in the lower left corner of the scene."
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_12": {
+            "id": "6EIrArTyLVU_12",
+            "scene": "1",
+            "dimension": "Description-Scene",
+            "question": "What is the background setting for the pull-up exercise in the video?",
+            "options": [
+                "A. A vibrant outdoor fitness area equipped with exercise equipment and lush park vegetation.",
+                "B. An indoor gym equipped with high-tech fitness equipment and bright fluorescent lighting.",
+                "C. A tranquil yoga room with wooden floors and large windows overlooking the sea.",
+                "D. A bustling city park with crowded running paths and nearby food trucks."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_13": {
+            "id": "6EIrArTyLVU_13",
+            "scene": "1",
+            "dimension": "Fine Grained Action",
+            "question": "What exercise is this man doing?",
+            "options": [
+                "A. This man is doing pull-ups.",
+                "B. This man is doing push-ups.",
+                "C. This man is doing sit-ups.",
+                "D. This man is doing squats."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_14": {
+            "id": "6EIrArTyLVU_14",
+            "scene": "1",
+            "dimension": "Description-Object",
+            "question": "What is this man using to exercise?",
+            "options": [
+                "A. He is using a yellow resistance band.",
+                "B. He is using a jump rope.",
+                "C. He is using a dumbbell.",
+                "D. He is using an exercise ball."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_15": {
+            "id": "6EIrArTyLVU_15",
+            "scene": "1",
+            "dimension": "Description-Object",
+            "question": "Where is the resistance band placed?",
+            "options": [
+                "A. Placed on the pull-up bar.",
+                "B. Placed around the man's waist.",
+                "C. Placed around the dog's neck.",
+                "D. Placed on the tree branch."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_16": {
+            "id": "6EIrArTyLVU_16",
+            "scene": "1",
+            "dimension": "Description-Object",
+            "question": "Where is the resistance band fixed?",
+            "options": [
+                "A. It is fixed on his feet.",
+                "B. It is fixed on his hands.",
+                "C. It is fixed on his waist.",
+                "D. It is fixed on the ground."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_17": {
+            "id": "6EIrArTyLVU_17",
+            "scene": "1",
+            "dimension": "Description-Object",
+            "question": "What is the role of the yellow resistance band in exercise?",
+            "options": [
+                "A. The yellow resistance band provides support by adjusting tension during pull-ups.",
+                "B. The yellow resistance band is used to secure equipment to the ground.",
+                "C. The yellow resistance band is used to signal the start of exercise.",
+                "D. The yellow resistance band is used to decorate the exercise area with color."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_18": {
+            "id": "6EIrArTyLVU_18",
+            "scene": "1",
+            "dimension": "Binary",
+            "question": "Is the chocolate-colored dog active in the exercise demonstration?",
+            "options": [
+                "A. Yes, the chocolate-colored dog actively participated in the exercise.",
+                "B. No, the chocolate-colored dog maintained a relaxed attitude and did not change its position.",
+                "C. Yes, the dog was excited and ran around in the scene.",
+                "D. No, the dog left the scene shortly after appearing."
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_19": {
+            "id": "6EIrArTyLVU_19",
+            "scene": "1",
+            "dimension": "Attribute Change",
+            "question": "How does the tension of the strap change when pulling upwards during exercise?",
+            "options": [
+                "A. The tension of the strap increases and becomes tight when pulling upwards.",
+                "B. The tension of the strap remains unchanged throughout the exercise.",
+                "C. The tension of the strap decreases when pulling upwards.",
+                "D. The tension of the strap becomes relaxed and loose when pulling upwards."
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_20": {
+            "id": "6EIrArTyLVU_20",
+            "scene": "1",
+            "dimension": "Camera Direction",
+            "question": "How is the camera adjusted when the man is doing pull-ups?",
+            "options": [
+                "A. The camera remains stable to capture the man's movements.",
+                "B. The camera zooms out to show the entire gym scene.",
+                "C. The camera focuses on the chocolate brown dog.",
+                "D. The camera circles around the man in a circular motion."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_21": {
+            "id": "6EIrArTyLVU_21",
+            "scene": "1",
+            "dimension": "Visual-cue",
+            "question": "What instructional text appeared during the practice demonstration?",
+            "options": [
+                "A. 'PUSH-UP GUIDE: EASY STEPS TO FOLLOW'",
+                "B. 'BAND ASSISTED CHIN UP (WITH A FRIEND OR BAND)'",
+                "C. 'SQUAT TECHNIQUE: STRAIGHT AND STRONG'",
+                "D. 'JUMP ROPE TIPS FOR BEGINNERS'"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_22": {
+            "id": "6EIrArTyLVU_22",
+            "scene": "1",
+            "dimension": "Visual-cue",
+            "question": "What is the cover in the cursive writing at the lower right corner?",
+            "options": [
+                "A. Cursive writing 'for human people'.",
+                "B. Cursive writing 'exercise your way'.",
+                "C. Cursive writing 'stay fit forever'.",
+                "D. Cursive writing 'push your limits'."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_23": {
+            "id": "6EIrArTyLVU_23",
+            "scene": "1",
+            "dimension": "Visual-cue",
+            "question": "How is the text overlay style located in the lower right corner designed?",
+            "options": [
+                "A. The text overlay style is bold and italic in light pink.",
+                "B. The text overlay style is italic and bright yellow.",
+                "C. The text overlay style is bold and italic in neon green.",
+                "D. The text overlay style is small caps and deep red."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_24": {
+            "id": "6EIrArTyLVU_24",
+            "scene": "2",
+            "dimension": "Spatial",
+            "question": "Where does the little black animal first appear in the picture?",
+            "options": [
+                "A. On the grass on the right.",
+                "B. Near the pull-up bar in the foreground.",
+                "C. Close to the white information board.",
+                "D. Directly in front of the man doing push-ups."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_25": {
+            "id": "6EIrArTyLVU_25",
+            "scene": "2",
+            "dimension": "Description-Scene",
+            "question": "What is the scene of the video?",
+            "options": [
+                "A. The scene of the video is in an outdoor fitness area equipped with rubber gym flooring and landscaping.",
+                "B. The scene of the video is in an indoor gym with mirrored walls and wooden floors.",
+                "C. The scene of the video is at a seaside with a beach and the ocean in the background.",
+                "D. The scene of the video is in a forest with sandy trails and rocky terrain."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_26": {
+            "id": "6EIrArTyLVU_26",
+            "scene": "2",
+            "dimension": "Description-Human",
+            "question": "What exercises did the man do in the video?",
+            "options": [
+                "A. The man did push-ups on the bar.",
+                "B. The man did squats and lunges.",
+                "C. The man did sit-ups and jumping jacks.",
+                "D. The man did bicep curls and tricep extensions."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_27": {
+            "id": "6EIrArTyLVU_27",
+            "scene": "2",
+            "dimension": "Description-Human",
+            "question": "What posture is this man adopting?",
+            "options": [
+                "A. This man is leaning forward towards the horizontal bar.",
+                "B. This man is standing upright with feet together, hands on hips.",
+                "C. This man is sitting cross-legged on the ground, facing the horizontal bar.",
+                "D. This man is in a squatting position with arms raised above his head."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_28": {
+            "id": "6EIrArTyLVU_28",
+            "scene": "2",
+            "dimension": "Description-Object",
+            "question": "What color is the fitness bar used by the man for push-ups?",
+            "options": [
+                "A. Light silver",
+                "B. Dark gray",
+                "C. Aqua blue",
+                "D. Chocolate brown"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_29": {
+            "id": "6EIrArTyLVU_29",
+            "scene": "2",
+            "dimension": "Spatial",
+            "question": "During the downward phase of a lever push-up, what happens to the man's torso?",
+            "options": [
+                "A. The man's torso lowers closer to the lever.",
+                "B. The man's torso remains above the lever.",
+                "C. The man's torso moves away from the lever.",
+                "D. The man's torso shifts to one side of the lever."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_30": {
+            "id": "6EIrArTyLVU_30",
+            "scene": "2",
+            "dimension": "Description-Human",
+            "question": "During the downward phase of the barbell push-up, what will the man's arms do?",
+            "options": [
+                "A. The man's arms bend deeply.",
+                "B. The man's arms remain upright.",
+                "C. The man's arms cross in front of the chest.",
+                "D. The man's arms extend to the sides."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_31": {
+            "id": "6EIrArTyLVU_31",
+            "scene": "2",
+            "dimension": "Description-Human",
+            "question": "What is the state of the man's core during the downward phase of the barbell push-up?",
+            "options": [
+                "A. The man's core remains tight.",
+                "B. The man's core is relaxed.",
+                "C. The man's core is twisted.",
+                "D. The man's core is loose."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_32": {
+            "id": "6EIrArTyLVU_32",
+            "scene": "2",
+            "dimension": "Description-Human",
+            "question": "During the downward phase of a lever push-up, where are the man's legs positioned?",
+            "options": [
+                "A. The man's legs are bent at the knees.",
+                "B. The man's legs are crossed at the ankles.",
+                "C. The man's legs remain straight, with feet firmly planted.",
+                "D. The man's legs are slightly raised off the ground."
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_33": {
+            "id": "6EIrArTyLVU_33",
+            "scene": "2",
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle used in the video?",
+            "options": [
+                "A. The camera angle is shot from above.",
+                "B. The camera angle is shot at eye level.",
+                "C. The camera angle is shot from below.",
+                "D. The camera angle is tilted sideways."
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_34": {
+            "id": "6EIrArTyLVU_34",
+            "scene": "2",
+            "dimension": "Visual-cue",
+            "question": "What text overlay is shown on the left side?",
+            "options": [
+                "A. The text overlay is about the instructions for barbell push-ups.",
+                "B. The text overlay shows inspirational quotes and the name of the park.",
+                "C. The text overlay displays the man's workout plan.",
+                "D. The text overlay includes calorie consumption statistics and heart rate monitoring."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_35": {
+            "id": "6EIrArTyLVU_35",
+            "scene": "2",
+            "dimension": "Visual-cue",
+            "question": "In the barbell push-up sequence, what is the purpose of the text overlay?",
+            "options": [
+                "A. The purpose is to add decorative elements to the video.",
+                "B. The purpose is to emphasize the teaching focus of the scene.",
+                "C. The purpose is to comment on the fitness level of the man.",
+                "D. The purpose is to introduce a new character in the video."
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_36": {
+            "id": "6EIrArTyLVU_36",
+            "scene": "3",
+            "dimension": "Description-Scene",
+            "question": "What features of the outdoor gym were revealed during the man's fitness routine?",
+            "options": [
+                "A. A horizontal ladder and a station resembling a bench",
+                "B. A swimming pool and a climbing wall",
+                "C. A basketball court and a tennis court",
+                "D. A running track and a picnic area"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_37": {
+            "id": "6EIrArTyLVU_37",
+            "scene": "3",
+            "dimension": "Description-Scene",
+            "question": "Where does this video take place?",
+            "options": [
+                "A. The video takes place at an outdoor gym.",
+                "B. The video takes place at a school gym.",
+                "C. The video takes place at a home gym.",
+                "D. The video takes place at a beach gym."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_38": {
+            "id": "6EIrArTyLVU_38",
+            "scene": "3",
+            "dimension": "Description-Scene",
+            "question": "Which of the following best describes the environment?",
+            "options": [
+                "A. Light blue cushioned flooring, grassy terrain, trees, and fitness equipment.",
+                "B. Indoor space with large mirrors and professional lighting.",
+                "C. Dark wood flooring, stone pathways, and artificial plants.",
+                "D. Enclosed space with exercise mats and digital displays."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_39": {
+            "id": "6EIrArTyLVU_39",
+            "scene": "3",
+            "dimension": "Description-Human",
+            "question": "What was the man wearing when exercising?",
+            "options": [
+                "A. Bright pink workout T-shirt and navy blue shorts",
+                "B. Green tank top and black tights",
+                "C. Red sports jacket and gray sweatpants",
+                "D. White T-shirt and blue jeans"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_40": {
+            "id": "6EIrArTyLVU_40",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What equipment is this person using for push-ups?",
+            "options": [
+                "A. Parallel wooden bars",
+                "B. Bench-like apparatus",
+                "C. Horizontal ladder",
+                "D. Parallel metal bars"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_41": {
+            "id": "6EIrArTyLVU_41",
+            "scene": "3",
+            "dimension": "Description-Object",
+            "question": "What is the equipment this man is using for tricep pushdowns?",
+            "options": [
+                "A. Horizontal ladder",
+                "B. Platform similar to a bench",
+                "C. Parallel metal bars",
+                "D. Silver horizontal bar"
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_42": {
+            "id": "6EIrArTyLVU_42",
+            "scene": "3",
+            "dimension": "Attribute Change",
+            "question": "Does the text overlay change according to the man's workout method?",
+            "options": [
+                "A. Yes, the text overlay will change accordingly.",
+                "B. No, the text overlay will not change.",
+                "C. The text overlay will only change in color.",
+                "D. There is no text overlay at all."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_43": {
+            "id": "6EIrArTyLVU_43",
+            "scene": "3",
+            "dimension": "Fine Grained Action",
+            "question": "How does one perform a tricep dip on parallel bars?",
+            "options": [
+                "A. Support your weight with your arms, bend your elbows to lower yourself, then return to the fully extended arm position in a controlled motion.",
+                "B. Lie flat on your back and push your hips up to exercise the triceps.",
+                "C. Stand upright, jump up with your legs, then slowly lower yourself onto the parallel bars.",
+                "D. Hang on the bars and swing your legs back and forth to build momentum for the dip."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_44": {
+            "id": "6EIrArTyLVU_44",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What did the text overlay on the screen say when the man was doing barbell push-ups?",
+            "options": [
+                "A. The text overlay on the screen was in bold white letters saying 'PUSH UPS (KEEP IT STRAIGHT, GO DEEP)'.",
+                "B. The text overlay on the screen was in bold white letters saying 'BAR PUSH UPS (GO DEEP, KEEP YOUR BODY STRAIGHT)'.",
+                "C. The text overlay on the screen was in bold white letters saying 'TRICEPS DIPS (GO LOW, KEEP FORM)'.",
+                "D. The text overlay on the screen was in bold white letters saying 'BAR EXERCISES (MAINTAIN ALIGNMENT)'."
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_45": {
+            "id": "6EIrArTyLVU_45",
+            "scene": "3",
+            "dimension": "Speed",
+            "question": "In the exercise, how is the speed of the man's movements described?",
+            "options": [
+                "A. The man's movements are depicted as frantic and out of control.",
+                "B. The man's movements are depicted as smooth and controlled.",
+                "C. The man's movements are depicted as slow and hesitant.",
+                "D. The man's movements are depicted as sudden and jerky."
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_46": {
+            "id": "6EIrArTyLVU_46",
+            "scene": "3",
+            "dimension": "Visual-cue",
+            "question": "What text appears in the overlay at the bottom of the scene?",
+            "options": [
+                "A. 'DIP & REST'",
+                "B. 'KEEP BODY STRAIGHT'",
+                "C. 'GO DEEP, KEEP STRAIGHT'",
+                "D. 'FOCUS & PROGRESS'"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_47": {
+            "id": "6EIrArTyLVU_47",
+            "scene": "4",
+            "dimension": "Description-Human",
+            "question": "What is the man's posture during a horizontal pull-up?",
+            "options": [
+                "A. The man is horizontally positioned below the parallel bars.",
+                "B. The man is upright and slightly leaning forward.",
+                "C. The man is standing next to the parallel bars.",
+                "D. The man is sitting on the ground near the bars."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_48": {
+            "id": "6EIrArTyLVU_48",
+            "scene": "4",
+            "dimension": "Description-Human",
+            "question": "What is this person doing in the scene?",
+            "options": [
+                "A. He is jogging in the park, focusing on enhancing his cardiovascular endurance.",
+                "B. He is doing horizontal pull-ups, showcasing his upper body strength and precision.",
+                "C. He is practicing yoga under the tree to improve his flexibility.",
+                "D. He is doing a set of push-up exercises on the rubber floor."
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_49": {
+            "id": "6EIrArTyLVU_49",
+            "scene": "4",
+            "dimension": "Description-Object",
+            "question": "What does the metal parallel bars look like?",
+            "options": [
+                "A. The parallel bars are made of wood.",
+                "B. The parallel bars are rusty.",
+                "C. The parallel bars are shiny.",
+                "D. The parallel bars are painted blue."
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_50": {
+            "id": "6EIrArTyLVU_50",
+            "scene": "4",
+            "dimension": "Description-Object",
+            "question": "What material is the parallel bars made of?",
+            "options": [
+                "A. The parallel bars are made of wood.",
+                "B. The parallel bars are made of plastic.",
+                "C. The parallel bars are made of metal.",
+                "D. The parallel bars are made of rubber."
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_51": {
+            "id": "6EIrArTyLVU_51",
+            "scene": "4",
+            "dimension": "Description-Object",
+            "question": "How are the parallel bars positioned?",
+            "options": [
+                "A. The parallel bars are positioned vertically.",
+                "B. The parallel bars are positioned diagonally.",
+                "C. The parallel bars are positioned horizontally.",
+                "D. The parallel bars are positioned in a circular shape."
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_52": {
+            "id": "6EIrArTyLVU_52",
+            "scene": "4",
+            "dimension": "Camera Shot",
+            "question": "In the scene, what angle should the camera maintain?",
+            "options": [
+                "A. The camera is slightly elevated and angled to ensure clarity.",
+                "B. The camera is at ground level, directly focusing on the man's face.",
+                "C. The camera shoots from directly above, capturing an overhead view of the practice.",
+                "D. The camera is at a distance, showing the entire fitness park."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_53": {
+            "id": "6EIrArTyLVU_53",
+            "scene": "4",
+            "dimension": "Speed",
+            "question": "What is the speed of the man's movements when performing horizontal pull-ups?",
+            "options": [
+                "A. The man's movements are very steady.",
+                "B. The man's movements are very fast.",
+                "C. The man's movements are unstable.",
+                "D. The man's movements are slow and disjointed."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_54": {
+            "id": "6EIrArTyLVU_54",
+            "scene": "4",
+            "dimension": "Visual-cue",
+            "question": "What text overlays are visible in the video?",
+            "options": [
+                "A. The text overlay is 'HORIZONTAL PULL UP' in bold uppercase on a black rectangle, and the repeatedly appearing cursive font label 'for human people.'",
+                "B. The text overlay is 'FULL BODY WORKOUT' in italic lowercase on a white background, and the bold font 'fitness guide'.",
+                "C. The text overlay is 'UPPER BODY STRENGTH' in bold uppercase on a black rectangle, and the repeatedly appearing cursive font label 'for athletic performance.'",
+                "D. The text overlay is 'CALISTHENICS CHALLENGE' in cursive font on a green background, and the repeatedly appearing label 'for healthy living.'"
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_55": {
+            "id": "6EIrArTyLVU_55",
+            "scene": "5",
+            "dimension": "Spatial",
+            "question": "In the early stage of the scene, compared to the man who is exercising, where is the person in the background located?",
+            "options": [
+                "A. The person is located on the left side of the scene, walking across the rubber floor.",
+                "B. The person is located on the right side of the scene, walking across the rubber floor.",
+                "C. The person is directly behind the man, remaining still.",
+                "D. The person is directly in front of the man, also exercising."
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_56": {
+            "id": "6EIrArTyLVU_56",
+            "scene": "5",
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video scene?",
+            "options": [
+                "A. The scene takes place in a vibrant outdoor fitness park, with the ground made of light blue rubber material.",
+                "B. The scene takes place in an indoor gym with a wooden floor.",
+                "C. The scene takes place on a city street with a concrete pavement.",
+                "D. The scene takes place in a grassy backyard of a residence."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_57": {
+            "id": "6EIrArTyLVU_57",
+            "scene": "5",
+            "dimension": "Description-Object",
+            "question": "What is the sit-up bench made of?",
+            "options": [
+                "A. The bench is made of metal.",
+                "B. The bench is made of wood.",
+                "C. The bench is made of plastic.",
+                "D. The bench is made of concrete."
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_58": {
+            "id": "6EIrArTyLVU_58",
+            "scene": "5",
+            "dimension": "Description-Object",
+            "question": "What is the design of the bench used for sit-ups?",
+            "options": [
+                "A. The bench is inclined.",
+                "B. The bench is flat.",
+                "C. The bench is not inclined.",
+                "D. The bench is vertical."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_59": {
+            "id": "6EIrArTyLVU_59",
+            "scene": "5",
+            "dimension": "Description-Human",
+            "question": "What is the purpose of this man using the bench?",
+            "options": [
+                "A. The bench is used to support sit-up exercises.",
+                "B. The bench is used for resting between exercises.",
+                "C. The bench is used for storing exercise equipment.",
+                "D. The bench is used for decorative purposes in the park."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_60": {
+            "id": "6EIrArTyLVU_60",
+            "scene": "5",
+            "dimension": "Count",
+            "question": "During the busiest moment, how many people are in the scene?",
+            "options": [
+                "A. One person",
+                "B. Two people",
+                "C. Three people",
+                "D. Four people"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_61": {
+            "id": "6EIrArTyLVU_61",
+            "scene": "5",
+            "dimension": "Object Direction",
+            "question": "Which direction is the person in the background moving?",
+            "options": [
+                "A. The second person is walking from right to left.",
+                "B. The second person is moving toward that man.",
+                "C. The second person is walking in circles.",
+                "A. The second person is walking from left to right."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_62": {
+            "id": "6EIrArTyLVU_62",
+            "scene": "5",
+            "dimension": "Camera Direction",
+            "question": "When they walk by, does the camera follow the people in the background?",
+            "options": [
+                "A. Yes, the camera closely follows the people in the background.",
+                "B. Yes, the camera switches back and forth between the two people.",
+                "C. No, the camera mainly focuses on the person moving in the foreground.",
+                "D. No, the camera remains stationary, evenly capturing both people."
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_63": {
+            "id": "6EIrArTyLVU_63",
+            "scene": "5",
+            "dimension": "Camera Shot",
+            "question": "What type of shot was used when filming the man doing sit-ups?",
+            "options": [
+                "A. A medium shot was used.",
+                "B. A close-up shot was used.",
+                "C. An overhead shot was used.",
+                "D. A wide-angle shot was used."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_64": {
+            "id": "6EIrArTyLVU_64",
+            "scene": "5",
+            "dimension": "Fine Grained Action",
+            "question": "What is the rhythm of the man's sit-ups?",
+            "options": [
+                "A. The rhythm of the man's sit-ups is fast and hurried.",
+                "B. The rhythm of the man's sit-ups is controlled and planned.",
+                "C. The rhythm of the man's sit-ups is irregular and uneven.",
+                "D. The rhythm of the man's sit-ups is slow but hurried."
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_65": {
+            "id": "6EIrArTyLVU_65",
+            "scene": "5",
+            "dimension": "Fine Grained Action",
+            "question": "How does the man's posture change during sit-ups?",
+            "options": [
+                "A. The man's posture changes between curling up and lying completely flat.",
+                "B. The man's posture changes between standing completely upright and kneeling on the ground.",
+                "C. The man's posture changes between sitting cross-legged and lying flat.",
+                "D. The man's posture changes between squatting and bending at the waist."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_66": {
+            "id": "6EIrArTyLVU_66",
+            "scene": "5",
+            "dimension": "Visual-cue",
+            "question": "What text is visible while this man is working out?",
+            "options": [
+                "A. The text visible while this man is working out is 'SIT UP WITH SWING'.",
+                "B. The text visible while this man is working out is 'PULL UP AND RELAX'.",
+                "C. The text visible while this man is working out is 'SWING AND STRETCH'.",
+                "D. The text visible while this man is working out is 'FITNESS ROUTINE'."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_67": {
+            "id": "6EIrArTyLVU_67",
+            "scene": "5",
+            "dimension": "Visual-cue",
+            "question": "Which of the following texts is visible when the man exercises?",
+            "options": [
+                "A. Sit-ups and swings",
+                "B. For humans",
+                "C. Intense exercise",
+                "D. Outdoor fitness fun"
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_68": {
+            "id": "6EIrArTyLVU_68",
+            "scene": "6",
+            "dimension": "Visual-cue",
+            "question": "Where is the text 'SAM WOOD' located on the TV screen?",
+            "options": [
+                "A. The text 'SAM WOOD' is horizontally overlaid at the top of the TV screen, displayed in black.",
+                "B. The text 'SAM WOOD' is vertically overlaid on the left side of the TV screen, displayed in black.",
+                "C. The text 'SAM WOOD' diagonally spans across the TV screen, displayed in black.",
+                "D. The text 'SAM WOOD' is arranged in a circular pattern filling the entire screen, displayed in black."
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_69": {
+            "id": "6EIrArTyLVU_69",
+            "scene": "6",
+            "dimension": "Description-Object",
+            "question": "What does the retro TV logo look like?",
+            "options": [
+                "A. The retro TV logo is coral orange, with rounded corners, slanted antennas, and small angular legs.",
+                "B. The retro TV logo is bright pink, with square corners, flat antennas, and no legs.",
+                "C. The logo is a simple white rectangle, with no color or design elements.",
+                "D. The retro TV logo is blue, with jagged edges, and no antennas or legs."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_70": {
+            "id": "6EIrArTyLVU_70",
+            "scene": "6",
+            "dimension": "Visual-cue",
+            "question": "What are the main text elements on the retro TV logo?",
+            "options": [
+                "A. The main text elements are 'Exercise Pro' and 'Guide'",
+                "B. The main text elements are 'Workout Now' and 'Studio'",
+                "C. The main text elements are 'SAM WOOD' and 'TV'",
+                "D. The main text elements are 'Fitness Arena' and 'Show'"
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_71": {
+            "id": "6EIrArTyLVU_71",
+            "scene": "6",
+            "dimension": "Binary",
+            "question": "Does the retro-style TV logo move in the video description?",
+            "options": [
+                "A. No, the retro-style TV logo remains stationary.",
+                "B. Yes, the retro-style TV logo moves across the screen.",
+                "C. Yes, the retro-style TV logo rotates.",
+                "D. Yes, the retro-style TV logo fades in and out."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_72": {
+            "id": "6EIrArTyLVU_72",
+            "scene": "6",
+            "dimension": "Visual-cue",
+            "question": "After displaying 'SAM WOOD', what text was added to the TV screen?",
+            "options": [
+                "A. Coral orange text 'FIT' was added next to 'SAM WOOD' on the screen.",
+                "B. Coral orange text 'GYM' was added next to 'SAM WOOD' on the screen.",
+                "C. Coral orange text 'TV' was added next to 'SAM WOOD' on the screen.",
+                "D. Coral orange text 'LIVE' was added next to 'SAM WOOD' on the screen."
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_73": {
+            "id": "6EIrArTyLVU_73",
+            "scene": "-1",
+            "dimension": "Description-Human",
+            "question": "What exercise is this man doing with the yellow resistance band?",
+            "options": [
+                "A. He is doing sit-ups with the yellow resistance band.",
+                "B. He is doing pull-ups with the yellow resistance band.",
+                "C. He is doing tricep pushdowns with the yellow resistance band.",
+                "D. He is doing horizontal pull-ups with the yellow resistance band."
+            ],
+            "answer": "B"
+        },
+        "6EIrArTyLVU_74": {
+            "id": "6EIrArTyLVU_74",
+            "scene": "-1",
+            "dimension": "Fine Grained Action",
+            "question": "What happens after this man finishes doing sit-ups?",
+            "options": [
+                "A. The background turns into a pure white screen with a coral orange TV logo on it.",
+                "B. The person in the background exits the frame, and the scene refocuses on the man.",
+                "C. The scene switches to a gym area with more equipment.",
+                "D. The man starts a new workout with dumbbells."
+            ],
+            "answer": "A"
+        },
+        "6EIrArTyLVU_75": {
+            "id": "6EIrArTyLVU_75",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "What role does text overlay play in the fitness scene?",
+            "options": [
+                "A. Text overlay provides background music and sets the mood for the video.",
+                "B. Text overlay provides personal stories of fitness trainers.",
+                "C. Text overlay provides instructional teaching and highlights key exercises being demonstrated.",
+                "D. Text overlay lists the equipment used and their prices."
+            ],
+            "answer": "C"
+        },
+        "6EIrArTyLVU_76": {
+            "id": "6EIrArTyLVU_76",
+            "scene": "-1",
+            "dimension": "Fine Grained Action",
+            "question": "What is the exercise sequence in the fitness video?",
+            "options": [
+                "A. Resistance band assisted pull-up, barbell push-up, tricep dip, horizontal pull-up, swinging sit-up.",
+                "B. Barbell push-up, resistance band assisted pull-up, tricep dip, horizontal pull-up, swinging sit-up.",
+                "C. Resistance band assisted pull-up, barbell push-up, horizontal pull-up, tricep dip, swinging sit-up.",
+                "D. Resistance band assisted pull-up, tricep dip, barbell push-up, horizontal pull-up, swinging sit-up."
+            ],
+            "answer": "A"
+        }
+    }
+}

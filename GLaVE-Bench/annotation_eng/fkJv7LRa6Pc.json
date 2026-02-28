@@ -1,0 +1,1287 @@
+{
+    "scene_hint": {
+        "0": "The background is completely black, with a colorful pattern and text logo in the upper left corner.",
+        "1": "The black race car moves to position its front against the rear of the blue race car, and the two cars move together.",
+        "2": "The camera shifts, and the two race cars drive side by side, with a green landscape in the background.",
+        "3": "The camera zooms in, and the two race cars move quickly, with the driver of the blue race car extending a hand out of the window.",
+        "4": "New vehicles and spectators appear in the scene, with the black and blue race cars continuing to move forward.",
+        "5": "The blue race car begins to drive independently, with the black race car following closely but not too close.",
+        "6": "The black and blue race cars enter different lanes, with more vehicles and crowds appearing in the video, and then it ends with a completely black background."
+    },
+    "qa": {
+        "fkJv7LRa6Pc_0": {
+            "id": "fkJv7LRa6Pc_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "In dark scenes, where is the marker located?",
+            "options": [
+                "A. In the top left corner",
+                "B. In the top right corner",
+                "C. In the bottom left corner",
+                "D. In the middle"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_1": {
+            "id": "fkJv7LRa6Pc_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of this scene?",
+            "options": [
+                "A. The scene is completely dark except for the colorful sign in the top left corner and the NASCAR sign.",
+                "B. There are bright lights in the scene, and the background is a NASCAR race.",
+                "C. The scene is completely white with a NASCAR sign in the middle.",
+                "D. The scene has multiple colorful signs and a bright background."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_2": {
+            "id": "fkJv7LRa6Pc_2",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What does the text on the sign say?",
+            "options": [
+                "A. The sign has the word 'NASCAR' written in white.",
+                "B. The sign has the word 'RACING' written in white.",
+                "C. The sign has the word 'DRIVING' written in white.",
+                "D. The sign has the word 'SPORTS' written in white."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_3": {
+            "id": "fkJv7LRa6Pc_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What does the sign next to the text look like?",
+            "options": [
+                "A. The sign has blue, yellow, and red vertical stripes on the left side of the text.",
+                "B. The sign has blue, yellow, and red horizontal stripes above the text.",
+                "C. The sign has green and blue arcs surrounding the text.",
+                "D. The sign has red, yellow, and green diagonal stripes below the text."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_4": {
+            "id": "fkJv7LRa6Pc_4",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "Apart from signs and text, are there any recognizable objects visible in the scene?",
+            "options": [
+                "A. Yes, there are many objects visible.",
+                "B. No, there are no other recognizable objects visible.",
+                "C. Yes, there are some vague shapes visible.",
+                "D. Yes, people and vehicles are visible."
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_5": {
+            "id": "fkJv7LRa6Pc_5",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What visual elements help in identifying the content of a scene?",
+            "options": [
+                "A. Colored symbols and text in the top left corner.",
+                "B. A glowing white star in the center of the screen.",
+                "C. Large text describing the scene overlaid.",
+                "D. An animated video playing in the center of the screen."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_6": {
+            "id": "fkJv7LRa6Pc_6",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "From the video, where is the blue race car on the track?",
+            "options": [
+                "A. The blue race car is on the right side of the track.",
+                "B. The blue race car is in the center of the track.",
+                "C. The blue race car is on the left side of the track.",
+                "D. The blue race car is directly in front of the black car."
+            ],
+            "answer": "C"
+        },
+        "fkJv7LRa6Pc_7": {
+            "id": "fkJv7LRa6Pc_7",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What kind of environment are the two race cars in?",
+            "options": [
+                "A. On a dirt road surrounded by dense trees, with cloudy weather.",
+                "B. On a gray track with white boundary lines and lawns on both sides.",
+                "C. On a frozen track with snowbanks on both sides and dim lighting.",
+                "D. On sandy terrain with limited visibility due to a desert storm."
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_8": {
+            "id": "fkJv7LRa6Pc_8",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What kind of pattern is on the blue race car?",
+            "options": [
+                "A. The blue car has a striking flame pattern.",
+                "B. The blue car has a subtle flame pattern.",
+                "C. The blue car has a colorful circular pattern.",
+                "D. The blue car has a checkered flag pattern."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_9": {
+            "id": "fkJv7LRa6Pc_9",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What logo is on the blue race car?",
+            "options": [
+                "A. The blue race car has a prominent 'Pepsi' logo.",
+                "B. The blue race car has a prominent 'Monster Energy' logo.",
+                "C. The blue race car has a prominent 'LOWE'S FOR PROS' logo.",
+                "D. The blue race car has a prominent 'Red Bull' logo."
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_10": {
+            "id": "fkJv7LRa6Pc_10",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many cars are involved in this scene?",
+            "options": [
+                "A. One car",
+                "B. Two cars",
+                "C. Three cars",
+                "D. Four cars"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_11": {
+            "id": "fkJv7LRa6Pc_11",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Does the black race car have a yellow '48' on its side?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only on the roof",
+                "D. Only on the hood"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_12": {
+            "id": "fkJv7LRa6Pc_12",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle in this scene?",
+            "options": [
+                "A. The camera angle is slightly elevated.",
+                "B. The camera angle is at ground level.",
+                "C. The camera angle is shot from the side.",
+                "D. The camera angle is shot from behind the vehicle."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_13": {
+            "id": "fkJv7LRa6Pc_13",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What are the features on the side of the black race car?",
+            "options": [
+                "A. There are yellow numbers and different texts on the side.",
+                "B. There is a large flame pattern on the side.",
+                "C. There is a prominent 'Monster Energy' brand logo on the side.",
+                "D. There are subtle blue decorations on the side."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_14": {
+            "id": "fkJv7LRa6Pc_14",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What is distinctive about the black race car's roof?",
+            "options": [
+                "A. There is a prominent number on the roof",
+                "B. There is a neon green decoration on the roof",
+                "C. There is a sponsor brand logo on the roof",
+                "D. There is a prominent flame pattern on the roof"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_15": {
+            "id": "fkJv7LRa6Pc_15",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What visual elements are present on the appearance of the black race car?",
+            "options": [
+                "A. The black race car has a sleek black appearance with different colored text and numbers.",
+                "B. The black race car has a matte black appearance with red stripes.",
+                "C. The black race car has a glossy black appearance with blue highlights.",
+                "D. The black race car has a black appearance without any additional decorations."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_16": {
+            "id": "fkJv7LRa6Pc_16",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What is the text on the front of the black race car?",
+            "options": [
+                "A. Monster Energy",
+                "B. LOWE'S FOR PROS",
+                "C. Red Bull Racing",
+                "D. Shell V-Power"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_17": {
+            "id": "fkJv7LRa6Pc_17",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What is the number displayed on the black race car?",
+            "options": [
+                "A. 24",
+                "B. 48",
+                "C. 12",
+                "D. 36"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_18": {
+            "id": "fkJv7LRa6Pc_18",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What color is on the roof of the black racing car?",
+            "options": [
+                "A. The roof of the black racing car is yellow.",
+                "B. The roof of the black racing car is lemon green.",
+                "C. The roof of the black racing car is blue.",
+                "D. The roof of the black racing car is red."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_19": {
+            "id": "fkJv7LRa6Pc_19",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the driver of the blue race car wearing through the windshield?",
+            "options": [
+                "A. The driver is wearing a blue helmet.",
+                "B. The driver is wearing a red helmet.",
+                "C. The driver is wearing a black helmet.",
+                "D. The driver is wearing a white helmet."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_20": {
+            "id": "fkJv7LRa6Pc_20",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "From the video, what is on the left front side of the blue race car?",
+            "options": [
+                "A. There is a number '9'.",
+                "B. There is a letter 'S'.",
+                "C. There is a number '6'.",
+                "D. There is a number '8'."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_21": {
+            "id": "fkJv7LRa6Pc_21",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What color is the number on the roof of the blue race car?",
+            "options": [
+                "A. The roof is white.",
+                "B. The roof is black.",
+                "C. The roof is blue.",
+                "D. The roof is red."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_22": {
+            "id": "fkJv7LRa6Pc_22",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What is the text on the front of the blue race car?",
+            "options": [
+                "A. It is 'SUN ENERGY 1'.",
+                "B. It is 'MONSTER ENERGY'.",
+                "C. It is 'CHEVROLET CAMARO'.",
+                "D. It is 'FLAME ENERGY'."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_23": {
+            "id": "fkJv7LRa6Pc_23",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What logos are prominently displayed on the front of the blue race car?",
+            "options": [
+                "A. 'SUN ENERGY 1', 'Monster Energy', and the number '9' are displayed.",
+                "B. 'SUN ENERGY 1', 'NASCAR', and the number '48' are displayed.",
+                "C. 'SUN ENERGY 1', 'Monster Energy', and the number '6' are displayed.",
+                "D. 'Camaro Racing', 'Monster Energy', and the number '48' are displayed."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_24": {
+            "id": "fkJv7LRa6Pc_24",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is the background of the video cluttered with other vehicles or objects?",
+            "options": [
+                "A. Yes, the background is cluttered with other vehicles and objects.",
+                "B. No, the background is consistent and tidy, completely focused on the vehicle.",
+                "C. Yes, there are multiple objects and vehicles in the background.",
+                "D. No, the background is filled with various distractions."
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_25": {
+            "id": "fkJv7LRa6Pc_25",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What does the slight upward tilt of the camera in this scene emphasize?",
+            "options": [
+                "A. Emphasizes the forward momentum and dominance of the race car on the track.",
+                "B. Emphasizes the brightness of the daylight conditions.",
+                "C. Emphasizes the intricate details of the race car's flame pattern.",
+                "D. Emphasizes the surrounding greenery and safety barriers."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_26": {
+            "id": "fkJv7LRa6Pc_26",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "In this scene, which direction are the two race cars moving?",
+            "options": [
+                "A. Moving forward toward the camera.",
+                "B. Moving backward away from the camera.",
+                "C. Moving laterally across the track.",
+                "D. The race cars are stationary and not moving."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_27": {
+            "id": "fkJv7LRa6Pc_27",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "In this scene, how does the camera shoot the race car?",
+            "options": [
+                "A. The camera maintains a stable dynamic shot of the race car.",
+                "B. The camera frequently changes angles to shoot the race car.",
+                "C. The camera shakes and shoots the race car with unclear focus.",
+                "D. The camera quickly zooms in and out to shoot the race car."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_28": {
+            "id": "fkJv7LRa6Pc_28",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "How does the color of the blue race car change as the camera gradually approaches?",
+            "options": [
+                "A. The color and the patterns on the car show almost no change.",
+                "B. The color gradually fades, and the flame pattern on the hood appears less detailed.",
+                "C. The color remains unchanged, but the flame pattern completely disappears.",
+                "D. The color becomes monochromatic, and the flame pattern is replaced by a simple black design."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_29": {
+            "id": "fkJv7LRa6Pc_29",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What visual elements help understand the car's brand?",
+            "options": [
+                "A. 'XL' badge, Chevrolet bowtie logo.",
+                "B. 'GT3' badge, BMW kidney grille",
+                "C. 'C63' badge, Honda H emblem",
+                "D. 'RS6' badge, Ford Mustang logo"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_30": {
+            "id": "fkJv7LRa6Pc_30",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the main setting of the video?",
+            "options": [
+                "A. The main setting is a professional track surrounded by white barriers, green grass, etc.",
+                "B. The main setting is a city street with tall buildings and flashing traffic lights.",
+                "C. The main setting is a picturesque desert road with sand dunes in the background.",
+                "D. The main setting is a testing facility with no audience or brand logos."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_31": {
+            "id": "fkJv7LRa6Pc_31",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "Who is the protagonist of the video?",
+            "options": [
+                "A. The protagonists are the blue race car and the black race car.",
+                "B. The protagonist is the spectator wearing red clothes and waving a yellow flag.",
+                "C. The protagonist is the track referee standing near the ZIPPO sign.",
+                "D. The protagonist is the broadcast team filming the race from a helicopter."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_32": {
+            "id": "fkJv7LRa6Pc_32",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What is the characteristic of the first racing car in this scene?",
+            "options": [
+                "A. The first racing car is blue with a flame pattern on the front.",
+                "B. The first racing car is mainly yellow and black with a checkered pattern.",
+                "C. The first racing car has a red and blue color scheme with stripes.",
+                "D. The first racing car is white with green decals and a rear wing."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_33": {
+            "id": "fkJv7LRa6Pc_33",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the second race car in this scene?",
+            "options": [
+                "A. The second race car is black with yellow lettering.",
+                "B. The second race car is black with white lettering.",
+                "C. The second race car is yellow with black lettering.",
+                "D. The second race car is green with white lettering."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_34": {
+            "id": "fkJv7LRa6Pc_34",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What text elements can be seen in this scene?",
+            "options": [
+                "A. The 'ZIPPO' sign and other text on flags can be seen.",
+                "B. The 'Finish Line' text sign can be seen.",
+                "C. The 'Chevron' text sign can be seen.",
+                "D. No text elements can be seen."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_35": {
+            "id": "fkJv7LRa6Pc_35",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "Did the blue race car adjust its position on the track?",
+            "options": [
+                "A. The blue race car made a slight change in direction.",
+                "B. The blue race car overtook another car.",
+                "C. The blue race car did not change direction at all.",
+                "D. The blue race car accelerated and moved to the outer edge of the track."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_36": {
+            "id": "fkJv7LRa6Pc_36",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "From a racing perspective, in the curved section, which direction are the blue and black cars moving?",
+            "options": [
+                "A. The blue and black cars move slightly to the left.",
+                "B. The blue and black cars move slightly to the right.",
+                "C. The blue and black cars go straight ahead without adjusting direction.",
+                "D. The blue and black cars sharply deviate to the left off the track."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_37": {
+            "id": "fkJv7LRa6Pc_37",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "From where might the high-angle view of the race action be captured?",
+            "options": [
+                "A. The high-angle view is likely captured from a broadcast platform or helicopter.",
+                "B. The high-angle view is likely captured from the top of the race car.",
+                "C. The high-angle view is likely captured from the ZIPPO signboard.",
+                "D. The high-angle view is likely captured from a nearby hillside."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_38": {
+            "id": "fkJv7LRa6Pc_38",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "How does the camera angle change from the previous scene to this scene in the video?",
+            "options": [
+                "A. The camera transitions from a detailed frontal view of the car to a wider overhead angle, showcasing the track and surrounding environment.",
+                "B. The camera starts from an overhead angle and switches to a detailed side view of the car.",
+                "C. The camera consistently films the car from a side angle throughout the video.",
+                "D. The camera focuses on the surrounding environment, avoiding detailed shots of the car."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_39": {
+            "id": "fkJv7LRa6Pc_39",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What sign can be seen near the grass outside the obstacle?",
+            "options": [
+                "A. A blurry sign can be seen near the grass outside the obstacle, with only uppercase letters like 'R', 'V' clearly visible.",
+                "B. A sign can be seen near the grass outside the obstacle, with 'ZIPPO' written on it.",
+                "C. A sign can be seen near the grass outside the obstacle, with 'Race On' written on it.",
+                "D. A fully visible sign can be seen near the grass outside the obstacle, with 'Team Spirit' written on it."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_40": {
+            "id": "fkJv7LRa6Pc_40",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "Camera focus, what is the focus in the video?",
+            "options": [
+                "A. The focus of the video is the track and the race cars.",
+                "B. The focus of the video is the parking lot.",
+                "C. The focus of the video is in the forest.",
+                "D. The focus of the video is on the city streets."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_41": {
+            "id": "fkJv7LRa6Pc_41",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What actions are highlighted for the driver of the blue race car?",
+            "options": [
+                "A. The driver is shown holding the steering wheel and making a celebratory gesture.",
+                "B. The driver is shown checking the vehicle with the pit crew members.",
+                "C. The driver is seen getting out of the car and greeting fans.",
+                "D. The driver is shown standing on the car hood waving a flag."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_42": {
+            "id": "fkJv7LRa6Pc_42",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the attire of the blue race car driver?",
+            "options": [
+                "A. The driver wears racing gear that matches the vehicle's design.",
+                "B. The driver wears a regular black racing suit.",
+                "C. The driver wears yellow-green clothing.",
+                "D. The driver does not wear any racing gear."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_43": {
+            "id": "fkJv7LRa6Pc_43",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the design elements of the blue race car?",
+            "options": [
+                "A. The characteristic of the blue race car is the flame design at the front and various other text logos.",
+                "B. The characteristic of the blue race car is the checkered flag design at the front and various other text logos.",
+                "C. The characteristic of the blue race car is the pure blue design at the front and various other text logos.",
+                "D. The characteristic of the blue race car is the orange accents at the front and various other text logos."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_44": {
+            "id": "fkJv7LRa6Pc_44",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many different race cars are clearly displayed in this scene description?",
+            "options": [
+                "A. Two different race cars are clearly displayed.",
+                "B. Three different race cars are clearly displayed.",
+                "C. Four different race cars are clearly displayed.",
+                "D. Five different race cars are clearly displayed."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_45": {
+            "id": "fkJv7LRa6Pc_45",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What color are the race cars described in this scene?",
+            "options": [
+                "A. A blue race car and a black race car",
+                "B. A red race car and a white race car",
+                "C. A green race car and a silver race car",
+                "D. A yellow race car and a black race car"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_46": {
+            "id": "fkJv7LRa6Pc_46",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Does this scene show spectators near the track?",
+            "options": [
+                "A. Yes, spectators can be seen near the track.",
+                "B. No, there are no spectators visible in the video.",
+                "C. The video only shows the race cars, without spectators.",
+                "D. The video focuses only on the vehicles and does not include spectators."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_47": {
+            "id": "fkJv7LRa6Pc_47",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What is the standout moment between the black race car and the blue race car?",
+            "options": [
+                "A. The blue race car overtakes the black race car.",
+                "B. The black race car pushes forward against the blue race car.",
+                "C. The blue race car skids on the track.",
+                "D. The black race car is eliminated from the race."
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_48": {
+            "id": "fkJv7LRa6Pc_48",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What does the interaction between the two race cars emphasize?",
+            "options": [
+                "A. The interaction emphasizes their intense competition.",
+                "B. The interaction highlights a friendly race.",
+                "C. The interaction showcases poor driving skills.",
+                "D. The interaction showcases the sponsors' logos."
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_49": {
+            "id": "fkJv7LRa6Pc_49",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "From the perspective of watching the video, in which direction is the blue race car moving?",
+            "options": [
+                "A. The blue race car is moving to the left.",
+                "B. The blue race car is moving to the right.",
+                "C. The blue race car is moving directly towards the center of the track.",
+                "D. The blue race car is moving away from the center of the track."
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_50": {
+            "id": "fkJv7LRa6Pc_50",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens is used in this scene?",
+            "options": [
+                "A. Overhead aerial shot.",
+                "B. Slightly tilted eye-level shot.",
+                "C. Close-up focused shot.",
+                "D. Rearview focused shot."
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_51": {
+            "id": "fkJv7LRa6Pc_51",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "What is the speed comparison between the blue car and the black car in this scene?",
+            "options": [
+                "A. The black car quickly overtook the blue car and established a significant lead.",
+                "B. The blue car initially maintained the lead, but the black car gradually closed the gap over time.",
+                "C. The black car consistently maintained the same distance from the blue car throughout the scene.",
+                "D. The blue car steadily expanded its lead, leaving the black car far behind."
+            ],
+            "answer": "C"
+        },
+        "fkJv7LRa6Pc_52": {
+            "id": "fkJv7LRa6Pc_52",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the background environment in this scene?",
+            "options": [
+                "A. The background gradually reveals more details.",
+                "B. The background becomes a completely dark environment with no visible details.",
+                "C. The background remains static with no additional details.",
+                "D. The background turns into a dense forest where wild animals can be seen."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_53": {
+            "id": "fkJv7LRa6Pc_53",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What visual cue indicates the blue race car is pulling ahead of the white car?",
+            "options": [
+                "A. The white car gradually moves out of sight, receding to the left edge of the frame, nearly disappearing entirely.",
+                "B. The blue race car noticeably accelerates, leaving all other cars behind.",
+                "C. The white car crashes into the barrier, making it unable to continue the race.",
+                "D. The blue race car makes a sharp turn, overtaking the white car on the curve."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_54": {
+            "id": "fkJv7LRa6Pc_54",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What contributes to the atmosphere of professional racing events?",
+            "options": [
+                "A. The spectators in the stands, who exude energy and enthusiasm, adding a lively atmosphere to the event.",
+                "B. The appearance of white cars, adding a lively atmosphere to the event.",
+                "C. Most of the audience is absent, with only a few scattered spectators, creating a quiet environment.",
+                "D. The spectators focus on their phones, showing disinterest in the race, which makes the atmosphere dull."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_55": {
+            "id": "fkJv7LRa6Pc_55",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many cars are described in detail in this scene?",
+            "options": [
+                "A. Two cars",
+                "B. Three cars",
+                "C. Four cars",
+                "D. Five cars"
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_56": {
+            "id": "fkJv7LRa6Pc_56",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What color is the first car in this scene?",
+            "options": [
+                "A. The first car is blue.",
+                "B. The first car is white.",
+                "C. The first car is yellow.",
+                "D. The first car is red."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_57": {
+            "id": "fkJv7LRa6Pc_57",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What color is the second car in this scene?",
+            "options": [
+                "A. The second car is white.",
+                "B. The second car is red.",
+                "C. The second car is black.",
+                "D. The second car is silver."
+            ],
+            "answer": "C"
+        },
+        "fkJv7LRa6Pc_58": {
+            "id": "fkJv7LRa6Pc_58",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "What is the color of the third car that appears in this scene?",
+            "options": [
+                "A. The third car is yellow.",
+                "B. The third car is white.",
+                "C. The third car is blue.",
+                "D. The third car is silver."
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_59": {
+            "id": "fkJv7LRa6Pc_59",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Is the black race car with yellow trim in front of the blue race car?",
+            "options": [
+                "A. Yes, the black car is in front of the blue Chevrolet Camaro.",
+                "B. No, the black car is behind the blue race car.",
+                "C. Yes, the black car is leading by a large margin in the race.",
+                "D. No, the black car is far behind the blue race car."
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_60": {
+            "id": "fkJv7LRa6Pc_60",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "How did the blue race car perform on the track?",
+            "options": [
+                "A. The blue race car quickly fell behind the white car and struggled to keep up.",
+                "B. The blue race car dominated the scene, gradually widening the gap with the white car.",
+                "C. The blue race car was overtaken by a dark car with fluorescent highlights and couldn't regain the lead.",
+                "D. The blue race car maintained a steady speed but failed to make significant progress in the competition."
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_61": {
+            "id": "fkJv7LRa6Pc_61",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "From the video, what is the direction of movement of the white car?",
+            "options": [
+                "A. The white car moves out of view, towards the left edge of the screen.",
+                "B. The white car accelerates forward, towards the right edge of the screen.",
+                "C. The white car stops on the track.",
+                "D. The white car turns right, taking the lead position from the blue race car."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_62": {
+            "id": "fkJv7LRa6Pc_62",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What visual cues indicate the speed of cars on the track?",
+            "options": [
+                "A. Different tire marks on the track",
+                "B. Bright green grass and orange-striped curbs along the track",
+                "C. The 'GO BOWLING' banner prominently displayed on the white guardrail",
+                "D. The lively atmosphere in the stands filled with spectators"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_63": {
+            "id": "fkJv7LRa6Pc_63",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "How does the salience of the white car change in this scenario?",
+            "options": [
+                "A. The white car initially follows the blue and black racing cars and then gradually disappears from the frame.",
+                "B. The white car remains behind the blue racing car throughout the entire process.",
+                "C. The white car briefly overtakes the blue racing car and then moves out of sight again.",
+                "D. The white car completely leaves the track and exits the race early."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_64": {
+            "id": "fkJv7LRa6Pc_64",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What is the most eye-catching text in this scene?",
+            "options": [
+                "A. The 'GO BOWLING' banner on the white guardrail",
+                "B. The Monster Energy text logo on the blue race car",
+                "C. The number '56' on the white race car",
+                "D. The yellow number on the black race car"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_65": {
+            "id": "fkJv7LRa6Pc_65",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Based on the video, what is the position of the black car relative to the blue car when the black car enters the frame?",
+            "options": [
+                "A. The black car is behind and to the left of the blue car.",
+                "B. The black car is behind and to the right of the blue car.",
+                "C. The black car is in front of the blue car.",
+                "D. The black car and the blue car do not appear in the frame at the same time."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_66": {
+            "id": "fkJv7LRa6Pc_66",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What is the iconic text that appears on the blue advertisement in this scene?",
+            "options": [
+                "A. “TheGlen.com”.",
+                "B. “Monster Energy”.",
+                "C. “GO BOWLINGB”.",
+                "D. “FOR PROS”."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_67": {
+            "id": "fkJv7LRa6Pc_67",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many race cars are prominently displayed in this scene?",
+            "options": [
+                "A. One race car is prominently displayed.",
+                "B. Two race cars are prominently displayed.",
+                "C. Three race cars are prominently displayed.",
+                "D. Four race cars are prominently displayed."
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_68": {
+            "id": "fkJv7LRa6Pc_68",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What is the color of the race car in the video?",
+            "options": [
+                "A. Blue and black",
+                "B. Red and white",
+                "C. Blue and gray",
+                "D. Orange and black"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_69": {
+            "id": "fkJv7LRa6Pc_69",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the black race car take when it appeared on the screen?",
+            "options": [
+                "A. The black race car narrowed the gap with the blue race car.",
+                "B. The black race car overtook the blue race car.",
+                "C. The black race car fell further behind and couldn't keep up with the blue race car.",
+                "D. The black race car veered off the track, losing the opportunity to compete."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_70": {
+            "id": "fkJv7LRa6Pc_70",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "From the perspective of watching the video, in which direction is the blue race car moving on the track?",
+            "options": [
+                "A. The blue race car is moving to the left in the video.",
+                "B. The blue race car is moving to the right in the video.",
+                "C. The blue race car remains stationary in the video.",
+                "D. The blue race car is moving diagonally across the track in the video."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_71": {
+            "id": "fkJv7LRa6Pc_71",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What details are on the track bend in this scene?",
+            "options": [
+                "A. There are red and yellow stripe markings, green grass, and blue fences on the bend.",
+                "B. There are green and blue marked bends, billboards, and a field of sunflowers on the bend.",
+                "C. There are orange and purple tracks crossing the track, a nearby pit stop, and empty seats in the distance on the bend.",
+                "D. There are black and white lines, a scoreboard, and a tranquil lake in the background on the bend."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_72": {
+            "id": "fkJv7LRa6Pc_72",
+            "scene": 5,
+            "dimension": "Speed",
+            "question": "Which visual effect emphasizes the speed of the blue and black race cars?",
+            "options": [
+                "A. The bright orange details on the race cars",
+                "B. The number '9' on the side of the cars",
+                "C. Motion blur emphasizes the speed of the blue and black race cars",
+                "D. The colorful tents and umbrellas in the background"
+            ],
+            "answer": "C"
+        },
+        "fkJv7LRa6Pc_73": {
+            "id": "fkJv7LRa6Pc_73",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What changes occur among the spectators as the blue race car continues to drive?",
+            "options": [
+                "A. As the blue race car continues to drive, the spectators get closer.",
+                "B. As the blue race car continues to drive, more and more spectators are seen.",
+                "C. The spectators are evenly dispersed, and their positions do not change.",
+                "D. As the blue race car continues to drive, many spectators leave their positions."
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_74": {
+            "id": "fkJv7LRa6Pc_74",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "From the perspective of the race car, in which direction does the blue race car lean when turning?",
+            "options": [
+                "A. The blue race car leans to the left.",
+                "B. The blue race car leans to the right.",
+                "C. The blue race car remains completely level.",
+                "D. The blue race car leans upward."
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_75": {
+            "id": "fkJv7LRa6Pc_75",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "Who is the driver of the blue and orange NASCAR vehicles?",
+            "options": [
+                "A. Jeff Gordon",
+                "B. Tony Stewart",
+                "C. Jimmie Johnson",
+                "D. The video does not specifically mention the driver of the blue car."
+            ],
+            "answer": "D"
+        },
+        "fkJv7LRa6Pc_76": {
+            "id": "fkJv7LRa6Pc_76",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many race cars can be seen at the beginning of this scene?",
+            "options": [
+                "A. One race car can be seen in the scene.",
+                "B. Two race cars can be seen in the scene.",
+                "C. Three race cars can be seen in the scene.",
+                "D. No race cars can be seen in the scene."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_77": {
+            "id": "fkJv7LRa6Pc_77",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Can you see the black race car in this scene?",
+            "options": [
+                "A. Yes, the black race car is right behind the blue race car.",
+                "B. Yes, the black race car is ahead of the blue race car.",
+                "C. No, the black race car is not visible at all.",
+                "D. No, the black race car is parked at the pit stop."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_78": {
+            "id": "fkJv7LRa6Pc_78",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "When the blue race car approaches, what becomes more noticeable on the car?",
+            "options": [
+                "A. The bold flame pattern and the prominent white number '9' become more noticeable.",
+                "B. The black and green car becomes more noticeable.",
+                "C. The NASCAR logo becomes more noticeable.",
+                "D. The alternating white and blue safety barriers become more noticeable."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_79": {
+            "id": "fkJv7LRa6Pc_79",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred on the track at the end of this scene?",
+            "options": [
+                "A. The black race car is no longer visible.",
+                "B. The black race car has overtaken the blue race car.",
+                "C. The blue race car has fallen behind.",
+                "D. The blue race car has stopped due to engine failure."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_80": {
+            "id": "fkJv7LRa6Pc_80",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the blue race car located in the high wide-angle shot?",
+            "options": [
+                "A. Near the top right corner of the track",
+                "B. Near the bottom left corner of the track",
+                "C. Near the lower center of the track",
+                "D. Near the middle of the track"
+            ],
+            "answer": "C"
+        },
+        "fkJv7LRa6Pc_81": {
+            "id": "fkJv7LRa6Pc_81",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the overall background of this scene?",
+            "options": [
+                "A. This scene primarily captures a vibrant motorsport scene on the track during a NASCAR event.",
+                "B. This scene primarily captures a serene countryside setting, showcasing rolling hills and a quietly flowing river.",
+                "C. This scene primarily captures a bustling urban setting, including skyscrapers, busy streets, and people walking on sidewalks.",
+                "D. This scene primarily captures a quiet beach scene, including gentle waves, a sandy shore, and a few seagulls flying in the sky."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_82": {
+            "id": "fkJv7LRa6Pc_82",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "How does the video scene change at the end of the footage?",
+            "options": [
+                "A. The scene transitions to a busy city street filled with pedestrians and vehicles.",
+                "B. The scene shifts to a tranquil countryside with rolling hills and a clear blue sky.",
+                "C. The final frame suddenly transitions to a completely black screen, showing only the NASCAR logo.",
+                "D. The setting changes to an underwater scene, showcasing vibrant coral reefs and fish."
+            ],
+            "answer": "C"
+        },
+        "fkJv7LRa6Pc_83": {
+            "id": "fkJv7LRa6Pc_83",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What activities are the team members engaged in at the pit stop area?",
+            "options": [
+                "A. The team members are inspecting the car, preparing for the race, and planning the next stage of the competition.",
+                "B. The team members are entertaining the audience, waving flags, and conducting interviews.",
+                "C. The team members are inspecting fences, repairing obstacles, and rearranging advertisements.",
+                "D. The team members are providing refreshments, hosting events, and cleaning the pit stop area."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_84": {
+            "id": "fkJv7LRa6Pc_84",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "In this scene, is the 'GO BOWLING' text sign visible?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only in one view",
+                "D. Only in the station scene"
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_85": {
+            "id": "fkJv7LRa6Pc_85",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "Does the camera angle in this scene shift from a close-up to a wide-angle shot?",
+            "options": [
+                "A. Yes, the camera transitions from a close-up to a high wide-angle view.",
+                "B. No, the camera angle remains unchanged throughout the video.",
+                "C. Yes, the camera switches from a medium angle to a direct overhead angle.",
+                "D. No, the perspective moves but the angle does not change."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_86": {
+            "id": "fkJv7LRa6Pc_86",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "In the close-up shot, how does the sense of speed of the blue race car change?",
+            "options": [
+                "A. In the close-up shot, the sense of speed is enhanced because the car appears larger and more prominent.",
+                "B. In the close-up shot, the sense of speed is diminished because the car appears stationary.",
+                "C. In the close-up shot, the sense of speed remains unchanged from the previous frame.",
+                "D. In the close-up shot, the sense of speed is diminished due to the blurred surroundings."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_87": {
+            "id": "fkJv7LRa6Pc_87",
+            "scene": 6,
+            "dimension": "Speed",
+            "question": "How does the sense of speed of a blue race car change in a wide-angle perspective?",
+            "options": [
+                "A. In a wide-angle perspective, the broader background diminishes the emphasis on the car's speed.",
+                "B. In a wide-angle perspective, the car's speed appears faster due to the track's expansion.",
+                "C. In a wide-angle perspective, the car looks like it is stationary.",
+                "D. In a wide-angle perspective, the sense of the car's speed is exaggerated due to the distant view."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_88": {
+            "id": "fkJv7LRa6Pc_88",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "How does the crowd density in the stands change according to the video?",
+            "options": [
+                "A. The crowd density in the stands increases, and more spectators can be seen in the upper right and lower right in subsequent footage.",
+                "B. The crowd density in the stands decreases, with an overall reduction in spectators in subsequent footage.",
+                "C. The crowd density in the stands remains consistent, with no significant changes over time.",
+                "D. The crowd density in the stands has moved to the left side of the track, resulting in the right side being empty in subsequent footage."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_89": {
+            "id": "fkJv7LRa6Pc_89",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What marks the transition to different scenes in the final image?",
+            "options": [
+                "A. A bright track appears without any vehicles.",
+                "B. A colorful striped white 'NASCAR' logo appears on a pure black background.",
+                "C. A grandstand view with empty seats.",
+                "D. The scene transitions to a dimly lit pit stop with flashing lights."
+            ],
+            "answer": "B"
+        },
+        "fkJv7LRa6Pc_90": {
+            "id": "fkJv7LRa6Pc_90",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What was the initial camera angle of the blue race car in the video?",
+            "options": [
+                "A. The blue race car was initially filmed with a bold, detailed front view, showcasing the car's exterior.",
+                "B. The blue race car was initially filmed from a high wide angle, highlighting the entire track.",
+                "C. The blue race car was initially filmed from a rear view, emphasizing its taillights and exhaust.",
+                "D. The blue race car was initially filmed dynamically from the side, showcasing its streamlined profile."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_91": {
+            "id": "fkJv7LRa6Pc_91",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "When the blue car and the black car move forward on the track, how does the perspective change?",
+            "options": [
+                "A. The perspective shifts to a wider, higher view, showing the progress of the vehicles along the track.",
+                "B. The perspective remains focused on close-up details of the cars, highlighting their vibrant colors and sponsor logos.",
+                "C. The perspective changes to a low angle, emphasizing the speed of the cars and the texture of the asphalt.",
+                "D. The perspective narrows, focusing only on the drivers of the cars, capturing their expressions and actions."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_92": {
+            "id": "fkJv7LRa6Pc_92",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What role does the black race car play most of the time in the video?",
+            "options": [
+                "A. The black race car closely follows the blue race car.",
+                "B. The black race car stays in the pit area for repairs.",
+                "C. The black race car leads the race, distancing itself from other vehicles.",
+                "D. The black race car is the safety car, guiding other vehicles on the track."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_93": {
+            "id": "fkJv7LRa6Pc_93",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What enhances the atmosphere of a racing scene?",
+            "options": [
+                "A. The environment, including blue barriers, green grass, asphalt tracks, and spectators, creates a fast-paced, vibrant racing sports event.",
+                "B. The environment, featuring snow-capped mountains, dense forests, and tranquil lakes, creates a peaceful and serene atmosphere.",
+                "C. The environment, including skyscrapers, busy city streets, and neon signs, creates a futuristic urban racing scene.",
+                "D. The environment, with empty lanes, dim lighting, and no spectators, creates a quiet and dull racing atmosphere."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_94": {
+            "id": "fkJv7LRa6Pc_94",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after the first perspective shift in the scene?",
+            "options": [
+                "A. Two race cars continue on the track and are filmed from a higher and more comprehensive perspective.",
+                "B. The blue race car completely leaves the track and enters the pit stop.",
+                "C. The camera focuses on the spectators in the stands, not showing any vehicles on the track.",
+                "D. The scene shifts to nighttime, showcasing the race under spotlights."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_95": {
+            "id": "fkJv7LRa6Pc_95",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens when the black race car is not closely following the blue car?",
+            "options": [
+                "A. The black race car enters the scene from the left side of the screen, closely following the blue race car.",
+                "B. The black race car collided with the blue race car, which is numbered in yellow.",
+                "C. The black race car remains stationary in the pit area.",
+                "D. The black race car exits the scene to the right, losing control of its speed."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_96": {
+            "id": "fkJv7LRa6Pc_96",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why do cameras capture more of the track and its infrastructure as the race approaches its end?",
+            "options": [
+                "A. A wider perspective emphasizes the background of the race and showcases elements like sponsor banners, spectators, and track safety features.",
+                "B. The cameras zoom in only on the leading car about to cross the finish line, ignoring the surrounding environment.",
+                "C. This change in perspective is to blur the drivers, adding a sense of mystery to the race results.",
+                "D. A wider perspective is used because spectators and sponsors have already left the track, leaving only the cars on the track."
+            ],
+            "answer": "A"
+        },
+        "fkJv7LRa6Pc_97": {
+            "id": "fkJv7LRa6Pc_97",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does a black screen with the NASCAR logo appear at the end of the video?",
+            "options": [
+                "A. The black screen with the NASCAR logo indicates the end of the video content, marking the conclusion of the racing scene.",
+                "B. The black screen with the NASCAR logo signifies a technical failure during the race, resulting in a loss of video signal.",
+                "C. The black screen with the NASCAR logo emphasizes commercial advertisement placement during the live broadcast of the race.",
+                "D. The black screen with the NASCAR logo represents a deliberate artistic transition in the video, symbolizing speed and motion."
+            ],
+            "answer": "A"
+        }
+    }
+}

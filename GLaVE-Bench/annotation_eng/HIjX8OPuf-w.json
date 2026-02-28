@@ -1,0 +1,2553 @@
+{
+    "scene_hint": {
+        "0": "The video begins with a hand writing on a paper with text, introducing the theme of the video.",
+        "1": "Two hands appear, starting the storytelling.",
+        "2": "A steak appears on the paper, and a hand draws a map on the paper.",
+        "3": "The background changes again, showing a hand-drawn sea background and the flags of two countries.",
+        "4": "Two hands appear to draw a presentation of MANHATTAN.",
+        "5": "A map of the United States is drawn.",
+        "6": "A timer and a cut-out of a hamburger appear on a blank sheet of paper.",
+        "7": "Two hands depict different characters on the paper, with labels and buildings.",
+        "8": "Two hands continue to depict the background, with labels and food.",
+        "9": "Two hands write text on the paper.",
+        "10": "The text on the paper changes, and multiple hamburgers appear on the paper.",
+        "11": "The video ends with a black screen."
+    },
+    "qa": {
+        "HIjX8OPuf-w_0": {
+            "id": "HIjX8OPuf-w_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "From the video, where are the two closely placed pens relative to the stack of paper?",
+            "options": [
+                "A. The two pens are placed on the left side of the stack of paper.",
+                "B. The two pens are placed on the right side of the stack of paper.",
+                "C. The two pens are placed above the stack of paper.",
+                "D. The two pens are placed diagonally on the stack of paper."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_1": {
+            "id": "HIjX8OPuf-w_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "From the video, where is the position of the single pen relative to the stack of papers on the desk?",
+            "options": [
+                "A. The pen is located at the top left corner of the stack of papers.",
+                "B. The pen is located below the stack of papers.",
+                "C. The pen is located at the bottom right corner of the stack of papers.",
+                "D. The pen is located at the top right corner of the stack of papers."
+            ],
+            "answer": "D"
+        },
+        "HIjX8OPuf-w_2": {
+            "id": "HIjX8OPuf-w_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the environment depicted in the scene?",
+            "options": [
+                "A. The close-up scene is a top-down perspective: a hand writing on white paper surrounded by a pen, french fries, and a watermark.",
+                "B. The scene is a busy office environment where multiple people are working on computers, with piles of documents scattered around.",
+                "C. The scene shows an outdoor park picnic table with sandwiches, drinks, and a notebook for writing.",
+                "D. The scene depicts a classroom environment: a teacher writing on the whiteboard, and students taking notes at their desks."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_3": {
+            "id": "HIjX8OPuf-w_3",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What kind of lighting is used in the scene?",
+            "options": [
+                "A. The lighting is even.",
+                "B. The lighting is glaring and has shadows.",
+                "C. The lighting is dim and uneven.",
+                "D. The lighting mainly consists of bright spotlights."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_4": {
+            "id": "HIjX8OPuf-w_4",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the background after this scene?",
+            "options": [
+                "A. The scene changes to a static background with the label '13th Century'.",
+                "B. The scene changes to a dynamic background with animated knights and horses.",
+                "C. The scene changes to a bustling city background.",
+                "D. The scene changes to a tranquil beach background with palm trees."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_5": {
+            "id": "HIjX8OPuf-w_5",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What action is the hand performing in the scene?",
+            "options": [
+                "A. The hand is holding a pen and writing on paper.",
+                "B. The hand is drawing an illustration of a mountain.",
+                "C. The hand is holding a paper bag filled with French fries.",
+                "D. The hand is erasing text from the paper."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_6": {
+            "id": "HIjX8OPuf-w_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the title in the paper?",
+            "options": [
+                "A. Hamburger History",
+                "B. Medieval Times",
+                "C. French Fry Chronicles",
+                "D. New York Stories"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_7": {
+            "id": "HIjX8OPuf-w_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What other text is on the paper?",
+            "options": [
+                "A. The paper also has the words 'Briefly' and 'By Joyce C.'",
+                "B. The paper displays a detailed map from the 13th century, marked in red ink.",
+                "C. The paper contains a list of ingredients for making a hamburger, written in blue ink.",
+                "D. The paper shows a timeline of a medieval event, marked in green."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_8": {
+            "id": "HIjX8OPuf-w_8",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many pens can be seen in the scene?",
+            "options": [
+                "A. Two pens",
+                "B. Three pens",
+                "C. Four pens",
+                "D. Five pens"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_9": {
+            "id": "HIjX8OPuf-w_9",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Is there a logo in the bottom right corner of the image?",
+            "options": [
+                "A. Yes, the 'New York' logo is present.",
+                "B. No, there is no logo in the bottom right corner.",
+                "C. Yes, but it's a different logo.",
+                "D. No, the logo is in the top left corner."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_10": {
+            "id": "HIjX8OPuf-w_10",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What is the purpose of the handwritten label '13th Century'?",
+            "options": [
+                "A. The label emphasizes the historical medieval theme.",
+                "B. The label indicates the author's age.",
+                "C. The label marks the page number of the document.",
+                "D. The label highlights the current year of publication."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_11": {
+            "id": "HIjX8OPuf-w_11",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "How is the pen positioned in the upper right corner of the stack of paper in the video?",
+            "options": [
+                "A. The pen is placed vertically.",
+                "B. The pen is upright.",
+                "C. The pen is placed horizontally.",
+                "D. The pen is placed at an angle."
+            ],
+            "answer": "D"
+        },
+        "HIjX8OPuf-w_12": {
+            "id": "HIjX8OPuf-w_12",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What does the pen in the upper right corner of the video look like?",
+            "options": [
+                "A. The pen has a gray body and a black cap.",
+                "B. The pen is completely black.",
+                "C. The pen has a white body and a blue cap.",
+                "D. The pen has a metallic body and a sleek design."
+            ],
+            "answer": "D"
+        },
+        "HIjX8OPuf-w_13": {
+            "id": "HIjX8OPuf-w_13",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle used in this scene?",
+            "options": [
+                "A. The camera angle is directly overhead, providing a clear view of the scene.",
+                "B. The camera angle is low, looking up at the objects.",
+                "C. The camera angle is a side view, capturing the scene from the edge of the table.",
+                "D. The camera angle is a close-up, focusing only on the hands."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_14": {
+            "id": "HIjX8OPuf-w_14",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "How does an overhead shot enhance the clarity of a scene?",
+            "options": [
+                "A. An overhead shot provides a symmetrical and detailed perspective, ensuring all elements are clearly visible.",
+                "B. An overhead shot creates dramatic shadows, adding depth to the scene.",
+                "C. An overhead shot focuses on a single element, making other details blurry.",
+                "D. An overhead shot introduces a sense of dynamism through a tilted perspective."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_15": {
+            "id": "HIjX8OPuf-w_15",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What changes occur when the current scene transitions to the next scene?",
+            "options": [
+                "A. The animated medieval knight and horse are removed.",
+                "B. The title 'Hamburger History' is changed.",
+                "C. The paper bag containing fries is removed.",
+                "D. The pens on the table are rearranged."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_16": {
+            "id": "HIjX8OPuf-w_16",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Which visual element in the static scene highlights the historical background?",
+            "options": [
+                "A. A small paper bag containing fries",
+                "B. A hand holding a pen",
+                "C. 'New York' sign",
+                "D. Handwritten label '13th Century'."
+            ],
+            "answer": "D"
+        },
+        "HIjX8OPuf-w_17": {
+            "id": "HIjX8OPuf-w_17",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the third metal pen?",
+            "options": [
+                "A. The third metal pen is located at the bottom right of the video",
+                "B. The third metal pen is located at the top left of the video",
+                "C. The third metal pen is located at the top right of the video",
+                "D. The third metal pen is located near the hand"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_18": {
+            "id": "HIjX8OPuf-w_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the scene?",
+            "options": [
+                "A. The overall environment of the scene is a combination of modern and historical elements in a minimalist setting.",
+                "B. The overall environment of the scene is a purely historical setting with classical elements.",
+                "C. The overall environment of the scene is entirely modern, with no historical references.",
+                "D. The overall environment of the scene is a chaotic mix of bright colors and patterns."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_19": {
+            "id": "HIjX8OPuf-w_19",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What human actions are described in the video?",
+            "options": [
+                "A. An arm extends from the left, with the hand hovering above the '13th Century' label.",
+                "B. A person picks up a hamburger and rearranges a stack of papers.",
+                "C. Someone writes on the '13th Century' label with a black pen.",
+                "D. An arm pushes a stack of papers to the left while fries are taken from the top left corner."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_20": {
+            "id": "HIjX8OPuf-w_20",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What is the color of the pen visible in the scene?",
+            "options": [
+                "A. The pen is black, gray, and metallic.",
+                "B. The pen is black, blue, and metallic.",
+                "C. The pen is black, gray, and gold.",
+                "D. The pen is blue, gray, and metallic."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_21": {
+            "id": "HIjX8OPuf-w_21",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is there any indication of gameplay actions in the setup?",
+            "options": [
+                "A. Yes, the small piece of paper labeled '13 Century' suggests gameplay actions.",
+                "B. No, this scene is completely static with no signs of action.",
+                "C. Yes, the parallel arrangement of pens near the hand indicates dynamic interaction.",
+                "D. No, the setup focuses solely on historical elements with no actions."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_22": {
+            "id": "HIjX8OPuf-w_22",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What is the hand holding in the upper part of this scene?",
+            "options": [
+                "A. Holding a small piece of paper or card with '13th Century' written on it.",
+                "B. Holding a small piece of paper or card with '20th Century' written on it.",
+                "C. Holding a pencil with an eraser on top.",
+                "D. Holding a small painting of a medieval castle."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_23": {
+            "id": "HIjX8OPuf-w_23",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "From which direction does the arm enter the scene?",
+            "options": [
+                "A. The arm enters the scene from the right.",
+                "B. The arm enters the scene from above.",
+                "C. The arm enters the scene from the left.",
+                "D. The arm enters the scene from below."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_24": {
+            "id": "HIjX8OPuf-w_24",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "Which changes in the scene combination introduced the conflict of the era?",
+            "options": [
+                "A. A modern hamburger and a card with '13th Century' written on it were added to the scene.",
+                "B. A hand holding a small piece of paper was added, changing the combination of the scene.",
+                "C. The fries in the upper left corner introduced a modern element.",
+                "D. A metal pen was added, suggesting a futuristic theme."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_25": {
+            "id": "HIjX8OPuf-w_25",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What text can be seen in the bottom right corner of the scene?",
+            "options": [
+                "A. The text seen in the bottom right corner is 'New York'.",
+                "B. The text seen in the bottom right corner is '13th Century'.",
+                "C. The text seen in the bottom right corner is '3 Century'.",
+                "D. The text seen in the bottom right corner is 'Fries'."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_26": {
+            "id": "HIjX8OPuf-w_26",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where are the fried fries in the scene?",
+            "options": [
+                "A. In the top left corner",
+                "B. In the top right corner",
+                "C. Near the bottom left corner",
+                "D. In the center of the table"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_27": {
+            "id": "HIjX8OPuf-w_27",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the scene of the video?",
+            "options": [
+                "A. The scene is an outdoor park.",
+                "B. The scene is a busy city street.",
+                "C. The scene is indoors with natural light.",
+                "D. The scene is a nighttime café."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_28": {
+            "id": "HIjX8OPuf-w_28",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What activity is shown in the video?",
+            "options": [
+                "A. The video showcases a creative activity involving painting and paper manipulation.",
+                "B. The video features a cooking demonstration preparing steak.",
+                "C. The video depicts a quiet scene of reading and writing letters.",
+                "D. The video presents a heated discussion about historical events."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_29": {
+            "id": "HIjX8OPuf-w_29",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What did the left forearm do in this scene?",
+            "options": [
+                "A. The left forearm drew a simple rectangle on the paper.",
+                "B. The left forearm placed a small piece of paper labeled 'SOON AFTER!' in the upper left corner.",
+                "C. The left forearm wrote on white paper with a black marker.",
+                "D. The left forearm moved a bowl of fried snacks to a different position."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_30": {
+            "id": "HIjX8OPuf-w_30",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What did the right forearm do in this scenario?",
+            "options": [
+                "A. The right forearm drew a rectangle slightly to the right in the center of the paper with a black marker.",
+                "B. The right forearm placed a paper labeled 'STEAK!' near the top center position.",
+                "C. The right forearm took out a hamburger from a stack of white paper.",
+                "D. The right forearm wrote the word 'NEW YORK' in the lower right corner."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_31": {
+            "id": "HIjX8OPuf-w_31",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What was on top of that pile of paper in the last scene?",
+            "options": [
+                "A. What was on top of that pile of paper in the last scene was a hamburger.",
+                "B. What was on top of that pile of paper in the last scene was a piece of red meat.",
+                "C. What was on top of that pile of paper in the last scene was a bowl of fried snacks.",
+                "D. What was on top of that pile of paper in the last scene was a hand-drawn mountain range."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_32": {
+            "id": "HIjX8OPuf-w_32",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What replaced the hamburger piled on the stack of papers?",
+            "options": [
+                "A. A photo of a historical document",
+                "B. A bowl of fried snacks",
+                "C. A piece of hand-drawn red meat resembling steak",
+                "D. A stack of vintage books"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_33": {
+            "id": "HIjX8OPuf-w_33",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many pens can be seen on the desk?",
+            "options": [
+                "A. Two pens",
+                "B. Three pens",
+                "C. Four pens",
+                "D. Five pens"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_34": {
+            "id": "HIjX8OPuf-w_34",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "In the scene, is the 'NEW YORK' watermark located in the upper right corner?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Maybe",
+                "D. Not sure"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_35": {
+            "id": "HIjX8OPuf-w_35",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Where is the 'NEW YORK' watermark located in the scene?",
+            "options": [
+                "A. It is located in the top left corner.",
+                "B. It is located in the bottom right corner.",
+                "C. It is located in the center of the paper.",
+                "D. It is located in the top right corner."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_36": {
+            "id": "HIjX8OPuf-w_36",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What shape is drawn with the right hand?",
+            "options": [
+                "A. Circle",
+                "B. Triangle",
+                "C. Rectangle",
+                "D. Star"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_37": {
+            "id": "HIjX8OPuf-w_37",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "From which direction does the right forearm enter the frame?",
+            "options": [
+                "A. From the lower right",
+                "B. From the upper left",
+                "C. From the middle left",
+                "D. From the lower left"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_38": {
+            "id": "HIjX8OPuf-w_38",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "Which camera lens should be used to capture activities on the desktop?",
+            "options": [
+                "A. Overhead shot",
+                "B. Side shot",
+                "C. Close-up shot",
+                "D. Low-angle shot"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_39": {
+            "id": "HIjX8OPuf-w_39",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What was the label on the top of the stack of papers initially?",
+            "options": [
+                "A. A mountain drawing labeled '13th Century'",
+                "B. A vivid hand-drawn chunk of red meat",
+                "C. A simple rectangle drawn with a black marker",
+                "D. A card labeled 'STEAK!'"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_40": {
+            "id": "HIjX8OPuf-w_40",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What replaced the initial drawing on top of the stack of papers?",
+            "options": [
+                "A. A hand-drawn piece of bright red meat that looks like a steak",
+                "B. A bowl of fried snacks",
+                "C. A thin metal pen",
+                "D. A hand-drawn mountain labeled 'New York'"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_41": {
+            "id": "HIjX8OPuf-w_41",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the fries' carton?",
+            "options": [
+                "A. The fries' carton is located in the upper left corner of the scene.",
+                "B. The fries' carton is located in the lower right corner of the scene.",
+                "C. The fries' carton is located in the center of the scene.",
+                "D. The fries' carton is located in the upper right corner of the scene."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_42": {
+            "id": "HIjX8OPuf-w_42",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the video scene?",
+            "options": [
+                "A. The video takes place on a busy city street with traffic and pedestrians.",
+                "B. The video showcases a creative environment with a pile of white paper and some items.",
+                "C. The video is set in a kitchen with various cooking utensils and ingredients.",
+                "D. The video is in a quiet library, with bookshelves full of books and reading tables."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_43": {
+            "id": "HIjX8OPuf-w_43",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the left forearm perform when it reappeared?",
+            "options": [
+                "A. The left forearm is writing on the paper in the center of the pile.",
+                "B. The left forearm is taking a fry from the container in the upper left corner.",
+                "C. The left forearm is actively manipulating a small red object near the center of the pile.",
+                "D. The left forearm is replacing the 'New York' sign with another sign."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_44": {
+            "id": "HIjX8OPuf-w_44",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What happened to the card originally marked '13th Century'?",
+            "options": [
+                "A. The card originally marked '13th Century' was replaced by a card that says 'SOON AFTER!' in a playful, uneven style.",
+                "B. The card originally marked '13th Century' was replaced by a card that says 'LATER!' in a playful, uneven style.",
+                "C. The card originally marked '13th Century' was replaced by a card that says 'DINNER!' in a playful, uneven style.",
+                "D. The card originally marked '13th Century' was replaced by a card that says 'NEXT!' in a playful, uneven style."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_45": {
+            "id": "HIjX8OPuf-w_45",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "Was the painted red piece of meat altered in the scene?",
+            "options": [
+                "A. Yes, the red piece of meat changed color.",
+                "B. Yes, the red piece of meat was replaced with another object.",
+                "C. No, the red piece of meat remained unchanged throughout the scene.",
+                "D. Yes, the red piece of meat was folded into a small red paper ball."
+            ],
+            "answer": "D"
+        },
+        "HIjX8OPuf-w_46": {
+            "id": "HIjX8OPuf-w_46",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What change occurred to the left forearm in the scene?",
+            "options": [
+                "A. The left forearm used a marker to add details to a flag-like object.",
+                "B. The left forearm replaced the 'SOON AFTER!' card with another card.",
+                "C. The left forearm continued the creative activity by manipulating a small red object near the center of the stack of papers.",
+                "D. The left forearm moved the car's fries box."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_47": {
+            "id": "HIjX8OPuf-w_47",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What do the horizontal stripes of a small flag-like object look like?",
+            "options": [
+                "A. The horizontal stripes have black outline lines, surrounding white at the top, blue in the middle, and bright red at the bottom.",
+                "B. The horizontal stripes have red outline lines, surrounding white at the top, green in the middle, and bright blue at the bottom.",
+                "C. The horizontal stripes have black outline lines, surrounding blue at the top, white in the middle, and bright red at the bottom.",
+                "D. The horizontal stripes have black outline lines, surrounding red at the top, white in the middle, and bright blue at the bottom."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_48": {
+            "id": "HIjX8OPuf-w_48",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Which symbol can be seen in the bottom right corner of the scene?",
+            "options": [
+                "A. 'New York' symbol",
+                "B. 'California' symbol",
+                "C. 'Paris' symbol",
+                "D. 'London' symbol"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_49": {
+            "id": "HIjX8OPuf-w_49",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the speech bubble 'SOON AFTER!' located in relation to the hand-drawn map?",
+            "options": [
+                "A. The speech bubble 'SOON AFTER!' is located above the hand-drawn map and slightly to the left.",
+                "B. The speech bubble 'SOON AFTER!' is located below the hand-drawn map and to the right.",
+                "C. The speech bubble 'SOON AFTER!' is located at the center of the hand-drawn map.",
+                "D. The speech bubble 'SOON AFTER!' is located above the hand-drawn map and slightly to the right."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_50": {
+            "id": "HIjX8OPuf-w_50",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What specific items can be seen in the video?",
+            "options": [
+                "A. A hand-drawn map on a piece of white paper, several pens, a box of fries, and a watermark with the words 'NEW YORK'.",
+                "B. A hand-drawn map on a piece of white paper, a cup of coffee, a box of fries, and a watermark with the words 'NEW YORK'.",
+                "C. A hand-drawn map on a piece of white paper, a laptop, a box of fries, and a watermark with the words 'NEW YORK'.",
+                "D. A hand-drawn map on a piece of white paper, a smartphone, a box of fries, and a watermark with the words 'NEW YORK'."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_51": {
+            "id": "HIjX8OPuf-w_51",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What is the perspective of this video?",
+            "options": [
+                "A. The perspective is from above.",
+                "B. The perspective is from the side.",
+                "C. The perspective is from below.",
+                "D. The perspective is from the front."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_52": {
+            "id": "HIjX8OPuf-w_52",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the person perform in the scene?",
+            "options": [
+                "A. The person's arm extends diagonally from the lower left corner of the frame and is placed on the map, indicating drawing or writing.",
+                "B. The person's arm picks up a red die and moves it onto the map.",
+                "C. The person's arm adjusts the position of the illustration of the Russian flag on the map.",
+                "D. The person's arm moves the pen away from the left side of the map."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_53": {
+            "id": "HIjX8OPuf-w_53",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where does the red paper ball finally land on the map?",
+            "options": [
+                "A. The red paper ball finally lands at the intersection of the black, red, and yellow horizontal stripes of the German flag pattern.",
+                "B. The red paper ball finally lands near the speech bubble marked 'Coming soon!'.",
+                "C. The red paper ball finally lands on the Russian flag on the map, which has horizontal stripes of white, blue, and red.",
+                "D. The red paper ball finally lands next to the silhouettes of three figures at the bottom of the map."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_54": {
+            "id": "HIjX8OPuf-w_54",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where are the pens placed?",
+            "options": [
+                "A. Two pens are on the left side of the paper, and one brown pen is in the upper right corner.",
+                "B. Two pens are in the upper right corner, and one brown pen is on the left side of the paper.",
+                "C. Three pens are randomly scattered on the table, with no specific position.",
+                "D. All the pens are placed directly on the map."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_55": {
+            "id": "HIjX8OPuf-w_55",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "Was the fries container moved in the scene?",
+            "options": [
+                "A. Yes, the fries container was moved to the center of the table.",
+                "B. No, the fries container remains above the two pens on the table.",
+                "C. Yes, the fries container was moved closer to the map.",
+                "D. No, the fries container was placed on the left side of the table."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_56": {
+            "id": "HIjX8OPuf-w_56",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What changes occur to the map in scenarios involving human hands?",
+            "options": [
+                "A. The map's dialog box and the part with the German flag are partially obscured by human hands.",
+                "B. The map is completely replaced by a new map drawn by human hands.",
+                "C. The German flag on the map is removed by human hands.",
+                "D. Human hands color the outlines of graphics on the map."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_57": {
+            "id": "HIjX8OPuf-w_57",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What text appeared in the bottom right corner?",
+            "options": [
+                "A. The text 'NEW YORK' appeared in the bottom right corner.",
+                "B. The text 'SOON AFTER!' appeared in the bottom right corner.",
+                "C. The text 'GERMAN FLAG' appeared in the bottom right corner.",
+                "D. The text 'RUSSIAN FLAG' appeared in the bottom right corner."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_58": {
+            "id": "HIjX8OPuf-w_58",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the function of the text in the lower right corner?",
+            "options": [
+                "A. It connects the scene to its potential media or publication source.",
+                "B. It provides instructions for using the illustrated map.",
+                "C. It is a label used to identify the characters depicted on the map.",
+                "D. It indicates where the illustration was created."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_59": {
+            "id": "HIjX8OPuf-w_59",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the video scene?",
+            "options": [
+                "A. The environment is a workspace with minimalistic arrangements.",
+                "B. The environment is a busy urban street.",
+                "C. The environment is a cluttered artist's studio.",
+                "D. The environment is an outdoor café."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_60": {
+            "id": "HIjX8OPuf-w_60",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What does the right hand do during the art creation process?",
+            "options": [
+                "A. The right hand first uses a black marker to draw wavy lines, then places the themed paper cutout onto the paper canvas.",
+                "B. The right hand organizes the stack of papers, then writes on the top sheet.",
+                "C. The right hand uses a beige pen to sketch architectural designs on the paper.",
+                "D. The right hand places wavy fries on the paper canvas as part of the artwork."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_61": {
+            "id": "HIjX8OPuf-w_61",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What items appear on the paper 3D model?",
+            "options": [
+                "A. The paper 3D model includes the Statue of Liberty, national flags, buildings, flags with red, white, and black stripes, wavy lines, triangular sails, and other items.",
+                "B. The paper 3D model includes wavy fries, a beige pen and parchment, as well as sketch illustrations of the Statue of Liberty and the American flag.",
+                "C. The paper 3D model includes balloons, a beige wooden stick, and a blue flag with white stars.",
+                "D. The paper 3D model includes food, a New York watermark, and abstract paintings without thematic cuts."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_62": {
+            "id": "HIjX8OPuf-w_62",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Are there French fries in the office area?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only during the drawing phase",
+                "D. Only at the beginning of the scene"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_63": {
+            "id": "HIjX8OPuf-w_63",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What did the hand do with the wooden stick?",
+            "options": [
+                "A. The hand used the wooden stick to draw more lines on the paper.",
+                "B. The hand used the wooden stick to manipulate a pink object with a dotted pattern, with triangular cutouts glued on top.",
+                "C. The hand used the wooden stick to arrange a cutout of the American flag.",
+                "D. The hand used the wooden stick to draw a three-dimensional model of the Statue of Liberty."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_64": {
+            "id": "HIjX8OPuf-w_64",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "In which direction is the American flag placed on the stack of papers?",
+            "options": [
+                "A. The American flag is placed horizontally on the right side of the stack of papers.",
+                "B. The American flag is placed upright on the left side of the stack of papers.",
+                "C. The American flag is placed diagonally in the center of the stack of papers.",
+                "D. The American flag is placed vertically in the upper right corner of the stack of papers."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_65": {
+            "id": "HIjX8OPuf-w_65",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What happened to the top sheet of paper in the scene?",
+            "options": [
+                "A. The top sheet of paper is completely blank and untouched throughout the scene.",
+                "B. The top sheet of paper changes from blank to having flowing wavy lines.",
+                "C. The top sheet of paper is immediately decorated with colorful paint and glitter.",
+                "D. The top sheet of paper is torn and discarded to make room for new paper."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_66": {
+            "id": "HIjX8OPuf-w_66",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Which text element in the scene serves as a watermark or thematic reference?",
+            "options": [
+                "A. The faint 'NEW YORK' text in the lower right corner serves as a watermark or thematic reference.",
+                "B. The phrase 'SOON AFTER!' written on the top layer of paper serves as a thematic reference.",
+                "C. The sketch cutout of the Statue of Liberty on the left serves as a watermark.",
+                "D. The dotted pattern on the pink triangular cutout acts as a thematic reference."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_67": {
+            "id": "HIjX8OPuf-w_67",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the roasted brown potato on the plate?",
+            "options": [
+                "A. The roasted brown potato is on the left, slightly garnished.",
+                "B. The roasted brown potato is on the right, slightly garnished.",
+                "C. The roasted brown potato is in the middle, slightly garnished.",
+                "D. The roasted brown potato is under the minced meat."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_68": {
+            "id": "HIjX8OPuf-w_68",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the minced dark meat located in the dish?",
+            "options": [
+                "A. Minced dark meat with translucent sautéed onions is on the left.",
+                "B. Minced dark meat with translucent sautéed onions is on the right.",
+                "C. Minced dark meat with translucent sautéed onions is in the middle.",
+                "D. Minced dark meat with translucent sautéed onions is on the top."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_69": {
+            "id": "HIjX8OPuf-w_69",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "How is the overall environment of this scene?",
+            "options": [
+                "A. The environment is rich in themes and full of cultural elements.",
+                "B. The environment is monotonous and boring, completely lacking any cultural or artistic references.",
+                "C. The environment is chaotic, with food scattered everywhere and no clear focus.",
+                "D. The environment is entirely focused on cooking techniques, with no cultural elements."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_70": {
+            "id": "HIjX8OPuf-w_70",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What did the hands do to the black liquid in the video?",
+            "options": [
+                "A. The hands poured the black liquid into a larger bowl.",
+                "B. The hands stirred the black liquid with a spoon.",
+                "C. The hands dropped the bowl containing the black liquid.",
+                "D. The hands mixed the black liquid with the food on the plate."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_71": {
+            "id": "HIjX8OPuf-w_71",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What will the hands do after pouring in the dark liquid?",
+            "options": [
+                "A. The hands move back, revealing the finished dish.",
+                "B. The hands start stirring the ingredients in the bowl.",
+                "C. The hands place decorations on the dish.",
+                "D. The hands rearrange the fries on the wrapping paper."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_72": {
+            "id": "HIjX8OPuf-w_72",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is the notable feature of the large ceramic bowl?",
+            "options": [
+                "A. The large ceramic bowl is white with blue edges.",
+                "B. The large ceramic bowl is blue with white edges.",
+                "C. The large ceramic bowl is completely white.",
+                "D. The large ceramic bowl is completely blue."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_73": {
+            "id": "HIjX8OPuf-w_73",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many main food components are in this dish?",
+            "options": [
+                "A. There is one main food component in this dish.",
+                "B. There are two main food components in this dish.",
+                "C. There are three main food components in this dish.",
+                "D. There are four main food components in this dish."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_74": {
+            "id": "HIjX8OPuf-w_74",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is the main food component of this dish?",
+            "options": [
+                "A. Roasted potatoes and sautéed onions with minced meat",
+                "B. Roasted chicken and steamed vegetables",
+                "C. Grilled fish and mashed potatoes",
+                "D. Fried rice and spring rolls"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_75": {
+            "id": "HIjX8OPuf-w_75",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Will contact with this paper affect the presentation of the food?",
+            "options": [
+                "A. Yes, this contact significantly interfered with the presentation of the food.",
+                "B. No, this will not affect the presentation of the food.",
+                "C. The food was slightly interfered with, but overall it was basically unaffected.",
+                "D. Contact with the paper removed the food from the scene."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_76": {
+            "id": "HIjX8OPuf-w_76",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What will the hands do after the food is ready?",
+            "options": [
+                "A. The hands interact with a piece of paper to rearrange elements in the scene.",
+                "B. The hands start portioning the food onto plates for presentation.",
+                "C. The hands add more seasoning to enhance the flavor.",
+                "D. The hands take the fries out of the packaging and place them next to the dish."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_77": {
+            "id": "HIjX8OPuf-w_77",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "Which direction is the small bowl moved out of the video?",
+            "options": [
+                "A. The small bowl is moved out upwards.",
+                "B. The small bowl is moved out downwards.",
+                "C. The small bowl is moved out to the left.",
+                "D. The small bowl is moved out to the right."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_78": {
+            "id": "HIjX8OPuf-w_78",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "After pouring the liquid into a larger bowl, what key change occurred in the scene?",
+            "options": [
+                "A. The focus shifted from the active preparation of food to showcasing the finished dish.",
+                "B. The focus shifted from the finished dish to the cultural illustrations in the background.",
+                "C. The focus shifted from the finished dish to the interaction between people and paper.",
+                "D. The focus shifted from cultural illustrations to active food preparation."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_79": {
+            "id": "HIjX8OPuf-w_79",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What cultural elements provide additional context for the scene?",
+            "options": [
+                "A. Ornate ceramic bowls and baked potatoes",
+                "B. Cartoon characters and stationery pens",
+                "C. The Statue of Liberty and the flags of the United States and Hungary",
+                "D. Wrapping paper for fried foods and pens on the table"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_80": {
+            "id": "HIjX8OPuf-w_80",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the black pen positioned in relation to the bowl on the table?",
+            "options": [
+                "A. The black pen is on the left side of the table, near the bowl.",
+                "B. The black pen is placed directly to the right of the bowl.",
+                "C. The black pen is stacked on the documents under the bowl.",
+                "D. The black pen is in the bowl filled with beans and potato chunks."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_81": {
+            "id": "HIjX8OPuf-w_81",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the environment like in this scene?",
+            "options": [
+                "A. The scene features a black tabletop with a fixed bowl filled with black meat and roasted potato chunks, under the spotlight.",
+                "B. The scene features a white tabletop with a fixed bowl filled with colorful vegetables, under dim lighting.",
+                "C. The scene features a black tabletop with fruits and a vase, under bright lighting.",
+                "D. The scene features a wooden tabletop with a fixed bowl filled with pasta, under a spotlight."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_82": {
+            "id": "HIjX8OPuf-w_82",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What is the hand doing with the white paper in the video?",
+            "options": [
+                "A. The hand is deliberately folding or wrapping a slightly crumpled white paper over a bowl.",
+                "B. The hand is writing on a slightly crumpled white paper with a black pen.",
+                "C. The hand is drawing cartoon-like patterns on a slightly crumpled white paper.",
+                "D. The hand is tearing the slightly crumpled white paper into small pieces."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_83": {
+            "id": "HIjX8OPuf-w_83",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "How is the content in the bowl presented?",
+            "options": [
+                "A. Their earthy tones are highlighted under the soft overhead lighting.",
+                "B. They are covered in shadows, making them hard to distinguish.",
+                "C. They are presented in vibrant artificial colors.",
+                "D. They are completely wrapped in white paper."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_84": {
+            "id": "HIjX8OPuf-w_84",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "Is there an illustration of a cityscape in this scene?",
+            "options": [
+                "A. No, the scene does not depict any cityscape illustrations.",
+                "B. Yes, there is an illustration of a cityscape with skyscrapers at the right edge of the picture.",
+                "C. Yes, there is an illustration of a cityscape next to the brown paper bag full of fries.",
+                "D. No, there is a cutout resembling a cartoon Statue of Liberty in the scene, but no cityscape illustration."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_85": {
+            "id": "HIjX8OPuf-w_85",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the left hand perform on the paper?",
+            "options": [
+                "A. The left hand pressed the edge of the slightly crumpled white paper.",
+                "B. The left hand folded the paper into a small square.",
+                "C. The left hand tore the paper into strips.",
+                "D. The left hand wrote on the paper with a pen."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_86": {
+            "id": "HIjX8OPuf-w_86",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the brown paper bag with French fries in relation to the bowl?",
+            "options": [
+                "A. The brown paper bag with French fries is on the left side of the bowl, right next to it.",
+                "B. The brown paper bag with French fries is below the bowl, slightly to the right.",
+                "C. The brown paper bag with French fries is at the upper left corner of the bowl.",
+                "D. The brown paper bag with French fries is at the lower right corner of the bowl."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_87": {
+            "id": "HIjX8OPuf-w_87",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What is the purpose of an overhead shot?",
+            "options": [
+                "A. It provides details of food, objects, and hand movements while emphasizing compositional elements.",
+                "B. Creates a dramatic effect by focusing on shadows and blurring certain elements of the scene.",
+                "C. Highlights the depth and three-dimensional aspects of objects in the composition.",
+                "D. Blurs unnecessary details, only emphasizing the background scenery."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_88": {
+            "id": "HIjX8OPuf-w_88",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What text can be seen on the desktop?",
+            "options": [
+                "A. Elegantly written 'New York' at the bottom right corner of the black table.",
+                "B. 'Manhattan' is written in the center of the table.",
+                "C. 'Welcome to New York' is engraved on the desktop.",
+                "D. 'Cityscape' is marked at the top left corner of the table."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_89": {
+            "id": "HIjX8OPuf-w_89",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the stack of white paper placed on the dark-colored desktop?",
+            "options": [
+                "A. The stack of white paper is located in the middle of the right side of the dark-colored desktop.",
+                "B. The stack of white paper is located in the upper left corner of the dark-colored desktop.",
+                "C. The stack of white paper is located in the middle of the left side of the dark-colored desktop.",
+                "D. The stack of white paper is located near the lower right corner of the dark-colored desktop."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_90": {
+            "id": "HIjX8OPuf-w_90",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What does the left hand do when it enters the scene?",
+            "options": [
+                "A. The left hand holds the paper in place.",
+                "B. The left hand draws a shape on the paper.",
+                "C. The left hand removes the bowl from the scene.",
+                "D. The left hand adds dots to the sketch."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_91": {
+            "id": "HIjX8OPuf-w_91",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What is the right hand doing when it enters the scene?",
+            "options": [
+                "A. The right hand organized that stack of white paper.",
+                "B. The right hand picked up the container of French fries.",
+                "C. The right hand is holding a black ballpoint pen.",
+                "D. The right hand moved the black marker to the right side of the table."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_92": {
+            "id": "HIjX8OPuf-w_92",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many writing tools can be seen on the desk?",
+            "options": [
+                "A. Two writing tools",
+                "B. Three writing tools",
+                "C. Four writing tools",
+                "D. Five writing tools"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_93": {
+            "id": "HIjX8OPuf-w_93",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Can the text 'NEW YORK' be seen in the scene?",
+            "options": [
+                "A. Yes, the text 'NEW YORK' can be seen in the bottom right corner.",
+                "B. No, the text 'NEW YORK' cannot be seen in the scene.",
+                "C. Yes, the text 'NEW YORK' can be seen in the top left corner.",
+                "D. No, the text 'NEW YORK' only appears briefly."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_94": {
+            "id": "HIjX8OPuf-w_94",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What action is the right hand performing on the paper?",
+            "options": [
+                "A. The right hand erases the marks on the paper.",
+                "B. The right hand draws an incomplete shape on the topmost paper.",
+                "C. The right hand folds the paper into a smaller size.",
+                "D. The right hand flips through the stack of papers."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_95": {
+            "id": "HIjX8OPuf-w_95",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of lens is used to capture the workspace?",
+            "options": [
+                "A. The camera lens is fixed, with a consistent angle, providing a detailed and unobstructed view of the workspace.",
+                "B. The camera lens dynamically switches, capturing different angles of the workspace.",
+                "C. The camera lens is handheld, giving the video a shaky and lively feel.",
+                "D. The camera lens frequently zooms in and out, focusing on specific elements of the workspace."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_96": {
+            "id": "HIjX8OPuf-w_96",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "How did the inscription 'MANHATTAN!' evolve over time?",
+            "options": [
+                "A. Each time the paper is touched, the inscription 'MANHATTAN!' becomes clearer and more prominent.",
+                "B. As the paper is manipulated, the inscription 'MANHATTAN!' gradually fades away.",
+                "C. Throughout the entire scene, the inscription 'MANHATTAN!' remains static and unchanged.",
+                "D. During the activity, the inscription 'MANHATTAN!' transforms into a completely different word."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_97": {
+            "id": "HIjX8OPuf-w_97",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the position of the red, white, and blue tricolor flag relative to the paper?",
+            "options": [
+                "A. The red, white, and blue tricolor flag is on the left side of the paper.",
+                "B. The red, white, and blue tricolor flag is above the paper.",
+                "C. The red, white, and blue tricolor flag is on the right side of the paper.",
+                "D. The red, white, and blue tricolor flag is below the paper."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_98": {
+            "id": "HIjX8OPuf-w_98",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the human hand perform with the pen?",
+            "options": [
+                "A. The human hand held the gray pen and sketched.",
+                "B. The human hand drew the Statue of Liberty on a napkin with a black marker.",
+                "C. The human hand held a brown pen and wrote the word 'New York' on a plate of fries.",
+                "D. The human hand placed the gray pen horizontally on the napkin without sketching anything."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_99": {
+            "id": "HIjX8OPuf-w_99",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What action did human hands perform on paper?",
+            "options": [
+                "A. Human hands sketched the outline of Manhattan on a napkin.",
+                "B. Human hands arranged paper cutouts of the Statue of Liberty and the American flag.",
+                "C. Human hands drew the symbol of New York in the lower right corner.",
+                "D. Human hands arranged french fries on a brown paper tray."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_100": {
+            "id": "HIjX8OPuf-w_100",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What was drawn on the paper at the beginning of the scene?",
+            "options": [
+                "A. The outline of Manhattan",
+                "B. The outline of the continental United States",
+                "C. A detailed sketch of the Statue of Liberty",
+                "D. A map of the subway system"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_101": {
+            "id": "HIjX8OPuf-w_101",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What other markings are on the paper map?",
+            "options": [
+                "A. There is a prominent red dot at the lower end of the Manhattan outline.",
+                "B. There are green lines along the edge of the paper map.",
+                "C. A blue river is drawn next to Manhattan.",
+                "D. There is a golden circle near the top of the Manhattan outline."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_102": {
+            "id": "HIjX8OPuf-w_102",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What word is written on the paper?",
+            "options": [
+                "A. BROOKLYN",
+                "B. NEW YORK",
+                "C. MANHATTAN",
+                "D. QUEENS"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_103": {
+            "id": "HIjX8OPuf-w_103",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Is the word 'MANHATTAN' written in lowercase letters on the paper?",
+            "options": [
+                "A. Yes, the word 'MANHATTAN' is written in lowercase letters.",
+                "B. No, the word 'MANHATTAN' is written in uppercase letters.",
+                "C. Yes, the word 'MANHATTAN' is not written at all.",
+                "D. No, the word 'MANHATTAN' is written in cursive."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_104": {
+            "id": "HIjX8OPuf-w_104",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "After the scene is depicted, what will the left hand do?",
+            "options": [
+                "A. The left hand will place the paper-cut illustration of the Statue of Liberty on the left side of the napkin.",
+                "B. The left hand will remove a paper-cut of the American flag from the napkin.",
+                "C. The left hand will start drawing a red dot on the sketch of Manhattan.",
+                "D. The left hand will place the paper-cut on the right side of the napkin."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_105": {
+            "id": "HIjX8OPuf-w_105",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "Which direction should the right hand move to add the silhouette of the American flag to the paper?",
+            "options": [
+                "A. Move the right hand to the upper right corner of the picture.",
+                "B. Move the right hand to the lower left corner of the picture.",
+                "C. Move the right hand to the upper left corner of the picture.",
+                "D. Move the right hand to the lower right corner of the picture."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_106": {
+            "id": "HIjX8OPuf-w_106",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle can capture this scene?",
+            "options": [
+                "A. An overhead angle captures this scene.",
+                "B. A ground-level horizontal angle captures this scene.",
+                "C. A side view angle captures this scene.",
+                "D. A close-up shot captures this scene."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_107": {
+            "id": "HIjX8OPuf-w_107",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What changes occur when adding paper-cut elements to the paper?",
+            "options": [
+                "A. When adding paper-cut elements, the positions of these elements themselves remain unchanged.",
+                "B. When adding paper-cut elements, all elements on the table are rearranged.",
+                "C. When adding paper-cut elements, no changes are observed in the scene.",
+                "D. When adding paper-cut elements, it causes all elements to frequently change positions."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_108": {
+            "id": "HIjX8OPuf-w_108",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "How did the paper background design start for this scene?",
+            "options": [
+                "A. The paper background design starts with a rough outline of Manhattan.",
+                "B. The paper background design starts with an outline of the Statue of Liberty.",
+                "C. The paper background design starts with a sketch of the American flag.",
+                "D. The paper background design starts with a map of the continental United States."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_109": {
+            "id": "HIjX8OPuf-w_109",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What additional elements are included in this scene's paper design?",
+            "options": [
+                "A. The paper design includes additional cutouts of the Statue of Liberty and the American flag.",
+                "B. The paper design includes additional cutouts of the Empire State Building and a slice of pizza.",
+                "C. The paper design includes additional cutouts of Central Park and the Brooklyn Bridge.",
+                "D. The paper design includes additional cutouts of the Chrysler Building and a taxi."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_110": {
+            "id": "HIjX8OPuf-w_110",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the Statue of Liberty paper cutout located on the map?",
+            "options": [
+                "A. Located on the left side of the map.",
+                "B. Located at the top of the map.",
+                "C. Located on the right side of the map.",
+                "D. Located at the bottom of the map."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_111": {
+            "id": "HIjX8OPuf-w_111",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What action does the human arm perform when it re-enters the scene?",
+            "options": [
+                "A. The human arm rearranges the red dots on the map.",
+                "B. The human arm moves the red square object.",
+                "C. The human arm grabs a yellow-green object.",
+                "D. The human arm picks up fries from the top left corner."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_112": {
+            "id": "HIjX8OPuf-w_112",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What is at the bottom layer of the food pile in the center of the map?",
+            "options": [
+                "A. A slice of potato or bread",
+                "B. A piece of cheese",
+                "C. A slice of tomato",
+                "D. A slice of lettuce"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_113": {
+            "id": "HIjX8OPuf-w_113",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What is on top of the food stack in the center of the map?",
+            "options": [
+                "A. A slice of bread",
+                "B. A piece of cheese",
+                "C. A crunchy item",
+                "D. A cherry"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_114": {
+            "id": "HIjX8OPuf-w_114",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "Is the lighting in the scene glaring and shadowy?",
+            "options": [
+                "A. Yes, the lighting is glaring and creates strong shadows.",
+                "B. No, the lighting is soft and natural, without glaring shadows.",
+                "C. Yes, the lighting is dim and creates heavy shadows.",
+                "D. No, the lighting is too bright, causing glare."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_115": {
+            "id": "HIjX8OPuf-w_115",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "After the human arm interacts with the red square paper cut, in which direction does the arm move?",
+            "options": [
+                "A. The human arm moves up and to the right.",
+                "B. The human arm moves down and to the left.",
+                "C. The human arm moves directly upward.",
+                "D. The human arm moves directly to the left."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_116": {
+            "id": "HIjX8OPuf-w_116",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the scene environment described in the video?",
+            "options": [
+                "A. The scene is a tidy workspace with a black desktop.",
+                "B. The scene is a cluttered bedroom with a wooden desk.",
+                "C. The scene is a kitchen with various cooking materials.",
+                "D. The scene is a living room with a coffee table and sofa."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_117": {
+            "id": "HIjX8OPuf-w_117",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What action are the hands doing in this scene?",
+            "options": [
+                "A. The hands lift the top layer of paper, partially exposing the layer beneath.",
+                "B. The hands crumple the top layer of paper and throw it aside.",
+                "C. The hands draw on the top layer of paper with a black ink pen.",
+                "D. The hands move the kitchen timer from the left side of the frame."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_118": {
+            "id": "HIjX8OPuf-w_118",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "In the hamburger paper-cut illustration, what is the unique feature of the bread?",
+            "options": [
+                "A. The bread is smooth.",
+                "B. The bread has spots.",
+                "C. The bread has stripes.",
+                "D. The bread is simple."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_119": {
+            "id": "HIjX8OPuf-w_119",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What does the patty look like in the hamburger paper-cut illustration?",
+            "options": [
+                "A. The patty is reddish-brown.",
+                "B. The patty is bright pink.",
+                "C. The patty is yellow.",
+                "D. The patty is green."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_120": {
+            "id": "HIjX8OPuf-w_120",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What is the color at the bottom of the hamburger paper-cut illustration?",
+            "options": [
+                "A. Light pink",
+                "B. Dark brown",
+                "C. Yellow",
+                "D. White"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_121": {
+            "id": "HIjX8OPuf-w_121",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the hand perform at the end of the previous scene?",
+            "options": [
+                "A. The hand lifted the top sheet of paper and deliberately folded it.",
+                "B. The hand crumpled the paper and threw it away.",
+                "C. The hand drew a new illustration on the paper.",
+                "D. The hand moved a stack of paper to the side."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_122": {
+            "id": "HIjX8OPuf-w_122",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What does lifting the top layer of paper in the previous scene imply?",
+            "options": [
+                "A. It implies exploring or progressing by revealing new content hidden underneath.",
+                "B. It implies an effort to completely reorganize the stack of papers.",
+                "C. It means the paper is being discarded because it is unimportant.",
+                "D. It indicates the paper is being torn, showing frustration."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_123": {
+            "id": "HIjX8OPuf-w_123",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "In the previous scene, in which direction did the hand move the top sheet of paper?",
+            "options": [
+                "A. The hand moved the top sheet of paper upwards.",
+                "B. The hand moved the top sheet of paper downwards.",
+                "C. The hand moved the top sheet of paper to the left.",
+                "D. The hand moved the top sheet of paper to the right."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_124": {
+            "id": "HIjX8OPuf-w_124",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "Where does the painting scene take place?",
+            "options": [
+                "A. The painting scene takes place on a smooth black tabletop.",
+                "B. The painting scene takes place on a wooden table.",
+                "C. The painting scene takes place on a glass table.",
+                "D. The painting scene takes place on a white marble countertop."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_125": {
+            "id": "HIjX8OPuf-w_125",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the left hand of the person doing in this scene?",
+            "options": [
+                "A. The left hand is holding a pen.",
+                "B. The left hand is drawing eyebrows.",
+                "C. The left hand is steadying the paper.",
+                "D. The left hand is holding French fries."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_126": {
+            "id": "HIjX8OPuf-w_126",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the person's right hand doing in this scene?",
+            "options": [
+                "A. The right hand is holding the paper in place.",
+                "B. The right hand is sketching a male figure.",
+                "C. The right hand is preparing to write below the sketch.",
+                "D. The right hand is placing fries on the table."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_127": {
+            "id": "HIjX8OPuf-w_127",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What is the handwritten text below the male sketch on the left side of the paper?",
+            "options": [
+                "A. It is 'Fleck DAVIS'.",
+                "B. It is 'John SMITH'.",
+                "C. It is 'Mark LEE'.",
+                "D. It is 'Alex BROWN'."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_128": {
+            "id": "HIjX8OPuf-w_128",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "What action does the left hand perform in this scene to ensure a firmer grip on the paper?",
+            "options": [
+                "A. The left hand moves downward and pinches the paper between the thumb and index finger to secure it.",
+                "B. The left hand moves slightly upward, spreading the thumb and index finger to grip the paper more firmly.",
+                "C. The left hand twists to one side, using the palm to secure the paper.",
+                "D. The left hand presses the paper with the fingertips to stabilize it."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_129": {
+            "id": "HIjX8OPuf-w_129",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What kind of shadow does soft, diffused light cast?",
+            "options": [
+                "A. Sharp and clear shadow",
+                "B. Large and overwhelming shadow",
+                "C. Soft, diffused light casts very small shadows",
+                "D. Bright and colorful shadow"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_130": {
+            "id": "HIjX8OPuf-w_130",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "How does the depiction on the paper evolve over time?",
+            "options": [
+                "A. Gradually develops into detailed depictions of mature male faces.",
+                "B. Gradually develops into a detailed landscape painting, including trees, mountains, and a river.",
+                "C. Develops into an abstract geometric design, featuring circles and rectangles.",
+                "D. Develops into a depiction of a young woman with flowing hair and intricate jewelry."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_131": {
+            "id": "HIjX8OPuf-w_131",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements help in understanding this scene event?",
+            "options": [
+                "A. Handwritten text 'Fleck DAVIS'.",
+                "B. The cream-colored pen helps in understanding the scene event.",
+                "C. 'BTW1885+1990!' text label.",
+                "D. 'New York' watermark."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_132": {
+            "id": "HIjX8OPuf-w_132",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "Where is the relative position of 'Charlie Nagreen' to 'Fletch Davis'?",
+            "options": [
+                "A. 'Charlie Nagreen' is above 'Fletch Davis'.",
+                "B. 'Charlie Nagreen' is to the left of 'Fletch Davis'.",
+                "C. 'Charlie Nagreen' is below 'Fletch Davis'.",
+                "D. 'Charlie Nagreen' is to the right of 'Fletch Davis'."
+            ],
+            "answer": "D"
+        },
+        "HIjX8OPuf-w_133": {
+            "id": "HIjX8OPuf-w_133",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the comic image of 'Fletch Davis'?",
+            "options": [
+                "A. A bold image, simple mustache and short hair",
+                "B. A whimsical bow tie, a pointed hat, and an elongated face",
+                "C. Two cartoon figures wearing top hats",
+                "D. A rectangular card with a red building, black border, and black text"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_134": {
+            "id": "HIjX8OPuf-w_134",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What are the key features of the paper cutouts introduced in this scene?",
+            "options": [
+                "A. The paper cutout is rectangular, with red windows and a red door, and black text 'Lou's Lunch' at the top.",
+                "B. The paper cutout is square, featuring a blue building with a white frame and red text 'Lou's Cafe' at the bottom.",
+                "C. The paper cutout is rectangular, depicting a red building with blue windows and white text 'Lou's Diner' on the left.",
+                "D. The paper cutout is circular, containing an image of a red barn with black text 'Lou's Place' in the middle."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_135": {
+            "id": "HIjX8OPuf-w_135",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many character sketch subjects are on the paper?",
+            "options": [
+                "A. There are two.",
+                "B. There are three.",
+                "C. There are four.",
+                "D. There are five."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_136": {
+            "id": "HIjX8OPuf-w_136",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "Who are the characters depicted on the paper?",
+            "options": [
+                "A. 'Fletch Davis,' 'Charlie Nagreen,' and 'Menches Bros.'",
+                "B. 'Lou's Lunch,' 'Charlie Nagreen,' and 'Menches Bros.'",
+                "C. 'Fletch Davis,' 'Lou's Lunch,' and 'Charlie Nagreen.'",
+                "D. 'Fletch Davis,' 'Menches Bros.,' and 'Lou's Lunch.'"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_137": {
+            "id": "HIjX8OPuf-w_137",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "Is the text 'Menches Bros.' complete at the end of this scene?",
+            "options": [
+                "A. Yes, the text 'Menches Bros.' is complete at the end of the video.",
+                "B. No, the text 'Menches Bros.' is incomplete at the end of the video.",
+                "C. The text 'Menches Bros.' is still being drawn at the end of the video.",
+                "D. The text 'Menches Bros.' has disappeared at the end of the video."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_138": {
+            "id": "HIjX8OPuf-w_138",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "What happens when the hand introduces the paper cut into the scene?",
+            "options": [
+                "A. It partially covers the sketch of 'Charlie Nagreen' and temporarily dominates the central composition.",
+                "B. It completely covers the cartoon portrait of 'Fletch Davis' and remains indefinitely at the center.",
+                "C. It only touches the edge of the paper and never covers other elements.",
+                "D. It adds a cartoon portrait to the top of the page and changes the entire layout."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_139": {
+            "id": "HIjX8OPuf-w_139",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "What happens to the focus of the sketch pad after removing the cut-out paper?",
+            "options": [
+                "A. The paper is hidden under the fries.",
+                "B. The sketch figure in the paper regains focus.",
+                "C. The hamburger becomes the new focus.",
+                "D. The fries fall onto the paper."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_140": {
+            "id": "HIjX8OPuf-w_140",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "Which type of lens is used for capturing details of the sketchbook and workspace arrangement?",
+            "options": [
+                "A. Use a static lens to clearly capture the details of the sketch and surrounding workspace elements.",
+                "B. Use a dynamic panning lens to focus on various parts of the workspace and sketchbook.",
+                "C. Use close-up shots only for character illustrations, without including surrounding workspace elements.",
+                "D. Use a high-angle overhead lens for a bird’s-eye view, emphasizing the layout of the workspace."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_141": {
+            "id": "HIjX8OPuf-w_141",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "How does the rhythm of adding new elements to the scene compare to the attention given to existing illustrations?",
+            "options": [
+                "A. The addition of new elements contrasts with the steady and refined attention to existing illustrations.",
+                "B. The addition of new elements is very rushed, completely overshadowing the existing illustrations.",
+                "C. The rhythm of adding new elements remains unchanged, showing no significant difference compared to the existing illustrations.",
+                "D. The addition of new elements has completely stopped, with the focus solely on perfecting the existing illustrations."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_142": {
+            "id": "HIjX8OPuf-w_142",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "During the depiction process, what changes occurred to the outline of 'Menches Bros.'?",
+            "options": [
+                "A. Completely redrawn.",
+                "B. Turned into a color illustration.",
+                "C. No changes occurred.",
+                "D. Completely removed."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_143": {
+            "id": "HIjX8OPuf-w_143",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "In this scene, where is the hamburger located in the pile of white paper?",
+            "options": [
+                "A. The hamburger is in the middle of the pile of white paper.",
+                "B. The hamburger is on the left side of the pile of white paper.",
+                "C. The hamburger is below the pile of white paper.",
+                "D. The hamburger is on the right side of the pile of white paper."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_144": {
+            "id": "HIjX8OPuf-w_144",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "In this scenario, what is the right hand holding the black pen doing to the paper?",
+            "options": [
+                "A. The right hand is actively writing or drawing on the paper.",
+                "B. The right hand is erasing the sketch on the paper.",
+                "C. The right hand is flipping through the paper.",
+                "D. The right hand is organizing the paper."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_145": {
+            "id": "HIjX8OPuf-w_145",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What elements can be seen in the first layer of the hamburger in this scene?",
+            "options": [
+                "A. Bread, cheese, tomatoes, and patty.",
+                "B. Bread, tomatoes, onions, and bacon.",
+                "C. Bread, cheese, tomatoes, and lettuce.",
+                "D. Bread, chicken, lettuce, and cheese."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_146": {
+            "id": "HIjX8OPuf-w_146",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many hands touched the burger in this scene?",
+            "options": [
+                "A. One hand touched the burger.",
+                "B. Two hands touched the burger.",
+                "C. Three hands touched the burger.",
+                "D. No hands touched the burger."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_147": {
+            "id": "HIjX8OPuf-w_147",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "In this scene, is the text 'NINETEEN TWENTY!' always visible on the paper?",
+            "options": [
+                "A. Yes, in the video, the text 'NINETEEN TWENTY!' is always visible on the paper.",
+                "B. No, the text 'NINETEEN TWENTY!' is only briefly visible at the beginning of the video.",
+                "C. No, the text 'NINETEEN TWENTY!' only appears at the end of the video.",
+                "D. Yes, but the text 'NINETEEN TWENTY!' is only intermittently visible in the video."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_148": {
+            "id": "HIjX8OPuf-w_148",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "From which direction does the hand that appears later interact with the burger in this scene?",
+            "options": [
+                "A. The hand that appears later seems to interact with the burger from the left side of the screen.",
+                "B. The hand that appears later seems to interact with the burger from the right side of the screen.",
+                "C. The hand that appears later seems to interact with the burger from above the screen.",
+                "D. The hand that appears later seems to interact with the burger from below the screen."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_149": {
+            "id": "HIjX8OPuf-w_149",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "What happened to the position of the hamburger at the end of the scene?",
+            "options": [
+                "A. The hamburger is located in the central position.",
+                "B. The hamburger was moved to the top left corner.",
+                "C. The hamburger completely disappeared.",
+                "D. The hamburger remained unchanged throughout the process."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_150": {
+            "id": "HIjX8OPuf-w_150",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "At the end of the scene, which ingredient is added to the partially assembled burger?",
+            "options": [
+                "A. A slice of avocado is added on top of the cheese.",
+                "B. Crispy bacon strips are added on top of the cheese.",
+                "C. Onion rings are added on top of the red tomato.",
+                "D. A layer of caramelized onions is added on top of the cheese."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_151": {
+            "id": "HIjX8OPuf-w_151",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What illustration is on the white paper?",
+            "options": [
+                "A. There is an illustration of a castle on the white paper.",
+                "B. There is an illustration of a forest on the white paper.",
+                "C. There is an illustration of a beach on the white paper.",
+                "D. There is an illustration of a cityscape on the white paper."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_152": {
+            "id": "HIjX8OPuf-w_152",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What is the text content on the white paper in this scene?",
+            "options": [
+                "A. The text is 'TWENTY FIFTEEN!'.",
+                "B. The text is 'EIGHTEEN NINETY!'.",
+                "C. The text is 'NINETEEN TWENTY!'.",
+                "D. The text is 'TWENTY TEN'."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_153": {
+            "id": "HIjX8OPuf-w_153",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "Are there any other signs in this scene?",
+            "options": [
+                "A. There is a 'NEW YORK' sign at the bottom right corner.",
+                "B. There is a 'PARIS' sign at the top left corner.",
+                "C. There is a 'LONDON' sign in the center.",
+                "D. There is a 'TOKYO' sign at the bottom left corner."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_154": {
+            "id": "HIjX8OPuf-w_154",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "What do the two hands do together at the end of this scene?",
+            "options": [
+                "A. The two hands wrapped the hamburger with white paper.",
+                "B. The two hands prepared golden fries and placed them in a container.",
+                "C. The two hands wrote on the white paper with a black pen.",
+                "D. The two hands repositioned the hamburger on the paper."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_155": {
+            "id": "HIjX8OPuf-w_155",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many hands interact with the paper in the video?",
+            "options": [
+                "A. One hand interacts with the paper.",
+                "B. Two hands interact with the paper.",
+                "C. Three hands interact with the paper.",
+                "D. No hands interact with the paper."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_156": {
+            "id": "HIjX8OPuf-w_156",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many hands interact with the burger in the video?",
+            "options": [
+                "A. Two hands interact with the burger.",
+                "B. One hand interacts with the burger.",
+                "C. Three hands interact with the burger.",
+                "D. No hands interact with the burger."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_157": {
+            "id": "HIjX8OPuf-w_157",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "Was the black pen moved in the video?",
+            "options": [
+                "A. Yes, the black pen was moved several times.",
+                "B. No, the black pen was not moved at all.",
+                "C. Yes, the black pen was slightly repositioned.",
+                "D. No, the black pen was removed from the frame."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_158": {
+            "id": "HIjX8OPuf-w_158",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "What did the hand do with the white paper in the latter part of the scene?",
+            "options": [
+                "A. The hand gently held the white paper and used it to wrap the burger.",
+                "B. The hand tore the white paper into small pieces and scattered them.",
+                "C. The hand picked up the white paper and moved it out of the scene.",
+                "D. The hand placed more fries on the white paper."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_159": {
+            "id": "HIjX8OPuf-w_159",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "What changes occur to the paper under the hamburger at the end of this scene?",
+            "options": [
+                "A. The paper wrapping the hamburger is removed.",
+                "B. The paper's position remains unchanged.",
+                "C. The paper is crumpled into a ball.",
+                "D. The paper is folded into a triangle."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_160": {
+            "id": "HIjX8OPuf-w_160",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What in the video suggests that the scene is set in New York?",
+            "options": [
+                "A. The 'NEW YORK' label on the bottom right corner of the white paper suggests that the video is set in New York.",
+                "B. The illustration of a castle and dragon on the white paper suggests that the video is set in New York.",
+                "C. The golden fries wrapped in white paper suggest that the video is set in New York.",
+                "D. The interaction between the hands and the burger suggests that the video is set in New York."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_161": {
+            "id": "HIjX8OPuf-w_161",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "What unique features does the left hand have?",
+            "options": [
+                "A. The left hand has long nails, used for writing.",
+                "B. The left hand has short nails, used for holding paper.",
+                "C. The left hand has a tattoo, used for adjusting paper.",
+                "D. The left hand wears a ring, used for adding text."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_162": {
+            "id": "HIjX8OPuf-w_162",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "What are the unique characteristics of the right hand?",
+            "options": [
+                "A. The right hand writes with a shiny black pen.",
+                "B. The right hand uses short nails to hold the paper.",
+                "C. The right hand is used to hold fries.",
+                "D. The right hand places the pen diagonally on the table."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_163": {
+            "id": "HIjX8OPuf-w_163",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "How many hands are used in collaborative writing?",
+            "options": [
+                "A. One hand",
+                "B. Two hands",
+                "C. Three hands",
+                "D. Four hands"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_164": {
+            "id": "HIjX8OPuf-w_164",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "Is the text 'VIDEO BY Jorge Corona' crossed out?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only partially",
+                "D. It is underlined"
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_165": {
+            "id": "HIjX8OPuf-w_165",
+            "scene": 9,
+            "dimension": "Object Direction",
+            "question": "How to adjust the position of the left hand when writing?",
+            "options": [
+                "A. As writing progresses, the left hand moves downward to hold the paper more steadily.",
+                "B. As writing progresses, the left hand moves upward to hold the paper more steadily.",
+                "C. The left hand moves to the right to hold the pen while writing.",
+                "D. The left hand remains stationary and does not adjust its position during writing."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_166": {
+            "id": "HIjX8OPuf-w_166",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the right hand perform in this scene?",
+            "options": [
+                "A. The right hand held the paper in place.",
+                "B. The right hand wrote down text with a pen.",
+                "C. The right hand wiped the surface.",
+                "D. The right hand adjusted the fries."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_167": {
+            "id": "HIjX8OPuf-w_167",
+            "scene": 9,
+            "dimension": "Speed",
+            "question": "How is the speed of writing described in the video?",
+            "options": [
+                "A. The writing progresses quickly.",
+                "B. The writing is completed instantly.",
+                "C. The writing proceeds gradually.",
+                "D. The writing is not completed."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_168": {
+            "id": "HIjX8OPuf-w_168",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "How does the development of writing align with video content?",
+            "options": [
+                "A. Writing shows the development of new information over time.",
+                "B. Writing remains static and unchanged throughout the video.",
+                "C. Writing focuses primarily on decorative elements rather than content.",
+                "D. Writing introduces random vocabulary without apparent progress."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_169": {
+            "id": "HIjX8OPuf-w_169",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "What significant change occurs to the text on the paper near the end of the video?",
+            "options": [
+                "A. The text changes to a single line, 'NYmag.com', with a check mark next to it.",
+                "B. All the text on the paper is erased, leaving it completely blank and untouched.",
+                "C. The text changes to a detailed list of tasks to be completed, written in blue ink.",
+                "D. The text changes to bold 'VIDEO BY Jorge Corona', with no other markings."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_170": {
+            "id": "HIjX8OPuf-w_170",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "What visual elements enhance the professional atmosphere of the workspace?",
+            "options": [
+                "A. The subtle 'NEW YORK' watermark on the sleek black desktop.",
+                "B. The casually placed fries in the upper left corner.",
+                "C. The angled position of the metallic beige pen.",
+                "D. Maintaining a stable overhead camera angle."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_171": {
+            "id": "HIjX8OPuf-w_171",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "Where is the handwritten text located?",
+            "options": [
+                "A. The handwritten text is completely hidden under the burger.",
+                "B. The handwritten text is placed above the sandwich and burger.",
+                "C. The handwritten text is partially obscured by the burger.",
+                "D. The handwritten text is horizontally placed near the bottom right corner."
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_172": {
+            "id": "HIjX8OPuf-w_172",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "How is the overall environment of this scene?",
+            "options": [
+                "A. The environment has turned into a visually appealing display, mainly focusing on food presentation.",
+                "B. The environment remains minimalist, focusing on office supplies.",
+                "C. The environment has become chaotic and disorganized, with various items scattered everywhere.",
+                "D. The environment seems to focus only on beverage choices."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_173": {
+            "id": "HIjX8OPuf-w_173",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "Are there real-life characters in the video?",
+            "options": [
+                "A. Yes, there are real-life characters appearing.",
+                "B. No, there are no real-life characters in the video.",
+                "C. Real-life characters appear briefly.",
+                "D. Some people's hands are visible."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_174": {
+            "id": "HIjX8OPuf-w_174",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "What does the cheeseburger in the upper left corner look like?",
+            "options": [
+                "A. The cheeseburger in the upper left corner has a sesame bun, topped with lettuce and layers of cheese.",
+                "B. The cheeseburger in the upper left corner has a square ciabatta bun, served with garlic sauce and extra tomato slices.",
+                "C. The cheeseburger in the upper left corner has a regular bun, topped with a thick patty and noticeable bite marks.",
+                "D. The cheeseburger in the upper left corner has a compressed bun with golden fries inside."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_175": {
+            "id": "HIjX8OPuf-w_175",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "How many sandwiches and burgers are placed on the paper?",
+            "options": [
+                "A. Four sandwiches and burgers",
+                "B. Five sandwiches and burgers",
+                "C. Six sandwiches and burgers",
+                "D. Seven sandwiches and burgers"
+            ],
+            "answer": "C"
+        },
+        "HIjX8OPuf-w_176": {
+            "id": "HIjX8OPuf-w_176",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "Was the burger in the middle at the top bitten?",
+            "options": [
+                "A. Yes, there is a noticeable bite mark on the burger in the middle at the top.",
+                "B. No, the burger in the middle at the top is intact and untouched.",
+                "C. Yes, but the bite mark is from the burger at the bottom left corner.",
+                "D. No, all the burgers are completely untouched."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_177": {
+            "id": "HIjX8OPuf-w_177",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "What indicates the quality of the middle bottom burger?",
+            "options": [
+                "A. The middle bottom burger appears slightly compressed, indicating it has a soft, freshly baked texture.",
+                "B. The middle bottom burger has distinct grill marks, suggesting it was cooked over an open flame.",
+                "C. The middle bottom burger is sprinkled with sesame seeds, which means high-quality ingredients were used.",
+                "D. The middle bottom burger is wrapped in golden foil, implying a premium presentation."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_178": {
+            "id": "HIjX8OPuf-w_178",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "Is there any object movement in the scene?",
+            "options": [
+                "A. Yes, the burgers are rearranged in the scene.",
+                "B. No, the objects remain stationary, deliberately arranged in fixed positions on the table.",
+                "C. Yes, the fries are moved to another location.",
+                "D. Yes, the pen is repositioned near the burgers."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_179": {
+            "id": "HIjX8OPuf-w_179",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "How does a top-down camera angle affect the perception of a scene?",
+            "options": [
+                "A. It provides a clear view, highlighting the shapes and textures of all objects in contrast to the tabletop.",
+                "B. It adds dramatic lighting effects to the scene, creating sharp shadows and contrasts.",
+                "C. It obscures some details, making it difficult to distinguish individual elements.",
+                "D. It focuses only on a specific object, blurring other parts of the scene."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_180": {
+            "id": "HIjX8OPuf-w_180",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "What does the shot in the video emphasize?",
+            "options": [
+                "A. It emphasizes the neatness and texture of the food arrangement on the table.",
+                "B. It emphasizes the handwritten note and pen on the table.",
+                "C. It emphasizes the light and shadow effects in the scene.",
+                "D. It emphasizes the background and overall emptiness of the table."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_181": {
+            "id": "HIjX8OPuf-w_181",
+            "scene": 10,
+            "dimension": "Speed",
+            "question": "Is there a change in speed in the scene?",
+            "options": [
+                "A. Yes, the scene switches quickly between elements.",
+                "B. No, there is no change in speed in the scene.",
+                "C. Yes, some items move quickly on paper.",
+                "D. Yes, the burger is animated to show different angles."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_182": {
+            "id": "HIjX8OPuf-w_182",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the scene?",
+            "options": [
+                "A. The scene changed from a minimalist workspace to a vibrant food display.",
+                "B. The scene changed from an art gallery to a busy kitchen.",
+                "C. The scene changed from showcasing beverages to showcasing desserts.",
+                "D. The scene changed from a cluttered desktop to an empty desktop."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_183": {
+            "id": "HIjX8OPuf-w_183",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "Where is the position of the white text on the black screen after the transition?",
+            "options": [
+                "A. The white text appears in the center bottom of the screen.",
+                "B. The white text appears in the center top of the screen.",
+                "C. The white text appears on the left side of the screen.",
+                "D. The white text appears in the bottom right corner of the screen."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_184": {
+            "id": "HIjX8OPuf-w_184",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "After the transition, where is the 'NEW YORK' watermark located on the black screen?",
+            "options": [
+                "A. Bottom right",
+                "B. Top right",
+                "C. Bottom left",
+                "D. Top left"
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_185": {
+            "id": "HIjX8OPuf-w_185",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "How does this scene end visually?",
+            "options": [
+                "A. The scene ends with a vibrant display and animated sketches.",
+                "B. The scene transitions to a black screen with text, eventually becoming completely black.",
+                "C. The scene transitions to a white screen with text and colorful symbols.",
+                "D. The scene fades into a montage of images and dynamic interactions."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_186": {
+            "id": "HIjX8OPuf-w_186",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the initial action related to food preparation in this scene?",
+            "options": [
+                "A. Shows a hand pouring dark liquid into a large bowl.",
+                "B. A chef flipping pancakes on a hot pan.",
+                "C. A person chopping fresh vegetables on a wooden cutting board.",
+                "D. A barista skillfully frothing milk for a cappuccino."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_187": {
+            "id": "HIjX8OPuf-w_187",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "Which scene shows a hand writing extensively on paper?",
+            "options": [
+                "A. At the end, a hand is shown writing 'Video By Jorge Corona...' on paper.",
+                "B. The final scene transitions to a minimalist black screen, displaying acknowledgments for music and branding.",
+                "C. The middle of the video illustrates the spread of hamburgers, including 'America' and 'MANHATTAN'.",
+                "D. The opening introduces a hand writing the title 'Hamburger History' on paper."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_188": {
+            "id": "HIjX8OPuf-w_188",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens when the handwritten text 'NYmag.com' is displayed?",
+            "options": [
+                "A. The scene shifts to show food like burgers placed on paper.",
+                "B. The scene shows a panoramic view of New York City's landscape.",
+                "C. The screen gradually presents a colorful fireworks display.",
+                "D. A character appears and begins to narrate the history of NYmag."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_189": {
+            "id": "HIjX8OPuf-w_189",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How does this scene reflect the New York theme?",
+            "options": [
+                "A. The scene includes silhouettes of the Statue of Liberty and the American flag, along with a 'New York' watermark.",
+                "B. The scene uses vibrant colors and dynamic animations to showcase famous New York landmarks, such as Times Square.",
+                "C. The scene employs bustling city traffic and honking sounds to convey the iconic atmosphere of New York.",
+                "D. The scene transitions to a busy New York cityscape, prominently featuring skyscrapers and yellow taxis."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_190": {
+            "id": "HIjX8OPuf-w_190",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after the food is placed on the paper?",
+            "options": [
+                "A. The scene transitions to a black screen with musical credits, marking the end of the video.",
+                "B. The scene switches to an exquisite animated sequence showcasing the workspace.",
+                "C. The scene presents a new variety of colorful food and office supplies.",
+                "D. The scene switches to a lively street view accompanied by cheerful background music."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_191": {
+            "id": "HIjX8OPuf-w_191",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is the last visual element before the video ends?",
+            "options": [
+                "A. A collage of colorful workspace items.",
+                "B. A completely black screen with no features marks the end.",
+                "C. White text subtitles with a colorful background.",
+                "D. A delicate animation of the brand logo."
+            ],
+            "answer": "B"
+        },
+        "HIjX8OPuf-w_192": {
+            "id": "HIjX8OPuf-w_192",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the scene shift from engaging paper to food display?",
+            "options": [
+                "A. This shift might be for food review or promotion, focusing on the presentation quality of burgers and sandwiches.",
+                "B. This shift aims to depict the transition from a joyful mood to a more solemn theme.",
+                "C. The change in scene is to highlight the variation in lighting techniques used in film production.",
+                "D. The switch from paper to food display emphasizes the importance of digital animation skills."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_193": {
+            "id": "HIjX8OPuf-w_193",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the 'New York' logo appear in the corner of the screen?",
+            "options": [
+                "A. The 'New York' logo serves as a watermark to maintain brand consistency across most videos.",
+                "B. The 'New York' logo provides information about the video's location.",
+                "C. The 'New York' logo symbolizes a transition to minimalist design.",
+                "D. Adding the 'New York' logo is a tribute to the production company."
+            ],
+            "answer": "A"
+        },
+        "HIjX8OPuf-w_194": {
+            "id": "HIjX8OPuf-w_194",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the significance of the arrangement of hamburgers?",
+            "options": [
+                "A. The neat arrangement highlights the variety of food, in line with introducing the history of hamburgers.",
+                "B. This arrangement is just a random combination without any specific purpose.",
+                "C. Hamburgers symbolize a chaotic and disorganized work environment, with no organizational intent.",
+                "D. The purpose of the arrangement is to obscure the central focus of the scene."
+            ],
+            "answer": "A"
+        }
+    }
+}

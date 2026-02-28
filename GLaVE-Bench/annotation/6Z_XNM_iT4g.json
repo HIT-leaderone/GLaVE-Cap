@@ -1,0 +1,554 @@
+{
+    "scene_hint": {
+        "0": "游戏英雄从塔旁单独走向另一个方向。",
+        "1": "敌方英雄出现，双方对战。"
+    },
+    "qa": {
+        "6Z_XNM_iT4g_0": {
+            "id": "6Z_XNM_iT4g_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "从视频来看，The SquirtMaster相对于炮塔的位置在哪里？",
+            "options": [
+                "A. The SquirtMaster位于炮塔的左边。",
+                "B. The SquirtMaster位于炮塔的右边。",
+                "C. The SquirtMaster位于炮塔的后面。",
+                "D. The SquirtMaster位于炮塔的前面。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_1": {
+            "id": "6Z_XNM_iT4g_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "游戏场景的环境是什么？",
+            "options": [
+                "A. 游戏场景设置在一个由各种岩石、植物、花卉等组成的景观中。",
+                "B. 游戏场景设置在一个沙漠环境中，有仙人掌、沙丘和远处的绿洲。",
+                "C. 游戏场景设置在一个雪地冻原中，有冰块、积雪的树木和结冰的湖泊。",
+                "D. 游戏场景设置在一个黑暗的火山景观中，有熔岩、灰云和焦黑的岩石。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_2": {
+            "id": "6Z_XNM_iT4g_2",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "在游戏中，The SquirtMaster拿着什么？",
+            "options": [
+                "A. 一把发光的紫色能量球",
+                "B. 一把燃烧的红色战斧",
+                "C. 一根闪闪发光的蓝色法杖",
+                "D. 一把金色的弩"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_3": {
+            "id": "6Z_XNM_iT4g_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "游戏中与The SquirtMaster相关的额外视觉效果是什么？",
+            "options": [
+                "A. The SquirtMaster“脚下”带有一种发光的光环。",
+                "B. The SquirtMaster的铠甲上带有尾随的烟雾效果。",
+                "C. The SquirtMaster的武器周围有闪电特效。",
+                "D. The SquirtMaster的脚下浮现出阴影般的触须。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_4": {
+            "id": "6Z_XNM_iT4g_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "游戏场景中的炮塔是什么样子的？",
+            "options": [
+                "A. 炮塔由木头制成，并被一个魔法屏障包围。",
+                "B. 炮塔由石块制成，带有金色装饰并拿着权杖。",
+                "C. 炮塔是一个机械结构，有齿轮并冒出烟雾。",
+                "D. 炮塔形状像一棵巨大的树，树叶闪烁着绿色的光芒。"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_5": {
+            "id": "6Z_XNM_iT4g_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "游戏场景中的炮塔状况如何？",
+            "options": [
+                "A. 炮塔严重受损，生命值条几乎耗尽。",
+                "B. 炮塔完好无损，看不到任何损坏或裂纹。",
+                "C. 炮塔部分受损，只有轻微磨损。",
+                "D. 炮塔完全被摧毁，没有遗迹可见。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_6": {
+            "id": "6Z_XNM_iT4g_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "The SquirtMaster附近有多少友方近战小兵拿着斧头？",
+            "options": [
+                "A. 两个",
+                "B. 三个",
+                "C. 四个",
+                "D. 五个"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_7": {
+            "id": "6Z_XNM_iT4g_7",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "炮塔是否濒临毁坏？",
+            "options": [
+                "A. 是的，炮塔濒临毁坏。",
+                "B. 不，炮塔完好无损。",
+                "C. 不，炮塔只有轻微损伤。",
+                "D. 不，场景中没有炮塔。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_8": {
+            "id": "6Z_XNM_iT4g_8",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "The SquirtMaster正在采取什么行动？",
+            "options": [
+                "A. The SquirtMaster正在治疗他们的盟友。",
+                "B. The SquirtMaster正在单独往另一个方向移动。",
+                "C. The SquirtMaster正在撤退到基地。",
+                "D. The SquirtMaster正在击杀小兵。"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_9": {
+            "id": "6Z_XNM_iT4g_9",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "从观看视频角度来看，小兵们正朝哪个方向移动？",
+            "options": [
+                "A. 小兵朝左下方移动。",
+                "B. 小兵朝左上方移动。",
+                "C. 小兵朝右下方移动。",
+                "D. 小兵朝右上方移动。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_10": {
+            "id": "6Z_XNM_iT4g_10",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "这一场景中一共出现多少友方小兵？",
+            "options": [
+                "A. 三个",
+                "B. 四个",
+                "C. 六个",
+                "D. 八个"
+            ],
+            "answer": "C"
+        },
+        "6Z_XNM_iT4g_11": {
+            "id": "6Z_XNM_iT4g_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "视频最开始屏幕上显示的FPS是多少？",
+            "options": [
+                "A. FPS是233。",
+                "B. FPS是240。",
+                "C. FPS是239。",
+                "D. FPS是259。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_12": {
+            "id": "6Z_XNM_iT4g_12",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "屏幕上显示的延迟是多少？",
+            "options": [
+                "A. 30ms",
+                "B. 55ms",
+                "C. 75ms",
+                "D. 100ms"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_13": {
+            "id": "6Z_XNM_iT4g_13",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "炮塔的血条现是什么情况？",
+            "options": [
+                "A. 炮塔的血条现在几乎是空的。",
+                "B. 炮塔的血条已经完全恢复了。",
+                "C. 炮塔的血条受到了轻微的损伤。",
+                "D. 炮塔的血条已经减少了一半。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_14": {
+            "id": "6Z_XNM_iT4g_14",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "炮塔的结构完整性现是什么情况？",
+            "options": [
+                "A. 炮塔的结构完整性完全恢复，没有可见的损伤。",
+                "B. 炮塔的结构完整性被破坏，有可见裂缝。",
+                "C. 自战斗开始以来，炮塔的结构完整性没有变化。",
+                "D. 由于盟军的维修，炮塔的结构完整性略有改善。"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_15": {
+            "id": "6Z_XNM_iT4g_15",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "视频开始时画面最下方出现了什么信息？",
+            "options": [
+                "A. “cannot cast that right now!”文字信息",
+                "B. “Push the turret now!”文字信息。",
+                "C. “Retreat and regroup!”文字信息。",
+                "D. “Focus on the minions!”文字信息。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_16": {
+            "id": "6Z_XNM_iT4g_16",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "画面下方的文本可能表明什么?",
+            "options": [
+                "A. 表明技能施法出现了问题。",
+                "B. 表明玩家遇到了技术困难。",
+                "C. 文本是一则祝贺成功攻击的消息。",
+                "D. 文本是一则请求额外资源的消息。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_17": {
+            "id": "6Z_XNM_iT4g_17",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "敌方英雄出现时，The SquirtMaster的位置在哪个位置？",
+            "options": [
+                "A. The SquirtMaster在画面顶部上方略微靠左",
+                "B. The SquirtMaster在画面顶部上方略微靠右",
+                "C. The SquirtMaster在画面底部正中略微靠左",
+                "D. The SquirtMaster在画面底部正中略微靠右"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_18": {
+            "id": "6Z_XNM_iT4g_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "战场中路的布局是什么样的？",
+            "options": [
+                "A. 中路是石块和草地组成的，两旁有河道。",
+                "B. 中路是一条泥土小径，周围是茂密的森林。",
+                "C. 中路是一座木桥，横跨一条流动的河流。",
+                "D. 中路是一条沙地小径，两边是沙漠悬崖。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_19": {
+            "id": "6Z_XNM_iT4g_19",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "在战场上可以看到什么装饰？",
+            "options": [
+                "A. 发出魔法能量光芒的大型雕像",
+                "B. 位于河道旁石块顶部燃烧火焰",
+                "C. 散发金色光泽的附魔树木",
+                "D. 悬浮在战场上空的漂浮水晶"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_20": {
+            "id": "6Z_XNM_iT4g_20",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "被击杀的敌方英雄出现时做了什么动作？",
+            "options": [
+                "A. 敌方英雄攻击对战方小兵。",
+                "B. 敌方英雄从战斗中逃跑。",
+                "C. 敌方英雄庆祝胜利。",
+                "D. 敌方英雄加入小兵群。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_21": {
+            "id": "6Z_XNM_iT4g_21",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "被击杀的敌方英雄有什么样的外貌特征？",
+            "options": [
+                "A. 敌方英雄略微驼背。",
+                "B. 敌方英雄身材高大。",
+                "C. 敌方英雄身材矮小。",
+                "D. 敌方英雄靠滑轮移动。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_22": {
+            "id": "6Z_XNM_iT4g_22",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "被击杀的敌方英雄有什么特征？",
+            "options": [
+                "A. 英雄是黑色的，身体外部散发红光。",
+                "B. 英雄是蓝色的，身体外部散发蓝光。",
+                "C. 英雄是红色的，身体外部散发红光。",
+                "D. 英雄是紫色的，身体外部散发蓝光。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_23": {
+            "id": "6Z_XNM_iT4g_23",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "敌方小兵按装扮可以分为几组？",
+            "options": [
+                "A. 一组",
+                "B. 两组",
+                "C. 三组",
+                "D. 四组"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_24": {
+            "id": "6Z_XNM_iT4g_24",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "敌方小兵是什么颜色的？",
+            "options": [
+                "A. 蓝色",
+                "B. 绿色",
+                "C. 紫色",
+                "D. 红色"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_25": {
+            "id": "6Z_XNM_iT4g_25",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "游戏背景界面在整个场景中是否发生改变？",
+            "options": [
+                "A. 是的，完全改变。",
+                "B. 不是，完全未改变。",
+                "C. 是的，部分改变。",
+                "D. 不清楚。"
+            ],
+            "answer": "C"
+        },
+        "6Z_XNM_iT4g_26": {
+            "id": "6Z_XNM_iT4g_26",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "The SquirtMaster与敌方英雄对战时出现的带有“+”绿色数字表示什么？",
+            "options": [
+                "A. 表示生命值恢复。",
+                "B. 表示额外法力恢复。",
+                "C. 表示移动速度增加。",
+                "D. 表示对敌人造成额外伤害。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_27": {
+            "id": "6Z_XNM_iT4g_27",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "从视频来看，敌方小兵朝哪个方向移动？",
+            "options": [
+                "A. 敌方小兵朝画面右上方移动。",
+                "B. 敌方小兵朝画面左上方移动。",
+                "C. 敌方小兵朝画面右下方移动。",
+                "D. 敌方小兵朝画面左下方移动。"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_28": {
+            "id": "6Z_XNM_iT4g_28",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "在The SquirtMaster击杀敌人后，画面中还有多少小兵存活？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_29": {
+            "id": "6Z_XNM_iT4g_29",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在The SquirtMaster击杀敌人后，屏幕顶部中心会显示什么文本信息？",
+            "options": [
+                "A. ‘You have slain an enemy!’",
+                "B. ‘Double Kill!’",
+                "C. ‘Shutdown!’",
+                "D. ‘You have been slain!’"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_30": {
+            "id": "6Z_XNM_iT4g_30",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "The SquirtMaster击杀敌人后，英雄面板蓝条中显示数字是多少？",
+            "options": [
+                "A. 1379/1379。",
+                "B. 1437/2255。",
+                "C. 1200/1379。",
+                "D. 900/1379。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_31": {
+            "id": "6Z_XNM_iT4g_31",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "The SquirtMaster和敌人对战时角色上方绿色符号“+82”代表什么？",
+            "options": [
+                "A. 它表示英雄生命值恢复。",
+                "B. 它表示英雄伤害提升。",
+                "C. 它表示英雄法力值补充。",
+                "D. 它表示英雄获得的经验值。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_32": {
+            "id": "6Z_XNM_iT4g_32",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在视频中The SquirtMaster友方对战小兵有什么特征？",
+            "options": [
+                "A. 小兵拿着斧头和法杖，头顶显示蓝色血条。",
+                "B. 小兵拿着锤子和法杖，头顶显示蓝色血条。",
+                "C. 小兵拿着斧头和锤子，头顶显示红色血条。",
+                "D. 小兵拿着锤子和弓箭，头顶显示红色血条。"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_33": {
+            "id": "6Z_XNM_iT4g_33",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "从视频来看The SquirtMaster走出炮塔后正朝哪个方向移动？",
+            "options": [
+                "A. 朝画面左上方移动",
+                "B. 朝画面右上方移动",
+                "C. 朝画面左下方移动",
+                "D. 朝画面右下方移动"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_34": {
+            "id": "6Z_XNM_iT4g_34",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频中“That ability is not ready yet!”这段文字是否显示？",
+            "options": [
+                "A. 是的，文字在画面中一直完整显示。",
+                "B. 是的，文字在部分画面中完整显示。",
+                "C. 不，文字在场景中一直未完整显示。",
+                "D. 不，场景中未出现这段文字。"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_35": {
+            "id": "6Z_XNM_iT4g_35",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "画面上方‘You have slain an enemy’文字显示是什么意思？",
+            "options": [
+                "A. 这表示The SquirtMaster进行了战略撤退。",
+                "B. 这表示The SquirtMaster恢复了生命值。",
+                "C. 这表示The SquirtMaster击败了一名敌方英雄。",
+                "D. 这表示The SquirtMaster收集了资源。"
+            ],
+            "answer": "C"
+        },
+        "6Z_XNM_iT4g_36": {
+            "id": "6Z_XNM_iT4g_36",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频中The SquirtMaster击杀敌方英雄后处于什么等级？",
+            "options": [
+                "A. The SquirtMaster处于13级。",
+                "B. The SquirtMaster处于14级。",
+                "C. The SquirtMaster处于15级。",
+                "D. The SquirtMaster处于16级。"
+            ],
+            "answer": "D"
+        },
+        "6Z_XNM_iT4g_37": {
+            "id": "6Z_XNM_iT4g_37",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "当一个炮塔的生命值接近耗尽时，会出现哪些视觉变化？",
+            "options": [
+                "A. 炮塔显示出明显的裂缝，表明它接近被摧毁。",
+                "B. 炮塔发出明亮的绿色光芒，表示即将修复。",
+                "C. 炮塔变得半透明，显示出它的脆弱状态。",
+                "D. 炮塔分裂成两个较小的结构，随着其生命值减少。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_38": {
+            "id": "6Z_XNM_iT4g_38",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "小地图在视频中哪个位置？",
+            "options": [
+                "A. 小地图在视频最右下角。",
+                "B. 小地图在视频最左下角。",
+                "C. 小地图在视频最右上角。",
+                "D. 小地图在视频最左上角。"
+            ],
+            "answer": "A"
+        },
+        "6Z_XNM_iT4g_39": {
+            "id": "6Z_XNM_iT4g_39",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "当The SquirtMaster击杀敌方英雄后，画面中能看到什么文字？",
+            "options": [
+                "A. “You have slain an enemy!”",
+                "B. “That ability is not ready yet!”",
+                "C. “LEVEL UP!+1”",
+                "D. 以上文字在画面中均有显示"
+            ],
+            "answer": "D"
+        },
+        "6Z_XNM_iT4g_40": {
+            "id": "6Z_XNM_iT4g_40",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在视频中，一共出现了几名敌方英雄？",
+            "options": [
+                "A. 一名",
+                "B. 两名",
+                "C. 三名",
+                "D. 四名"
+            ],
+            "answer": "B"
+        },
+        "6Z_XNM_iT4g_41": {
+            "id": "6Z_XNM_iT4g_41",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么小兵在场景中很重要？",
+            "options": [
+                "A. 小兵提供视觉干扰并增加场景的美感。",
+                "B. 小兵参与战斗，并且向敌方建筑推进。",
+                "C. 小兵作为装饰元素，对游戏玩法没有影响。",
+                "D. 小兵的重要性仅在于它们的存在标志着游戏时间的流逝。"
+            ],
+            "answer": "B"
+        }
+    }
+}

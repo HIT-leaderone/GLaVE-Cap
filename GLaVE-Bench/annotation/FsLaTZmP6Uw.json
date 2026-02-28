@@ -1,0 +1,2431 @@
+{
+    "scene_hint": {
+        "0": "一位乒乓球运动员身穿鲜红的球衣，左上角有记分牌。",
+        "1": "一位身着黑红球衣的乒乓球运动员，记分牌仍在左上角。",
+        "2": "两位选手在发球前的聚精会神。",
+        "3": "镜头的调整，让画面能看见更多比赛场地。两位选手对打，黑色衣服球员击球出界，红色衣服球员赢得1分。",
+        "4": "镜头从运动员转向热情的观众，他们在兴奋地庆祝。",
+        "5": "红色球衣运动员的特写镜头。",
+        "6": "慢镜头回放刚刚比赛的情况。得分后红色衣服运动员的庆祝。"
+    },
+    "qa": {
+        "FsLaTZmP6Uw_0": {
+            "id": "FsLaTZmP6Uw_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "场景中穿着鲜红色运动衫的运动员在画面中的什么位置？",
+            "options": [
+                "A. 画面中的中间。",
+                "B. 画面中的右侧。",
+                "C. 画面中的左侧。",
+                "D. 不清楚。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_1": {
+            "id": "FsLaTZmP6Uw_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "描述的场景发生在哪里？",
+            "options": [
+                "A. 场景发生在一个户外体育场。",
+                "B. 场景发生在一个室内场馆。",
+                "C. 场景发生在海滩上。",
+                "D. 场景发生在公园里。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_2": {
+            "id": "FsLaTZmP6Uw_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "场景中描绘的是什么类型的活动？",
+            "options": [
+                "A. 该活动是一场以中国传统乐器为特色的音乐会。",
+                "B. 该活动是一场体育赛事，是乒乓球比赛。",
+                "C. 该活动是一个展示龙主题艺术作品的艺术展览。",
+                "D. 该活动是一场文化舞蹈表演，参与者穿着龙服装。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_3": {
+            "id": "FsLaTZmP6Uw_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "场景中的运动员头发有什么特征？",
+            "options": [
+                "A. 这名运动员有着长长的金发。",
+                "B. 这名运动员有着卷曲的棕发。",
+                "C. 这名运动员有着短短的黑发。",
+                "D. 这名运动员没有头发。"
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_4": {
+            "id": "FsLaTZmP6Uw_4",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "场景中的运动员穿的是哪种服装？",
+            "options": [
+                "A. 运动员穿着一件亮红色运动衫，左上方有复杂的黄色金龙图案，还有一个小的中国国旗补丁和一个白色的运动标志。",
+                "B. 运动员穿着一件黄色运动衫，有多色的龙纹设计，小的日本国旗补丁和一个黑色的运动标志。",
+                "C. 运动员穿着一件红色运动衫，带有简约的白色条纹，没有图案，白色的运动标志。",
+                "D. 运动员穿着一件蓝色运动衫，上面有复杂的银色龙纹图案，一个大型的中国国旗徽章，没有运动标志。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_5": {
+            "id": "FsLaTZmP6Uw_5",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "灯光突出了运动员服装的哪些方面？",
+            "options": [
+                "A. 灯光突出了球衣的鲜艳颜色。",
+                "B. 灯光突出了球衣的褶皱。",
+                "C. 灯光突出了球衣的厚重。",
+                "D. 灯光突出了球衣的绿色条纹。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_6": {
+            "id": "FsLaTZmP6Uw_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "记分板显示了哪些信息？",
+            "options": [
+                "A. 记分板显示了一场比赛，中国（CHN）以大分3比2小分2比1领先。",
+                "B. 记分板显示了一场比赛，中国（CHN）和日本（JPN）的得分都是3比2。",
+                "C. 记分板显示中国（CHN）的得分是2比1，而日本（JPN）的得分是3比2。",
+                "D. 记分板显示了一场平局，中国（CHN）和日本（JPN）的得分都是2比2。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_7": {
+            "id": "FsLaTZmP6Uw_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "记分板是如何在视觉上呈现的？",
+            "options": [
+                "A. 中国国旗在‘CHN’旁边，日本国旗在‘JPN’旁边，黄色三角形指示发球者。",
+                "B. 日本国旗在‘CHN’旁边，中国国旗在‘JPN’旁边，黄色圆圈指示发球者。",
+                "C. 两国国旗显示在记分板中央，红色圆圈指示发球者。",
+                "D. 记分板上不显示国旗，只有一个星星指示发球者。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_8": {
+            "id": "FsLaTZmP6Uw_8",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "记分板上有多少个国家？",
+            "options": [
+                "A. 一个国家",
+                "B. 两个国家",
+                "C. 三个国家",
+                "D. 四个国家"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_9": {
+            "id": "FsLaTZmP6Uw_9",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "从计分板中可以看出前面五场比赛的胜负如何？",
+            "options": [
+                "B. 中国（CHN）赢了2场比赛，日本（JPN）赢了1场比赛。",
+                "B. 中国（CHN）赢了2场比赛，日本（JPN）赢了3场比赛。",
+                "C. 中国（CHN）赢了3场比赛，日本（JPN）赢了2场比赛。",
+                "B. 中国（CHN）赢了1场比赛，日本（JPN）赢了2场比赛。"
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_10": {
+            "id": "FsLaTZmP6Uw_10",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "运动员在场景的所有帧中都能看见拿着球拍吗？",
+            "options": [
+                "A. 运动员在整个场景中都能看见拿着球拍。",
+                "B. 运动员只有在场景后半段能看见拿着球拍。",
+                "C. 运动员只有在场景前半段能看见拿着球拍。",
+                "D. 运动员在整个场景中都不能看见拿着球拍。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_11": {
+            "id": "FsLaTZmP6Uw_11",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "运动员在场景初始时第一个动作是什么？",
+            "options": [
+                "A. 运动员稍微向前弯腰。",
+                "B. 运动员向前移动到前景。",
+                "C. 运动员后退进入准备姿势。",
+                "D. 运动员举起了他们的乒乓球拍。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_12": {
+            "id": "FsLaTZmP6Uw_12",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "运动员在场景中相对于镜头是怎么移动一小步的？",
+            "options": [
+                "A. 运动员以放松的姿势向右移动。",
+                "B. 运动员以前倾的姿势向左移动。",
+                "C. 运动员以兴奋的姿势跳起来。",
+                "D. 运动员以镇静的姿势保持静止。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_13": {
+            "id": "FsLaTZmP6Uw_13",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "运动员在场景最后能看见衣服上面有什么标志？",
+            "options": [
+                "A. Nike标志",
+                "B. 特步标志",
+                "C. 阿迪达斯标志",
+                "D. 李宁标志"
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_14": {
+            "id": "FsLaTZmP6Uw_14",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "在该场景中使用了哪种镜头角度来聚焦运动员？",
+            "options": [
+                "A. 摄影机使用了特写镜头，强调运动员身体的上半部分。",
+                "B. 摄影机使用了广角镜头，捕捉了整个球场和周围的观众。",
+                "C. 摄影机使用了俯视镜头，从上方展示比赛。",
+                "D. 摄影机使用了侧面角度镜头，主要关注背景动作。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_15": {
+            "id": "FsLaTZmP6Uw_15",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "场景中使用哪种镜头类型用于引导注意力到运动员的动作上？",
+            "options": [
+                "A. 背景使用轻微模糊来引导注意力到运动员的动作上。",
+                "B. 广角镜头捕捉整个场地以聚焦于运动员的动作。",
+                "C. 拉远的镜头显示观众欢呼以突出运动员的动作。",
+                "D. 前景使用昏暗的灯光效果来强调运动员的动作。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_16": {
+            "id": "FsLaTZmP6Uw_16",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "在这些场景的画面中，运动员的服装不能看见的什么元素？",
+            "options": [
+                "A. 袖子上的白色条纹。",
+                "B. 衣服背后的白子文字。",
+                "C. 左胸口的国旗。",
+                "D. 右胸口的标志。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_17": {
+            "id": "FsLaTZmP6Uw_17",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素有助于理解场景的竞争氛围？",
+            "options": [
+                "A. 数字记分牌、运动员专注的姿势以及观众有助于理解竞争气氛。",
+                "B. 沙滩球、轻松的观众以及穿着泳装的人群有助于理解竞争气氛。",
+                "C. 气球的景象、节日游行以及乐队演奏音乐有助于理解竞争气氛。",
+                "D. 被雪覆盖的山峰、阿尔卑斯山小屋以及滑雪的人们的景象有助于理解竞争气氛。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_18": {
+            "id": "FsLaTZmP6Uw_18",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "场景开始时日本运动员相对于背景的位置在哪里？",
+            "options": [
+                "A. 日本运动员被突出地置于前景，而昏暗的观众和场馆位于背景。",
+                "B. 日本运动员位于背景，与观众融为一体。",
+                "C. 日本运动员完全不在画面中，前景中仅能看到观众。",
+                "D. 日本运动员位于观众中央，被粉丝包围。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_19": {
+            "id": "FsLaTZmP6Uw_19",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "对于背景中的观众来说，场景初期和场景末期日本运动员做了什么转体运动？",
+            "options": [
+                "A. 向左转。",
+                "B. 向右转。",
+                "C. 向后转。",
+                "D. 没有变化。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_20": {
+            "id": "FsLaTZmP6Uw_20",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "比赛环境的设置是什么？",
+            "options": [
+                "A. 设置是一个灯光明亮的体育馆，墙壁是纯白色的。",
+                "B. 设置是一个灯光昏暗的竞技场，配有适当的运动照明。",
+                "C. 设置是一个在自然阳光下的室外球场。",
+                "D. 设置是一个没有观众的黑暗地下空间。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_21": {
+            "id": "FsLaTZmP6Uw_21",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "观众如何是怎么样对待比赛的？",
+            "options": [
+                "A. 观众全神贯注于激烈的比赛。",
+                "B. 观众在聊天，没有注意比赛。",
+                "C. 观众在嘘球员。",
+                "D. 观众正在离开竞技场。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_22": {
+            "id": "FsLaTZmP6Uw_22",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "在这一场景中，日本运动员穿着什么？",
+            "options": [
+                "A. 日本运动员穿着一件带有日本国旗标志的黑色运动衫。",
+                "B. 日本运动员穿着一套以龙为主题的多彩服装。",
+                "C. 日本运动员穿着深色条纹的白衬衫和浅色裤子。",
+                "D. 日本运动员穿着红色衬衫和浅色裤子。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_23": {
+            "id": "FsLaTZmP6Uw_23",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "场景初期时日本运动员正在用右臂做什么动作？",
+            "options": [
+                "A. 日本运动员正在举起手臂向观众打招呼。",
+                "B. 日本运动员右臂抬起，抓着乒乓球拍。",
+                "C. 日本运动员正在向看台上的队友挥手。",
+                "D. 日本运动员正在用右手整理球衣。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_24": {
+            "id": "FsLaTZmP6Uw_24",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "在这个场景中，能从这位日本选手脸部看出此时他是什么情况?",
+            "options": [
+                "A. 集中专注。",
+                "B. 欢呼喜悦。",
+                "C. 情绪低落。",
+                "D. 懊恼无比。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_25": {
+            "id": "FsLaTZmP6Uw_25",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "日本运动员的球衣上有什么标志？",
+            "options": [
+                "A. 美津浓标志在右胸。",
+                "B. 阿迪达斯标志在右胸。",
+                "C. 耐克标志在右胸。",
+                "D. 彪马标志在右胸。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_26": {
+            "id": "FsLaTZmP6Uw_26",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "根据记分牌，日本队在比赛中领先吗？",
+            "options": [
+                "A. 是的，日本队领先比赛。",
+                "B. 不，记分牌显示中国队领先比赛。",
+                "C. 记分牌显示日本队和中国队平局。",
+                "D. 场景中未显示记分牌。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_27": {
+            "id": "FsLaTZmP6Uw_27",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在这场景中，日本运动员的姿势发生了什么变化？",
+            "options": [
+                "A. 日本运动员将双手举得更高。",
+                "B. 日本运动员略微弯下腰。",
+                "C. 日本运动员将右手放在胸前握拳。",
+                "D. 日本运动员略微向后倾。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_28": {
+            "id": "FsLaTZmP6Uw_28",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "日本运动员的乒乓球拍举在他的什么位置？",
+            "options": [
+                "A. 日本运动员的乒乓球拍举在他的右侧。",
+                "B. 日本运动员的乒乓球拍举在他的左侧。",
+                "C. 日本运动员的乒乓球拍举在他正前方。",
+                "D. 日本运动员的乒乓球拍举在他背后方。"
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_29": {
+            "id": "FsLaTZmP6Uw_29",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景初期能看见观众席上墙壁有哪些颜色？",
+            "options": [
+                "A. 绿色和蓝色",
+                "B. 红色和白色",
+                "C. 黄色和紫色",
+                "D. 黑色和灰色"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_30": {
+            "id": "FsLaTZmP6Uw_30",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "随着场景的发展，画面左下角会出现比较明显的穿什么颜色衣服的人物？",
+            "options": [
+                "A. 黄色。",
+                "B. 蓝色。",
+                "C. 红色。",
+                "D. 绿色。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_31": {
+            "id": "FsLaTZmP6Uw_31",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景的一般背景是什么？",
+            "options": [
+                "A. 背景是一个竞争激烈的体育氛围，有一个可见的记分牌和光线昏暗的背景观众。",
+                "B. 背景是一个安静的图书馆，人们正在看书，还有一个记分牌显示分数。",
+                "C. 背景是一个繁忙的城市街道，灯光明亮，有一个记分牌展示广告。",
+                "D. 背景是一个宁静的公园，人们在慢跑，有一个记分牌显示天气更新。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_32": {
+            "id": "FsLaTZmP6Uw_32",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "记分板上包含了多少个国家？",
+            "options": [
+                "A. 记分板始终显示两个国家。",
+                "B. 记分板始终显示三个国家。",
+                "C. 记分板始终显示四个国家。",
+                "D. 记分板始终显示五个国家。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_33": {
+            "id": "FsLaTZmP6Uw_33",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "记分板上包含哪些元素？",
+            "options": [
+                "A. 'CHN 3 2' 和 'JPN 2 1', 以及各自的国旗。",
+                "B. 'CHN 4 3' 和 'JPN 3 2', 以及各自的国旗。",
+                "C. 'CHN 2 1' 和 'JPN 3 2', 以及各自的国旗。",
+                "D. 'CHN 3 2' 和 'JPN 2 2', 以及各自的国旗。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_34": {
+            "id": "FsLaTZmP6Uw_34",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "记分板上的分数会在场景中不断变化吗？",
+            "options": [
+                "A. 是的，分数经常变化。",
+                "B. 不，记分板始终显示相同的分数详情。",
+                "C. 是的，分数在接近结尾的时候有轻微变化。",
+                "D. 不，场景中没有显示记分板。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_35": {
+            "id": "FsLaTZmP6Uw_35",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "镜头是否突出选手的显著性？",
+            "options": [
+                "A. 镜头将选手明显地放在前景。",
+                "B. 镜头摇向，仅强调记分牌。",
+                "C. 镜头拉近观众，使选手不太显眼。",
+                "D. 镜头角度变化，展示体育场的全景。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_36": {
+            "id": "FsLaTZmP6Uw_36",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "镜头拍摄如何突显竞争性的一面？",
+            "options": [
+                "A. 镜头拍摄包括左上角的记分板。",
+                "B. 镜头仅仅对准观众。",
+                "C. 镜头横扫显示整个观众席。",
+                "D. 镜头完全避开展示记分板。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_37": {
+            "id": "FsLaTZmP6Uw_37",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在画面中，什么视觉线索表明有一名裁判的存在？",
+            "options": [
+                "A. 一名身穿明黄色衬衫的新人物出现在球员左下方，表明有裁判的存在。",
+                "B. 球员球衣上的日本国旗标志表明有裁判的存在。",
+                "C. 显示双方得分的记分牌表明有裁判的存在。",
+                "D. 光线较暗的观众背景表明有裁判的存在。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_38": {
+            "id": "FsLaTZmP6Uw_38",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "日本选手最初在画面中的位置在哪里？",
+            "options": [
+                "A. 日本选手最初位于画面右侧，只有上半身的一部分可见。",
+                "B. 日本选手最初位于画面中央，整个身体都可见。",
+                "C. 日本选手最初位于画面左侧，背对着镜头。",
+                "D. 日本选手最初被完全遮挡，没有在画面内。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_39": {
+            "id": "FsLaTZmP6Uw_39",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "日本选手在画面中的位置是如何变化的？",
+            "options": [
+                "A. 他移动到画面最左边，遮挡了他的站姿。",
+                "B. 他重新定位到画面偏中央的位置，让他的站姿更加清晰。",
+                "C. 他退到阴影中，变得不太显眼。",
+                "D. 他蹲下到地板上，从视线中消失。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_40": {
+            "id": "FsLaTZmP6Uw_40",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景中观众席的照明是什么样的？",
+            "options": [
+                "A. 明亮的红色和蓝色调照亮。",
+                "B. 昏暗的灯光，能看见一些观众轮廓。",
+                "C. 黑暗的，没有可见的灯光和观众。",
+                "D. 黄色灯光照亮，突出了红色和白色的球衣。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_41": {
+            "id": "FsLaTZmP6Uw_41",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "在场景中，比赛区域是如何展示的？",
+            "options": [
+                "A. 明亮的比赛区域，突出显示球员。",
+                "B. 比赛区域光线昏暗，与背景融为一体。",
+                "C. 比赛区域为完全绿色，与观众剪影的色调相匹配。",
+                "D. 完全黑暗的比赛区域，完全看不见任何事物。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_42": {
+            "id": "FsLaTZmP6Uw_42",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "在竞技场场景中还描述了哪些额外的特征？",
+            "options": [
+                "A. 左上角还有一个记分牌。",
+                "B. 竞技场里布满了明亮、五颜六色的横幅。",
+                "C. 球员上方显示着一个大型电子时钟。",
+                "D. 地板上铺着一条红地毯。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_43": {
+            "id": "FsLaTZmP6Uw_43",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "日本选手在比赛中穿着怎样的服装？",
+            "options": [
+                "A. 日本选手穿着一件带有红色、白色设计元素的黑色球衣，并有日本国旗徽章。",
+                "B. 日本选手穿着一件带有绿色、黄色设计元素的蓝色球衣，并有日本国旗徽章。",
+                "C. 日本选手穿着一件带有白色、蓝色设计元素的红色球衣，并有日本国旗徽章。",
+                "D. 日本选手穿着一件带有黑色、红色设计元素的白色球衣，并有日本国旗徽章。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_44": {
+            "id": "FsLaTZmP6Uw_44",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "日本选手在画面在的位置在哪里？",
+            "options": [
+                "A. 他握着乒乓球拍在球桌边上。",
+                "B. 他坐在面对球场的阴影区域。",
+                "C. 他站在场地外围附近。",
+                "D. 他躺在场地外围附件。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_45": {
+            "id": "FsLaTZmP6Uw_45",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "中国运动员在比赛中穿着怎样？",
+            "options": [
+                "A. 中国运动员穿着红色球衣，上面有黄色龙图案。",
+                "B. 中国运动员穿着带有红色和白色设计元素的黑色球衣。",
+                "C. 中国运动员穿着简单的红色球衣，没有其他设计。",
+                "D. 中国运动员穿着带有淡龙图案的绿蓝相间球衣。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_46": {
+            "id": "FsLaTZmP6Uw_46",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "场景初期中国运动员在比赛中的站位是怎样的？",
+            "options": [
+                "A. 他降低站姿，同时专注地靠近球桌。",
+                "B. 他站得笔直，被动地握着球拍。",
+                "C. 他后退远离球桌，采取防守姿态。",
+                "D. 他保持不动，更专注于对手而不是比赛。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_47": {
+            "id": "FsLaTZmP6Uw_47",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "乒乓球网的主要特点是什么？",
+            "options": [
+                "A. 乒乓球网颜色鲜艳，并装饰有复杂的图案。",
+                "B. 乒乓球网将框架一分为二，保持了结构化的重点。",
+                "C. 乒乓球网在场景中完全不可见。",
+                "D. 乒乓球网的位置偏离中心，破坏了框架的平衡。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_48": {
+            "id": "FsLaTZmP6Uw_48",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "乒乓球计分牌的主要表达了什么？",
+            "options": [
+                "A. 右上角的计分牌显示了“CHN”和“JPN”打成了平局。",
+                "B. 左上角的计分牌显示“CHN”领先“JPN”。",
+                "C. 画面底部的计分牌显示“JPN”领先“CHN”。",
+                "D. 左上角的计分牌完全空白。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_49": {
+            "id": "FsLaTZmP6Uw_49",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "场景初期穿红外套的那个人在哪里？",
+            "options": [
+                "A. 穿红外套的那个人在画面的左边。",
+                "B. 穿红外套的那个人在画面的右边。",
+                "C. 穿红外套的那个人于画面的中央。",
+                "D. 整个场景都没出现穿红外套的那个人。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_50": {
+            "id": "FsLaTZmP6Uw_50",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "场景快结束时三个穿着棕色马甲且坐着的人在哪里？",
+            "options": [
+                "A. 坐在画面最右边。",
+                "B. 坐在画面最左边。",
+                "C. 坐在画面中央的观众席内。",
+                "D. 坐在画面中央的比赛场地内。"
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_51": {
+            "id": "FsLaTZmP6Uw_51",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "比赛场地是否亮堂？",
+            "options": [
+                "A. 是的，比赛场地灯光明亮，突出了运动员。",
+                "B. 不是，比赛场地灯光昏暗，营造了一种戏剧效果。",
+                "C. 只有在重播时比赛场地的灯光才好，而在现场比赛时则不是。",
+                "D. 比赛场地的灯光根据球员的位置而变化。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_52": {
+            "id": "FsLaTZmP6Uw_52",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "中国运动员在场景初期到末期对他的站姿做了什么调整？",
+            "options": [
+                "A. 中国运动员降低了他的站姿。",
+                "B. 中国运动员站直以拉伸。",
+                "C. 中国运动员离桌子更远。",
+                "D. 中国运动员把球拍举过头顶。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_53": {
+            "id": "FsLaTZmP6Uw_53",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "中国运动员的头部在场景初期到末期距离球台的远近如何变化的？",
+            "options": [
+                "A. 中国运动员的头部向球台更靠近一些。",
+                "A. 中国运动员的头部离球台更远了一些。",
+                "C. 中国运动员的头部与球台的距离没变。",
+                "D. 中国运动员的头部先靠近球台然后又远离。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_54": {
+            "id": "FsLaTZmP6Uw_54",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "什么因素在场景中通过物体的移动或位置分割画面？",
+            "options": [
+                "A. 乒乓球网物理上处于分割画面的结构位置，强调了竞争的场景设置。",
+                "B. 左上角的记分牌以显著的显示方式分割了场景。",
+                "C. 竞技场的绿色和蓝色调在画面中提供了视觉分割。",
+                "D. 球员们带有不同颜色的头发在画面中创造了视觉分割。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_55": {
+            "id": "FsLaTZmP6Uw_55",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "摄像机角度如何影响比赛的呈现？",
+            "options": [
+                "A. 摄像机角度突出运动员的动作和表情，加强观众对比赛的沉浸感。",
+                "B. 摄像机角度主要显示比分板，减少对运动员的关注。",
+                "C. 摄像机角度遮挡了运动员，强调观众的反应。",
+                "D. 摄像机角度主要突出昏暗的背景，降低运动员的显著性。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_56": {
+            "id": "FsLaTZmP6Uw_56",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "灯光如何影响比赛的呈现？",
+            "options": [
+                "A. 灯光突出运动员的表情和动作，为比赛增添了紧张感和沉浸感。",
+                "B. 灯光使背景变暗，使观众几乎不可见。",
+                "C. 灯光仅聚焦在记分牌上，分散了对球员的注意力。",
+                "D. 灯光通过照亮周边区域，使场馆看起来更大更宽敞。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_57": {
+            "id": "FsLaTZmP6Uw_57",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "在画面中，哪个视觉元素指示比赛的进展？",
+            "options": [
+                "A. 球员位置的变化",
+                "B. 左上角的记分牌",
+                "C. 球员身上的灯光",
+                "D. 背景中的观众"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_58": {
+            "id": "FsLaTZmP6Uw_58",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "在比赛开始时，日本选手相对于乒乓球桌子的位置在哪里？",
+            "options": [
+                "A. 日本选手位于乒乓桌子上边。",
+                "A. 日本选手位于乒乓桌子下边。",
+                "A. 日本选手位于离乒乓桌子很远的位置。",
+                "A. 日本选手位于乒乓桌子旁边。"
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_59": {
+            "id": "FsLaTZmP6Uw_59",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "在场景开始时，中国选手相对于乒乓球桌的位置在哪里？",
+            "options": [
+                "A. 中国选手位于乒乓桌子上边。",
+                "A. 中国选手位于乒乓桌子下边。",
+                "A. 中国选手位于离乒乓桌子很远的位置。",
+                "A. 中国选手位于乒乓桌子旁边。"
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_60": {
+            "id": "FsLaTZmP6Uw_60",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景的背景是什么？",
+            "options": [
+                "A. 场景的背景是一个专业的体育场地，中间有一个乒乓球场。",
+                "B. 场景的背景是一个随意的后院，有一个临时搭建的乒乓球台。",
+                "C. 场景的背景是一个学校体育馆，正在进行一场当地的乒乓球比赛。",
+                "D. 场景的背景是一个安静的公园，有一个公共乒乓球台。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_61": {
+            "id": "FsLaTZmP6Uw_61",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景的亮度如何？",
+            "options": [
+                "A. 亮度是明亮的。",
+                "B. 亮度是昏暗的。",
+                "C. 亮度是闪烁的。",
+                "D. 亮度是完全黑的。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_62": {
+            "id": "FsLaTZmP6Uw_62",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景的背景事件是什么？",
+            "options": [
+                "A. 2020年东京奥运会",
+                "B. 2016年里约奥运会",
+                "C. 2008年北京奥运会",
+                "D. 2012年伦敦奥运会"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_63": {
+            "id": "FsLaTZmP6Uw_63",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "中国球员穿什么服装？",
+            "options": [
+                "A. 中国球员穿着一件红色球衣。",
+                "B. 中国球员穿着一件黑色球衣。",
+                "C. 中国球员穿着一件绿色球衣。",
+                "D. 中国球员穿着一件白色球衣。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_64": {
+            "id": "FsLaTZmP6Uw_64",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "画面初始时中国选手正在进行哪些身体动作？",
+            "options": [
+                "A. 中国选手伸出左臂抛球，右手手拿着球拍。",
+                "B. 中国选手坐着，观察比赛并做笔记。",
+                "C. 中国选手跳起来，为队友加油。",
+                "D. 中国选手站在观众席中，双臂交叉。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_65": {
+            "id": "FsLaTZmP6Uw_65",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "乒乓球台上的网主要是什么颜色的？",
+            "options": [
+                "A. 网是白色的。",
+                "B. 网是黑色的。",
+                "C. 网是蓝色的。",
+                "D. 网是红色的。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_66": {
+            "id": "FsLaTZmP6Uw_66",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "从哪个角度拍摄了乒乓球桌？",
+            "options": [
+                "A. 从球员背后上方拍摄。",
+                "B. 从正上方拍摄。",
+                "C. 从对角线角度拍摄。",
+                "D. 从正下方拍摄。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_67": {
+            "id": "FsLaTZmP6Uw_67",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "乒乓球桌在什么样的光线条件下？",
+            "options": [
+                "A. 光线明亮。",
+                "B. 光线昏暗。",
+                "C. 在自然阳光下。",
+                "D. 用彩色灯光照明。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_68": {
+            "id": "FsLaTZmP6Uw_68",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "比赛中有多少名球员正在参与？",
+            "options": [
+                "A. 一名球员",
+                "B. 两名球员",
+                "C. 三名球员",
+                "D. 四名球员"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_69": {
+            "id": "FsLaTZmP6Uw_69",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "场景中可以看到记分牌吗？",
+            "options": [
+                "A. 是的，记分牌显示在画面的左上角。",
+                "B. 不，场景中没有显示记分牌。",
+                "C. 是的，记分牌显示在画面的右下角。",
+                "D. 不，记分牌只有提到，但场景中没有显示。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_70": {
+            "id": "FsLaTZmP6Uw_70",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "日本选手在场景初期通过什么动作来表示准备就绪？",
+            "options": [
+                "A. 日本选手保持弯曲姿势并调整球拍位置。",
+                "B. 日本选手快速进行侧向移动并放下球拍。",
+                "C. 日本选手站直并被动地等待球到来。",
+                "D. 日本选手向后倾斜并专注地观察记分板。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_71": {
+            "id": "FsLaTZmP6Uw_71",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "在日本选手第一次击球动作之后，球会朝哪个方向移动？",
+            "options": [
+                "A. 球被击中后会朝中国选手的右侧移动。",
+                "B. 球被击中后会朝中国选手的左侧移动。",
+                "C. 球被击中后会直着朝球桌上方移动。",
+                "D. 球被击中后会朝者球桌底下移动。"
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_72": {
+            "id": "FsLaTZmP6Uw_72",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "场景中拍摄角度是否会发生变化？",
+            "options": [
+                "A. 是的，场景中拍摄角度会发生变化。",
+                "B. 不，场景中拍摄角度始终不变。",
+                "C. 是的，但只有灯光发生变化，角度没有变化。",
+                "D. 不，这种比赛类型中不会出现拍摄角度的变化。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_73": {
+            "id": "FsLaTZmP6Uw_73",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "摄像机在场景中是如何变化的？",
+            "options": [
+                "A. 摄像机在比赛过程中保持静止，以俯视角度拍摄。",
+                "B. 摄像机角度微微向后退，角度保持不变。",
+                "C. 摄像机在鸟瞰视角和观众特写之间交替切换。",
+                "D. 摄像机只捕捉记分板，不包括任何选手的动作。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_74": {
+            "id": "FsLaTZmP6Uw_74",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "如何在画面中捕捉到球的速度？",
+            "options": [
+                "A. 球的速度通过接近日本球员球拍时呈现的模糊效果捕捉，表明快速的动作。",
+                "B. 球的速度通过展示球在空中静止不动的画面来突显，以达到戏剧化效果。",
+                "C. 球的速度通过球在画面中移动时留下的彩色轨迹来捕捉。",
+                "D. 球的速度通过慢动作重放，聚焦于球与球拍接触的瞬间来表现。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_75": {
+            "id": "FsLaTZmP6Uw_75",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "场景开始时，中国选手第一次回球时右臂会发生什么变化？",
+            "options": [
+                "A. 中国选手的右臂会伸展并完成击球动作。",
+                "B. 中国选手的右臂在整个比赛过程中保持不动。",
+                "C. 中国选手的右臂用于整场比赛握住球拍。",
+                "D. 中国选手的右臂用于向裁判示意。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_76": {
+            "id": "FsLaTZmP6Uw_76",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "在整个场景中，中国球员的球拍在画面中会发生什么情况？",
+            "options": [
+                "A. 中国球员的球拍颜色发生变化。",
+                "B. 中国球员的黑球拍不再可见。",
+                "C. 中国球员拿下球拍调整握姿。",
+                "D. 中国球员的球拍在比赛中途损坏。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_77": {
+            "id": "FsLaTZmP6Uw_77",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "是什么视觉提示将比赛与国际体育赛事联系在一起？",
+            "options": [
+                "A. 场景中显示的“Rio2016”标志。",
+                "B. 观众中出现的绿色座椅。",
+                "C. 记分牌上显示中国和日本的比分。",
+                "D. 中国选手球衣上的龙图案。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_78": {
+            "id": "FsLaTZmP6Uw_78",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "在场景开始时，日本选手相对于球桌的位置在哪里？",
+            "options": [
+                "A. 日本选手在球桌的左后方。",
+                "B. 日本选手在球桌的右后方。",
+                "C. 日本选手在球桌的中后方。",
+                "D. 日本选手没在球桌附近。"
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_79": {
+            "id": "FsLaTZmP6Uw_79",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "比赛的场地是什么？",
+            "options": [
+                "A. 比赛在一块鲜绿色的球场上进行，装饰着奥运五环标志。",
+                "B. 比赛发生在一个红色的粘土球场上，周围有网球网和观众席。",
+                "C. 场地是一间铺有木地板的体育馆，背景中有篮球框。",
+                "D. 比赛在一个混凝土球场上进行，附近有一个滑板坡道。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_80": {
+            "id": "FsLaTZmP6Uw_80",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "比赛周围有哪些品牌标识？",
+            "options": [
+                "A. 比赛周围有 'Rio  2016' 的品牌标识。",
+                "B. 比赛周围有 'Tokyo 2020' 的品牌标识。",
+                "C. 比赛周围有 'BeiJing 2008' 的品牌标识。",
+                "D. 比赛周围有 'London 2012' 的品牌标识。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_81": {
+            "id": "FsLaTZmP6Uw_81",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "比赛的氛围如何？",
+            "options": [
+                "A. 比赛有一种竞争的氛围。",
+                "B. 比赛感觉轻松随意。",
+                "C. 比赛有一种庆祝的氛围。",
+                "D. 比赛紧张且节奏缓慢。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_82": {
+            "id": "FsLaTZmP6Uw_82",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "中国选手穿着什么？",
+            "options": [
+                "A. 中国选手穿着一件鲜艳的红色衬衫，上面有黄色花纹，黑色短裤，和带有红色点缀的白色鞋子。",
+                "B. 中国选手穿着一件蓝色衬衫，上面有白色条纹，黑色短裤，和带有蓝色点缀的白色鞋子。",
+                "C. 中国选手穿着一件红色衬衫，上面有黑色条纹，黑色短裤，和红色鞋子。",
+                "D. 中国选手穿着一件黄色衬衫，上面有花纹，蓝色短裤，和带有黄色点缀的白色鞋子。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_83": {
+            "id": "FsLaTZmP6Uw_83",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "画面初期中国选手第一次回球后的姿态传达了什么？",
+            "options": [
+                "A. 他的弯曲的左膝和握有球拍的架势显示出专注。",
+                "B. 他放松的姿态表明缺乏参与感。",
+                "C. 他完全挺直的站姿显示出犹豫不决。",
+                "D. 他的防守蹲姿表明他正在从比赛中后退。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_84": {
+            "id": "FsLaTZmP6Uw_84",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "比赛中使用的桌子有什么独特之处？",
+            "options": [
+                "A. 桌子是绿色的，上面有奥运火炬的标志。",
+                "B. 桌子是蓝色的，装饰有奥运五环。",
+                "C. 桌子是蓝色的，带有花卉图案。",
+                "D. 桌子是绿色的，上面标有参赛国家的国旗。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_85": {
+            "id": "FsLaTZmP6Uw_85",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "比赛场地内除了参赛者还有几个人？",
+            "options": [
+                "A. 三个。",
+                "B. 两个。",
+                "C. 五个。",
+                "D. 四个。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_86": {
+            "id": "FsLaTZmP6Uw_86",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "在场景初始中上计分板是否对日本选手有利？",
+            "options": [
+                "A. 是的，对日本选手有利。",
+                "B. 不是，对中国选手有利。",
+                "C. 是的，比赛期间比分变为平局。",
+                "D. 不确定，看不见计分板。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_87": {
+            "id": "FsLaTZmP6Uw_87",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "使用哪种类型的镜头来介绍比赛？",
+            "options": [
+                "A. 使用更广的俯视镜头来介绍比赛。",
+                "B. 使用球员面部的特写镜头来介绍比赛。",
+                "C. 使用桌子的侧视图来介绍比赛。",
+                "D. 使用从网后低角度的镜头来介绍比赛。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_88": {
+            "id": "FsLaTZmP6Uw_88",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "使用更广的俯视摄像角度来介绍比赛有什么效果？",
+            "options": [
+                "A. 它提供了一个全面的视角，展示比赛的精彩。",
+                "B. 它仅仅关注于球员的面部表情。",
+                "C. 它仅突出奥林匹克标志和徽标。",
+                "D. 它让比赛区域看起来更小且不那么重要。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_89": {
+            "id": "FsLaTZmP6Uw_89",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "比赛中球员的动作速度如何？",
+            "options": [
+                "A. 球员的动作包括快速的冲刺和动态的姿势。",
+                "B. 球员的动作缓慢且谨慎，注重保持平衡。",
+                "C. 球员的动作大多是静止的，很少在比赛中参与活动。",
+                "D. 球员的动作轻松随意，表明缺乏紧张感。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_90": {
+            "id": "FsLaTZmP6Uw_90",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "在这场景中，日本选手的服装外观发生了什么变化？",
+            "options": [
+                "A. 日本选手的服装最初是红黑相间的图案，但后来变成了以黑色为主。",
+                "B. 日本选手的服装从黑色逐渐变成以红色为主。",
+                "C. 日本选手的服装最初是蓝红相间的图案，但后来变成了全黑。",
+                "D. 在整个场景中，日本选手的服装外观没有发生变化。"
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_91": {
+            "id": "FsLaTZmP6Uw_91",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素帮助将该事件定义为2016年奥运会的一部分？",
+            "options": [
+                "A. 'Rio2016'标志、桌上的奥运五环和鲜艳的绿色球场。",
+                "B. 球员们鲜红的球衣和他们脸上紧张的表情。",
+                "C. 看台上众多观众的欢呼声和挥舞的旗帜。",
+                "D. 球员们的黑色和红色运动服以及他们的动态动作。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_92": {
+            "id": "FsLaTZmP6Uw_92",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "穿白衬衫的那个人相对于观众区域的位置在哪里？",
+            "options": [
+                "A. 穿白衬衫的那个人在观众区域的后方。",
+                "B. 穿白衬衫的那个人在观众区域的前方。",
+                "C. 穿白衬衫的那个人在观众区域的中间。",
+                "D. 穿白衬衫的那个人在记分牌附近。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_93": {
+            "id": "FsLaTZmP6Uw_93",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "相对于上一个场景发生了什么主要场景转换？",
+            "options": [
+                "A. 场景从球场上的选手和裁判转换到观众。",
+                "B. 场景从空旷的球场转换到选手入场。",
+                "C. 场景从观众的兴奋转换到选手休息。",
+                "D. 场景从记分牌转换到颁奖仪式。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_94": {
+            "id": "FsLaTZmP6Uw_94",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "穿白衬衫的男子是如何被描述的？",
+            "options": [
+                "A. 穿白衬衫的男子正在腼腆地鼓掌。",
+                "B. 穿白衬衫的男子正在热情地鼓掌。",
+                "C. 穿白衬衫的男子正在举手庆祝。",
+                "D. 穿白衬衫的男子正在拿着一个记分牌。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_95": {
+            "id": "FsLaTZmP6Uw_95",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "穿着黑色短袖有白色条纹的人是如何被描述的？",
+            "options": [
+                "A. 穿着黑色短袖有白色条纹的人正在举起双臂庆祝。",
+                "B. 穿着黑色短袖有白色条纹的人安静地坐在观众席中。",
+                "C. 穿着黑色短袖有白色条纹的人正热情地鼓掌。",
+                "D. 穿着黑色短袖有白色条纹的人正靠在金属栏杆上。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_96": {
+            "id": "FsLaTZmP6Uw_96",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "在这个场景中有多少观众站起来过？",
+            "options": [
+                "A. 八个人",
+                "B. 七个人",
+                "C. 六个人",
+                "D. 五个人"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_97": {
+            "id": "FsLaTZmP6Uw_97",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "观众区能够完全看到穿黄色短袖红色帽子的小男孩吗？",
+            "options": [
+                "A. 不能，穿黄色夹克的小男孩部分被金属栏杆遮挡。",
+                "B. 能，穿黄色夹克的小男孩可以从观众区完全看到。",
+                "C. 不能，穿黄色夹克的小男孩完全被人群遮挡。",
+                "D. 能，穿黄色夹克的小男孩站在观众区的最前面。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_98": {
+            "id": "FsLaTZmP6Uw_98",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "穿白衬衫站起来的男子位置发生了什么变化？",
+            "options": [
+                "A. 穿白衬衫的男子稍微向右移动。",
+                "B. 穿白衬衫的男子似乎坐下了。",
+                "C. 穿白衬衫的男子完全离开了画面。",
+                "D. 穿白衬衫的男子位置没有变化。"
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_99": {
+            "id": "FsLaTZmP6Uw_99",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "记分板在画面的哪个位置可见？",
+            "options": [
+                "A. 记分板在画面的右上部分可见。",
+                "B. 记分板在画面的左下部分可见。",
+                "C. 记分板在画面的左上部分可见。",
+                "D. 记分板在画面的右下部分可见。"
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_100": {
+            "id": "FsLaTZmP6Uw_100",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "使用哪种摄像机视角来突出展示中心人群的活动？",
+            "options": [
+                "A. 使用特写视角来突出展示中心人群的活动。",
+                "B. 使用略微提升的视角来突出展示中心人群的活动。",
+                "C. 使用地面视角来突出展示中心人群的活动。",
+                "D. 使用俯视视角来突出展示中心人群的活动。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_101": {
+            "id": "FsLaTZmP6Uw_101",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "略微抬高的视角突出了关于观众的哪些特点？",
+            "options": [
+                "A. 略微抬高的视角突出了观众的团结和热情。",
+                "B. 略微抬高的视角突出了选手的个人表现。",
+                "C. 略微抬高的视角突出了裁判员的细节动作。",
+                "D. 略微抬高的视角突出了乒乓球比赛的技术方面。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_102": {
+            "id": "FsLaTZmP6Uw_102",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "哪个视觉要素表明中国在比赛中领先？",
+            "options": [
+                "A. 左上角记分牌。",
+                "B. 观众的制服颜色。",
+                "C. 观众的庆祝动作。",
+                "D. 主裁判椅的位置。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_103": {
+            "id": "FsLaTZmP6Uw_103",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "记分牌相对于画面的位置在哪里？",
+            "options": [
+                "A. 记分牌位于画面的左上角。",
+                "B. 记分牌位于画面的右上角。",
+                "C. 记分牌位于画面的正后方。",
+                "D. 记分牌位于画面的左下角。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_104": {
+            "id": "FsLaTZmP6Uw_104",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "画面初始时场地的背景颜色是什么？",
+            "options": [
+                "A. 背景为暗绿色和橙色调。",
+                "B. 背景明亮，有蓝色调。",
+                "C. 背景完全是黑色。",
+                "D. 背景为明亮的黄色和红色配色。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_105": {
+            "id": "FsLaTZmP6Uw_105",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "运动员穿的是什么？",
+            "options": [
+                "A. 运动员穿着鲜艳的红色运动衫。",
+                "B. 运动员穿着白色运动夹克。",
+                "C. 运动员穿着蓝色运动服。",
+                "D. 运动员穿着绿色篮球制服。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_106": {
+            "id": "FsLaTZmP6Uw_106",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "运动员的球衣是如何设计的？",
+            "options": [
+                "A. 球衣装饰着金龙图案、中国国旗标志和黄色镶边的领口。",
+                "B. 球衣是纯红色的，没有其他设计或图案。",
+                "C. 球衣有银色龙图案、日本国旗标志和绿色镶边的领口。",
+                "D. 球衣上有红黑相间的条纹，没有国旗标志或领口镶边。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_107": {
+            "id": "FsLaTZmP6Uw_107",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "中国在目前这一局的得分是多少？",
+            "options": [
+                "A. 中国的得分是4。",
+                "B. 中国的得分是3。",
+                "C. 中国的得分是2。",
+                "D. 中国的得分是1。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_108": {
+            "id": "FsLaTZmP6Uw_108",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "日本在当前局的得分是多少？",
+            "options": [
+                "A. 日本的得分是3。",
+                "B. 日本的得分是2。",
+                "C. 日本的得分是4。",
+                "D. 日本的得分是1。"
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_109": {
+            "id": "FsLaTZmP6Uw_109",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "记分板上显示了多少个国家的分数？",
+            "options": [
+                "A. 记分板上显示了一个国家的分数。",
+                "B. 记分板上显示了两个国家的分数。",
+                "C. 记分板上显示了三个国家的分数。",
+                "D. 记分板上未显示任何分数。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_110": {
+            "id": "FsLaTZmP6Uw_110",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "场景快结束时凸显出运动员服装的哪个细节？",
+            "options": [
+                "A. 他球衣背后的名字和国家。",
+                "B. 他球衣背后的号码。",
+                "C. 他短裤上的品牌标志。",
+                "D. 他穿的鞋子。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_111": {
+            "id": "FsLaTZmP6Uw_111",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "记分板是否显示任何动态变化？",
+            "options": [
+                "A. 是的，记分板显示了动态变化，中国的得分更新为3。",
+                "B. 不，记分板保持静止，没有任何球队的得分更新。",
+                "C. 是的，记分板显示了日本的得分增加到4。",
+                "D. 不，记分板仅显示初始分数，没有任何更新。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_112": {
+            "id": "FsLaTZmP6Uw_112",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "哪种镜头类型用于突出运动员的服装？",
+            "options": [
+                "A. 近景镜头用于突出运动员的上半身和服装。",
+                "B. 广角全景镜头用于展示整个比赛场地。",
+                "C. 鸟瞰镜头用于捕捉体育场的氛围。",
+                "D. 摇摄镜头用于跟随运动员的动作。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_113": {
+            "id": "FsLaTZmP6Uw_113",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "场景初期运动员球衣上的哪些视觉元素强化了他们的国家代表性？",
+            "options": [
+                "A. 球衣上的中国国旗贴片和龙的图案",
+                "B. 球衣上的日本国旗贴片和狮子的图案",
+                "C. 球衣上的中国国旗贴片和虎的图案",
+                "D. 球衣上的日本国旗贴片和龙的图案"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_114": {
+            "id": "FsLaTZmP6Uw_114",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "穿着蓝色西装外套和米色裤子的那个人在哪里？",
+            "options": [
+                "A. 穿着蓝色西装外套和米色裤子的人在比赛区的边缘附近。",
+                "B. 穿着蓝色西装外套和米色裤子的人坐在观众席上。",
+                "C. 穿着蓝色西装外套和米色裤子的人站在绿色椅子上。",
+                "D. 穿着蓝色西装外套和米色裤子的人在记分牌后面。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_115": {
+            "id": "FsLaTZmP6Uw_115",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "场景快结束时穿着蓝色西装外套和米色裤子的个人正在做什么动作？",
+            "options": [
+                "A. 穿着蓝色西装外套和米色裤子的个人保持静止状态。",
+                "B. 穿着蓝色西装外套和米色裤子的个人站了起来。",
+                "C. 穿着蓝色西装外套和米色裤子的个人抬起手掌。",
+                "D. 穿着蓝色西装外套和米色裤子的个人举起双手。"
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_116": {
+            "id": "FsLaTZmP6Uw_116",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景画面中的比赛是在什么类型的场地举行的？",
+            "options": [
+                "A. 户外体育场",
+                "B. 大型室内体育馆",
+                "C. 小型健身房",
+                "D. 公共公园"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_117": {
+            "id": "FsLaTZmP6Uw_117",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "录像中主要运动员的外貌特征是什么？",
+            "options": [
+                "A. 主要运动员有长黑发和瘦长的身材。",
+                "B. 主要运动员有短黑发和肌肉发达的身材，象征着职业运动员素质。",
+                "C. 主要运动员有中等长度的棕色头发和细瘦的身材。",
+                "D. 主要运动员有卷曲的金发和结实的身材。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_118": {
+            "id": "FsLaTZmP6Uw_118",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "运动员球衣上的中国国旗标志是什么样子的？",
+            "options": [
+                "A. 球衣上的中国国旗标志有三颗星。",
+                "B. 球衣上的中国国旗标志有五颗星。",
+                "C. 球衣上的中国国旗标志只有一颗大星。",
+                "D. 球衣上的中国国旗标志没有星星。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_119": {
+            "id": "FsLaTZmP6Uw_119",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "运动员球衣的领口是什么颜色？",
+            "options": [
+                "A. 红色",
+                "B. 黄色",
+                "C. 绿色",
+                "D. 蓝色"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_120": {
+            "id": "FsLaTZmP6Uw_120",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "运动员球衣背面能见到什么文字？",
+            "options": [
+                "A. Ma Long，CHN",
+                "B. Ai Long，CHN",
+                "C. Ma Long，JPN",
+                "D. Ai Long，JPN"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_121": {
+            "id": "FsLaTZmP6Uw_121",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "背景记分板上显示了多少个国家？",
+            "options": [
+                "A. 显示了一个国家。",
+                "B. 显示了两个国家。",
+                "C. 显示了三个国家。",
+                "D. 显示了四个国家。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_122": {
+            "id": "FsLaTZmP6Uw_122",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "背景计分板上“CHN”（中国）的这局得分是多少？",
+            "options": [
+                "A. “CHN”（中国）的得分是3。",
+                "B. “CHN”（中国）的得分是4。",
+                "C. “CHN”（中国）的得分是2。",
+                "D. “CHN”（中国）的得分是1。"
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_123": {
+            "id": "FsLaTZmP6Uw_123",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "背景记分板上“JPN”（日本）的这局得分是多少？",
+            "options": [
+                "A. “JPN”（日本）的得分是2。",
+                "B. “JPN”（日本）的得分是3。",
+                "C. “JPN”（日本）的得分是1。",
+                "D. “JPN”（日本）的得分是4。"
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_124": {
+            "id": "FsLaTZmP6Uw_124",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "竞技场地板的颜色是否在不同画面中发生变化？",
+            "options": [
+                "A. 是的，它从绿色变为蓝色。",
+                "B. 是的，它从绿色变为红色。",
+                "C. 不，地板在所有画面中始终保持鲜艳的绿色。",
+                "D. 是的，它从绿色变为黄色。"
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_125": {
+            "id": "FsLaTZmP6Uw_125",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "在场景画面中使用了哪种类型的摄像机角度来捕捉运动员？",
+            "options": [
+                "A. 摄像机角度是从略微抬高的视角进行特写。",
+                "B. 摄像机角度是从低视角进行广角拍摄。",
+                "C. 摄像机角度是从运动员背后进行中景拍摄。",
+                "D. 摄像机角度是长镜头，整个竞技场尽收眼底。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_126": {
+            "id": "FsLaTZmP6Uw_126",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "记分板上的哪些视觉元素显示了正在进行比赛中球队的比分？",
+            "options": [
+                "A. 记分板显示了“CHN 3, 2”和“JPN 2, 1”，并附有各自的国旗。",
+                "B. 记分板显示了“CHN 4, 2”和“JPN 3, 2”，并附有运动员姓名。",
+                "C. 记分板上显示了“CHN 2, 2”和“JPN 3, 1”，但没有任何国旗。",
+                "D. 记分板呈现了“CHN 3, 1”和“JPN 2, 3”，配有详细的图形。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_127": {
+            "id": "FsLaTZmP6Uw_127",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "记分板上还显示了哪些附加文本元素？",
+            "options": [
+                "A. 记分板上包含像'奥运五环'和'OMEGA'。",
+                "B. 记分板上包含像'乒乓'和'CHN'。",
+                "C. 记分板上包含像'JPN'和'赢家'。",
+                "D. 记分板上包含像'赛点'和'输家'。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_128": {
+            "id": "FsLaTZmP6Uw_128",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Ma Long的对手在场景开始时在画面的那个位置？",
+            "options": [
+                "A. 画面左侧。",
+                "B. 画面右侧。",
+                "C. 画面顶部。",
+                "D. 画面底部。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_129": {
+            "id": "FsLaTZmP6Uw_129",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景中描述的主要环境是什么？",
+            "options": [
+                "A. 场景发生在奥运会乒乓球比赛中，画面中有“Rio 2016”以及座无虚席的观众。",
+                "B. 场景发生在当地乒乓球比赛的高中体育馆中，观众席上有少量观众。",
+                "C. 场景发生在职业运动俱乐部的练习场中，有少量观众且没有大型装饰。",
+                "D. 场景发生在社区中心的乒乓球赛中，参赛者休闲随意且没有观众。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_130": {
+            "id": "FsLaTZmP6Uw_130",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "Ma Long在场景开始时的姿态是什么？",
+            "options": [
+                "A. Ma Long坐着观察比赛。",
+                "B. Ma Long右臂和球拍高高举起。",
+                "C. Ma Long在整个场景中保持前倾姿势不动。",
+                "D. Ma Long在场景开始时进行正手击球。"
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_131": {
+            "id": "FsLaTZmP6Uw_131",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "场景中有多少运动员被重点关注？",
+            "options": [
+                "A. 一名运动员。",
+                "B. 两名运动员。",
+                "C. 三名运动员。",
+                "D. 四名运动员。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_132": {
+            "id": "FsLaTZmP6Uw_132",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "中国根据记分牌领先日本吗？",
+            "options": [
+                "A. 是的，根据电子记分牌，中国领先日本。",
+                "B. 不，根据电子记分牌，日本领先中国。",
+                "C. 记分牌没有显示任何领先情况。",
+                "D. 根据记分牌，中国和日本比赛打成平局。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_133": {
+            "id": "FsLaTZmP6Uw_133",
+            "scene": 6,
+            "dimension": "Camera Direction",
+            "question": "Ma Long主要从哪个方向被摄像机拍摄？",
+            "options": [
+                "A. Ma Long主要从背后被摄像机拍摄。",
+                "B. Ma Long主要从正面被摄像机拍摄。",
+                "C. Ma Long主要从侧面被摄像机拍摄。",
+                "D. Ma Long主要从上方被摄像机拍摄。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_134": {
+            "id": "FsLaTZmP6Uw_134",
+            "scene": 6,
+            "dimension": "Speed",
+            "question": "场景描述中是否提到运动员动作速度的变化？",
+            "options": [
+                "A. 是的，因为在比赛进行时乒乓球的模糊表面了速度快。",
+                "B. 不，场景描述中没有提到运动员动作的任何变化。",
+                "C. 是的，场景描述明确指出运动员的动作在接近结束时放慢了。",
+                "D. 不，场景描述中只提到了观众的注意力。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_135": {
+            "id": "FsLaTZmP6Uw_135",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "Ma Long在场景中第一次回球后的初始站姿是什么？",
+            "options": [
+                "A. Ma Long的初始站姿是直立姿势。",
+                "B. Ma Long的初始站姿是蹲伏姿势。",
+                "C. Ma Long的初始站姿是躺下。",
+                "D. Ma Long的初始站姿是坐在板凳上。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_136": {
+            "id": "FsLaTZmP6Uw_136",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "Ma Long在第二次回球时的姿态是什么？",
+            "options": [
+                "A. 半蹲状态。",
+                "B. 站立状态。",
+                "C. 直立状态。",
+                "D. 坐下状态。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_137": {
+            "id": "FsLaTZmP6Uw_137",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "乒乓球台上那个元素强化了比赛是奥林匹克赛事的设定？",
+            "options": [
+                "A. 白色的奥运五环标注。",
+                "B. 运动员球衣上的 'Ma Long' 文字。",
+                "C. 运动员球衣上的 'CHN' 文字。",
+                "D. 显示比赛比分的电子记分牌。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_138": {
+            "id": "FsLaTZmP6Uw_138",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "乒乓球桌上的什么符号强化了奥运会场景的设定？",
+            "options": [
+                "A. 乒乓球桌上的奥运五环",
+                "B. 乒乓球桌上的里约地图",
+                "C. 乒乓球桌上的国旗",
+                "D. 乒乓球桌上的体育联合会标志"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_139": {
+            "id": "FsLaTZmP6Uw_139",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "哪些装饰元素强化了奥运会赛事的场景？",
+            "options": [
+                "A. 运动员手里的拍子",
+                "B. Rio2016横幅",
+                "C. 教练的红色服装",
+                "D. 观众的黑色剪影"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_140": {
+            "id": "FsLaTZmP6Uw_140",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景的背景是什么？",
+            "options": [
+                "A. 场景发生在一个奥运主题的环境中，有彩色装饰和绿色的比赛场地。",
+                "B. 场景发生在当地社区中心的一场休闲乒乓球比赛中。",
+                "C. 场景发生在一个灯光昏暗的室内体育馆里，没有观众。",
+                "D. 场景发生在一个学校礼堂里，装饰简单，地板为木质。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_141": {
+            "id": "FsLaTZmP6Uw_141",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "这个场景的氛围是怎样的？",
+            "options": [
+                "A. 氛围充满活力，有热情的观众、明亮的灯光。",
+                "B. 氛围平静且安静，有安详的观众和昏暗的灯光。",
+                "C. 氛围紧张，观众保持沉默，聚光灯仅集中在设备上。",
+                "D. 氛围混乱，灯光昏暗，观众表现散漫，对比赛缺乏兴趣。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_142": {
+            "id": "FsLaTZmP6Uw_142",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "记分牌显示了关于玩家的哪些信息？",
+            "options": [
+                "A. 记分牌显示了'CHN,' 'Ma Long,' 'JPN,' and 'Mizutani Jun.'",
+                "B. 记分牌显示了'USA,' 'John Doe,' 'GER,' and 'Hans Muller.'",
+                "C. 记分牌列出了'FRA,' 'Pierre Dupont,' 'ITA,' and 'Giovanni Rossi.'",
+                "D. 记分牌显示了'BRA,' 'Carlos Silva,' 'ARG,' and 'Diego Maradona.'"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_143": {
+            "id": "FsLaTZmP6Uw_143",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "记分牌显示本局比赛的小比分是多少？",
+            "options": [
+                "A. 中国以2-1领先。",
+                "B. 日本以2-1领先。",
+                "C. 比赛以1-1打平。",
+                "D. 中国以3-0领先。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_144": {
+            "id": "FsLaTZmP6Uw_144",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "记分牌上显示的中国前面五局比赛得分是多少？",
+            "options": [
+                "A. 比赛得分为11-5、11-5、11-5、7-11、10-12。",
+                "B. 比赛得分为11-7、11-5、11-5、7-11、10-11。",
+                "C. 比赛得分为10-5、11-6、11-5、7-12、10-10。",
+                "D. 比赛得分为11-5、11-4、11-5、7-10、10-12。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_145": {
+            "id": "FsLaTZmP6Uw_145",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "记分板显示了哪些额外信息？",
+            "options": [
+                "A. 右上角显示了“OMEGA”这个词。",
+                "B. 当前的天气状况。",
+                "C. 到场观众的人数。",
+                "D. 球员的心率。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_146": {
+            "id": "FsLaTZmP6Uw_146",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Ma Long场景中有做庆祝吗？",
+            "options": [
+                "A. 是的，Ma Long在场景中以欢庆的姿态庆祝。",
+                "B. 不是，Ma Long在场景中看起来很失望。",
+                "C. 是的，Ma Long在场景中坐着。",
+                "D. 不是，Ma Long在场景中没有出现。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_147": {
+            "id": "FsLaTZmP6Uw_147",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "画面开始时场内红色运动服的运动员做了什么动作？",
+            "options": [
+                "A. 坐下",
+                "B. 站起来",
+                "C. 跳了一下",
+                "D. 保持静止"
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_148": {
+            "id": "FsLaTZmP6Uw_148",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "摄像机是如何拍摄Ma Long的庆祝姿态的？",
+            "options": [
+                "A. 摄像机移位，将Ma Long置于画面前景的左侧，凸显他的庆祝姿态。",
+                "B. 摄像机拉近黑衣对手的画面，遮挡了Ma Long的庆祝姿态。",
+                "C. 摄像机向右摇移，聚焦观众的反应而不是Ma Long。",
+                "D. 摄像机保持静止，提供整个球场的广角视图，而不突出强调Ma Long。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_149": {
+            "id": "FsLaTZmP6Uw_149",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "哪个视觉元素表明运动员朝中间移动时的强度？",
+            "options": [
+                "A. 他的制服变得清晰可见且明锐。",
+                "B. 背景中的观众转动了他们的头。",
+                "C. 轻微的运动模糊遮掩了他的特征。",
+                "D. 背景中的记分牌发生了显著变化。"
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_150": {
+            "id": "FsLaTZmP6Uw_150",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "Ma Long在庆祝开始时的姿势是什么样的？",
+            "options": [
+                "A. 双膝弯曲，双臂收拢，球拍紧靠胸前。",
+                "B. 双腿伸直，双臂举起，球拍高举过头。",
+                "C. 双膝弯曲，双臂张开，球拍向前指。",
+                "D. 双腿伸直，双臂交叉，球拍放在桌子上。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_151": {
+            "id": "FsLaTZmP6Uw_151",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "Ma Long球衣上的哪些细节有助于在比赛中识别他？",
+            "options": [
+                "A. 背面印有“MA LONG”和“CHN”的亮红色球衣有助于识别他。",
+                "B. 带有红色条纹的白色运动鞋有助于识别他。",
+                "C. 带有他队标的黑色短裤有助于识别他。",
+                "D. 带有他姓名首字母的蓝色护腕有助于识别他。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_152": {
+            "id": "FsLaTZmP6Uw_152",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "场景即将结束时挥拳动作的工作人员位于哪里？",
+            "options": [
+                "A. 在画面最左边",
+                "B. 在画面中央",
+                "C. 在画面最右边",
+                "D. 没在画面内"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_153": {
+            "id": "FsLaTZmP6Uw_153",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "以Ma Long为中心的庆祝场景在哪里发生？",
+            "options": [
+                "A. 在一个当地的体育馆。",
+                "B. 在奥运会乒乓球场地。",
+                "C. 在一个国家级的训练设施。",
+                "D. 在一个业余乒乓球俱乐部。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_154": {
+            "id": "FsLaTZmP6Uw_154",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "在绿色裁判椅上的工作人员会做出什么手势？",
+            "options": [
+                "A. 比赛官员高举双臂庆祝。",
+                "B. 比赛官员单臂坚定地举起。",
+                "C. 比赛官员挥舞旗帜以示规则违规。",
+                "D. 比赛官员随观众一起鼓掌。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_155": {
+            "id": "FsLaTZmP6Uw_155",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "记分板显示了哪些队伍？",
+            "options": [
+                "A. 中国（CHN）和日本（JPN）",
+                "B. 中国（CHN）和韩国（KOR）",
+                "C. 日本（JPN）和德国（GER）",
+                "D. 中国（CHN）和美国（USA）"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_156": {
+            "id": "FsLaTZmP6Uw_156",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "现在记分牌上中国和日本之间的本场比赛分数是多少？",
+            "options": [
+                "A. 中国在比赛中以2-1领先。",
+                "B. 日本在比赛中以2-1领先。",
+                "C. 比分在比赛中打成1-1平。",
+                "D. 中国在比赛中以3-0领先。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_157": {
+            "id": "FsLaTZmP6Uw_157",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "显示在记分牌上的右侧两场比赛的比分是多少？",
+            "options": [
+                "A. 11-5 和 12-8",
+                "B. 11-7 和 12-10",
+                "C. 9-11 和 10-12",
+                "D. 10-11 和 8-12"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_158": {
+            "id": "FsLaTZmP6Uw_158",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "场景快结束时Ma Long的对手能看见吗？",
+            "options": [
+                "A. 能看见",
+                "B. 不能看见",
+                "C. 部分可见",
+                "D. 不清楚"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_159": {
+            "id": "FsLaTZmP6Uw_159",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "Ma Long在自豪地站立前进行什么动作？",
+            "options": [
+                "A. Ma Long改变为更紧凑的、前倾的姿势，低下头弯下身体。",
+                "B. Ma Long举起双臂摆出胜利姿态，并跳跃庆祝他的胜利。",
+                "C. Ma Long切换到防御姿势，准备接对手的下一次击球。",
+                "D. Ma Long将他的球拍抛向空中以示庆祝，然后向观众鞠躬。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_160": {
+            "id": "FsLaTZmP6Uw_160",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "摄像机的角度调整是为了提供什么方向的视角？",
+            "options": [
+                "A. 摄像机角度调整是为了提供更宽广、更全面的视角。",
+                "B. 摄像机角度调整是为了提供更近距离、更聚焦的视角。",
+                "C. 摄像机角度调整是为了提供更低视角、更具戏剧性的视角。",
+                "D. 摄像机角度调整是为了提供更高视角、更具俯视效果的视角。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_161": {
+            "id": "FsLaTZmP6Uw_161",
+            "scene": 6,
+            "dimension": "Camera Direction",
+            "question": "调整后的摄像机角度捕捉到了什么？",
+            "options": [
+                "A. 它捕捉到了观众席上的更多细节。",
+                "B. 它聚焦于Ma Long的面部表情。",
+                "C. 它只突出显示了角落里的记分牌。",
+                "D. 它完全转向观众的反应。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_162": {
+            "id": "FsLaTZmP6Uw_162",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "相机取景的调整如何影响场景的范围？",
+            "options": [
+                "A. 调整将焦点仅放在Ma Long身上，模糊了所有其他元素。",
+                "B. 调整扩大了场景的范围，以包括新的元素和互动。",
+                "C. 调整使观众和裁判成为场景的核心焦点。",
+                "D. 调整提供了Ma Long对手的特写，突出了他们的反应。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_163": {
+            "id": "FsLaTZmP6Uw_163",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "描述中是否提到Ma Long运动过程中速度的变化？",
+            "options": [
+                "A. 是的，描述中提到Ma Long在运动过程中加速。",
+                "B. 是的，描述中提到Ma Long在运动过程中减速。",
+                "C. 不，描述中没有提到Ma Long运动过程中速度的变化。",
+                "D. 是的，描述中提到Ma Long在运动过程中既有加速又有减速。"
+            ],
+            "answer": "D"
+        },
+        "FsLaTZmP6Uw_164": {
+            "id": "FsLaTZmP6Uw_164",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "记分板上是什么标识Ma Long是这局的发球者？",
+            "options": [
+                "A. 记分板上Ma Long的名字被蓝色长方形框着。",
+                "B. 记分板上Ma Long的名字旁边有一个金牌徽标。",
+                "C. 记分板上Ma Long的名字旁边显示 '冠军'。",
+                "D. 记分板上Ma Long的名字旁边有一个奖杯图标。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_165": {
+            "id": "FsLaTZmP6Uw_165",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "这个场景发生在哪里？",
+            "options": [
+                "A. 这个场景发生在一场乒乓球比赛的高潮阶段。",
+                "B. 这个场景发生在一场游泳比赛决赛中。",
+                "C. 这个场景发生在一场举重锦标赛期间。",
+                "D. 这个场景发生在一场足球比赛的最后一分钟。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_166": {
+            "id": "FsLaTZmP6Uw_166",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "这个场景的整体气氛是怎样的？",
+            "options": [
+                "A. 气氛是Ma Long获胜后充满热烈庆祝和胜利的。",
+                "B. 比赛结束时气氛平静而安静。",
+                "C. 气氛充满失望和悲伤。",
+                "D. 比赛期间气氛混乱无序。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_167": {
+            "id": "FsLaTZmP6Uw_167",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "Ma Long在庆祝得分时的表情是什么？",
+            "options": [
+                "A. Ma Long低头带着失望的神情，反思比赛。",
+                "B. Ma Long抬头望天，喜悦之情溢于言表。",
+                "C. Ma Long直视观众，表情严肃。",
+                "D. Ma Long注视记分牌，表情若有所思。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_168": {
+            "id": "FsLaTZmP6Uw_168",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "Ma Long球衣的主要特点是什么？",
+            "options": [
+                "A. Ma Long的球衣是鲜艳的红色，上面有复杂的黄色龙图案和国家标志，还有一个小红色徽标及其他细节设计。",
+                "B. Ma Long的球衣是绿色的，上面有银色条纹和国家标志，另有一个小红色徽标及其他细节设计。",
+                "C. Ma Long的球衣是蓝色的，配有白色圆点和国家标志，还有一个小红色徽标及其他细节设计。",
+                "D. Ma Long的球衣是黑色的，上面有金色星星和国家标志，并带一个小红色徽标及其他细节设计。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_169": {
+            "id": "FsLaTZmP6Uw_169",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "场景快结束时能看清几个主要人物？",
+            "options": [
+                "A. 两个主要人物。",
+                "B. 三个主要人物。",
+                "C. 四个主要人物。",
+                "D. 五个主要人物。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_170": {
+            "id": "FsLaTZmP6Uw_170",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "场景快结束时描述的主要人物是谁？",
+            "options": [
+                "A. Ma Long、裁判。",
+                "B. Ma Long、Mizutani Jun。",
+                "C. Ma Long、Ma Long的教练。",
+                "D. Mizutani Jun、裁判。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_171": {
+            "id": "FsLaTZmP6Uw_171",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "记分板显示Ma Long获胜了吗？",
+            "options": [
+                "A. 不，计分板上目前只是显示Ma Long领先。",
+                "B. 不，记分板显示来自日本的“Mizutani Jun”赢得了比赛。",
+                "C. 是的，但记分板上的名字不够清晰，无法确定获胜者。",
+                "D. 不，场景中记分板不可见。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_172": {
+            "id": "FsLaTZmP6Uw_172",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "裁判在场景中手势是如何变化的？",
+            "options": [
+                "A. 裁判先是双臂交叉，然后为Ma Long鼓掌，最后双臂向外伸展以示庆祝。",
+                "B. 裁判手臂从大腿举起，最终到举起超过头部并握紧拳头。",
+                "C. 裁判开始时静静站立，然后上前与Ma Long握手，最后双拳举过头顶。",
+                "D. 裁判开始时双手放在膝上，然后挥旗示意比赛结束，最后保持坐姿不再动作。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_173": {
+            "id": "FsLaTZmP6Uw_173",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "Ma Long在蹲下庆祝时目光朝哪个方向？",
+            "options": [
+                "A. Ma Long的目光向上。",
+                "B. Ma Long的目光向下。",
+                "C. Ma Long的目光向左。",
+                "D. Ma Long的目光看向观众。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_174": {
+            "id": "FsLaTZmP6Uw_174",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "活动进行过程中，摄像机如何调整焦距？",
+            "options": [
+                "A. 摄像机稍微增大焦距，以强调中心人物。",
+                "B. 摄像机拉远焦距以捕捉整个观众。",
+                "C. 摄像机在活动期间始终保持一致的焦距。",
+                "D. 摄像机只对准数字记分牌进行放大。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_175": {
+            "id": "FsLaTZmP6Uw_175",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "活动期间，摄像机如何调整角度？",
+            "options": [
+                "A. 摄像机拉远镜头，清晰地展示整个观众席和记分牌。",
+                "B. 摄像机保持静止，展示整个场景而不聚焦于具体内容。",
+                "C. 摄像机改变角度，聚焦于核人物。",
+                "D. 摄像机转向聚焦于观众席和记分牌，突出周围环境的细节。"
+            ],
+            "answer": "C"
+        },
+        "FsLaTZmP6Uw_176": {
+            "id": "FsLaTZmP6Uw_176",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素突出了Ma Long的文化和竞技身份？",
+            "options": [
+                "A. 球衣图案和国家标志，记分牌上的“CHN”，突出了他的文化和竞技身份。",
+                "B. 裁判穿着的蓝色西装和黄色领带突出了Ma Long的文化和竞技身份。",
+                "C. 背景中观众穿的亮黄色衬衫突出了Ma Long的文化和竞技身份。",
+                "D. 裁判使用的绿色椅子突出了Ma Long的文化和竞技身份。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_177": {
+            "id": "FsLaTZmP6Uw_177",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "Ma Long在得分后会做什么？",
+            "options": [
+                "A. Ma Long采取庆祝的姿势，双膝弯曲，双臂靠近身体，紧握球拍靠近胸前。",
+                "B. Ma Long坐在裁判椅上，微笑着向观众挥手。",
+                "C. Ma Long将球拍高举过头顶，身体挺直，轻轻原地跳跃。",
+                "D. Ma Long跪在地上，双臂举成“V”字形，同时抬头看着记分牌。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_178": {
+            "id": "FsLaTZmP6Uw_178",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "裁判长如何认可Ma Long的得分有效的？",
+            "options": [
+                "A. 裁判长举起双臂并兴奋地挥动。",
+                "B. 裁判长微微举起手臂表示认可。",
+                "C. 裁判长站起来大声鼓掌以祝贺Ma Long。",
+                "D. 裁判长敲铃宣布比赛结束。"
+            ],
+            "answer": "B"
+        },
+        "FsLaTZmP6Uw_179": {
+            "id": "FsLaTZmP6Uw_179",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "比赛中动态的氛围是如何变化的？",
+            "options": [
+                "A. 场景从捕捉运动员的竞技姿态过渡到观众的庆祝。",
+                "B. 场景完全聚焦于记分牌和裁判，忽略了运动员和观众。",
+                "C. 场景从展示欢呼的人群过渡到仅仅聚焦于裁判的着装和动作。",
+                "D. 场景以记分牌开始，最后聚焦于人群中的随机观众。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_180": {
+            "id": "FsLaTZmP6Uw_180",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "Ma Long的得分在比赛中是如何突出的？",
+            "options": [
+                "A. Ma Long的胜利在比赛的高潮中得到了突显，伴随着激烈的观众庆祝、裁判的举动。",
+                "B. Ma Long的胜利在一个安静的场馆和裁判微微点头的情况下得到了突显。",
+                "C. Ma Long的胜利通过对手默默离开球场得到了突显。",
+                "D. Ma Long的胜利在一个空荡荡的体育场和裁判中立的表情下得到了突显。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_181": {
+            "id": "FsLaTZmP6Uw_181",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "记分牌如何为比赛叙事增添内容？",
+            "options": [
+                "A. 记分牌显示比分、比赛状态和关键比赛结果。",
+                "B. 记分牌显示广告和赞助商，为比赛增加商业价值。",
+                "C. 记分牌用于显示球员统计数据和历史比赛数据。",
+                "D. 记分牌提供观众反应和评论的实时更新。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_182": {
+            "id": "FsLaTZmP6Uw_182",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在场景切换过程中，背景灯光的哪些元素保持不变？",
+            "options": [
+                "A. 鲜艳的绿色比赛场地、昏暗的观众轮廓和乒乓球台上的奥运标志在视觉上保持一致。",
+                "B. 鲜艳的红色球衣、昏暗的观众轮廓以及裁判的蓝色西装在视觉上保持一致。",
+                "C. 鲜艳的绿色比赛场地、记分牌细节以及Ma Long的球拍在视觉上保持一致。",
+                "D. 乒乓球台上的奥运标志、观众鲜艳的黄色衣服以及裁判举起的手在视觉上保持一致。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_183": {
+            "id": "FsLaTZmP6Uw_183",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在最初的画面中可以看到Ma Long采取了什么动作？",
+            "options": [
+                "A. 可以看到Ma Long稍微弯下腰。",
+                "B. 可以看到Ma Long站直身子，握紧右拳庆贺。",
+                "C. 可以看到Ma Long高高举起球拍庆祝。",
+                "D. 可以看到Ma Long与对手握手。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_184": {
+            "id": "FsLaTZmP6Uw_184",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "是什么原因造成了观众之间的热烈气氛？",
+            "options": [
+                "A. 观众之间的庆祝气氛因Ma Long得分和主裁判正式承认他的得分而提升，引发观众的热烈反应。",
+                "B. 观众之间的热烈气氛是由于明亮的场馆灯光和一位穿黄色衣服的新人物进入画面而造成的。",
+                "C. 观众因记分牌详细显示比分更新，反映出Ma Long战胜Mizutani Jun的胜利而振奋。",
+                "D. 裁判升起黄旗暗示比赛结束，激励了欢呼的人群。"
+            ],
+            "answer": "A"
+        },
+        "FsLaTZmP6Uw_185": {
+            "id": "FsLaTZmP6Uw_185",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "裁判的手势在比赛叙事中有什么意义？",
+            "options": [
+                "A. 裁判的手势正式确认了Ma Long获胜的一分的有效性。",
+                "B. 裁判的手势表示比赛结束，鼓励观众开始热情庆祝Ma Long的胜利。",
+                "C. 裁判的手势表明需要对最后一分进行官方审核，然后才能确认Ma Long为获胜者。",
+                "D. 裁判的手势是在感谢观众在比赛期间的热情支持。"
+            ],
+            "answer": "A"
+        }
+    }
+}

@@ -1,0 +1,961 @@
+{
+    "scene_hint": {
+        "0": "两个头像出现在背景中并伴随文字。",
+        "1": "两个女人在房间内交谈。",
+        "2": "一位法官和一男一女出现在画面中。",
+        "3": "简约图形文本出现在白色背景中。",
+        "4": "大量宣传文字出现在黑色背景中。",
+        "5": "画面从动画转为文字。"
+    },
+    "qa": {
+        "CezlmUwMXNo_0": {
+            "id": "CezlmUwMXNo_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "场景背景是怎样的？",
+            "options": [
+                "A. 纯黑色的",
+                "B. 浅蓝色的",
+                "C. 米白色的",
+                "D. 浅灰色的"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_1": {
+            "id": "CezlmUwMXNo_1",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "场景头像人物是怎样的？",
+            "options": [
+                "A. 一个长发女人和一个短发男人。",
+                "B. 一个卷发女人和一个短发男人。",
+                "C. 一个卷发女人和一个卷发男人。",
+                "D. 一个短发女人和一个长发男人。"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_2": {
+            "id": "CezlmUwMXNo_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "女人头像衣服是什么颜色的的？",
+            "options": [
+                "A. 绿色",
+                "B. 黄色",
+                "C. 棕色",
+                "D. 蓝色"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_3": {
+            "id": "CezlmUwMXNo_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "那个男人穿什么？",
+            "options": [
+                "A. 棕色外套、白色衬衫和红色领带。",
+                "B. 黑色外套、白色衬衫和黑色领带。",
+                "C. 红色外套、白色衬衫和红色领带。",
+                "D. 黑色外套、白色衬衫和棕色领带。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_4": {
+            "id": "CezlmUwMXNo_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "两个人物头像中间是什么？",
+            "options": [
+                "A. 橙色填充圆圈，内有字母“V.”。",
+                "B. 黄色填充圆圈，内有字母“A.”。",
+                "C. 橙色填充圆圈，内有字母“A.”。",
+                "D. 白色填充圆圈，有橙色字母“V.”。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_5": {
+            "id": "CezlmUwMXNo_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "场景中提到了多少人？",
+            "options": [
+                "A. 一个。",
+                "B. 两个。",
+                "C. 三个。",
+                "D. 四个。"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_6": {
+            "id": "CezlmUwMXNo_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "画面中文本提到什么场景？",
+            "options": [
+                "A. 法院",
+                "B. 体育场",
+                "C. 话剧场馆",
+                "D. 会议室"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_7": {
+            "id": "CezlmUwMXNo_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "场景中显示时间是多少？",
+            "options": [
+                "A. 1973",
+                "B. 1972",
+                "C. 1793",
+                "D. 1937"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_8": {
+            "id": "CezlmUwMXNo_8",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景发生在什么环境中？",
+            "options": [
+                "A. 干净整洁的室内环境。",
+                "B. 杂乱无序的街道环境。",
+                "C. 空气清晰的海滩环境。",
+                "D. 郁郁葱葱的密林环境。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_9": {
+            "id": "CezlmUwMXNo_9",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "从视频来看，画面右侧的女人穿着是怎样的？",
+            "options": [
+                "A. 她穿着紫色的连衣裙。",
+                "B. 她穿着黄色的泡泡群。",
+                "C. 她穿着绿色的无袖裙。",
+                "D. 她穿着红色的连衣裙。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_10": {
+            "id": "CezlmUwMXNo_10",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "绿衣服女人的动作姿势是怎样的？",
+            "options": [
+                "A. 她左手扶着肚子，右手自然下垂。",
+                "B. 她双手向上举起，做欢呼状。",
+                "C. 她右手悬于胸前，左手拖住右手。",
+                "D. 她双手放于身体两侧，竖直站立。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_11": {
+            "id": "CezlmUwMXNo_11",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "场景中的灯光有变化吗？",
+            "options": [
+                "A. 是的，灯光从明亮变暗。",
+                "B. 不，灯光保持未发生变化。",
+                "C. 是的，灯光从早晨变到傍晚。",
+                "D. 不，灯光变成阴沉的阴天。"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_12": {
+            "id": "CezlmUwMXNo_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "从视频来看，玻璃窗在什么位置？",
+            "options": [
+                "A. 玻璃窗在画面最左侧。",
+                "B. 玻璃窗在画面最右侧。",
+                "C. 玻璃窗在画面正中央。",
+                "D. 该场景中未发现玻璃窗。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_13": {
+            "id": "CezlmUwMXNo_13",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "从观看视频角度来看，沙发在穿绿色衣服女人什么位置？",
+            "options": [
+                "A. 沙发在女人右后方。",
+                "B. 沙发在女人左后方。",
+                "C. 沙发在女人正后方。",
+                "D. 沙发在女人正前方。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_14": {
+            "id": "CezlmUwMXNo_14",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "穿紫色连衣裙的女人有戴什么饰品吗？",
+            "options": [
+                "A. 她耳朵上戴着珍珠耳钉。",
+                "B. 她手腕上戴着银色手链。",
+                "C. 她脖子上戴着绿色吊坠。",
+                "D. 她的手上戴着银色戒指。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_15": {
+            "id": "CezlmUwMXNo_15",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这个场景背景是怎样的？",
+            "options": [
+                "A. 背景中有一个沙发、一个柜子和一个装有窗帘的落地窗等。",
+                "B. 背景中有一张桌子、一个电视和一个颜色鲜艳的沙发等。",
+                "C. 背景中有一个书柜、一个吧台和一个狭小的蓝色窗户等。",
+                "D. 背景中有一个橱柜，一张圆桌、一个吧台和一套茶具等。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_16": {
+            "id": "CezlmUwMXNo_16",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "从视频来看，怀孕的女子在画面中的哪个位置？",
+            "options": [
+                "A. 她位于画面的右侧。",
+                "B. 她位于画面的中央。",
+                "C. 她位于画面的左侧。",
+                "D. 她位于法官的后面。"
+            ],
+            "answer": "C"
+        },
+        "CezlmUwMXNo_17": {
+            "id": "CezlmUwMXNo_17",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "这一场景的设置是什么？",
+            "options": [
+                "A. 场景发生在一个舒适的家庭环境中，使用了暖色调。",
+                "B. 场景发生在繁忙的城市街道上，交通繁忙。",
+                "C. 场景发生在法庭内，背景是浅灰色。",
+                "D. 场景发生在被绿树环绕的宁静公园中。"
+            ],
+            "answer": "C"
+        },
+        "CezlmUwMXNo_18": {
+            "id": "CezlmUwMXNo_18",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "这位孕妇是如何参与法庭程序的？",
+            "options": [
+                "A. 她通过一个对话框断言'堕胎禁令是违宪的'。",
+                "B. 她静静地坐着，观察庭审过程而不参与。",
+                "C. 她正拿着一叠文件向法官出示证据。",
+                "D. 她正在质问穿深棕色西装的男子有关他的法律辩论。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_19": {
+            "id": "CezlmUwMXNo_19",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "法庭上哪些物品象征法官的权威？",
+            "options": [
+                "A. 一把金色的小槌和一叠白纸",
+                "B. 一件黑色长袍和一个白色衣领",
+                "C. 一个木制讲台和一条红领带",
+                "D. 一套深色西装和一个讲话气泡"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_20": {
+            "id": "CezlmUwMXNo_20",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "法庭场景中主要出现了多少人？",
+            "options": [
+                "A. 两个人",
+                "B. 三个人",
+                "C. 四个人",
+                "D. 五个人"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_21": {
+            "id": "CezlmUwMXNo_21",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "谁是法庭场景中的主要人物？",
+            "options": [
+                "A. 孕妇、法官和穿深棕色西装的男人。",
+                "B. 孕妇、法官和陪审团。",
+                "C. 穿深棕色西装的男人、法官和一位律师。",
+                "D. 法官、一位律师和一群旁观者。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_22": {
+            "id": "CezlmUwMXNo_22",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "法官是否系着红色领带？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 只有有时",
+                "D. 没有提及"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_23": {
+            "id": "CezlmUwMXNo_23",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "孕妇采取什么行动来展示她的坚定果断？",
+            "options": [
+                "A. 她通过手势以及使用言语表示。",
+                "B. 她静静地站在法庭的一角。",
+                "C. 她认真倾听但没有说话。",
+                "D. 她走出法庭。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_24": {
+            "id": "CezlmUwMXNo_24",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "从视频来看，法官在法庭上面向哪个方向？",
+            "options": [
+                "A. 法官面向前方，面向观众或参与者。",
+                "B. 法官面向右边，面向穿棕色西装的男人。",
+                "C. 法官面向左边，面向怀孕的女人。",
+                "D. 法官背对参与者，面向后方。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_25": {
+            "id": "CezlmUwMXNo_25",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "这个怀孕的女人是什么姿势？",
+            "options": [
+                "A. 她右手抬起，左手抚摸肚子。",
+                "B. 她左手抬起，右手自然下垂。",
+                "C. 她双手高高举起，表示反抗。",
+                "D. 她双手叉腰，表示愤怒。"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_26": {
+            "id": "CezlmUwMXNo_26",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "法庭的背景与之前的家庭环境有何不同？",
+            "options": [
+                "A. 法庭有一个简单的浅灰色背景，与之前温馨的家庭环境形成对比。",
+                "B. 法庭有一个深色的木质背景，与之前温馨的家庭环境相似。",
+                "C. 法庭装饰有彩色的画作，与之前的家庭环境不同。",
+                "D. 法庭布置有郁郁葱葱的绿色植物，比之前的家庭环境更加生机勃勃。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_27": {
+            "id": "CezlmUwMXNo_27",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "法庭内法官讲台上刻着什么文字？",
+            "options": [
+                "A. 'Supreme Court of the United States'",
+                "B. 'United States District Court, Northern District of Texas'",
+                "C. 'Court of Appeals, Fifth Circuit'",
+                "D. 'Texas State Supreme Court'"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_28": {
+            "id": "CezlmUwMXNo_28",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "法官的位置在哪里？",
+            "options": [
+                "A. 法官被安排在讲台后面。",
+                "B. 法官被安排在孕妇旁边。",
+                "C. 法官被安排在法庭前面。",
+                "D. 法官被安排在红色按钮后面。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_29": {
+            "id": "CezlmUwMXNo_29",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景发生在哪里？",
+            "options": [
+                "A. 场景发生在一个法庭中。",
+                "B. 场景发生在一家医院。",
+                "C. 场景发生在一间会议室。",
+                "D. 场景发生在一个公共公园。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_30": {
+            "id": "CezlmUwMXNo_30",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "怀孕的女人在法庭场景中穿的是什么？",
+            "options": [
+                "A. 怀孕的女人穿着绿色的衣服。",
+                "B. 怀孕的女人穿着红色的衣服。",
+                "C. 怀孕的女人穿着黑色的衣服。",
+                "D. 怀孕的女人穿着白色的衣服。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_31": {
+            "id": "CezlmUwMXNo_31",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "法庭是否设置在一个正式的环境中？",
+            "options": [
+                "A. 是",
+                "B. 不是",
+                "C. 有时",
+                "D. 很少"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_32": {
+            "id": "CezlmUwMXNo_32",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "那个孕妇在法庭上做什么？",
+            "options": [
+                "A. 那个孕妇积极参与庭审。",
+                "B. 那个孕妇静静地坐在法庭上。",
+                "C. 那个孕妇在向法庭出示证据。",
+                "D. 那个孕妇在旁听席上观察。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_33": {
+            "id": "CezlmUwMXNo_33",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "“United States Supreme Court”文本有何特点？",
+            "options": [
+                "A. 白色字体显示在红色长方形内。",
+                "B. 白色字体显示在黑色长方形内。",
+                "C. 黑色字体显示在灰色长方形内。",
+                "D. 黑色字体显示在红色长方形内。"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_34": {
+            "id": "CezlmUwMXNo_34",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "在场景中，浅灰色箭头指向哪个方向？",
+            "options": [
+                "A. 浅灰色箭头向上指。",
+                "B. 浅灰色箭头向下指。",
+                "C. 浅灰色箭头向左指。",
+                "D. 浅灰色箭头向右指。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_35": {
+            "id": "CezlmUwMXNo_35",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "“District Court”文本有何特点？",
+            "options": [
+                "A. 黑色字体显示在灰色长方形内。",
+                "B. 白色字体显示在黑色长方形内。",
+                "C. 黑色字体显示在红色长方形内。",
+                "D. 白色字体显示在蓝色长方形内。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_36": {
+            "id": "CezlmUwMXNo_36",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "在这一场景中背景是怎样的？",
+            "options": [
+                "A. 明亮的白色背景",
+                "B. 颜色鲜艳的黄白拼接背景",
+                "C. 带有花卉图案的暖色背景",
+                "D. 昏暗的黑色背景"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_37": {
+            "id": "CezlmUwMXNo_37",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "“Roe lose”文本有何特点？",
+            "options": [
+                "A. 白色字体显示在红色长方形内。",
+                "B. 黑色字体显示在灰色长方形内。",
+                "C. 白色字体显示在黑色长方形内。",
+                "D. 黑色字体显示在蓝色长方形内。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_38": {
+            "id": "CezlmUwMXNo_38",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "灰色箭头在场景中的位置在哪里？",
+            "options": [
+                "A. 灰色箭头显示在画面正中央",
+                "B. 灰色箭头显示在画面最左侧",
+                "C. 灰色箭头显示在画面最右侧",
+                "D. 场景中未显示任何箭头。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_39": {
+            "id": "CezlmUwMXNo_39",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "法庭场景之后，场景转到哪里？",
+            "options": [
+                "A. 一个简单的白色背景，简洁的文字信息。",
+                "B. 一个法官宣读最终判决。",
+                "C. 一个挤满记者的热闹法院走廊。",
+                "D. 一个解说法律原则的旁白。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_40": {
+            "id": "CezlmUwMXNo_40",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "促销信息位于场景的什么位置？",
+            "options": [
+                "A. 促销信息位于画面的中央。",
+                "B. 促销信息位于画面的左上角。",
+                "C. 促销信息位于画面的右下角。",
+                "D. 促销信息位于画面的左侧。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_41": {
+            "id": "CezlmUwMXNo_41",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "宣传场景中是否有真人角色？",
+            "options": [
+                "A. 是的，宣传场景中有真人角色。",
+                "B. 不，宣传场景中没有真人角色。",
+                "C. 只有部分真人的剪影出现在宣传场景中。",
+                "D. 宣传场景中有动画真人角色。"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_42": {
+            "id": "CezlmUwMXNo_42",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "促销信息说了什么？",
+            "options": [
+                "A. 'Subscribe to unlock this video'、'and many more of our offers on'、'www.Quimbee.com'。",
+                "B. 'Subscribe to view all content'、'and thousands of others at'、'www.Quimbee.com'。",
+                "C. 'Subscribe to watch this video'、'and discover more at'、'www.Quimbee.com'。",
+                "D. 'Subscribe to unlock this video'、'and thousands of others at'、'www.Quimbee.com'。"
+            ],
+            "answer": "D"
+        },
+        "CezlmUwMXNo_43": {
+            "id": "CezlmUwMXNo_43",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "这一场景最后一共显示多少行文字？",
+            "options": [
+                "A. 一行文字。",
+                "B. 两行文字。",
+                "C. 三行文字。",
+                "D. 四行文字。"
+            ],
+            "answer": "C"
+        },
+        "CezlmUwMXNo_44": {
+            "id": "CezlmUwMXNo_44",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "在宣传信息中，“www.Quimbee.com”这个文本是否添加下划线？",
+            "options": [
+                "A. 是的，'www.Quimbee.com' 这个文本添加下划线。",
+                "B. 不，'www.Quimbee.com' 这个文本没有添加下划线。",
+                "C. 'www.Quimbee.com' 这个文本是加粗的，而不是下划线。",
+                "D. 'www.Quimbee.com' 这个文本使用了不同的字体。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_45": {
+            "id": "CezlmUwMXNo_45",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "“www.Quimbee.com”这个文本的下划线是什么颜色的？",
+            "options": [
+                "A. 黄色",
+                "B. 蓝色",
+                "C. 红色",
+                "D. 白色"
+            ],
+            "answer": "C"
+        },
+        "CezlmUwMXNo_46": {
+            "id": "CezlmUwMXNo_46",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "这一场景最初显示的文本是什么？",
+            "options": [
+                "A. 'Subscribe to unlock this video'",
+                "B. 'Subscribe to Quimbee'",
+                "C. 'Unlock thousands of videos'",
+                "D. 'Watch this video'"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_47": {
+            "id": "CezlmUwMXNo_47",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "这一场景第二行显示的文本是什么？",
+            "options": [
+                "A. 'and discover more at'",
+                "B. 'and thousands of others at'",
+                "C. 'and many more of our offers on'",
+                "D. 'www.Quimbee.com'"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_48": {
+            "id": "CezlmUwMXNo_48",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "在宣传信息中，哪种设计元素突出了网站地址？",
+            "options": [
+                "A. 网站地址 'www.Quimbee.com' 用红色下划线突出显示。",
+                "B. 网站地址 'www.Quimbee.com' 使用斜体显示。",
+                "C. 网站地址 'www.Quimbee.com' 采用加粗显示。",
+                "D. 网站地址 'www.Quimbee.com' 用黄色背景突出显示。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_49": {
+            "id": "CezlmUwMXNo_49",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "图中锤子和灯泡的空间关系是什么？",
+            "options": [
+                "A. 锤子和灯泡被包含在两个相互连接的红色虚线圈内。",
+                "B. 锤子和灯泡位于各自分开的圈内。",
+                "C. 锤子在一个红色虚线圈内，而灯泡在圈外。",
+                "D. 锤子和灯泡都在一个红色虚线圈内。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_50": {
+            "id": "CezlmUwMXNo_50",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "这一场景发生在哪里？",
+            "options": [
+                "A. 发生在一个浅蓝色背景下。",
+                "B. 发生在一个浅灰色背景下。",
+                "C. 发生在一个黑色背景下。",
+                "D. 发生在一个白色背景下。"
+            ],
+            "answer": "C"
+        },
+        "CezlmUwMXNo_51": {
+            "id": "CezlmUwMXNo_51",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "整体环境是怎样的？",
+            "options": [
+                "A. 整体环境嘈杂而混乱。",
+                "B. 整体环境简约且专业。",
+                "C. 整体环境多彩且有趣。",
+                "D. 整体环境传统而华丽。"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_52": {
+            "id": "CezlmUwMXNo_52",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "主题插图中描绘了哪些物品？",
+            "options": [
+                "A. 插图中有一把锤子和一个灯泡。",
+                "B. 插图中有一滴眼泪和一个醒目的红色圆圈。",
+                "C. 插图中有一把扳手和一支蜡烛。",
+                "D. 插图中有一把法槌和一个时钟。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_53": {
+            "id": "CezlmUwMXNo_53",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "锤子在主题插图中象征着什么？",
+            "options": [
+                "A. 锤子象征着创造力。",
+                "B. 锤子象征着权威。",
+                "C. 锤子象征着创新。",
+                "D. 锤子象征着合作。"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_54": {
+            "id": "CezlmUwMXNo_54",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "灯泡在主题插图中象征什么？",
+            "options": [
+                "A. 灯泡暗示创新或洞察力。",
+                "B. 灯泡象征权威。",
+                "C. 灯泡代表一种类似泪滴的形状。",
+                "D. 灯泡表明是一则促销信息。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_55": {
+            "id": "CezlmUwMXNo_55",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "场景中显著显示了多少种不同的文字元素？",
+            "options": [
+                "A. 两个。",
+                "B. 三个。",
+                "C. 四个。",
+                "D. 一个。"
+            ],
+            "answer": "D"
+        },
+        "CezlmUwMXNo_56": {
+            "id": "CezlmUwMXNo_56",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "场景中显著显示的文字元素是什么？",
+            "options": [
+                "A. “Quimbee”。",
+                "B. “Quimbee.com”。",
+                "C. “Quimbly”。",
+                "D. “Quimbee Pro”。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_57": {
+            "id": "CezlmUwMXNo_57",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "Quimbee'这个单词发生了什么变化？",
+            "options": [
+                "A. 'Quimbee'保持其草书风格。",
+                "B. 'Quimbee'变为了方块粗字体。",
+                "C. 'Quimbee'被一个锤子和灯泡替代。",
+                "D. 'Quimbee'被一个红色的圆圈替代。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_58": {
+            "id": "CezlmUwMXNo_58",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "几何元素如何在视频中过渡？",
+            "options": [
+                "A. 几何元素从相互连接的带有符号的圆形过渡到一个实心红色圆形，然后完全消失。",
+                "B. 几何元素从多个相互连接的圆形过渡到一个实心红色三角形，然后淡化进入中心文字。",
+                "C. 几何元素在整个视频中保持带有不同符号的相互连接的圆形。",
+                "D. 几何元素从一个水滴状形状和一个加粗的实心红色圆形过渡到带有符号的相互连接的圆形，然后完全消失。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_59": {
+            "id": "CezlmUwMXNo_59",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "场景中出现的几何图形是什么形状的？",
+            "options": [
+                "A. 三角形。",
+                "B. 圆形。",
+                "C. 方形。",
+                "D. 矩形。"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_60": {
+            "id": "CezlmUwMXNo_60",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "从视频来看，那位男人头像在女人头像什么位置？",
+            "options": [
+                "A. 男人在女人右边",
+                "B. 男人在女人左边",
+                "C. 男人在女人上方",
+                "D. 男人在女人下方"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_61": {
+            "id": "CezlmUwMXNo_61",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频开始时，两个人的头像在什么位置？",
+            "options": [
+                "A. 对齐并排显示在画面中部。",
+                "B. 上下排列显示在画面的左侧。",
+                "C. 对齐并排显示在画面的右侧。",
+                "D. 上下排列显示在画面中部。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_62": {
+            "id": "CezlmUwMXNo_62",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "客厅里的墙有什么特点？",
+            "options": [
+                "A. 布满花卉图案的米白色墙壁。",
+                "B. 由鲜艳的几何图案拼接而成。",
+                "C. 带有浅蓝色波浪纹的灰色墙。",
+                "D. 带有灰色竖条纹的浅黄色墙。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_63": {
+            "id": "CezlmUwMXNo_63",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频结尾中的锤子和灯泡分别在什么位置？",
+            "options": [
+                "A. 锤子在画面右侧，灯泡在画面左侧。",
+                "B. 锤子在画面左侧，灯泡在画面右侧。",
+                "C. 锤子子画面左上角，灯泡在画面右下角。",
+                "D. 锤子和灯泡在画面左右两侧位置来回变换。"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_64": {
+            "id": "CezlmUwMXNo_64",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "这位孕妇在客厅里讨论什么？",
+            "options": [
+                "A. 她打算堕胎。",
+                "B. 她装修客厅的计划。",
+                "C. 她对成为母亲的兴奋。",
+                "D. 她最近得到的升职。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_65": {
+            "id": "CezlmUwMXNo_65",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "紫色连衣裙的女人对孕妇的话有什么回应？",
+            "options": [
+                "A. 紫色连衣裙的女人同意孕妇的说法并向她表示支持。",
+                "B. 紫色连衣裙的女人告诉孕妇，在德克萨斯州堕胎是非法的。",
+                "C. 紫色连衣裙的女人建议孕妇去找另一位医生寻求第二意见。",
+                "D. 紫色连衣裙的女人保持沉默，没有回应孕妇的话。"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_66": {
+            "id": "CezlmUwMXNo_66",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "孕妇在法庭上提出了什么论点？",
+            "options": [
+                "A. 孕妇辩称堕胎禁令是违宪的。",
+                "B. 孕妇辩称堕胎禁令对经济有害。",
+                "C. 孕妇辩称堕胎禁令是公共卫生风险。",
+                "D. 孕妇辩称堕胎禁令侵犯了隐私权。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_67": {
+            "id": "CezlmUwMXNo_67",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "法官在法庭中的环境传达了什么？",
+            "options": [
+                "A. 法官的环境简朴而中立，突出场景的正式和法律氛围。",
+                "B. 法官的环境混乱且充满各种物品，使人难以集中注意力于庭审。",
+                "C. 法官的环境装饰明亮、充满活力的颜色，营造了一种愉快和放松的氛围。",
+                "D. 法官的环境朴素但堆满了文件和档案，表明工作繁忙且有些杂乱无章。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_68": {
+            "id": "CezlmUwMXNo_68",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "法院层级的文本横幅展示了什么？",
+            "options": [
+                "A. 它们突出从地方法院到美国最高法院的转变。",
+                "B. 它们说明了在法庭环境中陪审团选择的重要性。",
+                "C. 它们强调了律师在法庭上展示证据和辩论中的作用。",
+                "D. 它们比较了不同法庭布局及其对法律程序的影响。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_69": {
+            "id": "CezlmUwMXNo_69",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "标签为“Roe loses”的红色矩形按钮意味着什么？",
+            "options": [
+                "A. 它表明一个特定的结果，表示“Roe”在地区法院败诉。",
+                "B. 它代表一个与法院判决无关的一般促销信息。",
+                "C. 它强调了Quimbee网站的一个新功能更新。",
+                "D. 它是一个没有具体意义的占位按钮。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_70": {
+            "id": "CezlmUwMXNo_70",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么这位孕妇认为堕胎禁令是违宪的？",
+            "options": [
+                "A. 该女子认为堕胎禁令侵犯了她获得同等报酬的权利。",
+                "B. 该女子想要堕胎，但德州法律将其定为非法，因此她认为这项禁令是违宪的。",
+                "C. 该女子认为这项禁令侵犯了她的言论自由权。",
+                "D. 该女子声称堕胎禁令是违宪的，因为它增加了医疗费用。"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_71": {
+            "id": "CezlmUwMXNo_71",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么法庭环境变成文字描述？",
+            "options": [
+                "A. 这种变化强调了法律进程并突出了司法程序。",
+                "B. 这种变化为场景增添了戏剧效果。",
+                "C. 这种变化引入了商业广告时间。",
+                "D. 这种变化将重点转移到一个新角色。"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_72": {
+            "id": "CezlmUwMXNo_72",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频中最后的宣传信息有什么意义？",
+            "options": [
+                "A. 宣传信息强调了订阅以访问视频以及网站内容的重要性。",
+                "B. 宣传信息劝阻用户订阅，并强调免费访问所有内容。",
+                "C. 宣传信息集中在 Quimbee 平台的历史和起源上。",
+                "D. 宣传信息对观众没有任何重要影响，仅用作装饰。"
+            ],
+            "answer": "A"
+        }
+    }
+}

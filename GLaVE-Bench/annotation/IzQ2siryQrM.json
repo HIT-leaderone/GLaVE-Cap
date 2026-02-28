@@ -1,0 +1,1897 @@
+{
+    "scene_hint": {
+        "0": "一个女子在安静入睡，并有泡泡画面显现出来。",
+        "1": "泡泡画面进到文件柜并被清洗的泡沫填满。",
+        "2": "过渡到一个城市景观，里面有一个熟睡的人。",
+        "3": "一个大脑被清洗着",
+        "4": "一个黑人在房间里熟睡着",
+        "5": "一名男子坐在办公桌前。",
+        "6": "一个女子的面部特写",
+        "7": "桌子上摆着许多瓶瓶罐罐",
+        "8": "一个人在开车",
+        "9": "楼房前有两位老人。",
+        "10": "一个人在房间里熟睡着",
+        "11": "笔记本逐渐合上",
+        "12": "一个人躺在床上看书",
+        "13": "一个人从夜晚熟睡到白天起床的过程",
+        "14": "简约的画面中依次出现喝的和吃的",
+        "15": "从夜晚卧室里熟睡的人。",
+        "16": "白天公园场景。",
+        "17": "由太阳的画面过渡到一个女子坐在床上的画面。",
+        "18": "展示几何形状组成的抽象构图，然画面逐渐暗下去。"
+    },
+    "qa": {
+        "IzQ2siryQrM_0": {
+            "id": "IzQ2siryQrM_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "从画面中来看床头柜相对于床的位置在哪里？",
+            "options": [
+                "A. 床头柜位于床的右侧。",
+                "B. 床头柜位于床尾。",
+                "C. 床头柜位于床的左侧。",
+                "D. 床头柜位于床的后面。"
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_1": {
+            "id": "IzQ2siryQrM_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "夜晚卧室的氛围是怎样的？",
+            "options": [
+                "A. 氛围混乱嘈杂，灯光明亮，环境热闹。",
+                "B. 氛围宁静、平和、安详，灯光昏暗，环境安宁。",
+                "C. 氛围紧张悬疑，灯光闪烁，环境诡异。",
+                "D. 氛围活泼有活力，灯光多彩，环境节日般。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_2": {
+            "id": "IzQ2siryQrM_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "那个年轻女子在床上做什么?",
+            "options": [
+                "A. 她安静地睡着了。",
+                "B. 她专注地读书。",
+                "C. 她坐起来在打电话。",
+                "D. 她手拿遥控器在看电视。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_3": {
+            "id": "IzQ2siryQrM_3",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "在特写镜头中，画面的左下角出现了什么？",
+            "options": [
+                "A. 一本摊开的书",
+                "B. 发出温暖光芒的床头灯",
+                "C. 显示夜间时间的钟",
+                "D. 睡着女人的肖像"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_4": {
+            "id": "IzQ2siryQrM_4",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "在睡觉的女人的特写视图中，有多少个物体或者画面被描绘出来？",
+            "options": [
+                "A. 一个物体或者画面",
+                "B. 两个物体或者画面",
+                "C. 三个物体或者画面",
+                "D. 四个物体或者画面"
+            ],
+            "answer": "D"
+        },
+        "IzQ2siryQrM_5": {
+            "id": "IzQ2siryQrM_5",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "夜景场景中，窗户是否展示出一轮弯月？",
+            "options": [
+                "A. 是的，窗户在夜空中展示了一轮弯月。",
+                "B. 不，窗户展示的只有小星星。",
+                "C. 是的，但展示的月亮是满月，而不是弯月。",
+                "D. 不，窗户展示的只有建筑物。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_6": {
+            "id": "IzQ2siryQrM_6",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "夜晚的情景里窗户露出星星了吗？",
+            "options": [
+                "A. 是",
+                "B. 只有月亮可见",
+                "C. 只有云层可见",
+                "D. 窗帘是拉上的"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_7": {
+            "id": "IzQ2siryQrM_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "在特写镜头中，哪个动作表明了这名女性大脑的神经活动？",
+            "options": [
+                "A. 她大脑的发光描绘轻微脉动。",
+                "B. 她头下的白色枕头微微发光。",
+                "C. 窗户显示出她大脑活动的反射。",
+                "D. 她的大脑被蓝色电流环绕。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_8": {
+            "id": "IzQ2siryQrM_8",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "“zzz”符号在女人头顶上朝哪个方向上升？",
+            "options": [
+                "A. “zzz”符号在女人头顶上以直线向下的方式降落。",
+                "B. “zzz”符号在女人头顶上以阶梯式向上方式上升。",
+                "C. “zzz”符号保持静止，不在女人头顶上移动。",
+                "D. “zzz”符号在女人头顶上形成一个圆形图案。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_9": {
+            "id": "IzQ2siryQrM_9",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "在拍摄熟睡女人的镜头中使用了哪种类型的相机视角？",
+            "options": [
+                "A. 一个专注于她宁静表情和安详状态的亲密视角。",
+                "B. 一个捕捉整个卧室环境的广角视角。",
+                "C. 一个展示女人和周围家具的鸟瞰视角。",
+                "D. 一个强调外面发光新月的低角度视角。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_10": {
+            "id": "IzQ2siryQrM_10",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "在过渡到更近的视角时，脑部的发光描绘会如何改变？",
+            "options": [
+                "A. 它变得更加明亮。",
+                "B. 它变得更暗。",
+                "C. 它保持不变。",
+                "D. 它完全消退。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_11": {
+            "id": "IzQ2siryQrM_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "在场景中使用了什么视觉元素来描绘潜意识思维活动？",
+            "options": [
+                "A. 泡泡上画面上不同的场景描绘了思维活动和反思。",
+                "B. 窗户中显示的远处建筑物的剪影图案代表潜意识思维活动。",
+                "C. 窗户中发光的新月与星星的组合象征着潜意识思维和反思。",
+                "D. 卧室里的小电视画面描绘了思维活动和反思。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_12": {
+            "id": "IzQ2siryQrM_12",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "当白色薄雾变大时，文件柜会发生什么？",
+            "options": [
+                "A. 文件柜变得更加详细和丰富多彩。",
+                "B. 白色薄雾笼罩着文件柜。",
+                "C. 文件柜转变为城市景观的一部分。",
+                "D. 文件柜被扫帚扫走并消失了。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_13": {
+            "id": "IzQ2siryQrM_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频是如何结束的？",
+            "options": [
+                "A. 视频以年轻人安静入睡的画面结束。",
+                "B. 视频以抽象的黄色大脑和文件柜元素结束。",
+                "C. 视频以白色薄雾填充整个画面结束。",
+                "D. 视频以文件柜打开，展示出多彩的创意结束。"
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_14": {
+            "id": "IzQ2siryQrM_14",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频中描绘的整体环境是什么？",
+            "options": [
+                "A. 整体环境是一个宁静的极简城市景观。",
+                "B. 整体环境是一个混乱的城市景观。",
+                "C. 整体环境是一片茂密的森林。",
+                "D. 整体环境是一个未来的空间站。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_15": {
+            "id": "IzQ2siryQrM_15",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "在最后的场景中，这位年轻人是什么姿势？",
+            "options": [
+                "A. 这位年轻人被描绘成一种安详的睡姿。",
+                "B. 这位年轻人被展示为正坐直进行沉思。",
+                "C. 这位年轻人站着眺望城市风景。",
+                "D. 这位年轻人正在抽象的城市风景中行走。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_16": {
+            "id": "IzQ2siryQrM_16",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "在最后一幕中，这位年轻人的姿势是如何描绘的？",
+            "options": [
+                "A. 看起来混乱且与周围环境脱节。",
+                "B. 与宁静的城市背景和谐地融为一体。",
+                "C. 在城市背景下显得僵硬和紧张。",
+                "D. 以鲜明对比的色彩突出显示。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_17": {
+            "id": "IzQ2siryQrM_17",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "视频中展示的扫帚有什么特点？",
+            "options": [
+                "A. 扫帚有鲜艳的红色刷毛。",
+                "B. 扫帚有天然米色刷毛。",
+                "C. 扫帚有蓝色刷毛。",
+                "D. 扫帚有合成刷毛。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_18": {
+            "id": "IzQ2siryQrM_18",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "视频中展示的扫帚柄有什么特点？",
+            "options": [
+                "A. 扫帚是不锈钢柄。",
+                "B. 扫帚是木柄。",
+                "C. 扫帚是塑料柄。",
+                "D. 扫帚是合金柄。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_19": {
+            "id": "IzQ2siryQrM_19",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "场景中描绘了多少个主要环境？",
+            "options": [
+                "A. 两个主要环境",
+                "B. 三个主要环境",
+                "C. 四个主要环境",
+                "D. 一个主要环境"
+            ],
+            "answer": "D"
+        },
+        "IzQ2siryQrM_20": {
+            "id": "IzQ2siryQrM_20",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "视频的最后，白雾是否完全消散？",
+            "options": [
+                "A. 是的，它完全消散，露出了城市景观。",
+                "B. 不，它部分消散，仍然有一些元素被遮挡。",
+                "C. 是的，但它露出了一片森林而不是城市景观。",
+                "D. 不，白雾完全没有消散。"
+            ],
+            "answer": "D"
+        },
+        "IzQ2siryQrM_21": {
+            "id": "IzQ2siryQrM_21",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "扫帚在场景中采取了什么行动？",
+            "options": [
+                "A. 扫帚在画画。",
+                "B. 扫帚正在扫地。",
+                "C. 扫帚静止不动。",
+                "D. 扫帚正在变形。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_22": {
+            "id": "IzQ2siryQrM_22",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "扫帚在大脑中挥舞象征着什么？",
+            "options": [
+                "A. 它象征着隐喻性的理清或整理思绪。",
+                "B. 它代表认知过程的破坏。",
+                "C. 它描述了混乱思想的产生。",
+                "D. 它表示记忆的遗忘。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_23": {
+            "id": "IzQ2siryQrM_23",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "白色的雾气朝哪个方向扩散？",
+            "options": [
+                "A. 白色的雾气向内扩散。",
+                "B. 白色的雾气向上扩散。",
+                "C. 白色的雾气向外扩散。",
+                "D. 白色的雾气向下扩散。"
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_24": {
+            "id": "IzQ2siryQrM_24",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在与大脑互动的过程中，扫帚的运动是如何随时间变化的？",
+            "options": [
+                "A. 扫帚的运动变得更加剧烈。",
+                "B. 扫帚的运动变慢并变得温和。",
+                "C. 扫帚的运动保持不变。",
+                "D. 扫帚的运动完全停止。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_25": {
+            "id": "IzQ2siryQrM_25",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "当抽象的认知元素被雾气取代时，场景如何变化？",
+            "options": [
+                "A. 场景变成了混乱的色彩和形状的漩涡。",
+                "B. 场景完全被白色雾气主导。",
+                "C. 场景引入了一个繁忙的城市。",
+                "D. 场景转变为一个宁静的湖畔景观。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_26": {
+            "id": "IzQ2siryQrM_26",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "新场景是如何出现的？",
+            "options": [
+                "A. 一只鸟飞过屏幕。",
+                "B. 露出城市轮廓、蓝天、太阳。",
+                "C. 慢慢地缩放，展示出城市景观。",
+                "D. 伴有闪光效果的淡入淡出过渡。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_27": {
+            "id": "IzQ2siryQrM_27",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "皱巴巴的纸片在哪里？",
+            "options": [
+                "A. 在显示器附近的桌子上",
+                "B. 在桌子下面，靠近那个人伸出的脚",
+                "C. 在黑色圆柱形笔筒里",
+                "D. 在一叠白纸的上面"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_28": {
+            "id": "IzQ2siryQrM_28",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景的整体环境如何？",
+            "options": [
+                "A. 办公室场景现代、简约、宁静。",
+                "B. 办公室场景杂乱无章。",
+                "C. 办公室场景充满活力且嘈杂。",
+                "D. 办公室场景昏暗阴郁。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_29": {
+            "id": "IzQ2siryQrM_29",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "视频最后一帧中，那位男士穿着什么？",
+            "options": [
+                "A. 一件亮橙色的毛衣",
+                "B. 一件亮橙色的衬衫",
+                "C. 一件红色衬衫",
+                "D. 一件红色毛衣"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_30": {
+            "id": "IzQ2siryQrM_30",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "场景中的桌子设计是什么样的？",
+            "options": [
+                "A. 桌子有一个浅色的表面和四个细腿。",
+                "B. 桌子是一张大型木制桌子。",
+                "C. 桌子是一个玻璃桌面。",
+                "D. 桌子有一个深色的表面和厚重坚固的腿。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_31": {
+            "id": "IzQ2siryQrM_31",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "桌子上有多少叠纸？",
+            "options": [
+                "A. 一叠",
+                "B. 两叠",
+                "C. 四叠以上",
+                "D. 四叠"
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_32": {
+            "id": "IzQ2siryQrM_32",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "在最后一帧中，监视器上方的电池图标是满的吗？",
+            "options": [
+                "A. 是的，最后一帧中电池图标是满的。",
+                "B. 不，最后一帧中的电池图标只有一点了。",
+                "C. 不，最后一帧中的电池图标是半满的。",
+                "D. 不，最后一帧中的电池图标是完全空的。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_33": {
+            "id": "IzQ2siryQrM_33",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "这名男子用腿做了什么动作？",
+            "options": [
+                "A. 这名男子将腿向前伸展。",
+                "B. 这名男子将腿紧贴着收在椅子下。",
+                "C. 这名男子将腿向交叉着放。",
+                "D. 这名男子将双腿搭在杆子上。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_34": {
+            "id": "IzQ2siryQrM_34",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "显示器相对于这个男人的方向是什么？",
+            "options": [
+                "A. 显示器正对着这个男人。",
+                "B. 显示器背对着这个男人。",
+                "C. 显示器侧向倾斜。",
+                "D. 显示器在男人的右手边。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_35": {
+            "id": "IzQ2siryQrM_35",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "视频中使用了哪种摄像机视角？",
+            "options": [
+                "A. 摄像机视角是静态的。",
+                "B. 摄像机视角是动态的。",
+                "C. 摄像机视角来自上方。",
+                "D. 摄像机视角是倾斜的。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_36": {
+            "id": "IzQ2siryQrM_36",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "电池图标在整个视频中是如何变化的？",
+            "options": [
+                "A. 电池图标从满格的绿色变为部分空格。",
+                "B. 电池图标从部分空格的红色变为完全充满的绿色。",
+                "C. 电池图标在整个视频中始终保持满格绿色。",
+                "D. 电池图标完全从画面中消失。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_37": {
+            "id": "IzQ2siryQrM_37",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "视频中展示的场景是什么？",
+            "options": [
+                "A. 第二个场景介绍了一个插图角色。",
+                "B. 第二个场景描绘了一个繁忙的现代办公室。",
+                "C. 第二个场景切换到一个自然景观。",
+                "D. 第二个场景展示了一个旋转颜色和几何图形。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_38": {
+            "id": "IzQ2siryQrM_38",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "新引入的人物形象是什么样子的？",
+            "options": [
+                "A. 这个人物有着卷曲的、及肩的黑色头发。",
+                "B. 这个人物有着直的、及肩的黑色头发。",
+                "C. 这个人物有着短而波浪状的金色头发。",
+                "D. 这个人物有着长直的棕色头发。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_39": {
+            "id": "IzQ2siryQrM_39",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "新引入的人物穿着是什么样子的？",
+            "options": [
+                "A. 穿着一件带波点的蓝色衬衫。",
+                "B. 穿着一件带有整洁白领的粉色衬衫。",
+                "C. 穿着一件带花卉图案的绿色衬衫。",
+                "D. 穿着一件带褶边领子的紫色衬衫。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_40": {
+            "id": "IzQ2siryQrM_40",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "新引入的形象是以什么风格描绘的？",
+            "options": [
+                "A. 该形象以极简矢量艺术风格描绘。",
+                "B. 该形象以真实感手绘素描描绘。",
+                "C. 该形象以细致的水彩画描绘。",
+                "D. 该形象以三维CGI渲染描绘。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_41": {
+            "id": "IzQ2siryQrM_41",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "在最初的办公室环境中可以看到哪些与工作相关的物品？",
+            "options": [
+                "A. 可以看到一台电脑显示器和散落的文件。",
+                "B. 可以看到一盏台灯和一个咖啡杯。",
+                "C. 可以看到一台打印机和一叠文件。",
+                "D. 可以看到一把办公椅和一个时钟。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_42": {
+            "id": "IzQ2siryQrM_42",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "场景中一共展示了多少个个体？",
+            "options": [
+                "A. 展示了一个个体。",
+                "B. 展示了两个人物。",
+                "C. 展示了三个人物。",
+                "D. 展示了四个人物。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_43": {
+            "id": "IzQ2siryQrM_43",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "场景是否只有纯色青色或蓝绿色背景元素？",
+            "options": [
+                "A. 是的。",
+                "B. 不，还有红色的太阳背景元素。",
+                "C. 不，还有蓝色的天空背景元素。",
+                "D. 不，还有粉色的樱花背景元素。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_44": {
+            "id": "IzQ2siryQrM_44",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "在视频后面，那个男人会发生什么？",
+            "options": [
+                "A. 那个男人变成了一个数字插画角色。",
+                "B. 男人完全消失。",
+                "C. 男人在消失前与数字插画角色互动。",
+                "D. 男人仍坐在他的桌前。"
+            ],
+            "answer": "D"
+        },
+        "IzQ2siryQrM_45": {
+            "id": "IzQ2siryQrM_45",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景在视觉上是什么样的？",
+            "options": [
+                "A. 现实描绘职场疲劳和杂乱元素。",
+                "B. 简单的户外场景。",
+                "C. 色彩斑斓的动画。",
+                "D. 拥挤的城市环境。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_46": {
+            "id": "IzQ2siryQrM_46",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景的风格是什么样的？",
+            "options": [
+                "A. 风格转变为简洁的线条，没有阴影，构图简洁明了。",
+                "B. 风格转变为更加细腻的纹理和鲜艳的颜色。",
+                "C. 风格转变为具有精细阴影的超现实主义描绘。",
+                "D. 风格转变为单色、类似素描的美学风格。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_47": {
+            "id": "IzQ2siryQrM_47",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "初始场景中的画面和角色是如何在空间上过渡到单调画布的？",
+            "options": [
+                "A. 中心角色及青绿色背景的画面被统一的米色或浅桃色画布取代。",
+                "B. 角色和背景被一个充满细节的繁华都市景观取代。",
+                "C. 充满生机的画面过渡为中心角色的单色素描，保留了一些空间元素。",
+                "D. 场景转变为一个充满活力的森林，配有动态照明，将青绿色背景替换为绿色景色。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_48": {
+            "id": "IzQ2siryQrM_48",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "过渡前的初始背景颜色是什么？",
+            "options": [
+                "A. 淡粉色",
+                "B. 鲜艳的青绿色",
+                "C. 米色或浅桃色",
+                "D. 浅灰色"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_49": {
+            "id": "IzQ2siryQrM_49",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "场景中最初存在多少个不同的元素？",
+            "options": [
+                "A. 两个不同的元素：中心角色及其服装属性。",
+                "B. 三个不同的元素：中心角色、其服装属性和生动的青绿色背景。",
+                "C. 四个不同的元素：中心角色、其服装属性、背景，以及附加道具。",
+                "D. 一个不同的元素：仅有中心角色。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_50": {
+            "id": "IzQ2siryQrM_50",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "前景物体的排列如何改变场景中的视觉层次？",
+            "options": [
+                "A. 焦点明显转移到前景的四个大瓶子上，而背景元素微弱出现。",
+                "B. 前景的瓶子保持静止且不透明，不会吸引对背景元素的注意力。",
+                "C. 前景的瓶子完全移除，使酒吧背景成为主要焦点。",
+                "D. 前景物体变得模糊，失去所有细节，使酒吧柜台和凳子成为场景的主要焦点。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_51": {
+            "id": "IzQ2siryQrM_51",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "视频的整体场景是什么？",
+            "options": [
+                "A. 一个宁静的海边场景。",
+                "B. 一个充满活力的酒吧环境。",
+                "C. 一个繁忙的城市景观。",
+                "D. 一个宁静的森林空地。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_52": {
+            "id": "IzQ2siryQrM_52",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "前景中四个大瓶子的颜色是什么？",
+            "options": [
+                "A. 瓶子是黑色、黄色、红色和透明的蓝灰色。",
+                "B. 瓶子是黑色、橙色、红色和透明的蓝灰色。",
+                "C. 瓶子是黑色、橙色、蓝色和透明的蓝灰色。",
+                "D. 瓶子是黑色、橙色、红色和透明的绿色。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_53": {
+            "id": "IzQ2siryQrM_53",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "前景中最前面的四个大瓶子有什么设计和标签？",
+            "options": [
+                "A. 瓶子具有大胆的形状以及椭圆和三角形的标签。",
+                "B. 瓶子是简单的，没有标签或设计。",
+                "C. 瓶子呈动物形状，带有花卉图案和圆形标签。",
+                "D. 瓶子有简单的矩形标签和纯色的粉色系。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_54": {
+            "id": "IzQ2siryQrM_54",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "关于前景中的橙色瓶子，提到了什么具体细节？",
+            "options": [
+                "A. 橙色瓶子是最矮的。",
+                "B. 橙色瓶子完全是透明的。",
+                "C. 橙色瓶子上有星星图案。",
+                "D. 橙色瓶子有一个带复杂设计的黑色瓶盖。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_55": {
+            "id": "IzQ2siryQrM_55",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "前景中显眼地展示了多少个大瓶子？",
+            "options": [
+                "A. 六个大瓶子",
+                "B. 七个大瓶子",
+                "C. 五个大瓶子",
+                "D. 四个大瓶子"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_56": {
+            "id": "IzQ2siryQrM_56",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "背景是否包括在灯光照射的架子上瓶子的轮廓？",
+            "options": [
+                "A. 是",
+                "B. 否，是人的轮廓",
+                "C. 只有部分",
+                "D. 否，是猫的轮廓"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_57": {
+            "id": "IzQ2siryQrM_57",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "黑瓶子在画面中发生了什么变化？",
+            "options": [
+                "A. 黑瓶子向左移动并在离开画面之前逐渐消失。",
+                "B. 黑瓶子向右移动并变得更加不透明。",
+                "C. 黑瓶子保持静止并变得更加鲜艳。",
+                "D. 黑瓶子移到中心并改变颜色。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_58": {
+            "id": "IzQ2siryQrM_58",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "瓶子变为半透明对场景的视觉动态有什么影响？",
+            "options": [
+                "A. 瓶子逐渐变为半透明，并在前景与背景之间创造一种动态的平衡。",
+                "B. 瓶子变得半透明，完全遮挡背景，消除了场景中的所有深度。",
+                "C. 瓶子变成实心黑色轮廓，完全将注意力从背景中转移走。",
+                "D. 瓶子保持不透明和静止，保持静态和不变的构图。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_59": {
+            "id": "IzQ2siryQrM_59",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "橙色瓶子在场景中的位置如何变化？",
+            "options": [
+                "A. 橙色瓶子移动到更靠近中心的位置。",
+                "B. 橙色瓶子向左移动并逐渐消失。",
+                "C. 橙色瓶子保持静止不变。",
+                "D. 橙色瓶子完全退出场景。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_60": {
+            "id": "IzQ2siryQrM_60",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "是什么让橙色瓶子成为场景的重点？",
+            "options": [
+                "A. 橙色瓶子是唯一一个橙色的。",
+                "B. 橙色瓶子是所有瓶子中最高的。",
+                "C. 橙色瓶子是唯一一个带有三角形标签的。",
+                "D. 橙色瓶子位于场景的最右边。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_61": {
+            "id": "IzQ2siryQrM_61",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "这位老人在城市环境场景中的位置是什么？",
+            "options": [
+                "A. 这位老人最初位于左侧，但后来在中央直立站着。",
+                "B. 这位老人最初位于右侧，但后来在中央直立站着。",
+                "C. 这位老人始终位于场景中央，完全可见。",
+                "D. 在城市环境场景中这位老人根本不可见。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_62": {
+            "id": "IzQ2siryQrM_62",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "在城市环境场景中，老妇人的位置是在哪里？",
+            "options": [
+                "A. 老妇人在左边。",
+                "B. 老妇人在右边。",
+                "C. 老妇人在中间。",
+                "D. 老妇人在右边。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_63": {
+            "id": "IzQ2siryQrM_63",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "在城市环境场景中，老妇人在做什么？",
+            "options": [
+                "A. 坐在长椅上。",
+                "B. 拄着拐杖。",
+                "C. 拿着一个篮子。",
+                "D. 坐在地上。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_64": {
+            "id": "IzQ2siryQrM_64",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "场景的设置是什么？",
+            "options": [
+                "A. 高速路上行驶的汽车。",
+                "B. 繁忙的城市街道。",
+                "C. 宁静的海滩。",
+                "D. 一个黑暗的小巷。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_65": {
+            "id": "IzQ2siryQrM_65",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "在城市环境中，这位老年女性有哪些显著的身体特征？",
+            "options": [
+                "A. 卷曲的灰发，神情深思。",
+                "B. 直白的头发，手持拐杖。",
+                "C. 棕色头发，面带愉快的微笑。",
+                "D. 长银发，表情严肃。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_66": {
+            "id": "IzQ2siryQrM_66",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "在城市环境中，这位老年女性的穿着是什么样？",
+            "options": [
+                "A. 这位老年女性穿着紫色连衣裙，披着粉色披肩。",
+                "B. 这位老年女性穿着青色连衣裙，披着蓝色披肩。",
+                "C. 这位老年女性穿着灰色裙子，搭配黄色围巾。",
+                "D. 这位老年女性穿着紫色夹克，戴着绿色帽子。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_67": {
+            "id": "IzQ2siryQrM_67",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "在高速公路驾驶场景中，汽车仪表盘上有哪些功能？",
+            "options": [
+                "A. 汽车仪表盘配备了触摸屏显示器和语音控制。",
+                "B. 汽车仪表盘配备了数字显示屏和大型导航系统。",
+                "C. 汽车仪表盘配备了模拟风格的仪表和小型GPS显示屏。",
+                "D. 汽车仪表盘配备了娱乐系统和皮革装饰。"
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_68": {
+            "id": "IzQ2siryQrM_68",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "在城市场景中引入了多少位老年人物？",
+            "options": [
+                "A. 一位老年人物",
+                "B. 两位老年人物",
+                "C. 三位老年人物",
+                "D. 四位老年人物"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_69": {
+            "id": "IzQ2siryQrM_69",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "城市环境是以现实主义风格描绘的吗？",
+            "options": [
+                "A. 是的，它是以现实主义风格描绘的。",
+                "B. 不，它是以卡通风格描绘的。",
+                "C. 不，它是以水墨画风格描绘的。",
+                "D. 不，它是以抽象现代艺术风格描绘的。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_70": {
+            "id": "IzQ2siryQrM_70",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "汽车朝哪个方向行驶？",
+            "options": [
+                "A. 汽车向前行驶。",
+                "B. 汽车向后行驶。",
+                "C. 汽车侧向行驶。",
+                "D. 汽车静止不动。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_71": {
+            "id": "IzQ2siryQrM_71",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "驾驶序列中使用了什么摄像机视角？",
+            "options": [
+                "A. 从路边拍摄的第三人称视角。",
+                "B. 使用了第一人称视角。",
+                "C. 鸟瞰视角，从上方俯视高速公路。",
+                "D. 从后座肩膀后方的视角。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_72": {
+            "id": "IzQ2siryQrM_72",
+            "scene": 8,
+            "dimension": "Speed",
+            "question": "在场景中感知到的速度是什么？",
+            "options": [
+                "A. 宁静和平稳。",
+                "B. 快速而混乱。",
+                "C. 突然和颠簸。",
+                "D. 快速而猛烈的加速。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_73": {
+            "id": "IzQ2siryQrM_73",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "方向盘是什么样的？",
+            "options": [
+                "A. 黑色方向盘。",
+                "B. 闪耀的红色方向盘。",
+                "C. 白色方向盘。",
+                "D. 缺失方向盘。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_74": {
+            "id": "IzQ2siryQrM_74",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "视频的场景是什么样的？",
+            "options": [
+                "A. 山丘和雪山在晴朗的天空下。",
+                "B. 充满温暖色调和热闹氛围的酒吧场景。",
+                "C. 城市环境中倾斜的灰色建筑与有草的前景。",
+                "D. 长者在淡蓝色天空下的宁静互动。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_75": {
+            "id": "IzQ2siryQrM_75",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "高大的盆栽植物相对于床的位置在哪里？",
+            "options": [
+                "A. 位于右边的床头柜旁边。",
+                "B. 位于左边的梳妆台旁边。",
+                "C. 位于床前面。",
+                "D. 位于房间外面。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_76": {
+            "id": "IzQ2siryQrM_76",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "卧室环境的整体氛围是什么？",
+            "options": [
+                "A. 卧室的整体氛围是宁静和谐的。",
+                "B. 卧室的整体氛围是混乱无序的。",
+                "C. 卧室的整体氛围是黑暗神秘的。",
+                "D. 卧室的整体氛围是充满活力和色彩的。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_77": {
+            "id": "IzQ2siryQrM_77",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "这个人在做什么？",
+            "options": [
+                "A. 这个人正在看书。",
+                "B. 这个人在平静地休息。",
+                "C. 这个人正在与两位老人交谈。",
+                "D. 这个人正在起身，走门。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_78": {
+            "id": "IzQ2siryQrM_78",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "房间里的床上用品是什么样的？",
+            "options": [
+                "A. 白色的床上用品。",
+                "B. 五颜六色的床上用品。",
+                "C. 充满花样的床上用品。",
+                "D. 充满条纹的床上用品。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_79": {
+            "id": "IzQ2siryQrM_79",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "床头板是什么样的？",
+            "options": [
+                "A. 有一个深色的框架。",
+                "B. 有一个浅色的框架。",
+                "C. 有一个金属框架。",
+                "D. 有一个木制框架。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_80": {
+            "id": "IzQ2siryQrM_80",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "床上方有多少幅装裱的艺术作品？",
+            "options": [
+                "A. 床上方有一幅装裱的艺术作品。",
+                "B. 床上方有两幅装裱的艺术作品。",
+                "C. 床上方有三幅装裱的艺术作品。",
+                "D. 床上方有四幅装裱的艺术作品。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_81": {
+            "id": "IzQ2siryQrM_81",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "房间里有白色的门吗？",
+            "options": [
+                "A. 是的，场景左边有一扇白色的门。",
+                "B. 不，房间里没有可见的门。",
+                "C. 不，门是深色的木门。",
+                "D. 是的，场景右边有一扇白色的门。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_82": {
+            "id": "IzQ2siryQrM_82",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "房间里的白色抽屉柜在哪里？",
+            "options": [
+                "A. 白色抽屉柜在房间左侧靠近门。",
+                "B. 白色抽屉柜在床的两边。",
+                "C. 白色抽屉柜在房间右侧靠近盆栽。",
+                "D. 白色抽屉柜放在床尾。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_83": {
+            "id": "IzQ2siryQrM_83",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "在展示场景时使用哪种类型的镜头？",
+            "options": [
+                "A. 特写镜头",
+                "B. 广角镜头",
+                "C. 远景镜头",
+                "D. 航拍镜头"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_84": {
+            "id": "IzQ2siryQrM_84",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "卧室场景的变化节奏是怎样的？",
+            "options": [
+                "A. 变化发生得突然且剧烈。",
+                "B. 变化发生得微妙且渐进。",
+                "C. 变化是混乱且支离破碎的。",
+                "D. 变化发生得迅速且零星。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_85": {
+            "id": "IzQ2siryQrM_85",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "场景随着进展加入了哪些元素？",
+            "options": [
+                "A. 场景中增加了一扇门，抽屉柜。",
+                "B. 场景中增加了一台大电视，一个吊灯。",
+                "C. 场景中增加了一个扶手椅，一个镜子。",
+                "D. 场景中增加了一块地毯，扬声器和一个吊扇。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_86": {
+            "id": "IzQ2siryQrM_86",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "视频中出现了哪些文字来强调卧室的主题？",
+            "options": [
+                "A. 'Sleep Hygiene'。",
+                "B. 'Peaceful Dreams'。",
+                "C. 'Restful Nights'。",
+                "D. 'Cozy Moments'。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_87": {
+            "id": "IzQ2siryQrM_87",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "视频中的文本“Sleep Hygiene”位于哪里？",
+            "options": [
+                "A. 它位于画面的上方。",
+                "B. 它位于画面的中央。",
+                "C. 它位于画面的下方。",
+                "D. 它位于画面的左侧。"
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_88": {
+            "id": "IzQ2siryQrM_88",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "笔记本电脑是如何变化的？",
+            "options": [
+                "A. 从完全打开并直立，到后来盖子完全关闭。",
+                "B. 从关闭的，到后来其盖子完全打开并直立。",
+                "C. 从部分关闭的，到逐渐打开直到完全直立并可见。",
+                "D. 从盖子被移除，到后来重新安装。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_89": {
+            "id": "IzQ2siryQrM_89",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "先合上盖子的笔记本电脑的位置是什么？",
+            "options": [
+                "A. 放在画面的右下角。",
+                "B. 放在画面的前面。",
+                "C. 放在背景里面。",
+                "D. 放在画面的左上方。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_90": {
+            "id": "IzQ2siryQrM_90",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "视频场景设置是什么？",
+            "options": [
+                "A. 一个宁静的卧室环境。",
+                "B. 一个繁忙的城市环境。",
+                "C. 一个现代化的办公室空间。",
+                "D. 一个户外公园。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_91": {
+            "id": "IzQ2siryQrM_91",
+            "scene": 12,
+            "dimension": "Description-Human",
+            "question": "那名男子穿着什么？",
+            "options": [
+                "A. 一件白色无袖衬衫和浅蓝色睡裤",
+                "B. 一件白色T恤和深蓝色短裤",
+                "C. 一件灰色运动衫和白色长裤",
+                "D. 一件黑色背心和灰色运动裤"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_92": {
+            "id": "IzQ2siryQrM_92",
+            "scene": 12,
+            "dimension": "Description-Human",
+            "question": "这个男人在做什么？",
+            "options": [
+                "A. 男人坐在床上，用笔记本电脑工作。",
+                "B. 男人正在阅读一本书。",
+                "C. 男人躺在床上睡觉。",
+                "D. 男人站在窗边凝视着新月。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_93": {
+            "id": "IzQ2siryQrM_93",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "卧室场景的环境如何？",
+            "options": [
+                "A. 环境是混乱且忙碌的。",
+                "B. 环境是平静而安详的。",
+                "C. 环境是生动且色彩丰富的。",
+                "D. 环境是杂乱无章的。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_94": {
+            "id": "IzQ2siryQrM_94",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "笔记本电脑的设计特点是什么？",
+            "options": [
+                "A. 具有流线型设计，金属底座，饰有柔和的黄色矩形和线条。",
+                "B. 有一个塑料底座，饰有柔和的绿色矩形和线条。",
+                "C. 采用木质底座设计，并配有包含动态3D元素的图形界面。",
+                "D. 配有一个透明玻璃盖子，带有展示彩色图标和视频的界面。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_95": {
+            "id": "IzQ2siryQrM_95",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "笔记本电脑提供哪些连接选项？",
+            "options": [
+                "A. 包括两个USB接口、一个SD卡读卡槽和一个充电接口。",
+                "B. 包括一个HDMI接口、一个以太网接口和一个耳机接口。",
+                "C. 包括三个USB接口和一个FireWire接口。",
+                "D. 包括一个VGA接口、一个麦克风输入接口和一个Thunderbolt接口。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_96": {
+            "id": "IzQ2siryQrM_96",
+            "scene": 11,
+            "dimension": "Count",
+            "question": "环境中可以看到多少台笔记本电脑？",
+            "options": [
+                "A. 一台笔记本电脑",
+                "B. 两台笔记本电脑",
+                "C. 三台笔记本电脑",
+                "D. 没有笔记本电脑"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_97": {
+            "id": "IzQ2siryQrM_97",
+            "scene": 11,
+            "dimension": "Fine Grained Action",
+            "question": "哪种细微动作表明笔记本电脑从使用状态过渡到关闭状态？",
+            "options": [
+                "A. 使用电源按钮关闭笔记本电脑",
+                "B. 拔掉笔记本电脑的充电线",
+                "C. 笔记本电脑的屏幕盖被完全合上了",
+                "D. 将笔记本电脑屏幕切换到较暗的睡眠模式"
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_98": {
+            "id": "IzQ2siryQrM_98",
+            "scene": 13,
+            "dimension": "Camera Shot",
+            "question": "场景中使用哪种拍摄方式？",
+            "options": [
+                "A. 使用正面中广角镜头。",
+                "B. 使用高角度特写镜头。",
+                "C. 使用过肩镜头。",
+                "D. 使用广角鸟瞰图。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_99": {
+            "id": "IzQ2siryQrM_99",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "视频中的主要笔记本电脑屏幕最初显示的是什么？",
+            "options": [
+                "A. 一个清晰简洁的图形界面。",
+                "B. 一个带有图表的复杂电子表格。",
+                "C. 一个色彩丰富的视频游戏画面。",
+                "D. 是多个打开的网页浏览器标签页。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_100": {
+            "id": "IzQ2siryQrM_100",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "场景中的哪些视觉元素传达了宁静？",
+            "options": [
+                "A. 深蓝色的环境光和窗户中出现的新月和星星。",
+                "B. 微弱的灯光和窗帘的轻微运动。",
+                "C. 笔记本电脑呼吸灯和柔和的色块。",
+                "D. 暗淡的灰色墙壁和地毯上的旋转图案。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_101": {
+            "id": "IzQ2siryQrM_101",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "卧室场景中有哪些视觉线索象征着睡眠？",
+            "options": [
+                "A. 睡者头上的'Z'符号和弯月形象。",
+                "B. 图案地毯上的拖鞋和蓝色毯子。",
+                "B. 睡者头上的梦境画面和弯月形象。",
+                "D. 浅蓝色睡衣和木质床头柜。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_102": {
+            "id": "IzQ2siryQrM_102",
+            "scene": 15,
+            "dimension": "Spatial",
+            "question": "盆栽植物相对于小男孩的位置在哪里？",
+            "options": [
+                "A. 盆栽植物在小男孩床边的窗台上。",
+                "B. 盆栽植物在书架上。",
+                "C. 盆栽植物在床头柜上。",
+                "D. 盆栽植物在房间的角落里。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_103": {
+            "id": "IzQ2siryQrM_103",
+            "scene": 16,
+            "dimension": "Description-Scene",
+            "question": "场景的设置是什么样的？",
+            "options": [
+                "A. 充满温暖和活力的白天公园。",
+                "B. 白天的宁静乡村。",
+                "C. 黑暗暴风雨的森林。",
+                "D. 宁静和平的夜晚花园。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_104": {
+            "id": "IzQ2siryQrM_104",
+            "scene": 16,
+            "dimension": "Description-Human",
+            "question": "白天公园场景中，这名男子穿着怎样？",
+            "options": [
+                "A. 这名男子穿着深蓝色毛衣和浅蓝色裤子。",
+                "B. 这名男子穿着红色毛衣和黑色裤子。",
+                "C. 这名男子穿着绿色夹克和棕色短裤。",
+                "D. 这名男子穿着紫色连帽衫和牛仔裤。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_105": {
+            "id": "IzQ2siryQrM_105",
+            "scene": 16,
+            "dimension": "Description-Human",
+            "question": "白天公园场景中，那个女人穿着什么？",
+            "options": [
+                "A. 那个女人穿着亮粉色上衣。",
+                "B. 那个女人穿着深蓝色毛衣。",
+                "C. 那个女人穿着红色连衣裙。",
+                "D. 那个女人穿着绿色衬衫。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_106": {
+            "id": "IzQ2siryQrM_106",
+            "scene": 15,
+            "dimension": "Description-Object",
+            "question": "有哪些物品在这个小男孩的卧室里增添了个人色彩？",
+            "options": [
+                "A. 小男孩的卧室里有装裱的照片、书架和一盆植物。",
+                "B. 小男孩的卧室里有一台电视、一个玩具箱和一盏台灯。",
+                "C. 小男孩的卧室里有海报、一张书桌和一个书架。",
+                "D. 小男孩的卧室里有一台电脑、一台游戏机和一个豆袋椅。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_107": {
+            "id": "IzQ2siryQrM_107",
+            "scene": 16,
+            "dimension": "Count",
+            "question": "场景中有多少人？",
+            "options": [
+                "A. 一个人",
+                "B. 两个人",
+                "C. 三个人",
+                "D. 四个人"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_108": {
+            "id": "IzQ2siryQrM_108",
+            "scene": 16,
+            "dimension": "Count",
+            "question": "场景中有多少动物？",
+            "options": [
+                "A. 一只狗",
+                "B. 两只狗",
+                "C. 三只狗",
+                "D. 没有动物"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_109": {
+            "id": "IzQ2siryQrM_109",
+            "scene": 13,
+            "dimension": "Attribute Change",
+            "question": "视频是否展示了从夜晚到白天的过渡？",
+            "options": [
+                "A. 是的，视频展示了从夜晚到白天的过渡。",
+                "B. 不，视频一直停留在夜间场景。",
+                "C. 不，视频是从白天过渡到夜晚。",
+                "D. 视频没有表现任何时间上的过渡。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_110": {
+            "id": "IzQ2siryQrM_110",
+            "scene": 16,
+            "dimension": "Object Direction",
+            "question": "狗在公园里朝哪个方向移动？",
+            "options": [
+                "A. 狗跟着男人和女人一起移动。",
+                "B. 狗正在远离男人和女人。",
+                "C. 狗在靠近情侣的地方绕圈移动。",
+                "D. 狗静止不动，坐在靠近女人的地方。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_111": {
+            "id": "IzQ2siryQrM_111",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "视频中的夜间和白天场景通过什么视觉元素联系在一起？",
+            "options": [
+                "A. 边框左侧的窗口显示出新月和星星，将场景连接在一起。",
+                "B. 时钟在两个场景中显示相同的时间，将它们连接起来。",
+                "C. 在两个场景反复出现的背景布局与角色作为连接。",
+                "D. 在两个场景中反复出现的太阳作为连接。"
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_112": {
+            "id": "IzQ2siryQrM_112",
+            "scene": 15,
+            "dimension": "Description-Scene",
+            "question": "场景的灯光是什么样的？",
+            "options": [
+                "A. 昏暗而宁静。",
+                "B. 明亮而充满活力。",
+                "C. 鲜艳而多彩。",
+                "D. 强烈而戏剧化。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_113": {
+            "id": "IzQ2siryQrM_113",
+            "scene": 16,
+            "dimension": "Description-Scene",
+            "question": "场景中的光线是什么样的？",
+            "options": [
+                "A. 明亮且阳光充足。",
+                "B. 线昏暗且充满阴影。",
+                "C. 人造的，呈霓虹色。",
+                "D. 完全黑暗，没有可见度。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_114": {
+            "id": "IzQ2siryQrM_114",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "场景中哪个视觉元素暗示时间的过渡？",
+            "options": [
+                "A. 墙上的装裱画的颜色变化",
+                "B. 窗台上的盆栽的生长变化",
+                "C. 新月和星星的出现",
+                "D. 床旁的闹钟显示为7点"
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_115": {
+            "id": "IzQ2siryQrM_115",
+            "scene": 16,
+            "dimension": "Spatial",
+            "question": "男人和女人之间的空间关系是什么？",
+            "options": [
+                "A. 在公园环境中靠得很近。",
+                "B. 坐在公园的两端，彼此相距很远。",
+                "C. 背靠着背坐在草坪上。",
+                "D. 站着，中间隔着一个大的围栏。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_116": {
+            "id": "IzQ2siryQrM_116",
+            "scene": 16,
+            "dimension": "Spatial",
+            "question": "男人和狗之间的空间关系是什么？",
+            "options": [
+                "A. 男人和狗在公园内的位置彼此接近。",
+                "B. 男人站在离狗很远的地方。",
+                "C. 男人和狗位于公园的两侧。",
+                "D. 男人和狗根本不在同一个场景中。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_117": {
+            "id": "IzQ2siryQrM_117",
+            "scene": 16,
+            "dimension": "Spatial",
+            "question": "女人和狗之间的空间关系是什么？",
+            "options": [
+                "A. 女人和狗在公园环境中相互靠近。",
+                "B. 女人把狗抱在怀里。",
+                "C. 女人牵着狗狗散步。",
+                "D. 女子在屋内看着狗玩耍。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_118": {
+            "id": "IzQ2siryQrM_118",
+            "scene": 17,
+            "dimension": "Description-Scene",
+            "question": "视频开始的场景是什么？",
+            "options": [
+                "A. 一个有男人、女人和狗的户外公园。",
+                "B. 一个抽象的极简主义构图。",
+                "C. 一个详细的室内卧室场景。",
+                "D. 一个关于Dana基金会的文字密集型图像。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_119": {
+            "id": "IzQ2siryQrM_119",
+            "scene": 17,
+            "dimension": "Description-Scene",
+            "question": "视频后面的场景是什么？",
+            "options": [
+                "A. 一个充满活力的户外公园场景",
+                "B. 一个抽象且极简的几何构图",
+                "C. 一个详细的室内卧室场景",
+                "D. 一个带有文字和达纳基金会署名的纯白背景"
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_120": {
+            "id": "IzQ2siryQrM_120",
+            "scene": 18,
+            "dimension": "Description-Scene",
+            "question": "视频的场景是什么？",
+            "options": [
+                "A. 一个带有文本的纯白背景。",
+                "B. 一个充满活力的室外公园。",
+                "C. 一个抽象的几何设计。",
+                "D. 一个详细的室内卧室。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_121": {
+            "id": "IzQ2siryQrM_121",
+            "scene": 17,
+            "dimension": "Description-Human",
+            "question": "那位女性正在做什么？",
+            "options": [
+                "A. 那位女性正坐在床边，伸展身体。",
+                "B. 那位女性正站在窗边向外张望。",
+                "C. 那位女性正躺在床上看书。",
+                "D. 那位女性正在整理床头桌上的花。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_122": {
+            "id": "IzQ2siryQrM_122",
+            "scene": 17,
+            "dimension": "Description-Object",
+            "question": "床头柜上有什么物品？",
+            "options": [
+                "A. 一盏灯，一个钟",
+                "B. 一盏灯，一本书",
+                "C. 一盏灯，一个钟",
+                "D. 一盏灯，一株植物"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_123": {
+            "id": "IzQ2siryQrM_123",
+            "scene": 17,
+            "dimension": "Description-Scene",
+            "question": "卧室场景是否包括自然光？",
+            "options": [
+                "A. 是的，沐浴在自然光中。",
+                "B. 不，房间完全依赖人工照明。",
+                "C. 不，仅来自床头柜上的小灯。",
+                "D. 不，场景完全在黑暗中展示。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_124": {
+            "id": "IzQ2siryQrM_124",
+            "scene": 17,
+            "dimension": "Spatial",
+            "question": "右边的云朵相对于太阳的位置如何？",
+            "options": [
+                "A. 穿过太阳的中心。",
+                "B. 位于太阳的边缘附近。",
+                "C. 与太阳对角相交。",
+                "D. 围绕太阳形成一个弧形。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_125": {
+            "id": "IzQ2siryQrM_125",
+            "scene": 18,
+            "dimension": "Camera Shot",
+            "question": "镜头拍摄的性质是什么？",
+            "options": [
+                "A. 镜头是一个静态的特写。",
+                "B. 镜头是一个动态的横移画面。",
+                "C. 镜头通过拉近和拉远来创造运动感。",
+                "D. 镜头使用广角镜头来涵盖整场景。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_126": {
+            "id": "IzQ2siryQrM_126",
+            "scene": 17,
+            "dimension": "Camera Shot",
+            "question": "视频中的场景转换是如何进行的？",
+            "options": [
+                "A. 场景转换是渐进的。",
+                "B. 场景转换是快速的。",
+                "C. 场景转换伴随着旁白详细解释每个场景。",
+                "D. 场景转换涉及淡入黑色后再引入下一个场景。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_127": {
+            "id": "IzQ2siryQrM_127",
+            "scene": 18,
+            "dimension": "Description-Object",
+            "question": "视频中的色彩是什么？",
+            "options": [
+                "A. 带有深蓝色文字的纯白色背景。",
+                "B. 带有白色文字的黑色背景。",
+                "C. 带有绿色点缀的明黄色背景。",
+                "D. 带有深色文字的金属银色背景。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_128": {
+            "id": "IzQ2siryQrM_128",
+            "scene": 18,
+            "dimension": "Visual-cue",
+            "question": "在纯白背景上的文字信息是什么？",
+            "options": [
+                "A. 'Produced with support from the Dana Foundation'和'Explore the brain with us'",
+                "B. 'Produced with support from the Green Planet Initiative'和'Discover the wonders of nature'",
+                "C. 'produced with attributes support from the National Art Fund'和'Learn more about art and design'",
+                "D. 'produced with attributes support from the Knowledge Alliance'和'Embrace the power of education'"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_129": {
+            "id": "IzQ2siryQrM_129",
+            "scene": 18,
+            "dimension": "Description-Scene",
+            "question": "视频在黑屏之前的初始场景是什么？",
+            "options": [
+                "A. 初始场景展示了Dana Foundation的支持信息和标志。",
+                "B. 初始场景展示了一幅熙熙攘攘交通繁忙的城市景象。",
+                "C. 初始场景展示了一片宁静的海滩，海浪拍打着沙滩。",
+                "D. 初始场景展示了一座五彩缤纷的花园，花朵盛开。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_130": {
+            "id": "IzQ2siryQrM_130",
+            "scene": 18,
+            "dimension": "Visual-cue",
+            "question": "是什么视觉元素暗示了演示结束？",
+            "options": [
+                "A. 在干净的白色背景上的Dana Foundation标志。",
+                "B. 切换到一个无特征的黑屏。",
+                "C. 新材料或内容的出现。",
+                "D. 突然切换到一个丰富多彩的画框。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_131": {
+            "id": "IzQ2siryQrM_131",
+            "scene": 18,
+            "dimension": "Binary",
+            "question": "视频在黑屏后是否包含任何视觉元素？",
+            "options": [
+                "A. 是的，黑屏后有图画显示。",
+                "B. 不，黑屏后屏幕完全是黑的。",
+                "C. 是的，黑屏后有文字显示。",
+                "D. 是的，黑屏后有屏幕转变为白色。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_132": {
+            "id": "IzQ2siryQrM_132",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频中场景的初始焦点是什么？",
+            "options": [
+                "A. 一位年轻女子在夜晚卧室场景中安静地熟睡。",
+                "B. Dana Foundation的支持信息和标志出现在白色背景上。",
+                "C. 一个没有视觉元素或文字的黑色空白屏幕。",
+                "D. 晚高峰时分的繁忙城市景观。"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_133": {
+            "id": "IzQ2siryQrM_133",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在描绘女人入睡的场景之后会发生什么？",
+            "options": [
+                "A. 场景转为更近、更亲密的视角。",
+                "B. 屏幕渐变为一组象征和平梦境的各种风景。",
+                "C. 屏幕完全变黑，标志着内容的结束。",
+                "D. 场景转到一群人在实验室讨论睡眠科学。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_134": {
+            "id": "IzQ2siryQrM_134",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "用扫帚清扫抽象大脑后会看到什么？",
+            "options": [
+                "A. 显现出一个宁静的极简城市景观。",
+                "B. 显现出一个热闹的市场场景。",
+                "C. 显现出密集的森林景观。",
+                "D. 显现出充满活力的海洋景观。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_135": {
+            "id": "IzQ2siryQrM_135",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在抽象的大脑表现之后，焦点是谁？",
+            "options": [
+                "A. 一位正在床上睡觉的年轻男子。",
+                "B. 一位正在看书的女士。",
+                "C. 一个正在玩玩具的孩子。",
+                "D. 一位正在公园散步的老人。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_136": {
+            "id": "IzQ2siryQrM_136",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "睡着的女人头顶的思想气泡代表什么？",
+            "options": [
+                "A. 它们暗示了对多种意象的潜意识加工的主题联系。",
+                "B. 它们象征她对即将发生的事件和日常事务的梦。",
+                "C. 它们代表了涉及社交互动的前面场景中的视觉提示。",
+                "D. 它们强调对物质财富的关注和成功的愿望。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_137": {
+            "id": "IzQ2siryQrM_137",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "扫帚在认知抽象场景中象征着什么？",
+            "options": [
+                "A. 扫帚象征着在大脑中比喻性地梳理或整理思绪。",
+                "B. 扫帚是用来清理屏幕上的视觉元素的。",
+                "C. 扫帚在认知抽象场景中代表一个角色。",
+                "D. 扫帚是身体活动和锻炼的象征。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_138": {
+            "id": "IzQ2siryQrM_138",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "这个场景如何反映工作场所的疲惫？",
+            "options": [
+                "A. 男人身后的电池图标从满电变为部分耗尽，象征着疲劳。",
+                "B. 墙上的日历快速翻动，表示时间的流逝。",
+                "C. 墙上的时钟快速旋转，显示截止日期的压力。",
+                "D. 屏幕上显示的倒计时器归零，表示压力。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_139": {
+            "id": "IzQ2siryQrM_139",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "从公园场景过渡的事件顺序是什么？",
+            "options": [
+                "A. 过渡从公园场景开始，然后转为抽象的极简构图，接着是室内卧室场景，最后以Dana Foundation信息框结束。",
+                "B. 过渡从室内卧室场景开始，然后到户外公园场景，接着是抽象的极简主义构图，最后以Dana Foundation信息框结束。",
+                "C. 过渡直接从抽象的极简主义构图到户外公园场景，跳过任何室内场景，最后以Dana Foundation信息结束。",
+                "D. 过渡从户外公园场景直接到Dana Foundation信息框，没有任何中间视觉。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_140": {
+            "id": "IzQ2siryQrM_140",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在宁静城市中描绘一个睡着的男人之后，接下来是什么场景？",
+            "options": [
+                "A. 场景转换到一个办公室环境。",
+                "B. 场景转移到一个充满各种小贩的繁忙市场。",
+                "C. 场景移动到一个安静的图书馆。",
+                "D. 场景变为阳光明媚的海滩。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_141": {
+            "id": "IzQ2siryQrM_141",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "卡通化的城市环境与老年人物之后是什么转变？",
+            "options": [
+                "A. 场景转移到一个宁静的海滩上。",
+                "B. 场景变成了繁忙的城市街道。",
+                "C. 场景切换到一个舒适的小屋。",
+                "D. 场景变成了一个室内卧室。"
+            ],
+            "answer": "D"
+        },
+        "IzQ2siryQrM_142": {
+            "id": "IzQ2siryQrM_142",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在睡眠中的女人场景中，发光的大脑描绘代表什么？",
+            "options": [
+                "A. 发光的大脑可能代表神经活动和复杂的大脑功能。",
+                "B. 发光的大脑象征着女人控制梦境的能力。",
+                "C. 发光的大脑暗示即将过渡到清醒状态。",
+                "D. 发光的大脑表示记忆正在被遗忘的表现。"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_143": {
+            "id": "IzQ2siryQrM_143",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么在办公室场景中电池图标会从满电变为部分空电？",
+            "options": [
+                "A. 时间推移精力的减退和疲惫的增加。",
+                "B. 办公设备中的技术故障。",
+                "C. 指示办公室电力供应的问题。",
+                "D. 为了通知办公室任务的完成。"
+            ],
+            "answer": "A"
+        }
+    }
+}

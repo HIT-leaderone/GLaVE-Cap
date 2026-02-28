@@ -1,0 +1,2700 @@
+{
+    "scene_hint": {
+        "0": "Two lines of text appear on a pure white background.",
+        "1": "The camera zooms in on a man standing sideways.",
+        "2": "The background is blurred, and the camera turns to the man's front.",
+        "3": "A car carrying passengers drives on the road, with buildings and trees on the side.",
+        "4": "A hand takes out a gun and aims to shoot.",
+        "5": "Multiple lines of text appear on a light gray background.",
+        "6": "Warships appear with different national flags.",
+        "7": "The text 'ALLIANCES' appears on a light gray background.",
+        "8": "The map shows different texts and flags with arrows appearing.",
+        "9": "The text 'IMPERIALISM' appears on a light gray background.",
+        "10": "A person wearing light green clothing stands next to the map.",
+        "11": "The text 'NATIONALISM' appears on a light gray background.",
+        "12": "Many people appear in a colorful map background.",
+        "13": "Text appears accompanied by different background characters.",
+        "14": "A soldier in camouflage appears on a propaganda poster.",
+        "15": "Text scrolls on a black background."
+    },
+    "qa": {
+        "24i4ncHuf6A_0": {
+            "id": "24i4ncHuf6A_0",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Can any recognizable objects be seen in the video?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only a vague outline",
+                "D. A vague object"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_1": {
+            "id": "24i4ncHuf6A_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What environment is shown in the video?",
+            "options": [
+                "A. A busy city street with cars and pedestrians.",
+                "B. A uniform gray background with no distinct features or objects.",
+                "C. A dense forest with tall trees and wildlife.",
+                "D. A beach with clear blue water and sunshine."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_2": {
+            "id": "24i4ncHuf6A_2",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "Does the gray background in the video change color?",
+            "options": [
+                "A. Yes, the background changes from gray to blue.",
+                "B. Yes, the background changes to include a gradient.",
+                "C. No, the gray background remains consistent.",
+                "D. Yes, the background changes to display various colors."
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_3": {
+            "id": "24i4ncHuf6A_3",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "Is there any change in texture on the gray background in the video?",
+            "options": [
+                "A. Yes, it becomes textured halfway through.",
+                "B. No, the gray background remains uniform throughout.",
+                "C. Yes, it gradually turns black.",
+                "D. Yes, subtle patterns appear after a while."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_4": {
+            "id": "24i4ncHuf6A_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Are there any visual cues in the video?",
+            "options": [
+                "A. Yes, the video is full of intricate patterns.",
+                "B. No, there are no visual cues in the video.",
+                "C. Yes, there are animated characters in the video.",
+                "D. Yes, there are visible text elements in the video."
+            ],
+            "answer": "D"
+        },
+        "24i4ncHuf6A_5": {
+            "id": "24i4ncHuf6A_5",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Are there symbols in the video?",
+            "options": [
+                "A. Yes, there are symbols in the video.",
+                "B. No, there are no symbols in the video.",
+                "C. The video is covered with symbols.",
+                "D. Due to the background, the symbols are hard to see."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_6": {
+            "id": "24i4ncHuf6A_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Where is the phrase 'WHAT CAUSED THE DEVASTATING' located in the video?",
+            "options": [
+                "A. In the upper middle part of the screen.",
+                "B. In the lower middle part of the screen.",
+                "C. In the center of the screen.",
+                "D. Along the left side of the screen."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_7": {
+            "id": "24i4ncHuf6A_7",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the main focus of the video scene?",
+            "options": [
+                "A. The main focus is the text phrases displayed against a light gray background.",
+                "B. The main focus is a historical video montage about World War I.",
+                "C. The main focus is a map of Europe before World War I.",
+                "D. The main focus is the timeline of events leading to World War I."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_8": {
+            "id": "24i4ncHuf6A_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Are there any other visual elements in the scene besides text?",
+            "options": [
+                "A. Yes, there are some subtle illustrations.",
+                "B. No.",
+                "C. Yes, there is a background image of a battlefield.",
+                "D. Yes, there are some animation effects."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_9": {
+            "id": "24i4ncHuf6A_9",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "How does the scene change?",
+            "options": [
+                "A. The scene changes by introducing text with an unchanged background.",
+                "B. The scene changes by adding multiple colorful images.",
+                "C. The scene changes with the appearance of animated characters.",
+                "D. The scene changes by replacing the background with complex patterns."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_10": {
+            "id": "24i4ncHuf6A_10",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "“What is the difference in text style between 'WHAT CAUSED THE DEVASTATING' and 'FIRST WORLD WAR?'”",
+            "options": [
+                "A. 'WHAT CAUSED THE DEVASTATING' is bold and heavy, while 'FIRST WORLD WAR?' is elegant, thinner, and slightly larger in font size.",
+                "B. 'WHAT CAUSED THE DEVASTATING' is italicized and colored, while 'FIRST WORLD WAR?' is bold and smaller in font size.",
+                "C. 'WHAT CAUSED THE DEVASTATING' is underlined and centered, while 'FIRST WORLD WAR?' is italicized and bold.",
+                "D. 'WHAT CAUSED THE DEVASTATING' is in a handwritten style, while 'FIRST WORLD WAR?' is in a block font with color design."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_11": {
+            "id": "24i4ncHuf6A_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "In the video, which visual elements help convey a tone of seriousness and reflection?",
+            "options": [
+                "A. The presence of rich graphics and playful animations on a minimalistic background helps create a serious and reflective atmosphere.",
+                "B. The use of a minimalist font on a simple gray background helps create a serious and reflective atmosphere.",
+                "C. The Comic Sans font with a bright yellow background helps create a serious and reflective atmosphere.",
+                "D. The use of lowercase cursive fonts with complex backgrounds helps create a serious and reflective atmosphere."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_12": {
+            "id": "24i4ncHuf6A_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "From the video, where is the green tree relative to the pink building?",
+            "options": [
+                "A. The green tree is on the right side of the pink building.",
+                "B. The green tree is on the left side of the pink building.",
+                "C. The green tree is behind the pink building.",
+                "D. The green tree is in front of the pink building."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_13": {
+            "id": "24i4ncHuf6A_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the overall setting of the video?",
+            "options": [
+                "A. The video transitions from a minimalist style to city street scenes.",
+                "B. The video transitions from a forest to a bustling market.",
+                "C. The video transitions from a beach to a quiet suburban community.",
+                "D. The video transitions from a dark room to a bright office."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_14": {
+            "id": "24i4ncHuf6A_14",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "How is the cartoon character dressed?",
+            "options": [
+                "A. The cartoon character is formally dressed in a black suit jacket.",
+                "B. The cartoon character is casually dressed in a colorful T-shirt and jeans.",
+                "C. The cartoon character is dressed in a robe with decorative patterns.",
+                "D. The cartoon character is dressed in a traditional kimono with a belt."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_15": {
+            "id": "24i4ncHuf6A_15",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What does the cartoon character look like?",
+            "options": [
+                "A. This cartoon character has short black hair, light skin, and a small black mustache.",
+                "B. This cartoon character has long blonde hair, tanned skin, and a prominent beard.",
+                "C. This cartoon character has curly brown hair, dark skin, and no beard.",
+                "D. This cartoon character has short red hair, pale skin, and wears glasses."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_16": {
+            "id": "24i4ncHuf6A_16",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What architectural details are present in large pink buildings?",
+            "options": [
+                "A. The building features white decorations, arched windows, rectangular window frames, circular ornaments, and glass panes.",
+                "B. The building has streamlined gray walls, triangular windows, metal decorations, and no visible glass panes.",
+                "C. The building is decorated with deep red bricks, square windows, green shutters, and wooden doors.",
+                "D. The building includes white minimalist walls, oval windows, decorative columns, and stained glass panes."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_17": {
+            "id": "24i4ncHuf6A_17",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What are the prominent visual elements introduced in the background?",
+            "options": [
+                "A. The prominent visual elements are a large pink building and green trees.",
+                "B. The prominent visual elements are a large blue fountain and a cobblestone path.",
+                "C. The prominent visual elements are a towering skyscraper and parked cars.",
+                "D. The prominent visual elements are a wooden cabin and a dense forest."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_18": {
+            "id": "24i4ncHuf6A_18",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "Is this character looking to the left?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Sometimes",
+                "D. Uncertain"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_19": {
+            "id": "24i4ncHuf6A_19",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "From the video, where is the green tree located in relation to the character?",
+            "options": [
+                "A. The green tree is in front of the character.",
+                "B. The green tree is to the left of the character.",
+                "C. The green tree is to the right of the character.",
+                "D. The green tree is behind the character."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_20": {
+            "id": "24i4ncHuf6A_20",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "Is there a camera switch between scenes in the video?",
+            "options": [
+                "A. No, the camera focuses on a minimalist scene throughout the entire video.",
+                "B. Yes, the camera switches from a minimalist scene with a light gray background to a dynamic urban environment.",
+                "C. No, the entire video is set in the same dynamic urban environment without any switches.",
+                "D. Yes, the camera switches between multiple abstract scenes, which do not have characters or detailed settings."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_21": {
+            "id": "24i4ncHuf6A_21",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "Which type of shot highlights cartoon characters in the foreground?",
+            "options": [
+                "A. Profile close-up shot",
+                "B. Bird's-eye view shot",
+                "C. Wide-angle shot",
+                "D. Over-the-shoulder shot"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_22": {
+            "id": "24i4ncHuf6A_22",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "Is the scene transition fast?",
+            "options": [
+                "A. Yes, the scene transition is fast.",
+                "B. No, the scene transition is slow.",
+                "C. The description does not specifically mention the speed of the scene transition.",
+                "D. The scene transition happens instantly."
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_23": {
+            "id": "24i4ncHuf6A_23",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "How does the background of the video change?",
+            "options": [
+                "A. The background transitions from a minimalist design in light gray to a vibrant urban environment, including a pink building and a green tree.",
+                "B. The background transitions from a vibrant urban environment, including a pink building and a green tree, to a minimalist design in light gray.",
+                "C. The background transitions from a busy cityscape with heavy traffic to a quiet minimalist forest environment.",
+                "D. The background in the video remains a minimalist design in light gray throughout."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_24": {
+            "id": "24i4ncHuf6A_24",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Which visual element emphasizes the urban environment?",
+            "options": [
+                "A. The large pink building with intricate white architectural details and arched windows.",
+                "B. The green round tree on the left side of the image.",
+                "C. The simple light gray background seen earlier.",
+                "D. The cartoon character wearing a formal black suit and a neutral expression."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_25": {
+            "id": "24i4ncHuf6A_25",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where does this scene mainly take place?",
+            "options": [
+                "A. On a busy city street filled with traffic",
+                "B. Inside a crowded auditorium",
+                "C. In front of a pink building",
+                "D. On a beach with crashing waves"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_26": {
+            "id": "24i4ncHuf6A_26",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "How does the background help highlight the focus?",
+            "options": [
+                "A. The background is deliberately muted to highlight the character.",
+                "B. The background is light in color and rich in detail.",
+                "C. The background is full of details to distract attention from the character.",
+                "D. The background is bright and vibrant to match the character's expression."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_27": {
+            "id": "24i4ncHuf6A_27",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the prominent feature of this character's expression?",
+            "options": [
+                "A. The character has a neutral mouth shape.",
+                "B. The character has a bright smile.",
+                "C. The character has furrowed brows, indicating anger or frustration.",
+                "D. The character has furrowed brows, appearing sad."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_28": {
+            "id": "24i4ncHuf6A_28",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What are the prominent visual details in the background objects?",
+            "options": [
+                "A. The background includes the outer wall of a light pink building and the green from distant trees.",
+                "B. The background shows a bustling street with bright signs and crowds.",
+                "C. The background contains a detailed depiction of a forest scene with dense greenery and wildlife.",
+                "D. The background depicts snow-capped mountain peaks and a colorful sunset."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_29": {
+            "id": "24i4ncHuf6A_29",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "Which set of facial features is particularly emphasized in the video?",
+            "options": [
+                "A. Short curly hair, black beard, black eyes, dark eyebrows, neutral mouth",
+                "B. Long straight hair, thick beard, blue eyes, light eyebrows, smiling mouth",
+                "C. Golden curly hair, thick beard, green eyes, arched eyebrows, frowning mouth",
+                "D. Straight black hair, no facial hair, brown eyes, thin eyebrows, open mouth"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_30": {
+            "id": "24i4ncHuf6A_30",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "Does the video emphasize environmental details?",
+            "options": [
+                "A. Yes, environmental details are highlighted.",
+                "B. No, environmental details are blurred to emphasize the characters.",
+                "C. Yes, environmental details are rich.",
+                "D. No, the background remains clear."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_31": {
+            "id": "24i4ncHuf6A_31",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What do the character's eyebrows indicate?",
+            "options": [
+                "A. Raised thick eyebrows indicate curiosity or focus.",
+                "B. Thinner black eyebrows make the character appear uninterested.",
+                "C. The character's furrowed eyebrows indicate frustration.",
+                "D. The character's drooping eyebrows indicate giving up."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_32": {
+            "id": "24i4ncHuf6A_32",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What type of shot highlights the character's face and upper chest?",
+            "options": [
+                "A. A wide-angle shot showing the overall environment.",
+                "B. A close-up shot with a blurred background.",
+                "C. An aerial shot taken from above the character.",
+                "D. A long shot capturing the character's full body."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_33": {
+            "id": "24i4ncHuf6A_33",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "How does the camera switch to a more compact frame?",
+            "options": [
+                "A. The camera suddenly switches to a more compact frame, focusing on the character's surroundings.",
+                "B. The camera gradually zooms in, fully focusing on the character.",
+                "C. The camera shifts focus to the background, emphasizing environmental details rather than the character.",
+                "D. The camera switches to a wide-angle long shot, showcasing more of the scene."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_34": {
+            "id": "24i4ncHuf6A_34",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "From the video, where is the green tree located in relation to the car?",
+            "options": [
+                "A. The green tree is behind the car on the right, near a building.",
+                "B. The green tree is on the left side of the car, located on the street.",
+                "C. The green tree is on the right side of the car, near the sidewalk.",
+                "D. The green tree is directly in front of the car, blocking its path."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_35": {
+            "id": "24i4ncHuf6A_35",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the street scene?",
+            "options": [
+                "A. The scene is set in a dynamic urban area with buildings, a blank yellow sign, and a tree.",
+                "B. The scene is set in a quiet rural area with open fields, a barn, and a few scattered trees.",
+                "C. The scene is set in a residential area with detached houses, a park, and a small number of commercial buildings.",
+                "D. The scene is set in a bustling market square filled with street vendors, crowded stalls, and colorful banners."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_36": {
+            "id": "24i4ncHuf6A_36",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the driver of the car wearing?",
+            "options": [
+                "A. Yellow hat and blue clothing",
+                "B. Black top hat and red clothing",
+                "C. Green feather headpiece and white clothing",
+                "D. White clothing and purple accessories"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_37": {
+            "id": "24i4ncHuf6A_37",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What does the car driver look like?",
+            "options": [
+                "A. The driver is wearing a hat and has a rosy complexion.",
+                "B. The driver has long curly hair and a pale complexion.",
+                "C. The driver is bald and has a very tanned complexion.",
+                "D. The driver has short hair and a darker complexion."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_38": {
+            "id": "24i4ncHuf6A_38",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What color is the car body?",
+            "options": [
+                "A. It is light green.",
+                "B. It is dark green.",
+                "C. It is dark black.",
+                "D. It is dark gray."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_39": {
+            "id": "24i4ncHuf6A_39",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What color are the car's wheels?",
+            "options": [
+                "A. Black and gray wheels",
+                "B. All black wheels",
+                "C. All gray wheels",
+                "D. All green wheels"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_40": {
+            "id": "24i4ncHuf6A_40",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What color is the car's mudguard?",
+            "options": [
+                "A. It is gray.",
+                "B. It is green.",
+                "C. It is black.",
+                "D. It is white."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_41": {
+            "id": "24i4ncHuf6A_41",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is the top of the car like?",
+            "options": [
+                "A. The top of the car is convertible.",
+                "B. The top of the car has a sunroof.",
+                "C. The car has a fully enclosed top.",
+                "D. The car has a currently closed foldable roof."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_42": {
+            "id": "24i4ncHuf6A_42",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many passengers are in the car?",
+            "options": [
+                "A. There is one passenger.",
+                "B. There are two passengers.",
+                "C. There are three passengers.",
+                "D. There are four passengers."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_43": {
+            "id": "24i4ncHuf6A_43",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Is the yellow sign on the building at the far left of the video blank?",
+            "options": [
+                "A. Yes, it is blank.",
+                "B. No, there is text on the sign.",
+                "C. No, it is partially filled with content.",
+                "D. Yes, there is a picture."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_44": {
+            "id": "24i4ncHuf6A_44",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the person in the back seat doing?",
+            "options": [
+                "A. The person in the back seat is quietly observing the surroundings.",
+                "B. The person in the back seat is interacting with his companion.",
+                "C. The person in the back seat is reading a book.",
+                "D. The person in the back seat is directing the driver."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_45": {
+            "id": "24i4ncHuf6A_45",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "Which direction is the car moving?",
+            "options": [
+                "A. Towards the left side of the screen",
+                "B. Towards the right side of the screen",
+                "C. Towards the top of the screen",
+                "D. The car is not moving"
+            ],
+            "answer": "D"
+        },
+        "24i4ncHuf6A_46": {
+            "id": "24i4ncHuf6A_46",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle?",
+            "options": [
+                "A. The initial camera angle is an intimate close-up shot of a character's face.",
+                "B. The initial camera angle is a wide-angle shot of a street scene.",
+                "C. The initial camera angle is a bird's-eye view of the urban environment.",
+                "D. The initial camera angle is a panoramic view of the city."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_47": {
+            "id": "24i4ncHuf6A_47",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "Does the video description indicate the speed of the car?",
+            "options": [
+                "A. Yes, the car is described as moving fast.",
+                "B. Yes, the car is described as moving slowly.",
+                "C. No, the video description does not provide information about the car's speed.",
+                "D. Yes, the car is described as stationary."
+            ],
+            "answer": "D"
+        },
+        "24i4ncHuf6A_48": {
+            "id": "24i4ncHuf6A_48",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the man in the back seat of the car wearing?",
+            "options": [
+                "A. The person is wearing a green feather headdress and a blue coat.",
+                "B. The person is wearing a formal black suit jacket and tie.",
+                "C. The person is wearing a red coat similar to the driver's.",
+                "D. The person is dressed casually, wearing a white shirt and jeans."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_49": {
+            "id": "24i4ncHuf6A_49",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the woman in the back seat of the car wearing?",
+            "options": [
+                "A. The lady is wearing a golden hat and green clothes.",
+                "B. The lady is wearing a white and purple hat and a white outfit.",
+                "C. The lady is wearing an elegant green feather headpiece and a white cape.",
+                "D. The lady is wearing a red hat and a matching red outfit."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_50": {
+            "id": "24i4ncHuf6A_50",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many people can be seen in the car?",
+            "options": [
+                "A. Three people",
+                "B. Four people",
+                "C. Five people",
+                "D. Two people"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_51": {
+            "id": "24i4ncHuf6A_51",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What features are prominently displayed when the arm is holding a handgun in the scene?",
+            "options": [
+                "A. Light-colored skin and black clothing are prominently displayed.",
+                "B. Green feather headdress and white cloak are prominently displayed.",
+                "C. Vibrant city street scenes and yellow signs are prominently displayed.",
+                "D. Gray-white triangular area and colorful theatrical costumes are prominently displayed."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_52": {
+            "id": "24i4ncHuf6A_52",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "In the close-up shot, what is the direction of the handgun?",
+            "options": [
+                "A. The handgun is pointing inward.",
+                "B. The handgun is pointing straight down.",
+                "C. The handgun is slightly tilted upward.",
+                "D. The handgun is pointing outward."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_53": {
+            "id": "24i4ncHuf6A_53",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens was used when transitioning to the scene with a human arm and handgun?",
+            "options": [
+                "A. A close-up lens was used.",
+                "B. A wide-angle lens was used.",
+                "C. An overhead shot was used.",
+                "D. A tracking shot was used."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_54": {
+            "id": "24i4ncHuf6A_54",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "How does the atmosphere change between the scene with vintage cars and the close-up of the handgun?",
+            "options": [
+                "A. The atmosphere shifts from the dynamic, lively city streets to a solemn and tense focus on the handgun and arm.",
+                "B. The atmosphere transitions from a tranquil rural landscape to an overwhelming cityscape filled with bright lights and noise.",
+                "C. The atmosphere changes from a quiet suburban street to a colorful and exciting carnival.",
+                "D. The atmosphere shifts from a warm home interior with soft lighting to a bustling open-air market filled with laughter and chatter."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_55": {
+            "id": "24i4ncHuf6A_55",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "From the video, where does the hand holding the black pistol appear in the frame?",
+            "options": [
+                "A. It appears from the top left corner of the frame.",
+                "B. It appears from the top right corner of the frame.",
+                "C. It appears from the center of the frame.",
+                "D. It appears from the bottom right corner of the frame."
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_56": {
+            "id": "24i4ncHuf6A_56",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What are the characteristics of the hand in this scene?",
+            "options": [
+                "A. The hand is light-skinned, holding a sleek black handgun.",
+                "B. The hand is dark-skinned, holding a silver revolver.",
+                "C. The hand is light-skinned, holding a knife with a maroon handle.",
+                "D. The hand is gloved, holding a plain black handgun."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_57": {
+            "id": "24i4ncHuf6A_57",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What's notable about the hand movements in this scene?",
+            "options": [
+                "A. The hand clearly demonstrates control and purpose.",
+                "B. The hand is making an effort to keep the gun steady.",
+                "C. The hand hesitates before picking up the gun.",
+                "D. The hand accidentally drops the gun."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_58": {
+            "id": "24i4ncHuf6A_58",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What does the appearance of the handgun in the background look like?",
+            "options": [
+                "A. The surface of the handgun is black, with brown accents on the grip.",
+                "B. The surface of the handgun is silver, with gold decorations on the trigger part.",
+                "C. The handgun is equipped with a vintage wooden handle and has brass decorations.",
+                "D. The handgun is completely white, with no additional embellishments."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_59": {
+            "id": "24i4ncHuf6A_59",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "Does the abstract background contain sharp or clearly defined elements?",
+            "options": [
+                "A. Yes, the abstract background has sharp and clearly defined elements.",
+                "B. No, the abstract background is blurry.",
+                "C. Yes, the abstract background includes detailed and focused shapes.",
+                "D. No, the abstract background is completely black."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_60": {
+            "id": "24i4ncHuf6A_60",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "When the hand enters the scene, what action does it perform?",
+            "options": [
+                "A. The hand drops the gun.",
+                "B. The hand controls and firmly holds the gun.",
+                "C. The hand waves the gun.",
+                "D. The hand points the gun at the ground."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_61": {
+            "id": "24i4ncHuf6A_61",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "Is this handgun pointing in a specific direction when entering the scene?",
+            "options": [
+                "A. Yes, it points upwards.",
+                "B. No, the direction it points is not clearly indicated.",
+                "C. Yes, it points downwards.",
+                "D. Yes, it points straight ahead."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_62": {
+            "id": "24i4ncHuf6A_62",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "After the transition, where is the position of the word 'MILITARISM' on the screen?",
+            "options": [
+                "A. The word 'MILITARISM' is located at the center of the screen",
+                "B. The word 'MILITARISM' is located at the bottom left corner of the screen",
+                "C. The word 'MILITARISM' is located at the top right corner of the screen",
+                "D. The word 'MILITARISM' is located at the bottom right corner of the screen"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_63": {
+            "id": "24i4ncHuf6A_63",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the design of the video background like?",
+            "options": [
+                "A. The background design is simple.",
+                "B. The background is colorful and detailed.",
+                "C. The background presents a busy and cluttered pattern.",
+                "D. The background uses a dark and textured theme."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_64": {
+            "id": "24i4ncHuf6A_64",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the color of the background in the video?",
+            "options": [
+                "A. The background is dark gray.",
+                "B. The background is white.",
+                "C. The background is light gray.",
+                "D. The background is black."
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_65": {
+            "id": "24i4ncHuf6A_65",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What happens to the word 'ALLIANCES' after the scene changes?",
+            "options": [
+                "A. After the scene changes, the word 'ALLIANCES' becomes bold and centered.",
+                "B. After the scene changes, the word 'ALLIANCES' is removed.",
+                "C. After the scene changes, the word 'ALLIANCES' changes to a different color.",
+                "D. After the scene changes, the word 'ALLIANCES' is placed below the word 'MILITARISM'."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_66": {
+            "id": "24i4ncHuf6A_66",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What is the word that appears after “ALLIANCES” disappears?",
+            "options": [
+                "A. “MILITARISM”.",
+                "B. “IMPERIALISM”.",
+                "C. “NATIONALISM”.",
+                "D. No new words appear afterwards."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_67": {
+            "id": "24i4ncHuf6A_67",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many words are displayed in front of the scene?",
+            "options": [
+                "A. One word is displayed.",
+                "B. Two words are displayed.",
+                "C. Three words are displayed.",
+                "D. Four words are displayed."
+            ],
+            "answer": "D"
+        },
+        "24i4ncHuf6A_68": {
+            "id": "24i4ncHuf6A_68",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many words were displayed after the scene switch?",
+            "options": [
+                "A. One word was displayed.",
+                "B. Two words were displayed.",
+                "C. Three words were displayed.",
+                "D. No words were displayed."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_69": {
+            "id": "24i4ncHuf6A_69",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "During the transition, does this video maintain a minimalist aesthetic style?",
+            "options": [
+                "A. Yes, this video maintains a minimalist aesthetic style throughout the transition.",
+                "B. No, this video becomes cluttered and busy in design during the transition.",
+                "C. No, this video suddenly introduces a complex and detailed background during the transition.",
+                "D. Yes, but only in the latter half of the transition."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_70": {
+            "id": "24i4ncHuf6A_70",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What design choices can enhance the prominence of the word 'MILITARISM'?",
+            "options": [
+                "A. Isolating the word and placing it at the center of the background can enhance its prominence.",
+                "B. Increasing the font size of all words can also enhance its prominence.",
+                "C. Adding a shadow effect to the word 'MILITARISM' can enhance its prominence.",
+                "D. Using a dark background and bold red text can enhance its prominence."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_71": {
+            "id": "24i4ncHuf6A_71",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What attribute changes occur in the text content during the transition?",
+            "options": [
+                "A. The text transitions from four words to one centered word.",
+                "B. The text transitions from four words to two centered words.",
+                "C. The text transitions from one word to three centered words.",
+                "D. The text transitions from one word to one centered phrase."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_72": {
+            "id": "24i4ncHuf6A_72",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "In the new framework, how can 'MILITARISM' be visually emphasized?",
+            "options": [
+                "A. By removing other words and placing 'MILITARISM' in bold at the center of a light gray background.",
+                "B. By presenting 'MILITARISM' alongside 'ALLIANCES' and 'IMPERIALISM' using a vibrant color scheme.",
+                "C. By adding decorative borders around 'MILITARISM' and using a colorful background.",
+                "D. By aligning 'MILITARISM' to the bottom of the framework and using smaller font size."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_73": {
+            "id": "24i4ncHuf6A_73",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the warship with the red flag located in the video?",
+            "options": [
+                "A. In the upper left corner of the video",
+                "B. In the center of the video",
+                "C. In the lower right corner of the video",
+                "D. In the upper right corner of the video"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_74": {
+            "id": "24i4ncHuf6A_74",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the scene in the video after the gray background transition?",
+            "options": [
+                "A. A lively blue ocean scene from a bird's-eye view, with the main focus on warships.",
+                "B. A bustling port seen from the shore, filled with merchant ships.",
+                "C. A tranquil coastal village viewed from a cliff, with fishing boats scattered throughout.",
+                "D. A busy naval dockyard seen from the ground perspective, where ships are under maintenance."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_75": {
+            "id": "24i4ncHuf6A_75",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many different types of flags can be seen in the last frame of the extended fleet?",
+            "options": [
+                "A. 4 types",
+                "B. 3 types",
+                "C. 5 types",
+                "D. 2 types"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_76": {
+            "id": "24i4ncHuf6A_76",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Are there other elements in the background besides the warship?",
+            "options": [
+                "A. Yes, the background includes other maritime features.",
+                "B. No, the background is clean and tidy, focusing only on the warship.",
+                "C. Yes, there are clouds and waves in the background.",
+                "D. No, besides the warship, the background is empty."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_77": {
+            "id": "24i4ncHuf6A_77",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "How does the position of the ships change when transitioning to a grid composed of six ships?",
+            "options": [
+                "A. The view transforms into a structured grid, with six ships arranged in four columns and three rows.",
+                "B. The ships form a single diagonal line across the ocean, consisting of three British ships and three German ships.",
+                "C. The ships randomly cluster, without presenting any specific order or arrangement.",
+                "D. The ships form a circle around a central flagship to demonstrate its dominance."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_78": {
+            "id": "24i4ncHuf6A_78",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the ship with the British flag located in the video?",
+            "options": [
+                "A. The ship with the British flag occupies the left column.",
+                "B. The ship with the British flag occupies the right column.",
+                "C. The ship with the British flag is randomly distributed.",
+                "D. The ship with the British flag is located in the center of the grid."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_79": {
+            "id": "24i4ncHuf6A_79",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the ship with the German flag located in the video?",
+            "options": [
+                "A. The ship with the German flag is positioned on the right side.",
+                "B. The ship with the German flag is positioned on the left side.",
+                "C. The ship with the German flag is randomly distributed.",
+                "D. The ship with the German flag appears at the top center."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_80": {
+            "id": "24i4ncHuf6A_80",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many ships are there at the beginning of the video?",
+            "options": [
+                "A. One ship.",
+                "B. Two ships.",
+                "C. Four ships.",
+                "D. Six ships."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_81": {
+            "id": "24i4ncHuf6A_81",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many ships are in the middle of the video?",
+            "options": [
+                "A. Six ships",
+                "B. Four ships",
+                "C. Twelve ships",
+                "D. Two ships"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_82": {
+            "id": "24i4ncHuf6A_82",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "What disrupted the bilateral symmetry in the final scene?",
+            "options": [
+                "A. A battleship with a red flag hanging is located at the bottom right corner.",
+                "B. A third battleship with the British flag hanging is located in the upper left corner.",
+                "C. An additional battleship with the German flag hanging is located at the center.",
+                "D. Two battleships with red flags hanging are located on the left side."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_83": {
+            "id": "24i4ncHuf6A_83",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What content in the video indicates the competition between the ships?",
+            "options": [
+                "A. The flags on the ships highlight the competitive relationship.",
+                "B. The shape and color of the ships indicate their competition.",
+                "C. The position of the ships in the grid shows their competition.",
+                "D. The number of participating ships indicates the competitive relationship."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_84": {
+            "id": "24i4ncHuf6A_84",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Which flag in the video represents the United Kingdom?",
+            "options": [
+                "A. Union Jack",
+                "B. German tricolor",
+                "C. Red Ensign",
+                "D. French flag"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_85": {
+            "id": "24i4ncHuf6A_85",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "Which flag in the video represents Germany?",
+            "options": [
+                "A. German tricolor flag",
+                "B. Union Jack flag",
+                "C. Red and white striped flag",
+                "D. A plain red flag"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_86": {
+            "id": "24i4ncHuf6A_86",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What environment is depicted in this scene?",
+            "options": [
+                "A. The scene is set on a blue ocean with multiple warships bearing national flags.",
+                "B. The scene takes place in thick fog, making the warships almost invisible.",
+                "C. The scene is set in a naval dockyard, with ships preparing to depart.",
+                "D. The scene takes place on a river surrounded by green forests."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_87": {
+            "id": "24i4ncHuf6A_87",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Is there a depiction of people in this scene?",
+            "options": [
+                "A. Yes, several people are depicted in the scene.",
+                "B. No, there are no people depicted in the scene.",
+                "C. Yes, but only the crew is visible.",
+                "D. No, but there are shadows suggesting the presence of people."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_88": {
+            "id": "24i4ncHuf6A_88",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "Has the scene shifted from naval imagery to text-based communication?",
+            "options": [
+                "A. Yes, it has.",
+                "B. No, it hasn't.",
+                "C. The scene shifted from naval imagery to animated graphics.",
+                "D. The entire scene has always focused on naval imagery."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_89": {
+            "id": "24i4ncHuf6A_89",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "What changes occur to the visual elements during the transition?",
+            "options": [
+                "A. Naval vessels transition to a bright, animated ocean scene.",
+                "B. Detailed naval images suddenly shift to text in a minimalist design.",
+                "C. The scene transitions to a depiction of naval battle animation.",
+                "D. Warships form geometric patterns on the screen."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_90": {
+            "id": "24i4ncHuf6A_90",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What is the visual presentation of the word 'ALLIANCES'?",
+            "options": [
+                "A. The word 'ALLIANCES' is displayed in a clear sans-serif font, centered on a light gray background.",
+                "B. The word 'ALLIANCES' floats above a battleship in bold cursive style, with a deep sea blue background.",
+                "C. The word 'ALLIANCES' is scattered in large red letters across an ocean map, using a decorative serif font.",
+                "D. The word 'ALLIANCES' is projected in script font in the sky, with an animated wave background."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_91": {
+            "id": "24i4ncHuf6A_91",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "How does the visual presentation of the word 'ALLIANCES' highlight its thematic importance?",
+            "options": [
+                "A. This presentation emphasizes clarity and precision, highlighting its thematic importance.",
+                "B. This presentation uses complex historical imagery to emphasize its importance.",
+                "C. This presentation attracts the audience's attention by showcasing vibrant colors.",
+                "D. This presentation utilizes detailed backgrounds to highlight its importance."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_92": {
+            "id": "24i4ncHuf6A_92",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "How to represent GERMANY's tactical focus on the map?",
+            "options": [
+                "A. GERMANY's tactical focus is represented by arrows pointing in various directions.",
+                "B. GERMANY's focus is highlighted by a single arrow pointing towards France, indicating its concentration on the Western Front.",
+                "C. GERMANY's strategy is depicted by arrows targeting only neutral countries, avoiding major Allied powers.",
+                "D. GERMANY's tactical focus is represented by a series of downward arrows, pointing only to the Balkans, showing no interest in other areas."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_93": {
+            "id": "24i4ncHuf6A_93",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "In the depiction on the map, what role does the bright red arrow play?",
+            "options": [
+                "A. The bright red arrow represents possible axes of conflict, adding a dynamic element to the otherwise static political map.",
+                "B. The bright red arrow indicates peace treaties between countries, symbolizing diplomatic resolutions to ongoing conflicts.",
+                "C. The bright red arrow serves as boundaries between different countries, clearly delineating territories to avoid misunderstandings.",
+                "D. The bright red arrow is purely decorative and has no practical use in the depiction of World War I strategies on the map."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_94": {
+            "id": "24i4ncHuf6A_94",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many new red arrows have been added to the map?",
+            "options": [
+                "A. Three new red arrows",
+                "B. Four new red arrows",
+                "C. Five new red arrows",
+                "D. Six new red arrows"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_95": {
+            "id": "24i4ncHuf6A_95",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Are there obscured words on the map?",
+            "options": [
+                "A. Yes, there are obscured words on the map.",
+                "B. No, all the words on the map are clear.",
+                "C. There are no words on the map.",
+                "D. The words on the map are too blurry to distinguish."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_96": {
+            "id": "24i4ncHuf6A_96",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "Which direction does the new arrow of the OTTOMAN EMPIRE point to?",
+            "options": [
+                "A. North",
+                "B. South",
+                "C. West",
+                "D. East"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_97": {
+            "id": "24i4ncHuf6A_97",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "How does this map depict the names of various countries?",
+            "options": [
+                "A. The map uses bold black uppercase country names to represent country names.",
+                "B. The map uses minimalist abbreviations of country names to represent country names.",
+                "C. The map uses a grayscale palette for all countries and removes country labels.",
+                "D. The map emphasizes only one alliance to simplify depiction and does not show country names."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_98": {
+            "id": "24i4ncHuf6A_98",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "How do maps help understand the strategic offensives of various countries?",
+            "options": [
+                "A. Maps enhance understanding through red arrows, country color coding, and country names.",
+                "B. Maps only display military actions of neutral countries through white arrows.",
+                "C. Maps use green arrows and specifically emphasize the dominance of the Allied Powers.",
+                "D. Maps completely omit visual elements like arrows, focusing solely on textual descriptions of strategies."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_99": {
+            "id": "24i4ncHuf6A_99",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "Which countries in the video use red directional arrows for their strategic attacks?",
+            "options": [
+                "A. GERMANY, AUSTRO-HUNGARY, and RUSSIA",
+                "B. UNITED KINGDOM, FRANCE, and RUSSIA",
+                "C. ITALY, FRANCE, and SPAIN",
+                "D. UNITED STATES, JAPAN, and CHINA"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_100": {
+            "id": "24i4ncHuf6A_100",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "Where does the main scene of the video take place?",
+            "options": [
+                "A. On the battlefield depicting soldiers in combat",
+                "B. On the geopolitical map of Europe",
+                "C. Inside a military command center during World War I",
+                "D. In the narration studio of a historical documentary"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_101": {
+            "id": "24i4ncHuf6A_101",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What visual objects were added next to UNITED KINGDOM in the video?",
+            "options": [
+                "A. The British flag was added above 'UNITED KINGDOM'.",
+                "B. A portrait of the British Prime Minister was added next to 'UNITED KINGDOM'.",
+                "C. A red arrow pointing to France was added next to 'UNITED KINGDOM'.",
+                "D. The outline of the UK map was highlighted in gold."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_102": {
+            "id": "24i4ncHuf6A_102",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What are the newly added contents mentioned?",
+            "options": [
+                "A. Germany, Austro-Hungarian Empire, Spanish flag",
+                "B. United Kingdom, German flag",
+                "C. United Kingdom, France, Russian flag",
+                "D. United Kingdom, French flag"
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_103": {
+            "id": "24i4ncHuf6A_103",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What does the blue arrow represent in the diagram?",
+            "options": [
+                "A. The blue arrow represents strategic offensives against France, Russia, and other countries.",
+                "B. The blue arrow represents changes in alliances among the Central Powers.",
+                "C. The blue arrow represents trade routes established by the Central Powers.",
+                "D. The blue arrow represents the defensive positions of the Central Powers."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_104": {
+            "id": "24i4ncHuf6A_104",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "Which visual element enhances the recognition of UNITED KINGDOM?",
+            "options": [
+                "A. Union Jack flag.",
+                "B. Red arrow pointing to UNITED KINGDOM.",
+                "C. Star symbol above UNITED KINGDOM.",
+                "D. Blue circle surrounding UNITED KINGDOM."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_105": {
+            "id": "24i4ncHuf6A_105",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What visual elements can enhance the recognition of FRANCE?",
+            "options": [
+                "A. The tricolor flag of FRANCE",
+                "B. Map markers with the name FRANCE",
+                "C. Overlay text labeled 'FRANCE'",
+                "D. Blue border highlighted around FRANCE"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_106": {
+            "id": "24i4ncHuf6A_106",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "Where does the main scene of the video take place?",
+            "options": [
+                "A. The main scene takes place on a map.",
+                "B. The main scene takes place on an actual battlefield during World War I.",
+                "C. The main scene takes place at a diplomatic conference describing the signing of the Triple Entente.",
+                "D. The main scene takes place in a museum displaying World War I artifacts."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_107": {
+            "id": "24i4ncHuf6A_107",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "Does the video describe the appearance of humans?",
+            "options": [
+                "A. Yes, the appearance of humans is described in detail.",
+                "B. Yes, there is a brief mention of human appearance in the video.",
+                "C. No, the video does not describe the appearance of humans.",
+                "D. Yes, but only through abstract symbolic representation."
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_108": {
+            "id": "24i4ncHuf6A_108",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What does the overlay text 'TRIPLE ENTENTE (1907)' in the video look like?",
+            "options": [
+                "A. It is written in bold green capital letters with a strong contrasting black outline.",
+                "B. It is written in small blue cursive letters with no outline.",
+                "C. It is written in bold red letters with a white outline.",
+                "D. It is written in regular lowercase black letters with a gray background."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_109": {
+            "id": "24i4ncHuf6A_109",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many alliances are mentioned in the video description?",
+            "options": [
+                "A. One alliance",
+                "B. Two alliances",
+                "C. Three alliances",
+                "D. Four alliances"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_110": {
+            "id": "24i4ncHuf6A_110",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "Which alliances are mentioned in the video description?",
+            "options": [
+                "A. Central Powers (1914) and Allied Powers (1914)",
+                "B. TRIPLE ENTENTE (1907) and TRIPLE ALLIANCE (1882)",
+                "C. Axis Powers (1939) and Allied Powers (1939)",
+                "D. NATO (1949) and Warsaw Pact (1955)"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_111": {
+            "id": "24i4ncHuf6A_111",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Did the flags of the UNITED KINGDOM and FRANCE retain their positions in the video?",
+            "options": [
+                "A. Yes, the flags of the UNITED KINGDOM and FRANCE retained their positions on their respective territories.",
+                "B. No, the flags of the UNITED KINGDOM and FRANCE were moved to different positions on the map.",
+                "C. Yes, the flags of the UNITED KINGDOM and FRANCE were moved to a neutral country.",
+                "D. No, the flags of the UNITED KINGDOM and FRANCE were not displayed on the map."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_112": {
+            "id": "24i4ncHuf6A_112",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What is the effect of the text overlay 'TRIPLE ENTENTE (1907)'?",
+            "options": [
+                "A. The text overlay 'TRIPLE ENTENTE (1907)' emphasizes the military actions of the Triple Alliance.",
+                "B. The text overlay 'TRIPLE ENTENTE (1907)' shifts the historical focus and narrative emphasis.",
+                "C. The text overlay 'TRIPLE ENTENTE (1907)' details the stance of neutral countries.",
+                "D. The text overlay 'TRIPLE ENTENTE (1907)' enhances the clarity of flags on the territories of various countries."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_113": {
+            "id": "24i4ncHuf6A_113",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What are the visual elements highlighted on the map for strategic military actions?",
+            "options": [
+                "A. Flags of the UNITED KINGDOM and FRANCE",
+                "B. Arrows on the map",
+                "C. White markers for neutral countries",
+                "D. Overlay text 'TRIPLE ENTENTE (1907)'"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_114": {
+            "id": "24i4ncHuf6A_114",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What is the new feature introduced in the map?",
+            "options": [
+                "A. The new feature introduced is the large, centered overlay text 'TRIPLE ENTENTE (1907)'.",
+                "B. The new feature introduced is the blue border around neutral countries like Italy and Spain.",
+                "C. The new feature introduced is a red line connecting Germany and Austria-Hungary to indicate their strong alliance.",
+                "D. The new feature introduced is the animated depiction of military operations on the map."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_115": {
+            "id": "24i4ncHuf6A_115",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements help identify alliances on a map?",
+            "options": [
+                "A. Flags and structured color schemes help identify alliances on a map.",
+                "B. Directional red arrows and bold overlay text help identify alliances on a map.",
+                "C. Using white to represent neutral countries and text size helps identify alliances on a map.",
+                "D. Historical dates and soft tones help identify alliances on a map."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_116": {
+            "id": "24i4ncHuf6A_116",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What did the initial map of the 1907 'Triple Entente (TRIPLE ENTENTE)' show?",
+            "options": [
+                "A. The map displayed countries color-coded, strategic military arrows, and overlay text.",
+                "B. The map showed a simple grayscale world map with no additional elements or annotations.",
+                "C. The map only showed the borders of the Triple Entente countries without any additional historical context or details.",
+                "D. The map highlighted trade routes and economic dependencies between countries without mentioning military alliances."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_117": {
+            "id": "24i4ncHuf6A_117",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "How has the environment changed from the initial map to minimalist design?",
+            "options": [
+                "A. The complex map showcasing geopolitical details and color-coded countries has been transformed into a background with only text.",
+                "B. The detailed map has changed to a black background with white text, listing various historical events.",
+                "C. The complex map has been transformed into a colorful background, including images of different countries and their flags.",
+                "D. The intricate map has been changed to a gradient background with soft text, detailing various alliances."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_118": {
+            "id": "24i4ncHuf6A_118",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "In minimalist design, how is the text 'IMPERIALISM' positioned?",
+            "options": [
+                "A. The text 'IMPERIALISM' is positioned at the top.",
+                "B. The text 'IMPERIALISM' is positioned at the bottom.",
+                "C. The text 'IMPERIALISM' is positioned in the center.",
+                "D. The text 'IMPERIALISM' is positioned on the left."
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_119": {
+            "id": "24i4ncHuf6A_119",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "In minimalist design, in what style is the text 'IMPERIALISM' presented?",
+            "options": [
+                "A. The text 'IMPERIALISM' is presented in black bold sans-serif uppercase font.",
+                "B. The text 'IMPERIALISM' is presented in white bold serif font.",
+                "C. The text 'IMPERIALISM' is presented in black lowercase italic handwritten font.",
+                "D. The text 'IMPERIALISM' is presented in gray thin serif uppercase font."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_120": {
+            "id": "24i4ncHuf6A_120",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "In minimalist design, what is the visual effect of the text 'IMPERIALISM'?",
+            "options": [
+                "A. The text 'IMPERIALISM' is almost imperceptible.",
+                "B. The text 'IMPERIALISM' is smaller in size than other elements.",
+                "C. The text 'IMPERIALISM' dominates the entire image.",
+                "D. The text 'IMPERIALISM' is surrounded by detailed graphics."
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_121": {
+            "id": "24i4ncHuf6A_121",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "How many text elements are there in minimalist design?",
+            "options": [
+                "A. There is only one text element in minimalist design.",
+                "B. There are no text elements in minimalist design.",
+                "C. There are two text elements in minimalist design.",
+                "D. There are multiple text elements in minimalist design."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_122": {
+            "id": "24i4ncHuf6A_122",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What are the text elements in minimalist design?",
+            "options": [
+                "A. The text element in minimalist design is 'IMPERIALISM'.",
+                "B. The text element in minimalist design is 'ALLIANCES'.",
+                "C. The text element in minimalist design is 'NATIONS'.",
+                "D. The text element in minimalist design is 'HISTORY'."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_123": {
+            "id": "24i4ncHuf6A_123",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "Does minimalist design include any visual elements other than text and background?",
+            "options": [
+                "A. No, it only includes text and a light gray background.",
+                "B. Yes, it includes arrows and color-coded countries.",
+                "C. Yes, it includes a detailed map of the Allied Powers.",
+                "D. Yes, it includes various historical images."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_124": {
+            "id": "24i4ncHuf6A_124",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "What happens to the map during the transition to a minimalist scene?",
+            "options": [
+                "A. The map is partially visible during the transition.",
+                "B. The map disappears completely when transitioning to a minimalist design.",
+                "C. The map changes color to match the minimalist design.",
+                "D. The map transforms into a 3D model during the transition."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_125": {
+            "id": "24i4ncHuf6A_125",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "In minimalist design, which visual element most captures the audience's attention?",
+            "options": [
+                "A. A complex map with geopolitical details and strategic military arrows.",
+                "B. Bold black text 'IMPERIALISM' in a central position.",
+                "C. A colorful depiction of historical alliances.",
+                "D. Overlay text explaining 'TRIPLE ENTENTE (1907)'."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_126": {
+            "id": "24i4ncHuf6A_126",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "From the perspective of watching the video, what is the spatial layout of the key elements in the frame?",
+            "options": [
+                "A. The figure in beige colonial attire is on the left, and the solid brown outline of Africa is on the right.",
+                "B. The figure in beige colonial attire is on the right, and the solid brown outline of Africa is on the left.",
+                "C. Both the figure and the outline of Africa are centered in the frame.",
+                "D. The figure is at the top of the frame, while the outline of Africa is at the bottom."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_127": {
+            "id": "24i4ncHuf6A_127",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "What is the environment depicted in the scene?",
+            "options": [
+                "A. The scene transitions to a bright cyan background.",
+                "B. The background remains pure gray throughout the scene.",
+                "C. The scene depicts a dense jungle with towering trees.",
+                "D. The scene takes place at a busy colonial outpost."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_128": {
+            "id": "24i4ncHuf6A_128",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "What environment is depicted in the scene?",
+            "options": [
+                "A. The scene shows a figure dressed in colonial attire and the outline of Africa.",
+                "B. The scene shows modern city architecture, bright neon lights, and busy streets.",
+                "C. The scene shows a dense forest with various wild animals roaming within.",
+                "D. The scene shows a tranquil beach, clear blue water, and white sand."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_129": {
+            "id": "24i4ncHuf6A_129",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "What is the person on the left wearing?",
+            "options": [
+                "A. Wearing beige clothing, including a helmet, shirt and shorts, a belt, and brown boots.",
+                "B. Wearing modern military uniform, including a camouflage jacket, cargo pants, and combat boots.",
+                "C. Wearing casual clothes, including a T-shirt, jeans, and sneakers.",
+                "D. Wearing traditional African attire, including a brightly colored robe and headscarf."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_130": {
+            "id": "24i4ncHuf6A_130",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "What's the person holding in the painting on the left?",
+            "options": [
+                "A. The person in the painting is holding a long rifle with one hand.",
+                "B. The person in the painting is holding a map of Africa with one hand.",
+                "C. The person in the painting is holding a leather hat with both hands.",
+                "D. The person in the painting is holding a ceremonial sword horizontally."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_131": {
+            "id": "24i4ncHuf6A_131",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "What is the main object displayed on the right?",
+            "options": [
+                "A. The object is a solid brown outline of the African continent.",
+                "B. The object is a bright cyan graphic.",
+                "C. The object is a set of beige colonial clothing.",
+                "D. The object is a long rifle."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_132": {
+            "id": "24i4ncHuf6A_132",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "How is the object on the right side represented?",
+            "options": [
+                "A. It is represented as a solid contour in deep brown.",
+                "B. It is represented as a detailed map.",
+                "C. It is represented as a vibrant landscape.",
+                "D. It is represented as a series of icons and symbols."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_133": {
+            "id": "24i4ncHuf6A_133",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "How many central elements are there in the scene?",
+            "options": [
+                "A. There is only one central element.",
+                "B. There are two central elements.",
+                "C. There are three central elements.",
+                "D. There are four central elements."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_134": {
+            "id": "24i4ncHuf6A_134",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "What are the core elements in the scene?",
+            "options": [
+                "A. The figure dressed in clothing on the left and the map on the right.",
+                "B. The bright turquoise background with abstract patterns.",
+                "C. The two colonial-era figures on both sides of the image.",
+                "D. A map of Africa and a modern cityscape."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_135": {
+            "id": "24i4ncHuf6A_135",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "Does the frame background stay grey throughout the video?",
+            "options": [
+                "A. Yes, the grey background remains unchanged throughout the video.",
+                "B. No, the grey background is replaced by a bright blue-green background.",
+                "C. Yes, the background stays monochrome.",
+                "D. No, the grey background turns into a solid brown."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_136": {
+            "id": "24i4ncHuf6A_136",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "What action enhanced this person's military presence?",
+            "options": [
+                "A. The person standing upright while vertically holding a long rifle",
+                "B. The person's white colonial attire and hard-shell hat",
+                "C. The deep brown outline of Africa in the background",
+                "D. The cyan background emphasizing the composition"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_137": {
+            "id": "24i4ncHuf6A_137",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "On which side of the picture is the outline of Africa located?",
+            "options": [
+                "A. Left side of the picture",
+                "B. Right side of the picture",
+                "C. Center of the picture",
+                "D. Both sides of the picture"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_138": {
+            "id": "24i4ncHuf6A_138",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "What type of visual composition is used in the framework?",
+            "options": [
+                "A. The composition is busy and chaotic, with multiple elements scattered across the frame and no clear focal point.",
+                "B. The composition is minimalist and striking, focusing on the contrast between colonial figures and African silhouettes, with a teal background.",
+                "C. The composition is abstract and confusing, with bright shapes and colors failing to form a coherent image.",
+                "D. The composition is dark and melancholic, using soft tones and shadowy figures to create an ominous atmosphere."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_139": {
+            "id": "24i4ncHuf6A_139",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the background during the video?",
+            "options": [
+                "A. The background changed from solid gray to vibrant cyan.",
+                "B. The background changed from solid gray to bright red.",
+                "C. The entire video background remained solid gray.",
+                "D. The background changed from vibrant cyan to pink."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_140": {
+            "id": "24i4ncHuf6A_140",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What text prominently appears at the beginning of the screen?",
+            "options": [
+                "A. The word 'COLONIALISM' is presented in bold letters on a plain gray background.",
+                "B. The word 'IMPERIALISM' is presented in bold letters on a plain gray background.",
+                "C. The word 'EXPLOITATION' is presented in bold letters on a plain gray background.",
+                "D. The word 'DOMINATION' is presented in bold letters on a plain gray background."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_141": {
+            "id": "24i4ncHuf6A_141",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "Where is the character wearing colonial clothing located in the scene?",
+            "options": [
+                "A. The character wearing colonial clothing is located on the left side of the scene.",
+                "B. The character wearing colonial clothing is located on the right side of the scene.",
+                "C. The character wearing colonial clothing is located in the center of the scene.",
+                "D. There is no character wearing colonial clothing in the scene."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_142": {
+            "id": "24i4ncHuf6A_142",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "What is the main scene transition in the video?",
+            "options": [
+                "A. The scene transitions from a tranquil countryside to a bustling cityscape.",
+                "B. The scene transitions from a detailed depiction of colonial imagery to a minimalist display.",
+                "C. The scene transitions from a colorful celebration to a black-and-white landscape.",
+                "D. The scene transitions from a modern industrial environment to a serene forest."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_143": {
+            "id": "24i4ncHuf6A_143",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "How many characters are depicted in the initial detailed scene?",
+            "options": [
+                "A. No characters are depicted",
+                "B. One character is depicted",
+                "C. Two characters are depicted",
+                "D. Three characters are depicted"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_144": {
+            "id": "24i4ncHuf6A_144",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "Is there text in the video?",
+            "options": [
+                "A. No, there is no text in the video.",
+                "B. Yes, the video contains the word 'COLONIALISM'.",
+                "C. Yes, the video contains the word 'NATIONALISM'.",
+                "D. Yes, the video contains the words 'HISTORICAL IMPERIALISM'."
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_145": {
+            "id": "24i4ncHuf6A_145",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "What does the text in the video say?",
+            "options": [
+                "A. The text is displayed in bold black uppercase letters \"NATIONALISM\".",
+                "B. The text is displayed in bold black uppercase letters \"COLONIALISM\".",
+                "C. The text is displayed in bold black uppercase letters \"HISTORY\".",
+                "D. The text is displayed in bold black uppercase letters \"IMPERIALISM\"."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_146": {
+            "id": "24i4ncHuf6A_146",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "What changes occur in the scene's imagery when the theme changes?",
+            "options": [
+                "A. The scene's imagery shifts from colonial depictions to minimalist imagery with only text.",
+                "B. The imagery changes from depictions of African wildlife to modern urban landscapes.",
+                "C. The visual theme transitions from abstract patterns to detailed depictions of colonial figures.",
+                "D. The scene shifts from minimalist text to vivid descriptions of colonial history."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_147": {
+            "id": "24i4ncHuf6A_147",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "In the minimalism phase, what visual elements emphasize nationalism?",
+            "options": [
+                "A. Bold uppercase black letters 'NATIONALISM' on a light gray background.",
+                "B. Silhouette of the African continent on a bright cyan background.",
+                "C. Character in beige colonial attire holding a vertically upright rifle.",
+                "D. Tool belt symbolizing colonial authority."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_148": {
+            "id": "24i4ncHuf6A_148",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "What is the main background of the video?",
+            "options": [
+                "A. Simple text on a gray background",
+                "B. Cartoon map of Europe and its surrounding areas",
+                "C. Modern cityscape",
+                "D. Minimalist artwork"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_149": {
+            "id": "24i4ncHuf6A_149",
+            "scene": 12,
+            "dimension": "Count",
+            "question": "How many characters are on the right side of the scene?",
+            "options": [
+                "A. Two characters",
+                "B. Three characters",
+                "C. Four characters",
+                "D. Five characters"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_150": {
+            "id": "24i4ncHuf6A_150",
+            "scene": 12,
+            "dimension": "Binary",
+            "question": "Is there a person wearing a white military uniform and red pants on the left side?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Not sure",
+                "D. None of the above"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_151": {
+            "id": "24i4ncHuf6A_151",
+            "scene": 12,
+            "dimension": "Object Direction",
+            "question": "Which direction is the figure wearing a tall black top hat raising his right hand?",
+            "options": [
+                "A. Upward and slightly to the right",
+                "B. Directly to the left",
+                "C. Downward and slightly to the right",
+                "D. Directly upward at the center"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_152": {
+            "id": "24i4ncHuf6A_152",
+            "scene": 12,
+            "dimension": "Camera Shot",
+            "question": "Which type of lens can capture both clothing and geographical background simultaneously?",
+            "options": [
+                "A. Wide-angle lens captures the overall scene including people and map details.",
+                "B. Close-up lens focuses on individual clothing details.",
+                "C. Medium shot lens only shows the main characters.",
+                "D. Panorama lens only captures the geographical background."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_153": {
+            "id": "24i4ncHuf6A_153",
+            "scene": 12,
+            "dimension": "Attribute Change",
+            "question": "How does the video scene evolve during its progression?",
+            "options": [
+                "A. The scene starts with complex interactions between historical figures and then transitions to a plain background with text.",
+                "B. The video consistently depicts historical figures on a map.",
+                "C. The scene evolves from a minimalist style with a gray background and text to a detailed map with interactive historical figures.",
+                "D. The scene transitions from a vividly colorful cartoon-style map to a plain gray background with bold text 'Nationalism'."
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_154": {
+            "id": "24i4ncHuf6A_154",
+            "scene": 12,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements highlight the discussion of history and ideology?",
+            "options": [
+                "A. Contrasting costumes, gestures, and interactions between characters.",
+                "B. The simple light gray background and bold text highlight the discussion of history and ideology.",
+                "C. The muted tones of the map completely overshadow the importance of character interactions.",
+                "D. The absence of characters and geographical elements highlights the simplicity in the discussion of history."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_155": {
+            "id": "24i4ncHuf6A_155",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "What is the main scene environment described in the video?",
+            "options": [
+                "A. The scene is lively and has a celebratory atmosphere, similar to a city square or outdoor park.",
+                "B. The scene is quiet and has a historical feel, with complex design and calm tones.",
+                "C. The scene is set in a dark, mysterious forest, creating a strange and ominous atmosphere.",
+                "D. The scene depicts a tranquil countryside, with rolling hills and a peaceful, serene atmosphere."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_156": {
+            "id": "24i4ncHuf6A_156",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "How is the woman in the car described in terms of her demeanor?",
+            "options": [
+                "A. The woman appears somber and shy, with reserved behavior.",
+                "B. The woman raises her arms high, exuding joy and energy with exuberance.",
+                "C. The woman is motionless, displaying a calm and serene demeanor.",
+                "D. The woman appears indifferent, showing no emotional expression."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_157": {
+            "id": "24i4ncHuf6A_157",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "What are the detailed decorations of the outfit of the man wearing a blue uniform?",
+            "options": [
+                "A. The blue uniform has red embellishments, metal insignias, medals, and star symbols.",
+                "B. The blue uniform is simple, without additional detailed decorations.",
+                "C. The blue uniform has golden embroidery and a crown symbol.",
+                "D. The blue uniform has silver buttons and a red belt."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_158": {
+            "id": "24i4ncHuf6A_158",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "What matches the outfit of the man in the blue uniform?",
+            "options": [
+                "A. A red cape and a golden crown.",
+                "B. A green feather headdress and a black hat.",
+                "C. A silver helmet and a pair of white gloves.",
+                "D. A purple scarf and a yellow headscarf."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_159": {
+            "id": "24i4ncHuf6A_159",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "Is there a vivid, cloudless blue sky in the background of this scene?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Sky is cloudy",
+                "D. Sky is not shown"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_160": {
+            "id": "24i4ncHuf6A_160",
+            "scene": 13,
+            "dimension": "Fine Grained Action",
+            "question": "What actions did the newly introduced vivid characters take in this scene?",
+            "options": [
+                "A. Both characters raised their arms high in a celebratory gesture.",
+                "B. Both characters waved flags in the air.",
+                "C. Both characters danced together.",
+                "D. Both characters clapped together."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_161": {
+            "id": "24i4ncHuf6A_161",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "What is the repeated text displayed at the bottom of the screen?",
+            "options": [
+                "A. The repeated text is 'CLICK TO SEE PART 2'.",
+                "B. The repeated text is 'EXPLORE THE NEXT SCENE'.",
+                "C. The repeated text is 'WATCH THE FULL STORY'.",
+                "D. The repeated text is 'CONTINUE TO THE NEXT PART'."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_162": {
+            "id": "24i4ncHuf6A_162",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "What is the purpose of the text that repeatedly appears at the bottom of the frame?",
+            "options": [
+                "A. It provides subtle narrative elements related to the scene.",
+                "B. It invites audience participation and provides continuity to previous visual effects.",
+                "C. It provides additional historical context for the setting.",
+                "D. It describes the characters in detail."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_163": {
+            "id": "24i4ncHuf6A_163",
+            "scene": 14,
+            "dimension": "Spatial",
+            "question": "Where is the soldier's position in the gray void?",
+            "options": [
+                "A. Slightly off-center, near the upper left",
+                "B. Slightly off-center, near the lower right",
+                "C. Directly in the center",
+                "D. Near the upper right corner"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_164": {
+            "id": "24i4ncHuf6A_164",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "What changes are there in the current scene compared to the previous scene?",
+            "options": [
+                "A. Transition from vibrant characters and city backgrounds to a featureless gray void.",
+                "B. The animated scene transitions to a colorful, vibrant battlefield scene.",
+                "C. The animated scene fades into a bright white void, scattered with elements.",
+                "D. The animated scene is replaced by another animated sequence with the same theme."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_165": {
+            "id": "24i4ncHuf6A_165",
+            "scene": 14,
+            "dimension": "Description-Human",
+            "question": "What is the soldier wearing when he first appears?",
+            "options": [
+                "A. The soldier is wearing detailed military camouflage, a bulletproof vest, and a green helmet with a headlamp.",
+                "B. The soldier is wearing a blue uniform, a bulletproof vest, and a green helmet with a headlamp.",
+                "C. The soldier is wearing detailed military camouflage, a bulletproof vest, and a blue helmet with a headlamp.",
+                "D. The soldier is wearing detailed military camouflage, a blue vest, and a green helmet with night vision goggles."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_166": {
+            "id": "24i4ncHuf6A_166",
+            "scene": 14,
+            "dimension": "Description-Object",
+            "question": "What is depicted on the cover of the green book in the promotional image?",
+            "options": [
+                "A. The cover features illustrations of soldiers and airplanes, reflecting a war theme.",
+                "B. The cover shows a map of Europe during World War I.",
+                "C. The cover depicts an animated cartoon character in an urban setting.",
+                "D. The cover showcases modern tactical vests and equipment."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_167": {
+            "id": "24i4ncHuf6A_167",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "Does the promotional graphic contain text about World War I?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only partially mentioned",
+                "D. Not mentioned"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_168": {
+            "id": "24i4ncHuf6A_168",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "In the initial scene, what changes occur to the animated elements and the text 'CLICK TO SEE PART 2'?",
+            "options": [
+                "A. The animated elements and text remain unchanged throughout the scene.",
+                "B. The animated elements and text disappear, replaced by a gray blank space.",
+                "C. The animated elements turn into a book with soldiers and planes on the cover.",
+                "D. The animated elements and text are replaced by a busy city scene."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_169": {
+            "id": "24i4ncHuf6A_169",
+            "scene": 14,
+            "dimension": "Spatial",
+            "question": "In the promotional image, where is the green figure located relative to the soldier's position?",
+            "options": [
+                "A. The green figure is on the left side of the screen.",
+                "B. The green figure is on the right side of the screen.",
+                "C. The green figure is above the soldier at the center of the image.",
+                "D. The green figure is directly beneath the soldier's feet."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_170": {
+            "id": "24i4ncHuf6A_170",
+            "scene": 14,
+            "dimension": "Description-Scene",
+            "question": "What type of visual focus is used in the soldier scene?",
+            "options": [
+                "A. Minimalist focus is used, highlighting the soldier against a soft green and misty background.",
+                "B. Detailed urban focus is used, featuring vivid characters and engaging text.",
+                "C. Complex urban landscape focus is used, showcasing animated characters and a bustling city background.",
+                "D. Promotional focus is used, depicting soldiers and a biplane with colorful illustrations on a vibrant green book cover."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_171": {
+            "id": "24i4ncHuf6A_171",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "What changes have occurred in the environment between the gray blank space and the promotional image?",
+            "options": [
+                "A. The gray blank space has transformed into a more colorful and detailed promotional image, including illustrations and text.",
+                "B. The gray blank space has become darker and more ominous, with storm clouds and lightning appearing.",
+                "C. The gray blank space has transformed into a battlefield filled with combat and explosions.",
+                "D. The gray blank space has become a bright white space with no distinct features or characters."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_172": {
+            "id": "24i4ncHuf6A_172",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "What is the main text displayed on the promotional image?",
+            "options": [
+                "A. SIMPLE HISTORY: A Simple Guide to WORLD WAR II.",
+                "B. SIMPLE HISTORY: A Simple Guide to WORLD WAR I.",
+                "C. SIMPLE HISTORY: A Comprehensive Guide to WORLD WAR I.",
+                "D. A Simple Guide to Historical Wars."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_173": {
+            "id": "24i4ncHuf6A_173",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "What additional details are included in the promotional image?",
+            "options": [
+                "A. Details about the centennial edition and its availability on amazon.com.",
+                "B. A preview of the author's biography and the book's content.",
+                "C. Information about upcoming events related to the book and a feature on its illustrator.",
+                "D. A list of other books published by the same publisher and reader testimonials."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_174": {
+            "id": "24i4ncHuf6A_174",
+            "scene": 15,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene transition occur?",
+            "options": [
+                "A. The scene transitions from a highly detailed promotional graphic to complete darkness.",
+                "B. The scene transitions from a movie trailer to a bright daytime scene.",
+                "C. The scene transitions from a black screen to vivid, colorful animation.",
+                "D. The scene transitions from a crowded street to a quiet beach."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_175": {
+            "id": "24i4ncHuf6A_175",
+            "scene": 15,
+            "dimension": "Attribute Change",
+            "question": "What is the environment like after the scene transition?",
+            "options": [
+                "A. The environment continues to be a minimalist subtitle screen on a black background.",
+                "B. The environment is filled with detailed promotional images.",
+                "C. The environment turns into a bustling cityscape.",
+                "D. The environment shifts to a battlefield scene."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_176": {
+            "id": "24i4ncHuf6A_176",
+            "scene": 14,
+            "dimension": "Description-Human",
+            "question": "How is the soldier standing alone in the promotional image dressed?",
+            "options": [
+                "A. The soldier is wearing camouflage and holding a rifle.",
+                "B. The soldier is wearing a blue uniform and holding a rifle.",
+                "C. The soldier is wearing dark clothing and holding a firearm.",
+                "D. The soldier is dressed as a pilot and holding a booklet."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_177": {
+            "id": "24i4ncHuf6A_177",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "What text is included on the promotional book cover?",
+            "options": [
+                "A. 'SIMPLE HISTORY: A SIMPLE GUIDE TO WORLD WAR I', 'amazon.com' logo, and some historical details.",
+                "B. 'SIMPLE HISTORY: A GUIDE TO WWII', 'amazon.com' logo, and various military ranks.",
+                "C. 'HISTORY MADE SIMPLE: AN EXCLUSIVE GUIDE', a bookstore logo, and the author's name.",
+                "D. 'WORLD WAR I: A VISUAL GUIDE', a publisher's logo, and a QR code for more information."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_178": {
+            "id": "24i4ncHuf6A_178",
+            "scene": 15,
+            "dimension": "Count",
+            "question": "How many people are mentioned in the acknowledgment section?",
+            "options": [
+                "A. Four people are mentioned in the acknowledgment section.",
+                "B. Five people are mentioned in the acknowledgment section.",
+                "C. Six people are mentioned in the acknowledgment section.",
+                "D. Seven people are mentioned in the acknowledgment section."
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_179": {
+            "id": "24i4ncHuf6A_179",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "Which characters are mentioned in the subtitles?",
+            "options": [
+                "A. The mentioned characters are 'NARRATOR', 'ANIMATION', and 'ARTWORK'.",
+                "B. The mentioned characters are 'DIRECTOR', 'EDITOR', and 'PRODUCER'.",
+                "C. The mentioned characters are 'NARRATOR', 'EDITOR', and 'SCRIPTWRITER'.",
+                "D. The mentioned characters are 'ANIMATION', 'PRODUCER', and 'CINEMATOGRAPHY'."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_180": {
+            "id": "24i4ncHuf6A_180",
+            "scene": 15,
+            "dimension": "Count",
+            "question": "How many people play the role of 'NARRATOR'?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. None"
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_181": {
+            "id": "24i4ncHuf6A_181",
+            "scene": 15,
+            "dimension": "Count",
+            "question": "How many people participated in the 'ANIMATION' role?",
+            "options": [
+                "A. Two people",
+                "B. Three people",
+                "C. Four people",
+                "D. One person"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_182": {
+            "id": "24i4ncHuf6A_182",
+            "scene": 15,
+            "dimension": "Count",
+            "question": "How many people are associated with the 'ARTWORK' role?",
+            "options": [
+                "A. One person",
+                "B. Two people",
+                "C. Three people",
+                "D. Four people"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_183": {
+            "id": "24i4ncHuf6A_183",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "Is the text on the screen aligned neatly?",
+            "options": [
+                "A. Yes, the text on the screen is aligned neatly.",
+                "B. No, the text on the screen is arranged chaotically and unevenly.",
+                "C. The alignment of the text on the screen is inconsistent.",
+                "D. The text on the screen is completely invisible."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_184": {
+            "id": "24i4ncHuf6A_184",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "Is the text in the subtitles consistent in font style and spacing?",
+            "options": [
+                "A. Yes, the text in the subtitles is consistent in font style and spacing.",
+                "B. No, the text in the subtitles is inconsistent in font style.",
+                "C. No, the text in the subtitles is inconsistent in spacing.",
+                "D. No, the text in the subtitles is inconsistent in both font style and spacing."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_185": {
+            "id": "24i4ncHuf6A_185",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "What action appears when the characters and names under 'ARTWORK:' show up in the video?",
+            "options": [
+                "A. An upward scrolling action moves the 'ARTWORK:' title and names to a higher position on the screen.",
+                "B. The 'ARTWORK:' title and names intermittently flash on the screen.",
+                "C. A downward scrolling action moves the 'ARTWORK:' title and names to a lower position on the screen.",
+                "D. The 'ARTWORK:' title and names remain static throughout this video."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_186": {
+            "id": "24i4ncHuf6A_186",
+            "scene": 15,
+            "dimension": "Attribute Change",
+            "question": "In which direction do the subtitles move in the end credits section?",
+            "options": [
+                "A. The subtitles move upwards.",
+                "B. The subtitles move downwards.",
+                "C. The subtitles move to the left.",
+                "D. The subtitles remain stationary."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_187": {
+            "id": "24i4ncHuf6A_187",
+            "scene": 15,
+            "dimension": "Attribute Change",
+            "question": "Is there a change in the scrolling speed of the subtitles?",
+            "options": [
+                "A. Yes, the scrolling speed of the subtitles varies depending on different sections.",
+                "B. Yes, the subtitles pause for a moment and then continue scrolling.",
+                "C. No, the subtitles scroll smoothly upward without noticeable changes.",
+                "D. No, the subtitles remain stationary and do not scroll."
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_188": {
+            "id": "24i4ncHuf6A_188",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "What is the visual content at the end of the video?",
+            "options": [
+                "A. The visual content transitions to a simple subtitle screen and then completely turns dark.",
+                "B. The visual content turns into a colorful animation with multiple characters.",
+                "C. The screen switches to a bright promotional image with detailed graphics.",
+                "D. The screen displays a slideshow of historical images with subtitles."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_189": {
+            "id": "24i4ncHuf6A_189",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "What visual cues are used on the subtitle screen to indicate different characters?",
+            "options": [
+                "A. Different characters use different font sizes.",
+                "B. Each character's title uses different colors.",
+                "C. Use unique title tags.",
+                "D. Use icons and symbols next to each character."
+            ],
+            "answer": "C"
+        },
+        "24i4ncHuf6A_190": {
+            "id": "24i4ncHuf6A_190",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "What visual cues indicate the individual corresponding to each character in the subtitle screen?",
+            "options": [
+                "A. The individual's name will be displayed in a consistent and readable font style after the title tag.",
+                "B. A profession icon will be displayed next to each name.",
+                "C. Colors differentiate each character's text title from their name.",
+                "D. The individual's photo will appear next to their respective character."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_191": {
+            "id": "24i4ncHuf6A_191",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What visual element is introduced after the blank gray background at the start of the video?",
+            "options": [
+                "A. Eye-catching text displayed in bold typography.",
+                "B. A detailed map showing the alliances during World War I.",
+                "C. A historical photo of soldiers during World War I.",
+                "D. A timeline showing major events leading to World War I."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_192": {
+            "id": "24i4ncHuf6A_192",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What happened after the light gray background transitioned to a text-focused visual effect?",
+            "options": [
+                "A. The scene transitioned to a dynamic narrative environment, presenting a street view with character and architecture.",
+                "B. The scene transformed into a montage of historical images accompanied by stirring music.",
+                "C. The screen remained black with no new visual content or transition.",
+                "D. After the subtitles ended, a message thanking the audience for watching appeared."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_193": {
+            "id": "24i4ncHuf6A_193",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What content was broadcast after the promotional image of the book 'SIMPLE HISTORY: A Simple Guide to WORLD WAR I' in the video?",
+            "options": [
+                "A. The scene transitions to complete darkness, followed by clear subtitles showing the production team's credits.",
+                "B. The scene transitions to a vibrant World War I battle scene clip.",
+                "C. The scene switches to an animated sequence depicting soldiers marching.",
+                "D. The scene shows a detailed World War I battlefield map."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_194": {
+            "id": "24i4ncHuf6A_194",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What is the significance of the phrase 'WHAT CAUSED THE DEVASTATING FIRST WORLD WAR?' in the video?",
+            "options": [
+                "A. The phrase introduces historical events in a comedic way to entertain the audience.",
+                "B. The phrase sets the tone for a discussion about the causes and events of the First World War.",
+                "C. The phrase serves as a promotional slogan for a fictional war-themed story.",
+                "D. The phrase provides a one-sentence summary of the entire video content."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_195": {
+            "id": "24i4ncHuf6A_195",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the text element 'MILITARISM' emphasize?",
+            "options": [
+                "A. It views militarism as one of the main causes of World War I.",
+                "B. It emphasizes the importance of soldiers' uniforms during World War I.",
+                "C. It focuses on the technological advancements of weapons during World War I.",
+                "D. It emphasizes the alliances between countries during World War I."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_196": {
+            "id": "24i4ncHuf6A_196",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the text element 'ALLIANCES' highlight?",
+            "options": [
+                "A. Highlights that alliances were a factor in World War I.",
+                "B. Emphasizes the economic impact of alliances during World War II.",
+                "C. Lists the main political figures involved in forming alliances.",
+                "D. Explains alliances as part of modern military strategy."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_197": {
+            "id": "24i4ncHuf6A_197",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the text element 'IMPERIALISM' highlight?",
+            "options": [
+                "A. It is a decorative element on the book cover.",
+                "B. It highlights that imperialism was one of the contributing factors to World War I.",
+                "C. It indicates a chapter title in the book being promoted in the scene.",
+                "D. It serves as the name of the author of the book being promoted."
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_198": {
+            "id": "24i4ncHuf6A_198",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What role do detailed maps play in advancing the narrative?",
+            "options": [
+                "A. They visually demonstrate strategic movements during World War I.",
+                "B. They enhance the aesthetic appeal of the book cover as decorative elements.",
+                "C. They highlight geographical changes after World War II.",
+                "D. They showcase cultural customs and traditions through artistic symbolism."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_199": {
+            "id": "24i4ncHuf6A_199",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "Before the focus shifts to the bold text 'ALLIANCES,' which concept is depicted?",
+            "options": [
+                "A. The video describes the naval competition between Britain and Germany, showcasing battleships in a grid formation symbolizing arms expansion.",
+                "B. The video shows a scene of world leaders sitting around a table signing the 'Treaty of Versailles.'",
+                "C. The video highlights intense land battles in the trenches, with soldiers charging at each other.",
+                "D. The video showcases advanced weapons and technology from the World War I era."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_200": {
+            "id": "24i4ncHuf6A_200",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What scene was shown before introducing the concept of 'NATIONALISM'?",
+            "options": [
+                "A. There is a scene showing a colonial figure alongside an African brown silhouette.",
+                "B. The screen displayed images of soldiers marching on the battlefield.",
+                "C. A scene showed a propaganda poster with bold text promoting unity.",
+                "D. There is an image showing flags of various countries flying side by side."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_201": {
+            "id": "24i4ncHuf6A_201",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What visual representation emerged after exploring the theme of 'TRIPLE ENTENTE (1907)' on the geopolitical map?",
+            "options": [
+                "A. The screen transitions to bold minimalist text 'IMPERIALISM' on a plain gray background.",
+                "B. The screen transitions to an animation depicting soldiers in trenches during World War I.",
+                "C. A timeline of significant battles of World War I is sequentially displayed, accompanied by animated markers.",
+                "D. The screen shows a detailed map displaying the colonies of European powers."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_202": {
+            "id": "24i4ncHuf6A_202",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the video use terms like 'MILITARISM,' 'ALLIANCES,' and 'IMPERIALISM' in a minimalist style?",
+            "options": [
+                "A. To subtly emphasize the complexity of World War I events",
+                "B. To highlight the key causes of World War I in a direct and impactful way",
+                "C. To showcase the cultural impact of World War I on modern warfare",
+                "D. To provide an artistic representation of war elements without overwhelming the audience"
+            ],
+            "answer": "B"
+        },
+        "24i4ncHuf6A_203": {
+            "id": "24i4ncHuf6A_203",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why did it shift from an animated map to a textual description like 'ALLIANCES'?",
+            "options": [
+                "A. This shift emphasizes the thematic transition from military actions to the themes behind the actions.",
+                "B. The shift was made to introduce new animated characters and scenes into the storyline.",
+                "C. The shift aims to provide a visual break and add dynamic effects to the video.",
+                "D. The shift was made to correct errors in the animation and improve the overall quality of the video."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_204": {
+            "id": "24i4ncHuf6A_204",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What is the purpose of adding new red arrows on the geopolitical map when depicting strategic actions?",
+            "options": [
+                "A. The red arrows are intended to visually depict the dynamic changes and complexities of military offensives.",
+                "B. The red arrows are used to distinguish the leaders of various countries during peace negotiations.",
+                "C. The red arrows highlight the economic impact of war on international trade routes.",
+                "D. The red arrows symbolize countries that remained neutral during World War I."
+            ],
+            "answer": "A"
+        },
+        "24i4ncHuf6A_205": {
+            "id": "24i4ncHuf6A_205",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What is the purpose of adding flags to the geopolitical map when displaying strategic moves?",
+            "options": [
+                "A. The purpose of the flags is to depict alliances.",
+                "B. Flags are used to highlight tourist attractions of participating countries.",
+                "C. Flags serve as markers indicating upcoming events in various regions.",
+                "D. Flags indicate the locations of major historical battles from different eras."
+            ],
+            "answer": "A"
+        }
+    }
+}

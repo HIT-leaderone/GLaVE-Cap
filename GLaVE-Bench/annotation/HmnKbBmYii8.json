@@ -1,0 +1,1573 @@
+{
+    "scene_hint": {
+        "0": "一只北极熊趴在雪地上，后面跟着北极熊幼崽。",
+        "1": "一只大型生物在水中游动。",
+        "2": "画面在一个幼崽依偎在北极熊身后和另一只幼崽独自玩耍间来回转动。",
+        "3": "一大一小两只生物在水中游动。",
+        "4": "小海豹将头露出雪面出现在北极熊幼崽面前。",
+        "5": "特写镜头详细描绘小海豹面部特征。",
+        "6": "幕布中出现文字，场景转为纯黑背景视频结束。"
+    },
+    "qa": {
+        "HmnKbBmYii8_0": {
+            "id": "HmnKbBmYii8_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "从视频来看，成年北极熊相对于幼崽的位置在哪里？",
+            "options": [
+                "A. 成年北极熊在中间，幼崽在成年北极熊的左侧。",
+                "B. 成年北极熊在左边，幼崽在中间。",
+                "C. 成年北极熊在中间，幼崽在成年北极熊的右侧。",
+                "D. 成年北极熊在中偏右的位置，两只幼崽在它的前方。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_1": {
+            "id": "HmnKbBmYii8_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频的环境是什么？",
+            "options": [
+                "A. 一个郁郁葱葱的森林，拥有高大的树木和丰富的野生动植物。",
+                "B. 一个广袤的冰雪覆盖的北极平原，连绵起伏的雪丘覆盖。",
+                "C. 一个沙漠，拥有起伏的沙丘和头顶上炽热的阳光。",
+                "D. 一座繁华的都市，拥有高耸的摩天大楼和繁忙的街道。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_2": {
+            "id": "HmnKbBmYii8_2",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "随着时间变化成年北极熊变成了什么姿势？",
+            "options": [
+                "A. 成年北极熊用后腿站立，环顾四周。",
+                "B. 成年北极熊前爪收在胸前趴卧在雪地上。",
+                "C. 成年北极熊平躺在地上，四只爪子朝上。",
+                "D. 成年北极熊头朝前行走，并嗅着地面。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_3": {
+            "id": "HmnKbBmYii8_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "视频中出现哪些文本图形？",
+            "options": [
+                "A. 出现‘BBC one’文本图形。",
+                "B. 出现‘CNN’文本图形。",
+                "C. 出现‘National Geographic’文本图形。",
+                "D. 出现‘Discovery Channel’文本图形。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_4": {
+            "id": "HmnKbBmYii8_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "视频中文字图形'BBC one'位于哪里？",
+            "options": [
+                "A. 'BBC one'覆盖在中间的北极熊上。",
+                "B. 'BBC one'位于图片的左上角。",
+                "C. 'BBC one'位于图片的右下角。",
+                "D. 'BBC one'覆盖在背景中的雪山上。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_5": {
+            "id": "HmnKbBmYii8_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "在视频中描述了多少只北极熊幼崽？",
+            "options": [
+                "A. 一只北极熊幼崽",
+                "B. 两只北极熊幼崽",
+                "C. 三只北极熊幼崽",
+                "D. 没有"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_6": {
+            "id": "HmnKbBmYii8_6",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "北极熊的毛色和雪是一样的吗？",
+            "options": [
+                "A. 是的，北极熊的毛色与雪地环境和谐地融为一体。",
+                "B. 不，北极熊的毛色比雪更深。",
+                "C. 它们的毛是亮黄色的，与雪形成对比。",
+                "D. 北极熊的毛是透明的，完全不匹配雪。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_7": {
+            "id": "HmnKbBmYii8_7",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "在大北极熊趴下后，两只幼崽在干什么？",
+            "options": [
+                "A. 两只幼崽也趴在了雪地上。",
+                "B. 两只幼崽继续向前走动。",
+                "C. 两只幼崽站在原地。",
+                "D. 两只幼崽朝北极熊反方向走远。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_8": {
+            "id": "HmnKbBmYii8_8",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "从视频来看，成年北极熊的头部偏向哪个方向？",
+            "options": [
+                "A. 成年北极熊的头部偏向左侧。",
+                "B. 成年北极熊的头部正对前方。",
+                "C. 成年北极熊的头部偏向右侧。",
+                "D. 成年北极熊的头部正对上方。"
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_9": {
+            "id": "HmnKbBmYii8_9",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "视频中摄影镜头是怎样的？",
+            "options": [
+                "A. 摄影镜头是稳定的，视角位于地面水平。",
+                "B. 摄影镜头是俯视视角，从空中向下拍摄北极熊。",
+                "C. 摄影镜头是特写，聚焦于成年北极熊的面部。",
+                "D. 摄影镜头快速横移，拍摄冰雪广阔景象。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_10": {
+            "id": "HmnKbBmYii8_10",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "北极熊幼崽都是怎样移动的？",
+            "options": [
+                "A. 北极熊幼崽正在快速地奔跑穿越雪地。",
+                "B. 北极熊幼崽似乎带着好奇在缓慢移动。",
+                "C. 北极熊幼崽完全静止不动，显示没有任何移动。",
+                "D. 北极熊幼崽正在小心翼翼地向后移动，远离成年北极熊。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_11": {
+            "id": "HmnKbBmYii8_11",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "这一场景即将结束时，两只北极熊幼崽位置是怎样的？",
+            "options": [
+                "A. 两只幼崽并排站立",
+                "B. 两只幼崽一前一后站立",
+                "C. 两只幼崽都不在画面中",
+                "D. 画面中只有一只幼崽，在左侧。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_12": {
+            "id": "HmnKbBmYii8_12",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "哪个视觉元素强化了捕捉瞬间的来源？",
+            "options": [
+                "A. 突出放置在图像上的文字图形 'BBC one'。",
+                "B. 北极熊及其幼崽投下的阴影。",
+                "C. 与天空融为一体的冰冷景观。",
+                "D. 北极熊及其幼崽的姿态。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_13": {
+            "id": "HmnKbBmYii8_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "水下环境中的光源来自哪里？",
+            "options": [
+                "A. 光源来自上方。",
+                "B. 光源来自下方。",
+                "C. 光源来自侧面。",
+                "D. 光源来自海洋生物的后面。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_14": {
+            "id": "HmnKbBmYii8_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频中展现的两个对比鲜明的环境是什么？",
+            "options": [
+                "A. 一个陆地的北极环境和一个深蓝色的水下环境。",
+                "B. 一个茂密的热带雨林和一个充满鱼群的阳光明媚的珊瑚礁。",
+                "C. 一个繁忙的城市景观和一个广阔的具有滚动沙丘的沙漠。",
+                "D. 一座雪山山脉和浩瀚无际的深蓝色大洋。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_15": {
+            "id": "HmnKbBmYii8_15",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "在水下环境中，什么取代了两只北极熊？",
+            "options": [
+                "A. 一个大型的、阴影般的海洋生物",
+                "B. 一群色彩斑斓的鱼和一个珊瑚礁",
+                "C. 一群海豚和一艘沉船",
+                "D. 一只巨型乌贼和一个宝箱"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_16": {
+            "id": "HmnKbBmYii8_16",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "在水下场景中，大型海洋生物是如何被描述的？",
+            "options": [
+                "A. 大型海洋生物被描绘为一个在画面中心的详细且色彩鲜艳的形象。",
+                "B. 大型海洋生物被描绘为一个带有微弱纹理的阴影轮廓，占据画面下半部分。",
+                "C. 大型海洋生物被描绘为一个在右上角附近的小而模糊的形状。",
+                "D. 大型海洋生物被描绘为一个背景中带有夸张特征的卡通形象。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_17": {
+            "id": "HmnKbBmYii8_17",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "在水下环境中主要关注多少种海洋生物？",
+            "options": [
+                "A. 一种海洋生物",
+                "B. 两种海洋生物",
+                "C. 三种海洋生物",
+                "D. 四种海洋生物"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_18": {
+            "id": "HmnKbBmYii8_18",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在水下场景中是否有渐变背景？",
+            "options": [
+                "A. 是的，背景有一个渐变。",
+                "B. 不，背景是均匀的深蓝色。",
+                "C. 不，背景模糊，不能确定。",
+                "D. 不，背景是完全黑色的，没有任何渐变。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_19": {
+            "id": "HmnKbBmYii8_19",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "从什么角度拍摄了水下场景？",
+            "options": [
+                "A. 水下场景是从向下的角度拍摄的，位置在海洋生物的上方。",
+                "B. 水下场景是从侧面的角度拍摄的，位置与海洋生物处于同一水平面。",
+                "C. 水下场景是从正面的角度拍摄的，位置直接在海洋生物的前方。",
+                "D. 水下场景是从稍微向上的角度拍摄的，位置在海洋生物的下方。"
+            ],
+            "answer": "D"
+        },
+        "HmnKbBmYii8_20": {
+            "id": "HmnKbBmYii8_20",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "在水下环境中，摄像机角度如何增强氛围？",
+            "options": [
+                "A. 摄像机角度略微向上，增强了神秘氛围。",
+                "B. 摄像机角度与海洋生物平齐，创造了主导感。",
+                "C. 摄像机角度向下，突出了水的深度。",
+                "D. 摄像机角度正上方，突出了海洋生物的细节。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_21": {
+            "id": "HmnKbBmYii8_21",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "相机角度如何影响观众在水下环境中的体验？",
+            "options": [
+                "A. 它保持观众对水下沉浸感和对海洋生物的关注。",
+                "B. 它造成迷惑和困惑的感觉。",
+                "C. 它突出水面的效果，而不是海洋生物。",
+                "D. 它削弱了画面的深度感和运动感。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_22": {
+            "id": "HmnKbBmYii8_22",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "当前环境从哪个场景切换？",
+            "options": [
+                "A. 环境从被白雪覆盖的辽阔平原和北极熊变换。",
+                "B. 环境从有骆驼的沙漠景观变换。",
+                "C. 环境从有鹿的茂密森林变换。",
+                "D. 环境从有摩天大楼的繁华城市景观变换。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_23": {
+            "id": "HmnKbBmYii8_23",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "当场景转移到水下环境时，视觉设置会发生什么变化？",
+            "options": [
+                "A. 设置变为深蓝色的水下环境，有海洋生物的身影和渐变背景。",
+                "B. 设置过渡到一个丛林场景，有茂密的植被、阳光透过树叶，以及鸟鸣声。",
+                "C. 场景转变为暴风雪，有北极熊、白色闪光和背景中的呼啸风声。",
+                "D. 水下环境变为明亮的珊瑚礁，有色彩斑斓的鱼和生机勃勃的植物。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_24": {
+            "id": "HmnKbBmYii8_24",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在水下场景中，哪些元素会产生深度感？",
+            "options": [
+                "A. 分布在水中的小颗粒和渐变的背景产生了深度感。",
+                "B. 来自上方的光线和海洋生物的黑色轮廓产生了深度感。",
+                "C. 被雪覆盖的广阔地带和北极熊产生了深度感。",
+                "D. 横穿场景的紧凑、类似鲸鱼的海洋生物产生了深度感。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_25": {
+            "id": "HmnKbBmYii8_25",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "从视频来看，成年北极熊旁的小熊相对于成年北极熊的位置在哪里？",
+            "options": [
+                "A. 小熊依偎在成年熊左侧。",
+                "B. 小熊坐在成年熊的前面。",
+                "C. 小熊栖息在成年熊的上面。",
+                "D. 小熊站在成年熊的最右侧。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_26": {
+            "id": "HmnKbBmYii8_26",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "北极熊所在的环境是什么样的？",
+            "options": [
+                "A. 北极熊生活在热带森林中，那里树木茂密，阳光明媚，环境充满活力。",
+                "B. 北极熊生活在沙漠地带，那里是无尽的沙丘和强烈的高温，环境严酷而干燥。",
+                "C. 北极熊生活在北极地区，那里是无尽的冰原和微弱的日光，环境宁静而安详。",
+                "D. 北极熊生活在山区，那里的地形崎岖、岩石众多，还有强劲的风，环境充满挑战且崎岖不平。"
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_27": {
+            "id": "HmnKbBmYii8_27",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "场景中北极熊幼崽在成年北极熊身边的行为是什么？",
+            "options": [
+                "A. 幼崽依偎在成年北极熊的毛皮中以获得温暖和安全感。",
+                "B. 幼崽围着成年北极熊活泼地玩耍，表现出兴奋和好奇的迹象。",
+                "C. 幼崽站在离成年北极熊一定距离的地方，小心翼翼地观察周围环境。",
+                "D. 幼崽爬到成年北极熊的背上，试图嬉闹地将它唤醒。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_28": {
+            "id": "HmnKbBmYii8_28",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "北极熊毛发颜色的重要性是什么？",
+            "options": [
+                "A. 它们奶白色的毛发提供了伪装，并表明其对北极环境的适应能力。",
+                "B. 它们奶白色的毛发纯粹是为了美观，并吸引注意力。",
+                "C. 它们奶白色的毛发是一种只在冬季发生的季节变化。",
+                "D. 它们奶白色的毛发表明它们的年龄和成熟程度。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_29": {
+            "id": "HmnKbBmYii8_29",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "场景中有多少只北极熊依偎在一起？",
+            "options": [
+                "A. 一只北极熊。",
+                "B. 两只北极熊。",
+                "C. 三只北极熊。",
+                "D. 四只北极熊。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_30": {
+            "id": "HmnKbBmYii8_30",
+            "scene": 2,
+            "dimension": "Speed",
+            "question": "场景中有没有快或突发动作的迹象？",
+            "options": [
+                "A. 是的，场景中有几处快和突发动作的迹象。",
+                "B. 没有，场景显示出平静，没有任何快或突发动作的迹象。",
+                "C. 场景在平静和突发动作之间交替。",
+                "D. 北极熊在冰面上展示出玩耍和快速的动作。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_31": {
+            "id": "HmnKbBmYii8_31",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "北极熊幼崽采取什么行动来靠近成年熊？",
+            "options": [
+                "A. 幼崽开始靠着，后躺下紧挨成年北极熊。",
+                "B. 幼崽站立在后腿上以更好地观察周围环境。",
+                "C. 幼崽在成年熊周围嬉戏跑动。",
+                "D. 幼崽游过一个冰池来靠近成年熊。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_32": {
+            "id": "HmnKbBmYii8_32",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "在这一幕中，成年北极熊动作是否发生改变？",
+            "options": [
+                "A. 不，成年北极熊动作未发生改变。",
+                "B. 是的，成年北极熊向侧面滚动。",
+                "C. 是的，成年北极熊用抓子将身体撑起。",
+                "D. 是的，成年北极熊起身向前走动。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_33": {
+            "id": "HmnKbBmYii8_33",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "在这个场景中拍摄出了大北极熊的哪一面？",
+            "options": [
+                "A. 拍摄了北极熊的侧面。",
+                "B. 拍摄了北极熊的正面。",
+                "C. 拍摄了北极熊的背部。",
+                "D. 拍摄了北极熊的胸口。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_34": {
+            "id": "HmnKbBmYii8_34",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "侧面角度的拍摄强调了什么？",
+            "options": [
+                "A. 它强调了熊毛的细节和宁静的北极氛围。",
+                "B. 它强调了北极熊的速度和敏捷性。",
+                "C. 它关注北极的景观和其他动物的活动。",
+                "D. 它强调了冰与熊之间的色彩对比。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_35": {
+            "id": "HmnKbBmYii8_35",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "什么视觉线索有助于强调场景中的连续叙述？",
+            "options": [
+                "A. 幼崽的嬉戏动作和与成年熊的动态互动。",
+                "B. 连续的摄影角度和无缝冰原的宽广背景。",
+                "C. 极光在冰面上的明亮倒影。",
+                "D. 整个场景中天气和光线的突然变化。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_36": {
+            "id": "HmnKbBmYii8_36",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频的背景设置是什么？",
+            "options": [
+                "A. 视频的背景设置在北极。",
+                "B. 视频的背景设置在茂密的森林中。",
+                "C. 视频的背景设置在热带海滩。",
+                "D. 视频的背景设置在沙漠中。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_37": {
+            "id": "HmnKbBmYii8_37",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "独自在视频中的北极熊幼崽是如何与环境互动的？",
+            "options": [
+                "A. 北极熊幼崽在雪地上奔跑，追逐另一只动物。",
+                "B. 北极熊幼崽直立坐着或者躺着，用前爪夹着一个小白色物体。",
+                "C. 北极熊幼崽趴在冰冷的地面上，平静地打盹。",
+                "D. 北极熊幼崽挖雪，凿出一个小地洞。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_38": {
+            "id": "HmnKbBmYii8_38",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "镜头视角首次转移后可以看到多少只北极熊？",
+            "options": [
+                "A. 可以看到两只北极熊，一只成年的和一只幼崽。",
+                "B. 只能看到一只北极熊，即幼崽。",
+                "C. 看不到北极熊。",
+                "D. 可以看到三只北极熊。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_39": {
+            "id": "HmnKbBmYii8_39",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "幼崽对白色物体做了什么？",
+            "options": [
+                "A. 幼崽正在咀嚼白色物体。",
+                "B. 幼崽用嘴咬住前爪之间的白色物体。",
+                "C. 幼崽扔掉白色物体。",
+                "D. 幼崽把白色物体留在地上。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_40": {
+            "id": "HmnKbBmYii8_40",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "首次视角转换，观察到成年北极熊的位置有什么变化？",
+            "options": [
+                "A. 转换后，场景中不再能看到成年北极熊。",
+                "B. 转换后，成年北极熊移动到更靠近幼崽的位置。",
+                "C. 转换后，可以看到成年北极熊站着远距离观察幼崽。",
+                "D. 转换后，可以看到成年北极熊正在远离幼崽朝地平线方向走去。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_41": {
+            "id": "HmnKbBmYii8_41",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "小熊幼崽的皮毛外观是怎样的？",
+            "options": [
+                "A. 小熊的奶白色皮毛看起来是米白色的。",
+                "B. 小熊的皮毛在整个场景中保持洁白无瑕。",
+                "C. 小熊的皮毛因融化的冰变成灰色。",
+                "D. 小熊的皮毛看起来完全又脏又褐色。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_42": {
+            "id": "HmnKbBmYii8_42",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "视频中独自在一旁的北极熊幼崽的位置是怎样的？",
+            "options": [
+                "A. 幼崽几乎占满了整个画面。",
+                "B. 幼崽在画面中央位置。",
+                "C. 幼崽在画面最右侧。",
+                "D. 幼崽在画面最左侧。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_43": {
+            "id": "HmnKbBmYii8_43",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "北极熊幼崽独自所在场景的环境是什么？",
+            "options": [
+                "A. 场景是一个宁静的北极景观，背景是一片雪地和雪丘。",
+                "B. 场景是一个繁忙的森林，绿叶茂密。",
+                "C. 场景是一个热带海滩，阳光明媚，海浪拍打。",
+                "D. 场景是一个干燥的沙漠，有高耸的沙丘和零星的仙人掌。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_44": {
+            "id": "HmnKbBmYii8_44",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "北极熊幼崽独自所在场景的背景是什么？",
+            "options": [
+                "A. 茂密的森林，长满高大的树木和绿色的植被。",
+                "B. 有海浪拍打海岸的沙滩。",
+                "C. 场景是一片被积雪覆盖的地形，主要由白色和淡蓝色组成。",
+                "D. 多岩石的山脉，有陡峭的悬崖和稀少的植被。"
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_45": {
+            "id": "HmnKbBmYii8_45",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "独自在视频中的北极熊幼崽有表现出攻击性迹象吗？",
+            "options": [
+                "A. 是的，北极熊幼崽对彼此表现出攻击性。",
+                "B. 不，北极熊幼崽没有表现出任何攻击性迹象。",
+                "C. 是的，北极熊幼崽对它们的父母表现出攻击性。",
+                "D. 不，北极熊幼崽完全无视彼此。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_46": {
+            "id": "HmnKbBmYii8_46",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "独在一旁的北极熊幼崽做了什么微妙的动作？",
+            "options": [
+                "A. 主要的北极熊幼崽改变姿势，以便躺得更舒适。",
+                "B. 主要的北极熊幼崽站在后腿上，以便更好地观察周围环境。",
+                "C. 主要的北极熊幼崽完全翻滚过来，玩雪。",
+                "D. 主要的北极熊幼崽 energetically 跑来跑去，追赶另一个幼崽。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_47": {
+            "id": "HmnKbBmYii8_47",
+            "scene": 2,
+            "dimension": "Speed",
+            "question": "在整段视频中，独自玩耍的小熊的动作速度是如何变化的？",
+            "options": [
+                "A. 小熊一开始动作迅速且兴奋，一段时间后速度加快，最后冲刺。",
+                "B. 小熊一开始动作活跃且兴奋，一段时间后逐渐变慢，最后坐了起来。",
+                "C. 小熊在整个视频中动作始终保持不动。",
+                "D. 小熊一开始动作缓慢，逐渐变快，最后跳起来充满活力。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_48": {
+            "id": "HmnKbBmYii8_48",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "视频最后的转场中，较大的水生生物与较小的海豹之间的空间关系是什么？",
+            "options": [
+                "A. 较大的水生生物正向光源游上方，占据了画面的主要位置，而较小的海豹与环境融为一体。",
+                "B. 较大的水生生物正在向下游，跟随着较小的海豹，突出了它们之间的嬉戏互动。",
+                "C. 较大的水生生物悬停在较小的海豹旁边，表现出陪伴与和谐。",
+                "D. 较大的水生生物完全位于较小的海豹下方，使较小的海豹呈现出一种等级感和主导地位。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_49": {
+            "id": "HmnKbBmYii8_49",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "视频的主要场景发生在哪里？",
+            "options": [
+                "A. 在茂密的森林里",
+                "B. 在雪山顶峰",
+                "C. 在水下环境",
+                "D. 在沙漠绿洲"
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_50": {
+            "id": "HmnKbBmYii8_50",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "场景中是否有任何人类元素？",
+            "options": [
+                "A. 是的，水下环境中包含人类元素。",
+                "B. 不，水下环境中没有人类元素。",
+                "C. 是的，场景中可以看到人造物体。",
+                "D. 不，但有潜水员在场。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_51": {
+            "id": "HmnKbBmYii8_51",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "场景中是否有任何人类互动？",
+            "options": [
+                "A. 有，一名潜水员正在探索水下世界。",
+                "B. 没有，水下环境强调的是探索与原始自然。",
+                "C. 有，一艘研究潜艇出现在场景中。",
+                "D. 有，游客们正在与海豹一同游泳。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_52": {
+            "id": "HmnKbBmYii8_52",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "在水下场景中主要观察到什么生物？",
+            "options": [
+                "A. 一只北极熊幼崽和一条鱼",
+                "B. 两只轮廓与鱼相近的生物，可能是海豹",
+                "C. 一群色彩斑斓的鱼和一只海豚",
+                "D. 一只北极熊幼崽和一只水母"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_53": {
+            "id": "HmnKbBmYii8_53",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "视频描述中有多少种明显特色的水生生物?",
+            "options": [
+                "A. 一种明显特色的水生生物",
+                "B. 两种明显特色的水生生物",
+                "C. 三种明显特色的水生生物",
+                "D. 四种明显特色的水生生物"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_54": {
+            "id": "HmnKbBmYii8_54",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "视频描述中是否提到了多个北极熊幼崽？",
+            "options": [
+                "A. 是的，视频描述中提到了多个北极熊幼崽。",
+                "B. 不，视频描述中提到了单个北极熊幼崽。",
+                "C. 视频描述中没有提到任何北极熊幼崽。",
+                "D. 视频描述中未具体说明北极熊幼崽的数量。"
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_55": {
+            "id": "HmnKbBmYii8_55",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "水中的大生物是如何移动的？",
+            "options": [
+                "A. 生物向上方光源移动。",
+                "B. 生物保持静止。",
+                "C. 生物在各个方向不规则地移动。",
+                "D. 生物进行一系列快速旋转和翻转。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_56": {
+            "id": "HmnKbBmYii8_56",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "从视频来看，小生物出现时朝哪个方向移动？",
+            "options": [
+                "A. 向画面左下方移动。",
+                "B. 向画面左下方移动。",
+                "C. 向画面右上方移动。",
+                "D. 向画面左上方移动。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_57": {
+            "id": "HmnKbBmYii8_57",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "视频中生物的动作是如何描绘的？",
+            "options": [
+                "A. 生物的动作在水中被描绘得优雅、流线型且流畅。",
+                "B. 生物的动作被描绘得不稳定且笨拙，挣扎着对抗水流。",
+                "C. 生物的动作被描绘为静止，没有明显的运动。",
+                "D. 生物的动作被描绘得具有攻击性且快速，正在追逐猎物。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_58": {
+            "id": "HmnKbBmYii8_58",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "在大生物向上方光源位置移动时，光的动态发生了什么变化？",
+            "options": [
+                "A. 光线变得更亮，照亮了整个场景。",
+                "B. 光线动态发生变化，投下了明显的阴影。",
+                "C. 光线动态保持不变。",
+                "D. 光线变暗，影响了可见度。"
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_59": {
+            "id": "HmnKbBmYii8_59",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素有助于描绘水下场景的环境？",
+            "options": [
+                "A. 从上方过滤下来的柔和光束，有助于描绘水下场景环境。",
+                "B. 从下方射来的强烈光束，增强了水下场景环境。",
+                "C. 散布在水中的明亮霓虹灯，突出了水下场景环境。",
+                "D. 鲜艳的珊瑚礁的存在，展示了水下场景环境。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_60": {
+            "id": "HmnKbBmYii8_60",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素传达了水下场景的事件？",
+            "options": [
+                "A. 微弱的斑点可能代表鱼儿或漂浮物，帮助传达水下场景的事件。",
+                "B. 鲜红的珊瑚礁显著地为画面构图。",
+                "C. 水下场景通过成群的五彩斑斓的小丑鱼传达出来。",
+                "D. 水下场景主要依赖气泡在水面上形成的光影图案。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_61": {
+            "id": "HmnKbBmYii8_61",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "黑暗、部分埋藏的物体与北极熊幼崽之间是什么关系？",
+            "options": [
+                "A. 黑暗的部分埋藏物体逐渐露出，北极熊正在察看下面的地面。",
+                "B. 黑暗的部分埋藏物体是一种食物来源，年轻的北极熊试图把它挖出来。",
+                "C. 黑暗的部分埋藏物体是年轻北极熊的玩具。",
+                "D. 黑暗的部分埋藏物体是猎人设置的陷阱，北极熊对其保持警惕。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_62": {
+            "id": "HmnKbBmYii8_62",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频中描述的主要场景是什么？",
+            "options": [
+                "A. 阴暗封闭的水下世界深处",
+                "B. 开阔明亮的北极荒原",
+                "C. 一个积雪覆盖的山脉",
+                "D. 茂密的北极森林"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_63": {
+            "id": "HmnKbBmYii8_63",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "视频中北极熊幼崽的姿势是如何变化的？",
+            "options": [
+                "A. 北极熊幼崽从趴在地上变为在雪地里打滚。",
+                "B. 北极熊幼崽从弯腰检查地面变为直立坐向地面后仰姿势。",
+                "C. 北极熊幼崽从静止站立变为在雪地上追逐海豹。",
+                "D. 北极熊幼崽从与海豹幼崽玩耍变为在雪地上休息。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_64": {
+            "id": "HmnKbBmYii8_64",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "雪中那个黑暗的、部分埋藏的物体是什么？",
+            "options": [
+                "A. 是一只海豹的头。",
+                "B. 是海洋流入的垃圾。",
+                "C. 是一只黑牛的鼻子。",
+                "D. 是一个黑色背包。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_65": {
+            "id": "HmnKbBmYii8_65",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "从北极熊幼崽来看，那个黑暗的、部分埋藏的物体位于哪里？",
+            "options": [
+                "A. 该物体在北极熊右面。",
+                "B. 该物体在北极熊左面。",
+                "C. 该物体在北极熊正前方。",
+                "D. 该物体在北极熊下方海水中。"
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_66": {
+            "id": "HmnKbBmYii8_66",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "这一场景中提到了多少只海豹？",
+            "options": [
+                "A. 一只海豹",
+                "B. 两只海豹",
+                "C. 三只海豹",
+                "D. 四只海豹"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_67": {
+            "id": "HmnKbBmYii8_67",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "视频中提到的海豹行为是什么？",
+            "options": [
+                "A. 一只幼海豹将头微微露出水面，观察对面北极熊幼崽。",
+                "B. 两只海豹在雪地上一起玩耍翻滚，进行追逐的游戏。",
+                "C. 深色海豹跳入水中，而幼海豹在雪地里挖掘。",
+                "D. 一只幼海豹直立站立，爪子举起，而深色海豹在远处观看。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_68": {
+            "id": "HmnKbBmYii8_68",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "在北极熊与海豹的互动过程中，环境是否保持平静？",
+            "options": [
+                "A. 是的，环境保持平静。",
+                "B. 不，环境变得混乱。",
+                "C. 环境在平静和混乱之间变化。",
+                "D. 环境变得恶劣且暴风骤雨。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_69": {
+            "id": "HmnKbBmYii8_69",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "在北极熊与海豹的互动中，环境是否始终保持一致？",
+            "options": [
+                "A. 是的，环境始终一致，明亮的雪地和柔和的蓝天成为互动的背景。",
+                "B. 不是，环境在互动过程中从雪覆盖的旷野变为密林。",
+                "C. 是的，但在互动过程中，环境变得暴风雪肆虐，降雪量很大。",
+                "D. 不是，环境从被雪覆盖的平原转变为多石的海岸线。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_70": {
+            "id": "HmnKbBmYii8_70",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "这一场景摄像机使用了什么样的位置来增强场景的亲密感？",
+            "options": [
+                "A. 航拍相机位置增强了场景的亲密感。",
+                "B. 中间高度相机位置增强了场景的亲密感。",
+                "C. 地面相机位置增强了场景的亲密感。",
+                "D. 水下相机位置增强了场景的亲密感。"
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_71": {
+            "id": "HmnKbBmYii8_71",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "低角度的镜头视角如何影响海豹与北极熊相遇叙事的表现？",
+            "options": [
+                "A. 它强化了这场充满玩趣的相遇的低调叙事。",
+                "B. 它突出了北极熊对海豹的主导地位。",
+                "C. 它削弱了观众与动物之间的情感联系。",
+                "D. 它模糊了北极环境的细节。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_72": {
+            "id": "HmnKbBmYii8_72",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "小海豹是如何移动的？",
+            "options": [
+                "A. 小海豹通过在雪地上打滚动态地移动。",
+                "B. 小海豹头浮出水面，一直未移动。",
+                "C. 小海豹慢慢地在雪地上爬行。",
+                "D. 小海豹静止不动，观看北极熊幼崽。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_73": {
+            "id": "HmnKbBmYii8_73",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "海豹有什么动作？",
+            "options": [
+                "A. 海豹保持静止并警惕地观察。",
+                "B. 海豹重新潜入水中。",
+                "C. 海豹加入幼海豹在雪地上玩耍打滚。",
+                "D. 海豹移动到雪地上的一个新洞口。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_74": {
+            "id": "HmnKbBmYii8_74",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "在特写镜头中，海豹与冰面之间的空间关系是什么？",
+            "options": [
+                "A. 海豹的身体完全暴露在冰面上。",
+                "B. 海豹的头从冰面上露出来。",
+                "C. 海豹完全栖息在冰面下。",
+                "D. 海豹平躺在冰面上。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_75": {
+            "id": "HmnKbBmYii8_75",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景中特写镜头中海豹所在的环境是什么？",
+            "options": [
+                "A. 场景是一片热闹的海洋栖息地，背景中有海浪和海洋生物。",
+                "B. 场景是一片纯白色的冰面或雪地，除此之外没有任何元素。",
+                "C. 场景是一片充满生机的热带海滩，有棕榈树和温暖的阳光。",
+                "D. 场景是一片茂密的雪林，有高大的树木和纷飞的大雪。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_76": {
+            "id": "HmnKbBmYii8_76",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "海豹的眼睛在特写镜头中看起来如何？",
+            "options": [
+                "A. 海豹有光泽、富有表现力的眼睛，好奇地向上凝视。",
+                "B. 海豹有黯淡、无生气的眼睛，直直地盯着前方。",
+                "C. 海豹有明亮、发光的眼睛，反射出冰面的光泽。",
+                "D. 海豹有半闭的眼睛，带着无兴趣地向下看。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_77": {
+            "id": "HmnKbBmYii8_77",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "在特写镜头中海豹的皮毛看起来如何？",
+            "options": [
+                "A. 海豹有深色皮毛，反射出微妙的光线。",
+                "B. 海豹有浅色皮毛，与冰冷的背景融为一体。",
+                "C. 海豹有斑点皮毛，带有白色的斑块。",
+                "D. 海豹有哑光的皮毛，在冰面上显得格外突出。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_78": {
+            "id": "HmnKbBmYii8_78",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "海豹的胡须在特写镜头中是什么样子的？",
+            "options": [
+                "A. 海豹的胡须几乎看不见。",
+                "B. 海豹的胡须非常清晰。",
+                "C. 海豹的胡须与毛皮融为一体。",
+                "D. 海豹没有胡须。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_79": {
+            "id": "HmnKbBmYii8_79",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "海豹的鼻口在特写镜头中看起来如何？",
+            "options": [
+                "A. 海豹的鼻口光滑且湿润。",
+                "B. 海豹的鼻口看起来干燥且粗糙。",
+                "C. 海豹的鼻口覆盖着雪。",
+                "D. 海豹的鼻口粗糙并且有裂痕。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_80": {
+            "id": "HmnKbBmYii8_80",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "海豹的轮廓在特写镜头中看起来如何？",
+            "options": [
+                "A. 海豹的轮廓圆润突出，在白色环境中显得格格不入。",
+                "B. 海豹的轮廓锋利而参差不齐，突出了严酷的环境。",
+                "C. 海豹的轮廓在特写镜头中看起来完全平坦且毫无特征。",
+                "D. 海豹的轮廓明亮照耀，营造出一种严酷而戏剧化的效果。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_81": {
+            "id": "HmnKbBmYii8_81",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "场景中冰面有哪些纹理？",
+            "options": [
+                "A. 冰面有不同的纹理，包括锋利的边缘和较光滑的部分。",
+                "B. 冰面完全光滑且没有特征。",
+                "C. 冰面有粗糙的纹理，带有许多锯齿状的裂缝。",
+                "D. 冰面均匀平坦，带有闪闪发光的晶体。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_82": {
+            "id": "HmnKbBmYii8_82",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "特写镜头中是否包括小海豹？",
+            "options": [
+                "A. 是的，特写镜头中小海豹被明显地拍摄到了。",
+                "B. 不，特写镜头中小海豹被移除掉了。",
+                "C. 是的，可以在特写镜头的背景中看到小海豹。",
+                "D. 不，特写镜头只专注于两只海豹在一起的画面。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_83": {
+            "id": "HmnKbBmYii8_83",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "在特写镜头中，海豹在做什么？",
+            "options": [
+                "A. 海豹略微向上凝视，显得好奇或安静地观察。",
+                "B. 海豹正在潜入冰冷的水中。",
+                "C. 海豹正在和一只小海豹玩耍。",
+                "D. 海豹正在冰上睡觉。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_84": {
+            "id": "HmnKbBmYii8_84",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "使用哪种类型的摄像镜头可以详细拍摄海豹？",
+            "options": [
+                "A. 空中镜头，将景观中海豹完整呈现出来。",
+                "B. 全景镜头，捕捉雪地场景中的海豹。",
+                "C. 特写镜头，聚焦于海豹的头部。",
+                "D. 广角镜头，包括周围的环境。"
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_85": {
+            "id": "HmnKbBmYii8_85",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "当镜头拉近到海豹时，视觉焦点会发生什么变化？",
+            "options": [
+                "A. 焦点从更广阔的雪景转移到海豹的肖像，增强了海豹面部和周围冰雪纹理的细节。",
+                "B. 相机以同等细节捕捉海豹及其周围环境，保持对更广阔的北极环境的关注。",
+                "C. 拉近效果导致对海豹的关注减少，反而强调了冰面及其纹理。",
+                "D. 特写强调了小海豹，同时模糊了背景中的深色海豹。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_86": {
+            "id": "HmnKbBmYii8_86",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素将颜色海豹作为场景的焦点进行了强调？",
+            "options": [
+                "A. 海豹深色皮肤和纯白色调之间的强烈对比，将海豹突出为焦点。",
+                "B. 场景中多只海豹的出现、鲜艳的色彩，以及繁忙的背景，将海豹突出为焦点。",
+                "C. 明亮的照明、色彩斑斓的周围环境以及其他动物的出现，使海豹成为焦点。",
+                "D. 冰面上精致的纹理、文字和标志的存在，及幼海豹的加入，将海豹强调为焦点。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_87": {
+            "id": "HmnKbBmYii8_87",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "深红色幕布背景营造出什么样的氛围？",
+            "options": [
+                "A. 深红色幕布背景营造出一种优雅、戏剧性的氛围。",
+                "B. 深红色幕布背景营造出一种随意、放松的氛围。",
+                "C. 深红色幕布背景营造出一种混乱、忙碌的氛围。",
+                "D. 深红色幕布背景营造出一种忧郁、阴沉的氛围。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_88": {
+            "id": "HmnKbBmYii8_88",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "这一场景中有真人角色吗？",
+            "options": [
+                "A. 是的，视频表现了真人角色。",
+                "B. 不，视频场景中没有真人角色。",
+                "C. 视频中仅显示了人类的轮廓。",
+                "D. 视频开头短暂出现了真人角色。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_89": {
+            "id": "HmnKbBmYii8_89",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "最后一帧中“BBC”文字的设计是什么？",
+            "options": [
+                "A. “BBC”出现在白色方框内，字母没有颜色。",
+                "B. “BBC”以黑色大写字母出现在白色方框内。",
+                "C. “BBC”以白色小写字母出现在黑色方框内。",
+                "D. “BBC”以黑色小写字母出现在白色方框内。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_90": {
+            "id": "HmnKbBmYii8_90",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "最后一帧中“one”文本的设计是什么？",
+            "options": [
+                "A. 'one' 以小写白色字母出现。",
+                "B. 'one' 以大写白色字母出现。",
+                "C. 'one' 以小写黑色字母出现。",
+                "D. 'one' 以大写黑色字母出现。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_91": {
+            "id": "HmnKbBmYii8_91",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "视频中描述了什么用样的独特的场景？",
+            "options": [
+                "A. 一个带有深红色幕布背景的场景。",
+                "B. 一个带有蓝色海洋背景的场景。",
+                "C. 一个带有绿色森林背景的场景。",
+                "D. 一个带有紫色日落背景的场景。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_92": {
+            "id": "HmnKbBmYii8_92",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "视频的最后一帧中是否存在“V”符号？",
+            "options": [
+                "A. 是，“V”符号存在。",
+                "B. 否，“V”符号不存在。",
+                "C. “V”符号部分可见。",
+                "D. “V”符号已被替换成其他标记。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_93": {
+            "id": "HmnKbBmYii8_93",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "螺旋设计周围的装饰图案随时间发生了什么变化？",
+            "options": [
+                "A. 装饰图案被移除，突出了“BBC one”的文字。",
+                "B. 装饰图案变得更为精致和多彩。",
+                "C. 装饰图案变为金色并放大。",
+                "D. 装饰图案保持不变，没有任何变化。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_94": {
+            "id": "HmnKbBmYii8_94",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "为了确保“BBC one”文字在背景下的清晰度，使用了哪种摄影镜头？",
+            "options": [
+                "A. 使用广角镜头以确保“BBC one”文字在背景下的清晰度和可读性。",
+                "B. 使用特写镜头以确保“BBC one”文字在背景下的清晰度和可读性。",
+                "C. 使用直视角度以确保“BBC one”文字在背景下的清晰度和可读性。",
+                "D. 使用俯视镜头以确保“BBC one”文字在背景下的清晰度和可读性。"
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_95": {
+            "id": "HmnKbBmYii8_95",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "“BBC one”文字在初始画面中是如何呈现的？",
+            "options": [
+                "A. 在初始画面中，“BBC one”文字与发光装饰融为一体。",
+                "B. 在初始画面中，“BBC one”文字被蓝色光晕环绕。",
+                "C. 在初始画面中，“BBC one”文字以明亮的绿色字体出现。",
+                "D. 在初始画面中，“BBC one”文字没有任何装饰显示。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_96": {
+            "id": "HmnKbBmYii8_96",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "最终画面中‘BBC one’文本是如何显示的？",
+            "options": [
+                "A. ‘BBC’位于黑色方块内，‘one’显示为白色大写字母，且装饰图案仍然存在。",
+                "B. ‘BBC’位于白色方块内，‘one’显示为白色小写字母，且装饰图案已被移除。",
+                "C. ‘BBC’位于白色方块内，‘one’显示为黑色小写字母，且装饰图案已被移除。",
+                "D. ‘BBC’未包含在任何方块内，‘one’显示为白色小写字母，且装饰图案仍然存在。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_97": {
+            "id": "HmnKbBmYii8_97",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "血红色的幕布与“BBC One”文字之间有什么关系？",
+            "options": [
+                "A. 血红色的幕布是背景，显著地将“BBC One”文字置于中心位置。",
+                "B. “BBC One”文字写在幕布的一个角落，与幕布的纹理融为一体。",
+                "C. 血红色的幕布作为一个隔板，将“BBC One”文字与周围的灯光区隔开。",
+                "D. “BBC One”文字投影在幕布上，在其表面移动。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_98": {
+            "id": "HmnKbBmYii8_98",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "这一场景的整体环境是什么？",
+            "options": [
+                "A. 场景呈现出一面带有丰富质感的深红色幕布，以及显眼的'BBC one'文字，营造出一种优雅而精致的氛围。",
+                "B. 场景是一条熙熙攘攘的城市街道，有明亮的霓虹灯和繁忙的交通，营造出一种混乱而充满活力的氛围。",
+                "C. 场景是一片宁静的海滩，有轻柔的海浪和晴朗的蓝天，营造出一种平静而悠闲的氛围。",
+                "D. 场景是一片幽暗的森林，伴随着诡异的声音和阴影，营造出一种神秘而紧张的氛围。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_99": {
+            "id": "HmnKbBmYii8_99",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "是什么类型的灯光照亮了深红色的幕布？",
+            "options": [
+                "A. 强烈的远光灯",
+                "B. 柔和的聚光灯",
+                "C. 荧光灯条",
+                "D. 频闪灯"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_100": {
+            "id": "HmnKbBmYii8_100",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "灯光对深红色幕布的外观有什么影响？",
+            "options": [
+                "A. 灯光使幕布纹理更加显眼。",
+                "B. 灯光使幕布显得暗淡。",
+                "C. 灯光使幕布看起来透明。",
+                "D. 灯光使幕布呈现金属光泽。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_101": {
+            "id": "HmnKbBmYii8_101",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "视频中的显著视觉转换是什么？",
+            "options": [
+                "A. 转换是从鲜艳的红色幕布场景到完全黑屏。",
+                "B. 转换是从完全黑屏到鲜艳的红色幕布场景。",
+                "C. 转换是从鲜艳的红色幕布场景到蓝色纹理背景。",
+                "D. 转换是从蓝色纹理背景到鲜艳的红色幕布场景。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_102": {
+            "id": "HmnKbBmYii8_102",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "黑屏是否保留了上一场景的任何图形元素？",
+            "options": [
+                "A. 是的，黑屏保留了“BBC one”的品牌标识。",
+                "B. 不，黑屏没有任何元素。",
+                "C. 是的，黑屏保留了环境光。",
+                "D. 是的，幕布在黑屏上仍然可见。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_103": {
+            "id": "HmnKbBmYii8_103",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "视频中，哪种视觉变化营造了结束感？",
+            "options": [
+                "A. 转换为充满活力的色彩和明亮的灯光",
+                "B. 在生动的画面后过渡到全黑屏幕",
+                "C. 帷幕被额外的灯光照亮",
+                "D. 帷幕上增加更多装饰元素"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_104": {
+            "id": "HmnKbBmYii8_104",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "视频在转为黑屏之前突出显示的文字是什么？",
+            "options": [
+                "A. 'BBC one' 文字",
+                "B. 'BBC news' 文字",
+                "C. 'CNN live' 文字",
+                "D. 'NBC today' 文字"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_105": {
+            "id": "HmnKbBmYii8_105",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "‘BBC one’文本后面的背景是什么？",
+            "options": [
+                "A. 红色的幕布",
+                "B. 蓝色的幕布",
+                "C. 绿色的森林",
+                "D. 白色的墙"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_106": {
+            "id": "HmnKbBmYii8_106",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "成年北极熊在冰冷的旷野上站立之后采取了什么行动？",
+            "options": [
+                "A. 成年北极熊在雪地上呈水平姿态趴卧在雪地上。",
+                "B. 成年北极熊开始挖雪，寻找食物。",
+                "C. 成年北极熊用后腿直立站起，观察地平线。",
+                "D. 成年北极熊开始快速穿越冰冷的旷野，寻找庇护所。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_107": {
+            "id": "HmnKbBmYii8_107",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在初始北极景观和北极熊之后，转变到一个什么样的环境中？",
+            "options": [
+                "A. 场景转变到一个深蓝色的水下环境。",
+                "B. 场景转变到一个繁华的城市景观，拥有高耸的摩天大楼。",
+                "C. 场景转变到一个郁郁葱葱的绿色森林。",
+                "D. 场景转变到一个明亮的黄色沙漠环境。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_108": {
+            "id": "HmnKbBmYii8_108",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "北极熊幼崽依偎到成年熊身上后会发生什么？",
+            "options": [
+                "A. 镜头转变一只北极熊幼崽独自出现在画面中。",
+                "B. 成年北极熊和幼崽一起在星空下入睡。",
+                "C. 成年北极熊开始在雪地里跟幼崽玩耍。",
+                "D. 幼崽跑向远处加入其他北极熊的行列。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_109": {
+            "id": "HmnKbBmYii8_109",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "成年北极熊与幼崽之间的互动突出了什么？",
+            "options": [
+                "A. 它突出了在广袤而寒冷的北极荒野中，它们之间的亲情纽带和温暖。",
+                "B. 它突出了在严酷的北极环境中，它们之间的对立关系。",
+                "C. 它突出了生存的挣扎和资源的竞争。",
+                "D. 它突出了它们在北极荒野中完全独立于彼此。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_110": {
+            "id": "HmnKbBmYii8_110",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "黑色海豹的出现如何为北极场景增色？",
+            "options": [
+                "A. 黑色海豹的出现增添了它与北极熊幼崽之间相互观察和好奇的元素。",
+                "B. 黑色海豹的出现标志着极夜的开始，增加了北极整体孤独的氛围。",
+                "C. 黑色海豹的出现突显了北极食物的稀缺，强调了在恶劣环境中生存的斗争。",
+                "D. 黑色海豹的出现通过与北极熊幼崽的嬉戏互动提供了喜剧性的轻松感。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_111": {
+            "id": "HmnKbBmYii8_111",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频中北极环境的顺序是什么？",
+            "options": [
+                "A. 顺序以宁静的北极景观开始，然后在水下世界之后重新回到北极场景。",
+                "B. 顺序以水下世界开始，其次是宁静的北极景观，然后返回到水下世界。",
+                "C. 顺序以城市环境开始，过渡到宁静的北极景观，最后结束于水下世界。",
+                "D. 顺序以宁静的北极景观开始，过渡到繁忙的城市景观，然后重新回到北极场景。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_112": {
+            "id": "HmnKbBmYii8_112",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频中的水下环境序列是什么？",
+            "options": [
+                "A. 在展现北极景观后，序列切换到充满海洋生物的水下世界。",
+                "B. 序列以沙漠景观开始，随后是繁华的城市。",
+                "C. 序列在山地景观后切换到拥有野生动物的森林。",
+                "D. 序列以热带雨林开始，然后转到海滩场景。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_113": {
+            "id": "HmnKbBmYii8_113",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "北极熊幼崽在大北极熊旁的行为随时间如何变化？",
+            "options": [
+                "A. 幼崽开始依偎在成年北极熊身边，最后以放松的状态躺在雪地上。",
+                "B. 幼崽远离成年北极熊，与较小的幼崽玩耍，然后探索区域的边界。",
+                "C. 幼崽静静地待在成年北极熊旁边，照看较小的幼崽，最后躺下休息。",
+                "D. 幼崽移动到中心，玩弄一个物体，然后退到远离群体的阴凉处。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_114": {
+            "id": "HmnKbBmYii8_114",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在深红色幕布序列中最初引入的是什么？",
+            "options": [
+                "A. 带有节日图案的发光螺旋设计。",
+                "B. 有羊群在吃草的宁静田园景象。",
+                "C. 充满活力的霓虹灯城市景观。",
+                "D. 有海浪拍打的宁静海滩。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_115": {
+            "id": "HmnKbBmYii8_115",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "节日图案的发光螺旋设计后，深红幕布场景过渡到什么？",
+            "options": [
+                "A. 场景过渡到完全黑屏。",
+                "B. 场景过渡到包含“BBC one”标志。",
+                "C. 场景过渡到展示戏剧性风景的画面。",
+                "D. 场景过渡到带有彩色图案的动画画面。"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_116": {
+            "id": "HmnKbBmYii8_116",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "幕布的红色序列在最后是如何变化的？",
+            "options": [
+                "A. 序列切换到一个纯黑的屏幕。",
+                "B. 序列过渡到一个纯白的屏幕。",
+                "C. 序列继续，幕布被明亮的灯光照亮。",
+                "D. 序列以幕布被新的背景取代而结束。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_117": {
+            "id": "HmnKbBmYii8_117",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么成年北极熊在躺下后会表现出静止状态？",
+            "options": [
+                "A. 北极熊在休息，同时保持对环境的注意以确保安全或获取环境线索。",
+                "B. 北极熊正在准备冬眠，通过保持静止来节省能量。",
+                "C. 北极熊正在等待它的幼崽从狩猎中返回。",
+                "D. 北极熊试图融入雪地以避免捕食者的发现。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_118": {
+            "id": "HmnKbBmYii8_118",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么视觉元素在放大特写中聚焦于海豹？",
+            "options": [
+                "A. 放大特写聚焦于海豹，以突出其独特特征和细节。",
+                "B. 放大特写旨在突出奢华的背景和深红色幕布的丰富质感。",
+                "C. 放大特写用于显著展示屏幕上显示的“BBC one”文字。",
+                "D. 放大特写旨在随着生动的画面营造一种结束或停顿的感觉。"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_119": {
+            "id": "HmnKbBmYii8_119",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么视频在结尾时会转换到黑屏？",
+            "options": [
+                "A. 转换到黑屏是一个技术错误，并非故意。",
+                "B. 黑屏引出即将揭晓的新场景。",
+                "C. 转换到黑屏暗示视频即将结束。",
+                "D. 黑屏用于突出即将发布的公告。"
+            ],
+            "answer": "C"
+        }
+    }
+}

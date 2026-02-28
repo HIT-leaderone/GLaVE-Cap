@@ -1,0 +1,1207 @@
+{
+    "scene_hint": {
+        "0": "A man is giving an introduction, with overlaid text on the screen providing information about him.",
+        "1": "Alex faces the camera and begins exercising with a resistance band.",
+        "2": "Alex turns his back to the camera and continues exercising.",
+        "3": "The perspective switches to a frontal view, continuing to showcase Alex's movements with the resistance band.",
+        "4": "Alex pauses his workout to give an introduction, after which the scene suddenly transitions to a plain-colored background with text, gradually leading to the conclusion."
+    },
+    "qa": {
+        "21q-lDikdBg_0": {
+            "id": "21q-lDikdBg_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "In the gym environment, where is the position of the large window relative to Alex?",
+            "options": [
+                "A. The large window is to the right of Alex.",
+                "B. The large window is in front of Alex.",
+                "C. The large window is to the left of Alex.",
+                "D. The large window is behind Alex."
+            ],
+            "answer": "D"
+        },
+        "21q-lDikdBg_1": {
+            "id": "21q-lDikdBg_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "From the perspective of the camera lens, where is the position of the mirror relative to Alex?",
+            "options": [
+                "A. The mirror is to the left of Alex.",
+                "B. The mirror is in front of Alex.",
+                "C. The mirror is to the right of Alex.",
+                "D. The mirror is behind Alex."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_2": {
+            "id": "21q-lDikdBg_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "How is the aesthetic of the gym?",
+            "options": [
+                "A. The gym has a modern and professional aesthetic.",
+                "B. The gym looks dim and poorly maintained.",
+                "C. The gym has a vintage and rustic aesthetic.",
+                "D. The gym presents an industrial and unfinished appearance."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_3": {
+            "id": "21q-lDikdBg_3",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "How are the fitness equipment arranged in the gym?",
+            "options": [
+                "A. The fitness equipment is placed randomly and scattered.",
+                "B. The fitness equipment is arranged neatly.",
+                "C. The fitness equipment is stacked together.",
+                "D. The fitness equipment is placed randomly without any order."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_4": {
+            "id": "21q-lDikdBg_4",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "How does natural light enter the gym?",
+            "options": [
+                "A. Large windows allow natural light to enter the gym.",
+                "B. Skylights in the ceiling let natural light in.",
+                "C. Opening the door allows natural light to enter.",
+                "D. Light is reflected by the gym mirrors to create natural lighting."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_5": {
+            "id": "21q-lDikdBg_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is the purpose of mirrors in the gym?",
+            "options": [
+                "A. Mirrors create the illusion of a larger space.",
+                "B. Mirrors reflect other elements of the space.",
+                "C. Mirrors distract people from the main focus, Alex.",
+                "D. Mirrors absorb the natural light from windows."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_6": {
+            "id": "21q-lDikdBg_6",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What type of lighting does the gym have?",
+            "options": [
+                "A. The lighting is dim, with only artificial lights.",
+                "B. The lighting is glaring, creating noticeable shadows.",
+                "C. The lighting combines natural light with soft artificial lights, creating a cozy atmosphere.",
+                "D. The lighting uses only natural light, with no artificial lights."
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_7": {
+            "id": "21q-lDikdBg_7",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is Alex Angeli wearing?",
+            "options": [
+                "A. Alex Angeli is wearing a blue Polo shirt.",
+                "B. Alex Angeli is wearing a red fitness T-shirt.",
+                "C. Alex Angeli is wearing a white lab coat.",
+                "D. Alex Angeli is wearing a black fitness jacket."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_8": {
+            "id": "21q-lDikdBg_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What words are displayed on Alex Angeli's clothing?",
+            "options": [
+                "A. The words on his clothing are 'CARDIAC REHAB STAFF'.",
+                "B. The words on his clothing are 'FITNESS TRAINER'.",
+                "C. The words on his clothing are 'HEALTH & WELLNESS STAFF'.",
+                "D. The words on his clothing are 'PERSONAL TRAINER'."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_9": {
+            "id": "21q-lDikdBg_9",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What exercise equipment can be seen in the background of the gym?",
+            "options": [
+                "A. A row of treadmills and stationary bikes, as well as some other equipment",
+                "B. A row of treadmills and stationary bikes, with no other equipment",
+                "C. Weight machines and dumbbells, as well as some other equipment",
+                "D. Yoga mats and medicine balls, as well as some other equipment"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_10": {
+            "id": "21q-lDikdBg_10",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "Which window position can be seen in the gym background?",
+            "options": [
+                "A. The large window on the left",
+                "B. The small round window on the ceiling",
+                "C. The large window on the wall",
+                "D. No windows"
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_11": {
+            "id": "21q-lDikdBg_11",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where can the mirror be seen in the gym background?",
+            "options": [
+                "A. A full-length mirror on the ceiling",
+                "B. A mirror on the right wall",
+                "C. A mirror on the left",
+                "D. No visible mirror"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_12": {
+            "id": "21q-lDikdBg_12",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What other fitness elements can be seen in the mirror with the gym background?",
+            "options": [
+                "A. Additional fitness equipment",
+                "B. A dark open space",
+                "C. The scenery of an outdoor park",
+                "D. A large sign with gym rules written on it"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_13": {
+            "id": "21q-lDikdBg_13",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many people can be seen in the gym environment?",
+            "options": [
+                "A. One person",
+                "B. Two people",
+                "C. Three people",
+                "D. Four people"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_14": {
+            "id": "21q-lDikdBg_14",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Is there any visible text overlay when focusing on Alex in the video?",
+            "options": [
+                "A. Yes, there is a teal text overlay present throughout the entire video.",
+                "B. Yes, text overlay appeared when focusing on Alex but was removed afterwards.",
+                "C. Yes, different text overlays appeared when focusing on Alex.",
+                "D. No, there is no text overlay at any point in the video."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_15": {
+            "id": "21q-lDikdBg_15",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What event occurred in the scene?",
+            "options": [
+                "A. The gym equipment was rearranged.",
+                "B. Alex changed the color of his shirt.",
+                "C. The teal text overlay disappeared.",
+                "D. The gym lights were turned off."
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_16": {
+            "id": "21q-lDikdBg_16",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "In the scenes focusing on Alex, what type of camera angle was used?",
+            "options": [
+                "A. A level angle was used.",
+                "B. A high angle was used.",
+                "C. A low angle was used.",
+                "D. A bird's-eye angle was used."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_17": {
+            "id": "21q-lDikdBg_17",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "How does the eye-level angle of the camera affect the composition of the scene focused on Alex?",
+            "options": [
+                "A. It ensures a balanced presentation of the scene by focusing on Alex while clearly and prominently showcasing the surrounding gym environment.",
+                "B. It makes Alex appear smaller and less significant in front of the gym equipment.",
+                "C. It shifts the attention entirely to the gym environment, diminishing Alex's presence.",
+                "D. It distorts the reflection in the mirror, making the gym look chaotic."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_18": {
+            "id": "21q-lDikdBg_18",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What prominent elements highlight the characteristics of the gym?",
+            "options": [
+                "A. The neat fitness equipment, natural light from large windows, mirror reflections, and consistent lighting enhance the professional and tidy impression of the gym.",
+                "B. The environment of this gym looks casual and cluttered, with only a small amount of fitness equipment and dim lighting.",
+                "C. This gym is equipped with outdated equipment, has a chaotic layout, and lacks natural light from windows.",
+                "D. The characteristics of this gym are reflected in the dim lighting, absence of windows, and lack of reflective surfaces."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_19": {
+            "id": "21q-lDikdBg_19",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "How is the overall environment of the gym?",
+            "options": [
+                "A. The gym environment is bright and orderly. Natural light streams in through the windows, and artificial lighting evenly illuminates the space.",
+                "B. The gym is dimly lit, messy, and lacks natural light.",
+                "C. The gym has an isolated rural style, with wooden floors and vintage equipment.",
+                "D. The gym has a dark and moody ambiance, with flashing neon lights and loud music playing in the background."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_20": {
+            "id": "21q-lDikdBg_20",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is Alex Angele doing in the video?",
+            "options": [
+                "A. Alex Angele is performing resistance band exercises, transitioning from a horizontal arm position to an upward inclined angle.",
+                "B. Alex Angele is sitting on the floor, practicing yoga stretches using a resistance band.",
+                "C. Alex Angele is using a rowing machine at the gym.",
+                "D. Alex Angele is running on a treadmill while holding a resistance band."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_21": {
+            "id": "21q-lDikdBg_21",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What color is the resistance band that Alex is using?",
+            "options": [
+                "A. The resistance band is dark blue.",
+                "B. The resistance band is dark green.",
+                "C. The resistance band is teal.",
+                "D. The resistance band is light yellow."
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_22": {
+            "id": "21q-lDikdBg_22",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many types of fitness equipment can be seen in the gym?",
+            "options": [
+                "A. Two types",
+                "B. Three types",
+                "C. Four types",
+                "D. Five types"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_23": {
+            "id": "21q-lDikdBg_23",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What types of fitness equipment can be seen in the gym?",
+            "options": [
+                "A. Treadmills, fan bikes, and rowing machines.",
+                "B. Dumbbells, barbells, and kettlebells.",
+                "C. Resistance bands, yoga mats, and Pilates balls.",
+                "D. Ellipticals, punching bags, and battle ropes."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_24": {
+            "id": "21q-lDikdBg_24",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is the gym's image clean and professional?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. Unable to judge.",
+                "D. Too messy."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_25": {
+            "id": "21q-lDikdBg_25",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What exercise did Alex do with the resistance band?",
+            "options": [
+                "A. Alex transitioned the resistance band from shoulder level to an upward angle near the head.",
+                "B. Alex stretched the resistance band vertically from the ground to the waist.",
+                "C. Alex maintained tension with the resistance band while doing squats.",
+                "D. Alex wrapped the resistance band around the wrist and spun it."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_26": {
+            "id": "21q-lDikdBg_26",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "In which direction does Alex move the resistance band while exercising?",
+            "options": [
+                "A. Move from a vertical position to a horizontal position.",
+                "B. Move from a horizontal position to a slightly upward diagonal angle.",
+                "C. Move from a left angle to a right direction.",
+                "D. Move from a downward angle to a horizontal position."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_27": {
+            "id": "21q-lDikdBg_27",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What type of lens was used when filming Alex exercising?",
+            "options": [
+                "A. Slightly tilted eye-level shot",
+                "B. Bird's-eye view shot",
+                "C. Low-angle ground shot",
+                "D. Wide-angle panoramic shot"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_28": {
+            "id": "21q-lDikdBg_28",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "When describing Alex doing resistance band exercises, what is the speed of his movements?",
+            "options": [
+                "A. Alex moves with quick, scattered arm movements.",
+                "B. Alex moves with intentional and precise arm movements.",
+                "C. Alex moves with slow, unsteady arm movements.",
+                "D. Alex moves with quick but uncontrollable arm movements."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_29": {
+            "id": "21q-lDikdBg_29",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "Is there a change in the gym's atmosphere in the video?",
+            "options": [
+                "A. Yes, the gym's atmosphere has changed significantly.",
+                "B. Yes, the lighting conditions have changed significantly.",
+                "C. No, the gym's atmosphere remains the same.",
+                "D. No, the gym's layout keeps changing."
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_30": {
+            "id": "21q-lDikdBg_30",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "Has the layout of the gym changed in the video?",
+            "options": [
+                "A. Yes, new equipment has been added.",
+                "B. No, the layout of the gym has not changed.",
+                "C. Yes, the lighting has changed significantly.",
+                "D. Yes, the treadmills have been rearranged."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_31": {
+            "id": "21q-lDikdBg_31",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What kind of lighting highlights the clean appearance of the gym?",
+            "options": [
+                "A. Natural sunlight illuminates the clean appearance of the gym.",
+                "B. A single spotlight highlights the clean appearance of the gym.",
+                "C. Even lighting highlights the clean appearance of the gym.",
+                "D. Dim lighting highlights the clean appearance of the gym."
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_32": {
+            "id": "21q-lDikdBg_32",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the exercise bike in relation to Alex?",
+            "options": [
+                "A. The exercise bike is in front of Alex.",
+                "B. The exercise bike is to the left of Alex.",
+                "C. The exercise bike is to the right of Alex.",
+                "D. The exercise bike is behind Alex."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_33": {
+            "id": "21q-lDikdBg_33",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What kind of environment does Alex exercise in?",
+            "options": [
+                "A. Alex exercises in a spacious gym with reflective floors, fully equipped facilities, and ample ambient lighting.",
+                "B. Alex exercises outdoors in a garden surrounded by trees and sunlight.",
+                "C. Alex exercises in a small home gym with basic equipment and dim lighting.",
+                "D. Alex exercises in a crowded studio with limited natural light and no equipment."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_34": {
+            "id": "21q-lDikdBg_34",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What activity is Alex Angeli doing in the video?",
+            "options": [
+                "A. Alex Angeli is exercising with a light green resistance band.",
+                "B. Alex Angeli is practicing yoga in a tranquil environment.",
+                "C. Alex Angeli is meditating in a dimly lit room.",
+                "D. Alex Angeli is lifting weights in the gym."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_35": {
+            "id": "21q-lDikdBg_35",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is Alex Angeli's posture in the video?",
+            "options": [
+                "A. Alex Angeli is sitting on a wooden chair with arms extended outward at shoulder height.",
+                "B. Alex Angeli is standing with arms extended above the head.",
+                "C. Alex Angeli is lying on the floor with arms placed at the sides of the body.",
+                "D. Alex Angeli is sitting on a wooden chair with hands placed on the knees."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_36": {
+            "id": "21q-lDikdBg_36",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What color is Alex's resistance band?",
+            "options": [
+                "A. Teal",
+                "B. Bright Green",
+                "C. Dark Blue",
+                "D. Bright Orange"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_37": {
+            "id": "21q-lDikdBg_37",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "How does Alex use a resistance band during exercise?",
+            "options": [
+                "A. Stretch the resistance band horizontally with both hands, indicating stretching or strength training.",
+                "B. Attach the resistance band to a stationary bicycle for resistance cycling.",
+                "C. Wrap the resistance band around Alex's legs for lower body stretching.",
+                "D. Use the resistance band to secure Alex's torso to a chair for stability training."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_38": {
+            "id": "21q-lDikdBg_38",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Can the resistance band be seen in the previous frame of the video?",
+            "options": [
+                "A. Yes, the resistance band can be seen in the previous frame.",
+                "B. No, the resistance band cannot be seen in the previous frame.",
+                "C. Yes, but the resistance band is only partially visible in the previous frame.",
+                "D. The resistance band is visible, but its color is unclear in the previous frame."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_39": {
+            "id": "21q-lDikdBg_39",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Can resistance bands be seen in the current scene?",
+            "options": [
+                "A. Yes, resistance bands can be seen in the current scene.",
+                "B. No, resistance bands cannot be seen in the current scene or previous scenes.",
+                "C. Yes, resistance bands can be seen, but only in the early stages of the scene.",
+                "D. No, resistance bands appeared only once in a previous scene."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_40": {
+            "id": "21q-lDikdBg_40",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What changes in Alex's activity are observed between the earlier and later frames of the video?",
+            "options": [
+                "A. In the earlier footage, Alex is holding a dumbbell, whereas in the later footage, he is using a resistance band.",
+                "B. In the earlier footage, Alex's outstretched arms are empty, while in the later footage, a light blue resistance band is stretched between his arms, indicating he is exercising.",
+                "C. In the earlier footage, Alex is doing treadmill exercises, whereas in the later footage, he is sitting and using a resistance band.",
+                "D. In the earlier footage, Alex is holding a resistance band vertically, whereas in the later footage, he is stretching the resistance band horizontally between his arms."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_41": {
+            "id": "21q-lDikdBg_41",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "Which direction is Alex stretching the resistance band?",
+            "options": [
+                "A. Perpendicular to his arms",
+                "B. Parallel to his arms",
+                "C. Diagonal to his body",
+                "D. In a circular motion"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_42": {
+            "id": "21q-lDikdBg_42",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "How has the camera angle changed compared to the previous scene?",
+            "options": [
+                "A. The camera switches to a wider frontal view.",
+                "B. The camera remains in the same position throughout the scene.",
+                "C. The camera switches from a close-up to an overhead angle.",
+                "D. The camera moves to a high overhead angle."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_43": {
+            "id": "21q-lDikdBg_43",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "Compared to the previous scene, how has the camera angle changed?",
+            "options": [
+                "A. The camera switches to a closer, rear-facing, upper-body-focused perspective.",
+                "B. The camera pulls back to capture the entire gym environment.",
+                "C. The camera moves to a side view, focusing on Alex's full-body posture.",
+                "D. The camera tilts upward to highlight the gym's ceiling and lighting fixtures."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_44": {
+            "id": "21q-lDikdBg_44",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What impact does close-up framing have on the depiction of Alex?",
+            "options": [
+                "A. It makes the gym environment more prominent, showcasing more fitness equipment.",
+                "B. It focuses more on Alex's upper body, emphasizing the details of his posture, arms, and clothing, while softening the background.",
+                "C. It highlights the outdoor scenery and greenery visible through the gym window.",
+                "D. It shifts the focus to Alex's lower body and the chair he is sitting on."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_45": {
+            "id": "21q-lDikdBg_45",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "Does the video description mention any changes in Alex's exercise movement speed?",
+            "options": [
+                "A. Yes, the video description mentions that Alex has increased his exercise movement speed.",
+                "B. Yes, the video description mentions that Alex has slowed down his exercise movement speed.",
+                "C. No, the video description does not mention any changes in Alex's exercise movement speed.",
+                "D. No, the video description states that Alex's exercise movement speed has consistently remained slow."
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_46": {
+            "id": "21q-lDikdBg_46",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What is the biggest change regarding Alex's exercise equipment?",
+            "options": [
+                "A. Added a light blue resistance band.",
+                "B. Removed all gym equipment in the background.",
+                "C. Added a yoga mat under Alex's chair.",
+                "D. Replaced the chair with an exercise ball."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_47": {
+            "id": "21q-lDikdBg_47",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "In the video, which visual elements outside the gym contribute to the overall atmosphere?",
+            "options": [
+                "A. The blurred green plants and sunlight accents outside the gym’s large windows",
+                "B. The bustling cityscape, with skyscrapers and traffic",
+                "C. Snow-covered peaks and clear blue skies",
+                "D. The beach and waves crashing on the shore"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_48": {
+            "id": "21q-lDikdBg_48",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What can be seen through the large windows of the gym?",
+            "options": [
+                "A. A busy street with heavy traffic",
+                "B. Blurry green plants can be seen through the large windows",
+                "C. A group of people exercising outside",
+                "D. A nearby building can be clearly seen"
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_49": {
+            "id": "21q-lDikdBg_49",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene of the video take place?",
+            "options": [
+                "A. The scene of the video takes place in a gym environment.",
+                "B. The scene of the video takes place in a park.",
+                "C. The scene of the video takes place in a home gym studio.",
+                "D. The scene of the video takes place in a hospital ward."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_50": {
+            "id": "21q-lDikdBg_50",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is Alex Angeli doing in the video?",
+            "options": [
+                "A. Alex Angeli is exercising with a light green resistance band.",
+                "B. Alex Angeli is jogging on a treadmill.",
+                "C. Alex Angeli is lifting weights.",
+                "D. Alex Angeli is practicing yoga."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_51": {
+            "id": "21q-lDikdBg_51",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What text can be seen on Alex's bright blue Polo shirt?",
+            "options": [
+                "A. 'Cardiac Rehab Staff' can be seen on Alex's blue Polo shirt.",
+                "B. 'Fitness Instructor' can be seen on Alex's blue Polo shirt.",
+                "C. 'Fitness Consultant' can be seen on Alex's blue Polo shirt.",
+                "D. 'Training Staff' can be seen on Alex's blue Polo shirt."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_52": {
+            "id": "21q-lDikdBg_52",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many lines of text are on Alex's shirt?",
+            "options": [
+                "A. There is one line of text on Alex's shirt.",
+                "B. There are two lines of text on Alex's shirt.",
+                "C. There are three lines of text on Alex's shirt.",
+                "D. There is no text on Alex's shirt."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_53": {
+            "id": "21q-lDikdBg_53",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Does natural light enter the room through the window?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only artificial lighting is used",
+                "D. The scene is set in a dimly lit room"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_54": {
+            "id": "21q-lDikdBg_54",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What happens to the resistance band when Alex moves the arm position inward?",
+            "options": [
+                "A. The resistance band relaxes into a gentle arc.",
+                "B. The resistance band breaks and can no longer be used.",
+                "C. The resistance band remains taut and straight.",
+                "D. The resistance band forms a sharp angle bend."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_55": {
+            "id": "21q-lDikdBg_55",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "When Alex fully extends his arms, in which direction is the resistance band stretching?",
+            "options": [
+                "A. The resistance band stretches into a straight horizontal line at shoulder height.",
+                "B. The resistance band stretches diagonally towards the floor.",
+                "C. The resistance band stretches vertically upwards above Alex's head.",
+                "D. The resistance band stretches in a downward arc."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_56": {
+            "id": "21q-lDikdBg_56",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of perspective should be used to film Alex's workout?",
+            "options": [
+                "A. Use a static full-body perspective to film Alex's workout.",
+                "B. Use a static chest-level half-body perspective to film Alex's workout.",
+                "C. Use a moving side-angle perspective to film Alex's workout.",
+                "D. Use a static low-angle perspective to film Alex's workout."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_57": {
+            "id": "21q-lDikdBg_57",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "How do Alex's arm movements reflect his style of movement?",
+            "options": [
+                "A. Alex's arm movements introduce a sense of rhythm, reflecting a deliberate and controlled style of movement.",
+                "B. Alex's arm movements are irregular and spontaneous, reflecting a lack of coordination.",
+                "C. Alex's arm movements remain still, indicating no effort is put into the movement.",
+                "D. Alex's arm movements are quick and sudden, suggesting a hurried style of movement."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_58": {
+            "id": "21q-lDikdBg_58",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is the initial curvature of the resistance band in Alex's workout?",
+            "options": [
+                "A. The resistance band initially has a pronounced arc.",
+                "B. The resistance band initially has a moderate arc.",
+                "C. The resistance band initially is a straight line.",
+                "D. The resistance band initially is a loose curve."
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_59": {
+            "id": "21q-lDikdBg_59",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "How does the bending degree of the resistance band change when Alex pulls it during exercise?",
+            "options": [
+                "A. The resistance band forms a zigzag shape.",
+                "B. The resistance band is stretched into a straight line, eventually with a slight curve.",
+                "C. The resistance band twists into a spiral shape.",
+                "D. The resistance band is stretched into a straight line."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_60": {
+            "id": "21q-lDikdBg_60",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "On the right side of the gym, what visual elements can be seen?",
+            "options": [
+                "A. A wall-mounted box or speaker",
+                "B. A treadmill with a digital screen",
+                "C. A decorative mirror",
+                "D. An inspirational poster"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_61": {
+            "id": "21q-lDikdBg_61",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What can be seen through the gym window?",
+            "options": [
+                "A. Natural greenery",
+                "B. Busy cityscape",
+                "C. Parking lot",
+                "D. Beach view"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_62": {
+            "id": "21q-lDikdBg_62",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "Where was the video originally filmed?",
+            "options": [
+                "A. In a gym environment",
+                "B. In a doctor's office",
+                "C. In a park",
+                "D. In a classroom"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_63": {
+            "id": "21q-lDikdBg_63",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What does Alex Angeli wear while exercising?",
+            "options": [
+                "A. A blue Polo shirt",
+                "B. A red sports shirt with a heart rate monitor pattern",
+                "C. A white T-shirt with the Sharp Healthcare logo",
+                "D. A dark green jacket with no obvious logo"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_64": {
+            "id": "21q-lDikdBg_64",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Which visual element on Alex's shirt is the main focus?",
+            "options": [
+                "A. The 'Cardiac Rehab Staff' logo featuring a heart monitor pattern",
+                "B. A bright yellow badge with a stethoscope design",
+                "C. A gym logo with a pair of dumbbells pattern",
+                "D. An inspirational quote written in cursive"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_65": {
+            "id": "21q-lDikdBg_65",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What are the main transitions in the video description?",
+            "options": [
+                "A. From Alex's gym workout, to a teal background with text, and finally to a nearly black background.",
+                "B. From Alex's gym workout, to a bright red background with motivational phrases, and finally to a nearly black background.",
+                "C. From Alex's gym workout, to an outdoor park scene, and finally to a nearly black background.",
+                "D. From Alex's gym workout, to a teal background with instructional video, and finally back to a bright gym."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_66": {
+            "id": "21q-lDikdBg_66",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Does the video end with a gym scene?",
+            "options": [
+                "A. Yes, the video ends with a gym scene.",
+                "B. No, the video ends with a nearly all-black background.",
+                "C. Yes, the video switches back to a gym scene at the end.",
+                "D. No, the video ends with a teal background with text."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_67": {
+            "id": "21q-lDikdBg_67",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What did Alex do with the resistance band during the exercise?",
+            "options": [
+                "A. Alex stretched the resistance band above his head.",
+                "B. Alex lowered his arms, allowing the resistance band to hang loosely near his waist.",
+                "C. Alex performed lateral stretches with the resistance band.",
+                "D. Alex tied the resistance band to a nearby machine."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_68": {
+            "id": "21q-lDikdBg_68",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "What changes occur in the composition when the infographic is displayed?",
+            "options": [
+                "A. The composition changes to a teal background with bold central font and modern design, emphasizing clarity and purpose.",
+                "B. The composition changes to a featureless black background with bold text saying 'End'.",
+                "C. The composition changes to a bright red background with images of fitness equipment and additional workout tips.",
+                "D. The composition changes to a photo montage of Alex Angeli performing various exercises in different fitness environments."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_69": {
+            "id": "21q-lDikdBg_69",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What instructional overlay content appeared in the fitness scene?",
+            "options": [
+                "A. Instructional overlay content providing guidance on the number of exercise repetitions appeared.",
+                "B. Overlay content displaying heart rate levels appeared.",
+                "C. Instructional overlay content listing different types of exercises appeared.",
+                "D. Overlay content providing nutritional advice for athletes appeared."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_70": {
+            "id": "21q-lDikdBg_70",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "In the gym scene, where does the tutorial overlay appear?",
+            "options": [
+                "A. The tutorial overlay appears in the bottom left corner of the gym scene.",
+                "B. The tutorial overlay appears in the top right corner of the gym scene.",
+                "C. The tutorial overlay appears in the center of the screen in the gym scene.",
+                "D. The tutorial overlay appears in the bottom right corner of the gym scene."
+            ],
+            "answer": "B"
+        },
+        "21q-lDikdBg_71": {
+            "id": "21q-lDikdBg_71",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What color tone (excluding black) is observed in the first frame of the video?",
+            "options": [
+                "A. Light cyan tone",
+                "B. Bright yellow tone",
+                "C. Deep red tone",
+                "D. Vivid blue tone"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_72": {
+            "id": "21q-lDikdBg_72",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the environment created by the transition scene?",
+            "options": [
+                "A. A minimalist and understated visual tone transitioning to a distinct and silent visual void",
+                "B. A colorful and vibrant landscape with dynamic elements",
+                "C. A crowded and chaotic urban scene filled with bright lights",
+                "D. A warm and cozy living space emitting an inviting atmosphere"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_73": {
+            "id": "21q-lDikdBg_73",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "How does the visual tone change at the beginning of the video?",
+            "options": [
+                "A. The visual tone starts with a faint cyan-green hue.",
+                "B. The visual tone starts with a bright red hue.",
+                "C. The visual tone starts with a deep green hue.",
+                "D. The visual tone starts with a dark blue hue."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_74": {
+            "id": "21q-lDikdBg_74",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "How does the visual tone at the end of the video change?",
+            "options": [
+                "A. The visual tone becomes completely dark, transitioning from minimalism to absolute visual emptiness.",
+                "B. The visual tone becomes brighter and more colorful, adding more details and complexity.",
+                "C. The visual tone transitions to a slightly grayish hue, adding some texture and shapes.",
+                "D. The visual tone remains consistently teal, with no changes."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_75": {
+            "id": "21q-lDikdBg_75",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Is there any text displayed in the video?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only partially displayed",
+                "D. Not clear"
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_76": {
+            "id": "21q-lDikdBg_76",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Are there visible elements, such as objects, in the last frame of the video?",
+            "options": [
+                "A. Yes, there are several visible elements.",
+                "B. Yes, a blurry outline is visible.",
+                "C. No, there are no visible elements.",
+                "D. No, but some subtle patterns are visible."
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_77": {
+            "id": "21q-lDikdBg_77",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What was the layout of the gym like before Alex Angeli started resistance band exercises?",
+            "options": [
+                "A. The gym was spacious and bright, with treadmills, stationary bikes, and rowing machines neatly arranged.",
+                "B. The gym was dimly lit, with dumbbells scattered on the floor and only a boxing ring available.",
+                "C. The gym was narrow and overcrowded, with mismatched exercise equipment and no designated workout areas.",
+                "D. The gym had only a few yoga mats and no other visible equipment."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_78": {
+            "id": "21q-lDikdBg_78",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What type of lighting did the gym use before Alex Angelis started his resistance band workout?",
+            "options": [
+                "A. The gym had natural light coming in from large windows on the left side, along with soft artificial lighting.",
+                "B. The gym was lit solely by bright fluorescent lights.",
+                "C. The gym was illuminated by dim candles strategically placed around the room.",
+                "D. The gym had a spotlight focused only on the center of the room."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_79": {
+            "id": "21q-lDikdBg_79",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What was the style of the gym before Alex Angeli started his resistance band workout?",
+            "options": [
+                "A. The gym has a modern style with reflective floors and mirrors on the right side.",
+                "B. The gym is filled with vintage equipment and has wooden floors.",
+                "C. The gym's walls are covered with graffiti, and the floor is made of concrete.",
+                "D. The gym is painted in bright colors and has patterned tiles."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_80": {
+            "id": "21q-lDikdBg_80",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "How does Alex's arm position change during the resistance band exercise?",
+            "options": [
+                "A. Alex transitions from stretching the resistance band horizontally at shoulder height to pulling it diagonally upward near the head.",
+                "B. Alex keeps the resistance band at shoulder height throughout the entire exercise.",
+                "C. Alex lowers the resistance band from head height to waist height during the exercise.",
+                "D. Alex wraps the resistance band around the arm but does not change its position."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_81": {
+            "id": "21q-lDikdBg_81",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What happens when Alex lowers his arms during the workout?",
+            "options": [
+                "A. A guidance overlay appears in the top right corner of the screen, providing instructions on workout repetitions.",
+                "B. A bright spotlight turns on, illuminating the entire room.",
+                "C. Background music starts playing loudly to motivate the workout.",
+                "D. The room fills with confetti to celebrate workout progress."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_82": {
+            "id": "21q-lDikdBg_82",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the bright blue polo shirt worn by Alex Angeli in the video mean?",
+            "options": [
+                "A. Alex's polo shirt indicates that he is a member of the 'CARDIAC REHAB STAFF'.",
+                "B. Alex's polo shirt indicates his preference for bright colors and casual wear.",
+                "C. Alex's polo shirt highlights a fashion trend from the era when the video was made.",
+                "D. Alex's polo shirt symbolizes his role in a sports team that appears later in the video."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_83": {
+            "id": "21q-lDikdBg_83",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the teal background with centered text in the video signify?",
+            "options": [
+                "A. It indicates a transition from Alex's workout to providing an informational guide, marking a shift to educational content.",
+                "B. It represents the end of the video, symbolizing a summary of all content.",
+                "C. It showcases a transition to a tense scene, increasing the audience's sense of tension.",
+                "D. It depicts a purely artistic intention, without an informational purpose."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_84": {
+            "id": "21q-lDikdBg_84",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "In the resistance band workout, what is the first perspective described as used by Alex Angelis?",
+            "options": [
+                "A. The first perspective is a front view, showing Alex sitting and using the resistance band.",
+                "B. The first perspective is a side view, showing Alex standing and using the resistance band.",
+                "C. The first perspective is a top-down view, showing Alex lying down and using the resistance band.",
+                "D. The first perspective is a rear view, showing Alex sitting and using the resistance band."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_85": {
+            "id": "21q-lDikdBg_85",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "In resistance band exercises, how does the second perspective depict Alex Angeli?",
+            "options": [
+                "A. The second perspective is a rear-facing view focused on the upper body.",
+                "B. The second perspective is a side profile view.",
+                "C. The second perspective is a front-facing, full-body view.",
+                "D. The second perspective is a top-down view."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_86": {
+            "id": "21q-lDikdBg_86",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "In the resistance band exercise, what is the third-person perspective used to depict Alex Angelis?",
+            "options": [
+                "A. The third-person perspective is a front view at chest height, emphasizing his arm movements with the resistance band.",
+                "B. The third-person perspective is a side view, focusing on his leg movements.",
+                "C. The third-person perspective is an overhead view, highlighting his overall posture.",
+                "D. The third-person perspective is a rear view, showcasing his back muscles."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_87": {
+            "id": "21q-lDikdBg_87",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "In the final workout scene, how does Alex's resistance band change?",
+            "options": [
+                "A. The resistance band is pulled tight and stretched between Alex's arms, then placed in a relaxed position near his waist.",
+                "B. Throughout the video, the resistance band shows different colors, changing from red to blue, and then to green.",
+                "C. The resistance band is always taut and stretched between Alex's legs, indicating he is doing intense leg exercises.",
+                "D. The resistance band disappears immediately after being stretched and does not appear again."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_88": {
+            "id": "21q-lDikdBg_88",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What visual elements are introduced when the narrative shifts to a teal background in the final stage?",
+            "options": [
+                "A. Initially, the teal background is featureless, but it then includes bold white text such as '欲知更多锻炼提示，请访问sharp.com/e.' and adds the word 'SHARP' in bold capital letters with a stylish horizontal line above it.",
+                "B. Initially, the teal background is featureless, but it then includes bold white text such as '欲知更多锻炼提示，请访问sharp.com/e.' until the end of the video.",
+                "C. Initially, the teal background is featureless, but it then adds the word 'SHARP' in bold capital letters with a stylish horizontal line above it until the end of the video.",
+                "D. Initially, the teal background is featureless, but it then includes bold white text such as 'How to Improve Your Posture Using a Resistance Band', '欲知更多锻炼提示，请访问sharp.com/e.' and adds the word 'SHARP' in bold capital letters with a stylish horizontal line above it."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_89": {
+            "id": "21q-lDikdBg_89",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does removing the cyan text overlay enhance the focus on Alex?",
+            "options": [
+                "A. Removing the cyan overlay simplifies the composition, making Alex stand out more as the central subject.",
+                "B. Removing the cyan overlay adds more visual elements, making the scene more complex.",
+                "C. Removing the cyan overlay brightens the entire scene, making Alex less noticeable.",
+                "D. Removing the cyan overlay introduces more colors, diverting attention away from Alex."
+            ],
+            "answer": "A"
+        },
+        "21q-lDikdBg_90": {
+            "id": "21q-lDikdBg_90",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does removing the teal text overlay enhance focus on the gym environment?",
+            "options": [
+                "A. Removing the teal overlay highlights the vibrant colors of the gym equipment.",
+                "B. Removing the teal overlay weakens the expressiveness of the dynamic movements of gym members.",
+                "C. Removing the teal overlay highlights the orderly and dynamic details of the gym.",
+                "D. Removing the teal overlay makes the silhouettes of gym members more prominent."
+            ],
+            "answer": "C"
+        },
+        "21q-lDikdBg_91": {
+            "id": "21q-lDikdBg_91",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What is the purpose of transitioning to a simple black frame at the end of the video?",
+            "options": [
+                "A. It emphasizes the end of the video, contrasting sharply with the previous vibrant images, and indicates a clear conclusion of the content.",
+                "B. It introduces a new character dressed in mysterious black clothing, suggesting a plot twist.",
+                "C. It highlights a bright new beginning, hinting at the development of future content.",
+                "D. It is used to transition to another scene full of lively and dynamic visual effects."
+            ],
+            "answer": "A"
+        }
+    }
+}

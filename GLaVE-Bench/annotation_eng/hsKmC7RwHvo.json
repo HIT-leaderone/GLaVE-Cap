@@ -1,0 +1,659 @@
+{
+    "scene_hint": {
+        "0": "A raccoon appears in the frame.",
+        "1": "The raccoon is standing in front of the table eating something.",
+        "2": "The raccoon interacts with the camera."
+    },
+    "qa": {
+        "hsKmC7RwHvo_0": {
+            "id": "hsKmC7RwHvo_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "At the beginning of the video, where is the raccoon from the camera's perspective?",
+            "options": [
+                "A. The raccoon is close to and to the left of the pet water dispenser.",
+                "B. The raccoon is facing the bench, with its back to the pet water dispenser.",
+                "C. The raccoon is on the bench, near the white disc.",
+                "D. The raccoon is directly inside the pet feeding container."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_1": {
+            "id": "hsKmC7RwHvo_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "At the beginning of the video, where is the raccoon's position relative to the white bowl from the camera's perspective?",
+            "options": [
+                "A. The raccoon is located at the top-right of the white bowl.",
+                "B. The raccoon is sitting on top of the white bowl.",
+                "C. The raccoon is directly behind the white bowl.",
+                "D. The raccoon is completely away from the white bowl."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_2": {
+            "id": "hsKmC7RwHvo_2",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the raccoon generally located?",
+            "options": [
+                "A. The raccoon is located in the central area on the concrete surface.",
+                "B. The raccoon is located on the wooden bench in the foreground.",
+                "C. The raccoon is located next to the hedge in the background.",
+                "D. The raccoon is directly eating in front of the pet feeder."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_3": {
+            "id": "hsKmC7RwHvo_3",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video scene?",
+            "options": [
+                "A. The scene is set in an outdoor corridor or terrace.",
+                "B. The scene is set in an indoor living room setting.",
+                "C. The scene is set in a daytime park setting.",
+                "D. The scene is set in a nighttime garage setting."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_4": {
+            "id": "hsKmC7RwHvo_4",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What objects and elements are in the video scene?",
+            "options": [
+                "A. The scene includes a wooden bench, a pet water dispenser, and hedges.",
+                "B. The scene includes a metal bench, a bird feeder, and flowers.",
+                "C. The scene includes a modern plastic bench, a fountain, and trees.",
+                "D. The scene includes a stone bench, a bird bath, and wild shrubs."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_5": {
+            "id": "hsKmC7RwHvo_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "Why did a white round plate appear on the bench?",
+            "options": [
+                "A. It might be feeding wildlife or leaving traces of a previous meal",
+                "B. Recent gardening activities, such as trimming hedges",
+                "C. Someone is repairing or organizing garden hoses",
+                "D. A raccoon placed the plate on the bench"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_6": {
+            "id": "hsKmC7RwHvo_6",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What's on the right side of the frame?",
+            "options": [
+                "A. Along the house wall panel, there is a black water pipe and a black rectangular device or box.",
+                "B. Along the house wall panel, there is a green water pipe and a white rectangular device or box.",
+                "C. Along the house wall panel, there is a white pet bowl and a black rectangular device or box.",
+                "D. Along the house wall panel, there is a wooden bench and a white round plate."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_7": {
+            "id": "hsKmC7RwHvo_7",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many items are on the bench?",
+            "options": [
+                "A. There is one item on the bench.",
+                "B. There are two items on the bench.",
+                "C. There are three items on the bench.",
+                "D. There are no items on the bench."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_8": {
+            "id": "hsKmC7RwHvo_8",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is the raccoon actively interacting with the pet water dispenser?",
+            "options": [
+                "A. Yes, the raccoon is actively interacting with the pet water dispenser.",
+                "B. No, the raccoon is not actively interacting with the pet water dispenser.",
+                "C. The raccoon is actively interacting with the white bowl.",
+                "D. The raccoon is actively interacting with the hedge in the background."
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_9": {
+            "id": "hsKmC7RwHvo_9",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "In the video, which direction is the raccoon moving?",
+            "options": [
+                "A. The raccoon is moving towards the camera.",
+                "B. The raccoon is moving towards the hedge.",
+                "C. The raccoon is moving towards the white bowl.",
+                "D. The raccoon is moving towards the house siding."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_10": {
+            "id": "hsKmC7RwHvo_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of camera shots were used in the video?",
+            "options": [
+                "A. The video used panning shots.",
+                "B. The video used close-up shots.",
+                "C. The video used fixed wide-angle shots.",
+                "D. The video used zoom shots."
+            ],
+            "answer": "C"
+        },
+        "hsKmC7RwHvo_11": {
+            "id": "hsKmC7RwHvo_11",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What change occurred with the timestamp in the video?",
+            "options": [
+                "A. The timestamp remained unchanged throughout the video.",
+                "B. The timestamp advanced to '12/02/2023 01:18:01 CST'.",
+                "C. The timestamp reset to '12/02/2023 00:00:00 CST' midway through the video.",
+                "D. The timestamp disappeared entirely midway through the video."
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_12": {
+            "id": "hsKmC7RwHvo_12",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the raccoon's final position relative to the camera?",
+            "options": [
+                "A. The raccoon is slightly closer to the camera.",
+                "B. The raccoon is in the upper left corner of the frame.",
+                "C. The raccoon is in the center of the courtyard.",
+                "D. The raccoon is near the water dispenser."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_13": {
+            "id": "hsKmC7RwHvo_13",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What posture did the raccoon display in the first half of the scene?",
+            "options": [
+                "A. The raccoon stood very tall.",
+                "B. The raccoon maintained a low posture with its head down.",
+                "C. The raccoon sat upright on the bench.",
+                "D. The raccoon lay completely flat on the terrace floor."
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_14": {
+            "id": "hsKmC7RwHvo_14",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What actions did the raccoon demonstrate in the video?",
+            "options": [
+                "A. Its movements were quick and irregular.",
+                "B. Its movements were deliberate and cautious.",
+                "C. Its movements were sluggish and slow.",
+                "D. Its movements were aggressive and fast."
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_15": {
+            "id": "hsKmC7RwHvo_15",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What objects can be seen on the wooden bench in the video?",
+            "options": [
+                "A. A plate.",
+                "B. A glass of water.",
+                "C. A stack of books.",
+                "D. A wooden box."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_16": {
+            "id": "hsKmC7RwHvo_16",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is the lighting dim?",
+            "options": [
+                "A. Yes, only partially illuminated by faint streetlights.",
+                "B. No, well-lit by natural light sources.",
+                "C. No, well-lit by artificial lighting.",
+                "D. Yes, only partially illuminated by faint natural light sources."
+            ],
+            "answer": "C"
+        },
+        "hsKmC7RwHvo_17": {
+            "id": "hsKmC7RwHvo_17",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What behavior indicates a raccoon is exploring?",
+            "options": [
+                "A. The raccoon's steady gait, low posture, and lowered head.",
+                "B. The raccoon's quick and irregular movements.",
+                "C. The raccoon raises its head and hurries its pace.",
+                "D. The raccoon remains still and gazes into the distance."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_18": {
+            "id": "hsKmC7RwHvo_18",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle used in the video?",
+            "options": [
+                "A. The camera angle is slightly tilted downward.",
+                "B. The camera angle is completely horizontal.",
+                "C. The camera angle is tilted upward.",
+                "D. The camera angle is looking up from the ground."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_19": {
+            "id": "hsKmC7RwHvo_19",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "How does the camera angle affect the recording?",
+            "options": [
+                "A. It provides a clear perspective, ensuring all details are consistently captured.",
+                "B. It focuses only on the raccoon, blurring background objects to highlight the subject.",
+                "C. It captures from a completely horizontal angle, causing some objects to be out of view.",
+                "D. It enlarges the timestamp and labels, obscuring other elements of the scene."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_20": {
+            "id": "hsKmC7RwHvo_20",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the raccoon relative to the camera at the beginning of the scene?",
+            "options": [
+                "A. The raccoon is slightly to the left in front of the camera.",
+                "B. The raccoon is directly below the camera.",
+                "C. The raccoon is far to the right of the camera.",
+                "D. The raccoon is behind the camera."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_21": {
+            "id": "hsKmC7RwHvo_21",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video scene?",
+            "options": [
+                "A. The scene takes place on a residential porch.",
+                "B. The scene takes place in a dense forest.",
+                "C. The scene takes place in the living room.",
+                "D. The scene takes place on the beach."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_22": {
+            "id": "hsKmC7RwHvo_22",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What does the ground look like in the video scene?",
+            "options": [
+                "A. There is a concrete floor in the scene.",
+                "B. There is a wooden deck in the scene.",
+                "C. There is a tiled floor in the scene.",
+                "D. There is a gravel path in the scene."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_23": {
+            "id": "hsKmC7RwHvo_23",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is in the background of the video scene?",
+            "options": [
+                "A. The faint outline of shrubs.",
+                "B. Colorful flowers.",
+                "C. Clearly visible stars.",
+                "D. Dense pine trees."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_24": {
+            "id": "hsKmC7RwHvo_24",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What did the raccoon do in the video?",
+            "options": [
+                "A. The raccoon explored and ate the food on the plate.",
+                "B. The raccoon slept on the floor.",
+                "C. The raccoon aggressively attacked items.",
+                "D. The raccoon remained motionless."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_25": {
+            "id": "hsKmC7RwHvo_25",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What items are in the scene?",
+            "options": [
+                "A. There is a disc, a water dispenser, a hose or cable.",
+                "B. There is a tall lamp, a red watering can, a roll of yellow rope.",
+                "C. There is a metal table, a green glass bottle, a pile of firewood.",
+                "D. There is a bird feeder, an orange bucket, a lantern, a wooden fence."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_26": {
+            "id": "hsKmC7RwHvo_26",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is the raccoon's full face completely visible in the frame most of the time?",
+            "options": [
+                "A. Yes, it's completely visible in the frame.",
+                "B. Only the side profile can be seen in the frame.",
+                "C. It's never visible in the frame.",
+                "D. Only the lower half of the face is visible in the frame."
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_27": {
+            "id": "hsKmC7RwHvo_27",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What type of lens should be used to capture the movements of a raccoon?",
+            "options": [
+                "A. Fixed wide-angle lens",
+                "B. Handheld close-up lens",
+                "C. Low-angle dynamic lens",
+                "D. Wide-angle panoramic view"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_28": {
+            "id": "hsKmC7RwHvo_28",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "Where did the raccoon go after the close-up?",
+            "options": [
+                "A. The raccoon retreated to the bottom-right corner of the frame.",
+                "B. The raccoon climbed onto the wooden bench.",
+                "C. The raccoon moved to the center of the frame near the bowl.",
+                "D. The raccoon left the frame and disappeared."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_29": {
+            "id": "hsKmC7RwHvo_29",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the video scene?",
+            "options": [
+                "A. The scene is a daytime garden area.",
+                "B. The scene is a nighttime terrace setting.",
+                "C. The scene is a forest trail.",
+                "D. The scene is an urban rooftop."
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_30": {
+            "id": "hsKmC7RwHvo_30",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is in the video scene?",
+            "options": [
+                "A. There is a wooden bench, a patch of grass, and flowers.",
+                "B. There is a wooden bench, a concrete ground, and shrubs.",
+                "C. There is a dirt path with scattered fallen leaves on the ground.",
+                "D. There are metal railings with distant city lights in the background."
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_31": {
+            "id": "hsKmC7RwHvo_31",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What actions did the raccoon perform in the video?",
+            "options": [
+                "A. The raccoon approached the camera, then retreated to the lower right corner.",
+                "B. The raccoon climbed onto the bench, inspected the plate, then jumped down.",
+                "C. The raccoon dug on the ground, found food, then hid away.",
+                "D. The raccoon played with the hose, drank water from the kettle, then ran off."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_32": {
+            "id": "hsKmC7RwHvo_32",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What is the object visible on the bench in the video?",
+            "options": [
+                "A. A plate",
+                "B. A kettle",
+                "C. A hose",
+                "D. A bowl"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_33": {
+            "id": "hsKmC7RwHvo_33",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Which objects are on the ground?",
+            "options": [
+                "A. A bowl, a small black box, and a pipe.",
+                "B. A plate, a wooden bench, and a pipe.",
+                "C. A bowl, a metal bench, and a water jug.",
+                "D. A plate, a water jug, and a pipe."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_34": {
+            "id": "hsKmC7RwHvo_34",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Can the raccoon be seen throughout the entire video?",
+            "options": [
+                "A. Yes, the raccoon is clearly visible throughout the entire video.",
+                "B. No, the raccoon eventually moves out of the frame.",
+                "C. Yes, the raccoon is always visible, but becomes less clear.",
+                "D. No, the raccoon never appears in the video."
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_35": {
+            "id": "hsKmC7RwHvo_35",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "After the close-up shot, in which direction does the raccoon move?",
+            "options": [
+                "A. The raccoon moves closer to the camera.",
+                "B. The raccoon moves out of the frame to the right.",
+                "C. The raccoon moves to the left side of the frame.",
+                "D. The raccoon moves to the center of the frame."
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_36": {
+            "id": "hsKmC7RwHvo_36",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "How does artificial lighting affect the appearance of a raccoon's snout and mouth?",
+            "options": [
+                "A. Artificial lighting slightly overexposes the raccoon's snout and mouth.",
+                "B. Artificial lighting makes the raccoon's snout and mouth appear darker.",
+                "C. Artificial lighting casts shadows on the raccoon's snout and mouth.",
+                "D. Artificial lighting highlights the raccoon's snout and mouth, making it clearer."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_37": {
+            "id": "hsKmC7RwHvo_37",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the raccoon's initial activity in the video?",
+            "options": [
+                "A. The raccoon approaches the pet bowl.",
+                "B. The raccoon is climbing onto the bench.",
+                "C. The raccoon is playing with the water hose.",
+                "D. The raccoon is hiding behind the siding."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_38": {
+            "id": "hsKmC7RwHvo_38",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is the final position of the raccoon at the end of the video?",
+            "options": [
+                "A. The raccoon is in the center of the screen.",
+                "B. The raccoon is off-screen at the bottom left corner.",
+                "C. The raccoon is off-screen at the bottom right corner.",
+                "D. The raccoon is at the top of the screen."
+            ],
+            "answer": "C"
+        },
+        "hsKmC7RwHvo_39": {
+            "id": "hsKmC7RwHvo_39",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How does the raccoon interact with the pet feeder can in the video?",
+            "options": [
+                "A. The raccoon initially explores the pet feeder can.",
+                "B. The raccoon knocked over the pet feeder can.",
+                "C. The raccoon drinks water from the pet feeder can.",
+                "D. The raccoon completely ignores the pet feeder can."
+            ],
+            "answer": "D"
+        },
+        "hsKmC7RwHvo_40": {
+            "id": "hsKmC7RwHvo_40",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What did the raccoon do after moving away from the pet feeding bowl?",
+            "options": [
+                "A. The raccoon approached the camera.",
+                "B. The raccoon started climbing the water pipe.",
+                "C. The raccoon found food in the bowl.",
+                "D. The raccoon started playing with the plate."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_41": {
+            "id": "hsKmC7RwHvo_41",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "Where did the raccoon go at the end of the video?",
+            "options": [
+                "A. The raccoon climbed onto the bench.",
+                "B. The raccoon retreated to the bottom right corner off-screen.",
+                "C. The raccoon disappeared into the bushes in the background.",
+                "D. The raccoon approached the camera again."
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_42": {
+            "id": "hsKmC7RwHvo_42",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What are the postures and behaviors of raccoons?",
+            "options": [
+                "A. The cautious movements and exploratory behavior of raccoons.",
+                "B. The timid retreat and avoidance of the camera by raccoons.",
+                "C. The sudden aggressive behavior of raccoons.",
+                "D. The stationary posture and lack of engagement of raccoons."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_43": {
+            "id": "hsKmC7RwHvo_43",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What role does artificial lighting play in the video?",
+            "options": [
+                "A. Artificial lighting helps illuminate the raccoon and the surrounding environment.",
+                "B. Artificial lighting makes the raccoon and background appear blurry and dim.",
+                "C. Artificial lighting focuses only on the surrounding environment, leaving the raccoon in shadow.",
+                "D. Artificial lighting emits a strong light, causing the surrounding environment to be overexposed."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_44": {
+            "id": "hsKmC7RwHvo_44",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the raccoon next to at the start of the video?",
+            "options": [
+                "A. Next to the pet feeder",
+                "B. Next to the plate on the bench",
+                "C. Next to the water pipe",
+                "D. Next to the bowl on the ground"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_45": {
+            "id": "hsKmC7RwHvo_45",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "Where did the raccoon move after leaving the pet feeder?",
+            "options": [
+                "A. The raccoon moved in front of the bench.",
+                "B. The raccoon climbed onto the bench.",
+                "C. The raccoon hid behind the water pipe.",
+                "D. The raccoon retreated to the edge of the frame."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_46": {
+            "id": "hsKmC7RwHvo_46",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "Where did the raccoon go after moving to the position closest to the camera?",
+            "options": [
+                "A. The raccoon retreated to the bottom right corner.",
+                "B. The raccoon climbed onto the wooden bench.",
+                "C. The raccoon moved to the place near the white bowl.",
+                "D. The raccoon completely disappeared from the camera's view."
+            ],
+            "answer": "D"
+        },
+        "hsKmC7RwHvo_47": {
+            "id": "hsKmC7RwHvo_47",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "Which elements remain stationary in the video?",
+            "options": [
+                "A. Wooden bench, plate, water pipe.",
+                "B. Raccoon, plate, and water pipe.",
+                "C. Wooden bench, raccoon, and water fountain.",
+                "D. Plate, raccoon, and bush."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_48": {
+            "id": "hsKmC7RwHvo_48",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "How does artificial lighting affect the clarity of security camera recordings?",
+            "options": [
+                "A. Artificial lighting ensures that details of objects and movements are clearly visible.",
+                "B. Artificial lighting produces a lot of glare, making the recordings difficult to interpret.",
+                "C. Artificial lighting reduces the clarity of objects and movements.",
+                "D. Artificial lighting has no significant impact on the quality or visibility of security camera recordings."
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_49": {
+            "id": "hsKmC7RwHvo_49",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What is the purpose of placing the plate?",
+            "options": [
+                "A. Used to feed wild animals, or leftovers from previous meals.",
+                "B. Used as an art decoration display.",
+                "C. Used to cover the kettle on the table.",
+                "D. Used as a prop for experiments or demonstrations."
+            ],
+            "answer": "A"
+        }
+    }
+}

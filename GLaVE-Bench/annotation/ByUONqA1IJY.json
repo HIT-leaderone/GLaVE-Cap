@@ -1,0 +1,2449 @@
+{
+    "scene_hint": {
+        "0": "身着橙色服装的球员将足球踢出。",
+        "1": "镜头跟随足球移动，一位球员成功进球得分。",
+        "2": "球员进球后奔跑滑行庆祝，队友跑来将他压在身下。",
+        "3": "观众们摇晃手中物品，热烈欢呼。",
+        "4": "队员们陆续起身，球员双手掩面。",
+        "5": "观众们摇晃衣服或旗帜欢呼庆贺。",
+        "6": "队员们围成一团，图案出现。",
+        "7": "视觉扩大，捕捉球员和足球运动轨迹。",
+        "8": "在球门附近的集中特写，捕捉球员进球。",
+        "9": "镜头聚焦到球员个人，捕捉球员进球。",
+        "10": "镜头转变隔着球网观察球员进球。",
+        "11": "蓝色背景和文字出现，标志着视频结束。"
+    },
+    "qa": {
+        "ByUONqA1IJY_0": {
+            "id": "ByUONqA1IJY_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "足球比赛在哪里进行？",
+            "options": [
+                "A. 足球比赛在野外天然草地上进行。",
+                "B. 足球比赛在海边的沙滩上进行。",
+                "C. 足球比赛在专业足球绿地上进行。",
+                "D. 足球比赛在篮球馆内进行。"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_1": {
+            "id": "ByUONqA1IJY_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "足球比赛期间的环境条件是什么？",
+            "options": [
+                "A. 环境条件是夜间比赛，有人工照明，草地干燥。",
+                "B. 环境条件是有浓雾，场地维护不佳。",
+                "C. 环境条件是光线清晰，草皮修剪整齐。",
+                "D. 环境条件是暴雨期间，场地泥泞。"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_2": {
+            "id": "ByUONqA1IJY_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "守门员穿着什么？",
+            "options": [
+                "A. 守门员穿着鲜艳的橙色制服、霓虹粉色球鞋和黄色手套。",
+                "B. 守门员穿着带有蓝色细节的白色制服，黑色球鞋和没有任何细节的手套。",
+                "C. 守门员穿着绿色制服配红色短裤、橙色球鞋和蓝色手套。",
+                "D. 守门员穿着黑色制服、白色短裤、银色球鞋和红色手套。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_3": {
+            "id": "ByUONqA1IJY_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "守门员的球衣上的什么显示了他的身份？",
+            "options": [
+                "A. 球衣上显示的是“STERLING”和号码“7”，表明球员的身份。",
+                "B. 球衣背面显示的是名字“F. MUSLERA”和号码“1”，显示了他身份。",
+                "C. 球衣上写着名字“STURRIDGE”和号码“2”，显示了球员的身份。",
+                "D. 球衣上没有名字或号码，没有透露关于球员身份的细节。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_4": {
+            "id": "ByUONqA1IJY_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "穿着白色球衣的球员袖子上能看到什么？",
+            "options": [
+                "A. 白色球衣的左袖上可以看到一个带有绿色的小徽标。",
+                "B. 白色球衣的左袖上印有数字“7”。",
+                "C. 白色球衣的左袖上可以看到一条红色条纹。",
+                "D. 白色球衣的左袖上印有国际足联（FIFA）徽标。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_5": {
+            "id": "ByUONqA1IJY_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "视频一开始能看到多少名球员？",
+            "options": [
+                "A. 两名球员",
+                "B. 三名球员",
+                "C. 一名球员",
+                "D. 四名球员"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_6": {
+            "id": "ByUONqA1IJY_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "背景中能看到“FIFA”这个词吗？",
+            "options": [
+                "A. 是的，背景中能看到“FIFA”这个词。",
+                "B. 不，背景中看不到“FIFA”这个词。",
+                "C. 背景中只能看到“FIFA”这个词的一部分。",
+                "D. “FIFA”这个词只在球员的制服上可见。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_7": {
+            "id": "ByUONqA1IJY_7",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "守门员在接下来的画面中做了什么动作？",
+            "options": [
+                "A. 守门员做了一个踢球动作，将球带下场。",
+                "B. 守门员进行了一个头球动作，因为球飞向对方。",
+                "C. 守门员做了一个投球动作，将足球踢出。",
+                "D. 守门员进行了一个防守拦截动作，因为球接近球门区域。"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_8": {
+            "id": "ByUONqA1IJY_8",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "守门员在投掷动作中是如何表现的？",
+            "options": [
+                "A. 守门员在投掷过程显得庄重而稳定。",
+                "B. 守门员在投掷动作中将球在空中抛来抛去。。",
+                "C. 守门员在投掷过程过程中显得心不在焉。",
+                "D. 守门员站着不动，没有完成投掷动作。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_9": {
+            "id": "ByUONqA1IJY_9",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "守门员扔出足球之后，足球的轨迹是什么样的？",
+            "options": [
+                "A. 足球的轨迹远离守门员。",
+                "B. 足球的轨迹弯向守门员。",
+                "C. 足球直接向下移动。",
+                "D. 足球在原地旋转且不移动。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_10": {
+            "id": "ByUONqA1IJY_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "在这个场景中使用了什么样的摄像机角度？",
+            "options": [
+                "A. 摄像机角度略微抬高并呈对角线位置。",
+                "B. 摄像机直接位于守门员的后面。",
+                "C. 摄像机角度与球员齐平，并与球场平行。",
+                "D. 摄像机位于高处，垂直向下俯视球场。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_11": {
+            "id": "ByUONqA1IJY_11",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "摄像机角度对动作视觉呈现的影响是什么？",
+            "options": [
+                "A. 它提供了一个特写视角，专注于守门员的动作。",
+                "B. 它提供了一个中距离视角，捕捉了球员之间的互动，同时保持对球运动的关注。",
+                "C. 它呈现了一个广角视角，使得难以看清个人球员及其动作。",
+                "D. 它捕捉了一个俯视视角，突出展示整体场地布局，但缺乏对球员动作的细节。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_12": {
+            "id": "ByUONqA1IJY_12",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉线索表明白色球员在移动？",
+            "options": [
+                "A. 他的白色球衣在风中飘动。",
+                "B. 他的双手摆动和对足球的关注。",
+                "C. 他穿着鲜艳的粉色足球鞋。",
+                "D. 球员站着不动，等待球的到来。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_13": {
+            "id": "ByUONqA1IJY_13",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "视频中哪个视觉元素强化了足球比赛的官方背景？",
+            "options": [
+                "A. 右上角的“FIFA”标志强化了比赛的官方背景。",
+                "B. 球员右袖上的绿色标志强化了比赛的官方背景。",
+                "C. 球员球衣上的“FIFA”字样强化了比赛的官方背景。",
+                "D. 场地上的绿色和黄色设计强化了比赛的官方背景。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_14": {
+            "id": "ByUONqA1IJY_14",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "从视频来看，进球后守门员相对于球门的位置在哪里？",
+            "options": [
+                "A. 守门员位于球门右边。",
+                "B. 守门员位于球门中央。",
+                "C. 守门守位于球门左边。",
+                "D. 守门员在禁区外。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_15": {
+            "id": "ByUONqA1IJY_15",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "在进球后，整个场景的氛围如何？",
+            "options": [
+                "A. 气氛热闹欢腾，人群爆发出庆祝，举起双臂、挥舞横幅、充满喜悦。",
+                "B. 气氛紧张和沉重，球员愤怒地反应，人群表现出失望。",
+                "C. 氛围安静而沉思，两支球队冷静地回到各自的位置。",
+                "D. 氛围混乱而无序，球迷和球员在场上发生冲突。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_16": {
+            "id": "ByUONqA1IJY_16",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "进球后的门框附近的守门员如何反应？",
+            "options": [
+                "A. 守门员跑向其他防守球员以提供支持。",
+                "B. 守门员双手卧地蹲在在球门附近。",
+                "C. 守门员向队友示意集合准备下一个回合。",
+                "D. 守门员走向裁判抗议进球。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_17": {
+            "id": "ByUONqA1IJY_17",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "进球之后足球在哪里？",
+            "options": [
+                "A. 足球嵌在球网上。",
+                "B. 足球在守门员那里。",
+                "C. 足球在中场线附近。",
+                "D. 足球弹出球框。"
+            ],
+            "answer": "D"
+        },
+        "ByUONqA1IJY_18": {
+            "id": "ByUONqA1IJY_18",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "在进球时这一场景中，有多少名穿白色服装球员被描述到？",
+            "options": [
+                "A. 一名。",
+                "B. 两名。",
+                "C. 三名。",
+                "D. 四名。"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_19": {
+            "id": "ByUONqA1IJY_19",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "画面中是否可以看到FIFA标志？",
+            "options": [
+                "A. 是的，FIFA标志出现在画面右上角。",
+                "B. 不，FIFA标志在这一场景中不可见。",
+                "C. 是的，FIFA标志出现在球员的球衣上。",
+                "D. 不，FIFA标志只出现在广告牌上。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_20": {
+            "id": "ByUONqA1IJY_20",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "进球得分后，守门员会采取了什么行动？",
+            "options": [
+                "A. 守门员在球门附近，沮丧的低着头。",
+                "B. 守门员跳起来，向裁判抗议这个进球。",
+                "C. 守门员沮丧地倒在地上，用手捂住脸。",
+                "D. 守门员冲向他的后卫，讨论下一轮比赛的策略。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_21": {
+            "id": "ByUONqA1IJY_21",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "从视频来看在球员即将进球时，他们的移动方向是怎样的？",
+            "options": [
+                "A. 他们从右往左奔跑",
+                "B. 他们从左往右奔跑",
+                "C. 他们从下往上奔跑",
+                "D. 他们从上向下奔跑"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_22": {
+            "id": "ByUONqA1IJY_22",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "摄像机是如何捕捉进球后的瞬间的？",
+            "options": [
+                "A. 摄像机从多个角度捕捉进球，重点关注守门员的反应。",
+                "B. 摄像机切换到进攻球员的特写，忽略观众的反应。",
+                "C. 摄像机保持相对固定的角度，全面呈现进球、球员反应以及球门后方热情的观众。",
+                "D. 摄像机横扫整个体育场，突显广告牌和赞助商。"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_23": {
+            "id": "ByUONqA1IJY_23",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "防守队员的冲刺速度表明了什么？",
+            "options": [
+                "A. 防守队员的冲刺表明比赛紧张且节奏激烈。",
+                "B. 防守队员的冲刺表明缺乏意识和随意的动作。",
+                "C. 防守队员的冲刺反映了对进球的庆祝行为。",
+                "D. 防守队员的冲刺暗示有意离开比赛区域。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_24": {
+            "id": "ByUONqA1IJY_24",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在进球后，电子牌上有哪些赞助商的标志？",
+            "options": [
+                "A. '耐克（Nike）'，'百事可乐（Pepsi）' 和 '三星（Samsung）'",
+                "B. '#BRASILBEYOND'，'伊塔乌银行（ltaú）' 和 'WISEUP.COM'",
+                "C. '可口可乐（Coca-Cola）'，'阿迪达斯（Adidas）' 和 '索尼（Sony）'",
+                "D. '嘉士伯（Carlsberg）'，'阿联酋航空（Emirates）' 和 '俄罗斯天然气工业股份公司（Gazprom）'"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_25": {
+            "id": "ByUONqA1IJY_25",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "哪个标志确认了该游戏与全球足球组织的关联？",
+            "options": [
+                "A. 'FIFA'标志确认了该游戏与全球足球组织的关联。",
+                "B. 'UEFA'标志确认了该游戏与全球足球组织的关联。",
+                "C. 'Coca-Cola'标志确认了该游戏与全球足球组织的关联。",
+                "D. 'Itaú'标志确认了该游戏与全球足球组织的关联。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_26": {
+            "id": "ByUONqA1IJY_26",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "从视频来看，球员在进球后，从球门哪个位置跑出球场？",
+            "options": [
+                "A. 从球门左侧跑出",
+                "B. 从球门右侧跑出",
+                "C. 从球门正前方跑出。",
+                "D. 球员未经过球门。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_27": {
+            "id": "ByUONqA1IJY_27",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "在庆祝时，这名足球运动员的情感反应是什么？",
+            "options": [
+                "A. 这名足球运动员的情感反应是激动且强烈的。",
+                "B. 这名足球运动员的情感反应是冷静且克制的。",
+                "C. 这名足球运动员的情感反应是困惑且不确定的。",
+                "D. 这名足球运动员的情感反应是冷漠且不感兴趣的。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_28": {
+            "id": "ByUONqA1IJY_28",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "足球运动员的庆祝动作是如何变化的？",
+            "options": [
+                "A. 球员的动作从一个'V'字形的手指动作然后五指逐渐张开。",
+                "B. 球员的动作从挥动双臂变为将双臂交叉在胸前。",
+                "C. 球员的动作从一个'V'字形的手指动作演变为将双手在头顶上方拍掌。",
+                "D. 球员的动作从一个'V'字形的手指动作变为用双臂指向球门柱。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_29": {
+            "id": "ByUONqA1IJY_29",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "热烈庆祝的足球运动员穿的球衣是什么颜色？",
+            "options": [
+                "A. 球衣是浅蓝色。",
+                "B. 球衣是绿色。",
+                "C. 球衣是黑色。",
+                "D. 球衣是白色。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_30": {
+            "id": "ByUONqA1IJY_30",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "热烈庆祝的足球运动员所穿球衣上的号码是什么？",
+            "options": [
+                "A. 数字'7'",
+                "B. 数字'10'",
+                "C. 数字'9'",
+                "D. 数字'11'"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_31": {
+            "id": "ByUONqA1IJY_31",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "这位足球运动员的球衣上有什么？",
+            "options": [
+                "A. 球衣上有一个白色徽章。",
+                "B. 球衣上有一个金色星形徽章。",
+                "C. 球衣上有一个红色圆形补丁。",
+                "D. 球衣上有一条黑色对角线条纹。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_32": {
+            "id": "ByUONqA1IJY_32",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "这位足球运动员穿的短裤是什么颜色的？",
+            "options": [
+                "A. 短裤是黑色的。",
+                "B. 短裤是白色的。",
+                "C. 短裤是红色的。",
+                "D. 短裤是蓝色的。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_33": {
+            "id": "ByUONqA1IJY_33",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "这个足球运动员有佩戴什么配饰吗？",
+            "options": [
+                "A. 足球运动员手腕上戴着黑色腕带。",
+                "B. 足球运动员戴着头带。",
+                "C. 足球运动员的胸前佩戴着一个白色徽章。",
+                "D. 足球运动员穿着一件荧光黄色的夹克。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_34": {
+            "id": "ByUONqA1IJY_34",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "在球员被队友压住之后，靠近边界的摄影师是否可见？",
+            "options": [
+                "A. 是的，靠近边界的摄影师清晰可见。",
+                "B. 不，靠近边界的摄影师不再可见。",
+                "C. 是的，但摄影师模糊难以看清。",
+                "D. 不可见，但摄影师已经后退。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_35": {
+            "id": "ByUONqA1IJY_35",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "在这个场景中，观众参与了什么行动？",
+            "options": [
+                "A. 观众安静地坐着。",
+                "B. 观众参与了庆祝。",
+                "C. 观众离开了体育场。",
+                "D. 观众对球员发出嘘声。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_36": {
+            "id": "ByUONqA1IJY_36",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "使用什么镜头来捕捉球员的庆祝和更广泛的比赛元素？",
+            "options": [
+                "A. 使用广角镜头。",
+                "B. 使用特写镜头。",
+                "C. 使用俯拍镜头。",
+                "D. 使用低角度镜头。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_37": {
+            "id": "ByUONqA1IJY_37",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "广告牌上可以看到什么文本？",
+            "options": [
+                "A. WISEUP.COM",
+                "B. SCOREBOARDS.COM",
+                "C. PLAYNOW.NET",
+                "D. SPORTSZONE.CO"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_38": {
+            "id": "ByUONqA1IJY_38",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "从视频来看，这位球员在庆祝滑跪时位于哪里?",
+            "options": [
+                "A. 在前景右边缘的地方",
+                "B. 在前景稍微靠左的地方",
+                "C. 在背景中央",
+                "D. 在背景左侧"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_39": {
+            "id": "ByUONqA1IJY_39",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "庆祝滑跪结束时球员位于哪里？",
+            "options": [
+                "A. 靠近球场中央",
+                "B. 靠近对方球门",
+                "C. 靠近球场边线",
+                "D. 靠近禁区"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_40": {
+            "id": "ByUONqA1IJY_40",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频场景的背景是什么？",
+            "options": [
+                "A. 场景发生在一个有木质地板的篮球场上。",
+                "B. 场景发生在一个草地葱郁的足球场上。",
+                "C. 场景发生在一个有粘土表面的网球场上。",
+                "D. 场景发生在一个清澈见底的游泳池中。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_41": {
+            "id": "ByUONqA1IJY_41",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频场景还有哪些附加特点？",
+            "options": [
+                "A. 场景特点是一座座无虚席的足球场，有色彩斑斓、欢呼雀跃的人群。",
+                "B. 场景特点是一座空荡荡的足球场，观众寂静无声。",
+                "C. 场景发生在一个安静、偏僻且没有观众的训练场。",
+                "D. 视频展示了一小群人在观看一场本地比赛。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_42": {
+            "id": "ByUONqA1IJY_42",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "足球比赛中的主要球员在边线附近庆祝时首先做了什么？",
+            "options": [
+                "A. 主要球员双膝跪地滑过草地，双臂张开。",
+                "B. 主要球员朝观众跑去，并在空中挥拳庆祝。",
+                "C. 主要球员跳入空中，并旋转庆祝。",
+                "D. 主要球员跪下，双手拍掌，同时仰视天空。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_43": {
+            "id": "ByUONqA1IJY_43",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "体育场内的观众被清晰展示了吗？",
+            "options": [
+                "A. 是的，观众展示得很清楚，他们的面孔也很清晰。",
+                "B. 不，观众看起来有点模糊，形成了一个动态活动的整体。",
+                "C. 是的，观众在欢呼，高举横幅。",
+                "D. 不，描述中根本没有展示观众。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_44": {
+            "id": "ByUONqA1IJY_44",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "球员在庆祝滑跪开始时他的手采取了什么姿势？",
+            "options": [
+                "A. 球员将右手食指和中指贴在嘴唇上。",
+                "B. 球员挺直跪立，双手举起。",
+                "C. 球员保持跪姿，双臂张开。",
+                "D. 球员后仰，双手盖住脸。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_45": {
+            "id": "ByUONqA1IJY_45",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "在运动员趴下时摄像机的位置有什么效果？",
+            "options": [
+                "A. 摄像机的位置靠近地面，增强了球员动作和情感的戏剧性。",
+                "B. 摄像机的位置在看台高处，提供了整个场地的全景视野。",
+                "C. 摄像机的位置在球门后面，专注于守门员的反应。",
+                "D. 摄像机的位置直接在球员上方，提供了场景的鸟瞰图。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_46": {
+            "id": "ByUONqA1IJY_46",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "在运动员趴下时摄像机角度的效果是什么？",
+            "options": [
+                "A. 摄像机向下倾斜，聚焦在草地而不是球员身上。",
+                "B. 摄像机略微向上倾斜，将热闹的体育场作为生动的背景。",
+                "C. 摄像机保持水平，只关注球员的服装。",
+                "D. 摄像机侧向倾斜，以全景捕捉整个体育场。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_47": {
+            "id": "ByUONqA1IJY_47",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素有助于识别事件的重要性？",
+            "options": [
+                "A. “FIFA”标志、电子广告横幅等该事件的全球性与商业背景。",
+                "B. 球员的球衣和数字“9”突出了事件的体育背景。",
+                "C. 人群的存在和体育场的灯光突出事件的欢乐氛围。",
+                "D. 球员的庆祝动作和滑跪动作突出了事件的情感强度。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_48": {
+            "id": "ByUONqA1IJY_48",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "在集体庆祝堆中，进球足球运动员的位置在哪？",
+            "options": [
+                "A. 足球运动员位于集体堆的最底层。",
+                "B. 足球运动员站在集体堆的正中央。",
+                "C. 足球运动员仰面躺在集体堆的最顶端。",
+                "D. 足球运动员围绕着集体堆跑动。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_49": {
+            "id": "ByUONqA1IJY_49",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "在集体庆祝活动中，球员所穿鞋的显著特征是什么？",
+            "options": [
+                "A. 球员们穿着鲜艳颜色的鞋，比如黄色蓝色。",
+                "B. 球员们穿着纯白色的鞋，没有其他颜色。",
+                "C. 球员们穿着深色调的鞋，比如黑色和棕色。",
+                "D. 球员们穿着完全浅蓝色、没有图案的鞋。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_50": {
+            "id": "ByUONqA1IJY_50",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "穿21号球衣的球员在庆祝活动中做了什么动作？",
+            "options": [
+                "A. 穿21号球衣的球员走近队伍，并将手朝球员堆伸去。",
+                "B. 穿21号球衣的球员跳到球员堆的顶上。",
+                "C. 穿21号球衣的球员站在远处向人群挥手。",
+                "D. 穿21号球衣的球员坐在草地上，从远处观看庆祝活动。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_51": {
+            "id": "ByUONqA1IJY_51",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "从视频来看，穿着橙棕色夹克的队友是从哪个方向接近团体堆的？",
+            "options": [
+                "A. 穿着橙棕色夹克的队友从画面左侧出现接近团体堆。",
+                "B. 穿着橙棕色夹克的队友从画面右侧出现接近团体堆。",
+                "C. 穿着橙棕色夹克的队友从后面出现接近团体堆。",
+                "D. 穿着橙棕色夹克的队友从上面出现接近团体堆。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_52": {
+            "id": "ByUONqA1IJY_52",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "从视频来看，编号 '21' 的球员在哪里？",
+            "options": [
+                "A. 在画面的左侧。",
+                "B. 在堆的中央。",
+                "C. 在画面的右侧。",
+                "D. 在接近边线的队伍后面。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_53": {
+            "id": "ByUONqA1IJY_53",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频场景中正在发生什么活动？",
+            "options": [
+                "A. 球员们组成人体堆欢呼庆祝。",
+                "B. 球员们静静地站在一个圈内。",
+                "C. 球员们正在进行一场激烈的比赛。",
+                "D. 球员们慢慢离开场地。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_54": {
+            "id": "ByUONqA1IJY_54",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频场景中有哪些显著的物体或特征？",
+            "options": [
+                "A. 场景包括白色边界线、电子牌、FIFA标志等。",
+                "B. 场景包括计分板、球门网、扬声器和队旗。",
+                "C. 场景包括奖杯领奖台、彩纸、DJ台和庆祝烟花。",
+                "D. 场景包括摄制组、举着奖杯的裁判、长椅和医疗车。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_55": {
+            "id": "ByUONqA1IJY_55",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "身穿亮橙色袜子和荧光黄色足球鞋的球员表现如何？",
+            "options": [
+                "A. 球员退后观看庆祝活动。",
+                "B. 球员猛力跳入人群并在堆中占据突出位置。",
+                "C. 球员平静地走出场地。",
+                "D. 球员站在堆旁向观众示意。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_56": {
+            "id": "ByUONqA1IJY_56",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "从视频来看，球员们主要从哪个方向加入庆祝堆？",
+            "options": [
+                "A. 他们从右侧区域加入。",
+                "B. 他们从左侧区域加入。",
+                "C. 他们从后侧区域加入。",
+                "D. 他们从前侧区域加入。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_57": {
+            "id": "ByUONqA1IJY_57",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "穿棕色背心的球员是否参与了庆祝堆？",
+            "options": [
+                "A. 是的",
+                "B. 不是",
+                "C. 从描述中不清楚",
+                "D. 球员已经离开现场"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_58": {
+            "id": "ByUONqA1IJY_58",
+            "scene": 2,
+            "dimension": "Speed",
+            "question": "关于球员们加入堆的步调可以说些什么？",
+            "options": [
+                "A. 球员们是快速且充满活力地加入堆中。",
+                "B. 球员们是缓慢而谨慎地加入堆中。",
+                "C. 球员们是避开堆并各自庆祝。",
+                "D. 球员们是犹豫且试探性地加入堆中。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_59": {
+            "id": "ByUONqA1IJY_59",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "观众在体育场的什么位置？",
+            "options": [
+                "A. 观众分布在整个体育场。",
+                "B. 观众主要集中在靠近大门的下层区域。",
+                "C. 观众只在远离场地的上层看台。",
+                "D. 观众主要位于体育场的中间区域。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_60": {
+            "id": "ByUONqA1IJY_60",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "这一场景的主要焦点是什么？",
+            "options": [
+                "A. 焦点是球员们在场上庆祝。",
+                "B. 焦点是教练们在给指示。",
+                "C. 焦点是体育场的观众。",
+                "D. 焦点是体育场的建筑。"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_61": {
+            "id": "ByUONqA1IJY_61",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "人群中的支持者正在用旗子做什么？",
+            "options": [
+                "A. 他们在挥舞旗子。",
+                "B. 他们在扔旗子。",
+                "C. 他们在折叠旗子。",
+                "D. 他们在藏旗子。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_62": {
+            "id": "ByUONqA1IJY_62",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "人群中的支持者拿着横幅在做什么？",
+            "options": [
+                "A. 他们正在拿着横幅抖动、挥舞横幅。",
+                "B. 他们正在把横幅扔到场地上。",
+                "C. 他们手拿横幅坐在座位上没动。",
+                "D. 他们正在撕毁横幅。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_63": {
+            "id": "ByUONqA1IJY_63",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "在人群中的支持者在进行什么样的肢体动作？",
+            "options": [
+                "A. 他们安静地坐着。",
+                "B. 他们在跳跃和做手势。",
+                "C. 他们在挥舞旗帜和举着横幅。",
+                "D. 他们正离开体育场。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_64": {
+            "id": "ByUONqA1IJY_64",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "人群中的支持者在展示什么情感？",
+            "options": [
+                "A. 他们在展示热情洋溢的喜悦。",
+                "B. 他们在展示沉静的思考。",
+                "C. 他们在展示愤怒和沮丧。",
+                "D. 他们在展示冷漠和无聊。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_65": {
+            "id": "ByUONqA1IJY_65",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景转向观众画面中有哪些视觉元素？",
+            "options": [
+                "A. 部分可见的“FIFA”文字和标志",
+                "B. 点亮天空的烟花",
+                "C. 显示最终比分的大型记分牌",
+                "D. 悬停在人群上方的摄像无人机"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_66": {
+            "id": "ByUONqA1IJY_66",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "人群的服装主要由什么颜色主导？",
+            "options": [
+                "A. 蓝色",
+                "B. 白色",
+                "C. 黄色",
+                "D. 紫色"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_67": {
+            "id": "ByUONqA1IJY_67",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "视频中的过渡是否全程聚焦于球员的庆祝场面？",
+            "options": [
+                "A. 是的，视频只聚焦于球员的庆祝。",
+                "B. 不，过渡的焦点从球员的庆祝转移到了热情的观众。",
+                "C. 是的，全场景中球员都在庆祝，没有其他焦点。",
+                "D. 不是，视频只聚焦于FIFA徽标及其与赛事的关联。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_68": {
+            "id": "ByUONqA1IJY_68",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "看台上的观众们为赛事的气氛做什么贡献？",
+            "options": [
+                "A. 观众们挥舞着旗帜，举着横幅，原地跳跃，并做出各种庆祝手势。",
+                "B. 观众们安静地坐着观看比赛，几乎没有什么动作。",
+                "C. 观众们戴着耳机，专心读书。",
+                "D. 观众们座椅倾斜，安静地睡觉。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_69": {
+            "id": "ByUONqA1IJY_69",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "用什么类型的摄像角度来捕捉人群的活力？",
+            "options": [
+                "A. 使用广角视角来捕捉密集的人群和庆祝活动的规模。",
+                "B. 使用特写视角来聚焦人群中的个体表情。",
+                "C. 使用鸟瞰视角从上方展示整个体育场。",
+                "D. 使用鱼眼镜头来创造人群的扭曲视角。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_70": {
+            "id": "ByUONqA1IJY_70",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "从球员的特写镜头过渡到观众时使用了哪种类型的摄像镜头？",
+            "options": [
+                "A. 使用了一个广角扫摄镜头。",
+                "B. 使用了一个单个观众的特写镜头。",
+                "C. 使用了一个从球员到观众的旋转镜头。",
+                "D. 使用了一个对球队横幅的拉近镜头。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_71": {
+            "id": "ByUONqA1IJY_71",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "挥舞的旗帜和挥手的粉丝的动作速度是如何展现的？",
+            "options": [
+                "A. 动作被描绘得生动且富有活力，与庆祝的能量相匹配。",
+                "B. 动作被描述为缓慢而低沉，与庆祝气氛形成对比。",
+                "C. 动作被刻画为混乱且无序，削弱了活动的能量。",
+                "D. 动作被描绘为非常少甚至几乎静止，突出了那一刻的宁静。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_72": {
+            "id": "ByUONqA1IJY_72",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "当画面的焦点从球员转移时，场景发生了什么关键变化?",
+            "options": [
+                "A. 场景从球员亲密庆祝的特写变为广角视角下宽广而充满活力的人群。",
+                "B. 场景从球员的庆祝转变为空旷的体育场景象。",
+                "C. 场景从场上的戏剧性时刻转变为球队替补席的宁静画面。",
+                "D. 场景从球员的庆祝变为关注场地标记和球门。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_73": {
+            "id": "ByUONqA1IJY_73",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "从视频来看，画面中出现的黄色旗帜位于哪个位置？",
+            "options": [
+                "A. 从画面右侧出现从右侧消失",
+                "B. 从画面左侧出现从左侧消失",
+                "C. 从画面右侧出现并未消失",
+                "D. 从画面右侧出现从左侧消失"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_74": {
+            "id": "ByUONqA1IJY_74",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "庆祝活动场景的环境是什么样的？",
+            "options": [
+                "A. 场景在足球场上，充满了庆祝和激动的气氛，球员们聚在一起，背景中是模糊的观众人群。",
+                "B. 场景在更衣室里，光线昏暗，球员们彼此分散地坐着，静静地沉思。",
+                "C. 场景在城市街道上，粉丝们围绕着游行花车在五彩纸屑和喧闹的音乐中庆祝。",
+                "D. 场景在训练场上，球员们在没有观众的安静氛围中进行练习。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_75": {
+            "id": "ByUONqA1IJY_75",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "其他球员起身时，最底部的球员做了什么样的动作？",
+            "options": [
+                "A. 球员躺在草地上面向天空，双手掩面。",
+                "B. 球员从草地上直立站起，双臂抬起。",
+                "C. 球员坐在地上，双臂交叉。",
+                "D. 球员向后倾斜，双臂伸展。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_76": {
+            "id": "ByUONqA1IJY_76",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "在球员们穿着的棕色马甲上可以看到什么标志？",
+            "options": [
+                "A. 'Olympic Games'",
+                "B. 'FIFA World Cup Brazil'",
+                "C. 'UEFA Champions League'",
+                "D. 'Premier League'"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_77": {
+            "id": "ByUONqA1IJY_77",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "该场景中一共提到了多少名身穿浅蓝色球衣的球员？",
+            "options": [
+                "A. 六名",
+                "B. 七名",
+                "C. 八名",
+                "D. 九名"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_78": {
+            "id": "ByUONqA1IJY_78",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "这一场景中是否有穿着黄色球鞋的球员？",
+            "options": [
+                "A. 是的，有穿黄色球鞋的球员。",
+                "B. 不，没有穿黄色球鞋的球员。",
+                "C. 没有球员未穿着任何球鞋。",
+                "D. 不，这个场景中没有任何球员出现。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_79": {
+            "id": "ByUONqA1IJY_79",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "这一场景中，号码为'21'的球员在做了什么动作？",
+            "options": [
+                "A. 号码为'21'的球员躬身查看最底部的运动员。",
+                "B. 号码为'21'的球员深深弯腰，把精力集中在队伍中心。",
+                "C. 号码为'21'的球员向后靠，脱离战术讨论。",
+                "D. 号码为'21'的球员绕着讨论圈跑，大声欢呼。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_80": {
+            "id": "ByUONqA1IJY_80",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "从视频来看，号码“21”的球员什么方向？",
+            "options": [
+                "A. “21”号球员位于画面最左侧",
+                "B. “21”号球员位于画面最右侧",
+                "C. “21”号球员位于集体居中位置",
+                "D. “21”号球员未出现在画面中"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_81": {
+            "id": "ByUONqA1IJY_81",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "这一场景采用哪种类型的镜头来强调球员们的参与？",
+            "options": [
+                "A. 使用缩放镜头来突出球员们的个人和集体参与。",
+                "B. 使用广角镜头来捕捉整个场地和球员。",
+                "C. 使用特写镜头来聚焦于单个球员的面部表情。",
+                "D. 使用航拍镜头来从上方展示体育场。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_82": {
+            "id": "ByUONqA1IJY_82",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "随着场景的推进，聚集的密度如何变化？",
+            "options": [
+                "A. 整个场景中聚集的密度保持不变。",
+                "B. 随着更多球员加入并融入团队，聚集的密度增加。",
+                "C. 随着球员离开团队，聚集的密度减少。",
+                "D. 随着球员进出团队，聚集的密度波动。"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_83": {
+            "id": "ByUONqA1IJY_83",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "号码“11”的球员穿着什么？",
+            "options": [
+                "A. 淡蓝色上衣，黑色短裤，黑蓝色及膝袜",
+                "B. 淡蓝色上衣，黑色短裤，橙白色袜子",
+                "C. 蓝色夹克，橙色袜子，紫色鞋子和手套",
+                "D. 淡粉色足球鞋，黑色短裤，青色鞋子"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_84": {
+            "id": "ByUONqA1IJY_84",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "在体育场周围有哪些物品表明了赞助商的存在？",
+            "options": [
+                "A. 明亮的计分板",
+                "B. 五彩缤纷的球迷横幅",
+                "C. 场馆周边的广告和文字",
+                "D. 观众的座位排列"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_85": {
+            "id": "ByUONqA1IJY_85",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "这一场景中可以看到“ltaú”标志吗？",
+            "options": [
+                "A. 是的，可以完整看到",
+                "B. 是的，只能看到部分",
+                "C. 不，没有出现该标志",
+                "D. 不，场景模糊不能判断"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_86": {
+            "id": "ByUONqA1IJY_86",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "这场景中有球员戴着手套吗？",
+            "options": [
+                "A. 是的，有两名球员戴着手套。",
+                "B. 不，没有球员戴着手套。",
+                "C. 是的，所有球员都戴着手套。",
+                "D. 是的，有一名球员戴着手套。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_87": {
+            "id": "ByUONqA1IJY_87",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "背景中的电子横幅上显著显示了什么内容？",
+            "options": [
+                "A. 横幅上显著显示的是黄色字体配蓝色背景的'ltaú'。",
+                "B. 横幅上显著显示的是白色字体配黑色背景的'Nike'。",
+                "C. 横幅上显著显示的是黑色字体配白色背景的'Adidas'。",
+                "D. 横幅上显著显示的是红色字体配黄色背景的'Puma'。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_88": {
+            "id": "ByUONqA1IJY_88",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "球员21号是否位于画面中心附近？",
+            "options": [
+                "A. 是的，球员21号位于画面中心附近。",
+                "B. 不，球员21号位于画面右边缘附近。",
+                "C. 是的，球员21号位于中心附近，与主要队伍互动。",
+                "D. 不，球员21号位于画面左边缘附近。"
+            ],
+            "answer": "D"
+        },
+        "ByUONqA1IJY_89": {
+            "id": "ByUONqA1IJY_89",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素表明了该事件的宏大背景？",
+            "options": [
+                "A. 鲜明的'Itaú'赞助商横幅、生机盎然的绿色场地和明亮的体育场灯光表明了该事件的宏大背景。",
+                "B. 拥挤的看台和生机勃勃的绿色场地暗示这是一个盛大的事件。",
+                "C. 球员们的热烈庆祝以及一名穿着鲜艳服装的裁判的存在表明了一个宏大的背景。",
+                "D. 场上大量的球员和明亮的体育场灯光表明了这是一个重要的事件。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_90": {
+            "id": "ByUONqA1IJY_90",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "穿着荧光黄色足球鞋的球员位于哪里？",
+            "options": [
+                "A. 他们位于画面的右边缘。",
+                "B. 他们位于画面的中央。",
+                "C. 他们位于画面的左边缘。",
+                "D. 他们位于穿浅蓝色短裤的球员旁边。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_91": {
+            "id": "ByUONqA1IJY_91",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "号码“20”的球员的鞋子有什么特点？",
+            "options": [
+                "A. 球员穿了一只粉色和一只蓝色的球鞋",
+                "B. 球员穿着一双亮橙色的球鞋",
+                "C. 球员穿着一双蓝色的球鞋",
+                "D. 球员穿着一只白色和一只蓝色的球鞋。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_92": {
+            "id": "ByUONqA1IJY_92",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "队友们起身时戴着白色手套的球员在做什么？",
+            "options": [
+                "A. 球员正在弯腰，将另一名队员扶起。",
+                "B. 球员直立，双臂交叉。",
+                "C. 球员平躺在地上，向上看。",
+                "D. 球员正在朝场地中央跑去。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_93": {
+            "id": "ByUONqA1IJY_93",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "在初始场景中，球员们围绕倒地的队友是什么位置？",
+            "options": [
+                "A. 球员们紧密围绕在倒地的队友周围。",
+                "B. 球员们散开，离倒地的队友较远。",
+                "C. 球员们站成一排，离倒地的队友有些距离。",
+                "D. 球员们围成一个圈，但离倒地的队友有一定距离。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_94": {
+            "id": "ByUONqA1IJY_94",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "镜头转向观众时，横幅上可以看到什么标志？",
+            "options": [
+                "A. “C.A. CERRO”",
+                "B. “Nike”",
+                "C. “FIFV”",
+                "D. “WISEUP.COM”"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_95": {
+            "id": "ByUONqA1IJY_95",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "观众们举着的横幅有什么特点？",
+            "options": [
+                "A. 横幅大多为蓝白条纹，顶部有黄色图案。",
+                "B. 横幅大多为浅蓝色，顶部有黄色图案。",
+                "C. 横幅大多为黄白条纹，白色部分有文字。",
+                "D. 横幅大多为纯白色，有文字显示。"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_96": {
+            "id": "ByUONqA1IJY_96",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "场景转向观众时，他们是怎样的？",
+            "options": [
+                "A. 他们是激动兴奋的",
+                "B. 他们是沮丧忧伤的",
+                "C. 他们是愤怒不满的",
+                "D. 他们是平静无波的"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_97": {
+            "id": "ByUONqA1IJY_97",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "画面中央显眼的观众正在做什么？",
+            "options": [
+                "A. 他将旗帜举起，来回晃动。",
+                "B. 他光着身子，用力挥舞衣服。",
+                "C. 他将双手放于嘴边，大声吼叫。",
+                "D. 他光着身子，用力挥舞旗帜。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_98": {
+            "id": "ByUONqA1IJY_98",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "这位光着身子的人挥舞的是一件什么颜色的衣服？",
+            "options": [
+                "A. 棕色的",
+                "B. 蓝色的",
+                "C. 黄色的",
+                "D. 白色的"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_99": {
+            "id": "ByUONqA1IJY_99",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "这位双手向上张开背对镜头身上披着黄色图案旗帜的人在什么位置？",
+            "options": [
+                "A. 在画面最右侧中间位置",
+                "B. 在画面最左侧中间位置",
+                "C. 在画面最顶部中间位置",
+                "D. 在画面最底部中间位置"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_100": {
+            "id": "ByUONqA1IJY_100",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "戴着手套的球员正在做什么？",
+            "options": [
+                "A. 球员将双手举向头顶。",
+                "B. 球员将双手搭在队友肩上。",
+                "C. 球员独自走向球场内部",
+                "D. 球员被旗帜遮挡，未观察到动作。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_101": {
+            "id": "ByUONqA1IJY_101",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "这个场景中可以观察到号码“9”的球员吗？",
+            "options": [
+                "A. 球员可以被清晰观察到",
+                "B. 球员被遮挡，只能看到10号球员",
+                "C. 球员被遮挡，未能观察到",
+                "D. 该场景中未出现任何球员"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_102": {
+            "id": "ByUONqA1IJY_102",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "从视频来看，号码“11”的球员正向哪个方向移动？",
+            "options": [
+                "A. 向右面移动",
+                "B. 向左面移动",
+                "C. 背对镜头向前移动",
+                "D. 球员原地站立"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_103": {
+            "id": "ByUONqA1IJY_103",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "画面中摄像机旁边站着的人看起来是怎么样色的？",
+            "options": [
+                "A. 他穿着黑色西装，拿着话筒，可能是主持人。",
+                "B. 他穿着黄色运动服，拿着口哨，可能是裁判员。",
+                "C. 他穿着黑色运动服，举着牌子，可能是工作人员。",
+                "D. 他穿着黑色休闲服，拿着本子，应该是记分员。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_104": {
+            "id": "ByUONqA1IJY_104",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "在这一场景中，球场周围电子屏幕有什么特征？",
+            "options": [
+                "A. 电子屏上颜色和文字完全统一",
+                "B. 电子屏上分成三种不同的颜色",
+                "C. 电子屏上的文字被橙色方块分隔",
+                "D. 电子屏上展示多个不同的广告"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_105": {
+            "id": "ByUONqA1IJY_105",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "这一场景即将结束时，画面中显示了什么数字？",
+            "options": [
+                "A. 2013",
+                "B. 2014",
+                "C. 2015",
+                "D. 2016"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_106": {
+            "id": "ByUONqA1IJY_106",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "场景结束时出现的标志画面中哪个位置显示？",
+            "options": [
+                "A. 画面居中位置显示",
+                "B. 画面偏左侧位置显示",
+                "C. 画面偏右侧位置显示",
+                "D. 该场景中未出现任何标志"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_107": {
+            "id": "ByUONqA1IJY_107",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "视频中描绘的环境是什么？",
+            "options": [
+                "A. 视频描绘了一场在宁静祥和环境中的网球比赛。",
+                "B. 视频描绘了一场在观众爆满的体育馆中激烈和充满竞争气氛的足球比赛。",
+                "C. 视频描绘了一场在客流量适中的室内球场进行的篮球比赛。",
+                "D. 视频描绘了一场在观众稀少的空旷场地进行的板球比赛。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_108": {
+            "id": "ByUONqA1IJY_108",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "关于球员的球衣可以观察到什么？",
+            "options": [
+                "A. 球员穿着橙色和绿色的球衣。",
+                "B. 球员穿着紫色和粉色的球衣。",
+                "C. 球员穿着黑色和白色的球衣。",
+                "D. 球员穿着蓝色和绿色的球衣。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_109": {
+            "id": "ByUONqA1IJY_109",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "关于球员的球衣可以观察到什么？",
+            "options": [
+                "A. 球员穿着蓝色和白色的球衣。",
+                "B. 球员穿着红色和黄色的球衣。",
+                "C. 球员穿着黑色和白色的球衣。",
+                "D. 球员穿着蓝色和绿色的球衣。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_110": {
+            "id": "ByUONqA1IJY_110",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "可以观察到球员在场上的哪些动作?",
+            "options": [
+                "A. 随着比赛的进行，球员们参与了各种阵型和动态动作。",
+                "B. 球员在比赛中全程站在指定位置不动。",
+                "C. 球员只专注于守卫自己的球门，没有形成战略阵型。",
+                "D. 球员随机散布在场上混乱地移动，没有明确的阵型或动作。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_111": {
+            "id": "ByUONqA1IJY_111",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "足球场自身的视觉元素有哪些？",
+            "options": [
+                "A. 足球场是绿色草坪，整个球场用白线标记。",
+                "B. 足球场是用人造草坪制成的，并用黄线标出了区块和球门。",
+                "C. 足球场是棕色的，只有在球门附近有褪色的标记。",
+                "D. 足球场是蓝色的，没有明确的区块或球门标记。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_112": {
+            "id": "ByUONqA1IJY_112",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "足球场周围有哪些视觉元素？",
+            "options": [
+                "A. 足球场周围有广告横幅。",
+                "B. 足球场周围是空荡荡的看台。",
+                "C. 足球场四周环绕着一片茂密的森林。",
+                "D. 足球场周围是跑道，而不是观众。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_113": {
+            "id": "ByUONqA1IJY_113",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "球场中显示有多少支队伍参加足球比赛？",
+            "options": [
+                "A. 一支队伍",
+                "B. 两支队伍",
+                "C. 三支队伍",
+                "D. 四支队伍"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_114": {
+            "id": "ByUONqA1IJY_114",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "这一场景中是否能看到FIFA标志？",
+            "options": [
+                "A. 能",
+                "B. 不能",
+                "C. 只有在特写镜头时",
+                "D. 只有在广角镜头时"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_115": {
+            "id": "ByUONqA1IJY_115",
+            "scene": 7,
+            "dimension": "Camera Direction",
+            "question": "当镜头向移动时，球员发生了什么变化？",
+            "options": [
+                "A. 穿白色衣服的球员大多开始奔跑，而穿蓝色衣服的球员则基本缓慢移动。",
+                "B. 双方队伍交换位置，白色衣服的队伍移动到场地的左侧。",
+                "C. 穿蓝色衣服的队伍占据场地的两个半场，把白色衣服的队伍压到他们的球门区。",
+                "D. 球员阵型完全消散，双方队伍准备进行中场休息。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_116": {
+            "id": "ByUONqA1IJY_116",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "什么类型的摄影镜头主要主导了这一段序列？",
+            "options": [
+                "A. 高角度、稍斜的广角镜头",
+                "B. 个别球员的特写镜头",
+                "C. 群众的极端特写镜头",
+                "D. 从场边低角度拍摄的镜头"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_117": {
+            "id": "ByUONqA1IJY_117",
+            "scene": 7,
+            "dimension": "Camera Direction",
+            "question": "这一场景中摄像机是怎样移动的？",
+            "options": [
+                "A. 摄像机移动快速且不稳定。",
+                "B. 摄像机移动平稳且稳定。",
+                "C. 摄像机移动缓慢且不规律。",
+                "D. 摄像机移动迅速且摇晃。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_118": {
+            "id": "ByUONqA1IJY_118",
+            "scene": 7,
+            "dimension": "Camera Direction",
+            "question": "当摄像机移动后空间视图会发生什么变化？",
+            "options": [
+                "A. 视图扩展，包含更多观众，镜头最后方观众逐渐消失在画面中。",
+                "B. 相机放大到个别球员，专注于特写动作场景。",
+                "C. 方向转向右侧，展示更多右侧观众，并使左侧观众脱离视野。",
+                "D. 相机角度变为地面视角，捕捉场边画面。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_119": {
+            "id": "ByUONqA1IJY_119",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "进球得分后球的位置在哪里？",
+            "options": [
+                "A. 球位于白色网的右下角。",
+                "B. 球位于白色网的左上角。",
+                "C. 球位于白色网的中央。",
+                "D. 球位于球门外靠近罚球区。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_120": {
+            "id": "ByUONqA1IJY_120",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "体育场横幅上显示了什么信息？",
+            "options": [
+                "A. 横幅上显示的信息有 'Itau,' 'WISEUP.com' '#BRASILBEYOND,' 和 'SAO PAULO.'",
+                "B. 横幅上显示的信息有 'Nike,' 'Adidas,' 和 'RIO DE JANEIRO.'",
+                "C. 横幅上显示的信息有 'Coca-Cola,' 'Samsung,' 和 'FLAMENGO.'",
+                "D. 横幅上显示的信息有 'Pepsi,' 'Microsoft,' 和 'RECIFE.'"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_121": {
+            "id": "ByUONqA1IJY_121",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "这一场景中，出现了多少种球服颜色？",
+            "options": [
+                "A. 出现了三种颜色。",
+                "B. 出现了四种颜色。",
+                "C. 出现了五种颜色。",
+                "D. 出现了六种颜色。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_122": {
+            "id": "ByUONqA1IJY_122",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "穿着绿色衣服的守门员挡住了射门吗？",
+            "options": [
+                "A. 是的，守门员做出了不可思议的扑救。",
+                "B. 不，守门员没有挡住足球射入。",
+                "C. 是的，守门员将球挡出了界外。",
+                "D. 不，射门完全偏离了球门。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_123": {
+            "id": "ByUONqA1IJY_123",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "守门员在射门前采取什么姿势？",
+            "options": [
+                "A. 守门员弯下身子，准备应对射门。",
+                "B. 守门员跳起来挡住射门。",
+                "C. 守门员朝球跑去。",
+                "D. 守门员站直等待射门。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_124": {
+            "id": "ByUONqA1IJY_124",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "从视频来看，足球是怎样射进球门的？",
+            "options": [
+                "A. 足球从球门左面被射进球网右面底部。",
+                "B. 足球从球门右面被射进球网左面底部。",
+                "C. 足球从球门正前方被射进球网右面底部。",
+                "D. 足球被球员从正前方射进球网右面底部。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_125": {
+            "id": "ByUONqA1IJY_125",
+            "scene": 8,
+            "dimension": "Camera Direction",
+            "question": "相对上个场景，摄像机是如何过渡的？",
+            "options": [
+                "A. 摄像机从展示场地的高角度视角过渡到聚焦于球门附近动作的低角度。",
+                "B. 摄像机保持在高角度，整个场景中持续展示整个场地。",
+                "C. 摄像机从对球员的低角度视角移动到对观众的高角度全景视图。",
+                "D. 摄像机从守门员的特写开始，然后转向记分牌的高角度视图。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_126": {
+            "id": "ByUONqA1IJY_126",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "摄像机的视角是什么？",
+            "options": [
+                "A. 摄像机切换到足球在球网后的视角。",
+                "B. 摄像机保持在高角度视角以捕捉整个场地。",
+                "C. 摄像机转为捕捉守门员反应的特写镜头。",
+                "D. 摄像机聚焦于庆祝人群的广角视角。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_127": {
+            "id": "ByUONqA1IJY_127",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "使用哪种视角可以突出一个确定的进球？",
+            "options": [
+                "A. 从球门后方的视角，展现足球在球网中。",
+                "B. 从高角度视角展示整个球场和远处的球门。",
+                "C. 特写镜头展现进攻球员射门前的瞬间。",
+                "D. 从侧面视角呈现两队排成一列的画面，背景是观众席。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_128": {
+            "id": "ByUONqA1IJY_128",
+            "scene": 8,
+            "dimension": "Speed",
+            "question": "进球后，动作的节奏是否会放慢？",
+            "options": [
+                "A. 是的，节奏过渡到关注进球后的结果。",
+                "B. 不，进球后动作仍然激烈，继续集中在球员身上。",
+                "C. 是的，进球被忽视，摄像机会继续跟随个别球员。",
+                "D. 不，节奏会加快，因为球员们争抢着另一个得分机会。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_129": {
+            "id": "ByUONqA1IJY_129",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "进球后，注意力转移到哪里？",
+            "options": [
+                "A. 注意力转移到球在网中。",
+                "B. 注意力转移到进球球员和他的队友。",
+                "C. 注意力转移到守门员从网中捡球。",
+                "D. 注意力转移到观众的欢呼声。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_130": {
+            "id": "ByUONqA1IJY_130",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "手拿旗帜的裁判员相对于球员的位置在哪里？",
+            "options": [
+                "A. 裁判员在球员的右手边",
+                "B. 裁判员在球员的左手边",
+                "C. 裁判员在球员的正前方",
+                "D. 该场景中未出现裁判员"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_131": {
+            "id": "ByUONqA1IJY_131",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "这一场景中，电子屏上可见哪些文字标志？",
+            "options": [
+                "A. 可见的广告包括‘Adidas’和蓝白色的耐克标志。",
+                "B. 可见的广告包括‘Continental’和红色的文字标志。",
+                "C. 可见的广告包括‘Puma’和红白相间的可口可乐标志。",
+                "D. 可见的广告包括‘Sony’和蓝红相间的百事标志。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_132": {
+            "id": "ByUONqA1IJY_132",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "裁判员有什么特点？",
+            "options": [
+                "A. 裁判员穿着黄色球衣和黑色短裤。",
+                "B. 裁判员穿着黑色球衣和蓝色短裤。",
+                "C. 裁判员穿着黄色球衣和黄色短裤。",
+                "D. 裁判员穿着蓝色球衣和黑色短裤。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_133": {
+            "id": "ByUONqA1IJY_133",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "进球球员穿的左手上戴着什么饰品？",
+            "options": [
+                "A. 球员左手上戴着黑色护腕。",
+                "B. 球员左手上戴着一块手表。",
+                "C. 球员左手上未带任何饰品。",
+                "D. 球员左手上戴着黑色手链。"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_134": {
+            "id": "ByUONqA1IJY_134",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "进球球员的袜子是什么颜色的？",
+            "options": [
+                "A. 白色袜子带红色条纹",
+                "B. 黑色袜子带蓝色条纹",
+                "C. 绿色袜子带黄色条纹",
+                "D. 蓝色袜子带白色条纹"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_135": {
+            "id": "ByUONqA1IJY_135",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "足球上的图案有哪些颜色？",
+            "options": [
+                "A. 足球上有蓝绿色和红色。",
+                "B. 足球上有黑色和橙黄色。",
+                "C. 足球上有浅红色和白色。",
+                "D. 足球上有黑色和橙黄色。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_136": {
+            "id": "ByUONqA1IJY_136",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "这一场景中一共出现了几个不同的文字标志？",
+            "options": [
+                "A. 四个",
+                "B. 五个",
+                "C. 六个",
+                "D. 七个"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_137": {
+            "id": "ByUONqA1IJY_137",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "视频的重点是团队配合吗？",
+            "options": [
+                "A. 是的，重点是多个玩家参与的团队配合。",
+                "B. 不，视频的重点是单个玩家的关键动作。",
+                "C. 是的，重点均衡地分布在双方队员之间。",
+                "D. 不，重点是裁判及其决策。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_138": {
+            "id": "ByUONqA1IJY_138",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "球员用哪个身体部位将球踢出？",
+            "options": [
+                "A. 球员用右腿将球踢出。",
+                "B. 球员用左腿将球踢出。",
+                "C. 球员用双手将球抛出。",
+                "D. 球员用膝盖将球顶出。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_139": {
+            "id": "ByUONqA1IJY_139",
+            "scene": 9,
+            "dimension": "Camera Direction",
+            "question": "当球员准备击球时，摄像机的移动是如何变化的？",
+            "options": [
+                "A. 摄像机保持静止并将画面放大到助理裁判身上。",
+                "B. 摄像机会先对球员和球进行特写镜头，然后稍微移动镜头跟踪球。",
+                "C. 摄像机完全聚焦于看台上的观众，而不改变角度。",
+                "D. 摄像机拉远镜头，以捕捉整个球场及周围的观众。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_140": {
+            "id": "ByUONqA1IJY_140",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素确立了比赛的专业背景和重要性？",
+            "options": [
+                "A. 穿着钉鞋的球员、修剪整齐的球场，和拿着旗子的助理裁判",
+                "B. 球员的淡蓝色球衣、方格旗和零散的观众",
+                "C. 修剪整齐的绿色球场、标志性FIFA文本和展示赞助商的广告横幅",
+                "D. 球员的决心、裁判鲜黄色的球衣和红黄相间的旗子"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_141": {
+            "id": "ByUONqA1IJY_141",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "相对于进球球员来说，绿色守门员在初始画面中的位置在哪里？",
+            "options": [
+                "A. 足球在球员的右侧。",
+                "B. 足球在球员的左侧。",
+                "C. 足球在球员的正前方。",
+                "D. 足球和球员之间距离较远。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_142": {
+            "id": "ByUONqA1IJY_142",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "进球球员在场上移动时的身体姿态，是如何描述的？",
+            "options": [
+                "A. 球员膝盖弯曲，手臂抬起以保持平衡。",
+                "B. 球员双腿笔直，手臂下垂。",
+                "C. 球员双臂交叉，膝盖锁定。",
+                "D. 球员一条腿伸出，双臂交叉。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_143": {
+            "id": "ByUONqA1IJY_143",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "在这一场景中画面中一共出现几名球员？",
+            "options": [
+                "A. 三名",
+                "B. 四名",
+                "C. 五名",
+                "D. 六名"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_144": {
+            "id": "ByUONqA1IJY_144",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "在这一场景中，出现的球员有哪些？",
+            "options": [
+                "A. 穿蓝色球衣球员、穿白色球衣的球员和穿绿色球衣的守门员。",
+                "B. 穿蓝色球衣球员、持球前进的白色球衣球员和一名靠近的裁判。",
+                "C. 穿蓝色球衣球员和两名位于球门两侧的防守球员。",
+                "D. 穿蓝色球衣球员、穿红色制服的守门员和一名替补球员。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_145": {
+            "id": "ByUONqA1IJY_145",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "穿白色球衣的球员是否在进球前成功触碰到球？",
+            "options": [
+                "A. 是的，球员成功触碰到了球。",
+                "B. 不，球员没有触碰到球。",
+                "C. 是的，但触碰力度较弱，对球的轨迹影响不大。",
+                "D. 不，球员赶到时球已经完全进入球门。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_146": {
+            "id": "ByUONqA1IJY_146",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "进球球员使用什么动作射门？",
+            "options": [
+                "A. 球员用右腿进行大力射门。",
+                "B. 球员身体直立，用头顶向球。",
+                "C. 球员用左腿伸向两侧进行侧踢。",
+                "D. 球员用后空翻用脚击球。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_147": {
+            "id": "ByUONqA1IJY_147",
+            "scene": 10,
+            "dimension": "Object Direction",
+            "question": "从视频来看守门员正在朝哪个方向拦球？",
+            "options": [
+                "A. 守门员正在向左拦球。",
+                "B. 守门员正在向右拦球。",
+                "C. 守门员正在向前拦球。",
+                "D. 守门员正在向后拦球。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_148": {
+            "id": "ByUONqA1IJY_148",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "如何通过球员的动作表现足球比赛的高速节奏？",
+            "options": [
+                "A. 高速节奏通过球员有力的踢球和运动技巧。",
+                "B. 高速节奏通过球衣和广告牌的颜色表现。",
+                "C. 高速节奏通过聚焦边线的摄像机角度表现。",
+                "D. 高速节奏通过解说和背景中的观众反应表现。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_149": {
+            "id": "ByUONqA1IJY_149",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "比赛的场地是什么样的？",
+            "options": [
+                "A. 一个安静的体育场，广告很少，观众也不多。",
+                "B. 一个专业的足球比赛场地，有活动人员和技术设备。",
+                "C. 一个只有球员在练习的训练场。",
+                "D. 一个没有广告或人员的荒凉场地。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_150": {
+            "id": "ByUONqA1IJY_150",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "守门员做什么动作来阻挡射门？",
+            "options": [
+                "A. 守门员向下扑去以阻挡射门。",
+                "B. 守门员左脚滑地身体后仰阻挡射门。",
+                "C. 守门员直接向上跳起以阻挡射门。",
+                "D. 守门员站在原地，举起双手来阻挡射门。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_151": {
+            "id": "ByUONqA1IJY_151",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "在场景的最后，守门员做什么姿势？",
+            "options": [
+                "A. 守门员向左侧扑去。",
+                "B. 守门员半躺，向后望去。",
+                "C. 守门员站直，双手叉腰。",
+                "D. 守门员向上跳跃以挡球。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_152": {
+            "id": "ByUONqA1IJY_152",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "当足球在进球时击中球网，会发生什么？",
+            "options": [
+                "A. 球网因足球的冲击明显变形，足球在拉紧的六边形网格中停留下来，确认进球。",
+                "B. 球网保持不变，仅是球被网格缠住，表示进球。",
+                "C. 球网完全坍塌，使足球滚出球门区域。",
+                "D. 球网崩开，导致足球飞出球门框。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_153": {
+            "id": "ByUONqA1IJY_153",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "进攻球员是否穿着标有数字'9'的天蓝色球衣？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 有时",
+                "D. 未提及"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_154": {
+            "id": "ByUONqA1IJY_154",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "进攻球员完成射门后会立即做什么？",
+            "options": [
+                "A. 进攻球员举起双臂庆祝胜利。",
+                "B. 进攻球员双臂抬起，呈奔跑姿势。",
+                "C. 进攻球员转身观察守门员的反应。",
+                "D. 进攻球员失望地跪在地上。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_155": {
+            "id": "ByUONqA1IJY_155",
+            "scene": 10,
+            "dimension": "Camera Direction",
+            "question": "进球后，摄像机如何移动？",
+            "options": [
+                "A. 摄像机跟随足球，捕捉进球状态。",
+                "B. 摄像机拉近镜头，仅仅关注守门员的反应。",
+                "C. 摄像机固定在球门上，突显球撞击后球网变形的画面。",
+                "D. 摄像机切换到新的角度，捕捉场边教练的反应。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_156": {
+            "id": "ByUONqA1IJY_156",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "可以推断出进攻球员击球的力量如何？",
+            "options": [
+                "A. 进攻球员的击球很有力，从他向前的冲劲以及球飞向球网中途的速度可以看出。",
+                "B. 进攻球员的击球较弱，因为球在靠近地面时悬停，缺乏动量。",
+                "C. 进攻球员的击球不准，完全偏离球门，朝边线方向飞去。",
+                "D. 进攻球员的击球犹豫，从他的姿势和动作中可以看出缺乏信心。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_157": {
+            "id": "ByUONqA1IJY_157",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "球击中球网后会发生什么？",
+            "options": [
+                "A. 球网被撕裂。",
+                "B. 球网不受影响。",
+                "C. 球网明显变形。",
+                "D. 球网掉到地上。"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_158": {
+            "id": "ByUONqA1IJY_158",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "屏幕上的白色加粗“FIFA”文字位于哪里？",
+            "options": [
+                "A. 在屏幕的左上角。",
+                "B. 在屏幕的右下角。",
+                "C. 在屏幕的中央。",
+                "D. 在屏幕的顶部中央。"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_159": {
+            "id": "ByUONqA1IJY_159",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "足球比赛场景结束后，场景的整体环境是什么样的？",
+            "options": [
+                "A. 一个深蓝色背景，画面中显示文字。",
+                "B. 一个光线明亮的体育场，观众欢呼，色彩鲜艳。",
+                "C. 一个沙漠景观，背景是五彩斑斓的日落。",
+                "D. 一个夜晚繁华的城市景观，带有闪烁的霓虹灯牌。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_160": {
+            "id": "ByUONqA1IJY_160",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "在这一场景中足球运动员们在做什么？",
+            "options": [
+                "A. 运动员在继续比赛。",
+                "B. 运动员完全消失在画面中。",
+                "C. 运动员暂停并静止在屏幕上。",
+                "D. 运动员在正抱在一起。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_161": {
+            "id": "ByUONqA1IJY_161",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "这一场景中，充满活力的人群会发生什么情况？",
+            "options": [
+                "A. 他们仍然可见但变得模糊。",
+                "B. 他们在视频中完全消失。",
+                "C. 他们变得更加生动。",
+                "D. 他们转化为屏幕上的文字。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_162": {
+            "id": "ByUONqA1IJY_162",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "这一场景中 'FIFA' 标志是怎样的？",
+            "options": [
+                "A. 粗体白色",
+                "B. 粗体红色",
+                "C. 粗体蓝色",
+                "D. 粗体绿色"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_163": {
+            "id": "ByUONqA1IJY_163",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "视频中，'FIFA'标志旁哪些符号？",
+            "options": [
+                "A. 由小圆点组成的类似'+'的符号",
+                "B. 三颗星合并成一个圆形",
+                "C. 由小圆点组成的类似'∷'的符号",
+                "D. 一个显眼的“÷”符号"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_164": {
+            "id": "ByUONqA1IJY_164",
+            "scene": 11,
+            "dimension": "Count",
+            "question": "画面中出现多少个小白点？",
+            "options": [
+                "A. 三个小白点",
+                "B. 四个小白点",
+                "C. 五个小白点",
+                "D. 六个小白点"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_165": {
+            "id": "ByUONqA1IJY_165",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "这一场景中，视频的背景颜色会发生剧烈变化吗？",
+            "options": [
+                "A. 是的，它变成了鲜艳的红色。",
+                "B. 不，背景保持一致的深海军蓝色。",
+                "C. 是的，它变成了生动的绿色。",
+                "D. 是的，它在多种鲜艳的颜色之间交替。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_166": {
+            "id": "ByUONqA1IJY_166",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "随着视频的进行，“Watch More On”文本会发生什么变化？",
+            "options": [
+                "A. 文本逐渐变得清晰，引导观众注意导航选项。",
+                "B. 文本颜色改变并开始闪烁以吸引观众注意。",
+                "C. 文本在整个视频中始终保持模糊不清。",
+                "D. 随着新画面的引入，文本会消失。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_167": {
+            "id": "ByUONqA1IJY_167",
+            "scene": 11,
+            "dimension": "Object Direction",
+            "question": "视频中的小白点会发生什么变化？",
+            "options": [
+                "A. 小白点原地旋转",
+                "B. 小白点向画面右侧移动",
+                "C. 小白点向画面左侧移动",
+                "D. 小白点向画面下方移动"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_168": {
+            "id": "ByUONqA1IJY_168",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "视频中元素之间的过渡伴随什么视觉效果？",
+            "options": [
+                "A. 元素进入和离开都迅速而突兀。",
+                "B. 元素从两侧滑入，增加了动态效果。",
+                "C. 元素渐入并逐渐模糊离开，呈现动画效果。",
+                "D. 元素旋转，形成旋转过渡效果。"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_169": {
+            "id": "ByUONqA1IJY_169",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "画面左侧的短语是什么？",
+            "options": [
+                "A. Explore More Content",
+                "B. Watch More On",
+                "C. Discover Next",
+                "D. Find More Options"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_170": {
+            "id": "ByUONqA1IJY_170",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "想阻拦进球的守门员有什么特征？",
+            "options": [
+                "A. 守门员穿着号码“1”的绿色球服，绿色短裤和绿色袜子。",
+                "B. 守门员穿着号码“5”的白色球服，白色短裤和白色袜子",
+                "C. 守门员穿着号码“9”的蓝色球服，黑色短裤和黑色袜子",
+                "D. 守门员穿着号码“7”的黄色球服，黑色短裤和黑色袜子"
+            ],
+            "answer": "C"
+        },
+        "ByUONqA1IJY_171": {
+            "id": "ByUONqA1IJY_171",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "守门员扑救后，球会发生什么？",
+            "options": [
+                "A. 球进入球网。",
+                "B. 球被守门员抓住。",
+                "C. 球击中门柱后弹回。",
+                "D. 球被后卫挡出。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_172": {
+            "id": "ByUONqA1IJY_172",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "当足球运动员朝球门用力踢球时，结果会怎样？",
+            "options": [
+                "A. 球进网，确认进球。",
+                "B. 门将接住球，阻止得分。",
+                "C. 球击中横梁弹出。",
+                "D. 球被后卫挡出。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_173": {
+            "id": "ByUONqA1IJY_173",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "进球确认后，球员和观众有什么反应？",
+            "options": [
+                "A. 球员和观众兴高采烈地反应。",
+                "B. 球员和观众保持沉默。",
+                "C. 球员变得激动，而观众发出嘘声。",
+                "D. 球员和观众立即离开体育场。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_174": {
+            "id": "ByUONqA1IJY_174",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "从球员庆祝转向关注观众之后发生了什么？",
+            "options": [
+                "A. 镜头捕捉观众的激动和热情的欢呼。",
+                "B. 镜头转向教练在场边讨论策略。",
+                "C. 镜头聚焦于一名球员准备罚点球。",
+                "D. 镜头切换到展示即将进行的比赛的广告。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_175": {
+            "id": "ByUONqA1IJY_175",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在球队庆祝进球时，传达了哪些情感？",
+            "options": [
+                "A. 庆祝表现出喜悦、团结和兴奋。",
+                "B. 庆祝表现出沮丧、困惑和失望。",
+                "C. 庆祝表现出冷漠、平静和中立。",
+                "D. 庆祝表现出愤怒、敌意和攻击性。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_176": {
+            "id": "ByUONqA1IJY_176",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么视频中会出现FIFA标志？",
+            "options": [
+                "A. FIFA标志象征着活动的官方性和专业性。",
+                "B. FIFA标志作为本地足球俱乐部锦标赛的赞助广告出现。",
+                "C. FIFA标志作为推广活动的一部分展示，但与任何特定活动无关。",
+                "D. FIFA标志纯粹作为装饰使用，与比赛没有任何关联。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_177": {
+            "id": "ByUONqA1IJY_177",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "“FIFA”这个表示在整个视频场景中是否一直可见？",
+            "options": [
+                "A. 是的，在视频场景中几乎一直可见。",
+                "B. 不，只有部分场景中可见。",
+                "C. 不，有的场景模糊，无法确定。",
+                "D. 不，在视频场景中一直未见。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_178": {
+            "id": "ByUONqA1IJY_178",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "这个场景如何反映事件的商业重要性？",
+            "options": [
+                "A. 可见的电子屏上展示文字标志和品牌标识，突显了事件的商业规模。",
+                "B. 'FIFA+' 标志的出现表明专注于推广 FIFA 的数字平台。",
+                "C. 深蓝色背景和简约的过渡强调了事件的艺术表现。",
+                "D. 视觉效果的戏剧性变化展现了事件的情感意义，而非其商业方面。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_179": {
+            "id": "ByUONqA1IJY_179",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "进攻球员在进球过程中采取了哪些行动？",
+            "options": [
+                "A. 进攻球员将球踢向球门。",
+                "B. 进攻球员将球传给了一名队友。",
+                "C. 进攻球员带球出了界。",
+                "D. 进攻球员在进球前对防守球员犯规。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_180": {
+            "id": "ByUONqA1IJY_180",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "守门员在射门尝试时做了什么？",
+            "options": [
+                "A. 守门员扑球以阻挡。",
+                "B. 守门员错过了。",
+                "C. 守门员把球踢开了。",
+                "D. 守门员站着没动。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_181": {
+            "id": "ByUONqA1IJY_181",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "射门的结果是什么？",
+            "options": [
+                "A. 球进网了。",
+                "B. 球击中了门柱，反弹了回来。",
+                "C. 守门员成功地挡住了球。",
+                "D. 射门完全偏离目标，出界了。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_182": {
+            "id": "ByUONqA1IJY_182",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "视频开始的进球之后的下一个场景是什么？",
+            "options": [
+                "A. 球员在场上的庆祝。",
+                "B. 屏幕突然黑暗并显示FIFA+标志。",
+                "C. 从不同角度回放进球。",
+                "D. 球迷在体育场欢呼。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_183": {
+            "id": "ByUONqA1IJY_183",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "紧张的比赛场景之后，视频是如何结束的？",
+            "options": [
+                "A. 视频以比赛中最激动人心时刻的重播结束。",
+                "B. 视频过渡到一个蓝色背景画面，上面显示不同文本。",
+                "C. 视频以球员和球迷的采访结束。",
+                "D. 视频转向一个明亮且多彩的即将到来的比赛和活动的蒙太奇。"
+            ],
+            "answer": "B"
+        },
+        "ByUONqA1IJY_184": {
+            "id": "ByUONqA1IJY_184",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么守门员未能挡住球？",
+            "options": [
+                "A. 进攻球员的强力且精准的射门超越了守门员的最佳努力。",
+                "B. 守门员被观众分散了注意力。",
+                "C. 球在触碰后卫后偏转，出乎意料。",
+                "D. 就在球到达他之前，守门员滑倒了。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_185": {
+            "id": "ByUONqA1IJY_185",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么球员们在进球庆祝时会一拥而上？",
+            "options": [
+                "A. 球员们在进球庆祝时一拥而上是为了表达他们共同的兴奋和在庆祝成就时的团结。",
+                "B. 球员们在进球庆祝时一拥而上是为了互换球衣。",
+                "C. 球员们在进球庆祝时一拥而上是为了挡住对方队伍的视线。",
+                "D. 球员们在进球庆祝时一拥而上是因为教练指示他们这样做。"
+            ],
+            "answer": "A"
+        },
+        "ByUONqA1IJY_186": {
+            "id": "ByUONqA1IJY_186",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么在射门后的场景中，焦点从比赛转移到了观众席？",
+            "options": [
+                "A. 焦点转移是为了突出球迷的集体兴奋和庆祝。",
+                "B. 焦点转移是为了强调赛后场上的球员个人成就。",
+                "C. 焦点转移是为了展示广告和赞助商横幅以达到宣传目的。",
+                "D. 焦点转移是为了过渡到即将到来的比赛宣传片。"
+            ],
+            "answer": "A"
+        }
+    }
+}

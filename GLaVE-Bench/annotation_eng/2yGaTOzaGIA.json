@@ -1,0 +1,974 @@
+{
+    "scene_hint": {
+        "0": "At the beginning of the video, there are three sprinters competing fiercely.",
+        "1": "The athletes are vying for position in the tense final stages, eventually crossing the finish line.",
+        "2": "The focus shifts from the race to the celebration, with the athlete in the white vest high-fiving the one in the blue vest.",
+        "3": "The person in the white vest hugs the person in the green tracksuit.",
+        "4": "The celebration becomes more intense, with the victorious athlete draped in the national flag showing a sense of national pride.",
+        "5": "A synthesized logo animation."
+    },
+    "qa": {
+        "2yGaTOzaGIA_0": {
+            "id": "2yGaTOzaGIA_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the scene in the video?",
+            "options": [
+                "A. The setting is a tropical outdoor sports field.",
+                "B. The setting is an indoor track and field venue.",
+                "C. The setting is an urban street.",
+                "D. The setting is a seaside running track."
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_1": {
+            "id": "2yGaTOzaGIA_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What event is taking place in the video?",
+            "options": [
+                "A. A 100-meter sprint race is taking place.",
+                "B. A men's 400-meter race is taking place.",
+                "C. A city marathon is taking place.",
+                "D. A 1000-meter race is taking place."
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_2": {
+            "id": "2yGaTOzaGIA_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "How is the appearance of the French athlete described in the video?",
+            "options": [
+                "A. The French athlete is wearing a dark blue jersey with red and white accents, and bright orange running shoes.",
+                "B. The French athlete is wearing a white jersey with black, red, and yellow stripes, and fluorescent yellow shoes.",
+                "C. The French athlete is wearing a bright yellow top, paired with green shorts and red running shoes.",
+                "D. The French athlete is wearing a dark blue tracksuit and black running shoes."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_3": {
+            "id": "2yGaTOzaGIA_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "How is the French athlete's movement described in the video?",
+            "options": [
+                "A. The French athlete leans forward more deeply, with arms swinging rapidly.",
+                "B. The French athlete leads the race with large strides and minimal arm movement.",
+                "C. The French athlete is slowing down, feet on the ground, arms swinging casually.",
+                "D. The French athlete runs with a straight body and crossed arms."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_4": {
+            "id": "2yGaTOzaGIA_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What banners can be seen in the background of the scene?",
+            "options": [
+                "A. The banners include a partially obscured 'WORLD ATHLETICS' banner and a centrally located bright yellow 'SEIKO' banner.",
+                "B. The banners include a fully visible 'WORLD ATHLETICS' banner and a centrally located bright yellow 'NIKE' banner.",
+                "C. The banners include a partially obscured 'WORLD ATHLETICS' banner and a centrally located bright red 'ADIDAS' banner.",
+                "D. The banners include a fully visible 'WORLD ATHLETICS' banner and a centrally located bright green 'PUMA' banner."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_5": {
+            "id": "2yGaTOzaGIA_5",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What signs can be seen in the background of the scene?",
+            "options": [
+                "A. A pink 'SAMH' sign can be seen.",
+                "B. A green 'PUMA' sign can be seen.",
+                "C. A red 'NIKE' sign can be seen.",
+                "D. A blue 'ADIDAS' sign can be seen."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_6": {
+            "id": "2yGaTOzaGIA_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many main athletes were captured running in the event?",
+            "options": [
+                "A. Two main athletes",
+                "B. Three main athletes",
+                "C. Four main athletes",
+                "D. Five main athletes"
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_7": {
+            "id": "2yGaTOzaGIA_7",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is the Jamaican sprinter leading in the race?",
+            "options": [
+                "A. Yes, the Jamaican sprinter is leading the race with a significant advantage.",
+                "B. No, the Jamaican sprinter is slightly behind the other two athletes.",
+                "C. Yes, the Jamaican sprinter is tied with the French athlete.",
+                "D. Yes, the Jamaican sprinter is leading but is about to be overtaken."
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_8": {
+            "id": "2yGaTOzaGIA_8",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What is the runner in the center of the screen doing?",
+            "options": [
+                "A. The runner is at the highest point of their stride, with both feet temporarily off the ground.",
+                "B. The runner is leaning forward, pushing off with the back leg.",
+                "C. The runner is decelerating and looking back.",
+                "D. The runner is crouching at the starting line, ready to begin the race."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_9": {
+            "id": "2yGaTOzaGIA_9",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What does the yellow structure in the framework mean?",
+            "options": [
+                "A. The yellow structure indicates that the camera angle has changed.",
+                "B. The yellow structure signifies that a new track has been added.",
+                "C. The yellow structure shows that there is a malfunction in the camera equipment.",
+                "D. The yellow structure means that the race has ended."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_10": {
+            "id": "2yGaTOzaGIA_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "How is the camera angle described?",
+            "options": [
+                "A. The camera is shot from a slightly elevated angle, conveying the tension and dynamism of the race.",
+                "B. The camera is placed at ground level, clearly focusing on the runners' feet.",
+                "C. The camera is positioned at a high overhead angle, showcasing the track from a bird's-eye view.",
+                "D. The camera is at eye level with the athletes, capturing their facial expressions up close."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_11": {
+            "id": "2yGaTOzaGIA_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What participant information is displayed on the leaderboard mentioned in the scene?",
+            "options": [
+                "A. The leaderboard shows the participants' rankings and real-time distance measurements from the leader.",
+                "B. The leaderboard displays the athletes' personal bests and nationalities.",
+                "C. The leaderboard lists the athletes' ages and previous competition results.",
+                "D. The leaderboard provides the athletes' jersey colors and numbers."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_12": {
+            "id": "2yGaTOzaGIA_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the athlete wearing a white top with blue and red accents on the track?",
+            "options": [
+                "A. On the far left of the track, behind the leader.",
+                "B. In the center of the track, leading the race.",
+                "C. On the far right of the track, ahead of the main group.",
+                "D. In the middle of the track, behind the leader."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_13": {
+            "id": "2yGaTOzaGIA_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the background of this video?",
+            "options": [
+                "A. The video takes place during the men's 400m final, where the audience is highly excited, standing near the track railings, and the seating area is packed.",
+                "B. The video takes place near a swimming pool, where the audience cheers for a swimming competition.",
+                "C. The video takes place at a cycling track, where riders compete on an indoor track.",
+                "D. The video takes place in a basketball court, where fans cheer for a thrilling game."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_14": {
+            "id": "2yGaTOzaGIA_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the video?",
+            "options": [
+                "A. The track has clear lane markings, you can see the final straight and the last turn, with bright and simple lighting.",
+                "B. The track lighting is dim, there are no brand elements, and the audience remains silent.",
+                "C. The track is covered with grass, there are no clear lane markings, the lighting is dim, creating a melancholic atmosphere.",
+                "D. The track is surrounded by trees, with natural lighting and clear brand advertisement elements."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_15": {
+            "id": "2yGaTOzaGIA_15",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What did the athlete in a white top and blue shorts do during the competition?",
+            "options": [
+                "A. The athlete in a white top and blue shorts was consistently behind the main group.",
+                "B. The athlete in a white top and blue shorts overtook several opponents in the sprint stage.",
+                "C. The athlete in a white top and blue shorts slowed down and was overtaken by several opponents.",
+                "D. The athlete in a white top and blue shorts maintained a leading position from start to finish."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_16": {
+            "id": "2yGaTOzaGIA_16",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many athletes are specifically described in the video?",
+            "options": [
+                "A. Three athletes are specifically described.",
+                "B. Four athletes are specifically described.",
+                "C. Five athletes are specifically described.",
+                "D. Six athletes are specifically described."
+            ],
+            "answer": "D"
+        },
+        "2yGaTOzaGIA_17": {
+            "id": "2yGaTOzaGIA_17",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Do the audience interact with the competition?",
+            "options": [
+                "A. Yes, most of the audience are involved",
+                "B. No",
+                "C. Only a few audience members are involved",
+                "D. The audience is completely silent"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_18": {
+            "id": "2yGaTOzaGIA_18",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "How did the runner in red shorts perform?",
+            "options": [
+                "A. The runner in red shorts charged forward with evident determination, trying to improve their position.",
+                "B. The runner in red shorts lagged behind others, maintaining a steady pace without a sense of urgency.",
+                "C. The runner in red shorts maintained the lead and confidently sprinted forward.",
+                "D. The runner in red shorts stopped and looked back at the other runners."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_19": {
+            "id": "2yGaTOzaGIA_19",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the athlete wearing a green uniform positioned in the scene?",
+            "options": [
+                "A. The athlete wearing a green uniform is chasing and overtaking several opponents.",
+                "B. The athlete wearing a green uniform is consistently leading the race in first place.",
+                "C. The athlete wearing a green uniform is clearly lagging behind everyone else.",
+                "D. The athlete wearing a green uniform is in the middle of the group."
+            ],
+            "answer": "D"
+        },
+        "2yGaTOzaGIA_20": {
+            "id": "2yGaTOzaGIA_20",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle?",
+            "options": [
+                "A. The camera captures a wide-angle view of the track's finish straight and the final turn.",
+                "B. The camera angle focuses on the athletes wearing green and yellow clothing.",
+                "C. The camera angle captures the audience in the stands and their reactions.",
+                "D. The camera is positioned at ground level to highlight the athletes' strides."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_21": {
+            "id": "2yGaTOzaGIA_21",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What actions of the athletes in the competition scene are revealed by the elevated camera angle?",
+            "options": [
+                "A. The elevated camera angle enhances the visibility of the athletes' strategic movements.",
+                "B. The elevated camera angle focuses on the audience's reactions rather than the competition.",
+                "C. The elevated camera angle shows the athletes slowing down as they approach the finish line.",
+                "D. The elevated camera angle only highlights the leader of the race, ignoring others."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_22": {
+            "id": "2yGaTOzaGIA_22",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "How does a high-angle camera angle affect the visualization of the track?",
+            "options": [
+                "A. A high-angle camera angle clearly shows the layout of lanes 1 to 8.",
+                "B. A high-angle camera angle obscures the details of the athletes' movements.",
+                "C. A high-angle camera angle focuses entirely on the audience, reducing emphasis on the track.",
+                "D. A high-angle camera angle creates a distorted view of the race progress."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_23": {
+            "id": "2yGaTOzaGIA_23",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "Which athlete's speed has significantly increased?",
+            "options": [
+                "A. The athlete wearing green and yellow clothing",
+                "B. The athlete wearing a blue top and white shorts",
+                "C. The athlete wearing red shorts",
+                "D. The athlete wearing a white top with blue and red accents"
+            ],
+            "answer": "D"
+        },
+        "2yGaTOzaGIA_24": {
+            "id": "2yGaTOzaGIA_24",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What text on the screen indicates the official background of the event?",
+            "options": [
+                "A. Text in the lower left corner 'MEN'S 400 METRES | FINAL'",
+                "B. Text in the lower left corner 'MEN'S 1000 METRES | FINAL'",
+                "C. Text in the lower left corner 'MEN'S 400 METRES | GROUP-A'",
+                "D. Text in the lower left corner 'MEN'S 1000 METRES | GROUP-A'"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_25": {
+            "id": "2yGaTOzaGIA_25",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the horizontal metal railing located?",
+            "options": [
+                "A. The horizontal metal railing is located in the middle of the track.",
+                "B. The horizontal metal railing separates the athletes from the photographers and spectators.",
+                "C. The horizontal metal railing is placed directly above the crowd.",
+                "D. The horizontal metal railing is located near the event's scoreboard."
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_26": {
+            "id": "2yGaTOzaGIA_26",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the location of the person in the picture?",
+            "options": [
+                "A. In the center of the sports field lawn.",
+                "B. On the sports field track.",
+                "C. Near the audience seating.",
+                "D. On the stands."
+            ],
+            "answer": "C"
+        },
+        "2yGaTOzaGIA_27": {
+            "id": "2yGaTOzaGIA_27",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the male athlete's clothing like?",
+            "options": [
+                "A. The male athlete is wearing a white sleeveless shirt with black, yellow, and red stripe designs.",
+                "B. The male athlete is wearing a green and yellow sleeveless shirt.",
+                "C. The male athlete is wearing a red sleeveless shirt with blue, green, and white stripe designs.",
+                "D. The male athlete is wearing a white sleeveless shirt with red, yellow, and black stripe designs."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_28": {
+            "id": "2yGaTOzaGIA_28",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What information is displayed by the purple text on the screen?",
+            "options": [
+                "A. The purple text displays the event of the competition.",
+                "B. The purple text displays the names and countries of the athletes.",
+                "C. The purple text displays the current world record for the event.",
+                "D. The purple text indicates the date and location of the competition."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_29": {
+            "id": "2yGaTOzaGIA_29",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What information does the race timer indicate about the laps?",
+            "options": [
+                "A. The race timer shows 'LAP 24.05' and '45.25'",
+                "B. The race timer shows 'LAP 24.05' and '54.25'",
+                "C. The race timer shows 'LAP 24.50' and '45.25'",
+                "D. The race timer shows 'LAP 24.50' and '54.25'"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_30": {
+            "id": "2yGaTOzaGIA_30",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What did the camera capture in the video?",
+            "options": [
+                "A. The camera captured the athletes' celebration.",
+                "B. The camera captured a panoramic view of the entire arena.",
+                "C. The camera is an overhead view of the stadium.",
+                "D. The camera captured a close-up of the finish line."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_31": {
+            "id": "2yGaTOzaGIA_31",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What camera angle should be used to highlight the athlete's achievements during celebrations?",
+            "options": [
+                "A. A wide dynamic view of the track",
+                "B. A side profile shot of the athlete",
+                "C. A close-up shot of the electronic scoreboard",
+                "D. A panoramic shot of the audience"
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_32": {
+            "id": "2yGaTOzaGIA_32",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What information does the race timer provide?",
+            "options": [
+                "A. The race timer in the bottom right corner provides 'LAP 24.05' and '45.25.'",
+                "B. The race timer in the bottom right corner shows 'LAP 30.00' and '50.00.'",
+                "C. The race timer in the bottom right corner displays 'LAP 20.00' and '40.00.'",
+                "D. The race timer in the bottom right corner indicates 'LAP 22.00' and '42.00.'"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_33": {
+            "id": "2yGaTOzaGIA_33",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "Where does this scene take place?",
+            "options": [
+                "A. The scene takes place in a closed area of an arena.",
+                "B. The scene takes place in an open field.",
+                "C. The scene takes place in a city park.",
+                "D. The scene takes place in a stadium."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_34": {
+            "id": "2yGaTOzaGIA_34",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What was the initial action of the athlete wearing a blue sports shirt with 'WARHOLM' written on the back?",
+            "options": [
+                "A. The athlete raised both arms toward the head.",
+                "B. The athlete was patted on the back by someone else.",
+                "C. The athlete adjusted their posture and leaned forward.",
+                "D. The athlete waved to the audience."
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_35": {
+            "id": "2yGaTOzaGIA_35",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What did the athlete wearing a blue sports shirt with 'WARHOLM' printed on the back do next?",
+            "options": [
+                "A. The athlete leaned forward and then squatted down.",
+                "B. The athlete raised both arms to celebrate towards the head.",
+                "C. The athlete waved to the audience.",
+                "D. The athlete knelt on the ground, exhausted."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_36": {
+            "id": "2yGaTOzaGIA_36",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many athletes are prominently described in the scene?",
+            "options": [
+                "A. Two athletes are prominently described in the scene.",
+                "B. Three athletes are prominently described in the scene.",
+                "C. Four athletes are prominently described in the scene.",
+                "D. Five athletes are prominently described in the scene."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_37": {
+            "id": "2yGaTOzaGIA_37",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What action did the athlete in white sportswear perform?",
+            "options": [
+                "A. The athlete in white clothes raised both arms towards the head.",
+                "B. The athlete in white clothes knelt on the track and covered their face with both hands.",
+                "C. The athlete in white clothes waved to the audience with one hand while covering their chest with the other.",
+                "D. The athlete in white clothes squatted down."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_38": {
+            "id": "2yGaTOzaGIA_38",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What type of camera shot is used to highlight the athletes' reactions after the competition?",
+            "options": [
+                "A. A wide-angle shot capturing the entire arena.",
+                "B. A close-up direct angle shot focusing on the athlete's upper body.",
+                "C. An overhead shot showing the track and athletes.",
+                "D. A shot capturing the side profile of the athlete running."
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_39": {
+            "id": "2yGaTOzaGIA_39",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the athlete wearing a white sleeveless sports shirt located?",
+            "options": [
+                "A. The athlete wearing a white sleeveless sports shirt is located behind another person.",
+                "B. The athlete wearing a white sleeveless sports shirt is located in front, with their body unobstructed.",
+                "C. The athlete wearing a white sleeveless sports shirt is next to the scoreboard.",
+                "D. The athlete wearing a white sleeveless sports shirt is sitting on the track."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_40": {
+            "id": "2yGaTOzaGIA_40",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the background environment of the scene?",
+            "options": [
+                "A. The background has a group of photographers wearing yellow vests, with the audience seating behind them.",
+                "B. The background is an indoor track, where athletes are warming up.",
+                "C. The background has a group of photographers wearing blue vests, with the audience seating behind them.",
+                "D. The background is a sponsor backdrop."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_41": {
+            "id": "2yGaTOzaGIA_41",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is the title displayed on the large blue results board?",
+            "options": [
+                "A. RESULTS | MEN’S 400 METRES | FINAL",
+                "B. WINNERS | MEN'S 400 METER DASH | SEMIFINAL",
+                "C. STANDINGS | MEN'S 400 METERS | HEATS",
+                "D. RANKINGS | MEN'S 400 METER RELAY | FINAL"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_42": {
+            "id": "2yGaTOzaGIA_42",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What is the name displayed first on the large blue results board?",
+            "options": [
+                "A. DOOM",
+                "B. WARNER",
+                "C. WARHOLM",
+                "D. MCDONALD"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_43": {
+            "id": "2yGaTOzaGIA_43",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What is the winning time displayed on the Big Blue scoreboard?",
+            "options": [
+                "A. 45.25",
+                "B. 45.34",
+                "C. 44.85",
+                "D. 45.65"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_44": {
+            "id": "2yGaTOzaGIA_44",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What additional background information is included in the big blue result image?",
+            "options": [
+                "A. Background information includes 'WIC GLASGOW 24'.",
+                "B. Background information includes 'OLYMPICS 2024'.",
+                "C. Background information includes 'EUROPEAN CHAMPIONSHIPS'.",
+                "D. Background information includes 'WORLD CUP 2023'."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_45": {
+            "id": "2yGaTOzaGIA_45",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Explanation of the result image: What record did DOOM achieve?",
+            "options": [
+                "A. PB",
+                "B. NR",
+                "C. WR",
+                "D. DB"
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_46": {
+            "id": "2yGaTOzaGIA_46",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "Who else is present in the background of the post-match scene?",
+            "options": [
+                "A. Commentators at the commentary desk",
+                "B. Coaches discussing strategies",
+                "C. Photographers wearing yellow vests",
+                "D. Security personnel supervising the event"
+            ],
+            "answer": "C"
+        },
+        "2yGaTOzaGIA_47": {
+            "id": "2yGaTOzaGIA_47",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "In the post-match indoor scene, is the athlete wearing a dark blue tracksuit visible?",
+            "options": [
+                "A. Yes, in the post-match indoor scene, the athlete wearing a dark blue tracksuit is visible and interacts with the audience.",
+                "B. No, in the post-match indoor scene, the athlete wearing a dark blue tracksuit is not visible.",
+                "C. In the post-match indoor scene, the athlete wearing a dark blue tracksuit is only briefly visible.",
+                "D. In the post-match indoor scene, the athlete wearing a dark blue tracksuit is visible and interacts with the photographer."
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_48": {
+            "id": "2yGaTOzaGIA_48",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "In the scene after the competition, which action symbolizes the friendship between the athletes?",
+            "options": [
+                "A. The athlete in a bright green top hugs the athlete in a white sleeveless top, symbolizing friendship and mutual respect.",
+                "B. The athlete in a white sleeveless top shakes hands with the athlete in a dark blue top.",
+                "C. The athlete in a bright green top high-fives the athlete in a white sleeveless top.",
+                "D. The athlete in a dark blue top pats the back of the athlete in a bright green top."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_49": {
+            "id": "2yGaTOzaGIA_49",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "In the post-match indoor scene, which direction is the athlete in the white sleeveless sports shirt facing?",
+            "options": [
+                "A. The athlete is facing forward.",
+                "B. The athlete is facing left.",
+                "C. The athlete is facing right.",
+                "D. The athlete is facing backward."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_50": {
+            "id": "2yGaTOzaGIA_50",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "How does the camera angle enhance the celebratory atmosphere of the final scene?",
+            "options": [
+                "A. The camera angle captures the moment of victory and the athletes' post-game fatigue, highlighting the celebratory atmosphere.",
+                "B. The camera angle focuses only on the audience, ignoring the athletes' emotions.",
+                "C. The camera angle is fixed on the scoreboard, missing the athletes' celebration.",
+                "D. The camera angle only shows the photographer, rather than the athletes' victory."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_51": {
+            "id": "2yGaTOzaGIA_51",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What happened to the athlete wearing a white shirt after the race?",
+            "options": [
+                "A. The athlete wearing a bright green shirt draped a large Belgian flag.",
+                "B. The athlete wearing a bright green shirt collapsed on the track due to exhaustion.",
+                "C. The athlete wearing a bright green shirt argued with another competitor over race issues.",
+                "D. The athlete wearing a bright green shirt avoided the media and left the race venue."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_52": {
+            "id": "2yGaTOzaGIA_52",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What helps identify the athlete draped in the national flag as 'DOOM'?",
+            "options": [
+                "A. A white vest that reads 'DOOM'.",
+                "B. The color of the bright green top.",
+                "C. The Norwegian flag draped over the athlete.",
+                "D. A visible scoreboard listing 'DOOM'."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_53": {
+            "id": "2yGaTOzaGIA_53",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "Where does the opening scene of the video take place?",
+            "options": [
+                "A. Indoor track and field event",
+                "B. Football field",
+                "C. Swimming pool arena",
+                "D. Outdoor track"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_54": {
+            "id": "2yGaTOzaGIA_54",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is the athlete draped in the Belgian flag doing in the video?",
+            "options": [
+                "A. The athlete draped in the Belgian flag is prominently celebrating his victory in the foreground.",
+                "B. The athlete draped in the Belgian flag is sitting on the track, looking very tired.",
+                "C. The athlete draped in the Belgian flag is cheering with a small flag.",
+                "D. The athlete draped in the Belgian flag is checking the scoreboard."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_55": {
+            "id": "2yGaTOzaGIA_55",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What change occurred to the central green shape in the video?",
+            "options": [
+                "A. The central green shape transformed into a more defined form, resembling an arrow or an upward arc.",
+                "B. The central green shape transformed into a circle with a spiral pattern.",
+                "C. The central green shape transformed into a rectangular block with horizontal stripes.",
+                "D. The central green shape transformed into a star shape."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_56": {
+            "id": "2yGaTOzaGIA_56",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Relative to the central green shape, in which direction do the concentric arcs of red and pink shading appear?",
+            "options": [
+                "A. The concentric arcs appear above the central green shape.",
+                "B. The concentric arcs appear below the central green shape.",
+                "C. The concentric arcs appear to the left of the central green shape.",
+                "D. The concentric arcs appear to the right of the central green shape."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_57": {
+            "id": "2yGaTOzaGIA_57",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "In the final composition of the video, how does the central pattern change?",
+            "options": [
+                "A. The central pattern is framed by a new white outline, clearly separating the colorful elements from the background.",
+                "B. The central pattern dissolves into a monochromatic purple background, with no additional text or shapes.",
+                "C. The central pattern becomes a complete circle surrounded by a glowing yellow arc.",
+                "D. The central pattern is replaced by a detailed map of the competition venue."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_58": {
+            "id": "2yGaTOzaGIA_58",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What text is displayed below the geometric shapes in the final scene?",
+            "options": [
+                "A. The text is 'WORLD ATHLETICS INDOOR CHAMPIONSHIPS GLASGOW 24'",
+                "B. The text is 'INDOOR TRACK AND FIELD WORLD CHAMPIONSHIPS GLASGOW 24'",
+                "C. The text is 'ATHLETICS WORLD CHAMPIONSHIPS GLASGOW 24'",
+                "D. The text is 'GLASGOW 24 WORLD INDOOR ATHLETICS CHAMPIONSHIPS'"
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_59": {
+            "id": "2yGaTOzaGIA_59",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the athlete wearing white, black, and yellow uniforms doing on the track?",
+            "options": [
+                "A. The athlete is running, taking great strides in the race.",
+                "B. The athlete is walking calmly with hands hanging at the sides, observing the surroundings.",
+                "C. The athlete is sitting on the track resting while watching other athletes.",
+                "D. The athlete is standing still, holding a water bottle and talking to the coach."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_60": {
+            "id": "2yGaTOzaGIA_60",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after the athletes finish the competition?",
+            "options": [
+                "A. The athletes high-five and hug other competitors.",
+                "B. The athletes immediately leave the track to go to the locker room.",
+                "C. The athletes anxiously wait for the rankings.",
+                "D. The scene switches to an interview with the winning athletes, discussing their performance."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_61": {
+            "id": "2yGaTOzaGIA_61",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after athletes celebrate post-game?",
+            "options": [
+                "A. The scene transitions to broader celebrations and reflections, with other athletes interacting.",
+                "B. The scene shifts to a monochromatic blue screen, indicating a technical or intentional image transition.",
+                "C. The scene focuses on an athlete being interviewed by the media.",
+                "D. The scene transitions to cheering spectators."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_62": {
+            "id": "2yGaTOzaGIA_62",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "How does the men's 400-meter race start in the video?",
+            "options": [
+                "A. The men's 400-meter race starts with the athletes' intense sprint.",
+                "B. The men's 400-meter race starts with the athletes in a waiting-to-start position.",
+                "C. The men's 400-meter race starts with the athletes waiting in their lanes for a photo.",
+                "D. The men's 400-meter race starts with the athletes doing warm-up exercises."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_63": {
+            "id": "2yGaTOzaGIA_63",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens midway through the men's 400-meter race?",
+            "options": [
+                "A. As the race intensifies, the positions of the competitors change.",
+                "B. Due to technical issues, the race is paused.",
+                "C. A competitor is disqualified for stepping out of the track.",
+                "D. The stadium lights unexpectedly go out."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_64": {
+            "id": "2yGaTOzaGIA_64",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "How did the men's 400-meter race end?",
+            "options": [
+                "A. The athletes immediately left the track after the race ended.",
+                "B. The race ended at a dramatic finish line, followed by moments of celebration and reflection by the athletes.",
+                "C. The result of the race was irrelevant as attention shifted to a monochrome blue screen.",
+                "D. Due to technical issues, the athletes were unable to celebrate after the race."
+            ],
+            "answer": "B"
+        },
+        "2yGaTOzaGIA_65": {
+            "id": "2yGaTOzaGIA_65",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the significance of the 'Men's 400m | Final' text in the visuals?",
+            "options": [
+                "A. The text provides context for the event, emphasizing its official nature as part of the championship.",
+                "B. The text lists all the participating athletes' names and their respective lane assignments.",
+                "C. The text serves only as a decorative design element and does not provide any specific information.",
+                "D. The text indicates the location of the event but does not specify the type of competition being held."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_66": {
+            "id": "2yGaTOzaGIA_66",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What is the significance of the timer in the visual footage of the competition?",
+            "options": [
+                "A. The timer highlights the progress of the competition and precise timing.",
+                "B. The timer indicates the remaining time for athletes to prepare.",
+                "C. The timer shows the time until the next event begins.",
+                "D. The timer marks the end of the broadcast time for the competition."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_67": {
+            "id": "2yGaTOzaGIA_67",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the sequence of focus from the competition area to post-race?",
+            "options": [
+                "A. The focus shifts from the athletes competing on the track to nearing the finish line, then to post-race celebrations, and finally to interactions and emotions between athletes.",
+                "B. The focus shifts from the scoreboard to athletes crossing the starting line, then to lap time records, and finally to the award ceremony.",
+                "C. The focus shifts from the cheers of the audience in the stands to athletes preparing for the race, then to media interviews, and finally to the announcement of results.",
+                "D. The focus shifts from the referee's commentary to athletes at the starting point, then to lighting setup, and finally to the celebration stage."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_68": {
+            "id": "2yGaTOzaGIA_68",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after the athlete in the white jersey greets the audience?",
+            "options": [
+                "A. The athlete interacts with other athletes and photographers.",
+                "B. The athlete immediately leaves the field area.",
+                "C. The athlete starts a press conference on the spot.",
+                "D. The athlete goes to the stands to interact with the audience."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_69": {
+            "id": "2yGaTOzaGIA_69",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after the athlete in white interacts with other athletes?",
+            "options": [
+                "A. The athlete drapes the national flag to celebrate.",
+                "B. The scene continues with the athlete doing a victory lap on the track.",
+                "C. The scene switches to the athlete being interviewed by reporters.",
+                "D. The scene changes to the athlete celebrating with family and friends."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_70": {
+            "id": "2yGaTOzaGIA_70",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why is the athlete wearing green and yellow clothing closely following another competitor?",
+            "options": [
+                "A. The athlete wearing green and yellow clothing is leading the race, but due to the other competitor speeding up and making an effort, the gap is narrowing.",
+                "B. The athlete wearing green and yellow clothing is struggling to maintain speed, allowing the competitor to easily close in.",
+                "C. The athlete wearing green and yellow clothing slowed down due to an injury, causing the competitor to quickly catch up.",
+                "D. The competitor is faster than the athlete wearing green and yellow clothing and has been maintaining a close distance."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_71": {
+            "id": "2yGaTOzaGIA_71",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why did the athlete wearing a white sleeveless shirt raise his arm?",
+            "options": [
+                "A. The athlete raised his arm in the emotional aftermath of intense effort and participation in the competition.",
+                "B. The athlete raised his arm after feeling unwell on the track to call for medical assistance.",
+                "C. The athlete raised his arm to seek help in finding his lost item.",
+                "D. The athlete raised his arm to stretch and move his body."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_72": {
+            "id": "2yGaTOzaGIA_72",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the scene switch to a monochrome blue background?",
+            "options": [
+                "A. Switching to a blue background is a graphic element used to showcase the event's logo.",
+                "B. Switching to a blue background indicates a technical error occurred during video recording.",
+                "C. Switching to a blue background symbolizes the beginning of the next match.",
+                "D. Switching to a blue background introduces an unrelated sponsor advertisement."
+            ],
+            "answer": "A"
+        },
+        "2yGaTOzaGIA_73": {
+            "id": "2yGaTOzaGIA_73",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why has the scene evolved into geometric composition?",
+            "options": [
+                "A. To showcase the evolution of the athlete's career.",
+                "B. To provide visual interest while waiting for the scoreboard.",
+                "C. The scene evolving into geometric composition might be for branding or promotional graphic elements for the '2024 World Athletics Indoor Championships Glasgow'.",
+                "D. To artistically highlight the achievements of different athletes."
+            ],
+            "answer": "C"
+        }
+    }
+}

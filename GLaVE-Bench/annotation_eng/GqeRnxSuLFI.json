@@ -1,0 +1,1630 @@
+{
+    "scene_hint": {
+        "0": "A man is observing agricultural products.",
+        "1": "Three people are contemplating bananas.",
+        "2": "A cartoon character's appeal for bananas.",
+        "3": "The scene transitions from a bakery to superheroes and a fruit stall.",
+        "4": "People rush to the fruit stall.",
+        "5": "The characters make a brief stop by the fruit stall, introducing a new man.",
+        "6": "The girl is thinking about how to sell fruits.",
+        "7": "Two fruit stalls compete to attract more people to the girl's stall.",
+        "8": "The gradual increase of fruit stalls.",
+        "9": "Six cartoon characters are rubbing their stomachs.",
+        "10": "Five fruit stalls appear, along with three characters.",
+        "11": "On the tray of a golden scale are written 'SUPPLY' and 'DEMAND'."
+    },
+    "qa": {
+        "GqeRnxSuLFI_0": {
+            "id": "GqeRnxSuLFI_0",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Where is the green sign 'FRESH PRODUCE'?",
+            "options": [
+                "A. Top left corner.",
+                "B. Bottom right corner.",
+                "C. Center.",
+                "D. Bottom left corner."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_1": {
+            "id": "GqeRnxSuLFI_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What kind of scene does this picture depict?",
+            "options": [
+                "A. The 'FRESH PRODUCE' section of a supermarket or grocery store.",
+                "B. Clothing store.",
+                "C. Library.",
+                "D. Café."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_2": {
+            "id": "GqeRnxSuLFI_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the person in the center of the picture doing?",
+            "options": [
+                "A. He is selecting a bundle of asparagus.",
+                "B. He is walking past the shelves, not paying attention to these agricultural products.",
+                "C. His posture appears thoughtful, with one hand on his head.",
+                "D. He is putting a spinach package into the shopping cart."
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_3": {
+            "id": "GqeRnxSuLFI_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the person in the center of the picture wearing?",
+            "options": [
+                "A. White shirt, blue tie, and black trousers.",
+                "B. White shirt, red tie, and blue trousers.",
+                "C. Blue shirt, white tie, and black trousers.",
+                "D. Black shirt, blue tie, and white trousers."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_4": {
+            "id": "GqeRnxSuLFI_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is in the barrel on the left?",
+            "options": [
+                "A. Apples.",
+                "B. Asparagus.",
+                "C. Lettuce.",
+                "D. Spinach wraps."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_5": {
+            "id": "GqeRnxSuLFI_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What does the appearance of the barrel on the left look like?",
+            "options": [
+                "A. The barrel has a simple design with dark reinforcement bands.",
+                "B. The barrel is carved with intricate floral patterns.",
+                "C. The barrel is painted in bright colors without reinforcement bands.",
+                "D. The barrel is made of metal with a shiny surface."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_6": {
+            "id": "GqeRnxSuLFI_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many tiers does this fruit and vegetable rack have?",
+            "options": [
+                "A. One tier",
+                "B. Two tiers",
+                "C. Three tiers",
+                "D. Multiple tiers"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_7": {
+            "id": "GqeRnxSuLFI_7",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "Is the food on the upper right side of the shelf wrapped in plastic?",
+            "options": [
+                "A. Yes.",
+                "B. No, it's placed in a glass cabinet.",
+                "C. No, there's no packaging.",
+                "D. No, it's stored in a glass jar."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_8": {
+            "id": "GqeRnxSuLFI_8",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is the color of the packaging label for the second item on the first layer?",
+            "options": [
+                "A. Green, orange, and white",
+                "B. Blue, yellow",
+                "C. Black, green, and purple",
+                "D. Red, white, and blue"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_9": {
+            "id": "GqeRnxSuLFI_9",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where are the bundles of green asparagus placed on the fresh produce shelf?",
+            "options": [
+                "A. On the far left.",
+                "B. On the top tier.",
+                "C. On the far right.",
+                "D. At the bottom."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_10": {
+            "id": "GqeRnxSuLFI_10",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What text can be seen in the lower left corner of the image?",
+            "options": [
+                "A. 'OneMinuteEconomics.com'.",
+                "B. 'Fresh Produce'.",
+                "C. 'Special Offer'.",
+                "D. 'Healthy Choices'."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_11": {
+            "id": "GqeRnxSuLFI_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What does 'OneMinuteEconomics.com' mean in the picture?",
+            "options": [
+                "A. It represents the name of a store.",
+                "B. It represents the price section.",
+                "C. It represents the source or creator of the visual content.",
+                "D. It represents a discount offer."
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_12": {
+            "id": "GqeRnxSuLFI_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the man in the white shirt located in the scene?",
+            "options": [
+                "A. Left.",
+                "B. Middle.",
+                "C. Right.",
+                "D. Outside the scene."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_13": {
+            "id": "GqeRnxSuLFI_13",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "From the perspective of the man in the white shirt, where is the woman relative to the man in the white shirt?",
+            "options": [
+                "A. The woman is on the man's right.",
+                "B. The woman is on the man's left.",
+                "C. The woman is behind the man.",
+                "D. The woman is in front of the man."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_14": {
+            "id": "GqeRnxSuLFI_14",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "From the perspective of the man in the middle wearing a white shirt, where is the position of the other man in the scene?",
+            "options": [
+                "A. To the left of the man in the middle.",
+                "B. In front of the man in the middle.",
+                "C. To the right of the man in the middle.",
+                "D. Behind the man in the middle."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_15": {
+            "id": "GqeRnxSuLFI_15",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video scene?",
+            "options": [
+                "A. Anime-style tropical beach.",
+                "B. Anime-style nighttime cityscape.",
+                "C. Anime-style autumn forest.",
+                "D. Anime-style classroom."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_16": {
+            "id": "GqeRnxSuLFI_16",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the posture of the person in the middle?",
+            "options": [
+                "A. The person in the middle has their hands on their hips.",
+                "B. The person in the middle has their arms crossed in front of their body.",
+                "C. The person in the middle has their hands crossed behind their back.",
+                "D. The person in the middle has their hands raised in the air."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_17": {
+            "id": "GqeRnxSuLFI_17",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the pose of the woman on the left side of the screen?",
+            "options": [
+                "A. One hand is on the hip, and the other hand is touching the face.",
+                "B. Both hands are crossed in front of her chest.",
+                "C. Arms are crossed and held in front of the chest.",
+                "D. One hand is waving in the air, and the other hand is holding a bag."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_18": {
+            "id": "GqeRnxSuLFI_18",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the posture of the person on the right side of the screen?",
+            "options": [
+                "A. One hand is on the hip, and the other hand is touching the face.",
+                "B. Waving.",
+                "C. Both hands on the waist.",
+                "D. Pointing upwards."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_19": {
+            "id": "GqeRnxSuLFI_19",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "How is the overall demeanor of the human characters?",
+            "options": [
+                "A. All exhibit a thoughtful demeanor.",
+                "B. All appear to be in a hurry.",
+                "C. All exhibit excitement.",
+                "D. All show signs of anger."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_20": {
+            "id": "GqeRnxSuLFI_20",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What unique object appears above each character's head?",
+            "options": [
+                "A. A white cloud-shaped thought bubble with a vivid image of a bunch of bright yellow bananas inside",
+                "B. A round thought bubble with an image of a nighttime city skyline inside",
+                "C. A rectangular banner with economic text",
+                "D. A glowing star symbolizing thought and creativity"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_21": {
+            "id": "GqeRnxSuLFI_21",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many people are in this new scene?",
+            "options": [
+                "A. Two",
+                "B. Three",
+                "C. Four",
+                "D. Five"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_22": {
+            "id": "GqeRnxSuLFI_22",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Is there any text present in the scene?",
+            "options": [
+                "A. No, there is no text.",
+                "B. Yes, the text 'OneMinuteEconomics.com' is located at the bottom left corner.",
+                "C. Yes, the text 'GroceryStoreAdventures' is located at the top right corner.",
+                "D. No, the text is only on the background buildings."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_23": {
+            "id": "GqeRnxSuLFI_23",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What gesture is the person in the middle making?",
+            "options": [
+                "A. One hand is on the face, and the other hand is crossed over the chest.",
+                "B. Pointing to the sky with one hand.",
+                "C. Grabbing the head with both hands.",
+                "D. Arms crossed over the chest."
+            ],
+            "answer": "D"
+        },
+        "GqeRnxSuLFI_24": {
+            "id": "GqeRnxSuLFI_24",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What gesture is this woman making?",
+            "options": [
+                "A. One hand is on the hip, and the other hand is touching the face.",
+                "B. Both hands are clasped together.",
+                "C. Both hands are on the hips.",
+                "D. One hand is waving while the other hand is holding a notebook."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_25": {
+            "id": "GqeRnxSuLFI_25",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What gesture is the man on the right making?",
+            "options": [
+                "A. One hand on the hip and the other hand on the chin.",
+                "B. Arms crossed.",
+                "C. Pointing to the sky.",
+                "D. Hands in pockets."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_26": {
+            "id": "GqeRnxSuLFI_26",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What text is displayed in the scene as a brand element?",
+            "options": [
+                "A. 'Economics101.com'.",
+                "B. 'OneMinuteEconomics.com'.",
+                "C. 'BananaEconomics.com'.",
+                "D. 'UrbanEconomics.com'."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_27": {
+            "id": "GqeRnxSuLFI_27",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Where is the text 'We Want B🍌NANAS!!' located in the background of the scene?",
+            "options": [
+                "A. Bottom.",
+                "B. Middle.",
+                "C. Top.",
+                "D. Right side."
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_28": {
+            "id": "GqeRnxSuLFI_28",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "How is the woman on the left described in terms of appearance?",
+            "options": [
+                "A. A black knit sweater, a red pleated skirt, and black shoes. She has dark shoulder-length short hair.",
+                "B. A green jacket, dark pants, and black shoes. She has short black hair and is shouting.",
+                "C. A light purple long-sleeve top, an olive green skirt, and black shoes. She has styled her dark hair into a bun.",
+                "D. A left teal shirt, blue pants, and white sneakers. She has long blonde hair."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_29": {
+            "id": "GqeRnxSuLFI_29",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "How is the woman on the left depicted in terms of posture?",
+            "options": [
+                "A. She stands confidently with her right hand on her hip and her left fist raised high.",
+                "B. She stands with her arms crossed and a relaxed expression on her face.",
+                "C. She sits with her hands on her knees.",
+                "D. She leans against the wall with her hands in her pockets."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_30": {
+            "id": "GqeRnxSuLFI_30",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is unique about the presentation of the word 'BANANAS'?",
+            "options": [
+                "A. The letter 'A' in 'BANANAS' is replaced with a banana pattern.",
+                "B. The word 'BANANAS' is written in a spiral pattern.",
+                "C. The word 'BANANAS' is presented in rainbow colors.",
+                "D. The word 'BANANAS' is written backwards."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_31": {
+            "id": "GqeRnxSuLFI_31",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many cartoon characters are there in the scene?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_32": {
+            "id": "GqeRnxSuLFI_32",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Is there a brand logo in the scene?",
+            "options": [
+                "A. Yes, 'OneMinuteEconomics.com' appears in the bottom left corner.",
+                "B. No, there is no brand logo.",
+                "C. Yes, 'Economics101.org' appears in the bottom right corner.",
+                "D. No, but there is a watermark in the top right corner."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_33": {
+            "id": "GqeRnxSuLFI_33",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What action is the central figure performing?",
+            "options": [
+                "A. Seems to be talking or shouting.",
+                "B. Energetically dancing.",
+                "C. Drawing a picture.",
+                "D. Playing a musical instrument."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_34": {
+            "id": "GqeRnxSuLFI_34",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "In which direction is the radiation emitted?",
+            "options": [
+                "A. Emitted inward towards the center.",
+                "B. Emitted outward from the center.",
+                "C. Emitted horizontally across the entire scene.",
+                "D. Emitted vertically from top to bottom."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_35": {
+            "id": "GqeRnxSuLFI_35",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used in this scene?",
+            "options": [
+                "A. Wide-angle shot.",
+                "B. Close-up shot.",
+                "C. Front medium shot.",
+                "D. Over-the-shoulder shot"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_36": {
+            "id": "GqeRnxSuLFI_36",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What changes have occurred in the appearance of the man wearing the teal shirt?",
+            "options": [
+                "A. Turned into a woman.",
+                "B. The shirt changed to a black shirt.",
+                "C. No change.",
+                "D. Was replaced."
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_37": {
+            "id": "GqeRnxSuLFI_37",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Which visual element in the scene highlights the character's needs?",
+            "options": [
+                "A. Radiating lines emanating from the center of the background",
+                "B. Bold white text 'We Want B🍌NANAS!!' with a banana graphic replacing the letter 'A'",
+                "C. Dynamic deformation and clothing of the cartoon character",
+                "D. OneMinuteEconomics.com branding appearing in the corner"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_38": {
+            "id": "GqeRnxSuLFI_38",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Which type of fruit is placed on the left side of the fruit stand?",
+            "options": [
+                "A. Red apples",
+                "B. Green apples",
+                "C. Yellow bananas",
+                "D. Oranges"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_39": {
+            "id": "GqeRnxSuLFI_39",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Which fruits are arranged on the right side of the produce stand?",
+            "options": [
+                "A. Red apples",
+                "B. Yellow bananas",
+                "C. Green apples",
+                "D. Mixed fruits"
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_40": {
+            "id": "GqeRnxSuLFI_40",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What scene does the video transition to from a low-key retail environment?",
+            "options": [
+                "A. Marked by superhero transformations and eye-catching displays of agricultural products.",
+                "B. Library scene with books and reading corners.",
+                "C. Café scene where people enjoy coffee and pastries.",
+                "D. Industrial space showcasing machines and engineers at work."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_41": {
+            "id": "GqeRnxSuLFI_41",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "After the superhero transforms, what does this man's costume look like?",
+            "options": [
+                "A. The costume is blue, form-fitting, and features bright yellow accents.",
+                "B. The costume is red with white stripes and includes a hood.",
+                "C. The costume is green with orange patterns and comes with goggles.",
+                "D. The costume is black with a silver cape and glowing gloves."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_42": {
+            "id": "GqeRnxSuLFI_42",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "After the superhero transforms, what accessories or design elements are included in this man's outfit?",
+            "options": [
+                "A. A belt, cuffs, a pentagonal chest emblem, black boots, and a black eye mask",
+                "B. A helmet, gloves, stars on the shoulders, a cape with a lightning pattern, and white boots",
+                "C. A belt, shoulder pads, knee-high boots, sunglasses, and a silver cape",
+                "D. A scarf, wristbands, a circular chest emblem, red boots, and a black mask"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_43": {
+            "id": "GqeRnxSuLFI_43",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is this man's hairstyle after transforming into a superhero?",
+            "options": [
+                "A. Sticking up.",
+                "B. Tied into a ponytail.",
+                "C. Cut into a crew cut.",
+                "D. Side-parted."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_44": {
+            "id": "GqeRnxSuLFI_44",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What color accents are on this man's superhero costume?",
+            "options": [
+                "A. Bright yellow",
+                "B. Bright red",
+                "C. Bright green",
+                "D. Bright blue"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_45": {
+            "id": "GqeRnxSuLFI_45",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "Which specific parts of the superhero costume have yellow decorations?",
+            "options": [
+                "A. Belt, cuffs, chest emblem.",
+                "B. Mask, boots, chest emblem, and cape.",
+                "C. Belt, boots, chest emblem, and cape.",
+                "D. Belt, cuffs, boots, and chest emblem."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_46": {
+            "id": "GqeRnxSuLFI_46",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many sections does the fruit stand have?",
+            "options": [
+                "A. Two.",
+                "B. Three.",
+                "C. Four.",
+                "D. Five."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_47": {
+            "id": "GqeRnxSuLFI_47",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "What fruits are displayed in each section of the agricultural product stalls?",
+            "options": [
+                "A. There are red apples on the left side, yellow bananas in the middle section, and green apples on the right side.",
+                "B. There are green apples on the left side, red apples in the middle section, and yellow bananas on the right side.",
+                "C. There are bananas on the left side, green apples in the middle section, and red apples on the right side.",
+                "D. There are yellow bananas on the left side, red apples in the middle section, and green bananas on the right side."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_48": {
+            "id": "GqeRnxSuLFI_48",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Are the three characters from the previous scene still present in the scene where Superman appears?",
+            "options": [
+                "A. Yes, they are still in the scene.",
+                "B. No, they have disappeared from the scene.",
+                "C. They have moved to a different part of the scene.",
+                "D. Their roles have changed, but they are still in the scene."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_49": {
+            "id": "GqeRnxSuLFI_49",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What pose did the newly transformed superhero strike?",
+            "options": [
+                "A. One hand triumphantly raised, while the other hand is bent.",
+                "B. He crossed his arms over his chest, exuding confidence.",
+                "C. He knelt on one knee, extending both arms outward.",
+                "D. He stood with hands on his hips, wearing a serious expression."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_50": {
+            "id": "GqeRnxSuLFI_50",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "How are these glowing pale blue lines arranged?",
+            "options": [
+                "A. Zigzag arrangement.",
+                "B. Circular arrangement.",
+                "C. Radial arrangement.",
+                "D. Horizontal arrangement."
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_51": {
+            "id": "GqeRnxSuLFI_51",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What significant changes occurred in the environment between the before and after scenes?",
+            "options": [
+                "A. From a retail location to a fruit stand.",
+                "B. From a retail location to a public restroom.",
+                "C. From a retail location to an alley.",
+                "D. From a retail location to an outdoor picnic scene."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_52": {
+            "id": "GqeRnxSuLFI_52",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Which brand logos appeared in the video?",
+            "options": [
+                "A. The brand logo 'OneMinuteEconomics.com' appeared.",
+                "B. The brand logo 'SuperHeroMarket.com' appeared.",
+                "C. The brand logo 'RetailRevolution.com' appeared.",
+                "D. The brand logo 'DynamicEconomics.com' appeared."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_53": {
+            "id": "GqeRnxSuLFI_53",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "Where is the brand logo located in the video?",
+            "options": [
+                "A. At the top center.",
+                "B. At the bottom left corner.",
+                "C. In the center of the agricultural produce stall.",
+                "D. On the emblem on the superhero's chest."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_54": {
+            "id": "GqeRnxSuLFI_54",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the superhero positioned in the picture?",
+            "options": [
+                "A. On the left side of the picture",
+                "B. In the center of the picture",
+                "C. On the right side of the picture",
+                "D. Behind the fruit stand"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_55": {
+            "id": "GqeRnxSuLFI_55",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the environment like in the video scene?",
+            "options": [
+                "A. The environment is vibrant and dynamic, with bright blue light and geometric shapes in the background.",
+                "B. The environment is calm and peaceful, characterized by a tranquil forest scene.",
+                "C. The environment is monotonous and dull, with plain white walls and very few props.",
+                "D. The environment is dark and mysterious, with mist enveloping a desolate landscape."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_56": {
+            "id": "GqeRnxSuLFI_56",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "When a woman appears on the screen, what is she wearing?",
+            "options": [
+                "A. Brown coat, black leggings, red shoes, and a ponytail.",
+                "B. Blue coat, dark pants, and a hat.",
+                "C. Green jacket, jeans, and sneakers.",
+                "D. Red dress, black boots, and a scarf."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_57": {
+            "id": "GqeRnxSuLFI_57",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What types of apples are displayed at the fruit stand?",
+            "options": [
+                "A. Red apples and green apples.",
+                "B. Red apples and yellow apples.",
+                "C. Green apples and yellow apples.",
+                "D. Only red apples are displayed."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_58": {
+            "id": "GqeRnxSuLFI_58",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What types of bananas are displayed at the fruit stand?",
+            "options": [
+                "A. Yellow bananas.",
+                "B. Green bananas.",
+                "C. Red bananas.",
+                "D. Blue bananas."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_59": {
+            "id": "GqeRnxSuLFI_59",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "Aside from the superheroes, how many new characters were introduced?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. No new characters were introduced."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_60": {
+            "id": "GqeRnxSuLFI_60",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Can the text 'OneMinuteEconomics.com' be seen in the video?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only partially visible",
+                "D. Not mentioned"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_61": {
+            "id": "GqeRnxSuLFI_61",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "What changes have been made to the superhero's appearance?",
+            "options": [
+                "A. No changes.",
+                "B. Changed to a red cape and black boots.",
+                "C. Now wearing green clothes with orange decorations.",
+                "D. Changed to a yellow jacket and white pants."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_62": {
+            "id": "GqeRnxSuLFI_62",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What text is in the lower left corner of the background?",
+            "options": [
+                "A. 'OneMinuteEconomics.com'.",
+                "B. 'SuperheroAdventures.com'.",
+                "C. 'FruitMarketDaily.com'.",
+                "D. 'DynamicScenes.com'."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_63": {
+            "id": "GqeRnxSuLFI_63",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is Superman at the farm produce stall?",
+            "options": [
+                "A. Behind.",
+                "B. Left.",
+                "C. In front.",
+                "D. Right."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_64": {
+            "id": "GqeRnxSuLFI_64",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is the attire of the new character introduced in the scene?",
+            "options": [
+                "A. White shirt paired with a green tie, dark pants, and brown shoes.",
+                "B. Red shirt, blue pants, and yellow sneakers.",
+                "C. Gray suit, wearing a purple hat and white gloves.",
+                "D. Black jacket, paired with a red scarf and beige pants."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_65": {
+            "id": "GqeRnxSuLFI_65",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What items are placed on the shelf next to the new character?",
+            "options": [
+                "A. Bread products and boxed items.",
+                "B. Fruit products and cereal boxes.",
+                "C. Canned food and bottled drinks.",
+                "D. Vegetable products and snacks."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_66": {
+            "id": "GqeRnxSuLFI_66",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many characters can be seen in the picture?",
+            "options": [
+                "A. Three",
+                "B. Four",
+                "C. Five",
+                "D. Six"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_67": {
+            "id": "GqeRnxSuLFI_67",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "In the following scenes, does the superhero interact with the agricultural product stall?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. Tipped over the agricultural product stall.",
+                "D. Put items back on the agricultural product stall."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_68": {
+            "id": "GqeRnxSuLFI_68",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What are some of the visible characters doing in the initial screen?",
+            "options": [
+                "A. Running towards the fruit stand.",
+                "B. Standing next to the shelf.",
+                "C. Taking a banana from the shelf.",
+                "D. Arranging items on the bread rack."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_69": {
+            "id": "GqeRnxSuLFI_69",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "From the picture, what is the position of the green apple on the fruit stand?",
+            "options": [
+                "A. Left side.",
+                "B. Middle.",
+                "C. Right side.",
+                "D. Does not exist."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_70": {
+            "id": "GqeRnxSuLFI_70",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What is the perspective of this shot?",
+            "options": [
+                "A. Provides a perspective of the character and the grocery store layout.",
+                "B. Focuses only on the superhero character.",
+                "C. Is a low-angle view of the fruit stand.",
+                "D. Is a bird's-eye view of the entire grocery store."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_71": {
+            "id": "GqeRnxSuLFI_71",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "What changes occurred in the positions of the girl and the boy between the previous scene and the current scene?",
+            "options": [
+                "A. In the previous scene, the girl was standing in front of the boy, and in the current scene, they continue to stand still in front of the produce stand.",
+                "B. In the previous scene, the girl and the boy ran past the produce stand, while in the current scene, they are standing side by side in front of the produce stand.",
+                "C. Initially, the girl and the boy were both standing, but later they started running past the produce stand.",
+                "D. In both scenes, the girl and the boy are standing still in front of the produce stand."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_72": {
+            "id": "GqeRnxSuLFI_72",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "What changes occurred in the position of the superhero between the initial scene and the subsequent scenes?",
+            "options": [
+                "A. Initial scene: Partially visible; Subsequent scene: Fully visible standing in front of the stall.",
+                "B. Initial scene: Standing behind the stall; Subsequent scene: Interacting with the products.",
+                "C. Initial scene: Invisible; Subsequent scene: Flying over the produce stall.",
+                "D. Initial scene: Next to the bread rack; Subsequent scene: Near the green apples."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_73": {
+            "id": "GqeRnxSuLFI_73",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What new element was introduced in the subsequent scenes?",
+            "options": [
+                "A. A new character appeared next to the bread rack.",
+                "B. The girl and boy started running.",
+                "C. The superhero character disappeared.",
+                "D. The fruit stand was replaced by a new display."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_74": {
+            "id": "GqeRnxSuLFI_74",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What text is in the scene?",
+            "options": [
+                "A. The bottom left corner has 'OneMinuteEconomics.com'.",
+                "B. The bottom left corner has 'SuperheroMarket.com'.",
+                "C. The bottom left corner has 'FruitStandAdventures.com'.",
+                "D. The bottom left corner has 'GroceryStoreFun.com'."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_75": {
+            "id": "GqeRnxSuLFI_75",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the superhero character located at the beginning of the scene?",
+            "options": [
+                "A. To the right of the bread rack.",
+                "B. To the left of the boy and girl.",
+                "C. Standing next to the produce stand.",
+                "D. Near the side with the yellow background."
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_76": {
+            "id": "GqeRnxSuLFI_76",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the initial scene?",
+            "options": [
+                "A. In the animation market environment.",
+                "B. In the training room.",
+                "C. In the library.",
+                "D. On the city streets."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_77": {
+            "id": "GqeRnxSuLFI_77",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What is the girl thinking about?",
+            "options": [
+                "A. She is considering starting to sell things, as her thought bubble says 'I SHOULD START SELLING'.",
+                "B. She is considering buying green apples from a superhero.",
+                "C. She is considering leaving the market scene with the boy.",
+                "D. She is considering helping the person by the bread rack."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_78": {
+            "id": "GqeRnxSuLFI_78",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What fruits are displayed at the fruit stand?",
+            "options": [
+                "A. Oranges, yellow bananas, and red apples.",
+                "B. Green apples, yellow bananas, and peaches.",
+                "C. Green apples, yellow bananas, and red apples.",
+                "D. Green apples, grapes, and yellow bananas."
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_79": {
+            "id": "GqeRnxSuLFI_79",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "How are the fruits arranged at the produce stand?",
+            "options": [
+                "A. Green apples on the right, red apples in the middle, yellow bananas on the left.",
+                "B. Green apples on the left, yellow bananas in the middle, red apples on the right.",
+                "C. Red apples on the left, yellow bananas in the middle, green apples on the right.",
+                "D. Yellow bananas on the left, green apples in the middle, red apples on the right."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_80": {
+            "id": "GqeRnxSuLFI_80",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many human characters are there in the scene?",
+            "options": [
+                "A. Two.",
+                "B. One.",
+                "C. Three.",
+                "D. No human characters."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_81": {
+            "id": "GqeRnxSuLFI_81",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Can the text 'OneMinuteEconomics.com' be seen throughout the entire scene?",
+            "options": [
+                "A. Yes.",
+                "B. No, it's only visible at the beginning.",
+                "C. No, it disappears during the transition.",
+                "D. Yes, it only appears when the superhero is holding the apple."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_82": {
+            "id": "GqeRnxSuLFI_82",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What gesture did the superhero make in the scene?",
+            "options": [
+                "A. Pointed forward with a finger.",
+                "B. Pointed at the bread rack.",
+                "C. Waved at the girl.",
+                "D. Gestured towards the yellow bananas."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_83": {
+            "id": "GqeRnxSuLFI_83",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "Which direction is the superhero facing?",
+            "options": [
+                "A. The superhero is facing the same direction as the fruit stand.",
+                "B. The superhero is facing the bread rack.",
+                "C. The superhero is facing the girl.",
+                "D. The superhero is facing the background."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_84": {
+            "id": "GqeRnxSuLFI_84",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What does this superhero look like, especially the costume and appearance features?",
+            "options": [
+                "A. A deep blue costume, a gold chest emblem, a matching belt, black boots and mask, and an upward-styled hair.",
+                "B. A red cape, a silver outfit with blue stars, white boots and helmet, with long flowing hair.",
+                "C. Green clothes, paired with a yellow cape, brown gloves, red shoes and headband, with curly hair.",
+                "D. Features a black costume, gold boots, silver gloves, an orange belt, and a red mask, with short hair."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_85": {
+            "id": "GqeRnxSuLFI_85",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "How are the fruit stands arranged in the scene?",
+            "options": [
+                "A. Arranged in a straight line.",
+                "B. Arranged in a circular shape.",
+                "C. Arranged in a triangular shape.",
+                "D. Randomly arranged."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_86": {
+            "id": "GqeRnxSuLFI_86",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the video scene like?",
+            "options": [
+                "A. In an alley.",
+                "B. Fruit stand.",
+                "C. City street.",
+                "D. Warehouse."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_87": {
+            "id": "GqeRnxSuLFI_87",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the red-haired woman wearing in the bustling market scene?",
+            "options": [
+                "A. A brown trench coat",
+                "B. A blue suit with yellow lightning patterns",
+                "C. A beige bag",
+                "D. A green dress"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_88": {
+            "id": "GqeRnxSuLFI_88",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What items are displayed at the fruit stand?",
+            "options": [
+                "A. Red apples, yellow bananas, green apples.",
+                "B. Oranges, pears, grapes.",
+                "C. Cherries, lemons, berries.",
+                "D. Mangoes, avocados, strawberries."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_89": {
+            "id": "GqeRnxSuLFI_89",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "How are the items on the fruit stand organized?",
+            "options": [
+                "A. The items are randomly scattered on the stand.",
+                "B. The items are perfectly arranged in their respective boxes.",
+                "C. The items are piled up in a messy heap.",
+                "D. The items are arranged in a circle."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_90": {
+            "id": "GqeRnxSuLFI_90",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many types of fruit are at the stall?",
+            "options": [
+                "A. Two types of fruit",
+                "B. Three types of fruit",
+                "C. Four types of fruit",
+                "D. Five types of fruit"
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_91": {
+            "id": "GqeRnxSuLFI_91",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What types of fruits are on the stall?",
+            "options": [
+                "A. Red apples, green apples, and yellow bananas",
+                "B. Red apples, yellow apples, and green bananas",
+                "C. Green apples, red apples, and blue bananas",
+                "D. Yellow apples, red bananas, and green grapes"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_92": {
+            "id": "GqeRnxSuLFI_92",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "During the scene transition, will the blue background change?",
+            "options": [
+                "A. Yes, it turns blue.",
+                "B. Yes, it turns into another color.",
+                "C. No, it remains unchanged.",
+                "D. Yes, it will be filled with different patterns."
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_93": {
+            "id": "GqeRnxSuLFI_93",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "What visual changes occur when the perspective shifts to the fruit stand?",
+            "options": [
+                "A. The zoom effect brings the perspective closer to the fruit stand, enlarging the produce and boxes in view.",
+                "B. The fruit stand is rearranged into a circular structure, altering their layout.",
+                "C. The background changes from a fantastical light blue to a deep green forest scene.",
+                "D. The blank brown sign hovering above the stand is replaced by handwritten fruit price tags."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_94": {
+            "id": "GqeRnxSuLFI_94",
+            "scene": 8,
+            "dimension": "Camera Direction",
+            "question": "Which direction should the camera zoom to focus on the fruit stand?",
+            "options": [
+                "A. Zoom out the camera.",
+                "B. Zoom in the camera directly.",
+                "C. Pan the camera to the left.",
+                "D. Tilt the camera upwards."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_95": {
+            "id": "GqeRnxSuLFI_95",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "What camera angle was used to highlight the fruit stand?",
+            "options": [
+                "A. A straightforward, unobstructed camera angle was used.",
+                "B. An overhead angle was used.",
+                "C. A diagonal, tilted camera angle was used.",
+                "D. A bird's-eye view was used."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_96": {
+            "id": "GqeRnxSuLFI_96",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What happens to the visibility of the text 'OneMinuteEconomics.com' during the zoom effect?",
+            "options": [
+                "A. The text 'OneMinuteEconomics.com' becomes more prominent.",
+                "B. The text 'OneMinuteEconomics.com' remains fully visible.",
+                "C. The text 'OneMinuteEconomics.com' does not change.",
+                "D. The text 'OneMinuteEconomics.com' changes color."
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_97": {
+            "id": "GqeRnxSuLFI_97",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "Where is the duo of two girls located in the picture?",
+            "options": [
+                "A. Located in the lower left corner.",
+                "B. Located in the upper right corner.",
+                "C. Located in the center of the picture.",
+                "D. Located on the left side."
+            ],
+            "answer": "D"
+        },
+        "GqeRnxSuLFI_98": {
+            "id": "GqeRnxSuLFI_98",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "What is the attire of the bearded man with dreadlocks in this scene?",
+            "options": [
+                "A. A white and blue pullover with mustard yellow pants.",
+                "B. A black long-sleeve shirt paired with maroon pants.",
+                "C. A black T-shirt with white star patterns and dark pants.",
+                "D. A white shirt with a black tie and pants."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_99": {
+            "id": "GqeRnxSuLFI_99",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "What is the man on the right side wearing in the middle group?",
+            "options": [
+                "A. Black long-sleeve shirt and chestnut-colored trousers.",
+                "B. White and blue cape-sleeve shirt paired with mustard yellow trousers.",
+                "C. Black T-shirt with white star patterns and dark trousers.",
+                "D. White shirt with black tie and trousers."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_100": {
+            "id": "GqeRnxSuLFI_100",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene take place?",
+            "options": [
+                "A. Orchard.",
+                "B. In a cartoon market.",
+                "C. On a blue background.",
+                "D. In a classroom."
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_101": {
+            "id": "GqeRnxSuLFI_101",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "What is the girl on the far left of the left group wearing?",
+            "options": [
+                "A. A white jacket paired with a pink top, teal pants, and black shoes",
+                "B. A black top paired with a red skirt and white shoes",
+                "C. A light blue dress paired with black shoes",
+                "D. A white T-shirt paired with blue jeans and red shoes"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_102": {
+            "id": "GqeRnxSuLFI_102",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "How many characters are in the scene?",
+            "options": [
+                "A. Four.",
+                "B. Five.",
+                "C. Six.",
+                "D. Seven."
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_103": {
+            "id": "GqeRnxSuLFI_103",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "In the next scene, is the girl wearing the light blue dress located in the bottom right corner of the frame?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. She is in the top left corner",
+                "D. She is in the center"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_104": {
+            "id": "GqeRnxSuLFI_104",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "What text is displayed in the lower left corner?",
+            "options": [
+                "A. 'OneMinuteEconomics.com'.",
+                "B. 'FruitMarket.com'.",
+                "C. 'CartoonEconomics.net'.",
+                "D. 'EconomyInsights.org'."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_105": {
+            "id": "GqeRnxSuLFI_105",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "Where is the word 'SUPPLY' located on the golden scale?",
+            "options": [
+                "A. On the left plate.",
+                "B. On the right plate.",
+                "C. Above.",
+                "D. Below."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_106": {
+            "id": "GqeRnxSuLFI_106",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "Where is the word 'DEMAND' located on the golden balance scale?",
+            "options": [
+                "A. On the left pan.",
+                "B. On the right pan.",
+                "C. Above.",
+                "D. Below."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_107": {
+            "id": "GqeRnxSuLFI_107",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "What scene follows the market scene transition in the video?",
+            "options": [
+                "A. The scene transitions to a cartoon-style market.",
+                "B. The scene transitions to a golden scale.",
+                "C. The scene transitions to a globe.",
+                "D. The scene transitions to a forest scene."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_108": {
+            "id": "GqeRnxSuLFI_108",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "What are the decorative details on the golden scales?",
+            "options": [
+                "A. The golden scales have decorative details.",
+                "B. The golden scales have no decorative features.",
+                "C. The golden scales have colorful fruit patterns.",
+                "D. The golden scales have text but no decorations."
+            ],
+            "answer": "D"
+        },
+        "GqeRnxSuLFI_109": {
+            "id": "GqeRnxSuLFI_109",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "What words are displayed on the golden scale pan?",
+            "options": [
+                "A. The words 'PRICE' and 'VALUE'.",
+                "B. The words 'SUPPLY' and 'DEMAND'.",
+                "C. The words 'EXPENSE' and 'INCOME'.",
+                "D. The words 'COST' and 'BENEFIT'."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_110": {
+            "id": "GqeRnxSuLFI_110",
+            "scene": 11,
+            "dimension": "Count",
+            "question": "How many different words are displayed on the golden balance scale in the video?",
+            "options": [
+                "A. Two.",
+                "B. Three.",
+                "C. Four.",
+                "D. One."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_111": {
+            "id": "GqeRnxSuLFI_111",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "What are the different words displayed on the golden scales in the video?",
+            "options": [
+                "A. The words displayed are 'SUPPLY' and 'DEMAND'.",
+                "B. The words displayed are 'BALANCE' and 'EQUILIBRIUM'.",
+                "C. The words displayed are 'PROFIT' and 'LOSS'.",
+                "D. The words displayed are 'BUY' and 'SELL'."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_112": {
+            "id": "GqeRnxSuLFI_112",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "In this scene on the balance, does the bright green background change?",
+            "options": [
+                "A. Yes, the background changes to blue.",
+                "B. Yes, the background changes to yellow.",
+                "C. No, the bright green background remains unchanged.",
+                "D. Yes, the background changes to white."
+            ],
+            "answer": "C"
+        },
+        "GqeRnxSuLFI_113": {
+            "id": "GqeRnxSuLFI_113",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "What happens to the scale's pan when 'DEMAND' is added?",
+            "options": [
+                "A. The balance of the pan shifts slightly, reflecting dynamic equilibrium.",
+                "B. The pan remains completely balanced, with no change.",
+                "C. The left pan labeled 'SUPPLY' becomes heavier, causing the scale to tilt.",
+                "D. The right pan labeled 'DEMAND' becomes heavier, causing the scale to tilt."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_114": {
+            "id": "GqeRnxSuLFI_114",
+            "scene": 11,
+            "dimension": "Camera Shot",
+            "question": "What camera angle was used in the scene showing the golden balance?",
+            "options": [
+                "A. Use a direct frontal camera angle.",
+                "B. Use an overhead angle.",
+                "C. Use a side angle.",
+                "D. Use a close-up shot."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_115": {
+            "id": "GqeRnxSuLFI_115",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "How does the transition from the market to the scales occur?",
+            "options": [
+                "A. The transition is sudden, with the market instantly replaced by the scales.",
+                "B. The transition is gradual, with the bustling market scene gradually disappearing and being replaced by the scales.",
+                "C. As the market transitions to the scales, the background color gradually changes.",
+                "D. The scales appear as an overlay on the market scene, followed by a complete transition."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_116": {
+            "id": "GqeRnxSuLFI_116",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "In the two scenes of the video, what visual element is consistently present?",
+            "options": [
+                "A. Brand text: 'OneMinuteEconomics.com'",
+                "B. The word 'supply' in bold",
+                "C. Vivid market characters",
+                "D. Bright and vibrant green background"
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_117": {
+            "id": "GqeRnxSuLFI_117",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What kind of scene is described at the beginning of the video?",
+            "options": [
+                "A. A man standing in a fruit market.",
+                "B. Countryside farm.",
+                "C. City street.",
+                "D. Office scene."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_118": {
+            "id": "GqeRnxSuLFI_118",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "How did the market scene at the beginning of the video change later?",
+            "options": [
+                "A. The scene transforms into a cityscape and then into a cartoon marketplace.",
+                "B. The scene transitions to a minimalist model with supply and demand balance.",
+                "C. The bustling market changes into a tranquil countryside scenery.",
+                "D. The scene changes into a dark futuristic city environment."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_119": {
+            "id": "GqeRnxSuLFI_119",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How did the superhero first appear in the video?",
+            "options": [
+                "A. Appeared in a calm and orderly retail environment.",
+                "B. Appeared swinging down from a building.",
+                "C. First appeared in the middle of a street fight.",
+                "D. First appeared flying in the sky."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_120": {
+            "id": "GqeRnxSuLFI_120",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "Where does the superhero appear in the video afterwards?",
+            "options": [
+                "A. Near the fruit stand.",
+                "B. Flying over the market.",
+                "C. Near the balance scale.",
+                "D. Giving a speech in front of the crowd."
+            ],
+            "answer": "A"
+        },
+        "GqeRnxSuLFI_121": {
+            "id": "GqeRnxSuLFI_121",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the sequence of environments in the video?",
+            "options": [
+                "A. From the market to the city, fresh produce area, and then to an abstract representation focused on economic principles.",
+                "B. From the fresh produce area to the city, market, and then to an abstract representation focused on economic principles.",
+                "C. From the market to the geographical map, fresh produce area, to the classroom.",
+                "D. From the city to the fresh produce area, market, and geographical map."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_122": {
+            "id": "GqeRnxSuLFI_122",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "When does the text 'OneMinuteEconomics.com' appear in the video?",
+            "options": [
+                "A. Only at the beginning of the video.",
+                "B. In the lower left corner throughout the video.",
+                "C. Only in market scenes.",
+                "D. Only when the scales appear."
+            ],
+            "answer": "B"
+        },
+        "GqeRnxSuLFI_123": {
+            "id": "GqeRnxSuLFI_123",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "In the video, how does the presence of 'OneMinuteEconomics.com' change?",
+            "options": [
+                "A. During certain transitions, the text briefly disappears.",
+                "B. The text remains visible at all times.",
+                "C. The text changes color to match different backgrounds.",
+                "D. The text switches positions between different corners of the screen."
+            ],
+            "answer": "B"
+        }
+    }
+}

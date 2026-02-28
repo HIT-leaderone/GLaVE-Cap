@@ -1,0 +1,3000 @@
+{
+    "scene_hint": {
+        "0": "薄雾笼罩群山，底部出现文字标识。",
+        "1": "一篇网页出现，后将网页中文本和图片分别放大。",
+        "2": "一个弯曲的建筑出现在画面中。",
+        "3": "“UNESCO”标志伴随其他文字出现。",
+        "4": "白色雪山被薄雾笼罩，山体隐约可见。",
+        "5": "薄雾散去，蓝色晶莹的天池被陡峭的山坡环绕。",
+        "6": "一群人在茂密的森林中行走。",
+        "7": "电子屏上显示红色文字，更多人向门内走去。",
+        "8": "一位女士正在讲述，后一群人观察墙上面板。",
+        "9": "人群经过木制拱门，拱门上方牌匾显示文字。",
+        "10": "一群人走在花草遍布的通道上。",
+        "11": "一群人站在湖边平台上。",
+        "12": "一个人正对另外两个人说话。",
+        "13": "岩质山丘上挤满了游客，镜头拉近通道上也是游客。",
+        "14": "人群走在装有栏杆和小溪旁的通道上。",
+        "15": "人群在郁郁葱葱的背景中站立。",
+        "16": "文字和几何图形出现在背景中，视频结束。"
+    },
+    "qa": {
+        "g7PjwIzqyCQ_0": {
+            "id": "g7PjwIzqyCQ_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "湖与周围山峰之间的空间关系是什么？",
+            "options": [
+                "A. 湖位于火山口状区域的中心，被山峰围绕。",
+                "B. 湖位于陡峭悬崖的边缘，远处有山峰环绕。",
+                "C. 湖位于一座崎岖山峰的山腰，伴有河流流下",
+                "D. 湖位于山脚的山谷中，周围是茂密的森林。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_1": {
+            "id": "g7PjwIzqyCQ_1",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "视频开始画面中右上角的标志是什么字体？",
+            "options": [
+                "A. 韩文字体+英文字体",
+                "B. 中文字体+英文字体",
+                "C. 韩文字体+俄文字体",
+                "D. 英文字体+俄文字体"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_2": {
+            "id": "g7PjwIzqyCQ_2",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "视频中是否描绘了任何人物或活动？",
+            "options": [
+                "A. 是的，有几位徒步旅行者在探索山脉。",
+                "B. 是的，有滑雪者在斜坡上滑行。",
+                "C. 不，视频中没有描绘任何人物或活动。",
+                "D. 是的，有一个团队在冰上进行地质研究。"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_3": {
+            "id": "g7PjwIzqyCQ_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "“자료화면 YTN”标志在画面什么位置？",
+            "options": [
+                "A. 在画面右上角",
+                "B. 在画面左上角",
+                "C. 在画面右下角",
+                "D. 在画面左下角"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_4": {
+            "id": "g7PjwIzqyCQ_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "视频中底部的文字覆盖部分大部分是用英语写的吗？",
+            "options": [
+                "A. 是的，它大部分是用英语写的。",
+                "B. 不，它大部分是用韩语写的。",
+                "C. 是的，它是用英语和韩语写的，各占一般。",
+                "D. 不，它大部分是用中文写的。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_5": {
+            "id": "g7PjwIzqyCQ_5",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频中突出的元素是什么？",
+            "options": [
+                "A. 被雪覆盖的山峰、冰冻的天池和薄雾等。",
+                "B. 茂密的树林、奇异的花草和野生动物等。",
+                "C. 巨大的山峰、高大的树木和各种动物等。",
+                "D. 一望无际的沙漠、带刺的仙人掌和爬行动物等。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_6": {
+            "id": "g7PjwIzqyCQ_6",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "使用哪种类型的镜头拍摄该场景？",
+            "options": [
+                "A. 近距离地面镜头",
+                "B. 广角航拍镜头",
+                "C. 全景放大镜头",
+                "D. 狭窄隧道视角"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_7": {
+            "id": "g7PjwIzqyCQ_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "视频中哪个视觉提示表明了画面的来源？",
+            "options": [
+                "A. 屏幕上显示的“자료화면 YTN”标志。",
+                "B. 屏幕底部的水印标有联合国教科文组织的标志。",
+                "C. 屏幕中央弹出的窗口显示“Footage Source: National Geographic”。",
+                "D. 底部的字幕提到“Footage belongs to the Mount Baekdu Preservation Society”。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_8": {
+            "id": "g7PjwIzqyCQ_8",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这一场景的核心焦点是什么？",
+            "options": [
+                "A. 是一个专门介绍‘Mount Changbaishan UNESCO Global Geopark’的网页。",
+                "B. 是一个关于长白山的联合国教科文组织会议。",
+                "C. 是长白山的地质景观。",
+                "D. 是关于东北亚火山口湖的纪录片。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_9": {
+            "id": "g7PjwIzqyCQ_9",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "这一场景的中心主题是如何通过视觉呈现的？",
+            "options": [
+                "A. 网页采用专业布局，顶部和标题采用粗体英文，并附有英语文字介绍和图片。",
+                "B. 视频通过幻灯片播放各种地质风光，配有英语解说和韩文字幕。",
+                "C. 视频提供长白山的实时导览，结合沉浸式虚拟现实体验和音频讲解。",
+                "D. 网页展示简单设计，文字极少且无字幕，仅专注于地质公园的图片。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_10": {
+            "id": "g7PjwIzqyCQ_10",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "网页上的标题是怎样的？",
+            "options": [
+                "A. 标题是加粗英文标题。",
+                "B. 标题是斜体的英文标题。",
+                "C. 标题是加粗韩文标题。",
+                "D. 标题是加粗中文标题"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_11": {
+            "id": "g7PjwIzqyCQ_11",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "网页上是什么类型的文本内容？",
+            "options": [
+                "A. 网页上是一段英文文本内容。",
+                "B. 网页上是一段韩文文本内容。",
+                "C. 网页上是一段中文文本内容。",
+                "D. 网页上只有图片未出现文本内容。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_12": {
+            "id": "g7PjwIzqyCQ_12",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "除了英文文本还有哪些其他可见的文本元素？",
+            "options": [
+                "A. 贯穿整个序列发展的韩文字幕。",
+                "B. 具有动画的地质图。",
+                "C. 展示了一份来访长白山的名人名单。",
+                "D. 包含地质公园的交互地图。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_13": {
+            "id": "g7PjwIzqyCQ_13",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "展示网页的背景设计是什么？",
+            "options": [
+                "A. 网页将文字部分放大模糊处理来充当背景来突出网页。",
+                "B. 网页使用充满活力的配色方案，并包含野生动植物的图片。",
+                "C. 网页使用带有抽象图案的纯蓝色背景。",
+                "D. 网页展示了一幅五彩缤纷的长白山地图。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_14": {
+            "id": "g7PjwIzqyCQ_14",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "网页左上角显示的英文标志是什么？",
+            "options": [
+                "A. 'YTN'",
+                "B. 'BBC'",
+                "C. 'CNN'",
+                "D. 'UNESCO'"
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_15": {
+            "id": "g7PjwIzqyCQ_15",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "韩文字幕在这个序列中起什么作用？",
+            "options": [
+                "A. 韩文字幕提供了关于长白山英文网页介绍的补充背景和说明。",
+                "B. 韩文字幕将英文文本翻译成韩文，供不懂英文的观众观看。",
+                "C. 韩文字幕提供了长白山地质构造及其重要性的详细历史。",
+                "D. 韩文字幕为那些更喜欢阅读而不是观看的观众提供了视频内容的摘要。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_16": {
+            "id": "g7PjwIzqyCQ_16",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在整个序列中，英语文本的清晰度发生了什么变化？",
+            "options": [
+                "A. 在整个序列中，英语文本始终模糊不清，无法阅读。",
+                "B. 英语文本的清晰度在后续中得到改善，提高了可读性。",
+                "C. 在整个序列中，英语文本逐渐变小，越来越难以阅读。",
+                "D. 英语文本逐渐消失，随着时间的推移变得不那么明显。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_17": {
+            "id": "g7PjwIzqyCQ_17",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "韩语字幕在整个序列中如何变化？",
+            "options": [
+                "A. 韩语字幕在后面的画面中变为完全不同的字段。",
+                "B. 随着序列的推进，韩语字幕完全消失。",
+                "C. 韩语字幕改变颜色以突出关键点。",
+                "D. 韩语字幕保持不变，没有任何变化。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_18": {
+            "id": "g7PjwIzqyCQ_18",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "网页上的英语正文文本位于哪里？",
+            "options": [
+                "A. 英语正文文本显著显示在粗体标题和主标题的下方。",
+                "B. 英语正文文本位于网页右上角，YTN徽标旁边。",
+                "C. 英语正文文本嵌入在背景中的灰度地质图像中。",
+                "D. 英语正文文本位于网页底部，靠近韩文字幕。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_19": {
+            "id": "g7PjwIzqyCQ_19",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "网页上的韩文字幕位于哪里？",
+            "options": [
+                "A. 韩文字幕位于页面顶部。",
+                "B. 韩文字幕位于页面底部。",
+                "C. 韩文字幕位于页面中部。",
+                "D. 韩文字幕位于页面的侧边。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_20": {
+            "id": "g7PjwIzqyCQ_20",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "这一场景上的“YTN”标志位于哪里？",
+            "options": [
+                "A. “YTN”标志位于右上角。",
+                "B. “YTN”标志位于左下角。",
+                "C. “YTN”标志位于网页顶部的中央。",
+                "D. “YTN”标志位于左上角。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_21": {
+            "id": "g7PjwIzqyCQ_21",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素表明视频的来源？",
+            "options": [
+                "A. 一个蓝色的“UNESCO”标志提供了关于视频来源的线索。",
+                "B. 一个醒目的标题“Mount Changbaishan UNESCO Global Geopark”明确了视频的来源。",
+                "C. 网页底部的韩文字幕作为视频来源的指示。",
+                "D. 右上角的YTN图标确认了视频的来源。"
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_22": {
+            "id": "g7PjwIzqyCQ_22",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素表明网页文本内容的来源？",
+            "options": [
+                "A. 蓝色的“UNESCO”标志提供了关于网页文本来源线索。",
+                "B. 标题“Mount Changbaishan UNESCO Global Geopark”明确了网页文本来源。",
+                "C. 网页底部的韩文字幕作为网页文本来源的指示。",
+                "D. 地质景观的灰度图像确认了网页文本的来源。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_23": {
+            "id": "g7PjwIzqyCQ_23",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素表明视频内容的可信性？",
+            "options": [
+                "A. 视频底部韩文字幕的存在。",
+                "B. 右上角一致出现的 'YTN' 标志提供了关于内容可信性的提示。",
+                "C. 背景中地质景观的灰度图像。",
+                "D. 半透明的白色遮盖层，将画面归因于联合国教科文组织的官方网站。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_24": {
+            "id": "g7PjwIzqyCQ_24",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "文本的视觉属性如何随时间变化？",
+            "options": [
+                "A. 英文文本的清晰度随着时间的推移而提高，使其更易读。",
+                "B. 英文文本的颜色从黑色变为蓝色，以吸引更多注意力到内容上。",
+                "C. 英文文本的字体大小随着时间的推移而减小，更加突出韩文字幕。",
+                "D. 英文文本逐渐淡出，使韩文字幕成为主要焦点。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_25": {
+            "id": "g7PjwIzqyCQ_25",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "哪种空间元素强调了自然环境的规模？",
+            "options": [
+                "A. 山坡上的蜿蜒道路或小径",
+                "B. 天空中的绵白云",
+                "C. 右上角的YTN标志",
+                "D. 底部的韩语字幕"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_26": {
+            "id": "g7PjwIzqyCQ_26",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "在包含文本的网页后面的主要视觉焦点是什么？",
+            "options": [
+                "A. 一幅天池的鸟瞰图，这个深蓝色的口湖被崎岖的山脊环绕。",
+                "B. 长白山地质公园详细历史文本的特写。",
+                "C. 一个繁华的城市景观，拥有摩天大楼和现代建筑。",
+                "D. 一幅没有可见水体的茂密森林的全景图。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_27": {
+            "id": "g7PjwIzqyCQ_27",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "景观中路的存在表明了人类的哪些互动？",
+            "options": [
+                "A. 蜿蜒小路暗示了人类可能将其用作徒步小径或探索之路。",
+                "B. 宽广的柏油路表明车辆经常通过该区域进行保护工作。",
+                "C. 布满火山岩的宽广土路是一种历史遗迹，表明过去的火山活动。",
+                "D. 有明显边界隔离的小路表明是地质区之间的边界标志。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_28": {
+            "id": "g7PjwIzqyCQ_28",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "可以观察到有关“YTN”标志的哪些细节？",
+            "options": [
+                "A. “YTN”标志显示在左下角，在不同的画面中位置变化。",
+                "B. “YTN”标志始终出现在画面的右上角位置，强化媒体品牌。",
+                "C. “YTN”标志间歇性地出现在场景的下方中央，有时在画面之间消失。",
+                "D. “YTN”标志显著地显示在屏幕中央，改变视觉焦点。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_29": {
+            "id": "g7PjwIzqyCQ_29",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这一场景中明确描述了哪些画面？",
+            "options": [
+                "A. 一个专注于基于文本的演示，另一个专注于天池及其周围环境展示。",
+                "B. 一个展示繁华的城市景观，另一个展示宁静的海滩。",
+                "C. 一个描绘历史重演，另一个展示现代艺术画廊。",
+                "D. 一个突显烹饪演示，另一个是体育活动。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_30": {
+            "id": "g7PjwIzqyCQ_30",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "该场景在文字和图像过渡中是否保留韩文字幕？",
+            "options": [
+                "A. 是的，该场景在过渡中都保留了韩文字幕。",
+                "B. 不，韩文字幕仅出现在文字部分。",
+                "C. 不，韩文字幕仅出现在图像过渡部分。",
+                "D. 不，该场景中没有韩文字幕。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_31": {
+            "id": "g7PjwIzqyCQ_31",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "在场景中，蜿蜒的道路或小径通向哪个方向？",
+            "options": [
+                "A. 蜿蜒的道路向下延伸到一个湖泊。",
+                "B. 蜿蜒的道路向上延伸到山脊。",
+                "C. 蜿蜒的道路通向一片茂密的森林。",
+                "D. 蜿蜒的道路环绕湖泊。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_32": {
+            "id": "g7PjwIzqyCQ_32",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "拍摄天池湖及其周围风景使用哪种类型的镜头？",
+            "options": [
+                "A. 使用广角、稍微提高的视角。",
+                "B. 使用特写镜头，聚焦在湖面上。",
+                "C. 使用从山脚下仰拍的低角度镜头。",
+                "D. 使用无人机从正上方拍摄的全景视角。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_33": {
+            "id": "g7PjwIzqyCQ_33",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在天池景观的后续画面中，能见度发生了哪些变化？",
+            "options": [
+                "A. 画面略微放大，能见度得到了微妙的增强。",
+                "B. 湖面的变化反映出日落的天空。",
+                "C. 山地地形过渡为沙漠景观。",
+                "D. 天空中的云被一群鸟取代。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_34": {
+            "id": "g7PjwIzqyCQ_34",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在演示中，哪些视觉元素在文本和图像之间提供了连续性？",
+            "options": [
+                "A. 韩文字幕和“YTN”标志在演示中为文本和图像之间提供了连续性。",
+                "B. 文本的颜色变化和摄像机的移动在演示中为文本和图像之间提供了连续性。",
+                "C. 英文字幕和山脉的形状在演示中为文本和图像之间提供了连续性。",
+                "D. 天池的航拍视角和背景解说的声音在演示中为文本和图像之间提供了连续性。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_35": {
+            "id": "g7PjwIzqyCQ_35",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "这座建筑的周围是什么样的结构？",
+            "options": [
+                "A. 一片密集的森林区域",
+                "B. 一片整洁的绿草地",
+                "C. 一条繁忙的城市街道",
+                "D. 一片沙漠地带"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_36": {
+            "id": "g7PjwIzqyCQ_36",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "在这座大楼的前景中有什么？",
+            "options": [
+                "A. 一排高旗杆",
+                "B. 一个装饰性喷泉",
+                "C. 一个大型停车场",
+                "D. 一排修剪整齐的灌木丛"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_37": {
+            "id": "g7PjwIzqyCQ_37",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "机构建筑的背景是什么？",
+            "options": [
+                "A. 建筑周围是一片茂密的森林。",
+                "B. 背景是明亮的蓝天和绵软的云朵。",
+                "C. 建筑后面可以看到一片岩石山脉。",
+                "D. 背景是一条宽阔的河流。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_38": {
+            "id": "g7PjwIzqyCQ_38",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "这一场景中展示了什么样的环境？",
+            "options": [
+                "A. 展示了一个繁忙的城市市场环境。",
+                "B. 展示了蓝天白云和绿色植物的自然环境。",
+                "C. 展示了沙丘起伏的热带沙漠环境。",
+                "D. 展示了一片茂密树木的热带雨林环境。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_39": {
+            "id": "g7PjwIzqyCQ_39",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频中展示了什么样的建筑环境？",
+            "options": [
+                "A. 被茂密森林包围的乡村木屋环境",
+                "B. 被绿色植被包围的现代建筑结构环境",
+                "C. 充满人群和商店的繁忙城市广场环境",
+                "D. 具有丰富文化元素的传统市场环境"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_40": {
+            "id": "g7PjwIzqyCQ_40",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "这一场景中是否直接可见任何人类角色？",
+            "options": [
+                "A. 是的，有几个人在湖边行走。",
+                "B. 不，视频中没有直接可见的人类角色。",
+                "C. 是的，有一群游客在参观建筑物。",
+                "D. 是的，有一位科学家在解释这座山的特点。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_41": {
+            "id": "g7PjwIzqyCQ_41",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "画面中的机构建筑有哪些特色？",
+            "options": [
+                "A. 建筑是现代风格的，带有弧形设计、一排排的明亮窗户等。",
+                "B. 建筑是历史性的，呈方形，由石头建造。",
+                "C. 建筑是未来风格的，呈螺旋形设计，并配有彩色LED面板。",
+                "D. 建筑是一层高的木制结构，周围环绕着茂密的森林。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_42": {
+            "id": "g7PjwIzqyCQ_42",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "场景中展示了多少种不同的环境？",
+            "options": [
+                "A. 视频展示了一种环境。",
+                "B. 视频展示了两种环境。",
+                "C. 视频展示了三种环境。",
+                "D. 视频展示了四种环境。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_43": {
+            "id": "g7PjwIzqyCQ_43",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "视频中是否包含任何文字叠加？",
+            "options": [
+                "A. 是的，视频中包含韩文字幕和韩英文标签。",
+                "B. 不，视频中没有任何文字叠加。",
+                "C. 是的，但只有一些不明确的符号可见。",
+                "D. 是的，视频中有日文字幕，没有任何标志。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_44": {
+            "id": "g7PjwIzqyCQ_44",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "视频中，从上一场景到这一场景的焦点是如何变化的？",
+            "options": [
+                "A. 焦点从天池湖的自然美景过渡到建筑环境的结构化、专业氛围上。",
+                "B. 焦点从天池湖的历史意义转移到建筑展示的尖端技术，突显研究的进步。",
+                "C. 焦点从天池湖附近的工业区转移到密集的城市发展，展示长白山在现代经济增长中的作用。",
+                "D. 焦点从天池湖的贫瘠沙漠景观转变为由体制建筑管理的郁郁葱葱的农业田野。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_45": {
+            "id": "g7PjwIzqyCQ_45",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素标识了视频的媒体来源？",
+            "options": [
+                "A. 右上角的 'YTN' 标志和 '자료화면' 标签确认视频的媒体来源。。",
+                "B. 韩文字幕和自然环境鲜艳的色彩确认了视频片段的媒体来源。",
+                "C. 现代建筑和详细的文字叠加说明了视频的媒体来源。",
+                "D. 旗杆和明亮的蓝天是媒体来源的主要标识。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_46": {
+            "id": "g7PjwIzqyCQ_46",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "这一场景中的背景如何？",
+            "options": [
+                "A. 背景是部分遮挡的建筑、反射的窗格和高大的树木等。",
+                "B. 背景是人们在树下野餐，孩子们在开阔的田野中玩耍。",
+                "C. 背景是高耸的摩天大楼、繁忙的街道和拥挤的人行道。",
+                "D. 背景是茂密的森林、木屋和流淌的河流。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_47": {
+            "id": "g7PjwIzqyCQ_47",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "韩文字幕对长白山传达了什么叙述？",
+            "options": [
+                "A. 韩文字幕叙述长白山是一个“火山活动的户外课堂”，并强调其科学和教育的重要性。",
+                "B. 韩文字幕描述长白山为以其独特的生物多样性和风景秀丽而闻名的自然奇观。",
+                "C. 韩文字幕强调长白山作为一个对古代文化遗产具有重要意义的历史遗址。",
+                "D. 韩文字幕将长白山称为一个受欢迎的旅游目的地和国际合作的象征。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_48": {
+            "id": "g7PjwIzqyCQ_48",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "“UNESCO”标志的特点是什么？",
+            "options": [
+                "A. “UNESCO”标志是一块雕刻的木质牌匾，涂有五彩颜料，带有复杂的图案。",
+                "B. “UNESCO”标志是一个三维金属结构，安装在风化的混凝土基座上。",
+                "C. “UNESCO”标志是一块平坦的金属牌，仅有少量文字，没有额外的刻字。",
+                "D. “UNESCO”标志是一个霓虹灯结构，带有闪烁的灯光和旋转部件。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_49": {
+            "id": "g7PjwIzqyCQ_49",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "这一场景上使用了多少种语言？",
+            "options": [
+                "A. 一种语言",
+                "B. 两种语言",
+                "C. 三种语言",
+                "D. 四种语言"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_50": {
+            "id": "g7PjwIzqyCQ_50",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "在这一场景中，天空是否完全可见？",
+            "options": [
+                "A. 是的，天空在紧密构图视角下完全可见。",
+                "B. 不，因构图较紧，蓝天部分被遮挡。",
+                "C. 是的，天空在紧密构图视角中占据了背景。",
+                "D. 不，因注重联合国教科文组织标志，天空完全被挡住。"
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_51": {
+            "id": "g7PjwIzqyCQ_51",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "从建筑物到文字标志的过渡突出了什么动作？",
+            "options": [
+                "A. 过渡通过将注意力从宏伟的机构建筑转移到标志上，强调了标志的重要性。",
+                "B. 过渡通过聚焦于建筑物的反光窗户，突出了机构建筑的建筑设计。",
+                "C. 过渡通过放大郁郁葱葱的绿色草坪，展示了周围景观的自然美。",
+                "D. 过渡通过聚焦于风化的混凝土基座，强调了联合国教科文组织标志的历史重要性。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_52": {
+            "id": "g7PjwIzqyCQ_52",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "“UNESCO”标志后面的金属栅栏的垂直条纹的方向如何？",
+            "options": [
+                "A. 它们是垂直的。",
+                "B. 它们是水平的。",
+                "C. 它们是对角线的。",
+                "D. 它们呈锯齿形排列。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_53": {
+            "id": "g7PjwIzqyCQ_53",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "使用什么类型的摄影镜头来突出“UNESCO”标志？",
+            "options": [
+                "A. 使用紧密构图的视角来突出“UNESCO”标志。",
+                "B. 使用广角镜头来突出“UNESCO”标志。",
+                "C. 使用鸟瞰图来突出“UNESCO”标志。",
+                "D. 使用全景镜头来突出“UNESCO”标志。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_54": {
+            "id": "g7PjwIzqyCQ_54",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "使用这一视角对“UNESCO”标志有什么影响？",
+            "options": [
+                "A. 它为地标增添了真实感和历史深度。",
+                "B. 它突出了背景中绿植的鲜艳色彩。",
+                "C. 它强调了周围建筑的现代建筑设计。",
+                "D. 它将焦点完全转移到关于长白山的文字叠加上。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_55": {
+            "id": "g7PjwIzqyCQ_55",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素有助于理解视频中的场景和叙述？",
+            "options": [
+                "A. 白色韩文字幕、'YTN'标志和'자료화면'文字覆盖有助于理解场景和叙述。",
+                "B. 茂密的绿色草坪和垂直的旗杆提供了主题连续性和品牌特色。",
+                "C. 反光的窗户网格和蓬松的云朵通过提供主题连续性和品牌特色，有助于理解场景和叙述。",
+                "D. 联合国教科文组织标志的金属字母和风化的混凝土底座提供了主题连续性和品牌特色。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_56": {
+            "id": "g7PjwIzqyCQ_56",
+            "scene": 4,
+            "dimension": "Camera Direction",
+            "question": "从上一场景来看，视角是如何变化的？",
+            "options": [
+                "A. 视角从突显“UNESCO”标志纹理表面的特写镜头转换。",
+                "B. 视角转换到一个展示“UNESCO”文物的博物馆展览室内镜头。",
+                "C. 视角变化到繁忙的城市街道，上面展示着“UNESCO”横幅。",
+                "D. 视角过渡到一处野生动物保护区，没有提到“UNESCO”。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_57": {
+            "id": "g7PjwIzqyCQ_57",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "视角如何转换到雪景？",
+            "options": [
+                "A. 视角转变为广角视野，展现辽阔、静谧且孤立的雪景延伸至崎岖的山脉。",
+                "B. 视角移至山脉近景，仅强调峭壁和积雪。",
+                "C. 视角扫过繁忙的城市景观，没有提及山脉或雪。",
+                "D. 视角向上倾斜，仅聚焦在多云的天空，忽略了雪原和山脉。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_58": {
+            "id": "g7PjwIzqyCQ_58",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "这一场景中是否有任何人类存在的迹象？",
+            "options": [
+                "A. 是的，描述中有明显的人类存在。",
+                "B. 不，描述中没有直接提到人类存在。",
+                "C. 是的，暗示有人类存在，但没有直接展示。",
+                "D. 是的，有人类生存的痕迹。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_59": {
+            "id": "g7PjwIzqyCQ_59",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "视频描述中是否有任何人类活动的迹象？",
+            "options": [
+                "A. 是的，有多种人类活动的迹象。",
+                "B. 是的，出现一个联合国教科文组织的标志表明了人类活动。",
+                "C. 否，没有直接描述人类活动。",
+                "D. 否，视频仅关注自然地质特征。"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_60": {
+            "id": "g7PjwIzqyCQ_60",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "“YTN”标志是否在整个场景中出现？",
+            "options": [
+                "A. 是的，“YTN”标志在整个场景中保持可见。",
+                "B. 不，'YTN'标志仅在场景开始部分可见。",
+                "C. 不，'YTN'标志在切换过程中消失。",
+                "D. 是的，但“YTN”标志仅在场景的中途可见。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_61": {
+            "id": "g7PjwIzqyCQ_61",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "哪些变化提升了对长白山场景的感受？",
+            "options": [
+                "A. 薄雾或低云，遮掩部分雪原和山脉，增加了神秘感。",
+                "B. 增加明亮的阳光，照亮整个景观，营造出愉快的氛围。",
+                "C. 移除所有云层，呈现出清晰无遮挡的山景。",
+                "D. 背景中出现繁忙的城市景观，为场景增添现代感。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_62": {
+            "id": "g7PjwIzqyCQ_62",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "用什么类型的摄影镜头来捕捉雪景和长白山？",
+            "options": [
+                "A. 使用特写镜头。",
+                "B. 使用中景镜头。",
+                "C. 使用广角镜头。",
+                "D. 使用极近特写镜头。"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_63": {
+            "id": "g7PjwIzqyCQ_63",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "这一场景中，韩文字幕字段是否发生改变？",
+            "options": [
+                "A. 不，字段完全未发生改变。",
+                "B. 是的，字段减少了。",
+                "C. 是的，字段增加了。",
+                "D. 是的，字段在场景后期完全消失。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_64": {
+            "id": "g7PjwIzqyCQ_64",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素提供了长白山重要性的背景信息？",
+            "options": [
+                "A. 韩文字幕以及持续出现的“YTN”标志表明了长白山的重要背景。",
+                "B. 陈旧的金属联合国教科文组织标志和围栏提供了长白山重要性的全部背景信息。",
+                "C. 雪地上的雾气和低云单独传达了长白山的地质重要性。",
+                "D. 散射的光线和部分多云的天空是突出长白山教育价值的主要元素。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_65": {
+            "id": "g7PjwIzqyCQ_65",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "湖泊在其环境中的位置是什么？",
+            "options": [
+                "A. 湖泊位于中心位置。",
+                "B. 湖泊位于山的外坡上。",
+                "C. 湖泊部分隐藏在茂密的森林后面。",
+                "D. 湖泊位于平坦高原的顶部。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_66": {
+            "id": "g7PjwIzqyCQ_66",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "湖泊周围是什么？",
+            "options": [
+                "A. 湖泊被陡峭、崎岖、连绵的山坡包围。",
+                "B. 湖泊被茂密的森林和郁郁葱葱的绿色草地包围。",
+                "C. 湖泊被白雪覆盖的山峰和浓雾包围。",
+                "D. 湖泊被沙滩和棕榈树包围。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_67": {
+            "id": "g7PjwIzqyCQ_67",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "湖泊及其周围形成了什么样的结构？",
+            "options": [
+                "A. 它们形成了类似高原的结构。",
+                "B. 它们形成了类似火山口的结构。",
+                "C. 它们形成了类似峡谷的结构。",
+                "D. 它们形成了类似山谷的结构。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_68": {
+            "id": "g7PjwIzqyCQ_68",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "这一场景中如何描绘周围的环境？",
+            "options": [
+                "A. 有深蓝色湖泊，崎岖的山坡和稀疏的植被，天空中有部分云层。",
+                "B. 有沙丘和炙热的阳光，成片的仙人掌和万里无云的蓝色天空。",
+                "C. 有摩天大楼和成片的街道，以及密集的人群和车辆。",
+                "D. 有茂密的丛林，流淌的小溪和被树木遮盖的天空。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_69": {
+            "id": "g7PjwIzqyCQ_69",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "场景中是否有人类的存在？",
+            "options": [
+                "A. 有，悬崖上有攀岩者。",
+                "B. 没有，场景中没有人类的存在。",
+                "C. 有，火山口湖上有人在划船。",
+                "D. 有，有徒步者在探索崎岖的地形。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_70": {
+            "id": "g7PjwIzqyCQ_70",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "场景中描绘了任何人类活动吗？",
+            "options": [
+                "A. 是的，有人在爬山。",
+                "B. 是的，火山口湖上有船只。",
+                "C. 不是，场景中没有描绘任何人类活动。",
+                "D. 是的，湖附近有一个营地。"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_71": {
+            "id": "g7PjwIzqyCQ_71",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "视频中有哪种文本元素被叠加在场景上？",
+            "options": [
+                "A. 黑色韩文字幕出现在白色框中。",
+                "B. 白色英文字幕出现在黑色框中。",
+                "C. 黑色中文字幕出现在白色框中。",
+                "D. 黑色韩文字幕出现在画面顶部。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_72": {
+            "id": "g7PjwIzqyCQ_72",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "场景中一直存在的标志是什么？",
+            "options": [
+                "A. 'YTN'标志始终位于画面右上角。",
+                "B. 'CNN'标志始终位于在画面左下角。",
+                "C. 'BBC'标志始终出现在画面中央。",
+                "D. 'NHK'标志始终位于画面右下角。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_73": {
+            "id": "g7PjwIzqyCQ_73",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "湖泊在整个场景中是否始终可见？",
+            "options": [
+                "A. 是的，湖泊在整个场景中始终可见。",
+                "B. 不，湖泊最初被薄雾遮挡，随着薄雾消散才变得可见。",
+                "C. 是的，但由于薄雾的存在，湖泊仅部分可见。",
+                "D. 不，湖泊在整个视频中始终完全被遮挡。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_74": {
+            "id": "g7PjwIzqyCQ_74",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "这一场景使用哪种类型的镜头拍摄湖泊？",
+            "options": [
+                "A. 聚焦湖面特写镜头。",
+                "B. 从高处或者广角镜头强调湖泊的广阔。",
+                "C. 从火山口底部拍摄的低角度镜头。",
+                "D. 拍摄湖面薄雾消散的延时镜头。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_75": {
+            "id": "g7PjwIzqyCQ_75",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "这一场景的色彩是怎样的？",
+            "options": [
+                "A. 色彩是深蓝色、土棕色和绿色等生动色调。",
+                "B. 色彩是粉红色、紫色和水蓝色等淡雅色调。",
+                "C. 色彩呈现灰色、白色和黑色等昏暗色调。",
+                "D. 色彩是白色、灰色、和淡蓝色等模糊色调。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_76": {
+            "id": "g7PjwIzqyCQ_76",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "从视频来看，穿浅棕色衬衫的男人和穿绿色衣服的男人之间的空间关系是什么？",
+            "options": [
+                "A. 穿绿色衣服的男人在穿浅棕色衬衫的男人的左后方。",
+                "B. 穿绿色衣服的男人在穿浅棕色衬衫的男人的右后方。",
+                "C. 穿绿色衣服的男人在穿浅棕色衬衫的男人的左前方。",
+                "D. 穿绿色衣服的男人在穿浅棕色衬衫的男人的右前方。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_77": {
+            "id": "g7PjwIzqyCQ_77",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "从视频来看，穿浅棕色衬衫的男子与穿蓝色服装的男子之间的空间关系是什么？",
+            "options": [
+                "A. 穿蓝色服装的男子在穿浅棕色衬衫的男子左边。",
+                "B. 穿蓝色服装的男子在穿浅棕色衬衫的男子右边。",
+                "C. 穿蓝色服装的男子在穿浅棕色衬衫的男子后面。",
+                "D. 穿蓝色服装的男子在穿浅棕色衬衫的男子前面。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_78": {
+            "id": "g7PjwIzqyCQ_78",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景背景是怎样的？",
+            "options": [
+                "A. 场景是密林环境，周围有各种茂密的植被。",
+                "B. 场景是被高山环绕的宁静草地。",
+                "C. 场景有沙丘的沙漠景观。",
+                "D. 场景是人们享受娱乐活动的城市公园。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_79": {
+            "id": "g7PjwIzqyCQ_79",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "穿浅棕色衬衫的男人有什么特征？",
+            "options": [
+                "A. 穿浅棕色衬衫的男人挎着一个黑色背带的包和脖子上戴着牌子。",
+                "B. 穿浅棕色衬衫的男人提着一个绿色背带的包和一个指南针。",
+                "C. 穿浅棕色衬衫的男人背着一个黑色的背包和一顶帽子。",
+                "D. 穿浅棕色衬衫的男人拿着一件蓝色的夹克和一根登山杖。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_80": {
+            "id": "g7PjwIzqyCQ_80",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "场景中哪些可见物体表明有组织的活动？",
+            "options": [
+                "A. 他们脖子处都戴有类似工牌的牌子。",
+                "B. 屏幕上出现的韩文叠加文字和“YTN”标志。",
+                "C. 远处背景中的火山口湖，被崎岖的山坡环绕。",
+                "D. 穿过森林树冠的过滤光线。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_81": {
+            "id": "g7PjwIzqyCQ_81",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "整个场景中是否保持与长白山景观的视觉联系？",
+            "options": [
+                "A. 是的，持续的韩文字幕和标志在整个场景中保持了与长白山景观的联系。",
+                "B. 不，视频完全转向森林环境，没有任何与火山景观的参考。",
+                "C. 是的，但仅通过背景中火山湖的短暂闪现。",
+                "D. 不，火山主题仅在旁白中提到，并没有在视觉上保持。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_82": {
+            "id": "g7PjwIzqyCQ_82",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "森林里的光线如何？",
+            "options": [
+                "A. 光线强烈，投射出明显的阴影。",
+                "B. 森林光线明亮而不刺眼。",
+                "C. 森林置于黑暗之中。",
+                "D. 光线形成强烈的定向光束，照亮特定区域。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_83": {
+            "id": "g7PjwIzqyCQ_83",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "在这一场景中奏如何变化？",
+            "options": [
+                "A. 节奏变得更加动态和生动。",
+                "B. 节奏明显静止状态，突显出森林中的宁静。",
+                "C. 节奏与先前火山口场景保持一致。",
+                "D. 节奏变得混乱无序，反映人类活动。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_84": {
+            "id": "g7PjwIzqyCQ_84",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "这一场景环境是怎样的？",
+            "options": [
+                "A. 环境是郁郁葱葱的森林景观。",
+                "B. 环境是繁忙的城市景观。",
+                "C. 环境是人烟稀少的沙漠景观。",
+                "D. 环境是昏暗的水下场景。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_85": {
+            "id": "g7PjwIzqyCQ_85",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "整个场景的规模是如何变化的？",
+            "options": [
+                "A. 规模从广阔宁静变为亲密的人类尺度。",
+                "B. 视频中规模始终保持不变。",
+                "C. 规模从亲密的人类尺度变为广阔宁静。",
+                "D. 规模从混乱拥挤变为平和空旷。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_86": {
+            "id": "g7PjwIzqyCQ_86",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "从上一场景到这一场景中观察到的活动发生了哪些变化？",
+            "options": [
+                "A. 活动从自然的宁静变为人类动态动作。",
+                "B. 活动从繁忙的城市景观转变为乡村耕作。",
+                "C. 活动从一个安静的湖泊转变为家庭野餐。",
+                "D. 活动从森林探险转变为登山。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_87": {
+            "id": "g7PjwIzqyCQ_87",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "场景中有什么标签指示其播出来源？",
+            "options": [
+                "A. 左上角的“KBS”标签是指示播出来源的视觉提示。",
+                "B. 右下角的“SBS”标签是指示播出来源的视觉提示。",
+                "C. 右上角的“YTN”标签是指示播出来源的视觉提示。",
+                "D. 中央的“MBC”标签是指示播出来源的视觉提示。"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_88": {
+            "id": "g7PjwIzqyCQ_88",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "戴白色帽子的男人相对于博物馆入口的位置在哪里？",
+            "options": [
+                "A. 戴白色帽子的男人位于中央，正朝着博物馆入口走去。",
+                "B. 戴白色帽子的男人静止地站在博物馆入口附近。",
+                "C. 戴白色帽子的男人在场景的最右侧。",
+                "D. 戴白色帽子的男人正走离博物馆入口。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_89": {
+            "id": "g7PjwIzqyCQ_89",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "戴白色帽子的男人相对于相机的位置在哪里？",
+            "options": [
+                "A. 戴白色帽子的男人背对着相机。",
+                "B. 戴白色帽子的男人面向相机。",
+                "C. 戴白色帽子的男人在相机的左边。",
+                "D. 戴白色帽子的男人站在博物馆里。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_90": {
+            "id": "g7PjwIzqyCQ_90",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "上一个场景是什么？",
+            "options": [
+                "A. 一条充满行人和车辆的繁忙城市街道。",
+                "B. 一片充满自然光和人群的茂密森林。",
+                "C. 一片有沙丘的开阔沙漠景观。",
+                "D. 一个有老房子和田地的宁静乡村。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_91": {
+            "id": "g7PjwIzqyCQ_91",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "这一场景有什么特点？",
+            "options": [
+                "A. 背景是现代建筑门口，上方电子屏上有文字显示。",
+                "B. 背景是没有人迹的茂密森林区域。",
+                "C. 背景是有众多摩天大楼的繁忙城市街道。",
+                "D. 背景是被农田包围的宁静村庄。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_92": {
+            "id": "g7PjwIzqyCQ_92",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "穿绿色衣服背黑色背包的人在做什么？",
+            "options": [
+                "A. 她正在拍博物馆的照片。",
+                "B. 她正在朝博物馆门口走去。",
+                "C. 她正在和画面外的某人交谈。",
+                "D. 她站在那里不动，正在观察博物馆。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_93": {
+            "id": "g7PjwIzqyCQ_93",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "长白山地质公园博物馆门口有哪些元素？",
+            "options": [
+                "A. 有木门，入口上方有一座装饰性的牌楼等。",
+                "B. 有玻璃组成的门和墙，以及入口上方的欢迎标志等。",
+                "C. 有石墙，入口悬挂着一条横幅等。",
+                "D. 有弯曲的金属墙壁和滑动玻璃门等。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_94": {
+            "id": "g7PjwIzqyCQ_94",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "博物馆入口上方的标志上有英文吗？",
+            "options": [
+                "A. 有",
+                "B. 没有",
+                "C. 只有中文",
+                "D. 只有韩文"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_95": {
+            "id": "g7PjwIzqyCQ_95",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "博物馆入口上方的标志上有中文吗？",
+            "options": [
+                "A. 有",
+                "B. 没有",
+                "C. 只有韩文",
+                "D. 只有英文"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_96": {
+            "id": "g7PjwIzqyCQ_96",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "画面最右边白头发的男人在做什么？",
+            "options": [
+                "A. 最右边的人正在进入博物馆。",
+                "B. 最右边的人正在拍摄建筑物的照片。",
+                "C. 最右边的人似乎正在回头等人。",
+                "D. 最右边的人正在阅读博物馆的招牌。"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_97": {
+            "id": "g7PjwIzqyCQ_97",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "‘长白山地质公园博物馆’文字是什么样的？",
+            "options": [
+                "A. 红色",
+                "B. 黄色",
+                "C. 蓝色",
+                "D. 紫色"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_98": {
+            "id": "g7PjwIzqyCQ_98",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "这个视频提供了长白山地质公园博物馆的什么视角？",
+            "options": [
+                "A. 该视频提供了空中视角。",
+                "B. 该视频提供了特写视角。",
+                "C. 该视频提供了平视视角。",
+                "D. 该视频提供了全景视角。"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_99": {
+            "id": "g7PjwIzqyCQ_99",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "在视频中，哪些视觉提示强调了长白山的重要性？",
+            "options": [
+                "A. '자료화면'标签和'YTN'标志的位置突出了长白山的重要性。",
+                "B. 博物馆外标牌上的红色文字强调了长白山的重要性。",
+                "C. 博物馆建筑本身的设计展示了长白山的历史意义。",
+                "D. 人们穿的白衬衫强调了长白山的重要性。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_100": {
+            "id": "g7PjwIzqyCQ_100",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "在博物馆大厅中，从视频来看，穿浅色衬衫和深色裤子，拿着麦克风的女人位于哪里？",
+            "options": [
+                "A. 她位于画面左侧。",
+                "B. 她位于画面中央。",
+                "C. 她位于画面右侧。",
+                "D. 她站在房间的远侧。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_101": {
+            "id": "g7PjwIzqyCQ_101",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "在博物馆大厅中，画面左侧，穿着浅色衬衫和深色裤子的女人正在做什么？",
+            "options": [
+                "A. 她正在拿着一个麦克风。",
+                "B. 她正在指着一个电子显示屏。",
+                "C. 她正在写在一个剪贴板上。",
+                "D. 她正在向小组分发宣传册。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_102": {
+            "id": "g7PjwIzqyCQ_102",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "在博物馆大厅中，谁在画面左侧，穿浅色衬衫和深色裤子的女人旁边？",
+            "options": [
+                "A. 一个穿浅绿色衬衫、挎着包、姿态随意的男人。",
+                "B. 一个穿黑色西装、手拿文件夹的正式打扮的男人。",
+                "C. 一个穿紫色上衣和灰色裤子的女人。",
+                "D. 一个穿深蓝色衬衫和夹克的男人。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_103": {
+            "id": "g7PjwIzqyCQ_103",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "博物馆内展览或类似大厅空间的氛围如何？",
+            "options": [
+                "A. 氛围柔和且适合交谈，光线明亮。",
+                "B. 氛围混乱且繁忙，聚光灯明亮，互动声音嘈杂。",
+                "C. 氛围安静且庄重，光线极少，没有交谈。",
+                "D. 氛围欢快且热闹，装饰鲜艳，音乐播放。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_104": {
+            "id": "g7PjwIzqyCQ_104",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "在博物馆大厅中，在场景左侧，穿浅色衬衫和深色裤子的女人扮演什么角色？",
+            "options": [
+                "A. 她拿着麦克风，可能在对人群介绍或进行采访。",
+                "B. 她是一名随意的参与者，从旁边观察人群。",
+                "C. 她是一名博物馆导游，带领人群参观展览。",
+                "D. 她是技术工作人员，正在调整房间的灯光。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_105": {
+            "id": "g7PjwIzqyCQ_105",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "在博物馆大厅中，背景中的哪些物体或元素暗示了信息或展览内容？",
+            "options": [
+                "A. 一个未启用的显示屏、一幅装裱的风景艺术作品。",
+                "B. 一排椅子、一台投影机和一套窗帘。",
+                "C. 一幅大地图、一个讲台和一个书架。",
+                "D. 一个装饰花瓶、一盏吊灯和一幅山水画。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_106": {
+            "id": "g7PjwIzqyCQ_106",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "博物馆空间是否有明亮的日光照射？",
+            "options": [
+                "A. 是的，博物馆所有的空间都有明亮的日光照射。",
+                "B. 是的，博物馆空间部分使用了自然光，部分使用了人工光线。",
+                "C. 是的，博物馆所有的空间都完全由自然阳光照亮。",
+                "D. 不，博物馆空间光照较暗，仅有少量照明。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_107": {
+            "id": "g7PjwIzqyCQ_107",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "在博物馆大厅中，穿绿色衣服的女士做了什么姿势？",
+            "options": [
+                "A. 她将右手搭在左手手臂上。",
+                "B. 她双手交叉放于胸前。",
+                "C. 她双手叉腰一副闲散姿态。",
+                "D. 她正在用写字板做笔记。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_108": {
+            "id": "g7PjwIzqyCQ_108",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "在博物馆大厅中，从视频来看，未激活的电子显示屏在哪个位置？",
+            "options": [
+                "A. 在左侧大柱子前。",
+                "B. 在右侧大柱子前。",
+                "C. 在中央位置，被人遮挡。",
+                "D. 该场景未出现电子显示屏。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_109": {
+            "id": "g7PjwIzqyCQ_109",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "场景中的室内展览空间是怎样的？",
+            "options": [
+                "A. 室内展览空间照明集中于墙壁、展示生动的图片和详细的文字。",
+                "B. 室内展览空间光线昏暗，装饰稀少，参与者的互动很少，没有主题展示。",
+                "C. 室内展览空间拥挤且嘈杂，参与者进行随意对话，忽视墙上的展示。",
+                "D. 室内展览空间小而封闭，散落着几块信息展示，没有明显的天花板装饰。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_110": {
+            "id": "g7PjwIzqyCQ_110",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "室内展览空间中，穿着绿色衣服的白发女人在展厅里做什么？",
+            "options": [
+                "A. 她正低着头望向地面缓慢行走。",
+                "B. 她正在向观众进行信息性演讲。",
+                "C. 她拿着麦克风参与小组讨论。",
+                "D. 她在走动，观察大厅里的其他人。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_111": {
+            "id": "g7PjwIzqyCQ_111",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "室内展览空间中，展厅内墙上安装的面板上有哪些特点？",
+            "options": [
+                "A. 墙上安装的面板展示了生动图像并和边上文本结合。",
+                "B. 墙上安装的面板展示了没有文字的抽象艺术作品。",
+                "C. 墙上安装的面板仅显示没有任何图像的纯文字。",
+                "D. 墙上安装的面板突出显示了本地产品的广告。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_112": {
+            "id": "g7PjwIzqyCQ_112",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "在这个场景中，使用麦克风的那位女士一直可见吗？",
+            "options": [
+                "A. 是的，她现在站在展览厅的左侧。",
+                "B. 不，麦克风的女士部分画面可见。",
+                "C. 是的，她在检查面板的那位年长男子附近可见。",
+                "D. 不，她在大厅外面，通过窗户隐约看到。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_113": {
+            "id": "g7PjwIzqyCQ_113",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "室内展览空间中，能明显看到一位背着背包穿白色上衣黑色裤子的人吗？",
+            "options": [
+                "A. 是的，他位于画面左侧。",
+                "B. 是的，他位于画面右侧。",
+                "C. 不，他未出现在画面中。",
+                "D. 不，画面模糊，不能确定。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_114": {
+            "id": "g7PjwIzqyCQ_114",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "室内展览空间中，参与者主要面向哪个方向？",
+            "options": [
+                "A. 大多数参与者面向展示面板。",
+                "B. 参与者主要面向展览大厅入口。",
+                "C. 大多数参与者背对展示面板，彼此关注。",
+                "D. 参与者环绕房间中央呈圆形排列。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_115": {
+            "id": "g7PjwIzqyCQ_115",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "用于拍摄展览大厅场景的摄像机视角是什么类型的？",
+            "options": [
+                "A. 场景采用鸟瞰视角，提供从上方全面的视野。",
+                "B. 场景采用低角度视角，营造出动感和恢弘的视角。",
+                "C. 场景采用平视角度，提供对参与者和展览布局的平衡视图。",
+                "D. 场景采用特写视角，聚焦于展品的具体细节。"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_116": {
+            "id": "g7PjwIzqyCQ_116",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "韩语字幕覆盖层解释了白头山在地缘政治上的划分是什么？",
+            "options": [
+                "A. 白头山有1/3属于北朝鲜，2/3属于中国。",
+                "B. 白头山有1/2属于北朝鲜，1/2属于中国。",
+                "C. 白头山有1/4属于北朝鲜，3/4属于中国。",
+                "D. 白头山有3/4属于北朝鲜，1/4属于中国。"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_117": {
+            "id": "g7PjwIzqyCQ_117",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "“长白山锦江大峡谷”处有什么特点？",
+            "options": [
+                "A. 一个带有LED灯的现代钢制拱门。",
+                "B. 一个由深色木制风格拱门。。",
+                "C. 一个带有公园地图雕刻的大型石雕。",
+                "D. 一个带有信息展示的玻璃圆顶结构。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_118": {
+            "id": "g7PjwIzqyCQ_118",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "这一场景的环境看起来如何？",
+            "options": [
+                "A. 光线明亮，有高耸的绿色树木和茂密的森林植被。",
+                "B. 光线昏暗，植被稀疏，显得阴沉且令人望而却步。",
+                "C. 挤满了游客，大家都专注于快速通过入口，显得混乱不堪。",
+                "D. 环境荒凉而荒芜，岩石地形一望无际。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_119": {
+            "id": "g7PjwIzqyCQ_119",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "户外环境如何与之前的室内场景形成对比？",
+            "options": [
+                "A. 户外场景与之前现代化的室内环境形成了鲜明对比。",
+                "B. 户外场景光线昏暗，与明亮的室内展览不同。",
+                "C. 室内场景有高大的树木和密集的树叶，与户外环境不同。",
+                "D. 户外场景与室内场景没有明显的对比。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_120": {
+            "id": "g7PjwIzqyCQ_120",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "这一场景中，画面前景中最左边的女人穿着什么？",
+            "options": [
+                "A. 绿色T恤和黑色裤子",
+                "B. 白色衬衫和浅色裤子",
+                "C. 绿色蓝色的夹克和眼镜",
+                "D. 水蓝色制服"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_121": {
+            "id": "g7PjwIzqyCQ_121",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "场景中穿绿色的女人在做什么动作？",
+            "options": [
+                "A. 她正侧身抬手，似乎在为后面的人引路。",
+                "B. 她正坐在长椅上，安静地观察风景。",
+                "C. 她正站着拍摄木制拱门的照片。",
+                "D. 她正在阅读放置在入口附近的说明牌。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_122": {
+            "id": "g7PjwIzqyCQ_122",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "木制入口门上显示了什么文字？",
+            "options": [
+                "A. 在深色的木梁上显示了白色的文字‘长白山锦江大峡谷’。",
+                "B. 在深色的木梁上显示了白色的文字‘高峰安全区’。",
+                "C. 在深色的木梁上显示了白色的文字‘林遮大道’。",
+                "D. 在深色的木梁上显示了白色的文字‘自然和平地’。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_123": {
+            "id": "g7PjwIzqyCQ_123",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "这一场景中，摄像机角度是否位于较高的位置？",
+            "options": [
+                "A. 是的，摄像机角度位于较高的位置。",
+                "B. 不，摄像机角度位于眼睛平视水平。",
+                "C. 是的，摄像机角度位于低于眼睛平视的位置。",
+                "D. 不，摄像机角度位于较低的角度。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_124": {
+            "id": "g7PjwIzqyCQ_124",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "戴眼镜和背包的男人在做什么？",
+            "options": [
+                "A. 戴眼镜和背包的男人正在坐下。",
+                "B. 戴眼镜和背包的男人正在看手机。",
+                "C. 戴眼镜和背包的男人正大步向前走。",
+                "D. 戴眼镜和背包的男人正在拍照。"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_125": {
+            "id": "g7PjwIzqyCQ_125",
+            "scene": 9,
+            "dimension": "Object Direction",
+            "question": "大多数人相对于相机的移动方向是什么？",
+            "options": [
+                "A. 大多数人正在远离相机移动。",
+                "B. 大多数人正在朝向相机移动。",
+                "C. 大多数人正在原地不动。",
+                "D. 大多数人正在横向穿过画面移动。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_126": {
+            "id": "g7PjwIzqyCQ_126",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "如何在镜头中构图木制拱门？",
+            "options": [
+                "A. 木制拱门以平衡的视角在眼平线构图，强调当前的位置。",
+                "B. 木制拱门以特写角度构图，聚焦于朝鲜语文字。",
+                "C. 木制拱门部分被人群遮挡，重点在周围的人。",
+                "D. 木制拱门从俯视角度构图，展示整个公园入口。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_127": {
+            "id": "g7PjwIzqyCQ_127",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "高大的松树位于哪里？",
+            "options": [
+                "A. 高大的松树排列在草地的边缘。",
+                "B. 高大的松树分布在整个草地上。",
+                "C. 高大的松树聚集在木质小路附近。",
+                "D. 高大的松树在草地中央形成一片树林。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_128": {
+            "id": "g7PjwIzqyCQ_128",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "上一场景到这一场景，景观发生了什么重大变化？",
+            "options": [
+                "A. 从森林地区过渡到充满生机的野花草地。",
+                "B. 从城市环境过渡到乡村景观。",
+                "C. 从海滩到山区的变化。",
+                "D. 从沙漠到茂密森林的过渡。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_129": {
+            "id": "g7PjwIzqyCQ_129",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "戴帽子的那个人的举止如何？",
+            "options": [
+                "A. 那个人神情激动，热情地打着手势。",
+                "B. 那个人安静地坐在长椅上。",
+                "C. 那个人双臂交叉，默默地观察。",
+                "D. 那个人在草地上漫无目的地徘徊。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_130": {
+            "id": "g7PjwIzqyCQ_130",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "从视频来看，左边的那个人穿得怎么样？",
+            "options": [
+                "A. 他穿着一件浅色衬衫和深色裤子，戴着一个帽子。",
+                "B. 他穿着一件浅棕色夹克，里面是浅蓝色衬衫，搭配深色裤子。",
+                "C. 他穿着一套深色西装，打着红色领带。",
+                "D. 他穿着一件亮黄色夹克和牛仔裤。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_131": {
+            "id": "g7PjwIzqyCQ_131",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "这一场景画面底部的字幕写了什么？",
+            "options": [
+                "A. 字幕写着：“다만 천지는 약 54.5%가 북한에 속합니다” 。",
+                "B. 字幕提到：“다만 천지는 약 45.5%가 우리단에 속합니다” 。",
+                "C. 字幕说明：“집업이 오거 끝났습니다”。 ",
+                "D. 字幕显示：“다음은 2023년 집업입니다” 。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_132": {
+            "id": "g7PjwIzqyCQ_132",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "在草地里有没有一条木制小路？",
+            "options": [
+                "A. 是的，一条木制小路延伸到草地里。",
+                "B. 不，草地里没有木制小路。",
+                "C. 是的，但木制小路只有部分可见。",
+                "D. 不，草地里的小路是石制的。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_133": {
+            "id": "g7PjwIzqyCQ_133",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "穿浅棕色夹克的男人在做什么？",
+            "options": [
+                "A. 穿浅棕色夹克的男人正抬着手微微偏头。",
+                "B. 穿浅棕色夹克的男人在捧着一次性饮料。",
+                "C. 穿浅棕色夹克的男人正在指着地图。",
+                "D. 穿浅棕色夹克的男人正在拍照。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_134": {
+            "id": "g7PjwIzqyCQ_134",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "使用了什么相机视角来呈现草地场景？",
+            "options": [
+                "A. 鸟瞰视角",
+                "B. 低角度视角",
+                "C. 眼平视角",
+                "D. 高角度视角"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_135": {
+            "id": "g7PjwIzqyCQ_135",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "蓝色衣服、背着背包头发略白的男人相对于木制观景台站在哪里？",
+            "options": [
+                "A. 在木制观景台的边缘，背对着摄像机",
+                "B. 在木制观景台的中间拍照",
+                "C. 在木制观景台的入口附近与他人交谈",
+                "D. 在最右侧，拿着伞"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_136": {
+            "id": "g7PjwIzqyCQ_136",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "上一个场景的环境怎样的？",
+            "options": [
+                "A. 车水马龙的繁忙城市街道。",
+                "B. 盛开野花的生机勃勃的草地。",
+                "C. 海浪拍打的沙滩。",
+                "D. 树木高大阴森的黑暗森林。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_137": {
+            "id": "g7PjwIzqyCQ_137",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "当前环境的特点是什么？",
+            "options": [
+                "A. 一个宁静的湖泊，被高大、茂密的树木环绕。",
+                "B. 一个热闹的水滨，有沙滩和充满活力的市场摊位。",
+                "C. 一个多岩石的海岸线，有拍打的海浪和稀疏的植被。",
+                "D. 一个干燥的干旱景观，稀疏分布着灌木和一个小的停滞池塘。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_138": {
+            "id": "g7PjwIzqyCQ_138",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "场景中的氛围如何？",
+            "options": [
+                "A. 氛围宁静，是一片生机盎然的绿色景观。",
+                "B. 氛围活泼，一群热闹的人群在草地上享受美好时光。",
+                "C. 氛围诡异而阴暗，湖面上覆盖着浓雾，视线模糊不清。",
+                "D. 氛围混乱，狂风暴雨给游客带来不便。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_139": {
+            "id": "g7PjwIzqyCQ_139",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "该场景最有可能的环境是什么？",
+            "options": [
+                "A. 该场景最有可能位于自然保护区或公园，强调对自然的欣赏与保护。",
+                "B. 该场景最有可能在繁华的市中心，以现代建筑而闻名。",
+                "C. 该场景最有可能在商业购物区，周围都是商店和咖啡馆。",
+                "D. 该场景最有可能在工业区，以工厂和机器为特征。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_140": {
+            "id": "g7PjwIzqyCQ_140",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "那个穿蓝色衣服背着背包头发略白的男人在做什么？",
+            "options": [
+                "A. 他正站在平台边缘，深深沉浸在景色中。",
+                "B. 他正拿着一面淡青色并带有白色标记的旗子。",
+                "C. 他正用智能手机拍摄湖泊的照片。",
+                "D. 他背对镜头，不能准确观察其状态。"
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_141": {
+            "id": "g7PjwIzqyCQ_141",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "这一场景中出现的旗帜是什么样的？",
+            "options": [
+                "A. 旗帜浅蓝色的，有隐约可见文字和图案。",
+                "B. 旗帜深蓝色的，有白色条纹和红色图案。",
+                "C. 旗帜是绿色的，有白色条纹和黄色图案。",
+                "D. 旗帜是空白的，没有任何标志或图案。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_142": {
+            "id": "g7PjwIzqyCQ_142",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "谁正在拿着浅蓝色的旗子？",
+            "options": [
+                "A. 站在平台边缘穿蓝色夹克的男人",
+                "B. 穿深色夹克、部分可见的那个人",
+                "C. 画面被字幕遮挡，不能确定",
+                "D. 拿着智能手机、穿绿色衣服的那个人"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_143": {
+            "id": "g7PjwIzqyCQ_143",
+            "scene": 11,
+            "dimension": "Count",
+            "question": "这一场景中，一共有几个穿绿衣服的人？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_144": {
+            "id": "g7PjwIzqyCQ_144",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "从视频来看，拿着黑色雨伞的人是怎样站立的？",
+            "options": [
+                "A. 背对镜头，正面对湖面。",
+                "B. 向左微微侧身面向湖面。",
+                "C. 向右侧身面向湖面。",
+                "D. 面对镜头，背对湖面。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_145": {
+            "id": "g7PjwIzqyCQ_145",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "这一场景是否能准确观察到平台上的人物？",
+            "options": [
+                "A. 是的，能观察到木制观景台上的人物。",
+                "B. 不，相机主要聚焦于自然风景，没有强调人物。",
+                "C. 是的，但只有一个人清晰可见，其他人是模糊的。",
+                "D. 不，焦点完全在湖泊和树木上，排除了人。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_146": {
+            "id": "g7PjwIzqyCQ_146",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "这一场景中是否能精准观察画面中的自然风景？",
+            "options": [
+                "A. 是的，能观察到宁静的湖边环境。",
+                "B. 不，镜头主要聚焦于平台上的人们。",
+                "C. 是的，镜头只拍摄了阴天的天空和野花。",
+                "D. 不，镜头集中于教育横幅和文字。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_147": {
+            "id": "g7PjwIzqyCQ_147",
+            "scene": 11,
+            "dimension": "Camera Shot",
+            "question": "使用哪种镜头来拍摄整个场景？",
+            "options": [
+                "A. 近景镜头用来拍摄整个场景。",
+                "B. 中景镜头用来拍摄整个场景。",
+                "C. 广角镜头用来拍摄整个场景。",
+                "D. 高角度镜头用来拍摄整个场景。"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_148": {
+            "id": "g7PjwIzqyCQ_148",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "场景中的光如何影响氛围？",
+            "options": [
+                "A. 明亮的阳光使颜色更加鲜明，营造出一种生动的氛围。",
+                "B. 阴天的天空提供柔和的光线，增强了景观中丰富的绿色色调。",
+                "C. 日落时的强烈光线投下长长的阴影，创造出一种戏剧性和紧张的氛围。",
+                "D. 室内的人造灯光使场景显得温暖而舒适。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_149": {
+            "id": "g7PjwIzqyCQ_149",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "这一场景底部的韩文横幅写的是什么？",
+            "options": [
+                "A. 韩文横幅内容与地质意义和促进可持续发展有关。",
+                "B. 韩文横幅指示了一处野生动物保护研讨会的地点。",
+                "C. 韩文横幅告知游客进行回收利用并保持清洁。",
+                "D. 韩文横幅宣布了公园即将举办的文化节活动。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_150": {
+            "id": "g7PjwIzqyCQ_150",
+            "scene": 12,
+            "dimension": "Spatial",
+            "question": "从视频来看，拿着麦克风的男人在哪个位置？",
+            "options": [
+                "A. 拿着麦克风的男人在最左边。",
+                "B. 拿着麦克风的男人在中间。",
+                "C. 拿着麦克风的男人在最右边。",
+                "D. 画面中没有拿麦克风的人。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_151": {
+            "id": "g7PjwIzqyCQ_151",
+            "scene": 12,
+            "dimension": "Spatial",
+            "question": "从视频来看，栏杆旁戴着帽子的男人在什么位置？",
+            "options": [
+                "A. 那个人在最左边。",
+                "B. 那个人在中间微微偏右位置。",
+                "C. 那个人在最右边。",
+                "D. 那个人在拿着麦克风的男人后面。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_152": {
+            "id": "g7PjwIzqyCQ_152",
+            "scene": 12,
+            "dimension": "Spatial",
+            "question": "从视频来看，交叉双臂的男人在观景台上的哪个位置？",
+            "options": [
+                "A. 交叉双臂的男人在最左边。",
+                "B. 交叉双臂的男人在中间。",
+                "C. 交叉双臂的男人在最右边。",
+                "D. 交叉双臂的男人不在观景台上。"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_153": {
+            "id": "g7PjwIzqyCQ_153",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "这一场景的环境是什么？",
+            "options": [
+                "A. 一个宁静的自然环境中，背景是郁郁葱葱的绿色植物。",
+                "B. 一个繁忙的城市广场，现代建筑和热闹的人群在背景中。",
+                "C. 一个沙漠环境中，有沙丘和稀疏的植被，强调干旱的景观。",
+                "D. 一个雪山地区，雪覆盖的山峰和远处的乡村小屋。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_154": {
+            "id": "g7PjwIzqyCQ_154",
+            "scene": 12,
+            "dimension": "Description-Human",
+            "question": "从视频来看，最左边的男人在干什么？",
+            "options": [
+                "A. 左边的男人手持麦克风，似乎在介绍什么或进行采访。",
+                "B. 左边的男人似乎在被动地旁观讨论，没有做出贡献。",
+                "C. 左边的男人主要关注平台的建筑设计。",
+                "D. 左边的男人在欣赏自然风景，没有参与对话。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_155": {
+            "id": "g7PjwIzqyCQ_155",
+            "scene": 12,
+            "dimension": "Description-Human",
+            "question": "画面中间的男人在干什么？",
+            "options": [
+                "A. 他将手撑在栏杆上，专注倾听。",
+                "B. 他手持麦克风，引导讨论。",
+                "C. 他双臂交叉，散发出冷静沉思的气息。",
+                "D. 他倚靠在栏杆上，闭眼休息。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_156": {
+            "id": "g7PjwIzqyCQ_156",
+            "scene": 12,
+            "dimension": "Description-Human",
+            "question": "从视频来看，画面最右边男人在做什么？",
+            "options": [
+                "A. 男人双臂交叉，散发出冷静沉思的气息。",
+                "B. 男人手持麦克风，引导讨论。",
+                "C. 男人积极地靠在栏杆上，深入参与对话。",
+                "D. 男人似乎正在用相机记录讨论。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_157": {
+            "id": "g7PjwIzqyCQ_157",
+            "scene": 12,
+            "dimension": "Description-Object",
+            "question": "场景中存在什么物体？",
+            "options": [
+                "A. 带有圆形切口设计的栏杆。",
+                "B. 带有玻璃网状花纹设计的栏杆。",
+                "C. 带有螺旋旋转设计的楼梯。",
+                "D. 带有叶片设计的拱形围栏。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_158": {
+            "id": "g7PjwIzqyCQ_158",
+            "scene": 12,
+            "dimension": "Count",
+            "question": "有多少人在观景平台上？",
+            "options": [
+                "A. 两个人",
+                "B. 三个人",
+                "C. 四个人",
+                "D. 五个人"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_159": {
+            "id": "g7PjwIzqyCQ_159",
+            "scene": 12,
+            "dimension": "Binary",
+            "question": "视频的主题是否与保护和可持续发展有关？",
+            "options": [
+                "A. 是的。",
+                "B. 不是。",
+                "C. 是关于技术的。",
+                "D. 是关于历史事件的。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_160": {
+            "id": "g7PjwIzqyCQ_160",
+            "scene": 12,
+            "dimension": "Description-Human",
+            "question": "拿着麦克风的那个人是什么姿势？",
+            "options": [
+                "A. 他侧身倚靠在栏杆上。",
+                "B. 他单手抱胸，垂直站立。",
+                "C. 他坐在栏杆最高处。",
+                "D. 他垂直站立，单手插兜。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_161": {
+            "id": "g7PjwIzqyCQ_161",
+            "scene": 12,
+            "dimension": "Description-Human",
+            "question": "拿着麦克风的那个人在做什么？",
+            "options": [
+                "A. 他正拿着麦克风说话。",
+                "B. 他正将麦克风拿下放在一旁。",
+                "C. 他正将另一只手伸出，准备握手。",
+                "D. 他正拿下麦克风结束这段交谈。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_162": {
+            "id": "g7PjwIzqyCQ_162",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "这一场景山坡上有什么特点？",
+            "options": [
+                "A. 山坡上有陡峭的斜坡，小路蜿蜒其中。",
+                "B. 山坡上是平坦的地形，小路直接通向山顶。",
+                "C. 整个山坡无法进入，没有可见的小径或小路。",
+                "D. 山坡被茂密的植被覆盖，遮挡了可能的小径。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_163": {
+            "id": "g7PjwIzqyCQ_163",
+            "scene": 13,
+            "dimension": "Spatial",
+            "question": "山上游客的空间分布是怎样的？",
+            "options": [
+                "A. 游客主要分布在小路中部。",
+                "B. 游客均匀分布在小路上。",
+                "C. 游客仅在山脚下形成密集的聚集。",
+                "D. 游客主要分布在山顶。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_164": {
+            "id": "g7PjwIzqyCQ_164",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "这一场景的整体环境是什么？",
+            "options": [
+                "A. 是一个宁静的海滩，聚焦于个人的反思和宁静的海浪。",
+                "B. 是一个崎岖荒芜的山坡，斜坡陡峭，植被稀疏。",
+                "C. 是一个密林中的瀑布及丰富的野生动植物，强调孤立与宁静。",
+                "D. 是一个无人工活动的宁静湖泊，展现未被人类触及的自然美景。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_165": {
+            "id": "g7PjwIzqyCQ_165",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "场景发生在什么地方？",
+            "options": [
+                "A. 一座荒凉的崎岖的山坡。",
+                "B. 一个人口密集的城市地区。",
+                "C. 一个有瀑布的热带雨林中。",
+                "D. 一个广大沙丘的沙漠中。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_166": {
+            "id": "g7PjwIzqyCQ_166",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "场景中显示的人在山上做什么活动？",
+            "options": [
+                "A. 人们沿着山上的小路行走。",
+                "B. 人们正在攀岩，用绳索攀登山坡。",
+                "C. 人们正在山腰上进行一次大型野餐活动。",
+                "D. 人们正在沿着山坡搭帐篷露营。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_167": {
+            "id": "g7PjwIzqyCQ_167",
+            "scene": 13,
+            "dimension": "Count",
+            "question": "场景中出现多少座金属通信塔？",
+            "options": [
+                "A. 一座",
+                "B. 两座",
+                "C. 三座",
+                "D. 四座"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_168": {
+            "id": "g7PjwIzqyCQ_168",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "场景中是否提到了环境保护？",
+            "options": [
+                "A. 是的，场景中有韩文字幕提到了环境保护。",
+                "B. 不，场景中没有提到环境保护。",
+                "C. 是的，但它只关注该地点的历史重要性。",
+                "D. 不，场景主要讨论了山上的文化活动。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_169": {
+            "id": "g7PjwIzqyCQ_169",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "游客如何与步道上的环境互动？",
+            "options": [
+                "A. 步道上的人们正在积极穿越崎岖陡峭的小径。",
+                "B. 游客主要在山坡上修建新步道。",
+                "C. 大多数游客坐在路旁休息，观察其他人攀爬。",
+                "D. 步道空无一人，没有明显的人类互动。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_170": {
+            "id": "g7PjwIzqyCQ_170",
+            "scene": 13,
+            "dimension": "Object Direction",
+            "question": "游客通常沿着山坡小径朝哪个方向移动？",
+            "options": [
+                "A. 游客通常向上移动，朝山顶前进。",
+                "B. 游客通常向下移动，朝山脚前进。",
+                "C. 游客分散，随机移动，没有特定方向。",
+                "D. 游客水平移动，沿着山脊线行走。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_171": {
+            "id": "g7PjwIzqyCQ_171",
+            "scene": 13,
+            "dimension": "Camera Shot",
+            "question": "在初始和后续场景之间发生了哪种类型的镜头切换？",
+            "options": [
+                "A. 从一个崎岖山丘及其游客的广阔画面聚焦到只有部分游客的集中镜头。",
+                "B. 突然从一个拥挤的市场切换到一个宁静的空荡海滩。",
+                "C. 从喧闹咖啡馆的内部淡出到古庙外部。",
+                "D. 快速从嘈杂的城市街道平移到偏静的山村。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_172": {
+            "id": "g7PjwIzqyCQ_172",
+            "scene": 13,
+            "dimension": "Speed",
+            "question": "游客聚集如何指示移动速度？",
+            "options": [
+                "A. 游客聚集表明这些区域的移动速度较慢。",
+                "B. 游客聚集表明整个山丘的移动速度很快。",
+                "C. 游客聚集显示速度一致，没有变化。",
+                "D. 游客聚集表明这些区域完全没有移动。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_173": {
+            "id": "g7PjwIzqyCQ_173",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "什么视觉提示将场景与环境保护主题联系在一起？",
+            "options": [
+                "A. 一群穿着鲜艳的个人指着风景",
+                "B. 画面底部的黑色韩文字幕。",
+                "C. 山脊线上的通讯塔以改善基础设施",
+                "D. 在经常使用的小路上的大量行人"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_174": {
+            "id": "g7PjwIzqyCQ_174",
+            "scene": 13,
+            "dimension": "Camera Shot",
+            "question": "视角放大后，最下方的路上的穿蓝色衣服黑色裤子的游客在什么位置？",
+            "options": [
+                "A. 游客在画面右下角",
+                "B. 游客在画面左下角",
+                "C. 游客在画面居中位置",
+                "D. 游客在画面右上角"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_175": {
+            "id": "g7PjwIzqyCQ_175",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "游客们在山坡上的木栈道上做什么？",
+            "options": [
+                "A. 游客们正在沿着木栈道往返上下。",
+                "B. 游客们正在木栈道上采集岩石地形的样本。",
+                "C. 游客们正在修建木栈道，以改善通向山坡的通道。",
+                "D. 游客们正在木栈道参加庆祝长白山的文化节。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_176": {
+            "id": "g7PjwIzqyCQ_176",
+            "scene": 13,
+            "dimension": "Camera Shot",
+            "question": "视角放大后，最下方的路上的穿红衣服背着黑色背包的那个人在什么位置？",
+            "options": [
+                "A. 穿红衣服的人在画面左下角。",
+                "B. 穿红衣服的人在画面右下角。",
+                "C. 穿红衣服的人在画面中央位置。",
+                "D. 穿红衣服的人在画面右上角。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_177": {
+            "id": "g7PjwIzqyCQ_177",
+            "scene": 13,
+            "dimension": "Description-Object",
+            "question": "山坡上的木制小道是什么形状的？",
+            "options": [
+                "A. 木制小道是曲折的。",
+                "B. 木制小道是直的。",
+                "C. 木制小道是圆形的。",
+                "D. 木制小道是波浪形的。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_178": {
+            "id": "g7PjwIzqyCQ_178",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "山坡上的木栈道有什么安全设施？",
+            "options": [
+                "A. 栈道有木头和绳子制成的栏杆。",
+                "B. 栈道铺有防滑垫。",
+                "C. 栈道两侧装有安全网。",
+                "D. 栈道有石块砌成的石墙。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_179": {
+            "id": "g7PjwIzqyCQ_179",
+            "scene": 13,
+            "dimension": "Description-Object",
+            "question": "木栈道在山坡上的主要功能是什么？",
+            "options": [
+                "A. 栈道作为游客流动的主要通道。",
+                "B. 栈道是一个装饰性特点，突出了山坡的美。",
+                "C. 栈道作为雨水的排水系统使用。",
+                "D. 栈道用于将货物运输到山顶。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_180": {
+            "id": "g7PjwIzqyCQ_180",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "这一场景中是否包含任何文字叠加？",
+            "options": [
+                "A. 是的，包含一个韩文字幕和右上角的“YTN”标志。",
+                "B. 不，没有任何文字叠加或标志。",
+                "C. 是的，但唯一的文字叠加是右上角的“YTN”标志。",
+                "D. 不，没有提到地缘政治或标志元素。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_181": {
+            "id": "g7PjwIzqyCQ_181",
+            "scene": 13,
+            "dimension": "Object Direction",
+            "question": "从视频来看，视频左下角穿红衣服背黑色背包的人的移动方向是什么？",
+            "options": [
+                "A. 她朝上方移动。",
+                "B. 她朝左边移动。",
+                "C. 她朝右边移动。",
+                "D. 她向下走下山坡。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_182": {
+            "id": "g7PjwIzqyCQ_182",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "视频中的韩文字幕传达了什么信息？",
+            "options": [
+                "A. 韩文字幕指出，'有些人认为这一命名将使国际社会使用中文名称‘长白山’，而不是‘白头山’'。",
+                "B. 韩文字幕指出，'许多人正在前往这座山欣赏其令人叹为观止的美景和独特的地质特征。'",
+                "C. 韩文字幕指出，'为了迎接不断增加的游客数量，徒步路径已得到改善。'",
+                "D. 韩文字幕指出，'崎岖的地形使其成为即使对经验丰富的旅行者来说也具有挑战性的徒步旅行。'"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_183": {
+            "id": "g7PjwIzqyCQ_183",
+            "scene": 14,
+            "dimension": "Spatial",
+            "question": "从视频画面来看，小溪位于木栈道的哪个位置？",
+            "options": [
+                "A. 小溪位于木栈道的左边。",
+                "B. 小溪位于木栈道的右边。",
+                "C. 小溪在木栈道的下面流过。",
+                "D. 小溪位于木栈道之上。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_184": {
+            "id": "g7PjwIzqyCQ_184",
+            "scene": 14,
+            "dimension": "Description-Scene",
+            "question": "这一场景中描述的背景是什么？",
+            "options": [
+                "A. 一个沙漠中，有沙丘、零星的岩石，以及远处移动的一群骆驼。",
+                "B. 一个郁郁葱葱的景观中，有绿植、木质步道、小溪，岩石等。",
+                "C. 一个城市公园里，有混凝土步道、游乐场，以及熙熙攘攘的人群。",
+                "D. 一个冰雪覆盖的山地地区，有滑雪坡道、冰冻的湖泊和成片的松树。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_185": {
+            "id": "g7PjwIzqyCQ_185",
+            "scene": 14,
+            "dimension": "Description-Human",
+            "question": "手拿麦克风的那个人穿着什么？",
+            "options": [
+                "A. 那个人穿着绿色的条纹白色的Polo T恤和一顶黑色的帽子。",
+                "B. 那个人穿着浅米色的衬衫和蓝色牛仔裤。",
+                "C. 那个人穿着白色的衬衫和黑色的裤子，提着一个包。",
+                "D. 那个人穿着浅蓝色的衬衫和一顶棒球帽。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_186": {
+            "id": "g7PjwIzqyCQ_186",
+            "scene": 14,
+            "dimension": "Description-Human",
+            "question": "手拿麦克风身旁的人穿着什么颜色的衣服？",
+            "options": [
+                "A. 绿色",
+                "B. 白色",
+                "C. 蓝色",
+                "D. 棕色"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_187": {
+            "id": "g7PjwIzqyCQ_187",
+            "scene": 14,
+            "dimension": "Binary",
+            "question": "这一场景中有可见的建筑吗？",
+            "options": [
+                "A. 有，在画面左上方。",
+                "B. 没有，画面中未有可见的建筑。",
+                "C. 有，在画面右上方。",
+                "D. 有，在画面中央。"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_188": {
+            "id": "g7PjwIzqyCQ_188",
+            "scene": 14,
+            "dimension": "Description-Human",
+            "question": "穿绿色衣服的男人右手拿着什么东西？",
+            "options": [
+                "A. 他拿着相机。",
+                "B. 他拿着手杖。",
+                "C. 他拿着背包。",
+                "D. 他未拿任何东西。"
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_189": {
+            "id": "g7PjwIzqyCQ_189",
+            "scene": 14,
+            "dimension": "Fine Grained Action",
+            "question": "穿绿色马球衫的那个人走在木质小路上时在做什么？",
+            "options": [
+                "A. 他将右手抬到胸口左手势，像是在演示什么。",
+                "B. 他停下来拍摄风景照片。",
+                "C. 他坐在木质小路上调整鞋子。",
+                "D. 他与穿米色衬衫的人交谈并指着小溪。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_190": {
+            "id": "g7PjwIzqyCQ_190",
+            "scene": 14,
+            "dimension": "Object Direction",
+            "question": "木制步道延伸的方向是什么？",
+            "options": [
+                "A. 木制步道对角穿过前景。",
+                "B. 木制步道垂直穿过场景。",
+                "C. 木制步道水平沿着背景延伸。",
+                "D. 木制步道环绕景观呈圆形延伸。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_191": {
+            "id": "g7PjwIzqyCQ_191",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "从干燥的山坡过渡后，会看到什么变化？",
+            "options": [
+                "A. 场景变成了一个拥挤的市场，摊位色彩鲜艳，活动繁忙。",
+                "B. 场景变为郁郁葱葱、宁静的景观，人群密度减少。",
+                "C. 场景仍然荒芜且多岩石，景观没有明显变化。",
+                "D. 场景过渡到一个积雪的山顶，人们在山坡上滑雪。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_192": {
+            "id": "g7PjwIzqyCQ_192",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "韩文的文字叠加给视频带来了什么？",
+            "options": [
+                "A. 文字叠加提供了关于山名的背景信息。",
+                "B. 文字叠加描述了走道上人们的活动。",
+                "C. 文字叠加解释了岩石山坡的地质特征。",
+                "D. 文字叠加突出了与郁郁葱葱的景观相关的历史事件。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_193": {
+            "id": "g7PjwIzqyCQ_193",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "文本覆盖中显示的一些韩语短语有哪些例子？",
+            "options": [
+                "A. '기자 곽현수,' '유네스코 공식 홈페이지,' 和 'AI 앵커 Y-ON.'",
+                "B. '포항 목적,' '해산 부모,' 和 'AI 인증 프레임.'",
+                "C. '광역 언울,' '올바른 비움,' 和 '모노동 풍경.'",
+                "D. '사업 발전,' '저녁 조명,' 和 'AI 전자 방식.'"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_194": {
+            "id": "g7PjwIzqyCQ_194",
+            "scene": 15,
+            "dimension": "Spatial",
+            "question": "从视频来看，穿着橄榄色衬衫灰色裤子的那个男人相对于这个群体的位置是哪里？",
+            "options": [
+                "A. 他站在左边最远处，与群体保持一定距离。",
+                "B. 他位于群体的中央，积极地与其他人互动。",
+                "C. 他位于稍后的位置，靠近绿化，与群体保持距离。",
+                "D. 他在右边靠近栏杆处，与背景融为一体。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_195": {
+            "id": "g7PjwIzqyCQ_195",
+            "scene": 15,
+            "dimension": "Description-Scene",
+            "question": "该场景的背景是什么？",
+            "options": [
+                "A. 一个条自然小道、小溪和郁郁葱葱的植被等。",
+                "B. 一个繁忙街道，两旁是高楼大厦和川流不息的交通等。",
+                "C. 一个室内图书馆，里面有书架和柔和的灯光。",
+                "D. 一个沙滩，有拍打的海浪和晒太阳的人等。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_196": {
+            "id": "g7PjwIzqyCQ_196",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "画面右上角的黑色矩形框中显示了什么文本？",
+            "options": [
+                "A. 자료화면",
+                "B. YTN",
+                "C. 꿎민스",
+                "D. 명칭이"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_197": {
+            "id": "g7PjwIzqyCQ_197",
+            "scene": 15,
+            "dimension": "Count",
+            "question": "这一场景中有多少人可见？",
+            "options": [
+                "A. 三个人",
+                "B. 四个人",
+                "C. 五个人",
+                "D. 六个人"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_198": {
+            "id": "g7PjwIzqyCQ_198",
+            "scene": 15,
+            "dimension": "Binary",
+            "question": "穿浅色上衣和深色裤子的女子在场景中仍然可见吗？",
+            "options": [
+                "A. 是的，她仍然可见并与小组互动。",
+                "B. 不，她在场景中不再可见。",
+                "C. 是的，她刚刚移动到背景中。",
+                "D. 不，她可见但被小组遮挡住了。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_199": {
+            "id": "g7PjwIzqyCQ_199",
+            "scene": 15,
+            "dimension": "Binary",
+            "question": "穿浅深蓝色服装和深蓝色帽子的人在场景中还可见吗？",
+            "options": [
+                "A. 是的，他仍然可见，并积极参与对话。",
+                "B. 不，他在场景中不可见。",
+                "C. 是的，但他在背景中只能部分可见。",
+                "D. 不，他已经完全离开了该区域，不再是这个群体的一部分。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_200": {
+            "id": "g7PjwIzqyCQ_200",
+            "scene": 15,
+            "dimension": "Spatial",
+            "question": "相较于上一场景，这一场景穿绿色条纹Polo衫的男子的位置发生了什么变化？",
+            "options": [
+                "A. 他从靠近左侧栏杆移动到了靠近穿米色衬衫男子的更中央的位置。",
+                "B. 他从中央位置移动到了更靠近最左侧栏杆的位置。",
+                "C. 他进一步退到了背景中，远离了人群。",
+                "D. 他保持在左侧栏杆附近不动。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_201": {
+            "id": "g7PjwIzqyCQ_201",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "场景底部的文字叠加效果向哪个方向滚动？",
+            "options": [
+                "A. 底部的文字叠加效果垂直滚动。",
+                "B. 底部的文字叠加效果对角滚动。",
+                "C. 底部的文字叠加效果水平滚动。",
+                "D. 底部的文字未发现明显移动。"
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_202": {
+            "id": "g7PjwIzqyCQ_202",
+            "scene": 15,
+            "dimension": "Description-Scene",
+            "question": "构图的哪些元素强调了场景的自然方面？",
+            "options": [
+                "A. 绿植、树木以及明亮的太阳光照等。",
+                "B. 海水、贝壳以及各种样式的贝壳等。",
+                "C. 瀑布、岩石以及各种鱼类生物等。",
+                "D. 雪原、薄雾以及崎岖的山峰等。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_203": {
+            "id": "g7PjwIzqyCQ_203",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "屏幕底部的白色字幕是什么？",
+            "options": [
+                "A. '더 널리 사용될 수 있다는 우려도 제T되고 있습니다.'",
+                "B. '다만 천지는 약 54.5%가 북한에 속합니다.'",
+                "C. '이번 집행이사회에서 인증이 사실상 예정된 상태였습니다.'",
+                "D. '화면출지 유네스코 공식 홍페이지'"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_204": {
+            "id": "g7PjwIzqyCQ_204",
+            "scene": 15,
+            "dimension": "Description-Human",
+            "question": "从视频来看，最右边哪个人穿着是怎样的？",
+            "options": [
+                "A. 他穿着米色衬衫、灰色裤子和帽子。",
+                "B. 他穿着棕色衬衫、黑色裤子和帽子。",
+                "C. 他穿着深绿色衬衫、蓝色裤子和帽子。",
+                "D. 他穿着浅蓝色衬衫、黑色裤子和帽子。"
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_205": {
+            "id": "g7PjwIzqyCQ_205",
+            "scene": 15,
+            "dimension": "Description-Human",
+            "question": "穿着米色衬衫、蓝色裤子和帽子的男人拿着什么？",
+            "options": [
+                "A. 他拿着相机。",
+                "B. 他拿着文件。",
+                "C. 他拿着麦克风。",
+                "D. 他未拿任何东西。"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_206": {
+            "id": "g7PjwIzqyCQ_206",
+            "scene": 16,
+            "dimension": "Visual-cue",
+            "question": "抽象场景是否一直包含文字元素？",
+            "options": [
+                "A. 是的，视频中的抽象场景一直包含'YTN'标志等文字元素。",
+                "B. 不，文字元素仅在户外场景中出现。",
+                "C. 是的，视频包含文字元素，但只在部分抽象场景中包含。",
+                "D. 不，抽象场景中完全没有文字元素。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_207": {
+            "id": "g7PjwIzqyCQ_207",
+            "scene": 16,
+            "dimension": "Description-Scene",
+            "question": "在郁郁葱葱的户外场景后，场景背景是怎样的？",
+            "options": [
+                "A. 具有几何形状和抽象设计的极简现代构图。",
+                "B. 是生动多彩的繁华城市生活画面。",
+                "C. 历史事件的混乱拼贴画及其艺术的展现在画面中。",
+                "D. 挤满人群热闹非凡的室内场景。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_208": {
+            "id": "g7PjwIzqyCQ_208",
+            "scene": 16,
+            "dimension": "Spatial",
+            "question": "在抽象场景中，弯曲的白色条纹是如何排列的？",
+            "options": [
+                "A. 弯曲的白色条纹穿过抽象场景的中间。",
+                "B. 弯曲的白色条纹位于右上角。",
+                "C. 弯曲的白色条纹与底边平行。",
+                "D. 弯曲的白色条纹在中心形成一个圆形图案。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_209": {
+            "id": "g7PjwIzqyCQ_209",
+            "scene": 16,
+            "dimension": "Description-Scene",
+            "question": "场景最后抽象画面的强调是哪种视角？",
+            "options": [
+                "A. 强调一种混乱和动态的视角。",
+                "B. 强调一种稳定的视角。",
+                "C. 强调一种不断变化且不可预测的视角。",
+                "D. 强调一种充满自然和以人为本元素的视角。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_210": {
+            "id": "g7PjwIzqyCQ_210",
+            "scene": 16,
+            "dimension": "Attribute Change",
+            "question": "从郁郁葱葱的户外场景到抽象设计场景，背景属性发生了哪些变化？",
+            "options": [
+                "A. 背景从郁郁葱葱的绿色植物转变为黑暗几何图案。",
+                "B. 背景在所有场景中始终充满郁郁葱葱的绿色植物。",
+                "C. 背景从现代极简设计过渡到人口稠密的城市场景。",
+                "D. 背景最初呈现抽象形状，逐渐变为繁忙的城市景观。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_211": {
+            "id": "g7PjwIzqyCQ_211",
+            "scene": 16,
+            "dimension": "Visual-cue",
+            "question": "抽象画面中有哪些视觉元素始终出现？",
+            "options": [
+                "A. 'YTN'和'추천영상'文字元素始终出现。",
+                "B. 用鲜艳色彩叠加的几何图形贯穿始终。",
+                "C. 一个穿着橄榄色衬衫的男人在所有画面中都可见。",
+                "D. 抽象画面中包含茂盛的绿色植被。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_212": {
+            "id": "g7PjwIzqyCQ_212",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "薄雾消散后，显示出什么自然景观？",
+            "options": [
+                "A. 显现出一个深蓝色湖泊。",
+                "B. 出现了一片无尽的辽阔沙漠。",
+                "C. 白雪覆盖的山峰出现在视野中。",
+                "D. 一片郁郁葱葱、高耸入云的森林显露出来。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_213": {
+            "id": "g7PjwIzqyCQ_213",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频中被山峰围绕湖泊环境之后展示了什么场景？",
+            "options": [
+                "A. 画面焦点转移到人群在密林小道中行走。",
+                "B. 场景切换到夜晚闪烁灯光的生机勃勃的城市天际线。",
+                "C. 展示了一个五彩斑斓的鱼群在珊瑚礁中游弋的水下世界。",
+                "D. 视频切换到一个沙漠景观，沙丘连绵。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_214": {
+            "id": "g7PjwIzqyCQ_214",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在视频中，画面紧接着展示了人在森林小径中行走后出现的内容是什么？",
+            "options": [
+                "A. 切换到长白山地质公园博物馆，展示其现代化的玻璃外墙和熙熙攘攘的游客。",
+                "B. 切换到一群厨师在质朴的户外厨房中准备美食佳肴。",
+                "C. 切换到一处宁静的海滩，海浪轻轻拍打着海岸。",
+                "D. 切换到一个热闹的城市市场，摊贩们兜售着色彩缤纷的农产品和商品。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_215": {
+            "id": "g7PjwIzqyCQ_215",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频是如何介绍长白山的地缘政治的？",
+            "options": [
+                "A. 视频中底部位置显示的韩文字幕。",
+                "B. 视频展示了专家之间关于长白山地缘政治重要性的激烈辩论。",
+                "C. 视频通过动画地图和图表展示了长白山领土争端的情况。",
+                "D. 视频没有涉及地缘政治，只关注长白山的自然美景。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_216": {
+            "id": "g7PjwIzqyCQ_216",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频中提到的关于长白山的影响是什么？",
+            "options": [
+                "A. 视频讨论了命名争议的潜在影响。",
+                "B. 视频仅关注长白山的自然美景影响。",
+                "C. 视频解释了历史背景，但没有提到任何影响。",
+                "D. 视频完全未提到对于长白山的任何影响。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_217": {
+            "id": "g7PjwIzqyCQ_217",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "长白山地质公园博物馆的作用是什么？",
+            "options": [
+                "A. 博物馆将长白山的自然美景与其文化和制度意义联系起来。",
+                "B. 博物馆主要专注于长白山的野生动植物。",
+                "C. 博物馆是地质研究和火山研究的中心。",
+                "D. 博物馆的作用是展示在长白山周围发现的古代遗物。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_218": {
+            "id": "g7PjwIzqyCQ_218",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么关于长白山的视频中韩文字幕很重要？",
+            "options": [
+                "A. 韩文字幕提供了补充长白山视觉叙述的地缘政治、文化和历史背景。",
+                "B. 韩文字幕用于将长白山的技术数据翻译成简化的术语。",
+                "C. 韩文字幕作为装饰元素来增强视频的美学吸引力。",
+                "D. 韩文字幕仅为非韩语观众提供信息。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_219": {
+            "id": "g7PjwIzqyCQ_219",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在视频中，自然场景的进展顺序是怎样的？",
+            "options": [
+                "A. 自然场景从冰雪覆盖的山脉和湖泊的航拍视角开始，到郁郁葱葱的森林小径、充满生机的草地、宁静的湖畔，最后是荒凉的山坡。",
+                "B. 自然场景从郁郁葱葱的森林小径、充满生机的草地、宁静的湖畔、荒凉的山坡开始，最后是冰雪覆盖的山脉和火山湖的航拍视角。",
+                "C. 自然场景从宁静的湖畔、充满生机的草地、荒凉的山坡、郁郁葱葱的森林小径开始，最后是冰雪覆盖的山脉和火山湖的航拍视角。",
+                "D. 自然场景从充满生机的草地、宁静的湖畔、荒凉的山坡、郁郁葱葱的森林小径开始，最后是冰雪覆盖的山脉和火山湖的航拍视角。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_220": {
+            "id": "g7PjwIzqyCQ_220",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在花草遍布的小道之后，视频转向了什么场景？",
+            "options": [
+                "A. 视频转向了繁忙的城市景观。",
+                "B. 视频转向了宁静的湖边环境。",
+                "C. 视频转向了室内艺术画廊。",
+                "D. 视频转向了宁静的山脉。"
+            ],
+            "answer": "B"
+        },
+        "g7PjwIzqyCQ_221": {
+            "id": "g7PjwIzqyCQ_221",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "“长白山锦江大峡谷”牌子上是否有其他文字？",
+            "options": [
+                "A. 不，未发现其他文字。",
+                "B. 是的，牌子底部白色文字明显可见。",
+                "C. 是的，牌子顶部白色文字明显可见。",
+                "D. 是的，牌子底部文字隐约可见。"
+            ],
+            "answer": "D"
+        },
+        "g7PjwIzqyCQ_222": {
+            "id": "g7PjwIzqyCQ_222",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "室内场景展示了什么情况？",
+            "options": [
+                "A. 展示了人群参观博物馆的画面。",
+                "B. 展示了人群参加自然会议的画面。",
+                "C. 展示了人群参观艺术画廊的画面。",
+                "D. 展示了人群参与科学展览的画面。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_223": {
+            "id": "g7PjwIzqyCQ_223",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "网页文本正文是什么字体的？",
+            "options": [
+                "A. 英文",
+                "B. 韩文",
+                "C. 俄文",
+                "D. 德文"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_224": {
+            "id": "g7PjwIzqyCQ_224",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频在自然互动后展示了什么样的视频结尾？",
+            "options": [
+                "A. 视频在自然互动场景后转向抽象的现代设计。",
+                "B. 视频在自然互动场景后转向繁忙的城市景观。",
+                "C. 视频在自然互动场景后转向充满多彩灯光的热闹节日场景。",
+                "D. 视频在自然互动场景后转向宁静的星空晚景。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_225": {
+            "id": "g7PjwIzqyCQ_225",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "铁塔在一个怎样的环境中？",
+            "options": [
+                "A. 铁塔在一个郁郁葱葱的密林中。",
+                "B. 铁塔在一个深蓝色海景的海岸上。",
+                "C. 铁塔在一个植被稀疏的山坡上。",
+                "D. 铁塔未在任何场景中出现。"
+            ],
+            "answer": "C"
+        },
+        "g7PjwIzqyCQ_226": {
+            "id": "g7PjwIzqyCQ_226",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么在白头山的航拍画面中添加了高光？",
+            "options": [
+                "A. 添加高光是为了强调重要的地质特征，比如火山口湖和崎岖的山峰。",
+                "B. 添加高光是为了艺术效果而遮挡画面的一部分。",
+                "C. 添加高光是为了让视频显得更加色彩丰富且充满活力。",
+                "D. 添加高光是为了给观众营造一种神秘感和悬疑感。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_227": {
+            "id": "g7PjwIzqyCQ_227",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "추천영상 YTN'标识在整个视频中是否可见？",
+            "options": [
+                "A.是的，标识在视频中一直可见。",
+                "B.是的，标识在部分场景中可见。",
+                "C.是的，标识在视频中部分被遮挡。",
+                "D.不，标识在视频中一直未出现。"
+            ],
+            "answer": "A"
+        },
+        "g7PjwIzqyCQ_228": {
+            "id": "g7PjwIzqyCQ_228",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么视频在结尾采用抽象和极简的设计？",
+            "options": [
+                "A. 为了表明视频以及结束，展示视频内容来源的logo。",
+                "B. 为了简化视觉讲故事的复杂性。",
+                "C. 为了描绘复古和传统的氛围。",
+                "D. 为了去除所有文本元素并专注于抽象形状。"
+            ],
+            "answer": "A"
+        }
+    }
+}

@@ -1,0 +1,1312 @@
+{
+    "scene_hint": {
+        "0": "两个男人坐在桌子后面。",
+        "1": "一个女人手靠在钢琴上唱歌。",
+        "2": "女人朝厨房移动，在厨房唱歌。",
+        "3": "女人走向客厅，新的人物出现。",
+        "4": "女人走出房间进入电梯。",
+        "5": "宣传图出现在黑色背景中，视频结束。"
+    },
+    "qa": {
+        "2QTiAmvygC4_0": {
+            "id": "2QTiAmvygC4_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "两个人的位置在哪里？",
+            "options": [
+                "A. 两个人位于大而华丽的书桌后面。",
+                "B. 两个人位于米色扶手椅前面。",
+                "C. 两个人位于平板显示器附近。",
+                "D. 两个人位于有窗帘的区域后面。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_1": {
+            "id": "2QTiAmvygC4_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这个场景的背景是什么？",
+            "options": [
+                "A. 背景是一个正式且专业的室内环境。",
+                "B. 背景是一个灯光昏暗的休闲聊天节目。",
+                "C. 场景设定在一家充满顾客的热闹餐厅。",
+                "D. 背景是一个带有自然元素的室外公园。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_2": {
+            "id": "2QTiAmvygC4_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "场景中的装饰元素有哪些？",
+            "options": [
+                "A. 场景包括一张书桌、米色墙壁、深棕色门和浅棕色沙发。",
+                "B. 场景包括一张书桌、纯白色的墙壁和现代抽象艺术。",
+                "C. 场景包括一张玻璃书桌、红色墙壁以及悬挂的照明装置。",
+                "D. 场景包括一张木桌、带极简装饰的蓝色墙壁和落地灯。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_3": {
+            "id": "2QTiAmvygC4_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "从视频来看，右边那个人穿着是怎样的？",
+            "options": [
+                "A. 右边那个人穿着黑色西装、白衬衫和红领带。",
+                "B. 右边那个人穿着蓝色西装、白衬衫和蓝领带。",
+                "C. 右边那个人穿着红色西装、白衬衫和红领带。",
+                "D. 右边那个人穿着黑色西装、白衬衫和蓝领带。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_4": {
+            "id": "2QTiAmvygC4_4",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "从视频来看，左侧那个人姿势或动作是如何的？",
+            "options": [
+                "A. 左侧那个人手势生动，引起了姿势的显著变化。",
+                "B. 左侧那个人开始保持镇定和沉稳的举止，后鼓掌。",
+                "C. 左侧那个人经常调整其领带，同时在座位上移动。",
+                "D. 左侧那个人向前倾斜，积极参与对话。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_5": {
+            "id": "2QTiAmvygC4_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "场景中书桌的主要特征是什么？",
+            "options": [
+                "A. 这张书桌小而简约，具有普通的木质特点。",
+                "B. 这张书桌大而华丽，工艺精湛，带有金色装饰和红色点缀。",
+                "C. 这张书桌是中等大小的现代风格，配有玻璃面板和金属腿。",
+                "D. 这张书桌古老而质朴，有明显的磨损痕迹且缺乏细节装饰。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_6": {
+            "id": "2QTiAmvygC4_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "场景中显示了多少个人？",
+            "options": [
+                "A. 一个人",
+                "B. 两个人",
+                "C. 三个人",
+                "D. 四个人"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_7": {
+            "id": "2QTiAmvygC4_7",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "这个场景的光线足够让所有细节清晰可见吗？",
+            "options": [
+                "A. 是的，场景光线充足，所有细节都清晰可见",
+                "B. 不，部分地方光线昏暗，难以清楚看见所有细节",
+                "C. 是的，光线明亮清晰",
+                "D. 不，场景太暗，无法辨认任何物体"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_8": {
+            "id": "2QTiAmvygC4_8",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "从视频来看，右边的那个人开始时做了什么动作？",
+            "options": [
+                "A. 右边的那个人在讲话，伴随着手部肢体动作。",
+                "B. 右边的那个人保持稳重且镇定的风度。",
+                "C. 右边的那个人在华丽的桌子上写字。",
+                "D. 右边的那个人站起来走出了视线。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_9": {
+            "id": "2QTiAmvygC4_9",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "从视频来看，墙上的灯相对于桌子的方向是哪个？",
+            "options": [
+                "A. 灯位于桌子左后方。",
+                "B. 灯位于桌子右后方。",
+                "C. 灯位于桌子正前方。",
+                "D. 灯位于桌子正上方。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_10": {
+            "id": "2QTiAmvygC4_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "这个场景中使用了哪种类型的镜头拍摄？",
+            "options": [
+                "A. 使用了一个稳定的、平视的、正面视角的镜头，直接捕捉主体。",
+                "B. 使用了一个俯角镜头，从上往下俯视主体。",
+                "C. 使用了一个低角度镜头，从下往上仰视主体。",
+                "D. 使用了一个俯拍镜头，直接位于主体正上方。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_11": {
+            "id": "2QTiAmvygC4_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "哪个视觉元素表明广播性质？",
+            "options": [
+                "A. 底部右角的 'ABC' 表明广播性质。",
+                "B. 花卉图案的墙纸表明广播性质。",
+                "C. 米色扶手椅的存在表明广播性质。",
+                "D. 华丽的书桌表明表明广播性质。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_12": {
+            "id": "2QTiAmvygC4_12",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频中场景的氛围是怎样的？",
+            "options": [
+                "A. 场景将家庭魅力与工作室实用性相结合，营造出专业与优雅装饰的精致对比。",
+                "B. 场景完全是专业的，仅专注于功能性和极简设计元素。",
+                "C. 场景完全是家庭风格，展现出舒适随意的氛围，没有任何专业元素。",
+                "D. 场景混乱无序，家具不搭配，灯光昏暗。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_13": {
+            "id": "2QTiAmvygC4_13",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "从视频来看，左边的男人在这一场景中有没有换衣服？",
+            "options": [
+                "A. 左边的男人后来加了一顶浅色的帽子。",
+                "B. 左边的男人把衬衫换成了红色的。",
+                "C. 左边的男人摘掉了领带。",
+                "D. 左边的男人在场景中一直未改变着装。"
+            ],
+            "answer": "D"
+        },
+        "2QTiAmvygC4_14": {
+            "id": "2QTiAmvygC4_14",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "这个场景的主要视觉元素是什么?",
+            "options": [
+                "A. 提供柔和照明的吊灯",
+                "B. 装饰华丽的红色桌子",
+                "C. 配有磨砂玻璃面板的木门",
+                "D. 右下角的 'ABC' 标志"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_15": {
+            "id": "2QTiAmvygC4_15",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "桌子后面坐着几个人？",
+            "options": [
+                "A. 一个人",
+                "B. 两个人",
+                "C. 三个人",
+                "D. 没有人"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_16": {
+            "id": "2QTiAmvygC4_16",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "是否有枝形吊灯提供照明？",
+            "options": [
+                "A. 是的，有一个枝形吊灯提供柔和的光线。",
+                "B. 不，没有枝形吊灯。",
+                "C. 是的，但是它提供明亮而刺眼的光。",
+                "D. 没有，照明只来自顶部设备。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_17": {
+            "id": "2QTiAmvygC4_17",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "人们采取什么行动来标志他们行为的变化？",
+            "options": [
+                "A. 人们做出鼓掌的手势。",
+                "B. 人们站起来鞠躬。",
+                "C. 人们向镜头招手。",
+                "D. 人们握手。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_18": {
+            "id": "2QTiAmvygC4_18",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "摄像机在整个视频中保持什么视角？",
+            "options": [
+                "A. 摄像机保持略微抬高并居中的眼平视角。",
+                "B. 摄像机保持低角度视角，向上看。",
+                "C. 摄像机保持鸟瞰视角，直视场景。",
+                "D. 摄像机保持特写视角，聚焦个人的面部。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_19": {
+            "id": "2QTiAmvygC4_19",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "在视频中，左边这位男子戴着的帽子是什么颜色的？",
+            "options": [
+                "A. 米白色",
+                "B. 浅蓝色",
+                "C. 浅绿色",
+                "D. 浅黄色"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_20": {
+            "id": "2QTiAmvygC4_20",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "这位女士最初相对于钢琴的位置是什么？",
+            "options": [
+                "A. 这位女士一开始坐在钢琴前。",
+                "B. 这位女士一开始靠在钢琴上。",
+                "C. 这位女士一开始站在离钢琴较远的地方。",
+                "D. 这位女士一开始弹奏钢琴。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_21": {
+            "id": "2QTiAmvygC4_21",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "房间的环境有何特征？",
+            "options": [
+                "A. 房间有暖黄色墙壁上的装饰画、米色墙壁上攀爬的绿色植物篱笆。",
+                "B. 房间有现代家具、明亮的白色墙壁，以及金属灯具，传达出现代感。",
+                "C. 房间有前卫雕塑，以及每面墙上都有一系列抽象画作。",
+                "D. 房间有流线型数字钢琴、LED灯条，并且缺乏植物或艺术品等自然装饰元素。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_22": {
+            "id": "2QTiAmvygC4_22",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "在她与钢琴互动时，这位女士做了哪些肢体动作？",
+            "options": [
+                "A. 这位女士向外伸出右臂，并向前倾身靠近钢琴。",
+                "B. 这位女士坐在钢琴旁边，与男子一同合作演奏。",
+                "C. 这位女士情感饱满地唱歌，同时完全静立在钢琴旁边。",
+                "D. 这位女士离开钢琴，挥舞着双手跳舞。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_23": {
+            "id": "2QTiAmvygC4_23",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "这一场景中，那个女人的手势是什么样的？",
+            "options": [
+                "A. 那个女人的动作从优雅的姿态转变为行走的动作手势。",
+                "B. 那个女人完全静止不动，没有做任何手势。",
+                "C. 那个女人缓慢而谨慎地移动，没有做任何富有表现力的手势。",
+                "D. 那个女人坐着时只有最少的手部动作。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_24": {
+            "id": "2QTiAmvygC4_24",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "场景中出现了哪种类型的钢琴？",
+            "options": [
+                "A. 钢琴是一款时尚的黑色立式钢琴。",
+                "B. 钢琴是一架表面光亮的大钢琴。",
+                "C. 钢琴是一架白色的小型三角钢琴。",
+                "D. 钢琴是支架上的数码键盘。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_25": {
+            "id": "2QTiAmvygC4_25",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "钢琴表面有何特别之处？",
+            "options": [
+                "A. 钢琴有抛光表面，能反射周围的光线。",
+                "B. 钢琴表面是哑光处理。",
+                "C. 钢琴表面覆盖有装饰图案。",
+                "D. 钢琴由未抛光的木材制成。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_26": {
+            "id": "2QTiAmvygC4_26",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "钢琴上有什么品牌标识？",
+            "options": [
+                "A. 这架钢琴有显著的 'Yamaha' 标识。",
+                "B. 这架钢琴有显著的 'Steinway' 标识。",
+                "C. 这架钢琴有显著的 'Baldwin' 标识。",
+                "D. 这架钢琴有显著的 'Kawai' 标识。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_27": {
+            "id": "2QTiAmvygC4_27",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "场景中有多少个主要角色？",
+            "options": [
+                "A. 有一个主要角色。",
+                "B. 有两个主要角色。",
+                "C. 有三个主要角色。",
+                "D. 有四个主要角色。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_28": {
+            "id": "2QTiAmvygC4_28",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "场景中的主要角色是谁？",
+            "options": [
+                "A. 穿黄色丝绸服装的女人和穿花衬衫和棕色裤子的男人。",
+                "B. 穿红色连衣裙的女人和穿西装的男人。",
+                "C. 穿黄色丝绸服装的女人和穿无尾礼服的男人。",
+                "D. 穿蓝色衣服的女人和穿便装的男人。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_29": {
+            "id": "2QTiAmvygC4_29",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景是否过渡到一个更亲密和住宅化的环境？",
+            "options": [
+                "A. 是的。",
+                "B. 不是。",
+                "C. 它过渡到一个繁忙的办公室环境。",
+                "D. 它过渡到一个户外的城市环境。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_30": {
+            "id": "2QTiAmvygC4_30",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "当那个人更加投入钢琴表演时，他做了什么动作？",
+            "options": [
+                "A. 那个人身体小幅度摇晃来配合手指动作。",
+                "B. 那个人从钢琴旁站起来观察女士。",
+                "C. 那个人一边演奏一边从钢琴向外倾斜。",
+                "D. 那个人移到房间的另一个装饰元素处。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_31": {
+            "id": "2QTiAmvygC4_31",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "在他的钢琴表演中，这名男子做出什么姿势？",
+            "options": [
+                "A. 男子坐在凳子微微摇晃脚有节奏的拍打地面。",
+                "B. 男子向后倾斜并放松远离钢琴。",
+                "C. 男子转身背向钢琴面对女士。",
+                "D. 男子弯腰，把头靠在钢琴键上。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_32": {
+            "id": "2QTiAmvygC4_32",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "在这一幕的高潮部分，这个女人做了什么？",
+            "options": [
+                "A. 女人向后退离钢琴，有活力地离开。",
+                "B. 女人靠近钢琴，调整姿势以更多地与音乐互动。",
+                "C. 女人坐在钢琴旁开始跟男人一起弹奏。",
+                "D. 女人走开钢琴，离开房间。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_33": {
+            "id": "2QTiAmvygC4_33",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "什么类型的拍摄方式用于捕捉主要互动？",
+            "options": [
+                "A. 使用了特写镜头。",
+                "B. 使用了中远距平视角度。",
+                "C. 使用了俯视鸟瞰角度。",
+                "D. 使用了低角度仰拍。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_34": {
+            "id": "2QTiAmvygC4_34",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "镜头拍摄如何影响观众的感知？",
+            "options": [
+                "A. 它提供了对亲密表演和丰富环境的平衡视角。",
+                "B. 它仅强调了男子在钢琴前的表演。",
+                "C. 它将重点缩小到房间的装饰元素上。",
+                "D. 它模糊了角色与环境之间的互动。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_35": {
+            "id": "2QTiAmvygC4_35",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "在这场景从开始到高潮时，这位女士的姿势有何改变？",
+            "options": [
+                "A. 她开始时靠在钢琴上，后来有站起并走着远离钢琴。",
+                "B. 她开始时坐着，最后躺在地板上。",
+                "C. 她开始是靠在墙上，最后坐到钢琴前。",
+                "D. 她背对着镜头开始，最后背对着那位男士。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_36": {
+            "id": "2QTiAmvygC4_36",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "从场景开始到高潮阶段，这名女子的手势发生了怎样的变化？",
+            "options": [
+                "A. 她的手势变得更有活力和动态，显示出对音乐的深刻连接。",
+                "B. 她的手势变得更为低调和克制，反映出一种平静感。",
+                "C. 她的手势始终僵硬，没有任何显著变化。",
+                "D. 她的手势变得混乱和脱节，表现出对音乐的困惑。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_37": {
+            "id": "2QTiAmvygC4_37",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "微弱的自然光来自哪里？",
+            "options": [
+                "A. 自然光是从进厨房的门口照进来的。",
+                "B. 微弱的自然光是通过厨房小窗户照进来的。",
+                "C. 光是从厨房上方的灯散发出来的。",
+                "D. 自然光是通过餐厅的一个打开的门从外面照进来的。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_38": {
+            "id": "2QTiAmvygC4_38",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "厨房的整体环境是怎样的？",
+            "options": [
+                "A. 厨房有深棕色橱柜、米色墙壁、餐椅、圆形餐桌和绿植等。",
+                "B. 厨房有光滑的不锈钢家电、玻璃台面、白色橱柜和极简装饰。",
+                "C. 厨房有裸露的砖墙、金属置物架、水泥地板和悬挂式吊灯。",
+                "D. 厨房有做旧木质家具、开放式置物架、大型农舍水槽，以及用作储物容器的复古梅森罐。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_39": {
+            "id": "2QTiAmvygC4_39",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "这个女人穿的是什么？",
+            "options": [
+                "A. 这个女人穿着一件黄色连衣裙。",
+                "B. 这个女人穿着一件蓝色花朵图案的衬衫。",
+                "C. 这个女人穿着一条红色波点裙子。",
+                "D. 这个女人穿着一件绿色连体衣。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_40": {
+            "id": "2QTiAmvygC4_40",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "这名女性是如何与场景环境互动的？",
+            "options": [
+                "A. 她向前倾靠近灶台，然后稍稍直起身子开始转身。",
+                "B. 她安静地坐在餐桌旁，喝着一杯饮品，同时读着报纸。",
+                "C. 她打开冰箱，拿出食材，然后开始在炉灶上做饭。",
+                "D. 她静静地站在窗边，欣赏着外面的景色。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_41": {
+            "id": "2QTiAmvygC4_41",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "厨房台面上可以看到哪些物品？",
+            "options": [
+                "A. 一个玻璃咖啡壶，浅色的杯子，一个绿色盆栽植物和鲜艳的红花",
+                "B. 一个蓝色陶瓷茶壶，深色的杯子，一个红色盆栽植物和黄色郁金香",
+                "C. 一个黑色水壶，透明玻璃杯，一个白色盆栽兰花和粉色康乃馨",
+                "D. 一个银色的烤面包机，棕色咖啡豆，一株人造植物和白色百合花"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_42": {
+            "id": "2QTiAmvygC4_42",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "在厨房里描述了几种凳子？",
+            "options": [
+                "A. 一种",
+                "B. 两种",
+                "C. 三种",
+                "D. 四种"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_43": {
+            "id": "2QTiAmvygC4_43",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "从视频来看'ABC'标志位于哪个位置？",
+            "options": [
+                "A. 位于画面右下角。",
+                "B. 位于画面左下角。",
+                "C. 位于画面右上角。",
+                "D. 位于画面左上角。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_44": {
+            "id": "2QTiAmvygC4_44",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "女人向前倾后做了什么？",
+            "options": [
+                "A. 女人稍微直起身子并开始转身。",
+                "B. 女人开始在炉子上做饭。",
+                "C. 女人坐在一把带橙色靠垫的餐椅上。",
+                "D. 女人从厨房台面上拿起一个咖啡壶。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_45": {
+            "id": "2QTiAmvygC4_45",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "从视频来看，在直行之后这名女子朝哪个方向转？",
+            "options": [
+                "A. 这名女子向左转。",
+                "B. 这名女子向右转。",
+                "C. 这名女子朝房间中心转。",
+                "D. 这名女子朝她左边的门口转。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_46": {
+            "id": "2QTiAmvygC4_46",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "哪些视觉元素强化了厨房的复古氛围？",
+            "options": [
+                "A. 深色的厨房用具有助于统一的配色方案。",
+                "B. 光滑的现代家电营造出现代感。",
+                "C. 女人未来感的服饰与厨房风格形成对比。",
+                "D. 极简设计和空荡的台面突出了现代优雅。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_47": {
+            "id": "2QTiAmvygC4_47",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "从视频来看，新人物出现后穿着橙色连衣裙的女人在什么位置？",
+            "options": [
+                "A. 她位于画面的最右边。",
+                "B. 她位于画面的中央。",
+                "C. 她位于画面的最左边。",
+                "D. 她未出现在画面中。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_48": {
+            "id": "2QTiAmvygC4_48",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "这个房间的整体环境是怎样的？",
+            "options": [
+                "A. 房间是黑暗阴郁的。",
+                "B. 房间是混乱杂乱的。",
+                "C. 房间温暖而有吸引力。",
+                "D. 房间是冷淡和无菌的。"
+            ],
+            "answer": "C"
+        },
+        "2QTiAmvygC4_49": {
+            "id": "2QTiAmvygC4_49",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "房间的装饰是怎样的？",
+            "options": [
+                "A. 房间有米色沙发、咖啡桌、抱枕、灯和艺术品等。",
+                "B. 房间有深色木梁、复古装饰和做旧的咖啡桌。",
+                "C. 房间有金属装饰、裸露的砖墙和极简家具。",
+                "D. 房间有白色墙壁、简洁的家具和中性色调。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_50": {
+            "id": "2QTiAmvygC4_50",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "这个场景中最显眼的那个女人长什么样子？",
+            "options": [
+                "A. 那女人穿着一条黄色的长袖连衣裙，留着爆炸头发型。",
+                "B. 那女人穿着一条短袖的焦橙色连衣裙，留着直发。",
+                "C. 那女人穿着一件格子衬衫，绑着马尾辫。",
+                "D. 那女人穿着一条奶油色的连衣裙，留着卷发。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_51": {
+            "id": "2QTiAmvygC4_51",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "那位身穿粉色图案连衣裙爆炸头发型的女人刚出现时是什么动作的？",
+            "options": [
+                "A. 她正在鼓掌。",
+                "B. 她正坐在沙发上。",
+                "C. 她正在唱歌。",
+                "D. 她正在喝水。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_52": {
+            "id": "2QTiAmvygC4_52",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "这一场景中有多少人？",
+            "options": [
+                "A. 场景中有一人。",
+                "B. 场景中有两人。",
+                "C. 场景中有三人。",
+                "D. 场景中有四人。"
+            ],
+            "answer": "D"
+        },
+        "2QTiAmvygC4_53": {
+            "id": "2QTiAmvygC4_53",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "穿橘色连衣裙的女人在场吗？",
+            "options": [
+                "A. 是的，她正在积极互动。",
+                "B. 是的，她可见但待在背景中。",
+                "C. 不，她不在场景中。",
+                "D. 不，但她的缺席不明显。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_54": {
+            "id": "2QTiAmvygC4_54",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "穿着黄礼服的女子向门做了什么动作？",
+            "options": [
+                "A. 她双臂高举过头。",
+                "B. 她以欢快的姿态走出门口。",
+                "C. 她把双手交叉放在胸前。",
+                "D. 她用双手推开门。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_55": {
+            "id": "2QTiAmvygC4_55",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "从视频来看，这个女人朝哪个方向移动？",
+            "options": [
+                "A. 她从左往右移动。",
+                "B. 她从右往左移动。",
+                "C. 她在房间中央转圈。",
+                "D. 她朝背景阳台移动。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_56": {
+            "id": "2QTiAmvygC4_56",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "其他人物退出镜头对场景构图有什么影响？",
+            "options": [
+                "A. 它将焦点完全放在穿黄连衣裙的女人身上。",
+                "B. 它使场景显得空旷而缺乏活力。",
+                "C. 它将注意力转移到房间的装饰和家具上。",
+                "D. 它突出了场景中颜色和温暖的缺失。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_57": {
+            "id": "2QTiAmvygC4_57",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "走廊的氛围是如何描述的？",
+            "options": [
+                "A. 走廊被描述为温暖而令人愉快。",
+                "B. 走廊被描述为黑暗且不受欢迎。",
+                "C. 走廊被描述为简约且充满未来感。",
+                "D. 走廊被描述为冰冷且临床化。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_58": {
+            "id": "2QTiAmvygC4_58",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "走廊的装饰是如何描述的？",
+            "options": [
+                "A. 走廊有深灰色的墙壁，现代化的照明，一个桌子和抽象艺术品。",
+                "B. 走廊有浅棕色竖条纹壁纸，温馨的灯光，一个台灯和花卉的木桌，以及装裱的艺术作品。",
+                "C. 走廊包括砖墙，工业风照明，一个大书架和一幅装裱的世界地图。",
+                "D. 走廊以纯白色墙壁装饰，暗藏式照明，一个玻璃咖啡桌和一幅城市风景画。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_59": {
+            "id": "2QTiAmvygC4_59",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "这一场景中，女人的手是如何变化的？",
+            "options": [
+                "A. 她的手臂抬起并向外展开。",
+                "B. 她的手臂抬起并交叉在胸前。",
+                "C. 她的手臂完全放在身体两侧。",
+                "D. 她的手臂抬起并垂直伸展在头顶。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_60": {
+            "id": "2QTiAmvygC4_60",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "走廊的窄木桌上有哪些装饰品？",
+            "options": [
+                "A. 窄木桌上装饰着一盏浅米色的灯和一个花卉摆设。",
+                "B. 窄木桌上装饰着一个银质的烛台和一碗水果。",
+                "C. 窄木桌上装饰着一盏浅米色的灯和一摞书。",
+                "D. 窄木桌上装饰着一株盆栽蕨类植物和一个钟。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_61": {
+            "id": "2QTiAmvygC4_61",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "走廊场景中可以看到多少可见的光源？",
+            "options": [
+                "A. 可以看到一个可见的光源。",
+                "B. 可以看到两个可见的光源。",
+                "C. 可以看到三个可见的光源。",
+                "D. 可以看到四个可见的光源。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_62": {
+            "id": "2QTiAmvygC4_62",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "走廊场景中主要的光源是什么？",
+            "options": [
+                "A. 装饰性桌灯和走廊墙上球形壁灯。",
+                "B. 装饰性桌灯和从窗户射入的自然阳光。",
+                "C. 花板荧光灯和霓虹灯招牌。",
+                "D. 走廊的环境壁灯和角落桌上的烛光。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_63": {
+            "id": "2QTiAmvygC4_63",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "在场景即将结束时，那个女人用手做了什么手势？",
+            "options": [
+                "A. 她的双手叉腰放在臀部两侧。",
+                "B. 她的双手在胸前交握在一起。",
+                "C. 她的双手向外伸展，做出邀请的手势。",
+                "D. 她的双手高举过头，做出富有表现力的动作。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_64": {
+            "id": "2QTiAmvygC4_64",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "从视频来看，女人向哪个方向移动？",
+            "options": [
+                "A. 女人向左移动，离开画面。",
+                "B. 女人向前移动，跨过门槛进入电梯。",
+                "C. 女人向后移动，返回到她的原位。",
+                "D. 女人不动，保持静止。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_65": {
+            "id": "2QTiAmvygC4_65",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "女人的动作在镜头之间显得逐渐移动吗？",
+            "options": [
+                "A. 是的，女人的动作显得逐渐移动。",
+                "B. 不，女人的动作是突然的。",
+                "C. 女人在镜头之间的动作不清楚。",
+                "D. 女人是静止的。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_66": {
+            "id": "2QTiAmvygC4_66",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "从视频来看，电梯的位置在哪里？",
+            "options": [
+                "A. 电梯位于画面的最左侧。",
+                "B. 电梯位于画面的最右侧。",
+                "C. 电梯位于画面正中央。",
+                "D. 该场景未出现电梯。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_67": {
+            "id": "2QTiAmvygC4_67",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "从视频来看，这位女士左侧的房门是否发生变化？",
+            "options": [
+                "A. 是的，房门后来被关闭。",
+                "B. 是的，房门被卸下。",
+                "C. 是的，房门颜色发生变化。",
+                "D. 不，房门位置颜色保持不变。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_68": {
+            "id": "2QTiAmvygC4_68",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "这一场景中有多少房门可见？（不包括电梯门）",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_69": {
+            "id": "2QTiAmvygC4_69",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "从观看视频角度来看，房门分别在这位女士的什么位置？（不包括电梯门）",
+            "options": [
+                "A. 房门在她的左面和后面。",
+                "B. 房门在她的前面和右面。",
+                "C. 房门在她的右面和后面。",
+                "D. 房门在她的左面和右面。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_70": {
+            "id": "2QTiAmvygC4_70",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "这位女士在场景中的最后一个动作是什么？",
+            "options": [
+                "A. 她挥动手臂，正准备跨入电梯。",
+                "B. 她走进开着的电梯，电梯门在她身后关上了。",
+                "C. 她双手叉腰站在走廊的中央。",
+                "D. 她调整左臂，使其恰好位于腰线上方。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_71": {
+            "id": "2QTiAmvygC4_71",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "走廊尽头的木门上可以看到什么细节？",
+            "options": [
+                "A. 走廊尽头的木门上有编号 '12E'。",
+                "B. 走廊尽头的木门上有编号 '10A'。",
+                "C. 走廊尽头的木门上没有可见的编号。",
+                "D. 走廊尽头的木门上有字母 'B'。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_72": {
+            "id": "2QTiAmvygC4_72",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "到最后，可以看到场景中有多少扇门是开着的？",
+            "options": [
+                "A. 到最后有一扇门是开着的。",
+                "B. 到最后有两扇门是开着的。",
+                "C. 到最后有三扇门是开着的。",
+                "D. 到最后没有门是开着的。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_73": {
+            "id": "2QTiAmvygC4_73",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "视频中走廊的灯光发生变化了吗？",
+            "options": [
+                "A. 是的，视频结尾时灯光变得更亮了。",
+                "B. 没有，视频中走廊的温暖灯光始终保持不变。",
+                "C. 是的，当那个女人消失时，灯光变暗了。",
+                "D. 是的，在过渡时灯光变成了较冷的色调。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_74": {
+            "id": "2QTiAmvygC4_74",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "这一场景最后，哪个位置的门是打开的？",
+            "options": [
+                "A. 画面左侧的房门。",
+                "B. 画面右侧的电梯门。",
+                "C. 画面正中央的房门。",
+                "D. 场景中没有被打开的门。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_75": {
+            "id": "2QTiAmvygC4_75",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "场景中电梯门的运动暗示了什么？",
+            "options": [
+                "A. 电梯门打开，露出了部分内部。",
+                "B. 电梯门保持关闭，隐藏了内部。",
+                "C. 电梯门短时间打开然后再次关闭。",
+                "D. 电梯门打开，展现了走廊。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_76": {
+            "id": "2QTiAmvygC4_76",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "框架是如何强调镇定的女人为场景的焦点的？",
+            "options": [
+                "A. 框架使用温暖柔和的灯光，并保持她在视觉元素变化中的中心位置。",
+                "B. 框架使用强烈的灯光，将她置于画面的角落，与背景元素融合。",
+                "C. 框架依赖于阴影和昏暗的照明来遮盖她在走廊内的动作。",
+                "D. 框架完全排除这个女人，以强调走廊的复古美感。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_77": {
+            "id": "2QTiAmvygC4_77",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "场景最后一幕展示了什么重大变化？",
+            "options": [
+                "A. 电梯门一直开着。",
+                "B. 灯光变成了冷蓝色调。",
+                "C. 那位女士变得几乎不可见。",
+                "D. 中央的木门现在显示发生变化。"
+            ],
+            "answer": "C"
+        },
+        "2QTiAmvygC4_78": {
+            "id": "2QTiAmvygC4_78",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "视觉呈现发生了什么变化？",
+            "options": [
+                "A. 视觉呈现立即变成了一幅色彩鲜艳的推广图形。",
+                "B. 视觉呈现变成了一片完全黑暗的画面。",
+                "C. 视觉呈现切换到一个观众鼓掌的场景。",
+                "D. 视觉呈现再次过渡到一个明亮走廊的详细场景。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_79": {
+            "id": "2QTiAmvygC4_79",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "在黑屏之后的宣传图上出现了什么文字？",
+            "options": [
+                "A. 'REPLAY' 和 'NOW SHOWING' ",
+                "B. 'LIVE' 和 'IN FRONT OF A STUDIO AUDIENCE' ",
+                "C. 'PREVIEW' 和 'COMING SOON' ",
+                "D. 'PAST SHOWS'和 'NEXT ON AIR' "
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_80": {
+            "id": "2QTiAmvygC4_80",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "宣传图上显示了多少个节目标题？",
+            "options": [
+                "A. 一个节目标题",
+                "B. 两个节目标题",
+                "C. 三个节目标题",
+                "D. 四个节目标题"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_81": {
+            "id": "2QTiAmvygC4_81",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "宣传图中展示的节目标题是什么？",
+            "options": [
+                "A. 'FULL HOUSE'和'FRIENDS'",
+                "B. 'ALL IN THE FAMILY'和'THE JEFFERSONS'",
+                "C. 'SEINFELD'和'THE OFFICE'",
+                "D. 'CHEERS'和'M*A*S*H'"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_82": {
+            "id": "2QTiAmvygC4_82",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "促销图形出现后，屏幕会发生什么变化？",
+            "options": [
+                "A. 屏幕变回完全黑色，消除了所有醒目的文本、发光效果和图形元素。",
+                "B. 屏幕显示促销图形的延续，并提供更多关于广播的细节。",
+                "C. 屏幕转换到现场观众准备广播的场景。",
+                "D. 屏幕切换到来自演播室的现场直播，展示布景和工作人员的准备情况。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_83": {
+            "id": "2QTiAmvygC4_83",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "是什么表明视频即将结束？",
+            "options": [
+                "A. 黑屏上没有可辨认的特征或纹理。",
+                "B. 宣传图充满了鲜艳的能量。",
+                "C. ABC标志显眼地展示着。",
+                "D. 字母“LIVE”以大而醒目的红色发光字母显示。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_84": {
+            "id": "2QTiAmvygC4_84",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "场景中央红色横幅上是什么文本内容？",
+            "options": [
+                "A. “NORMAN LEAR´S”",
+                "B. “LIVE”",
+                "C. “CHEERS”",
+                "D. “THE OFFICE”"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_85": {
+            "id": "2QTiAmvygC4_85",
+            "scene": 5,
+            "dimension": "Speed",
+            "question": "场景切换时速度是否发生变化？",
+            "options": [
+                "A. 是的，切换明确描述为加速。",
+                "B. 是的，切换明确描述为减速。",
+                "C. 不是，没有具体描述场景切换时速度的变化。",
+                "D. 是的，切换速度根据内容类型有所不同。"
+            ],
+            "answer": "C"
+        },
+        "2QTiAmvygC4_86": {
+            "id": "2QTiAmvygC4_86",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "坐在桌子后面的两个男人是什么样的？",
+            "options": [
+                "A. 他们穿着西装打着领带，非常正式。",
+                "B. 他们穿着浅色的休闲装，正在聊天。",
+                "C. 他们穿着显眼的运动装，正在运动。",
+                "D. 他们被桌子挡住，未观察到任何细节。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_87": {
+            "id": "2QTiAmvygC4_87",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "从视频来看，穿着黄色连衣裙刚出现时，白色墙壁上的攀爬植物在这位女士哪个位置？",
+            "options": [
+                "A. 在这位女士的左后方。",
+                "B. 在这位女士的右后方。",
+                "C. 在这位女士的左前方。",
+                "D. 在这位女士的右前方。"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_88": {
+            "id": "2QTiAmvygC4_88",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "这位弹钢琴的那人是怎样的？",
+            "options": [
+                "A. 他穿着一件花衬衫、深棕色的裤子和皮靴，是爆炸头发型。",
+                "B. 他穿着一件白衬衫、黑色裤子和皮靴，是柔顺的棕色发型。",
+                "C. 他穿着一件蓝白体恤、黑色裤子和白色运动鞋，戴着帽子。",
+                "D. 他穿着一件运动球衣，同色短裤和白色运动鞋，黑色短发。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_89": {
+            "id": "2QTiAmvygC4_89",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "当屏幕上出现带有“LIVE”字样的宣传图像后会发生什么？",
+            "options": [
+                "A. 屏幕切换回完全黑屏。",
+                "B. 一个新的宣传图像开始播放。",
+                "C. 摄像机转向现场观众。",
+                "D. 播出倒计时出现在屏幕上。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_90": {
+            "id": "2QTiAmvygC4_90",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "哪些元素表明初始场景中两名男子可能身处专业环境中？",
+            "options": [
+                "A. 男子们的正式服装、华丽的桌子、演播室灯光、显示实时画面的监视器和“ABC”标志等。",
+                "B. 男子们的休闲服装、简单的木桌、缺乏特殊灯光以及没有可见标志表明是一个轻松的办公室环境。",
+                "C. 男子们的随意对话、缺乏装饰元素及没有任何科技设备表明是非专业环境。",
+                "D. 厨房柜台的存在、休闲服装和昏暗的灯光表明场景设置在某人的家里，而不是专业环境。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_91": {
+            "id": "2QTiAmvygC4_91",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "什么使那个女人成为了场景的焦点？",
+            "options": [
+                "A. 她鲜艳的黄色丝绸服装吸引了注意。",
+                "B. 她是场景中唯一微笑的人。",
+                "C. 她站在房间的中央。",
+                "D. 她的服装与墙壁的颜色相配。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_92": {
+            "id": "2QTiAmvygC4_92",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "女人的动作和手势是如何使她成为场景的焦点的？",
+            "options": [
+                "A. 她充满活力的动作和自信的手势吸引了注意力。",
+                "B. 她微妙而害羞的手势融入了背景。",
+                "C. 她完全静止且没有动作的状态吸引了注意力。",
+                "D. 她缓慢而有意图的动作未能脱颖而出。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_93": {
+            "id": "2QTiAmvygC4_93",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "女人的黄色服装如何与场景中的室内色调形成对比？",
+            "options": [
+                "A. 她的黄色服装与复古风格室内的柔和土色调形成鲜明对比。",
+                "B. 她的黄色服装与明亮而生动的室内色调完美融合。",
+                "C. 她的黄色服装与现代室内的霓虹灯和鲜艳装饰相匹配。",
+                "D. 她的黄色服装与房间黑暗且极简的设计产生冲突。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_94": {
+            "id": "2QTiAmvygC4_94",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "走廊场景中穿着黄色连衣裙的女人最后做了什么?",
+            "options": [
+                "A. 她向打开的电梯门的移动并消失在画面中。",
+                "B. 她双手向上举起，展示热烈庆祝状态。",
+                "C. 她在走廊中来回走动，表现异常焦急。",
+                "D. 她背靠墙壁，显得无事可做。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_95": {
+            "id": "2QTiAmvygC4_95",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在华丽的书桌前，男人们在鼓掌之前做了什么？",
+            "options": [
+                "A. 他们表现得泰然自若，动作很少，好似在介绍什么。",
+                "B. 他们显出焦躁不安的精力，并在书桌周围忙乱地走动。",
+                "C. 他们进行激烈的讨论，并翻看文件。",
+                "D. 他们显得心不在焉，频繁查看手机。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_96": {
+            "id": "2QTiAmvygC4_96",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在那个女人倚靠在钢琴上的场景之后会发生什么？",
+            "options": [
+                "A. 男性继续演奏更加沉浸式的钢琴音乐。",
+                "B. 场景切换为户外场景。",
+                "C. 展现出一个伴随着雷电的戏剧性场景。",
+                "D. 一个由小丑表演的喜剧短剧上演。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_97": {
+            "id": "2QTiAmvygC4_97",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在她倚靠在钢琴上的场景之后，那个女人有什么反应？",
+            "options": [
+                "A. 女人的动作变得越来越富有表现力和动感。",
+                "B. 女人保持不动，凝视钢琴，陷入沉思。",
+                "C. 女人突然离开现场，留下钢琴。",
+                "D. 女人开始轻轻弹奏钢琴，营造出一种宁静的氛围。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_98": {
+            "id": "2QTiAmvygC4_98",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "促销画面之前的转场有哪些？",
+            "options": [
+                "A. 一位穿着黄色连衣裙的女子走出走廊场景，画面变为全黑，广告画面出现。",
+                "B. 走廊场景直接过渡到促销画面，中间没有全黑画面。",
+                "C. 促销画面从一个伴有雷雨和闪电效果的暴风雨户外场景淡入。",
+                "D. 一个充满人群且明亮的走廊直接过渡到促销画面，过程中没有全黑画面。"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_99": {
+            "id": "2QTiAmvygC4_99",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么左边的男人要加一顶浅色帽子？",
+            "options": [
+                "A. 男人戴帽子可能是强调个人风格，或者与活动相关。",
+                "B. 他戴帽子是为了防止拍摄现场的强光。",
+                "C. 男人加帽子是为了在更暗的环境中让自己更显眼。",
+                "D. 这是制作团队要求所有演员佩戴帽子。"
+            ],
+            "answer": "A"
+        }
+    }
+}

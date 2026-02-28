@@ -1,0 +1,2164 @@
+{
+    "scene_hint": {
+        "0": "A man is sitting in a car taking a selfie.",
+        "1": "A man is leisurely strolling in front of a large temple.",
+        "2": "The man gradually walks towards the camera along the path.",
+        "3": "A golden Buddha statue is in the middle of the video.",
+        "4": "Giving a thumbs up to the surroundings outside the temple.",
+        "5": "The scene switches to a dining setting, showcasing dishes.",
+        "6": "Picking up seafood to show to the camera.",
+        "7": "Inside the temple, a man is performing a ritual with incense.",
+        "8": "The man is sitting on the grass drinking a beverage.",
+        "9": "Switching to indoors, the man interacts with people.",
+        "10": "In the studio, four people are taking photos.",
+        "11": "The scene shifts to a party scene, bustling with excitement.",
+        "12": "A close-up of a man is shown."
+    },
+    "qa": {
+        "aWBRHk_-5as_0": {
+            "id": "aWBRHk_-5as_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "Where does this scene take place?",
+            "options": [
+                "A. In the back seat of a car.",
+                "B. In the park.",
+                "C. In the living room.",
+                "D. In the café."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_1": {
+            "id": "aWBRHk_-5as_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment like?",
+            "options": [
+                "A. The environment is luxurious, spacious, and bright.",
+                "B. The environment is dark, narrow, and cluttered.",
+                "C. The environment is minimalist, industrial style, and dim.",
+                "D. The environment is rugged, outdoor-like, and chaotic."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_2": {
+            "id": "aWBRHk_-5as_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the person in the car wearing?",
+            "options": [
+                "A. A white shirt with rolled-up sleeves",
+                "B. A black jacket with a hood",
+                "C. A blue T-shirt with a graphic design",
+                "D. A long-sleeved gray sweater"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_3": {
+            "id": "aWBRHk_-5as_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "How is the posture of the person in the car described?",
+            "options": [
+                "A. The person looks nervous, with arms crossed.",
+                "B. The person looks relaxed, with the left arm resting on the seat.",
+                "C. The person looks busy, holding a phone.",
+                "D. The person looks like they are sleeping, with their head resting on the window."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_4": {
+            "id": "aWBRHk_-5as_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "How is the car seat described in appearance?",
+            "options": [
+                "A. Wrapped in light gray leather.",
+                "B. Made of black fabric.",
+                "C. Coarse textured fabric surface.",
+                "D. Wrapped in dark brown leather."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_5": {
+            "id": "aWBRHk_-5as_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many people can be seen in the image?",
+            "options": [
+                "A. No one.",
+                "B. One person.",
+                "C. Two people.",
+                "D. Three people."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_6": {
+            "id": "aWBRHk_-5as_6",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is the car moving?",
+            "options": [
+                "A. Yes, the car is moving at high speed.",
+                "B. No, the car is stationary.",
+                "C. Not sure, the car might be stationary or moving slowly.",
+                "D. Yes, the car is moving in a busy city."
+            ],
+            "answer": "D"
+        },
+        "aWBRHk_-5as_7": {
+            "id": "aWBRHk_-5as_7",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What angle was used to take this picture?",
+            "options": [
+                "A. Taken from the angle of the front camera.",
+                "B. Taken from the angle of the side camera.",
+                "C. Taken from the angle of the overhead camera.",
+                "D. Taken by an external camera through the rear window."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_8": {
+            "id": "aWBRHk_-5as_8",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What did the camera lens capture in the image?",
+            "options": [
+                "A. It captured the upper part of the back seat.",
+                "B. It captured a panoramic view of the car's interior.",
+                "C. It captured the front seat and dashboard area.",
+                "D. It captured a close-up of the car door handle."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_9": {
+            "id": "aWBRHk_-5as_9",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where does the main event of the video take place?",
+            "options": [
+                "A. Outdoor location.",
+                "B. Market.",
+                "C. Inside an office building.",
+                "D. Rustic house."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_10": {
+            "id": "aWBRHk_-5as_10",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the man wearing in the video?",
+            "options": [
+                "A. White pants and a vertically striped shirt.",
+                "B. Black pants and a solid blue shirt.",
+                "C. Gray pants and a horizontally striped shirt.",
+                "D. White pants and a solid red shirt."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_11": {
+            "id": "aWBRHk_-5as_11",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the temple-style building facade?",
+            "options": [
+                "A. It is pure white with exquisite carvings.",
+                "B. It is bright red with modern glass panels.",
+                "C. It is golden without carvings.",
+                "D. It is light gray with a simple brick pattern."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_12": {
+            "id": "aWBRHk_-5as_12",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What do the windows of this temple-like building look like?",
+            "options": [
+                "A. The windows are tall and narrow, with deep red window frames and red metal grilles.",
+                "B. The windows are wide and short, with blue window frames and white curtains.",
+                "C. The windows are round, with green window frames and no grilles.",
+                "D. The windows are square, with yellow window frames and wooden shutters."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_13": {
+            "id": "aWBRHk_-5as_13",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What decorates the eaves of the temple-like building?",
+            "options": [
+                "A. Luxurious golden details.",
+                "B. Red tiles.",
+                "C. Silver carvings.",
+                "D. White statues."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_14": {
+            "id": "aWBRHk_-5as_14",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many white buildings are visible?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_15": {
+            "id": "aWBRHk_-5as_15",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "Is this man walking fast?",
+            "options": [
+                "A. Yes, this man is walking fast.",
+                "B. No, this man is walking leisurely.",
+                "C. Yes, this man is running.",
+                "D. No, this man is sprinting."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_16": {
+            "id": "aWBRHk_-5as_16",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "Which direction is the man moving while walking?",
+            "options": [
+                "A. Slightly to the left.",
+                "B. Slightly to the right.",
+                "C. Staying in the center of the path.",
+                "D. Walking in a zigzag manner along the path."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_17": {
+            "id": "aWBRHk_-5as_17",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What perspective is used in this shot?",
+            "options": [
+                "A. Eye-level perspective.",
+                "B. Bird's-eye perspective.",
+                "C. Low-angle perspective.",
+                "D. High-angle perspective."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_18": {
+            "id": "aWBRHk_-5as_18",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What is this person's pace like?",
+            "options": [
+                "A. This person is walking leisurely.",
+                "B. This person is walking quickly.",
+                "C. This person is running.",
+                "D. This person is standing still."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_19": {
+            "id": "aWBRHk_-5as_19",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What change occurred to the man's shirt compared to the previous scene?",
+            "options": [
+                "A. It changed from yellow and white stripes to brown and white tones.",
+                "B. It changed from pure white to yellow and white stripes.",
+                "C. It changed from black and white stripes to blue and white stripes.",
+                "D. It changed from green and yellow stripes to red and white stripes."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_20": {
+            "id": "aWBRHk_-5as_20",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "What is on the man's left as he walks along the temple complex's footpath?",
+            "options": [
+                "A. The ornate white exterior walls of the temple.",
+                "B. A tall white stupa.",
+                "C. Well-trimmed green plants.",
+                "D. Parked motorcycles and a blue trash bin."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_21": {
+            "id": "aWBRHk_-5as_21",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video?",
+            "options": [
+                "A. City market.",
+                "B. Temple complex.",
+                "C. Museum.",
+                "D. Forest."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_22": {
+            "id": "aWBRHk_-5as_22",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What architectural features are in the video?",
+            "options": [
+                "A. The scene includes a white temple exterior, tall white pagodas, vibrant orange and red roofs, peach-colored buildings in the distance, and well-manicured greenery.",
+                "B. The scene includes a black temple exterior, tall silver spires, vibrant blue and yellow roofs, beige buildings in the distance, and wild vegetation.",
+                "C. The scene includes a white temple exterior, short white pagodas, vibrant green and red roofs, pink buildings in the distance, and concrete pavement.",
+                "D. The scene includes a gray temple exterior, medium-height gray pagodas, dull orange and white roofs, brown buildings in the distance, and rocky ground."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_23": {
+            "id": "aWBRHk_-5as_23",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the man wearing as he approaches the camera?",
+            "options": [
+                "A. Yellow and white vertical striped shirt, white pants.",
+                "B. Blue shirt, black pants.",
+                "C. Red horizontal striped shirt, beige pants.",
+                "D. Green jacket and gray pants."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_24": {
+            "id": "aWBRHk_-5as_24",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What objects can be seen in the background?",
+            "options": [
+                "A. A sign and a blue trash can",
+                "B. A fountain and a wooden bench",
+                "C. A snack stand and a small statue",
+                "D. A decorative lamp post and a bicycle"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_25": {
+            "id": "aWBRHk_-5as_25",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Do the temple complexes have traditional Thai architectural elements?",
+            "options": [
+                "A. Yes, the temple complexes prominently feature traditional Thai architectural elements.",
+                "B. No, the temple complexes do not have traditional Thai architectural elements.",
+                "C. Yes, but the temple complexes only include modern architectural elements.",
+                "D. No, the architectural elements are mainly influenced by the West."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_26": {
+            "id": "aWBRHk_-5as_26",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "What is the direction of the man's movement?",
+            "options": [
+                "A. The man is moving backward, away from the camera.",
+                "B. The man is moving forward, towards the camera.",
+                "C. The man is moving sideways across the frame.",
+                "D. The man is stationary in the frame."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_27": {
+            "id": "aWBRHk_-5as_27",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "How does the camera adjust its focus when this person moves?",
+            "options": [
+                "A. The lens remains relatively still, capturing the person clearly while also recording the environment.",
+                "B. The lens is fully focused on the temple background.",
+                "C. The lens makes the person blurry.",
+                "D. The lens zooms out."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_28": {
+            "id": "aWBRHk_-5as_28",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "In the scene's environment, which object stands out because of its color?",
+            "options": [
+                "A. The ornate white temple facade becomes prominent.",
+                "B. The tall white stupa stands out more.",
+                "C. The neatly trimmed greenery on the right becomes prominent.",
+                "D. The vibrant orange roof filled with gold decorations becomes the focal point."
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_29": {
+            "id": "aWBRHk_-5as_29",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the golden Buddha statue located in the temple's main hall?",
+            "options": [
+                "A. The golden Buddha statue is located at the entrance of the main hall.",
+                "B. The golden Buddha statue is located in the center of the main hall, placed on a high platform.",
+                "C. The golden Buddha statue is placed in a corner near the ceiling.",
+                "D. The golden Buddha statue is outside the temple's main hall, near the garden."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_30": {
+            "id": "aWBRHk_-5as_30",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What are the monks doing in front of the golden Buddha statue?",
+            "options": [
+                "A. The monks are sitting neatly in several rows.",
+                "B. The monks are standing in a circle.",
+                "C. The monks are walking around the Buddha statue.",
+                "D. The monks are enthusiastically discussing the teachings of Buddha."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_31": {
+            "id": "aWBRHk_-5as_31",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What are the notable features of the golden Buddha statue?",
+            "options": [
+                "A. The golden Buddha statue is grand and magnificent, shimmering, seated on a pedestal, exuding a tranquil and majestic aura.",
+                "B. The golden Buddha statue is very small, standing on a table, appearing humble and unobtrusive.",
+                "C. The golden Buddha statue is intricately carved, surrounded by silver decorations, presenting a warrior-like posture.",
+                "D. The golden Buddha statue is semi-transparent, hanging from the ceiling, symbolizing flight."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_32": {
+            "id": "aWBRHk_-5as_32",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "In the initial scene, besides the monk in brown-yellow clothing sitting, who else is clearly described?",
+            "options": [
+                "A. A man in a white robe, a woman, and a figure in white clothing.",
+                "B. A man in a black robe, a woman, and a figure in dark clothing.",
+                "C. A man in a white robe, a woman, and a monk holding a scroll.",
+                "D. A man in a white robe, a woman, and a figure in dark clothing."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_33": {
+            "id": "aWBRHk_-5as_33",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Is the golden Buddha statue placed on the ground?",
+            "options": [
+                "A. Yes, the golden Buddha statue is on the ground.",
+                "B. No, the golden Buddha statue is elevated on a pedestal.",
+                "C. Yes, the golden Buddha statue is directly surrounded by monks on the ground.",
+                "D. No, the golden Buddha statue is hanging from the ceiling."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_34": {
+            "id": "aWBRHk_-5as_34",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the woman holding the smartphone doing?",
+            "options": [
+                "A. She is raising the phone to take a photo.",
+                "B. She is using the phone to communicate with someone outside the temple.",
+                "C. She is adjusting the settings on the phone.",
+                "D. She is looking at a message on the phone."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_35": {
+            "id": "aWBRHk_-5as_35",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "What is the man in the white robe facing?",
+            "options": [
+                "A. Golden Buddha statue",
+                "B. Monk in bright orange robe",
+                "C. Ceiling with intricate patterns",
+                "D. Chandelier overhead"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_36": {
+            "id": "aWBRHk_-5as_36",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "How is the magnificent layered golden structure positioned relative to the central Buddha statue?",
+            "options": [
+                "A. On both sides.",
+                "B. In front.",
+                "C. Behind.",
+                "D. Around."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_37": {
+            "id": "aWBRHk_-5as_37",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the temple hall like?",
+            "options": [
+                "A. Elegant and harmonious.",
+                "B. Chaotic and crowded.",
+                "C. Simple and minimalist.",
+                "D. Dark and mysterious."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_38": {
+            "id": "aWBRHk_-5as_38",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the woman on the right side of the screen doing?",
+            "options": [
+                "A. She is holding a smartphone, possibly taking photos of the Buddha statue.",
+                "B. She is lighting a candle as part of a ritual.",
+                "C. She is rearranging the decorative tower next to the Buddha statue.",
+                "D. She is sitting in a meditative posture, facing the Buddha statue."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_39": {
+            "id": "aWBRHk_-5as_39",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is the posture of the central golden Buddha statue?",
+            "options": [
+                "A. Sitting cross-legged, with one hand hanging down on the leg and the other hand resting flat on the knee.",
+                "B. The central golden Buddha statue is standing, with both arms raised above the head.",
+                "C. The central golden Buddha statue is lying on its side, with one hand supporting the head.",
+                "D. The central golden Buddha statue is sitting cross-legged, with hands clasped in prayer."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_40": {
+            "id": "aWBRHk_-5as_40",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "Where is the central golden Buddha statue placed?",
+            "options": [
+                "A. The statue is placed on an elevated pedestal.",
+                "B. The statue is placed on the floor of the temple.",
+                "C. The statue is placed in a side chamber of the temple.",
+                "D. The statue is placed under a canopy outside the temple."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_41": {
+            "id": "aWBRHk_-5as_41",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "In a tighter frame, which rows of people are no longer visible?",
+            "options": [
+                "A. The row of seated monks",
+                "B. The row of standing monks",
+                "C. The row of standing devotees",
+                "D. The row of chanting devotees"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_42": {
+            "id": "aWBRHk_-5as_42",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "In a tighter shot frame, who is still visible?",
+            "options": [
+                "A. Man with short hair wearing white clothes",
+                "B. Woman holding a smartphone",
+                "C. Monk wearing an orange robe",
+                "D. Monk wearing a white robe"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_43": {
+            "id": "aWBRHk_-5as_43",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "How does a tighter camera frame affect the visible elements in a scene?",
+            "options": [
+                "A. Eliminates all elements except the Buddha statue.",
+                "B. Makes the surrounding elements more prominent.",
+                "C. Reduces the surrounding elements, highlighting the Buddha statue more.",
+                "D. Removes all lighting elements in the scene."
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_44": {
+            "id": "aWBRHk_-5as_44",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Relative to this person, what objects or elements are on the right side of the outdoor scene?",
+            "options": [
+                "A. Tree branches, flower pots, and trees in the flower bed.",
+                "B. Trash can, pillar, and flower bed.",
+                "C. Tree branches, windows, and chandelier.",
+                "D. Flower pots, stones, and temple walls, windows."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_45": {
+            "id": "aWBRHk_-5as_45",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "How is the appearance of the temple architecture described?",
+            "options": [
+                "A. White walls with windows framed in blue.",
+                "B. White walls with windows framed in red.",
+                "C. Built of stone with windows framed in green.",
+                "D. White walls with windows framed in black."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_46": {
+            "id": "aWBRHk_-5as_46",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is this man wearing after he walks out of the temple?",
+            "options": [
+                "A. A mustard-yellow and white patterned shirt with a deep neckline",
+                "B. A plain white robe",
+                "C. A red and gold traditional outfit",
+                "D. A blue and white striped shirt"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_47": {
+            "id": "aWBRHk_-5as_47",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What did the person look like after he walked out of the temple?",
+            "options": [
+                "A. He appeared in a side profile as he walked out of the temple.",
+                "B. He sat on a bench near the flower bed.",
+                "C. He knelt in front of the golden Buddha statue.",
+                "D. He stood next to a blue trash can."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_48": {
+            "id": "aWBRHk_-5as_48",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the golden Buddha statue?",
+            "options": [
+                "A. The golden Buddha statue is very small and in a standing posture.",
+                "B. The golden Buddha statue is very large and in a meditative posture.",
+                "C. The golden Buddha statue is medium-sized, surrounded by candles.",
+                "D. The golden Buddha statue is in a reclining posture with arms extended."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_49": {
+            "id": "aWBRHk_-5as_49",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the main light source in the interior scene of the temple?",
+            "options": [
+                "A. Light from chandeliers and symmetrical golden layered structures.",
+                "B. Natural sunlight streaming through the temple's windows and ceiling.",
+                "C. Bright spotlights focused solely on the Buddha statue.",
+                "D. LED lights and floor lamps placed around the interior of the temple."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_50": {
+            "id": "aWBRHk_-5as_50",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Did the man make a gesture to the camera after walking out the door?",
+            "options": [
+                "A. Yes, he gave a thumbs up with his left hand.",
+                "B. No, he didn't make any gestures.",
+                "C. Yes, he waved to the camera with both hands.",
+                "D. No, he turned around and walked away without making a gesture."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_51": {
+            "id": "aWBRHk_-5as_51",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What gesture did this person make after leaving the temple?",
+            "options": [
+                "A. The person made a thumbs-up gesture with his right hand.",
+                "B. The person knelt down to inspect the flower bed.",
+                "C. The person waved both hands towards the camera.",
+                "D. The person adjusted his yellow shirt."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_52": {
+            "id": "aWBRHk_-5as_52",
+            "scene": 4,
+            "dimension": "Camera Direction",
+            "question": "Which direction does the camera move to reveal new elements in the outdoor scene?",
+            "options": [
+                "A. The camera moves backward, revealing a trash can and a pillar in the courtyard.",
+                "B. The camera moves upward, revealing the ornate roof of the temple.",
+                "C. The camera moves to the left, focusing on trees and a blue trash can.",
+                "D. The camera zooms in, focusing on a man making a thumbs-up gesture."
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_53": {
+            "id": "aWBRHk_-5as_53",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "In the courtyard scene, how is the circular flower bed framed by the camera?",
+            "options": [
+                "A. It gradually appears from the left side of the frame.",
+                "B. The camera overlooks the circular flower bed.",
+                "C. The circular flower bed is almost invisible, obscured by terracotta potted plants in the foreground.",
+                "D. The camera focuses solely on the red and yellow decorative columns, completely excluding the flower bed."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_54": {
+            "id": "aWBRHk_-5as_54",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What decorative elements stand out when walking outside the temple?",
+            "options": [
+                "A. The exterior has white walls, red window frames, and green landscaping.",
+                "B. The exterior has blue walls, yellow window frames, and a stone path.",
+                "C. The exterior is decorated with black walls, green window frames, and a sandy courtyard.",
+                "D. The exterior features brown walls, orange window frames, and a gravel garden."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_55": {
+            "id": "aWBRHk_-5as_55",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is the person wearing in the outdoor temple environment?",
+            "options": [
+                "A. A mustard yellow and white patterned shirt.",
+                "B. A plain white shirt.",
+                "C. A light blue and white striped shirt.",
+                "D. A black and yellow checkered shirt."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_56": {
+            "id": "aWBRHk_-5as_56",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "In the outdoor temple environment, what action is the man doing?",
+            "options": [
+                "A. He is gesturing in the temple courtyard.",
+                "B. He is sitting quietly at the temple entrance.",
+                "C. He is sweeping the ground in the courtyard.",
+                "D. He is lighting incense in the temple."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_57": {
+            "id": "aWBRHk_-5as_57",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "In an indoor dining scene, what is in the three small bowls of condiments on the rectangular plate?",
+            "options": [
+                "A. Crushed peanuts, chili powder, and white sugar.",
+                "B. Sesame paste, Sichuan pepper powder, and brown sugar.",
+                "C. Coconut flakes, five-spice powder, and rock sugar.",
+                "D. Walnut kernels, cumin powder, and yellow sugar."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_58": {
+            "id": "aWBRHk_-5as_58",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "In an indoor dining setting, what items are on the rectangular plate?",
+            "options": [
+                "A. A plate containing lime and bean sprouts, along with three small bowls of condiments.",
+                "B. Various cheeses, crackers, and a small bowl of olives.",
+                "C. Various fruits, including apple slices, grapes, and a small bowl of yogurt.",
+                "D. Various sushi rolls, wasabi, and pickled ginger."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_59": {
+            "id": "aWBRHk_-5as_59",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "In the indoor dining scene, is there a large leaf decoration on the rectangular plate?",
+            "options": [
+                "A. Yes, there is a large green leaf decoration.",
+                "B. Yes, there is a large slightly yellow leaf decoration.",
+                "C. No, there is no leaf decoration.",
+                "D. No, there are many leaf decorations, but they are not large."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_60": {
+            "id": "aWBRHk_-5as_60",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many mini bowls for condiments can be seen on the rectangular plate?",
+            "options": [
+                "A. Two.",
+                "B. Three.",
+                "C. Four.",
+                "D. One."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_61": {
+            "id": "aWBRHk_-5as_61",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is there a blue trash can in the outdoor scene?",
+            "options": [
+                "A. Yes, there is a blue trash can in the outdoor scene.",
+                "B. No, there is no blue trash can in the outdoor scene.",
+                "C. Yes, the outdoor can is blue, but it is not a trash can.",
+                "D. No, there is a green trash can in the outdoor scene."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_62": {
+            "id": "aWBRHk_-5as_62",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What is being held in the visible position of the hand on the left side of the indoor dining scene?",
+            "options": [
+                "A. A white rectangular plate.",
+                "B. A blue-gray ceramic bowl.",
+                "C. A large Italian pepperoni pizza.",
+                "D. A circular flower bed."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_63": {
+            "id": "aWBRHk_-5as_63",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Which visual element in the outdoor scene enhances the traditional aesthetic of the temple?",
+            "options": [
+                "A. Architectural background, white walls, red-framed windows, and orange-tiled roofs.",
+                "B. A blue trash can placed next to a decorative pillar.",
+                "C. Lush greenery and circular flower beds in the courtyard.",
+                "D. A man wearing a mustard yellow patterned shirt gesturing with his hands."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_64": {
+            "id": "aWBRHk_-5as_64",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle was used in the indoor dining scene?",
+            "options": [
+                "A. Overhead angle was used.",
+                "B. Side angle was used.",
+                "C. Close-up angle was used.",
+                "D. Wide-angle was used."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_65": {
+            "id": "aWBRHk_-5as_65",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What action connects the hand with the dining scene?",
+            "options": [
+                "A. The hand carefully holds a white rectangular plate.",
+                "B. The hand points to a blue-gray ceramic bowl.",
+                "C. The hand places the Italian sausage pizza on the table.",
+                "D. The hand arranges decorative dishes on a banana leaf."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_66": {
+            "id": "aWBRHk_-5as_66",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "How do hands interact with the dining table environment?",
+            "options": [
+                "A. Hands interact with the dining table environment by holding plates.",
+                "B. Hands interact with the dining table environment by arranging table decorations.",
+                "C. Hands interact with the dining table environment by preparing dishes.",
+                "D. Hands interact with the dining table environment by cleaning the table."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_67": {
+            "id": "aWBRHk_-5as_67",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "In the shot written in Shalat, where is the halved boiled egg located in the frame?",
+            "options": [
+                "A. Top right corner.",
+                "B. Bottom left corner.",
+                "C. Center.",
+                "D. Top."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_68": {
+            "id": "aWBRHk_-5as_68",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Is there salad and pizza in the scene?",
+            "options": [
+                "A. Yes, there is salad and pizza in the scene.",
+                "B. No, there is only salad in the scene.",
+                "C. No, there is only pizza in the scene.",
+                "D. No, there is neither salad nor pizza in the scene."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_69": {
+            "id": "aWBRHk_-5as_69",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What elements are in the background of the salad display?",
+            "options": [
+                "A. There are some blurred details in the background, such as white tableware.",
+                "B. The background showcases a rich arrangement, including seafood, steak, and decorations.",
+                "C. The background highlights a wooden countertop with spices and kitchen utensils.",
+                "D. The background is a dark and simple surface with no visible details."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_70": {
+            "id": "aWBRHk_-5as_70",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What kind of bowl holds the salad?",
+            "options": [
+                "A. In a shallow white bowl.",
+                "B. In a deep gray bowl.",
+                "C. In a flat beige plate.",
+                "D. In a blue ceramic bowl."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_71": {
+            "id": "aWBRHk_-5as_71",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "How are the ingredients in the salad bowl arranged?",
+            "options": [
+                "A. The ingredients are randomly mixed together.",
+                "B. The ingredients are carefully arranged.",
+                "C. The ingredients are layered.",
+                "D. The ingredients are divided into different sections."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_72": {
+            "id": "aWBRHk_-5as_72",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What is the main dish displayed at the beginning of the table setting?",
+            "options": [
+                "A. A seafood dish wrapped in a yellow mesh crepe, an Italian sausage pizza.",
+                "B. A seafood dish wrapped in a yellow mesh crepe, a bowl of pasta and salad.",
+                "C. A seafood dish wrapped in a yellow mesh crepe, an Italian sausage pizza and a steak platter.",
+                "D. A seafood dish wrapped in a yellow mesh crepe, an Italian sausage pizza and a dessert platter."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_73": {
+            "id": "aWBRHk_-5as_73",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "Does the close-up background distract from the focus on the salad?",
+            "options": [
+                "A. Yes, the background is filled with distracting elements.",
+                "B. No, the background remains neutral and unobtrusive, enhancing the focus on the salad.",
+                "C. Yes, the background has too many details, competing with the salad for attention.",
+                "D. No, the background is completely blurred, contributing nothing to the scene."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_74": {
+            "id": "aWBRHk_-5as_74",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "In the close-up of the salad, are there any objects that seem to have moved or changed position?",
+            "options": [
+                "A. Yes, one of the sliced eggs rolled slightly.",
+                "B. Yes, the cherry tomato seems to have changed position.",
+                "C. No, the objects in the close-up are stationary.",
+                "D. Yes, the green beans moved slightly."
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_75": {
+            "id": "aWBRHk_-5as_75",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What type of lens was used to present the salad?",
+            "options": [
+                "A. Wide-angle lens.",
+                "B. Close-up lens.",
+                "C. Aerial lens.",
+                "D. Long shot lens."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_76": {
+            "id": "aWBRHk_-5as_76",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the plate of fried rice relative to the position of the clay pot containing green-lipped mussels?",
+            "options": [
+                "A. Left.",
+                "B. In front.",
+                "C. Behind.",
+                "D. Right."
+            ],
+            "answer": "D"
+        },
+        "aWBRHk_-5as_77": {
+            "id": "aWBRHk_-5as_77",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What's in the small square white dish in the center of the seafood pot?",
+            "options": [
+                "A. Fresh green sauce with crushed red chili.",
+                "B. White cream sauce with herbs.",
+                "C. Kaffir lime juice.",
+                "D. Sweet and spicy tomato sauce."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_78": {
+            "id": "aWBRHk_-5as_78",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Are fresh basil leaves included in the mussel casserole?",
+            "options": [
+                "A. Yes, fresh basil leaves are placed in the casserole.",
+                "B. No, there are no fresh basil leaves in the casserole.",
+                "C. No, the basil leaves are placed outside the casserole.",
+                "D. No, only rosemary is placed with the mussels."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_79": {
+            "id": "aWBRHk_-5as_79",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "In the scene, after the colorful salad, where does the focus shift?",
+            "options": [
+                "A. The focus shifts to the pizza.",
+                "B. The focus shifts to the dessert platter.",
+                "C. The focus shifts to the noodle soup.",
+                "D. The focus shifts to a grilled steak."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_80": {
+            "id": "aWBRHk_-5as_80",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "In dining scenes, what type of photography shot is used to emphasize the texture and details of food?",
+            "options": [
+                "A. Overhead shot from above",
+                "B. Eye-level medium shot",
+                "C. Close-up angle, slightly tilted",
+                "D. Wide-angle shot showcasing the entire table"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_81": {
+            "id": "aWBRHk_-5as_81",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where are the white ceramic bowl and the metal spoon?",
+            "options": [
+                "A. On the table.",
+                "B. On the shelf.",
+                "C. Next to the red glass bottle.",
+                "D. On the floor."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_82": {
+            "id": "aWBRHk_-5as_82",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of this video scene?",
+            "options": [
+                "A. The setting is an outdoor picnic.",
+                "B. The setting is a restaurant.",
+                "C. The setting is a café.",
+                "D. The setting is a kitchen."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_83": {
+            "id": "aWBRHk_-5as_83",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What is the person in the middle ground wearing?",
+            "options": [
+                "A. A light-colored shirt with black floral patterns",
+                "B. A dark-colored shirt with stripes",
+                "C. A white shirt with red polka dots",
+                "D. A light blue shirt with a checkered pattern"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_84": {
+            "id": "aWBRHk_-5as_84",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What do green-lipped mussels in the casserole look like?",
+            "options": [
+                "A. Green-lipped mussels are paired with a vibrant sauce and garnished with fresh basil leaves.",
+                "B. Green-lipped mussels are laid flat without any garnish or side dishes.",
+                "C. Green-lipped mussels are served with lemon slices and cilantro.",
+                "D. Green-lipped mussels are cooked together with diced tomatoes and sweet peppers."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_85": {
+            "id": "aWBRHk_-5as_85",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many types of food are prominently displayed in the scene?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_86": {
+            "id": "aWBRHk_-5as_86",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What types of dishes mainly appear in the scene?",
+            "options": [
+                "A. Mussels and a plate of fried rice.",
+                "B. A plate of pasta and a bowl of soup.",
+                "C. A plate of sushi and a garden salad.",
+                "D. A plate of roast chicken and a bowl of mashed potatoes."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_87": {
+            "id": "aWBRHk_-5as_87",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Can a green glass bottle be seen in the scene?",
+            "options": [
+                "A. Yes, a green glass bottle can be seen in the scene.",
+                "B. No, there is no green glass bottle in the scene.",
+                "C. Yes, but the bottle is not green.",
+                "D. No, the scene does not mention a glass bottle."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_88": {
+            "id": "aWBRHk_-5as_88",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "How to handle mussels in the scene?",
+            "options": [
+                "A. The mussels are placed on a white plate.",
+                "B. A hand holds a mussel and presents it in front of the camera.",
+                "C. The mussels are served with fried rice on a bright yellow table.",
+                "D. The mussels are placed in a ceramic bowl and accompanied by a rich sauce."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_89": {
+            "id": "aWBRHk_-5as_89",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "How is the mussel placed on the spoon?",
+            "options": [
+                "A. The mussel is not placed on the spoon; it is held by a hand.",
+                "B. The mussel is placed in a clay pot.",
+                "C. The mussel lies on a plate of fried rice.",
+                "D. The mussel is placed in a white ceramic bowl."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_90": {
+            "id": "aWBRHk_-5as_90",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "What lens should be used to emphasize mussels?",
+            "options": [
+                "A. Wide-angle lens.",
+                "B. Close-up lens.",
+                "C. Aerial lens.",
+                "D. Long shot lens."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_91": {
+            "id": "aWBRHk_-5as_91",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "From the video footage, where is this person relative to the position of the ornate golden censer?",
+            "options": [
+                "A. Above.",
+                "B. Below.",
+                "C. Right.",
+                "D. Left."
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_92": {
+            "id": "aWBRHk_-5as_92",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What scene does the video transition from?",
+            "options": [
+                "A. Transition from an indoor dining scene.",
+                "B. Transition from a market scene.",
+                "C. Transition from a beach scene.",
+                "D. Transition from a street."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_93": {
+            "id": "aWBRHk_-5as_93",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What kind of outdoor environment does the video transition to?",
+            "options": [
+                "A. Outdoor temple courtyard.",
+                "B. City outdoor market.",
+                "C. Tranquil lakeside scenery.",
+                "D. Quiet forest clearing."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_94": {
+            "id": "aWBRHk_-5as_94",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "What actions did this person take with the incense sticks?",
+            "options": [
+                "A. The person is holding several incense sticks vertically with both hands, seemingly engaged in some spiritual or ritualistic activity.",
+                "B. The person is sprinkling incense ash into the incense burner.",
+                "C. The person is using the incense sticks to light the lamps around the temple.",
+                "D. The person is breaking the incense sticks into small pieces for distribution."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_95": {
+            "id": "aWBRHk_-5as_95",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What is the decoration on the magnificent golden incense burner?",
+            "options": [
+                "A. Lion",
+                "B. Dragon",
+                "C. Phoenix",
+                "D. Lotus"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_96": {
+            "id": "aWBRHk_-5as_96",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What is the design of the base of this magnificent golden incense burner?",
+            "options": [
+                "A. The top of the base is metal, and the bottom is not visible.",
+                "B. The base is smooth white with no decoration.",
+                "C. The base is adorned with blue and silver patterns.",
+                "D. The base has simple black and white stripes."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_97": {
+            "id": "aWBRHk_-5as_97",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the incense the man is holding?",
+            "options": [
+                "A. It emits a faint smoke.",
+                "B. It emits a subtle fragrance without visible smoke.",
+                "C. It emits bright sparks from the burning incense.",
+                "D. It emits a bright flame."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_98": {
+            "id": "aWBRHk_-5as_98",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "During the ceremony, how many incense sticks is the man holding?",
+            "options": [
+                "A. Holding one incense stick in each hand",
+                "B. Holding a total of two incense sticks",
+                "C. Holding at least six incense sticks in both hands",
+                "D. No incense sticks, just empty-handed"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_99": {
+            "id": "aWBRHk_-5as_99",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Is this man wearing the same outfit in both indoor and outdoor scenes?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only in ceremonial scenes",
+                "D. Only in dining scenes"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_100": {
+            "id": "aWBRHk_-5as_100",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "In the outdoor scene, what is the man wearing?",
+            "options": [
+                "A. A shirt with black and white patterns.",
+                "B. A red and gold dress.",
+                "C. A plain white shirt.",
+                "D. Blue and gray striped clothing."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_101": {
+            "id": "aWBRHk_-5as_101",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What indicates that a ceremony is taking place in the temple courtyard?",
+            "options": [
+                "A. The person holding a reflective stainless steel spoon and a mussel shell.",
+                "B. The faint traces of smoke from incense sticks in the incense burner indicate that a ceremony is taking place.",
+                "C. The motorcycle parked near the courtyard during the ceremony.",
+                "D. The decorative red lanterns hanging near the temple entrance."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_102": {
+            "id": "aWBRHk_-5as_102",
+            "scene": 7,
+            "dimension": "Object Direction",
+            "question": "Which direction does the smoke flow from the cigarette stick?",
+            "options": [
+                "A. Flows slightly upwards.",
+                "B. Flows downwards.",
+                "C. Flows sideways.",
+                "D. The smoke flows in a circular pattern from the cigarette stick."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_103": {
+            "id": "aWBRHk_-5as_103",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Is there a motorcycle in the scene?",
+            "options": [
+                "A. There are multiple motorcycles.",
+                "B. There is one motorcycle.",
+                "C. There is one motorcycle, but it is very worn out.",
+                "D. There is no motorcycle."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_104": {
+            "id": "aWBRHk_-5as_104",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "From the image, where is the black motorcycle in relation to the man's position?",
+            "options": [
+                "A. Slightly to the left of the man's waist.",
+                "B. Directly in front of the man.",
+                "C. On the man's right side.",
+                "D. Behind the temple entrance pillar."
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_105": {
+            "id": "aWBRHk_-5as_105",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What words can be understood on the gate on the left side of the screen?",
+            "options": [
+                "A. Compassion for the people to eliminate disasters and add blessings and longevity",
+                "B. Benevolence to help the world remove misfortunes and increase health and peace",
+                "C. Kindness to bless the people, relieve difficulties, and grant good fortune",
+                "D. Great vow to protect life, dispel difficulties, and bring auspiciousness"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_106": {
+            "id": "aWBRHk_-5as_106",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What kind of environment is depicted in the video?",
+            "options": [
+                "A. A busy market filled with vendors and customers.",
+                "B. A temple courtyard with a rich cultural atmosphere, peaceful ambiance.",
+                "C. Modern city streets, busy traffic, and towering skyscrapers.",
+                "D. A quiet forest with a cabin nestled among the trees."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_107": {
+            "id": "aWBRHk_-5as_107",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What elements are integrated into the depiction of the environment in the video?",
+            "options": [
+                "A. The incense ceremony and temples are combined with modern elements such as motorcycles.",
+                "B. The video focuses solely on the incense ceremony and the intricate details of the temples.",
+                "C. The video emphasizes modern elements like motorcycles.",
+                "D. The video purely depicts the historical details of temple architecture."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_108": {
+            "id": "aWBRHk_-5as_108",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What are the behavioral characteristics of the main figures performing the ceremony?",
+            "options": [
+                "A. This person is focused and devoutly holding incense high.",
+                "B. This person is adjusting the incense burner while glancing at the dragon sculpture.",
+                "C. This person is calmly placing boxed items on the metal table.",
+                "D. This person is lighting bundles of incense near the golden incense burner."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_109": {
+            "id": "aWBRHk_-5as_109",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What does the main character of the ceremony look like?",
+            "options": [
+                "A. A short-sleeved shirt with black and white patterns, wearing a watch on the left hand.",
+                "B. A red robe with gold embroidery, not wearing a watch.",
+                "C. A white long-sleeved shirt, wearing a bracelet on the right hand.",
+                "D. Blue traditional clothing, tied with a complex belt, not wearing any accessories."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_110": {
+            "id": "aWBRHk_-5as_110",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What does the exquisite brass incense burner produce?",
+            "options": [
+                "A. It produces wisps of smoke.",
+                "B. It produces glowing embers.",
+                "C. It produces small flames.",
+                "D. It produces clouds of ash."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_111": {
+            "id": "aWBRHk_-5as_111",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many important dragon sculptures or decorations are described in the scene?",
+            "options": [
+                "A. One",
+                "B. Six",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_112": {
+            "id": "aWBRHk_-5as_112",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What important dragon sculptures or decorations are described in the scene?",
+            "options": [
+                "A. On the right, there is a colorful dragon sculpture and a coiled dragon pattern on the red column.",
+                "B. A dragon sculpture is placed on a golden incense burner near the incense.",
+                "C. A dragon carving is engraved on the black motorcycle near the temple entrance.",
+                "D. A dragon sculpture is located on the stone-paved path leading out to the courtyard."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_113": {
+            "id": "aWBRHk_-5as_113",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Does the temple courtyard contain any modern elements?",
+            "options": [
+                "A. Yes, there is a black motorcycle.",
+                "B. No, there are no modern elements.",
+                "C. Yes, a car parked nearby.",
+                "D. No, modern elements are not allowed in the temple courtyard."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_114": {
+            "id": "aWBRHk_-5as_114",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "What physical adjustments did the man make during his ritual actions?",
+            "options": [
+                "A. The man held the incense stick high without adjusting his body.",
+                "B. The man bowed deeply while placing the incense stick into the incense burner.",
+                "C. The man knelt down and rearranged the incense pouch on the metal table.",
+                "D. The man took a step back and adjusted the bronze incense burner."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_115": {
+            "id": "aWBRHk_-5as_115",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "What new element is introduced in this scene?",
+            "options": [
+                "A. A golden fountain is introduced.",
+                "B. A lavishly decorated house is introduced.",
+                "C. A silver censer is introduced.",
+                "D. A red carpet is introduced."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_116": {
+            "id": "aWBRHk_-5as_116",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "What is the man's position relative to the large glowing structure in the park?",
+            "options": [
+                "A. The man is sitting on the lawn in the park, with the large glowing structure with a spire in the background.",
+                "B. The man is standing next to the large glowing structure with a spire.",
+                "C. The man is walking towards the large glowing structure with a spire.",
+                "D. The man is lying in front of the large glowing structure with a spire."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_117": {
+            "id": "aWBRHk_-5as_117",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What kind of environment is depicted in the video?",
+            "options": [
+                "A. A tranquil green park.",
+                "B. A busy city street during the day.",
+                "C. A peaceful beach in the early morning.",
+                "D. A dense forest in the early morning."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_118": {
+            "id": "aWBRHk_-5as_118",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "What is the man on the grass wearing?",
+            "options": [
+                "A. A yellow and white striped shirt, wearing a watch.",
+                "B. A white T-shirt and blue jeans.",
+                "C. A red sweater and black pants, wearing a bracelet.",
+                "D. A green Polo shirt and beige shorts, wearing a gold chain."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_119": {
+            "id": "aWBRHk_-5as_119",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "What is the man on the grass doing?",
+            "options": [
+                "A. Sitting and reading a book.",
+                "B. Sitting and painting on a canvas.",
+                "C. Sitting and holding a green bottle, drinking something.",
+                "D. Sitting and playing a musical instrument."
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_120": {
+            "id": "aWBRHk_-5as_120",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "What type of shirt is that man wearing?",
+            "options": [
+                "A. A collared button-up shirt.",
+                "B. A plain white T-shirt.",
+                "C. A striped tank top.",
+                "D. A hoodie with a zigzag pattern."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_121": {
+            "id": "aWBRHk_-5as_121",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What is the pattern on this shirt like?",
+            "options": [
+                "A. Alternating yellow and white vertical stripes.",
+                "B. Pure white, with no pattern.",
+                "C. Blue and green horizontal stripes.",
+                "D. Covered with floral patterns."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_122": {
+            "id": "aWBRHk_-5as_122",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "Is the style of this man's shirt formal or informal?",
+            "options": [
+                "A. Formal, with buttons fastened all the way to the top.",
+                "B. Formal, with a bold pattern design.",
+                "C. Informal, with the collar button undone.",
+                "D. Casual, short-sleeved and without a pattern."
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_123": {
+            "id": "aWBRHk_-5as_123",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many people are at the center focus of the park scene?",
+            "options": [
+                "A. One person",
+                "B. Two people",
+                "C. Three people",
+                "D. Four people"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_124": {
+            "id": "aWBRHk_-5as_124",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "What is the man doing?",
+            "options": [
+                "A. The man is drinking from a green bottle with his right hand",
+                "B. The man is adjusting his silver watch",
+                "C. The man is buttoning up his collared shirt",
+                "D. The man is checking his phone"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_125": {
+            "id": "aWBRHk_-5as_125",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "Which direction is this person facing relative to the camera?",
+            "options": [
+                "A. This person is facing the camera.",
+                "B. This person is facing away from the camera.",
+                "C. This person is facing the left side of the camera.",
+                "D. This person is facing the right side of the camera."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_126": {
+            "id": "aWBRHk_-5as_126",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used in the park to capture a person's upper body and the surrounding environment?",
+            "options": [
+                "A. Medium close-up angle",
+                "B. Bird's-eye view shot",
+                "C. Long shot",
+                "D. Close-up shot"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_127": {
+            "id": "aWBRHk_-5as_127",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "From dusk to twilight, what visual elements indicate the transition of time?",
+            "options": [
+                "A. The sky darkens and distant lights are turned on.",
+                "B. Golden glow on the grass and dense fog.",
+                "C. Shadows cast by the setting sun and the red hues in the sky.",
+                "D. Flickering fireflies and the sound of crickets echoing in the park."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_128": {
+            "id": "aWBRHk_-5as_128",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "Where is the man located in the video?",
+            "options": [
+                "A. Left side.",
+                "B. Middle.",
+                "C. Right side.",
+                "D. The man is not visible."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_129": {
+            "id": "aWBRHk_-5as_129",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What is the environment depicted in the video?",
+            "options": [
+                "A. A quiet outdoor park under the evening sky.",
+                "B. A dimly lit countryside cottage.",
+                "C. A brightly lit modern indoor setting.",
+                "D. A bustling city street crowded with people."
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_130": {
+            "id": "aWBRHk_-5as_130",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "In the indoor scene, how does the woman on the right look?",
+            "options": [
+                "A. White shirt and black pants, staying focused in the center.",
+                "B. Cream floral shirt with a bow at the neckline, with light-colored hair.",
+                "C. Bright yellow shirt, sitting on a black office chair.",
+                "D. Mustard yellow and white striped shirt, standing sideways."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_131": {
+            "id": "aWBRHk_-5as_131",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "In an indoor setting, how does a brown-haired woman dressed in formal attire look?",
+            "options": [
+                "A. White shirt and black pants, staying focused in the center.",
+                "B. Cream floral shirt with a bow at the neckline, appearing on the left side.",
+                "C. Bright yellow shirt, sitting on a black office chair.",
+                "D. Mustard yellow and white striped shirt, standing sideways."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_132": {
+            "id": "aWBRHk_-5as_132",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What objects are included in the right part of the indoor scene?",
+            "options": [
+                "A. A tripod, a chair, a table, and two boxes on it",
+                "B. A lamp and a table with books on it",
+                "C. A tripod and a shelf with green and red boxes",
+                "D. A chair and a table with white and yellow boxes"
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_133": {
+            "id": "aWBRHk_-5as_133",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "Where is the man in the bright tropical shirt standing?",
+            "options": [
+                "A. Standing to the right of the blonde woman in the center.",
+                "B. Standing at the far right of the group.",
+                "C. Standing at the far left of the group.",
+                "D. Completely out of the picture."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_134": {
+            "id": "aWBRHk_-5as_134",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "What is the video's environment?",
+            "options": [
+                "A. A bright and minimalist professional studio setup.",
+                "B. A dimly lit classroom.",
+                "C. A cozy living room.",
+                "D. A busy marketplace."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_135": {
+            "id": "aWBRHk_-5as_135",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "How does the blonde woman express herself in terms of clothing?",
+            "options": [
+                "A. She wore a flowing floral dress adorned with flowers and a bow at the neckline.",
+                "B. She wore a shirt and deep black jeans.",
+                "C. She wore a black jacket with white piping, paired with black trousers.",
+                "D. She wore a tropical-style shirt with leaf patterns, paired with light blue trousers."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_136": {
+            "id": "aWBRHk_-5as_136",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "How many people are part of the standing group now?",
+            "options": [
+                "A. Two people",
+                "B. Three people",
+                "C. Four people",
+                "D. Five people"
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_137": {
+            "id": "aWBRHk_-5as_137",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "Is there an elderly person sitting in the scene in the video?",
+            "options": [
+                "A. Yes, the elderly person is still sitting in the scene.",
+                "B. Yes, the elderly person is standing with the group.",
+                "C. No, there is no elderly person in the scene.",
+                "D. No, but the elderly person can be seen in the background."
+            ],
+            "answer": "C"
+        },
+        "aWBRHk_-5as_138": {
+            "id": "aWBRHk_-5as_138",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "What adjustment did the lady in the beige button-up shirt make to her pose?",
+            "options": [
+                "A. She moved to the center, standing next to the photography equipment.",
+                "B. She positioned herself on the far right, next to the man in the tropical-style shirt.",
+                "C. She moved to the far left, with the newcomer in the black jacket.",
+                "D. She remained in the center, making no adjustments."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_139": {
+            "id": "aWBRHk_-5as_139",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "What type of lens does the team use for filming?",
+            "options": [
+                "A. High-angle lens.",
+                "B. Eye-level lens.",
+                "C. Close-up lens.",
+                "D. Low-angle lens."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_140": {
+            "id": "aWBRHk_-5as_140",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "What is the text visible on the upper part of the black lighting equipment in the studio?",
+            "options": [
+                "A. UX",
+                "B. N",
+                "C. UL",
+                "D. UP"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_141": {
+            "id": "aWBRHk_-5as_141",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "At the beginning of the scene, where is the man in the light-colored striped shirt positioned relative to the man in the white shirt?",
+            "options": [
+                "A. Bottom left.",
+                "B. In front.",
+                "C. Above.",
+                "D. Right."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_142": {
+            "id": "aWBRHk_-5as_142",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "What is the overall setting of this scene?",
+            "options": [
+                "A. A lively evening social gathering.",
+                "B. A quiet indoor studio.",
+                "C. A solemn formal gathering.",
+                "D. An intimate dinner setting."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_143": {
+            "id": "aWBRHk_-5as_143",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "What was the man who became the center of attention wearing?",
+            "options": [
+                "A. A white shirt with rolled-up sleeves and sunglasses casually hanging on his chest.",
+                "B. A light-colored striped shirt with a watch on his wrist.",
+                "C. A dark suit with a red tie and a pocket square.",
+                "D. A black T-shirt with a hat on his head."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_144": {
+            "id": "aWBRHk_-5as_144",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "In the latter part of the scene, what is the posture of the man who becomes the focus?",
+            "options": [
+                "A. He is standing with his arms raised enthusiastically, as if dancing or celebrating.",
+                "B. He is sitting with one hand on his chin, looking thoughtful and reserved.",
+                "C. He is leaning against the wall with his hands in his pockets, observing the party.",
+                "D. He is sitting at the table, clinking glasses with those nearby."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_145": {
+            "id": "aWBRHk_-5as_145",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "At the beginning of the scene, what items are on the small table on the right?",
+            "options": [
+                "A. The small table has drinks and glassware, including a cocktail glass with an orange-yellow drink.",
+                "B. The small table is empty, with no items on it.",
+                "C. The small table has plates with food and utensils on it.",
+                "D. The small table has decorative candles and plants on it."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_146": {
+            "id": "aWBRHk_-5as_146",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "Is this scene during the daytime?",
+            "options": [
+                "A. Yes, the scene is during the daytime.",
+                "B. No, the scene is in the afternoon.",
+                "C. No, the scene is in the morning.",
+                "D. No, the scene is at night."
+            ],
+            "answer": "D"
+        },
+        "aWBRHk_-5as_147": {
+            "id": "aWBRHk_-5as_147",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "What is the position of the high-rise buildings in relation to the celebration space?",
+            "options": [
+                "A. Located far away, forming the background.",
+                "B. Adjacent to the celebration space, above the party participants.",
+                "C. Located behind the thatched roof.",
+                "D. Situated in the foreground, dominating the entire scene."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_148": {
+            "id": "aWBRHk_-5as_148",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "In the later stage of the scene, where is the DJ equipment located relative to the central male figure?",
+            "options": [
+                "A. Upper left corner.",
+                "B. Behind.",
+                "C. Right side.",
+                "D. In front."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_149": {
+            "id": "aWBRHk_-5as_149",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "At the indoor gathering, how does the central male figure perform on the platform?",
+            "options": [
+                "A. Quietly sits on the platform, observing the crowd.",
+                "B. Stands on the platform, raises his hand, cheers enthusiastically, showing active participation.",
+                "C. Dances with another participant on the platform.",
+                "D. Delivers a speech to the crowd from the platform."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_150": {
+            "id": "aWBRHk_-5as_150",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the opening scene in the video?",
+            "options": [
+                "A. A bright and lively social gathering.",
+                "B. A quiet and contemplative dinner party.",
+                "C. A formal business meeting in a minimalist office setting.",
+                "D. An outdoor picnic during the day."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_151": {
+            "id": "aWBRHk_-5as_151",
+            "scene": 12,
+            "dimension": "Visual-cue",
+            "question": "In a formal setting, what does the text 'Ken Chan' look like?",
+            "options": [
+                "A. Brown and teal design, with a simple background.",
+                "B. Bright pink and purple design, with a neon style background.",
+                "C. Black and gray design, with a formal background.",
+                "D. Gold and white design, with a luxurious background."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_152": {
+            "id": "aWBRHk_-5as_152",
+            "scene": 12,
+            "dimension": "Fine Grained Action",
+            "question": "In the new scene, what action did the person in formal attire take?",
+            "options": [
+                "A. The person swayed slightly.",
+                "B. The person raised their hand.",
+                "C. The person sat down.",
+                "D. The person walked to the left."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_153": {
+            "id": "aWBRHk_-5as_153",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "After the scene of a man in a white shirt sitting in the car, what is the next scene?",
+            "options": [
+                "A. The man walking between temple buildings.",
+                "B. A bustling market.",
+                "C. A library.",
+                "D. A beach."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_154": {
+            "id": "aWBRHk_-5as_154",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What scene follows the display of colorful food in an indoor dining setup?",
+            "options": [
+                "A. Holding incense sticks in a temple courtyard, performing a ritual in front of an exquisite golden incense burner.",
+                "B. A bustling outdoor market, vendors displaying colorful fruits and spices.",
+                "C. A tranquil park, a group of people practicing Tai Chi under a large tree.",
+                "D. A small art gallery, visitors admiring abstract paintings under dim lighting."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_155": {
+            "id": "aWBRHk_-5as_155",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What happens after the vibrant club party scene?",
+            "options": [
+                "A. The camera switches to a low-key and formal composite promotional image.",
+                "B. The scene shifts to a bustling marketplace.",
+                "C. The party scene continues with even more enthusiastic dancing.",
+                "D. The vibrant scene transitions into a dark and mysterious alley."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_156": {
+            "id": "aWBRHk_-5as_156",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What is that person doing with incense in the temple courtyard?",
+            "options": [
+                "A. Lighting incense on the altar.",
+                "B. Engaging in a spiritual or ritual activity, holding incense reverently.",
+                "C. Using incense to repel insects.",
+                "D. Arranging incense for an art installation."
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_157": {
+            "id": "aWBRHk_-5as_157",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What elements signify the transition from an outdoor temple to an evening park scene?",
+            "options": [
+                "A. A man leisurely sitting on the lawn signifies the transition.",
+                "B. A group of people in a bustling urban environment signifies the transition.",
+                "C. A tranquil temple courtyard signifies the transition.",
+                "D. A forest area shrouded in mist signifies the transition."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_158": {
+            "id": "aWBRHk_-5as_158",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the first scene of the evening social gathering?",
+            "options": [
+                "A. There is a semi-outdoor celebration with drinks and a view of the city.",
+                "B. A quiet meeting in a dimly lit room.",
+                "C. A heated debate in a brightly lit conference room.",
+                "D. A formal dinner with white tablecloths and waitstaff."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_159": {
+            "id": "aWBRHk_-5as_159",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the second scene of the evening social gathering?",
+            "options": [
+                "A. A vibrant indoor party with neon purple lighting.",
+                "B. A quiet dinner accompanied by soft candlelight.",
+                "C. A beach bonfire party with acoustic music.",
+                "D. A formal evening party accompanied by classical music."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_160": {
+            "id": "aWBRHk_-5as_160",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is shown after the overview of the sacred indoor temple hall?",
+            "options": [
+                "A. Close-up of a golden Buddha statue.",
+                "B. Luxurious dining area.",
+                "C. Tranquil sea view.",
+                "D. Street market."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_161": {
+            "id": "aWBRHk_-5as_161",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What follows the display of the golden Buddha statue?",
+            "options": [
+                "A. Fireworks display over the city",
+                "B. Next, the outdoor environment is shown, including a flower bed and a tree.",
+                "C. Music performance at the nightclub",
+                "D. Montage of people dancing"
+            ],
+            "answer": "B"
+        },
+        "aWBRHk_-5as_162": {
+            "id": "aWBRHk_-5as_162",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What appeared after the dining scene?",
+            "options": [
+                "A. A temple ceremony was shown.",
+                "B. A bustling street market scene was presented.",
+                "C. Family members were shown talking at home.",
+                "D. An outdoor wedding ceremony was depicted."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_163": {
+            "id": "aWBRHk_-5as_163",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is the first action of the person in the temple courtyard?",
+            "options": [
+                "A. The person stands upright holding incense.",
+                "B. The person kneels down to pray.",
+                "C. The person lights a candle.",
+                "D. The person rings the bell."
+            ],
+            "answer": "A"
+        },
+        "aWBRHk_-5as_164": {
+            "id": "aWBRHk_-5as_164",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What is this person doing near the incense burner?",
+            "options": [
+                "A. He is performing a ritual near the incense burner.",
+                "B. He is lighting candles near the incense burner.",
+                "C. He is carefully cleaning the incense burner.",
+                "D. He is adjusting the position of the incense burner."
+            ],
+            "answer": "A"
+        }
+    }
+}

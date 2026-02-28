@@ -1,0 +1,925 @@
+{
+    "scene_hint": {
+        "0": "Under a minimalist screen, an animation is shown.",
+        "1": "Showcase of Lava Giant's Passive skill.",
+        "2": "Showcase of Lava Giant's Q skill.",
+        "3": "Showcase of Lava Giant's W and W+Q skill.",
+        "4": "Showcase of Lava Giant's E skill.",
+        "5": "Showcase of Lava Giant's W+E skill.",
+        "6": "Showcase of Lava Giant's R skill.",
+        "7": "Showcase of Lava Giant's W+R skill.",
+        "8": "A vibrant animated character makes an appearance."
+    },
+    "qa": {
+        "4V6G0qYVoBg_0": {
+            "id": "4V6G0qYVoBg_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the visual environmental background of the scene in the video?",
+            "options": [
+                "A. The scene has an abstract, colorful background.",
+                "B. The scene has a clean white background.",
+                "C. The scene has a dark, stormy background.",
+                "D. The scene presents a lush, green forest."
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_1": {
+            "id": "4V6G0qYVoBg_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the arrangement or focus of the scene in the video?",
+            "options": [
+                "A. The environment is chaotic and disordered.",
+                "B. The environment is symmetrical and balanced.",
+                "C. The environment focuses only on the characters.",
+                "D. The environment is mainly dark."
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_2": {
+            "id": "4V6G0qYVoBg_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What are the characteristics of the character's attire?",
+            "options": [
+                "A. Wearing black, sci-fi style armor.",
+                "B. Wearing bright, medieval style armor.",
+                "C. Wearing green, nature-themed armor.",
+                "D. Wearing casual, modern style clothing."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_3": {
+            "id": "4V6G0qYVoBg_3",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What weapon is the character holding?",
+            "options": [
+                "A. Holding a sword emitting a greenish-blue glow.",
+                "B. Holding a sword emitting a red glow.",
+                "C. Holding a bow with lightning effects.",
+                "D. Not carrying any weapon."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_4": {
+            "id": "4V6G0qYVoBg_4",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the character's posture before the thrust?",
+            "options": [
+                "A. The character is in a calm but alert standing position.",
+                "B. The character is crouched low, ready to leap forward, with the sword raised above the head.",
+                "C. The character is standing, holding the sword horizontally in a defensive posture.",
+                "D. The character is kneeling on one knee, with the sword firmly planted in the ground beside them."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_5": {
+            "id": "4V6G0qYVoBg_5",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the font style of the text 'EKKOLOGICAL'?",
+            "options": [
+                "A. The text 'EKKOLOGICAL' uses a casual, handwritten style font.",
+                "B. The text 'EKKOLOGICAL' uses a bold, block style font.",
+                "C. The text 'EKKOLOGICAL' uses a cursive, calligraphy style font.",
+                "D. The text 'EKKOLOGICAL' uses a futuristic, digital style font."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_6": {
+            "id": "4V6G0qYVoBg_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the color of the text \"EKKOLOGICAL\"?",
+            "options": [
+                "A. The text \"EKKOLOGICAL\" is reddish-brown.",
+                "B. The text \"EKKOLOGICAL\" is gray-green.",
+                "C. The text \"EKKOLOGICAL\" is bright yellow.",
+                "D. The text \"EKKOLOGICAL\" is pure black."
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_7": {
+            "id": "4V6G0qYVoBg_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the visual effect applied to the text 'EKKOLOGICAL'?",
+            "options": [
+                "A. There is a shadow effect underneath the text.",
+                "B. There is a subtle reflection effect underneath the text.",
+                "C. The text has a glowing outline effect.",
+                "D. The text has no additional effects or reflections."
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_8": {
+            "id": "4V6G0qYVoBg_8",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many characters are in the scene?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_9": {
+            "id": "4V6G0qYVoBg_9",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "In the scene, does the quirky character on the right side of the frame remain still?",
+            "options": [
+                "A. Yes, the quirky character on the right side of the frame remains still in the scene.",
+                "B. No, the quirky character on the right side of the frame moves around frequently in the scene.",
+                "C. No, the quirky character moved slightly in the scene.",
+                "D. No, the quirky character on the right side of the frame sat down directly on the spot."
+            ],
+            "answer": "C"
+        },
+        "4V6G0qYVoBg_10": {
+            "id": "4V6G0qYVoBg_10",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What action does this character perform with his sword while moving forward?",
+            "options": [
+                "A. Swing his sword in battle.",
+                "B. Slash the dummy on the right with his sword.",
+                "C. Point his sword at the strange character.",
+                "D. Raise his sword above his head."
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_11": {
+            "id": "4V6G0qYVoBg_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Is there any noticeable distortion in the mirror reflection of the text 'EKKOLOGICAL'?",
+            "options": [
+                "A. The mirror reflection of the text 'EKKOLOGICAL' is very clear.",
+                "B. The mirror reflection of the text 'EKKOLOGICAL' has slight distortion.",
+                "C. The mirror reflection of the text 'EKKOLOGICAL' is heavily distorted.",
+                "D. The text 'EKKOLOGICAL' has no mirror reflection."
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_12": {
+            "id": "4V6G0qYVoBg_12",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "Does the mirror reflection of the text 'EKKOLOGICAL' have a distinct directionality?",
+            "options": [
+                "A. The mirror reflection of the text 'EKKOLOGICAL' directly appears below the original text.",
+                "B. The mirror reflection of the text 'EKKOLOGICAL' appears on the left side of the original text.",
+                "C. The mirror reflection of the text 'EKKOLOGICAL' is positioned above the original text.",
+                "D. The text 'EKKOLOGICAL' has no mirror reflection."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_13": {
+            "id": "4V6G0qYVoBg_13",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in this scene?",
+            "options": [
+                "A. The scene uses a horizontal frontal angle.",
+                "B. The scene is shot from a low angle.",
+                "C. The scene uses a wide-angle lens.",
+                "D. The scene features close-ups and varied angles."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_14": {
+            "id": "4V6G0qYVoBg_14",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "Has the pose or action of the humanoid character changed?",
+            "options": [
+                "A. Yes, it eventually changes to a calm, neutral pose.",
+                "B. No, it still maintains its previous dynamic pose.",
+                "C. Yes, it is now completely turned away from the camera and is no longer visible.",
+                "D. There is no humanoid character in the frame."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_15": {
+            "id": "4V6G0qYVoBg_15",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "At the beginning of the scene, where are the relative positions of the human figure and the mechanical figure?",
+            "options": [
+                "A. The human figure is on the left, and the mechanical figure is on the right.",
+                "B. The human figure is on the right, and the mechanical figure is on the left.",
+                "C. The human figure is behind the mechanical figure.",
+                "D. The human figure is in front of the mechanical figure."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_16": {
+            "id": "4V6G0qYVoBg_16",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "Which elements in the scene enhance the appeal of the image?",
+            "options": [
+                "A. Added other new characters and more complex background elements.",
+                "B. The posture and appearance of humanoid characters suddenly change, adding cool special effects.",
+                "C. The posture and appearance of mechanical characters suddenly change.",
+                "D. The brightness of the reflective surface below the characters gradually increases."
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_17": {
+            "id": "4V6G0qYVoBg_17",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "How do the reflective properties of surfaces affect the scene?",
+            "options": [
+                "A. The reflective properties subtly replicate the form of the characters.",
+                "B. The reflective properties create a significant contrast.",
+                "C. The reflective properties blur the characters.",
+                "D. The reflective properties introduce distortion."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_18": {
+            "id": "4V6G0qYVoBg_18",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "What's in the upper right corner of the screen?",
+            "options": [
+                "A. A prominent stone turret",
+                "B. A glowing ember-like central structure",
+                "C. A dark spiky creature",
+                "D. A sphere located in the ruins"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_19": {
+            "id": "4V6G0qYVoBg_19",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the central scene in the video?",
+            "options": [
+                "A. The central scene is a battlefield with grass, stone paths, and walls.",
+                "B. The central scene is a dark forest surrounded by trees and waterfalls.",
+                "C. The central scene is a spaceship with metal interiors and neon lights.",
+                "D. The central scene is a large desert with sand dunes and ancient temples."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_20": {
+            "id": "4V6G0qYVoBg_20",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What color is the surface of the displayed character?",
+            "options": [
+                "A. Purple.",
+                "B. Green.",
+                "C. White.",
+                "D. Blue."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_21": {
+            "id": "4V6G0qYVoBg_21",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What is the name of the UI overlay introduced in the lower left corner of the scene?",
+            "options": [
+                "A. Granite Shield",
+                "B. Iron Barrier",
+                "C. Stone Guard",
+                "D. Steel Protector"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_22": {
+            "id": "4V6G0qYVoBg_22",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What does the UI overlay named 'Granite Shield' depict?",
+            "options": [
+                "A. It depicts a cracked stone icon.",
+                "B. It depicts a glowing ember.",
+                "C. It depicts a dark spiky appearance.",
+                "D. It depicts a grassy battlefield."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_23": {
+            "id": "4V6G0qYVoBg_23",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "In the initial battlefield overview, how many flame-like decorative elements are there?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_24": {
+            "id": "4V6G0qYVoBg_24",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "In the initial battlefield overview, where are the elements similar to glowing campfires located?",
+            "options": [
+                "A. One is located on the wall on the left side, and the other is located on the wall on the right side.",
+                "B. One is located near the stone cannon tower in the lower right corner, and the other is located on the grass on the left side.",
+                "C. One is located in the center of the battlefield, and the other is located on the rocky high ground on the right side.",
+                "D. One is located in the upper left, and the other is located near the ruins in the lower left."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_25": {
+            "id": "4V6G0qYVoBg_25",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is highlighted when the fiery explosion occurs?",
+            "options": [
+                "A. The armor of the lava giant beast turns into a burning state",
+                "B. The appearance of multiple glowing stone towers",
+                "C. The creation of a new grassland battlefield",
+                "D. The appearance of a large central stone relic"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_26": {
+            "id": "4V6G0qYVoBg_26",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Compared to the Lava Behemoth, where is the minion-like character positioned?",
+            "options": [
+                "A. The minion-like character is behind the colossus.",
+                "B. The minion-like character is to the left of the colossus.",
+                "C. The minion-like character is on both sides of the colossus.",
+                "D. The minion-like character is in front of the colossus."
+            ],
+            "answer": "C"
+        },
+        "4V6G0qYVoBg_27": {
+            "id": "4V6G0qYVoBg_27",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "Is the perspective of the battlefield a panoramic view?",
+            "options": [
+                "A. Yes, the description indicates a panoramic view of the battlefield.",
+                "B. No, it is a close-up, detail-magnified perspective.",
+                "C. Yes, because it only describes one character in detail.",
+                "D. No, it focuses more on the expression of a single character."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_28": {
+            "id": "4V6G0qYVoBg_28",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "Will the fire pit on the wall change its appearance during the process?",
+            "options": [
+                "A. Yes, it will change color.",
+                "B. Yes, it will change shape.",
+                "C. No, the appearance remains the same.",
+                "D. Yes, it will completely disappear."
+            ],
+            "answer": "C"
+        },
+        "4V6G0qYVoBg_29": {
+            "id": "4V6G0qYVoBg_29",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where was the Lava Behemoth initially placed?",
+            "options": [
+                "A. Near the center of the scene, slightly to the right",
+                "B. Near the upper-left quadrant",
+                "C. Near the lower-left quadrant",
+                "D. Near the upper center of the scene"
+            ],
+            "answer": "C"
+        },
+        "4V6G0qYVoBg_30": {
+            "id": "4V6G0qYVoBg_30",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What natural elements make up the battlefield environment?",
+            "options": [
+                "A. The battlefield environment includes natural elements such as grasslands and flowers.",
+                "B. The battlefield environment includes elements such as wild creatures and stone paths.",
+                "C. The battlefield environment includes natural elements such as bodies of water and snow-capped mountains.",
+                "D. The battlefield environment includes man-made features such as rocky edges and mechanisms."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_31": {
+            "id": "4V6G0qYVoBg_31",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the humanoid wooden stakes in this scene?",
+            "options": [
+                "A. Wearing a wide-brimmed hat and green clothing.",
+                "B. Wearing golden armor and a red cape.",
+                "C. Wearing silver clothing and a helmet.",
+                "D. Wearing a blue robe and holding a shield."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_32": {
+            "id": "4V6G0qYVoBg_32",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the item in the lower left corner of the interface?",
+            "options": [
+                "A. An icon labeled with the letter 'Q'.",
+                "B. A glowing orange sphere.",
+                "C. An image of a humanoid champion holding a spear.",
+                "D. A battlefield map indicating paths."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_33": {
+            "id": "4V6G0qYVoBg_33",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many glowing flame decorations are placed on the map?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_34": {
+            "id": "4V6G0qYVoBg_34",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Does this scene contain water elements?",
+            "options": [
+                "A. Yes, there is a river",
+                "B. No, it is volcanic terrain",
+                "C. Yes, there are hot springs",
+                "D. There is only dry land terrain here"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_35": {
+            "id": "4V6G0qYVoBg_35",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What subtle sign indicates that the Lava Behemoth might be activating an ability?",
+            "options": [
+                "A. A blue glow emanates from the creature.",
+                "B. The creature lets out a loud roar.",
+                "C. The humanoid hero assumes a defensive stance.",
+                "D. The glowing orange orb changes color."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_36": {
+            "id": "4V6G0qYVoBg_36",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "Which direction did the beast-like creature move first on the battlefield?",
+            "options": [
+                "A. Moved towards the middle lane of the stone-paved area.",
+                "B. Retreating to the lower left quadrant of the battlefield.",
+                "C. Circling around the humanoid wooden stake.",
+                "D. Moving towards the upper left quadrant."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_37": {
+            "id": "4V6G0qYVoBg_37",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "Is there any indication that the camera is moving?",
+            "options": [
+                "A. No, there is no indication that the camera is moving.",
+                "B. Yes, the camera is slowly panning across the battlefield.",
+                "C. Yes, the camera is zooming in on the humanoid champion.",
+                "D. Yes, the camera is zooming out to provide an overhead view of the battlefield."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_38": {
+            "id": "4V6G0qYVoBg_38",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "Has there been any change in the game interface?",
+            "options": [
+                "A. Yes, more skill icons have appeared.",
+                "B. Yes, the active skill icons have changed.",
+                "C. No, the game interface remains consistent.",
+                "D. Yes, there are more dots under the skill icons."
+            ],
+            "answer": "D"
+        },
+        "4V6G0qYVoBg_39": {
+            "id": "4V6G0qYVoBg_39",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the humanoid wooden stake located in relation to the giant beast in the picture?",
+            "options": [
+                "A. In the lower left of the picture relative to the giant beast.",
+                "B. In the lower right of the picture relative to the giant beast.",
+                "C. In the upper left of the picture relative to the giant beast.",
+                "D. In the upper right of the picture relative to the giant beast."
+            ],
+            "answer": "D"
+        },
+        "4V6G0qYVoBg_40": {
+            "id": "4V6G0qYVoBg_40",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the battlefield like?",
+            "options": [
+                "A. Shaded by green trees, cobblestone paths, and torchlight flickering everywhere.",
+                "B. Covered in shadows, with dark clouds looming overhead.",
+                "C. Filled with ruins and remnants of recent battles.",
+                "D. Cold and desolate, the ground covered in snow, with a bone-chilling wind."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_41": {
+            "id": "4V6G0qYVoBg_41",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What did Malphite do?",
+            "options": [
+                "A. Malphite executed the 'Unstoppable Force' skill.",
+                "B. Malphite quietly observed the battlefield without engaging in combat.",
+                "C. Malphite retreated to a defensive position and avoided conflict.",
+                "D. Malphite called for reinforcements instead of taking direct action."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_42": {
+            "id": "4V6G0qYVoBg_42",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "After the battlefield is restored to a flat state, how many humanoid stakes remain intact?",
+            "options": [
+                "A. One humanoid stake remains intact.",
+                "B. Two humanoid stakes remain intact.",
+                "C. Three humanoid stakes remain intact.",
+                "D. Four humanoid stakes remain intact."
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_43": {
+            "id": "4V6G0qYVoBg_43",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Will the battlefield return to its original state after the explosion?",
+            "options": [
+                "A. Yes, the battlefield reforms into a smooth, intact stone road.",
+                "B. No, the battlefield remains fractured and chaotic.",
+                "C. Yes, the battlefield returns to its original state but with added water bodies.",
+                "D. No, the battlefield permanently bears scars and becomes uninhabitable."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_44": {
+            "id": "4V6G0qYVoBg_44",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What happens when a beast-type creature attacks?",
+            "options": [
+                "A. The ground cracks open, forming a large clod on the raised terrain.",
+                "B. Summons humanoid dummy monsters while the battlefield remains unchanged.",
+                "C. Creates a dazzling light, stunning nearby humanoid dummies.",
+                "D. Retreats into the forest, while the humanoid dummies destroy its defense tower."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_45": {
+            "id": "4V6G0qYVoBg_45",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "In which direction does the flame move during this creature's attack?",
+            "options": [
+                "A. The flame moves upward into the sky.",
+                "B. The flame spreads outward in a fan shape from the lava behemoth.",
+                "C. The flame shows no movement.",
+                "D. The flame moves in a circular motion surrounding the creature."
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_46": {
+            "id": "4V6G0qYVoBg_46",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "In which direction do the rock fragments move?",
+            "options": [
+                "A. The fragments move towards the humanoid dummy.",
+                "B. The fragments move towards the armored beast.",
+                "C. The fragments move towards the defense tower.",
+                "D. The fragments never moved."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_47": {
+            "id": "4V6G0qYVoBg_47",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "Which type of shot captures Malphite's dynamic leap or attack?",
+            "options": [
+                "A. Close-up shot.",
+                "B. Wide-angle shot.",
+                "C. Overhead shot.",
+                "D. Static shot."
+            ],
+            "answer": "C"
+        },
+        "4V6G0qYVoBg_48": {
+            "id": "4V6G0qYVoBg_48",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "How does the terrain recover after a biological attack?",
+            "options": [
+                "A. The terrain recovers into a smooth, complete stone path.",
+                "B. The terrain turns into a scorching lava landscape.",
+                "C. The terrain is permanently filled with craters and jagged structures.",
+                "D. The terrain is covered with lush green plants and flowers."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_49": {
+            "id": "4V6G0qYVoBg_49",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What visual cues are present when the armored behemoth uses his 'Unstoppable Force' ability?",
+            "options": [
+                "A. Dust and debris, shockwave ripples, and terrain upheaval.",
+                "B. Green flashes, fiery explosions, and glowing radiance.",
+                "C. Bright aura, crackling electricity, and energy dispersion.",
+                "D. Flickering trails, glowing minions, and blue streaks."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_50": {
+            "id": "4V6G0qYVoBg_50",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "What is the pose of the animated character?",
+            "options": [
+                "A. Both hands are making a rap gesture.",
+                "B. Both hands are clenched into fists and placed at the sides of the body.",
+                "C. Both arms are crossed in front of the chest, showing confidence.",
+                "D. Both hands are extended outward, with palms facing forward."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_51": {
+            "id": "4V6G0qYVoBg_51",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Does this animated character wear gloves?",
+            "options": [
+                "A. Yes, but he is wearing fingerless gloves.",
+                "B. No, this animated character does not wear gloves.",
+                "C. Yes, this animated character wears gloves.",
+                "D. Gloves are not mentioned in the description."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_52": {
+            "id": "4V6G0qYVoBg_52",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "What action is the animated character's right hand doing?",
+            "options": [
+                "A. The right index finger is pointing up.",
+                "B. The right hand is clenched into a fist.",
+                "C. The right hand is stretched out.",
+                "D. The right hand is placed on the hip."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_53": {
+            "id": "4V6G0qYVoBg_53",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "From the perspective of the screen, on which side is the yellow lightning located?",
+            "options": [
+                "A. The yellow lightning is located to the left of the character's head.",
+                "B. The yellow lightning is located to the right of the character's head.",
+                "C. The yellow lightning is located directly above the character's head.",
+                "D. The yellow lightning is located below the character's head."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_54": {
+            "id": "4V6G0qYVoBg_54",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "What type of lens is used to focus on animated characters?",
+            "options": [
+                "A. Use medium close-up lens.",
+                "B. Use wide-angle lens.",
+                "C. Use close-up lens.",
+                "D. Use long shot lens."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_55": {
+            "id": "4V6G0qYVoBg_55",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the scene like?",
+            "options": [
+                "A. A chaotic battle scene.",
+                "B. A futuristic scene.",
+                "C. A modern urban environment.",
+                "D. A blue-toned peaceful garden."
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_56": {
+            "id": "4V6G0qYVoBg_56",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What visual element accompanies the animated character's head?",
+            "options": [
+                "A. A yellow lightning bolt.",
+                "B. A pair of neon wings.",
+                "C. A bright halo.",
+                "D. A glowing crescent moon."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_57": {
+            "id": "4V6G0qYVoBg_57",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What text is displayed at the beginning of the scene?",
+            "options": [
+                "A. The text displayed at the beginning of the video is 'EKKOLOGICAL'.",
+                "B. The text displayed at the beginning of the video is 'BATTLEFIELD LEGENDS'.",
+                "C. The text displayed at the beginning of the video is 'SPIKED WARRIOR'.",
+                "D. The text displayed at the beginning of the video is 'ANIMATED FUTURE'."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_58": {
+            "id": "4V6G0qYVoBg_58",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What font style is used for the word 'EKKOLOGICAL'?",
+            "options": [
+                "A. A bold, futuristic font",
+                "B. A casual, handwritten style font",
+                "C. A simple, serif style font",
+                "D. A mechanized, typewriter style font"
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_59": {
+            "id": "4V6G0qYVoBg_59",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the color of the text 'EKKOLOGICAL' at the beginning of the scene?",
+            "options": [
+                "A. Gray-green",
+                "B. Neon purple",
+                "C. Bright yellow",
+                "D. White"
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_60": {
+            "id": "4V6G0qYVoBg_60",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What happens to the training dummy and the lava beast when using the W+R skill?",
+            "options": [
+                "A. They are obscured by explosive debris and energy.",
+                "B. They are enveloped by a swirling vortex of light.",
+                "C. They completely disappear from the scene.",
+                "D. They transform into a more powerful form."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_61": {
+            "id": "4V6G0qYVoBg_61",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What happens to the battlefield after using the W+R attack?",
+            "options": [
+                "A. The battlefield is reorganized, revealing a reconstructed scene.",
+                "B. The battlefield completely collapses.",
+                "C. The armored creatures become larger.",
+                "D. The battlefield transforms into a tranquil meadow."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_62": {
+            "id": "4V6G0qYVoBg_62",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What happens after the animation of the white-haired character at the beginning of the scene?",
+            "options": [
+                "A. The scene transitions back to a tranquil battlefield.",
+                "B. A subsequent transition to a cyan-colored scene.",
+                "C. The animated character begins his action sequence.",
+                "D. Introduce a new character that contrasts with it."
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_63": {
+            "id": "4V6G0qYVoBg_63",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the main visual focus of the animation at the beginning of the video?",
+            "options": [
+                "A. Subtle mirror reflections on a clean white background.",
+                "B. The spiky creature in the center position.",
+                "C. The two humanoid wooden stake characters flanking the central figure.",
+                "D. The yellow lightning and small animated shapes to the left of the character's head."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_64": {
+            "id": "4V6G0qYVoBg_64",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "At the beginning of the scene, how does the character on the left move?",
+            "options": [
+                "A. Flexible and graceful.",
+                "B. Still and stiff.",
+                "C. Like a robot.",
+                "D. Slow and sluggish."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_65": {
+            "id": "4V6G0qYVoBg_65",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is the posture of the mechanical figure on the right when the scene starts?",
+            "options": [
+                "A. The mechanical figure's posture is stationary and rigid.",
+                "B. The mechanical figure is lying on the ground.",
+                "C. The mechanical figure is rotating.",
+                "D. The mechanical figure is jumping."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_66": {
+            "id": "4V6G0qYVoBg_66",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "How does the battlefield change after a violent explosion?",
+            "options": [
+                "A. After the violent explosion, the battlefield recovers, transitioning from chaos to calm.",
+                "B. After the violent explosion, the battlefield is completely engulfed in flames.",
+                "C. After the violent explosion, the battlefield turns into a frozen, cold area.",
+                "D. After the violent explosion, the battlefield becomes a bustling marketplace."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_67": {
+            "id": "4V6G0qYVoBg_67",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What specific changes will occur on the battlefield after the explosion?",
+            "options": [
+                "A. The terrain returns to its original intact state.",
+                "B. The spiked creature turns into a humanoid.",
+                "C. The torchlight dims, and the character disappears from view.",
+                "D. The battlefield becomes overgrown with weeds and ruins appear."
+            ],
+            "answer": "A"
+        },
+        "4V6G0qYVoBg_68": {
+            "id": "4V6G0qYVoBg_68",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What transformation occurs after the W+R skill demonstration?",
+            "options": [
+                "A. The scene changes to a forest environment.",
+                "B. The scene changes to an animated character presentation.",
+                "C. The scene changes to a space station.",
+                "D. The scene changes to a city street."
+            ],
+            "answer": "B"
+        },
+        "4V6G0qYVoBg_69": {
+            "id": "4V6G0qYVoBg_69",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the significance of the glowing objects on the walls in the battlefield?",
+            "options": [
+                "A. The glowing objects enhance the mystery and strategic elements of the battlefield.",
+                "B. The glowing objects serve only as decorative lighting.",
+                "C. The glowing objects indicate buried treasures beneath the battlefield.",
+                "D. The glowing objects represent a countdown mechanism for timed events in the scene."
+            ],
+            "answer": "B"
+        }
+    }
+}

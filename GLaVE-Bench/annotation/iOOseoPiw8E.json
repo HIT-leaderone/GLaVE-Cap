@@ -1,0 +1,1208 @@
+{
+    "scene_hint": {
+        "0": "有角色站在舞台上，带有显示主题的文本框",
+        "1": "镜头聚焦于不同角色的活动",
+        "2": "镜头展示大部分观众的反应画面",
+        "3": "镜头展示小部分观众的反应画面",
+        "4": "所有角色站在一起",
+        "5": "出现卡通动画的宣传画面"
+    },
+    "qa": {
+        "iOOseoPiw8E_0": {
+            "id": "iOOseoPiw8E_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "在初始场景中，人物位于舞台的什么位置？",
+            "options": [
+                "A. 位于舞台的前景中央。",
+                "B. 位于舞台的后角。",
+                "C. 位于舞台的最右侧。",
+                "D. 坐在舞台的最左侧。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_1": {
+            "id": "iOOseoPiw8E_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "舞台最初看起来代表了什么环境？",
+            "options": [
+                "A. 带有花园般环境的场景",
+                "B. 现代城市风貌",
+                "C. 有士兵的战场",
+                "D. 带有机器人的太空站"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_2": {
+            "id": "iOOseoPiw8E_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "画面左侧人物的服装是什么？",
+            "options": [
+                "A. 一件亮粉色连衣裙",
+                "B. 一套深蓝色或紫色的女巫装",
+                "C. 一件红色舞会礼服",
+                "D. 一件色彩鲜艳的仿花园花卉的服装"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_3": {
+            "id": "iOOseoPiw8E_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "紫色牌子上显示了什么短语？",
+            "options": [
+                "A. 'Live on Stage!'",
+                "B. 'Now Playing!'",
+                "C. 'Showtime!'",
+                "D. 'Magic Begins!'"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_4": {
+            "id": "iOOseoPiw8E_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "添加到紫色话泡形状板上的花卉图案是什么？",
+            "options": [
+                "A. 一朵黄色带粉色的花。",
+                "B. 一朵红色带蓝色的花。",
+                "C. 一朵绿色带紫色的花。",
+                "D. 一朵白色带橙色的花。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_5": {
+            "id": "iOOseoPiw8E_5",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "后添加到紫色话泡形状板上的花卉，在其什么位置？",
+            "options": [
+                "A. 被添加到紫色话泡板的左上角。",
+                "B. 被添加到紫色话泡板的右侧。",
+                "C. 被添加到紫色话泡板的顶部。",
+                "D. 被添加到紫色话泡板的底部。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_6": {
+            "id": "iOOseoPiw8E_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "舞台上可以看到多少位表演者？",
+            "options": [
+                "A. 一位表演者",
+                "B. 两位表演者",
+                "C. 三位表演者",
+                "D. 四位表演者"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_7": {
+            "id": "iOOseoPiw8E_7",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "女角色移动的方向是什么？",
+            "options": [
+                "A. 基本没有移动位置。",
+                "B. 移动到舞台中央。",
+                "C. 移动到左侧。",
+                "D. 直接走下了舞台。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_8": {
+            "id": "iOOseoPiw8E_8",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "使用了什么相机角度来拍摄舞台场景？",
+            "options": [
+                "A. 使用了正面角度拍摄。",
+                "B. 使用了高角度拍摄。",
+                "C. 使用了低角度拍摄。",
+                "D. 使用了侧角度拍摄。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_9": {
+            "id": "iOOseoPiw8E_9",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "场景的灯光是什么样的？",
+            "options": [
+                "A. 灯光是明亮的照着舞台场景的。",
+                "B. 灯光使得背景完全变得黑暗。",
+                "C. 灯光进一步调暗，只有微弱的光。",
+                "D. 灯光引入了红色的色调光。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_10": {
+            "id": "iOOseoPiw8E_10",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "背景有什么视觉变化？",
+            "options": [
+                "A. 白色星星状闪烁散布在舞台上并移动。",
+                "B. 画布背景被替换为纯黑色幕布。",
+                "C. 黄色聚光灯被添加到背景中。",
+                "D. 舞台装饰全部移除。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_11": {
+            "id": "iOOseoPiw8E_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "舞台中央的标志写着什么？",
+            "options": [
+                "A. 'Ben & Holly’s Little Kingdom'",
+                "B. 'Whimsical World'",
+                "C. 'Fairy Tale Land'",
+                "D. 'Magical Garden'"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_12": {
+            "id": "iOOseoPiw8E_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "场景开始时戴着紫色帽子的角色位于什么位置？",
+            "options": [
+                "A. 他位于画面的左侧。",
+                "B. 他位于画面的中央。",
+                "C. 他位于画面中央偏右。",
+                "D. 他们在场景开始时不可见。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_13": {
+            "id": "iOOseoPiw8E_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "背景中描绘的是哪种环境？",
+            "options": [
+                "A. 一个现实的都市景观。",
+                "B. 一个奇幻的魔法世界。",
+                "C. 一个宁静的海滩场景。",
+                "D. 一个黑暗神秘的森林。"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_14": {
+            "id": "iOOseoPiw8E_14",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "具有空灵蝴蝶般特征的角色外观是什么？",
+            "options": [
+                "A. 角色穿着无袖的深紫色长袍，背后附有发光的翼状延伸物。",
+                "B. 角色穿着鲜红色的服装，拥有大羽毛状的翅膀。",
+                "C. 角色穿着长长的绿色长袍，头上有类似昆虫的触角。",
+                "D. 角色穿着明亮的黄色服装，背后延伸出花瓣。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_15": {
+            "id": "iOOseoPiw8E_15",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "这个橙黄色角色在做什么？",
+            "options": [
+                "A. 这个角色正在和瓢虫跳舞。",
+                "B. 这个角色拿着一本书。",
+                "C. 这个角色正在和另一个角色交谈。",
+                "D. 这个角色正在整理他那顶帽子。"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_16": {
+            "id": "iOOseoPiw8E_16",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "在场景中，这个橙红女角色与什么道具互动了，",
+            "options": [
+                "A. 一个大红瓢虫。",
+                "B. 一只大绿青蛙。",
+                "C. 一只小蓝蝴蝶。",
+                "D. 一个闪亮金币。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_17": {
+            "id": "iOOseoPiw8E_17",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "场景中有多少人物角色？",
+            "options": [
+                "A. 一个。",
+                "B. 二个。",
+                "C. 三个。",
+                "D. 四个。"
+            ],
+            "answer": "D"
+        },
+        "iOOseoPiw8E_18": {
+            "id": "iOOseoPiw8E_18",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "背景风格有什么变化吗？",
+            "options": [
+                "A. 背景保持一致。",
+                "B. 背景转变为一个黑暗的城市环境。",
+                "C. 背景变得不那么多彩了。",
+                "D. 背景变成了一个抽象设计。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_19": {
+            "id": "iOOseoPiw8E_19",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "橙红色衣服的角色做了什么动作？",
+            "options": [
+                "A. 角色弯腰向前移动。",
+                "B. 角色直立站着。",
+                "C. 角色坐在花旁边。",
+                "D. 角色背对观众。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_20": {
+            "id": "iOOseoPiw8E_20",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "场景开始时，背景中显眼的雏菊位于哪里？",
+            "options": [
+                "A. 位于花园背景的中央位置。",
+                "B. 花园背景的最左侧。",
+                "C. 花园背景的最右侧。",
+                "D  位于背景的顶部附近。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_21": {
+            "id": "iOOseoPiw8E_21",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "场景中使用了什么摄影角度？",
+            "options": [
+                "A. 使用了正面中距离的角度。",
+                "B. 使用了高角度远景。",
+                "C. 使用了低角度特写镜头。",
+                "D. 使用了肩上的过肩镜头。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_22": {
+            "id": "iOOseoPiw8E_22",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "相机角度如何影响表演？",
+            "options": [
+                "A. 它重点展示了场景中的舞台道具。",
+                "B. 它清晰地展示了角色及互动。",
+                "C. 它遮蔽了表演的重要元素。",
+                "D. 它只突出少数角色。"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_23": {
+            "id": "iOOseoPiw8E_23",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "戴着紫色帽子的角色是什么样子的？",
+            "options": [
+                "A. 穿着紫色服装、带着香蕉状挎包。",
+                "B. 帽子是星形帽子并带着了一个背包。",
+                "C. 有一对蝴蝶翅膀和一根魔法杖。",
+                "D. 穿红色服装和蓝色斗篷。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_24": {
+            "id": "iOOseoPiw8E_24",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "场景开始是，场景中的花卉是什么样的？",
+            "options": [
+                "A. 白色花瓣和黄色中心的雏菊。",
+                "B. 场景中散落着数量众多的红玫瑰。",
+                "C. 以绿色叶子为主的花卉。",
+                "D. 悬挂着薰衣草花束。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_25": {
+            "id": "iOOseoPiw8E_25",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "舞台的场景设置是什么样的？",
+            "options": [
+                "A. 舞台采用城市景观和柔和的色彩。",
+                "B. 舞台上有绿色植被、卡通式的花朵。",
+                "C. 舞台采用极简元素和单色灯光设计。",
+                "D. 舞台包括传统家具和历史文物。"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_26": {
+            "id": "iOOseoPiw8E_26",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景的灯光是什么样的？",
+            "options": [
+                "A. 采用了明亮均匀的灯光。",
+                "B. 灯光昏暗。",
+                "C. 灯光仅突出了树叶。",
+                "D. 灯光不均匀。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_27": {
+            "id": "iOOseoPiw8E_27",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景中的氛围是怎样的？",
+            "options": [
+                "A. 轻松愉快。",
+                "B. 严肃。",
+                "C. 阴暗。",
+                "D. 现实。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_28": {
+            "id": "iOOseoPiw8E_28",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "亮黄头发的人物穿着什么？",
+            "options": [
+                "A. 穿着一件粉色连衣裙。",
+                "B. 穿着一件绿色长袍。",
+                "C. 穿着一件黄色连体装。",
+                "D. 穿着一件蓝色礼服。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_29": {
+            "id": "iOOseoPiw8E_29",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "戴着皇冠头饰的角色的发型是什么？",
+            "options": [
+                "A. 留着齐肩的黄色波波头发型。",
+                "B. 留着长长的黑色飘逸秀发。",
+                "C. 留着卷曲的红色盘发。",
+                "D. 留着短短的绿色尖刺发型。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_30": {
+            "id": "iOOseoPiw8E_30",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "亮黄发角色在表演时表现如何？",
+            "options": [
+                "A. 充满活力地表演。",
+                "B. 闭上眼睛缓慢表演。",
+                "C. 害羞地微笑并低下头。",
+                "D. 沉默地表演，面容严肃。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_31": {
+            "id": "iOOseoPiw8E_31",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "戴王冠的人物在表演中使用了什么道具？",
+            "options": [
+                "A. 一个星星魔杖。",
+                "B. 一个蓝色法杖。",
+                "C. 一根水晶球权杖。",
+                "D. 一本发光魔法书。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_32": {
+            "id": "iOOseoPiw8E_32",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "表演过程中有多少次主要服装转换？",
+            "options": [
+                "A. 发生一次主要的服装转换。",
+                "B. 发生两次主要的服装转换。",
+                "C. 发生三次主要的服装转换。",
+                "D. 没有发生主要的服装转换。"
+            ],
+            "answer": "D"
+        },
+        "iOOseoPiw8E_33": {
+            "id": "iOOseoPiw8E_33",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "戴紫色帽子的人物左手是否拿着任何物品？",
+            "options": [
+                "A. 是的，这个人物的左手拿着一朵小绿花。",
+                "B. 是的，这个人物的左手拿着一块蓝色水晶。",
+                "C. 不，这个人物左手没有拿任何物品。",
+                "D. 是的，这个人物的左手拿着一个银铃。"
+            ],
+            "answer": "C"
+        },
+        "iOOseoPiw8E_34": {
+            "id": "iOOseoPiw8E_34",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "这个人物用魔杖做了什么动作?",
+            "options": [
+                "A. 这个人物动态地挥动魔杖。",
+                "B. 这个人物轻轻用魔杖敲击地面。",
+                "C. 这个人物将魔杖抛向空中。",
+                "D. 这个人物静静地握住魔杖。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_35": {
+            "id": "iOOseoPiw8E_35",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "戴王冠的角色在表演过程中的动作是怎样的？",
+            "options": [
+                "A. 挥动魔杖和旋转面向观众。",
+                "B. 摆出持魔杖和皇冠的姿势。",
+                "C. 在布景中奔跑。",
+                "D. 缓慢的步行。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_36": {
+            "id": "iOOseoPiw8E_36",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "哪个视觉元素辅助了人物的魔法表演？",
+            "options": [
+                "A. 魔杖尖端发光的粉色星星。",
+                "B. 大号锥形的魔法帽子。",
+                "C. 舞台左侧明亮的黄色花朵。",
+                "D. 背景中闪闪发光的半透明翅膀。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_37": {
+            "id": "iOOseoPiw8E_37",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "场景中的瓢虫有什么特征？",
+            "options": [
+                "A. 瓢虫有一个光滑的红色圆顶状身体。",
+                "B. 瓢虫是一只真正的昆虫，身体小巧。",
+                "C. 瓢虫有一个哑光绿色的身体。",
+                "D. 瓢虫是一个金属翅膀的机器人生物。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_38": {
+            "id": "iOOseoPiw8E_38",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "当穿橘红裙子的角色与瓢虫互动时，她戴着皇冠吗？",
+            "options": [
+                "A. 是的，她戴着皇冠。",
+                "B. 不，她没有戴着皇冠。",
+                "C. 不，但她戴着魔法帽子。",
+                "D. 没有角色与瓢虫互动。"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_39": {
+            "id": "iOOseoPiw8E_39",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "穿橘红裙子的角色在与瓢虫互动时拿着魔杖吗？",
+            "options": [
+                "A. 是的，她拿着魔杖。",
+                "B. 不，没有拿着魔杖。",
+                "C. 不，但她拿着水晶扫帚。",
+                "D. 没有角色与瓢虫互动。"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_40": {
+            "id": "iOOseoPiw8E_40",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "当身穿橘红裙的角色与瓢虫互动时，她的发型发生了什么变化？",
+            "options": [
+                "A. 她的发型始终没有变化。",
+                "B. 她的头发从棕色变成金色。",
+                "C. 她把头发扎成一个发髻。",
+                "D. 她的头发变长并被造型成波浪状。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_41": {
+            "id": "iOOseoPiw8E_41",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "使用了什么摄像机角度？",
+            "options": [
+                "A. 使用了中景摄像机角度。",
+                "B. 使用了俯视摄像机角度。",
+                "C. 使用了低机位摄像机角度。",
+                "D. 使用了特写镜头。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_42": {
+            "id": "iOOseoPiw8E_42",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "橘红裙角色的动作是如何描述的？",
+            "options": [
+                "A. 动作是缓慢的。",
+                "B. 动作是不稳定的。",
+                "C. 动作是充满活力的。",
+                "D. 动作是静止不变的。"
+            ],
+            "answer": "C"
+        },
+        "iOOseoPiw8E_43": {
+            "id": "iOOseoPiw8E_43",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "粉红衣角色在场景中做了什么动作？",
+            "options": [
+                "A. 她的手臂呈波浪状不停摆动。",
+                "B. 她挥舞魔杖，同时原地旋转。",
+                "C. 她双手在头顶上方挥动。",
+                "D. 她双臂交叉在胸前。"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_44": {
+            "id": "iOOseoPiw8E_44",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "橘红裙子角色与谁互动？",
+            "options": [
+                "A. 她与瓢虫互动。",
+                "B. 她与穿蓝色服装的角色互动。",
+                "C. 她与大粉色花互动。",
+                "D. 她与另一个穿紫色服装的人互动。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_45": {
+            "id": "iOOseoPiw8E_45",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景空间的灯光是什么样的？",
+            "options": [
+                "A. 空间灯光昏暗。",
+                "B. 空间灯光明亮。",
+                "C. 空间被复杂的吊灯照亮。",
+                "D. 空间被丰富多彩的道具照亮。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_46": {
+            "id": "iOOseoPiw8E_46",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景被什么光源照亮？",
+            "options": [
+                "A. 由观众持有的荧光棒和LED魔杖照亮。",
+                "B. 由悬挂在天花板上的灯笼照亮。",
+                "C. 装饰着的吊灯，为观众提供光芒。",
+                "D. 每个座位上的蜡烛柔和的光线。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_47": {
+            "id": "iOOseoPiw8E_47",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景的设置是什么样的？",
+            "options": [
+                "A. 一个宽阔的观众席。",
+                "B. 一个举办户外活动的公园。",
+                "C. 一个没有观众的小型录音室。",
+                "D. 一个举办艺术展览的博物馆。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_48": {
+            "id": "iOOseoPiw8E_48",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "场景中的人们在做什么？",
+            "options": [
+                "A. 正在认真观看表演。",
+                "B. 大声地跟着表演唱歌。",
+                "C. 站着在过道里跳舞。",
+                "D. 在打电话，不在意演出。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_49": {
+            "id": "iOOseoPiw8E_49",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景中是否能看到'Australian'这个词？",
+            "options": [
+                "A. 是的，它以一种有趣的字体显示在画面中。",
+                "B. 不，这个场景中'Australian'这个词没有出现。",
+                "C. 是的，它短暂出现在其中一位表演者的服装上。",
+                "D. 不，这个场景中没有任何文字显示。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_50": {
+            "id": "iOOseoPiw8E_50",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "表演者穿着什么？",
+            "options": [
+                "A. 表演者穿着鲜艳的服装。",
+                "B. 表演者穿着休闲服。",
+                "C. 表演者穿着传统的澳大利亚服装。",
+                "D. 表演者穿着黑白制服。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_51": {
+            "id": "iOOseoPiw8E_51",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "单词'Australian'在画面中什么位置？",
+            "options": [
+                "A. 单词'Australian'位于画面左上方。",
+                "B. 单词'Australian'位于画面右上方。",
+                "C. 单词'Australian'位于画面中央。",
+                "D. 单词'Australian'位于画面下方中央。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_52": {
+            "id": "iOOseoPiw8E_52",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "使用哪种类型的镜头来描绘观众的？",
+            "options": [
+                "A. 近景镜头",
+                "B. 广角镜头",
+                "C. 中景镜头",
+                "D. 过肩镜头"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_53": {
+            "id": "iOOseoPiw8E_53",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "这场景的总体环境是什么？",
+            "options": [
+                "A. 场景设定在一个剧院观众席。",
+                "B. 场景设定在一个户外节日。",
+                "C. 场景发生在一个小型会议室。",
+                "D. 场景设定在一个安静的图书馆。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_54": {
+            "id": "iOOseoPiw8E_54",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "观众手中常见的物品是什么？",
+            "options": [
+                "A. 观众拿着发光的物品。",
+                "B. 观众拿着气球和彩纸喷射器。",
+                "C. 观众拿着彩带和旗子。",
+                "D. 观众拿着书和节目单。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_55": {
+            "id": "iOOseoPiw8E_55",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "画面完整显示的文字是什么？",
+            "options": [
+                "A. 'Australian Tour 2016'",
+                "B. 'Australian Concert Night'",
+                "C. 'Welcome to Australia 2016'",
+                "D. 'Australian Stars Tour'"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_56": {
+            "id": "iOOseoPiw8E_56",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "穿着条纹针织衫的女人相对于画面在秃头男子的什么方向？",
+            "options": [
+                "A. 女人位于秃头男子的右边。",
+                "B. 女人位于秃头男子的左边。",
+                "C. 女人位于秃头男子的正后方。",
+                "D. 女人位于秃头男子的前面。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_57": {
+            "id": "iOOseoPiw8E_57",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "视频事件的背景是什么？",
+            "options": [
+                "A. 事件发生在一个灯光昏暗的剧院中。",
+                "B. 事件发生在一个公园的户外。",
+                "C. 事件设置在一个灯光明亮的教室里。",
+                "D. 事件发生在一个安静的艺术画廊中。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_58": {
+            "id": "iOOseoPiw8E_58",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "场景中央重点描述了多少个孩子？",
+            "options": [
+                "A. 一个孩子",
+                "B. 两个孩子",
+                "C. 三个孩子",
+                "D. 四个孩子"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_59": {
+            "id": "iOOseoPiw8E_59",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "视频中是否可以看到什么文字？",
+            "options": [
+                "A. 是，'Tickets Now On Sale!'",
+                "B. 否，视频中没有可见的文字。",
+                "C. 是，但文字仅提到活动时间。",
+                "D. 是，文字以小而模糊的字体显示，无法看清。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_60": {
+            "id": "iOOseoPiw8E_60",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "光头男人怀里的孩子是怎么动的？",
+            "options": [
+                "A. 孩子微微倾斜并垂着一只手。",
+                "B. 孩子举起双臂。",
+                "C. 孩子热情地为表演鼓掌。",
+                "D. 孩子把头向后仰。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_61": {
+            "id": "iOOseoPiw8E_61",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "那个拿着发光物体的前景中的孩子是否向某个方向移动？",
+            "options": [
+                "A. 是的，孩子向左倾斜。",
+                "B. 是的，孩子向右倾斜。",
+                "C. 不是，孩子在移动但没有向任何方向倾斜。",
+                "D. 发光物体并非是前景中的孩子拿着的。"
+            ],
+            "answer": "D"
+        },
+        "iOOseoPiw8E_62": {
+            "id": "iOOseoPiw8E_62",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "摄像机在画面中的焦点是什么？",
+            "options": [
+                "A. 一组与会者的亲密肖像。",
+                "B. 现场观众的全景视图。",
+                "C. 礼堂内部。",
+                "D. 主舞台。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_63": {
+            "id": "iOOseoPiw8E_63",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "壁炉位于哪里？",
+            "options": [
+                "A. 壁炉位于背景的中央。",
+                "B. 壁炉位于背景的最右边。",
+                "C. 壁炉位于背景顶部靠近圆形窗户的地方。",
+                "D. 壁炉位于背景的最左边。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_64": {
+            "id": "iOOseoPiw8E_64",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景中的墙的装饰是什么样的？",
+            "options": [
+                "A. 墙上装饰着装饰盘、餐具、木拱门等。",
+                "B. 墙上画有森林场景和神话生物的壁画。",
+                "C. 墙雕刻着复杂的皇家徽章和城堡图案。",
+                "D. 墙由简单的木头图案构成，装饰极简。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_65": {
+            "id": "iOOseoPiw8E_65",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "背景的最上部是什么样的？",
+            "options": [
+                "A. 上部为一个蓝色色调的背景图。",
+                "B. 上部装饰有中世纪的旗帜和盾牌。",
+                "C. 上部悬挂着草药和器具。",
+                "D. 上部展示了长满藤蔓的岩石纹理。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_66": {
+            "id": "iOOseoPiw8E_66",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "穿着亮粉色连衣裙的表演者在做什么？",
+            "options": [
+                "A. 表演者活泼地蹦跳。",
+                "B. 表演者安静地坐在背景中。",
+                "C. 表演者摆出戏剧性的姿势。",
+                "D. 表演者以幽默的动作向前倾。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_67": {
+            "id": "iOOseoPiw8E_67",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "背景中的架子上有什么元素？",
+            "options": [
+                "A. 架子上有书籍和卷轴。",
+                "B. 架子上有瓶子和盘子。",
+                "C. 架子上有锅和平底锅。",
+                "D. 架子上有篮子和花。"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_68": {
+            "id": "iOOseoPiw8E_68",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "场景中描述了多少位不同的表演者？",
+            "options": [
+                "A. 五位不同的表演者",
+                "B. 六位不同的表演者",
+                "C. 七位不同的表演者",
+                "D. 八位不同的表演者"
+            ],
+            "answer": "D"
+        },
+        "iOOseoPiw8E_69": {
+            "id": "iOOseoPiw8E_69",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "场景中是否有表演者戴着类似王冠的头饰？",
+            "options": [
+                "A. 是的，有一个表演者戴着类似王冠的头饰。",
+                "B. 不，没有任何表演者戴着类似王冠的头饰。",
+                "C. 是的，有三个表演者戴着类似王冠的头饰。",
+                "D. 是的，有两个表演者戴着类似王冠的头饰。"
+            ],
+            "answer": "D"
+        },
+        "iOOseoPiw8E_70": {
+            "id": "iOOseoPiw8E_70",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "身穿紫色和白色礼服的人物做了什么动作？",
+            "options": [
+                "A. 人物故意弯身小跑。",
+                "B. 人物摆出一个严肃而庄重的姿势。",
+                "C. 人物优雅地挥动了一只手。",
+                "D. 人物静静地坐在舞台后方。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_71": {
+            "id": "iOOseoPiw8E_71",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "画面最左边的人物在干什么？",
+            "options": [
+                "A. 从左向右移动",
+                "B. 转身向左移动",
+                "C. 向舞台后方移动",
+                "D. 站着不动，观察场景"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_72": {
+            "id": "iOOseoPiw8E_72",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "使用什么样的相机视角来捕捉舞台表演？",
+            "options": [
+                "A. 使用略微提高的中央视角。",
+                "B. 使用俯视鸟瞰视角。",
+                "C. 使用地面侧面视角。",
+                "D. 使用广角后方视角。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_73": {
+            "id": "iOOseoPiw8E_73",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "穿着橙色连衣裙的表演者动作是怎样的？",
+            "options": [
+                "A. 表演者的动作是动感活泼的。",
+                "B. 表演者保持静态站立姿势。",
+                "C. 表演者使用故意的缓慢动作。",
+                "D. 表演者静止坐着不动。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_74": {
+            "id": "iOOseoPiw8E_74",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "舞台地板的颜色是什么样的？",
+            "options": [
+                "A. 翠绿色",
+                "B. 深蓝色",
+                "C. 鲜红色",
+                "D. 深紫色"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_75": {
+            "id": "iOOseoPiw8E_75",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "公主Holly在宣传图中的位置在哪里？",
+            "options": [
+                "A. 公主Holly位于左边。",
+                "B. 公主Holly位于右边。",
+                "C. 公主Holly位于中间。",
+                "D. 宣传图中没有出现公主Holly。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_76": {
+            "id": "iOOseoPiw8E_76",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "在宣传图中，Ben的位置在哪里？",
+            "options": [
+                "A. Ben在左边。",
+                "B. Ben在中间。",
+                "C. Ben在右边。",
+                "D. Ben在Holly公主的上方。"
+            ],
+            "answer": "C"
+        },
+        "iOOseoPiw8E_77": {
+            "id": "iOOseoPiw8E_77",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "Ben & Holly’s Little Kingdom'的宣传材料中描绘了什么环境？",
+            "options": [
+                "A. 环境背景是宁静的蓝色。",
+                "B. 环境是黑暗而神秘的。",
+                "C. 环境是繁忙的城市景观。",
+                "D. 环境是沙漠景观。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_78": {
+            "id": "iOOseoPiw8E_78",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "在宣传画中，Holly公主是如何被描绘的？",
+            "options": [
+                "A. 霍利公主穿着粉色连衣裙，戴着金色王冠，头发是金色的。",
+                "B. 霍利公主穿着蓝色连衣裙，戴着银色王冠，头发是棕色的。",
+                "C. 霍利公主穿着黄色连衣裙，戴着金色头饰，头发是红色的。",
+                "D. 霍利公主穿着绿色连衣裙，戴着金色王冠，头发是金色的。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_79": {
+            "id": "iOOseoPiw8E_79",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "在宣传描绘中的节目标题中有哪些装饰细节？",
+            "options": [
+                "A. 第一个字母‘i’上的点被紫色花朵替代，第二个字母‘i’上方戴有一个金色皇冠。",
+                "B. 字母‘i’上的点被银色星星替代，字母‘y’上方戴有一个蓝色皇冠。",
+                "C. 字母‘i’上的点被绿色叶子替代，字母‘y’上方戴有一个银色皇冠。",
+                "D. 第一个字母‘i’上的点被黄色太阳替代，第二个字母‘i’上方戴有一个红色皇冠。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_80": {
+            "id": "iOOseoPiw8E_80",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "宣传图底部的标志名称是什么？",
+            "options": [
+                "A. ABD Ltd/Ent. One UK Ltd. 2008",
+                "B. Magic Leap",
+                "C. Animated Concepts",
+                "D. Stage Creation"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_81": {
+            "id": "iOOseoPiw8E_81",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "在宣传描述中是否有号召性用语？",
+            "options": [
+                "A. 'BOOK NOW'",
+                "B. 'Visit Us'",
+                "C. 'Join Today'",
+                "D. 'Sign Up'"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_82": {
+            "id": "iOOseoPiw8E_82",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "在宣传画中，Ben在做什么？",
+            "options": [
+                "A. Ben把一个黄色的号角放在嘴边。",
+                "B. Ben正在挥舞魔法棒。",
+                "C. Ben在抛接草莓和浆果。",
+                "D. Ben在背景中弹吉他。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_83": {
+            "id": "iOOseoPiw8E_83",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": " 'BOOK NOW'位于画面的什么位置？",
+            "options": [
+                "A. 'BOOK NOW'位于画面的左上角。",
+                "B. 'BOOK NOW'位于画面的右上角。",
+                "C. 'BOOK NOW'位于画面的左下角。",
+                "D. 'BOOK NOW'位于画面的右下角。"
+            ],
+            "answer": "B"
+        },
+        "iOOseoPiw8E_84": {
+            "id": "iOOseoPiw8E_84",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "穿橘红色连衣裙的角色与玩具般的瓢虫如何互动的？",
+            "options": [
+                "A. 她向前倾身与玩具般的瓢虫交流。",
+                "B. 她开始对玩具般的瓢虫唱歌。",
+                "C. 她挥动魔杖对玩具般的瓢虫施展魔法。",
+                "D. 她静止站在玩具般的瓢虫旁边。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_85": {
+            "id": "iOOseoPiw8E_85",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "当场景首次切换到观众时显示了什么？",
+            "options": [
+                "A. 这个场景展示了一个宽广视角的礼堂。",
+                "B. 这个场景展示了为下一个节目做准备的特写。",
+                "C. 这个场景展示了后台表演者准备登场的画面。",
+                "D. 这个场景展示了一段Ben和Holly在天空飞行的动画。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_86": {
+            "id": "iOOseoPiw8E_86",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "场景开始时的背景是什么样的？",
+            "options": [
+                "A. 背景呈现一个森林般场景。",
+                "B. 背景是一个繁华都市景观。",
+                "C. 背景展示一个宁静的海滩景象。",
+                "D. 背景是极简设计。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_87": {
+            "id": "iOOseoPiw8E_87",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "大红瓢虫在表演中扮演什么角色？",
+            "options": [
+                "A. 大红瓢虫作为一个中心道具，角色与之互动。",
+                "B. 大红瓢虫是一个背景装饰。",
+                "C. 大红瓢虫是由Ben·精灵使用的乐器。",
+                "D. 大红瓢虫是Holly公主在表演中穿戴的服装。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_88": {
+            "id": "iOOseoPiw8E_88",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "戏剧舞台布置中会出现哪些视觉变化？",
+            "options": [
+                "A. 舞台布置转变为一个中世纪厨房背景。",
+                "B. 舞台布置转变为现代城市景观。",
+                "C. 舞台布置转变为一个有美人鱼的水下场景。",
+                "D. 舞台布置转变为一个充满动物的森林。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_89": {
+            "id": "iOOseoPiw8E_89",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "切换到观众场景之后发生了什么？",
+            "options": [
+                "A. 场景转换为宣传文本，显示“Tickets Now On Sale!”。",
+                "B. 场景转到一片寂静的森林，Holly公主与精灵Ben手牵手行走。",
+                "C. 场景切换到一段展示魔法生物在空中飞行的动画片段。",
+                "D. 场景聚焦于技术工作人员在舞台上布置发光道具。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_90": {
+            "id": "iOOseoPiw8E_90",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "Ben & Holly’s Little Kingdom'的动画宣传片中有哪些元素？",
+            "options": [
+                "A. 有公主和精灵这样的角色。",
+                "B. 历史人物和纪录片风格的旁白。",
+                "C. 有抽象艺术、单色调。",
+                "D. 有未来科技、机器人角色。"
+            ],
+            "answer": "A"
+        },
+        "iOOseoPiw8E_91": {
+            "id": "iOOseoPiw8E_91",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "观众手持的发光物体在场景中有什么用？",
+            "options": [
+                "A. 发光物体用于聚焦主要角色。",
+                "B. 发光物体照亮了昏暗的礼堂，表达观众堆表演的喜爱。",
+                "C. 发光物体作为魔法道具发放，表明表演和观众互动的部分。",
+                "D. 发光物体设计用于模仿天空中的星星。"
+            ],
+            "answer": "B"
+        }
+    }
+}

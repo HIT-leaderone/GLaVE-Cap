@@ -1,0 +1,1745 @@
+{
+    "scene_hint": {
+        "0": "一位年轻体操运动员在通过队友辅助完成了表演，和队员一起鞠躬并举起双手。",
+        "1": "运动员们面向观众举起双臂、拍手，与观众互动。",
+        "2": "镜头聚焦，一位运动员抬起手臂。",
+        "3": "镜头切换到观众，他们正在拍手欢呼。",
+        "4": "镜头切换到运动员们，运动员们站立和趴在地板上。",
+        "5": "镜头拉近，其他运动员将趴在地上的运动员抬起。",
+        "6": "运动员们进行独特表演，完成之后举手示意。",
+        "7": "镜头拉近，运动员已经完成表演并离场。",
+        "8": "运动员们背向镜头走下垫子。",
+        "9": "镜头转向运动员正面，运动员们一个接一个走下垫子并挥手示意。"
+    },
+    "qa": {
+        "BrrDT_uYQsg_0": {
+            "id": "BrrDT_uYQsg_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频中展示的是什么类型的活动？",
+            "options": [
+                "A. 视频展示了一场室内体育馆内的音乐会。",
+                "B. 视频展示了一场2016年里约奥运会的体育赛事。",
+                "C. 视频展示了一场以文化传统为主题的戏剧表演。",
+                "D. 视频展示了一场以龙为主题的时装秀。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_1": {
+            "id": "BrrDT_uYQsg_1",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "运动员们穿着什么样的服装？",
+            "options": [
+                "A. 运动员穿着一套红黄相间的服装。",
+                "B. 运动员穿着一套蓝白相间的服装。",
+                "C. 运动员穿着一套绿色的服装。",
+                "D. 运动员穿着一套黑金相间的服装。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_2": {
+            "id": "BrrDT_uYQsg_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "运动员们的手臂上戴着什么饰品？",
+            "options": [
+                "A. 一个红色的臂章",
+                "B. 一个金色的手镯",
+                "C. 一个白色的腕带",
+                "D. 一个黑龙纹身"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_3": {
+            "id": "BrrDT_uYQsg_3",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "场景中有一共多少名运动员？",
+            "options": [
+                "A. 三名运动员",
+                "B. 四名运动员",
+                "C. 两名运动员",
+                "D. 五名运动员"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_4": {
+            "id": "BrrDT_uYQsg_4",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "背景中是否包含奥运会标志？",
+            "options": [
+                "A. 是的，背景中包含“Rio2016”的横幅和奥运五环标志。",
+                "B. 不，背景中只显示观众席和照明。",
+                "C. 是的，但只包含奥运五环标志，没有任何“Rio2016”的横幅。",
+                "D. 不，背景很简单，没有任何显著的标志。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_5": {
+            "id": "BrrDT_uYQsg_5",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "这一场景中使用了哪种类型的镜头拍摄？",
+            "options": [
+                "A. 使用了聚焦于运动员的平视镜头。",
+                "B. 使用了俯瞰整个竞技场的鸟瞰镜头。",
+                "C. 使用了专注于运动员面部表情的特写镜头。",
+                "D. 使用了展示观众和竞技场的广角镜头。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_6": {
+            "id": "BrrDT_uYQsg_6",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "从视频看，最左边运动员的初始姿态是什么？",
+            "options": [
+                "A. 最左边的运动员直立站着。",
+                "B. 最左边的运动员在跑步。",
+                "C. 最左边的运动员在坐着。",
+                "D. 最左边的运动员双臂交叉站立。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_7": {
+            "id": "BrrDT_uYQsg_7",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "从视频来看，最左边运动员的最终姿势是什么？",
+            "options": [
+                "A. 他双手放在身体两侧鞠躬。",
+                "B. 他流畅地举起了双手。",
+                "C. 他坐在地上休息。",
+                "D. 他明显向前弯腰鞠躬。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_8": {
+            "id": "BrrDT_uYQsg_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "背景中的哪些视觉元素能营造出活动的氛围？",
+            "options": [
+                "A. 绿色的横幅、奥运五环标志、满屏的观众和温暖的灯光都营造了氛围。",
+                "B. 运动员服装上充满活力的龙设计以及橙色和红色的配色方案都为氛围做出了贡献。",
+                "C. 体育场内稀稀拉拉的红色座位和表示房间的玻璃面板营造了氛围。",
+                "D. 运动员戴的白色腕带和从地面看的视角都营造了氛围。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_9": {
+            "id": "BrrDT_uYQsg_9",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "运动员表演场景的背景是什么？",
+            "options": [
+                "A. 场景发生在一个有阶梯式座位的体操馆，顶部有明亮的灯光，带有诸如“Rio2016”和奥运五环的标志。",
+                "B. 场景发生在一个灯光昏暗的小型体育馆，有当地学校的横幅，表明这是一次地区性的体育日活动。",
+                "C. 场景发生在一个带有野餐桌和家庭观众的公园，表明这是一次社区节日。",
+                "D. 场景发生在城市广场的街头表演中，有随意的路人和没有正式座位，表明这是一次公众聚会。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_10": {
+            "id": "BrrDT_uYQsg_10",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "在面对观众时，运动员们做了什么动作？",
+            "options": [
+                "A. 运动员将双臂举过头顶。",
+                "B. 运动员将双臂向外伸展。",
+                "C. 运动员抬起一只手臂，伸出另一只手臂向前。",
+                "D. 运动员保持双臂在身体两侧。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_11": {
+            "id": "BrrDT_uYQsg_11",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "从视频来看，最右侧的运动员在其他队员面向观众时做了什么？",
+            "options": [
+                "A. 运动员向左移动。",
+                "B. 运动员向右移动。",
+                "C. 运动员向后移动。",
+                "D. 运动员保持不动。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_12": {
+            "id": "BrrDT_uYQsg_12",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "右边的运动员在面对观众时做出了什么声音动作？",
+            "options": [
+                "A. 运动员拍手。",
+                "B. 运动员跺脚。",
+                "C. 运动员打响指。",
+                "D. 运动员大声喊叫。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_13": {
+            "id": "BrrDT_uYQsg_13",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "观众在演出期间是否表现出更高的参与度？",
+            "options": [
+                "A. 是的，观众举起手臂和积极鼓掌。",
+                "B. 不，观众保持被动且缺乏兴趣。",
+                "C. 是的，但只有少数观众在轻轻鼓掌。",
+                "D. 不，观众在演出期间开始离开场地。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_14": {
+            "id": "BrrDT_uYQsg_14",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "哪些元素强调了事件主题？",
+            "options": [
+                "A. 绿色横幅上的“Rio2016”和奥运五环",
+                "B. 运动员所穿的鲜艳的黄红色制服",
+                "C. 观众随着举起的手臂越来越多的参与",
+                "D. 竞技场的分层座位和明亮的头顶灯光"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_15": {
+            "id": "BrrDT_uYQsg_15",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "从视频来看，最左边的运动员的位置是什么？",
+            "options": [
+                "A. 最左边的运动员在视频中稍微偏向左边。",
+                "B. 最左边的运动员正好位于中心位置。",
+                "C. 最左边的运动员在视频中稍微偏向右边。",
+                "D. 最左边的运动员位于视频的最右端。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_16": {
+            "id": "BrrDT_uYQsg_16",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "活动在哪里举行？",
+            "options": [
+                "A. 活动在里约2016年奥运会体操馆举行。",
+                "B. 活动在里约的一个本地体育馆举行。",
+                "C. 活动在里约2016年奥运会游泳馆举行。",
+                "D. 活动在里约的一场街头游行中举行。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_17": {
+            "id": "BrrDT_uYQsg_17",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "体操馆内整体环境是怎样的？",
+            "options": [
+                "A. 环境活跃而动态，观众的活力和色彩斑斓的横幅增添了氛围。",
+                "B. 环境安静而低调，观众互动很少。",
+                "C. 环境混乱且无序，运动员难以步调一致。",
+                "D. 环境阴沉而忧郁，缺乏明显的能量和兴奋感。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_18": {
+            "id": "BrrDT_uYQsg_18",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "体操运动员们的服装中，哪一特点最为显眼？",
+            "options": [
+                "A. 鲜艳的黄红相间服装。",
+                "B. 鲜亮的蓝绿条纹。",
+                "C. 纯黑白相间的制服。",
+                "D. 红橙花纹的服装。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_19": {
+            "id": "BrrDT_uYQsg_19",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "从视频来看，最右边的运动员做了什么调整以与编排好的动作一致？",
+            "options": [
+                "A. 最右边的运动员双手高举过头，与中间运动员的庆祝姿势相呼应。",
+                "B. 最右边的运动员稍微向观众方向转身，同时保持团队的庆祝手势。",
+                "C. 最右边的运动员向前迈步靠近观众，使自己更加突出。",
+                "D. 最右边的运动员向后倾斜，以更好地与中间运动员的姿势对齐。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_20": {
+            "id": "BrrDT_uYQsg_20",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "摄像机镜头如何增强对运动员的表现？",
+            "options": [
+                "A. 镜头拉远以捕捉整个队伍的动作。",
+                "B. 镜头捕捉运动员靠近的动作。",
+                "C. 镜头聚焦于年轻体操运动员的背影。",
+                "D. 镜头移动到最右侧的运动员。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_21": {
+            "id": "BrrDT_uYQsg_21",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "表演背景中的哪些视觉元素为庆祝氛围的营造做出了贡献？",
+            "options": [
+                "A. 热情洋溢的人群挥舞着旗帜，横幅、电子显示屏，以及体操馆地板上装饰。",
+                "B. 背景中沉静的人群、朴素的横幅以及缺乏任何电子显示屏。",
+                "C. 灯光昏暗、装饰极少的体育馆以及观众互动稀少。",
+                "D. 安静的观众，没有任何横幅，体操馆地板朴素且未装饰。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_22": {
+            "id": "BrrDT_uYQsg_22",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "从团体体操表演转换到个人体操运动员，背景有什么变化？",
+            "options": [
+                "A. 背景保持一致，在两个镜头中都有大量观众和横幅。",
+                "B. 背景从有横幅和旗帜的大量观众变为只有少数观众坐在体操运动员后面。",
+                "C. 背景变成一个完全空荡荡的体育馆，没有观众或装饰。",
+                "D. 背景演变为只显示体操运动员的特写镜头，没有观众或图案可见。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_23": {
+            "id": "BrrDT_uYQsg_23",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频发生在什么地方？",
+            "options": [
+                "A. 视频发生在游泳池。",
+                "B. 视频发生在体操馆。",
+                "C. 视频发生在音乐厅。",
+                "D. 视频发生在篮球场。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_24": {
+            "id": "BrrDT_uYQsg_24",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频的整体环境是怎样的？",
+            "options": [
+                "A. 环境活跃且充满庆祝气氛，有观众、横幅和一个充满动态的表演区。",
+                "B. 环境平静而宁静，有一个空荡荡的健身房和柔和的音乐播放。",
+                "C. 环境混乱且杂乱无章，体操选手意外碰撞造成干扰。",
+                "D. 环境黑暗且神秘，有昏暗的灯光和背景中的一些观众。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_25": {
+            "id": "BrrDT_uYQsg_25",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "在特写镜头中，这名体操运动员穿着什么？",
+            "options": [
+                "A. 一套明亮的黄红色服装",
+                "B. 一套没有图案的纯白制服",
+                "C. 一套绿色和蓝色的服装",
+                "D. 一套黑金相间的衣服"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_26": {
+            "id": "BrrDT_uYQsg_26",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "特写镜头中，体操运动员保持着什么姿势？",
+            "options": [
+                "A. 体操运动员双臂水平展开，呈现出优雅的姿态。",
+                "B. 体操运动员身体前倾，上半身明显向下弯曲。",
+                "C. 体操运动员直立站着，双臂交叉放在胸前。",
+                "D. 体操运动员倒立，双腿垂直伸展。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_27": {
+            "id": "BrrDT_uYQsg_27",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "在特写镜头最后一帧中，体操选手转变成什么姿势？",
+            "options": [
+                "A. 站立，双臂水平伸展",
+                "B. 弯腰姿势，上半身明显向下倾斜",
+                "C. 跪在垫子上，双臂举起",
+                "D. 跳起，双腿分开，双手向上伸"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_28": {
+            "id": "BrrDT_uYQsg_28",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "在特写镜头中，观众构成发生了什么变化？",
+            "options": [
+                "A. 观众完全消失，留下一个空旷的背景。",
+                "B. 最终画面中出现了几位被遮挡的观众，增强了视觉吸引力和活力氛围。",
+                "C. 观众走近体操运动员，营造了一个亲密的环境。",
+                "D. 人群中的横幅和旗帜被纯色取代，降低了场景的活力。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_29": {
+            "id": "BrrDT_uYQsg_29",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "穿着白衣服和眼镜的深肤色女人在视频的什么位子？",
+            "options": [
+                "A. 她位于视频左下角。",
+                "B. 她位于视频中央。",
+                "C. 她位于视频左上角。",
+                "D. 她位于视频右下角。"
+            ],
+            "answer": "D"
+        },
+        "BrrDT_uYQsg_30": {
+            "id": "BrrDT_uYQsg_30",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "这个场景中可以看到观众吗？",
+            "options": [
+                "A. 是的，可以完整清晰看到观众。",
+                "B. 是的，可以模糊看到少部分观众。",
+                "C. 是的，只能远远看到模糊的人影。",
+                "D. 不，完全看不到任何观众。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_31": {
+            "id": "BrrDT_uYQsg_31",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "带着黑色帽子并鼓掌的人在视频的什么位子？",
+            "options": [
+                "A. 他位于视频左下角。",
+                "B. 他位于视频中央。",
+                "C. 他位于视频左上角。",
+                "D. 他位于视频右边。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_32": {
+            "id": "BrrDT_uYQsg_32",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "这群人的整体情绪如何？",
+            "options": [
+                "A. 这群人的情绪是庆祝和充满活力的。",
+                "B. 这群人的情绪是忧郁和压抑的。",
+                "C. 这群人的情绪是困惑和混乱的。",
+                "D. 这群人的情绪是无聊和不感兴趣的。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_33": {
+            "id": "BrrDT_uYQsg_33",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "画面中的阶梯上的小女孩穿着什么颜色的衣服？",
+            "options": [
+                "A. 是白色的。",
+                "B. 是蓝色的。",
+                "C. 是浅色的。",
+                "D. 是绿色的。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_34": {
+            "id": "BrrDT_uYQsg_34",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "在当前背景中，之前场景中看到的哪些物体现在还能看见？",
+            "options": [
+                "A. 先前背景中的红色座椅现在还能看见。",
+                "B. 先前背景中的“Rio2016”文字还能看见。",
+                "C. 先前背景中的绿色地板现在还能看见。",
+                "D. 先前背景中奥运五环的标志还能看见。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_35": {
+            "id": "BrrDT_uYQsg_35",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "观众是否在户外场所被展示？",
+            "options": [
+                "A. 是的，观众是在户外环境中被展示的。",
+                "B. 不是，观众是在一个游乐场附近被展示的。",
+                "C. 是的，观众是在后院花园中被展示的。",
+                "D. 不是，观众是在室内环境中被展示的。"
+            ],
+            "answer": "D"
+        },
+        "BrrDT_uYQsg_36": {
+            "id": "BrrDT_uYQsg_36",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "观众在这一场景中具体的表现是怎样的？",
+            "options": [
+                "A. 观众在对表演发出嘘声。",
+                "B. 观众在热情地鼓掌并表达他们的欣赏。",
+                "C. 观众在默默地观看表演。",
+                "D. 观众正在离开座位并朝出口方向走去。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_37": {
+            "id": "BrrDT_uYQsg_37",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "摄像机运动如何将焦点转移到观众身上？",
+            "options": [
+                "A. 摄像机拉近拍摄体操运动员。",
+                "B. 摄像机近拍摄部分观众。",
+                "C. 摄像机聚焦于红色座椅。",
+                "D. 摄像机仅突出金属栏杆。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_38": {
+            "id": "BrrDT_uYQsg_38",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "哪种类型的镜头用于强调观众的能量和情绪？",
+            "options": [
+                "A. 一个聚焦于单个观众的特写镜头。",
+                "B. 一个更紧凑的镜头，聚焦于观众。",
+                "C. 一个广角镜头，捕捉整个场馆。",
+                "D. 一个全景镜头，更强调场馆的建筑而非观众。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_39": {
+            "id": "BrrDT_uYQsg_39",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "当前画面相比于之前运动员们的镜头，重点是什么？",
+            "options": [
+                "A. 当前画面重点突出体操选手的表演。",
+                "B. 当前画面重点突出观众。",
+                "C. 当前画面重点突出体育场的建筑结构。",
+                "D. 当前画面重点突出灯光和装饰。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_40": {
+            "id": "BrrDT_uYQsg_40",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉特征突显了人群的热情？",
+            "options": [
+                "A. 观众穿着色彩鲜艳的衣服，突显了人群的热情。",
+                "B. 清晰地看到体操运动员的表演聚焦了人群的兴奋。",
+                "C. 场馆的昏暗灯光增强了观众中的平静氛围。",
+                "D. 观众们鼓掌喝彩。突显了人们的热情。"
+            ],
+            "answer": "D"
+        },
+        "BrrDT_uYQsg_41": {
+            "id": "BrrDT_uYQsg_41",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "哪些视觉特征突显了人群的庆祝情绪？",
+            "options": [
+                "A. 他们的鼓掌和活泼的手势突显了人群的庆祝情绪。",
+                "B. 红色的体育场座椅和安静的举止突显了人群的庆祝情绪。",
+                "C. 他们严肃的表情和柔和的灯光突显了人群的庆祝情绪。",
+                "D. 体操运动员的表演突显了人群的庆祝情绪。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_42": {
+            "id": "BrrDT_uYQsg_42",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "这一场景中较矮的体操运动员最初是如是什么姿势的？",
+            "options": [
+                "A. 体操运动员最初是跪着的。",
+                "B. 体操运动员最初是直立站着的。",
+                "C. 体操运动员最初是平躺在地板上的。",
+                "D. 体操运动员最初是盘腿坐着的。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_43": {
+            "id": "BrrDT_uYQsg_43",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "这一场景中较矮的体操运动员是如何转换动作的？",
+            "options": [
+                "A. 体操运动员转换到俯卧姿势。",
+                "B. 体操运动员转换到站立姿势。",
+                "C. 体操运动员转换到站姿。",
+                "D. 体操运动员转换到坐姿。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_44": {
+            "id": "BrrDT_uYQsg_44",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "这一场景中，较矮的体操运动员的起始姿势是什么？",
+            "options": [
+                "A. 体操运动员开始时跪着，头部向上倾斜。",
+                "B. 体操运动员开始站立，双臂举起。",
+                "C. 体操运动员开始时平躺在地面上，双臂在身体两侧。",
+                "D. 体操运动员开始时蹲着，双手放在地上。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_45": {
+            "id": "BrrDT_uYQsg_45",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "体操运动员在开始跪地后做什么？",
+            "options": [
+                "A. 他转到俯卧姿势，手臂伸展。",
+                "B. 他保持跪地姿势并举起双臂。",
+                "C. 他站起来开始跳舞。",
+                "D. 他坐下并拍手。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_46": {
+            "id": "BrrDT_uYQsg_46",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "俯卧体操运动员相对于其他站立的体操运动员的位置在哪里？",
+            "options": [
+                "A. 他在站立的体操运动员前面。",
+                "B. 他在站立的体操运动员后面。",
+                "C. 他在站立的体操运动员的左边。",
+                "D. 他在站立的体操运动员的右侧对角线位置。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_47": {
+            "id": "BrrDT_uYQsg_47",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "俯卧的体操运动员做了什么动作？",
+            "options": [
+                "A. 俯卧的体操运动员稍微向左移动。",
+                "B. 俯卧的体操运动员站起来并加入其他人。",
+                "C. 俯卧的体操运动员完成了一个后空翻。",
+                "D. 俯卧的体操运动员保持不动。"
+            ],
+            "answer": "D"
+        },
+        "BrrDT_uYQsg_48": {
+            "id": "BrrDT_uYQsg_48",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "哪种类型的镜头将表演者的常规与体育场的氛围融合在一起？",
+            "options": [
+                "A. 一个稳定的广角镜头",
+                "B. 一个特写的慢动作镜头",
+                "C. 一个快速的平移镜头",
+                "D. 一个缩放的高角度镜头"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_49": {
+            "id": "BrrDT_uYQsg_49",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "表演期间，观众如何变化？",
+            "options": [
+                "A. 变得更加生机勃勃和有活力。",
+                "B. 观众变得更加聚集。",
+                "C. 观众完全分散。",
+                "D. 观众基本没有变化。"
+            ],
+            "answer": "D"
+        },
+        "BrrDT_uYQsg_50": {
+            "id": "BrrDT_uYQsg_50",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "这些体操运动员在视频里做什么？",
+            "options": [
+                "A. 这些体操运动员正在进行同步表演。",
+                "B. 这些体操运动员正在练习个人节目。",
+                "C. 这些体操运动员正在摄像机外热身。",
+                "D. 这些体操运动员正在休息。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_51": {
+            "id": "BrrDT_uYQsg_51",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "在表演过程中，体操运动员们展示了哪一特质？",
+            "options": [
+                "A. 他们展示了团队合作和灵活性。",
+                "B. 他们展示了柔韧性和优雅。",
+                "C. 他们展示了平衡性和协调性。",
+                "D. 以上都是。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_52": {
+            "id": "BrrDT_uYQsg_52",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "体操运动员的裤子是什么样的？",
+            "options": [
+                "A. 体操运动员的裤子是红色的。",
+                "B. 体操运动员的裤子是黄色的。",
+                "C. 体操运动员的裤子是蓝色的。",
+                "D. 体操运动员的裤子是绿色的。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_53": {
+            "id": "BrrDT_uYQsg_53",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "体操演员的“人体”跳绳活动完成了几次循环？",
+            "options": [
+                "A. 一次。",
+                "B. 两次。",
+                "C. 三次。",
+                "D. 没有进行“人体”跳绳活动。"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_54": {
+            "id": "BrrDT_uYQsg_54",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "这一场景视频中是否显示了体操比赛的观众？",
+            "options": [
+                "A. 是的，视频展示了观众。",
+                "B. 不，视频中没有出现观众。",
+                "C. 观众在背景中被模糊处理。",
+                "D. 视频没有指明是否展示了观众。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_55": {
+            "id": "BrrDT_uYQsg_55",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "体操演员在跳绳表演结束之后进行了什么动作？",
+            "options": [
+                "A. 体操运动员将同伴抛向空中并接住了。",
+                "B. 体操运动员抬着伙伴向前跑。",
+                "C. 体操运动员将同伴托举到空中。",
+                "D. 体操运动员站在同伴肩上。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_56": {
+            "id": "BrrDT_uYQsg_56",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "体操演员首先完成了什么动作？",
+            "options": [
+                "A. 体操运动员围绕一个中心点旋转，同时逐渐升高或降低。",
+                "B. 体操运动员在摇动同伴的手和腿，进行类似跳绳的活动。",
+                "C. 体操运动员围成一个圈，手拉手旋转，同时有人从中间跳过或穿过。",
+                "D. 体操运动员站在同伴肩上。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_57": {
+            "id": "BrrDT_uYQsg_57",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "背景中的哪些视觉元素强化了视频作为奥运会场景的设置？",
+            "options": [
+                "A. 带有龙纹图案的鲜艳服饰和体操运动员的对称排列。",
+                "B. OMEGA 和 FIG 标志以及背景中部分的 'Rio2016' 字样。",
+                "C. 看台上观众挥舞奥运旗帜欢呼。",
+                "D. 体操运动员的精细动作和他们的同步表演。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_58": {
+            "id": "BrrDT_uYQsg_58",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "从运动员来看，体操运动员做向前倾斜倒立的动作前位于趴着运动员的什么位置？",
+            "options": [
+                "A. 在运动员的左侧。",
+                "B. 在运动员的后面。",
+                "C. 在运动员的右侧。",
+                "D. 在运动员的前面。"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_59": {
+            "id": "BrrDT_uYQsg_59",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "从运动员来看，在拉长姿势中中间的体操运动员位于趴着运动员的什么位置？",
+            "options": [
+                "A. 在运动员的左侧",
+                "B. 在运动员的右侧",
+                "C. 在运动员的后面",
+                "D. 在运动员的前面"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_60": {
+            "id": "BrrDT_uYQsg_60",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "体操运动员脚上穿什么？",
+            "options": [
+                "A. 红袜子",
+                "B. 光脚",
+                "C. 白袜子",
+                "D. 黑运动鞋"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_61": {
+            "id": "BrrDT_uYQsg_61",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "这一场景中，体操运动员们的服装是否发生改变？",
+            "options": [
+                "A. 是的，变为蓝色上衣配绿色裤子。",
+                "B. 是的，变为黑色上衣配白色裤子。",
+                "C. 不是，服装保持一致，未发生改变。",
+                "D. 是的，变为是紫色上衣配黄色裤子。"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_62": {
+            "id": "BrrDT_uYQsg_62",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "这一场景中，左右两侧的体操运动员正在做什么动作？",
+            "options": [
+                "A. 两位体操运动员正在进行中途动作，双臂同时抬起落下。",
+                "B. 两位体操运动员正在同步做后空翻，为动作表演增添了动感。",
+                "C. 两位体操运动员双手叉腰静立，提供了稳定的存在感。",
+                "D. 两位体操运动员俯卧在地，展示了她们的柔韧性。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_63": {
+            "id": "BrrDT_uYQsg_63",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "这一场景中，视频中使用了什么类型的摄像机拍摄？",
+            "options": [
+                "A. 特写镜头，聚焦于单个体操选手的面部和表情。",
+                "B. 稳定的广角镜头，保留表演者的身临其境的全景。",
+                "C. 快速移动镜头，从多个角度捕捉动态动作。",
+                "D. 从上方俯拍的高空镜头，展示表演队形的几何图案。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_64": {
+            "id": "BrrDT_uYQsg_64",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "这一场景中，这个镜头如何对演示做出贡献？",
+            "options": [
+                "A. 它突出了体操运动员和奥林匹克氛围。",
+                "B. 它主要关注观众，捕捉他们的反应。",
+                "C. 它只展示了体操运动员的特写镜头。",
+                "D. 它频繁切换角度，导致观看体验不连贯。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_65": {
+            "id": "BrrDT_uYQsg_65",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "在整套动作中，视频最左侧体操运动员在进行什么样的操作？",
+            "options": [
+                "A. 左侧体操运动员在空中翻转作为动作的一部分。",
+                "B. 左侧体操运动员握住中央体操运动员的手。",
+                "C. 左侧体操运动员在整个表演中操控红色丝带。",
+                "D. 左侧体操运动员保持水平劈叉姿势。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_66": {
+            "id": "BrrDT_uYQsg_66",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "在整个表演过程中，视频最右边的体操运动员在进行什么操作？",
+            "options": [
+                "A. 右边的体操运动员以一个戏剧性的水平姿势作为表演的中心点。",
+                "B. 右边的体操运动员抓住中央体操运动员的脚踝。",
+                "C. 右边的体操运动员挥动一条鲜红的丝带。",
+                "D. 右边的体操运动员作为主要编舞。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_67": {
+            "id": "BrrDT_uYQsg_67",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "体操表演动作在哪儿进行？",
+            "options": [
+                "A. 动作是在一个奶油色的体操垫上进行。",
+                "B. 动作是在一个蓝色的体操垫上进行。",
+                "C. 动作是在一个红色地毯上进行。",
+                "D. 动作是在一个木地板上进行。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_68": {
+            "id": "BrrDT_uYQsg_68",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "在体操运动员的表演中有哪些过渡动作？",
+            "options": [
+                "A. 表演随着运动员的过渡动作而演变，并包含空中翻转动作。",
+                "B. 表演保持静止，没有运动员或动作的变化。",
+                "C. 每个运动员独立表演，没有任何互动或过渡。",
+                "D. 运动员们转换到一个完全不同的表演，专注于个人地面练习。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_69": {
+            "id": "BrrDT_uYQsg_69",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "体操运动员的服装如何提升他们的外观？",
+            "options": [
+                "A. 他们的服装增强了他们的视觉统一性和专业性。",
+                "B. 他们的服装颜色过于鲜艳，图案杂乱无章。",
+                "C. 他们的服装使得很难区分体操运动员。",
+                "D. 他们的服装很普通，对表演没有帮助。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_70": {
+            "id": "BrrDT_uYQsg_70",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "在表演过程中，中间的体操运动员位置会发生改变吗？",
+            "options": [
+                "A. 是的，中间的体操运动员会在表演过程中被替换。",
+                "B. 不，中间的体操运动员在整个表演过程中保持不变。",
+                "C. 是的，但只在表演接近尾声时会改变。",
+                "D. 不，所有体操运动员都保持他们的初始位置。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_71": {
+            "id": "BrrDT_uYQsg_71",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "体操运动员在表演过程中在空中进行了什么姿势？",
+            "options": [
+                "A. 体操运动员在空中进行了翻转。",
+                "B. 体操运动员在空中进行了后空翻。",
+                "C. 体操运动员在空中进行了倒立。",
+                "D. 体操运动员在空中进行了翻筋斗。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_72": {
+            "id": "BrrDT_uYQsg_72",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素表明存在美国观众？",
+            "options": [
+                "A. 观众中的美国国旗表明有美国观众。",
+                "B. 体操运动员穿着红、白、蓝相间的制服。",
+                "C. 数字记分牌上显示着美国国旗。",
+                "D. 观众在用英语高呼口号。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_73": {
+            "id": "BrrDT_uYQsg_73",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "在表演转换过程中，原本中间的体操运动员执行什么动作？",
+            "options": [
+                "A. 中间的体操运动员被同伴抛向空中。",
+                "B. 中间的体操运动员在舞台上做一系列后空翻。",
+                "C. 中间的体操运动员保持不动，而其他人围绕他移动。",
+                "D. 中间的体操运动员在队友的肩膀上倒立。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_74": {
+            "id": "BrrDT_uYQsg_74",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "体操运动员在空中翻转后朝哪个方向移动？",
+            "options": [
+                "A. 位体操运动员朝下方移动。",
+                "B. 位体操运动员朝上方移动。",
+                "C. 位体操运动员朝侧面移动。",
+                "D. 位体操运动员朝螺旋方向移动。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_75": {
+            "id": "BrrDT_uYQsg_75",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "什么类型的摄像镜头能同时捕捉到运动员和观众？",
+            "options": [
+                "A. 仅专注于运动员表情的特写镜头。",
+                "B. 从中距离的视角拍摄。",
+                "C. 强调观众多于运动员的广角镜头。",
+                "D. 展示整个体育馆布局的俯拍镜头。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_76": {
+            "id": "BrrDT_uYQsg_76",
+            "scene": 6,
+            "dimension": "Speed",
+            "question": "在空中做体操的运动员在整个动作过程中速度是如何变化的？",
+            "options": [
+                "A. 整个过程中的速度逐渐减少。",
+                "B. 速度保持恒定，动作缓慢而受控。",
+                "C. 速度增加。",
+                "D. 速度不可预测地波动，时快时慢。"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_77": {
+            "id": "BrrDT_uYQsg_77",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "表演过程中背景是如何变化的？",
+            "options": [
+                "A. 背景从可以看到更多的观众。",
+                "B. 背景从单一的幕布过渡到充满活力的烟花展示。",
+                "C. 背景从黑暗的竞技场过渡到明亮的体育场。",
+                "D. 背景从分散的观众变为空空的竞技场。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_78": {
+            "id": "BrrDT_uYQsg_78",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "这一场景背景的过渡对氛围有什么影响？",
+            "options": [
+                "A. 过渡通过减少对表演的注意力使氛围变得沉闷。",
+                "B. 过渡增强了氛围的活力和能量。",
+                "C. 过渡将焦点完全转移到观众身上，掩盖了表演者。",
+                "D. 过渡创造了一种更正式且更压抑的环境。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_79": {
+            "id": "BrrDT_uYQsg_79",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "在整个表演过程中，哪些元素始终在视野中？",
+            "options": [
+                "A. 体操运动员的鲜艳服装和复杂动作。",
+                "B. 带有'Rio2016'和奥运五环横幅以及电子屏。",
+                "C. 多样化的观众群体及其色彩缤纷的服饰。",
+                "D. 抛光的体育馆地板和持续明亮的照明。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_80": {
+            "id": "BrrDT_uYQsg_80",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "从视频来看，较矮体操运动员相对于最右侧较高的体操运动员的位置在哪里？",
+            "options": [
+                "A. 较矮体操运动员位于最右侧较高体操运动员的左侧。",
+                "B. 较矮体操运动员位于最右侧较高体操运动员的后方。",
+                "C. 较矮体操运动员位于最右侧较高体操运动员的前方。",
+                "D. 较矮体操运动员位于最右侧较高体操运动员的右侧。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_81": {
+            "id": "BrrDT_uYQsg_81",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "在整个表演过后，体操运动员们集体做了什么动作？",
+            "options": [
+                "A. 体操运动员们双臂举过头顶。",
+                "B. 体操运动员们举起一只手臂同时向后退一步。",
+                "C. 体操运动员们做了一个后空翻，然后向观众鞠躬。",
+                "D. 体操运动员们将双臂举过头顶并向前迈出一步。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_82": {
+            "id": "BrrDT_uYQsg_82",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "体操馆的场地周围以什么颜色为主？",
+            "options": [
+                "A. 体操馆的场地周围以绿色为主。",
+                "B. 体操馆的场地周围以蓝色为主。",
+                "C. 体操馆的场地周围以红色为主。",
+                "D. 体操馆的场地周围以白色为主。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_83": {
+            "id": "BrrDT_uYQsg_83",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "观众对表演感兴趣吗？",
+            "options": [
+                "A. 是的",
+                "B. 不是",
+                "C. 只有一小部分观众感兴趣",
+                "D. 观众保持沉默"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_84": {
+            "id": "BrrDT_uYQsg_84",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "在表演过程中使用了哪种类型的摄影镜头？",
+            "options": [
+                "A. 使用广角镜头来捕捉体操选手的全景和观众的热情。",
+                "B. 特写镜头聚焦于个别体操选手的表演。",
+                "C. 俯视镜头从上方提供整个场馆的视角。",
+                "D. 使用变焦镜头突显表演者的面部表情。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_85": {
+            "id": "BrrDT_uYQsg_85",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "在表演过程中，背景观众发生了哪些变化？",
+            "options": [
+                "A. 新的观众区域进入视野，增添了新的热情。",
+                "B. 观众将注意力转向体操选手，并变得安静。",
+                "C. 观众在表演中途离开了竞技场。",
+                "D. 更多的裁判进入场地，分散了观众的注意力。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_86": {
+            "id": "BrrDT_uYQsg_86",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "从视频来看，在镜头变化后，体操运动员位于何处？",
+            "options": [
+                "A. 体操运动员挥手之后示意之后逐渐向舞台边缘走去。",
+                "B. 体操运动员完全离开了画面，不再可见。",
+                "C. 体操运动员仍然在中央前景，高高举起右臂。",
+                "D. 体操运动员位于最左侧，静止不动。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_87": {
+            "id": "BrrDT_uYQsg_87",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "镜头变化后，较矮体操运动员进行了什么动作？",
+            "options": [
+                "A. 体操运动员高高地举起了双臂。",
+                "B. 体操运动员完成了一个后空翻。",
+                "C. 体操运动员双臂向外伸展。",
+                "D. 体操运动员单膝下跪并举起一只手臂。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_88": {
+            "id": "BrrDT_uYQsg_88",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "这一场景的背景是否模糊？",
+            "options": [
+                "A. 是的，背景是模糊的。",
+                "B. 不是，背景是清晰和对焦的。",
+                "C. 是的，背景在模糊和清晰之间交替。",
+                "D. 不是，背景完全是黑的。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_89": {
+            "id": "BrrDT_uYQsg_89",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "这一场景中，采用了哪种镜头来突出服装的细节？",
+            "options": [
+                "A. 近景镜头用于突出服装的精致细节。",
+                "B. 广角镜头用于捕捉整个表演区域。",
+                "C. 航拍镜头用于提供服装的鸟瞰视角。",
+                "D. 追踪镜头用于跟随体操运动员的动作。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_90": {
+            "id": "BrrDT_uYQsg_90",
+            "scene": 6,
+            "dimension": "Speed",
+            "question": "在动作速度方面，如何描述这段体操表演？",
+            "options": [
+                "A. 体操表演是静态的，动作缓慢。",
+                "B. 体操表演充满活力，包含充满能量的动作。",
+                "C. 体操表演比较放松，动作较少。",
+                "D. 体操表演不协调，缺乏活力。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_91": {
+            "id": "BrrDT_uYQsg_91",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "体操选手在表演是会发生哪些位置变化？",
+            "options": [
+                "A. 体操选手在整个表演过程中保持静止。",
+                "B. 体操选手的位置动态变化，新体操选手占据中心位置。",
+                "C. 体操选手只向舞台左侧移动。",
+                "D. 体操选手的位置没有发生变化。"
+            ],
+            "answer": "D"
+        },
+        "BrrDT_uYQsg_92": {
+            "id": "BrrDT_uYQsg_92",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "体操运动员会在表演结束后有走动吗？",
+            "options": [
+                "A. 体操运动员会在表演结束后走出场地。",
+                "B. 体操运动员始终保持在同一个位置，未走动。",
+                "C. 体操运动员表演结束前走出场地。",
+                "D. 体操运动员完全在镜头外表演。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_93": {
+            "id": "BrrDT_uYQsg_93",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "当四名体操运动员从地垫中心走出去时，他们的位置在哪里？",
+            "options": [
+                "A. 在舞台周围，靠近观众座位区。",
+                "B. 在众多赛事工作人员旁边。",
+                "C. 当他们走向地垫中心区域时，可以从背后看到这些体操运动员。",
+                "D. 靠近比赛区域的保护垫。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_94": {
+            "id": "BrrDT_uYQsg_94",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "这一场景中，四名运动员在视频中是否一直完全可见？",
+            "options": [
+                "A. 不，四名运动员在视频中未全部可见。",
+                "B. 是的，四名运动员始终可见。",
+                "C. 不，视频中只有一名运动员可见。",
+                "D. 不，视频中未出现运动员。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_95": {
+            "id": "BrrDT_uYQsg_95",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "在场地背景中显眼展示的是什么标志？",
+            "options": [
+                "A. 奥运五环标志",
+                "B. FIFA 世界杯标志",
+                "C. NBA 标志",
+                "D. 温布尔登标志"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_96": {
+            "id": "BrrDT_uYQsg_96",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "有多少位体操运动员成正走出垫子的中心？",
+            "options": [
+                "A. 两位体操运动员",
+                "B. 三位体操运动员",
+                "C. 四位体操运动员",
+                "D. 五位体操运动员"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_97": {
+            "id": "BrrDT_uYQsg_97",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "场景中是否可以看到一位手持话筒的主持人？",
+            "options": [
+                "A. 是的，场景中可以看到。",
+                "B. 不，场景中没有看到任何人。",
+                "C. 是的，场景中可以看到一位拿着剪贴板的女人。",
+                "D. 不，仅能看到运动员和观众出现在场景中。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_98": {
+            "id": "BrrDT_uYQsg_98",
+            "scene": 8,
+            "dimension": "Camera Direction",
+            "question": "摄像师在这一场景中进行了什么动作？",
+            "options": [
+                "A. 摄像师与观众一起鼓掌为体操选手加油。",
+                "B. 摄像师携带专业肩扛摄像机，记录活动进程。",
+                "C. 摄像师与活动工作人员互动以协调时间表。",
+                "D. 摄像师闲站着，没有任何设备只是在观察场景。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_99": {
+            "id": "BrrDT_uYQsg_99",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "体操运动员背向镜头走出垫子时，他们朝哪个方向移动？",
+            "options": [
+                "A. 体操运动员正向前走，朝着垫子左上角前进。",
+                "B. 体操运动员正向后退，远离垫子区域。",
+                "C. 体操运动员正沿着垫子区域的周边侧向移动。",
+                "D. 体操运动员正站在垫子区域的边缘不动。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_100": {
+            "id": "BrrDT_uYQsg_100",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "哪种类型的镜头拍摄能够捕捉到体操运动员及场馆的整体构图？",
+            "options": [
+                "A. 特写镜头能够捕捉到体操运动员及场馆的整体构图。",
+                "B. 广角镜头能够捕捉到体操运动员及场馆的整体构图。",
+                "C. 中景镜头能够捕捉到体操运动员及场馆的整体构图。",
+                "D. 俯拍镜头能够捕捉到体操运动员及场馆的整体构图。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_101": {
+            "id": "BrrDT_uYQsg_101",
+            "scene": 8,
+            "dimension": "Speed",
+            "question": "体操运动员以什么速度向垫子区域的边缘移动？",
+            "options": [
+                "A. 体操运动员以疯狂的冲刺速度移动。",
+                "B. 体操运动员以缓慢而犹豫的速度移动。",
+                "C. 体操运动员以从容而稳定的速度移动。",
+                "D. 体操运动员从快速移动变为以悠闲轻松的步伐移动。"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_102": {
+            "id": "BrrDT_uYQsg_102",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "在运动员们离场时，场景在构图方面是如何过渡的？",
+            "options": [
+                "A. 场景从近距离的编排过渡到更广泛的构图。",
+                "B. 场景从广角镜头过渡到聚焦于单个体操运动员。",
+                "C. 场景从观众的视角过渡到裁判的特写镜头。",
+                "D. 场景从选手的表演过渡到健身房内部设计的静态镜头。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_103": {
+            "id": "BrrDT_uYQsg_103",
+            "scene": 9,
+            "dimension": "Object Direction",
+            "question": "从视频来看，体操运动员在场景结尾时向哪个方向移动？",
+            "options": [
+                "A. 体操运动员朝视频左侧移动。",
+                "B. 体操运动员朝视频中央移动。",
+                "C. 体操运动员均未移动。",
+                "D. 体操运动员朝画面右侧移动。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_104": {
+            "id": "BrrDT_uYQsg_104",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "场馆内的氛围如何？",
+            "options": [
+                "A. 场馆很安静，几乎空荡荡的，只有零星的观众散布在四周。",
+                "B. 活动气氛轻松随意，体操运动员悠闲地练习。",
+                "C. 座位上坐满了热情的观众，营造出充满活力和动感的氛围。",
+                "D. 气氛紧张且低沉，体操运动员静静地准备。"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_105": {
+            "id": "BrrDT_uYQsg_105",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "如何描述体操运动员离场的动作？",
+            "options": [
+                "A. 体操运动员的动作杂乱无章。",
+                "B. 体操运动员展现出刻意且同步的动作。",
+                "C. 体操运动员表现出混乱且紧张的动作。",
+                "D. 体操运动员展示出不稳定且不同步的动作。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_106": {
+            "id": "BrrDT_uYQsg_106",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "在体操地板四周上可以看到什么细节？",
+            "options": [
+                "A. 体操地板四周是绿色的，表面有白色文字和标志。",
+                "B. 体操地板四周是黄色的，表面有白色星形图案。",
+                "C. 体操地板四周是白色的，表面有运动器材的符号。",
+                "D. 体操地板四周是灰色的，表面有几何形状。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_107": {
+            "id": "BrrDT_uYQsg_107",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "场馆中可以看到哪些细节？",
+            "options": [
+                "A. 场馆装饰有展示队名的大型横幅。",
+                "B. 场馆内充满了热情洋溢的观众。",
+                "C. 场馆的墙上有许多广告牌。",
+                "D. 场馆装饰有不同国家旗帜和奥运五环。"
+            ],
+            "answer": "D"
+        },
+        "BrrDT_uYQsg_108": {
+            "id": "BrrDT_uYQsg_108",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "有多少体操运动员一起走出镜头？",
+            "options": [
+                "A. 三名体操运动员",
+                "B. 四名体操运动员",
+                "C. 五名体操运动员",
+                "D. 六名体操运动员"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_109": {
+            "id": "BrrDT_uYQsg_109",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "这一场景中除了体操运动员向前移动之外，还展示了其他活动吗？",
+            "options": [
+                "A. 是的，视频中有一个人在背景中进行双杠表演。",
+                "B. 不是的，视频只专注于体操运动员向前移动。",
+                "C. 是的，视频中有观众在背景中大声唱歌。",
+                "D. 不是的，视频中体操运动员在安静地准备。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_110": {
+            "id": "BrrDT_uYQsg_110",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "在整个视频的最后，第一个走出镜头的体操运动员在镜头前做了什么姿势？",
+            "options": [
+                "A. 该体操运动员做了向镜头挥手的动作。",
+                "B. 该体操运动员用双手比了一个心形。",
+                "C. 该体操运动员做了一个敬礼的动作。",
+                "D. 该体操运动员双臂张开。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_111": {
+            "id": "BrrDT_uYQsg_111",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "视频最后，镜头是如何变化的？",
+            "options": [
+                "A. 镜头切换到更近的画面，聚焦于体操运动员。",
+                "B. 镜头拉远以捕捉整个赛场，突出了国际旗帜和观众席。",
+                "C. 镜头固定在观众席上，展示人群的反应。",
+                "D. 镜头从低角度跟随体操运动员，以突出他们在场馆灯光下的动作。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_112": {
+            "id": "BrrDT_uYQsg_112",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "如何描述体操运动员走向镜头的移动？",
+            "options": [
+                "A. 体操运动员动作是有计划且同步的。",
+                "B. 体操运动员的动作是混乱和无序的。",
+                "C. 体操运动员的动作是随机和自发的。",
+                "D. 体操运动员的动作是犹豫和不确定的。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_113": {
+            "id": "BrrDT_uYQsg_113",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "视频中哪些视觉元素突出了活动的意义？",
+            "options": [
+                "A. 明亮的灯光、观众的热情参与以及体操演员们统一的服饰",
+                "B. 国际旗帜的出现、昏暗的灯光和低调的观众",
+                "C. 安静的观众、昏暗的体育馆灯光和素雅的体操服",
+                "D. 黑暗的阴影、关闭的座位区和单色的运动员服装"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_114": {
+            "id": "BrrDT_uYQsg_114",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "视频开始时，体操运动员最初采用了什么姿势？",
+            "options": [
+                "A. 体操运动员最初举起了单臂。",
+                "B. 体操运动员最初双臂向外伸展。",
+                "C. 体操运动员最初做了一个后空翻。",
+                "D. 体操运动员最初双臂在身体两侧。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_115": {
+            "id": "BrrDT_uYQsg_115",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "体操运动员们是如何庆祝的？",
+            "options": [
+                "A. 体操运动员表演了一个侧手翻。",
+                "B. 体操运动员戏剧性地举起了双手。",
+                "C. 体操运动员做了一个后空翻。",
+                "D. 体操运动员热情地鼓起掌来。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_116": {
+            "id": "BrrDT_uYQsg_116",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "镜头聚焦单个运动员时，这位体操运动员的情绪如何？",
+            "options": [
+                "A. 运动员的情绪是愉快、欣喜的。",
+                "B. 运动员的情绪是沮丧，悲痛的。",
+                "C. 运动员的情绪是愤怒、惊慌的。",
+                "D. 运动员的情绪是焦虑不安的。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_117": {
+            "id": "BrrDT_uYQsg_117",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "较矮体操运动员在表演开始时的姿势是什么？",
+            "options": [
+                "A. 体操运动员展示了一个俯卧的水平姿势。",
+                "B. 体操运动员完成了一个倒立。",
+                "C. 体操运动员做了一个胜利手势。",
+                "D. 体操运动员完成了一次后空翻。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_118": {
+            "id": "BrrDT_uYQsg_118",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在整套表演动作完成后，体操运动员的姿势是什么？",
+            "options": [
+                "A. 体操运动员过渡到直立姿势，双臂高举过头。",
+                "B. 体操运动员进行一个劈腿跳，一条腿向前伸展。",
+                "C. 体操运动员做一个侧手翻，保持与其他人的对齐。",
+                "D. 体操运动员采取一种蹲伏姿势，双手放在地板上。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_119": {
+            "id": "BrrDT_uYQsg_119",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在体操表演过程中，中间的较矮体操运动员扮演了什么角色？",
+            "options": [
+                "A. 中间的较矮体操运动员充当稳定，柔韧与平衡的角色，参与复杂特技表演。",
+                "B. 中间的较矮体操运动员负责引领完成最具戏剧性和复杂的特技动作。",
+                "C. 中间的较矮体操运动员通过口头提示来协调团队的动作。",
+                "D. 中间的较矮体操运动员保持静止，而其他人在他们周围进行动态动作。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_120": {
+            "id": "BrrDT_uYQsg_120",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "当镜头转向观众时，观众们在做什么？",
+            "options": [
+                "A. 观众们大多在拍手或录像，展示出愉快的笑容。",
+                "B. 观众们在座位上大声吼叫，表达不满。",
+                "C. 观众们以懒散的姿势坐在座位上，满不在乎。",
+                "D. 观众席背景镜头模糊，只能看见隐约人影。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_121": {
+            "id": "BrrDT_uYQsg_121",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "服装如何增强奥运会上团队的视觉统一性？",
+            "options": [
+                "A. 服装采用精美设计和鲜艳的色彩，增强了团队的视觉统一性。",
+                "B. 服装由简单的黄色上衣和红色裤子组成，使每位体操运动员融入背景。",
+                "C. 服装饰有国际旗帜，强调个人而非团队凝聚力。",
+                "D. 服装设计为低调和柔和的颜色，减少了对团队的视觉关注。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_122": {
+            "id": "BrrDT_uYQsg_122",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频中一共有多少体操运动员进行了倒立？",
+            "options": [
+                "A. 一个。",
+                "B. 两个。",
+                "C. 三个。",
+                "D. 四个。"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_123": {
+            "id": "BrrDT_uYQsg_123",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么生动的观众反应为体操表演增添了意义？",
+            "options": [
+                "A. 热情的观众反应放大了庆祝和国际化的氛围，提供了能量和参与感，使表演显得更加生动且受欢迎。",
+                "B. 观众的反应会分散体操运动员的注意力，挑战他们的专注力，使比赛更加不可预测。",
+                "C. 生动的观众反应会削弱对体操表演的关注，让活动更侧重于观众娱乐。",
+                "D. 观众的反应与表演无关，对其意义没有任何影响。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_124": {
+            "id": "BrrDT_uYQsg_124",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "较矮的体操运动员在表演结束后的动作是什么？",
+            "options": [
+                "A. 体操运动员将双臂向外伸展。",
+                "B. 体操运动员做一个后空翻。",
+                "C. 体操运动员以一个深深的鞠躬开始。",
+                "D. 体操运动员最初双臂交叉站立。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_125": {
+            "id": "BrrDT_uYQsg_125",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "表演开始前，其他体操运动员在较矮体操运动员伸展手臂之后，接下来的动作是什么？",
+            "options": [
+                "A. 体操运动员将手臂举过头顶，与团队的动作保持一致。",
+                "B. 体操运动员鞠躬，然后退后一步。",
+                "C. 体操运动员伸展手臂原地旋转。",
+                "D. 体操运动员在向前迈步的同时将手臂放下到休息位置。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_126": {
+            "id": "BrrDT_uYQsg_126",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "其他体操运动员在较矮体操运动员完成趴卧动作后进行了什么动作？",
+            "options": [
+                "A. 体操运动员们大步向前迈进，以强调视觉节奏。",
+                "B. 体操运动员们表演后空翻以展示自己的技巧。",
+                "C. 体操运动员们表演倒立以吸引观众的注意力。",
+                "D. 体操运动员们向观众挥手与他们互动。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_127": {
+            "id": "BrrDT_uYQsg_127",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "俯卧的体操运动员在表演过程中有发生人员转换吗？",
+            "options": [
+                "A. 俯卧的体操运动员略微向左移动退出，另一名体操运动员取而代之。",
+                "B. 俯卧的体操运动员向右翻筋斗退出，另一名体操运动员接替。",
+                "C. 俯卧的体操运动员被举起，没有人加入或推出。",
+                "D. 俯卧的体操运动员向右退出，另一名体操运动员进入空出的空间。"
+            ],
+            "answer": "C"
+        },
+        "BrrDT_uYQsg_128": {
+            "id": "BrrDT_uYQsg_128",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "镜头从观众区移动回表演区后，会出现什么场景？",
+            "options": [
+                "A. 镜头捕捉到四位体操运动员身着明亮服装正准备进行表演。",
+                "B. 镜头捕捉到一位观众热情地挥舞旗帜，而体操运动员在背景中等待。",
+                "C. 镜头聚焦于一位运动员在双杠上表演复杂的动作，同时观众爆发出热烈的欢呼声。",
+                "D. 镜头突出悬挂在天花板上的国际旗帜，并提供一个体育场的广角镜头，强调其宏伟之处。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_129": {
+            "id": "BrrDT_uYQsg_129",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么体操运动员在进行表演时使用对称的动作?",
+            "options": [
+                "A. 为了提高个人得分并超越其他队伍。",
+                "B. 对称的动作强调团结与同步性，展现团队合作和表演的精确性。",
+                "C. 用复杂的图案分散裁判和观众的注意力。",
+                "D. 对称的动作让体操运动员更容易记住他们的动作程序。"
+            ],
+            "answer": "B"
+        },
+        "BrrDT_uYQsg_130": {
+            "id": "BrrDT_uYQsg_130",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "整个视频中，观众是否一直在场景背景中出现？",
+            "options": [
+                "A. 是的，每个场景都有观众出现。",
+                "B. 不，只有部分场景有观众出现。",
+                "C. 不，所有场景都没有观众出现。",
+                "D. 以上都不对。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_131": {
+            "id": "BrrDT_uYQsg_131",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "色彩鲜艳的服装颜色如何唤起文化象征意义？",
+            "options": [
+                "A. 这些鲜艳的颜色丰富了表演的主题深度，反映了中国传统的主题元素。",
+                "B. 这些鲜艳的颜色纯粹作为一种视觉效果，并无任何文化象征意义。",
+                "C. 这些鲜艳的颜色象征着国际比赛的多样性。",
+                "D. 这些鲜艳的颜色旨在与背景融合，并避免将注意力吸引到表演者身上。"
+            ],
+            "answer": "A"
+        },
+        "BrrDT_uYQsg_132": {
+            "id": "BrrDT_uYQsg_132",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么体操运动员会在表演过程中向镜头方向靠近？",
+            "options": [
+                "A. 为了调整站姿面向观众或裁判，并在关键时刻展示自信。",
+                "B. 为了离开团队并展示个人的胜利。",
+                "C. 为了引导团队离开比赛场地并将注意力转移到其他地方。",
+                "D. 为了遮挡观众对其他体操运动员的视线。"
+            ],
+            "answer": "A"
+        }
+    }
+}

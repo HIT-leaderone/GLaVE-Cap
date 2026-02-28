@@ -1,0 +1,909 @@
+{
+    "scene_hint": {
+        "0": "Smoke and liquid dance in the scene.",
+        "1": "Smoke and liquid merge into a heart.",
+        "2": "A lung-shaped object appears.",
+        "3": "Lines move in a zigzag pattern in the image.",
+        "4": "Smoke and liquid collide to create an explosion.",
+        "5": "Text elements appear in the image."
+    },
+    "qa": {
+        "JbDRs0ja3PE_0": {
+            "id": "JbDRs0ja3PE_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where does the golden-brown structure appear from in the frame at the beginning of the scene?",
+            "options": [
+                "A. The upper right corner of the frame.",
+                "B. The lower right corner of the frame.",
+                "C. The lower left side of the frame.",
+                "D. The center of the frame."
+            ],
+            "answer": "C"
+        },
+        "JbDRs0ja3PE_1": {
+            "id": "JbDRs0ja3PE_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where does the smoke-like shape appear from the frame at the beginning of the scene?",
+            "options": [
+                "A. The smoke-like shape is located at the bottom left corner.",
+                "B. The smoke-like shape is located at the top right corner.",
+                "C. The smoke-like shape is located at the center of the frame.",
+                "D. The smoke-like shape is located at the top left corner."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_2": {
+            "id": "JbDRs0ja3PE_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the background of this scene like?",
+            "options": [
+                "A. The background is a piece of darkness.",
+                "B. A park at dusk.",
+                "C. A bright cityscape.",
+                "D. An outdoor night scene."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_3": {
+            "id": "JbDRs0ja3PE_3",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What are the physical characteristics of the golden-brown structure?",
+            "options": [
+                "A. It has a certain fluidity and transparency.",
+                "B. It is a sharp rectangular object.",
+                "C. It is a smooth circular object.",
+                "D. It has jagged edges and a dull surface."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_4": {
+            "id": "JbDRs0ja3PE_4",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many distinct and clearly visible elements are in the image?",
+            "options": [
+                "A. One distinct element",
+                "B. Two distinct elements",
+                "C. Three distinct elements",
+                "D. Four distinct elements"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_5": {
+            "id": "JbDRs0ja3PE_5",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is there text in the image?",
+            "options": [
+                "A. Yes, a URL is visible.",
+                "B. No, there is no text in the image.",
+                "C. Yes, a title is visible.",
+                "D. Yes, there is a watermark present."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_6": {
+            "id": "JbDRs0ja3PE_6",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What changes have occurred in the golden-brown structure?",
+            "options": [
+                "A. The golden-brown structure is constantly flowing.",
+                "B. The golden-brown structure is contracting.",
+                "C. The golden-brown structure is transforming into a smoky form.",
+                "D. The golden-brown structure remains stationary and unchanged."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_7": {
+            "id": "JbDRs0ja3PE_7",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "In which direction is the smoke-like object moving?",
+            "options": [
+                "A. The smoke-like object is moving to the left.",
+                "B. The smoke-like object is moving irregularly.",
+                "C. The smoke-like object is moving to the right.",
+                "D. The smoke-like object is moving to the upper right."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_8": {
+            "id": "JbDRs0ja3PE_8",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used in the scene?",
+            "options": [
+                "A. Medium shot.",
+                "B. Wide-angle shot.",
+                "C. Panoramic shot.",
+                "D. Overhead shot."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_9": {
+            "id": "JbDRs0ja3PE_9",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Are there any characters in the scene?",
+            "options": [
+                "A. Yes, there are several characters in the scene.",
+                "B. No, there are no characters in the scene.",
+                "C. There is a character interacting with liquid.",
+                "D. There is a shadow of a character in the background."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_10": {
+            "id": "JbDRs0ja3PE_10",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What change did the liquid undergo in the scene?",
+            "options": [
+                "A. Retained its golden-orange color.",
+                "B. Lost its luster.",
+                "C. Turned silver-gray.",
+                "D. Became completely transparent."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_11": {
+            "id": "JbDRs0ja3PE_11",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Does the smoke or mist in the scene completely disappear at any point?",
+            "options": [
+                "A. Yes, it completely disappears and then reappears.",
+                "B. No, the smoke or mist is present throughout the entire scene.",
+                "C. Yes, it completely disappears and does not reappear.",
+                "D. No, there is no smoke or mist appearing in the scene."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_12": {
+            "id": "JbDRs0ja3PE_12",
+            "scene": 0,
+            "dimension": "Camera Direction",
+            "question": "Will the camera angle change in the scene?",
+            "options": [
+                "A. Yes, the camera angle changes multiple times.",
+                "B. No, the camera angle remains unchanged.",
+                "C. Yes, the camera gradually zooms out.",
+                "D. Yes, the perspective changes to a bird's-eye view."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_13": {
+            "id": "JbDRs0ja3PE_13",
+            "scene": 0,
+            "dimension": "Speed",
+            "question": "What is the speed of a liquid in motion?",
+            "options": [
+                "A. It is fast and swift.",
+                "B. It is sometimes slow and sometimes fast.",
+                "C. It is slow and sluggish.",
+                "D. It is completely stationary."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_14": {
+            "id": "JbDRs0ja3PE_14",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many slice scenes are there in this scenario?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "C"
+        },
+        "JbDRs0ja3PE_15": {
+            "id": "JbDRs0ja3PE_15",
+            "scene": 0,
+            "dimension": "Speed",
+            "question": "What is the speed of the smoke element during its movement?",
+            "options": [
+                "A. It is fast and swift.",
+                "B. It is sometimes slow and sometimes fast.",
+                "C. It is slow and sluggish.",
+                "D. It is completely stationary."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_16": {
+            "id": "JbDRs0ja3PE_16",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What does the liquid look like when it follows the edge of the smoke?",
+            "options": [
+                "A. It is elongated.",
+                "B. It is a solid block.",
+                "C. It is a vapor cloud.",
+                "D. It is a green mist."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_17": {
+            "id": "JbDRs0ja3PE_17",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What happens to the liquid at the end of this scene?",
+            "options": [
+                "A. The liquid turns into a mist.",
+                "B. The liquid solidifies into a golden structure.",
+                "C. The liquid disappears, and a fire element appears.",
+                "D. No significant change occurs."
+            ],
+            "answer": "D"
+        },
+        "JbDRs0ja3PE_18": {
+            "id": "JbDRs0ja3PE_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene?",
+            "options": [
+                "A. It is a green forest.",
+                "B. It is a pure black background.",
+                "C. It is a cityscape.",
+                "D. It is a blue sky."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_19": {
+            "id": "JbDRs0ja3PE_19",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What is the base color of the liquid surface in the scene?",
+            "options": [
+                "A. Dark brown-black",
+                "B. Fiery red",
+                "C. Translucent white",
+                "D. Emerald green"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_20": {
+            "id": "JbDRs0ja3PE_20",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What are the highlights on the surface of the liquid in the scene like?",
+            "options": [
+                "A. They are glowing orange highlights.",
+                "B. They are bright blue highlights.",
+                "C. They are glowing green highlights.",
+                "D. They are sparkling silver highlights."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_21": {
+            "id": "JbDRs0ja3PE_21",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What does the liquid look like right after it starts to merge?",
+            "options": [
+                "A. Heart.",
+                "B. Glass plate.",
+                "C. Metal mirror.",
+                "D. Flowing water."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_22": {
+            "id": "JbDRs0ja3PE_22",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is there any human element in the scene?",
+            "options": [
+                "A. Yes, there is a stationary person in the scene.",
+                "B. No, the scene does not contain any human elements.",
+                "C. Yes, there is a moving person in the scene.",
+                "D. The scene only contains a pair of human hands."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_23": {
+            "id": "JbDRs0ja3PE_23",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "After the liquid smoke merges, what is the camera's perspective?",
+            "options": [
+                "A. The camera switches to a close-up view.",
+                "B. The camera perspective moves upward.",
+                "C. The camera switches to a wide-angle view.",
+                "D. The camera perspective tilts downward."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_24": {
+            "id": "JbDRs0ja3PE_24",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What is the motion state of the liquid and smoke after fusion?",
+            "options": [
+                "A. Violent motion.",
+                "B. Gentle motion.",
+                "C. Regular motion.",
+                "D. Remain stationary."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_25": {
+            "id": "JbDRs0ja3PE_25",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What kind of change is presented in the scene?",
+            "options": [
+                "A. A heart-shaped object explodes.",
+                "B. Transition from ocean waves to glacial terrain.",
+                "C. Transition from a canvas to a forest.",
+                "D. Transition from a night sky to an urban landscape."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_26": {
+            "id": "JbDRs0ja3PE_26",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What is the arrangement of lung-shaped fusions in the composition?",
+            "options": [
+                "A. Symmetrically arranged on both sides of the center of the composition.",
+                "B. Located in the lower left corner of the composition.",
+                "C. Randomly scattered throughout various positions in the composition.",
+                "D. Concentrated above the center of the composition."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_27": {
+            "id": "JbDRs0ja3PE_27",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the scene like?",
+            "options": [
+                "A. It is a black background.",
+                "B. It is a gold background.",
+                "C. It is a red background.",
+                "D. It is a white background."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_28": {
+            "id": "JbDRs0ja3PE_28",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the scene?",
+            "options": [
+                "A. The lung-like object gradually deflated.",
+                "B. The black background turned into a starry night sky.",
+                "C. The glowing trees transformed into a lung shape.",
+                "D. The swirling smoke turned into the shape of a dragon."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_29": {
+            "id": "JbDRs0ja3PE_29",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What does smoke symbolize in the final transformation?",
+            "options": [
+                "A. Smoke symbolizes motion or exhalation.",
+                "B. Smoke symbolizes burning or burnout.",
+                "C. Smoke symbolizes decay and decomposition.",
+                "D. Smoke symbolizes the process of cooling or freezing."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_30": {
+            "id": "JbDRs0ja3PE_30",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "After transforming into the lungs, where does the smoke move?",
+            "options": [
+                "A. The smoke moves upward.",
+                "B. The smoke moves horizontally.",
+                "C. The smoke moves into the lungs.",
+                "D. The smoke rotates in a circular motion."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_31": {
+            "id": "JbDRs0ja3PE_31",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the visual environment of the scene?",
+            "options": [
+                "A. The scene takes place in a bright and colorful environment.",
+                "B. The scene takes place against a black background.",
+                "C. The scene is set in a gray environment.",
+                "D. The scene showcases a natural landscape."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_32": {
+            "id": "JbDRs0ja3PE_32",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "Does the scene describe people's behavior?",
+            "options": [
+                "A. Yes, it describes the behavior of three people.",
+                "B. No, the video does not describe people's behavior.",
+                "C. Yes, it describes a person running.",
+                "D. Yes, there is a person standing still in the frame."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_33": {
+            "id": "JbDRs0ja3PE_33",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What colors are highlighted in the lung-like structure?",
+            "options": [
+                "A. Bright orange, yellow.",
+                "B. Blue, green, and purple.",
+                "C. Pink, gray, and white.",
+                "D. Silver, gold, and bronze."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_34": {
+            "id": "JbDRs0ja3PE_34",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What patterns are highlighted in the smoke within lung-like structures?",
+            "options": [
+                "A. A reticular pattern resembling veins or bronchi.",
+                "B. No visible patterns.",
+                "C. Geometric patterns with sharp angles and straight lines.",
+                "D. Swirling patterns resembling ocean waves."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_35": {
+            "id": "JbDRs0ja3PE_35",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the image at the beginning of the scene?",
+            "options": [
+                "A. A curve similar to an electrocardiogram.",
+                "B. A structure similar to a lung.",
+                "C. A stationary horizontal line.",
+                "D. A structure similar to a heart."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_36": {
+            "id": "JbDRs0ja3PE_36",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Does the scene contain any text?",
+            "options": [
+                "A. Yes, it always contains text.",
+                "B. No, there is no text.",
+                "C. Only visible at the beginning of the scene.",
+                "D. Text is intermittently visible."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_37": {
+            "id": "JbDRs0ja3PE_37",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "In the scene, how do the lines move overall?",
+            "options": [
+                "A. They fluctuate up and down while moving to the right.",
+                "B. They fluctuate up and down while moving to the left.",
+                "C. They fluctuate left and right while moving upward.",
+                "D. They fluctuate left and right while moving downward."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_38": {
+            "id": "JbDRs0ja3PE_38",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in the scene?",
+            "options": [
+                "A. A frontal horizontal angle is used.",
+                "B. A close-up angle is used.",
+                "C. A bird's-eye view angle is used.",
+                "D. A side view angle is used."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_39": {
+            "id": "JbDRs0ja3PE_39",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "How does the smoke behave in the scene?",
+            "options": [
+                "A. The smoke forms complex patterns.",
+                "B. The smoke moves along with the lines.",
+                "C. The smoke rises vertically.",
+                "D. The smoke disperses into a cloud."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_40": {
+            "id": "JbDRs0ja3PE_40",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "How does the color of the line change when the waveform changes?",
+            "options": [
+                "A. It becomes more intense and vibrant.",
+                "B. There is no overall change in color.",
+                "C. It shifts to cooler tones.",
+                "D. The color completely disappears."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_41": {
+            "id": "JbDRs0ja3PE_41",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "At the beginning of the scene, in which direction does the orange liquid move?",
+            "options": [
+                "A. The orange liquid moves to the left.",
+                "B. The orange liquid moves to the right.",
+                "C. The orange liquid moves vertically.",
+                "D. The orange liquid moves towards the top."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_42": {
+            "id": "JbDRs0ja3PE_42",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene?",
+            "options": [
+                "A. It is a dark background.",
+                "B. It is a colorful sky.",
+                "C. It is a towering mountain.",
+                "D. It is a metallic reflective surface."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_43": {
+            "id": "JbDRs0ja3PE_43",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What is the surface of the line in the scene like?",
+            "options": [
+                "A. Smooth.",
+                "B. Spiral.",
+                "C. Rough.",
+                "D. Dotted."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_44": {
+            "id": "JbDRs0ja3PE_44",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "Does the smoke plume maintain the same shape throughout the scene?",
+            "options": [
+                "A. Yes, and the color of the smoke plume has not changed.",
+                "B. No, the smoke plume has turned into a cloud-like shape.",
+                "C. Yes, but the color of the smoke plume has changed.",
+                "D. No, the smoke plume has completely dissipated."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_45": {
+            "id": "JbDRs0ja3PE_45",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "In the scene, how do the lines move overall?",
+            "options": [
+                "A. Vertical movement.",
+                "B. Horizontal movement.",
+                "C. Diagonal movement.",
+                "D. Circular movement."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_46": {
+            "id": "JbDRs0ja3PE_46",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What camera angle is used in the scene?",
+            "options": [
+                "A. Wide-angle lens perspective.",
+                "B. Front horizontal perspective.",
+                "C. Upward looking down perspective.",
+                "D. Close-up lens perspective."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_47": {
+            "id": "JbDRs0ja3PE_47",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What is the state of motion of the lines before the explosion?",
+            "options": [
+                "A. The motion is smooth and flexible.",
+                "B. The motion alternates between moving and stopping.",
+                "C. The motion is completely still and unmoving.",
+                "D. The motion is constantly accelerating and sudden."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_48": {
+            "id": "JbDRs0ja3PE_48",
+            "scene": 4,
+            "dimension": "Speed",
+            "question": "How does motion change in an explosion scene?",
+            "options": [
+                "A. Motion in an explosion scene slows down and becomes smooth.",
+                "B. Motion in an explosion scene becomes rapid and forceful.",
+                "C. Motion in an explosion scene remains consistent.",
+                "D. The explosion scene is obscured by a flash of explosive white light."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_49": {
+            "id": "JbDRs0ja3PE_49",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred to the smoke in the scene before the explosion?",
+            "options": [
+                "A. The smoke separated from the liquid and became a denser column.",
+                "B. The smoke became lighter and formed geometric shapes.",
+                "C. The smoke presented a flame-like wave pattern.",
+                "D. The smoke completely dissipated and disappeared."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_50": {
+            "id": "JbDRs0ja3PE_50",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "How does the smoke change during the explosion?",
+            "options": [
+                "A. The smoke turns into a spherical gas mass with branches.",
+                "B. The smoke becomes a horizontal flow.",
+                "C. The smoke presents a rotating pattern.",
+                "D. The smoke transforms into inward radiating concentric circles."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_51": {
+            "id": "JbDRs0ja3PE_51",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "What is the position of the smoke relative to the text at the beginning of the scene?",
+            "options": [
+                "A. The smoke envelops the text, revealing part of it.",
+                "B. The smoke and text are separated at the top and bottom of the frame.",
+                "C. The smoke is behind the text as a background.",
+                "D. There is no smoke in the scene at all."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_52": {
+            "id": "JbDRs0ja3PE_52",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Where is the text located in the scene?",
+            "options": [
+                "A. The text is located in the center of the image.",
+                "B. The text is located in the upper left corner of the image.",
+                "C. The text is located at the bottom of the image.",
+                "D. The text is randomly distributed on the screen."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_53": {
+            "id": "JbDRs0ja3PE_53",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the scene?",
+            "options": [
+                "A. In a forest.",
+                "B. Against a black background.",
+                "C. Against a city skyline.",
+                "D. Transitioning from a classroom to a laboratory."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_54": {
+            "id": "JbDRs0ja3PE_54",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Are there any real people in the scene?",
+            "options": [
+                "A. Yes, there are several real people in the scene.",
+                "B. No, there are no real people in the scene.",
+                "C. Yes, there is one real person in the scene.",
+                "D. No, but there are animated characters in the scene."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_55": {
+            "id": "JbDRs0ja3PE_55",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is in the scene?",
+            "options": [
+                "A. Smoke and droplet-like particles.",
+                "B. Blue sky, white clouds, and star-shaped particles.",
+                "C. Light rain, leaf-shaped particles.",
+                "D. Sunshine, flame-shaped particles."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_56": {
+            "id": "JbDRs0ja3PE_56",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What signs are in the scene?",
+            "options": [
+                "A. CDC logo with an eagle design.",
+                "B. NASA logo with a rocket design.",
+                "C. WHO logo with a globe design.",
+                "D. EPA logo with a tree design."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_57": {
+            "id": "JbDRs0ja3PE_57",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many lines of text elements are there in the scene?",
+            "options": [
+                "A. One line",
+                "B. Two lines",
+                "C. Three lines",
+                "D. Four lines"
+            ],
+            "answer": "C"
+        },
+        "JbDRs0ja3PE_58": {
+            "id": "JbDRs0ja3PE_58",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Is there any specific phrase emphasized in the text?",
+            "options": [
+                "A. Yes, the phrase 'THE RISKS' is emphasized in bold uppercase letters.",
+                "B. No, the text does not emphasize any specific phrase.",
+                "C. Yes, 'Learn more about THE RISKS of mixing drugs' is emphasized with an underline.",
+                "D. Yes, the entire text is emphasized in italics."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_59": {
+            "id": "JbDRs0ja3PE_59",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "As the scene progresses, what changes will occur to the smoke in the image?",
+            "options": [
+                "A. The smoke gradually dissipates.",
+                "B. The smoke becomes denser and more chaotic.",
+                "C. The smoke turns bright orange.",
+                "D. The smoke forms distinct shapes and symbols."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_60": {
+            "id": "JbDRs0ja3PE_60",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "In the initial screen, in which direction does the smoke spread?",
+            "options": [
+                "A. The smoke spreads upward in a straight line.",
+                "B. The smoke spreads outward in a radial pattern.",
+                "C. The smoke spreads to the left in a spiral pattern.",
+                "D. The smoke spreads downward in a zigzag pattern."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_61": {
+            "id": "JbDRs0ja3PE_61",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used in the scene?",
+            "options": [
+                "A. A static panoramic shot.",
+                "B. A dynamic close-up shot.",
+                "C. A wide-angle moving shot.",
+                "D. A rapid zoom shot."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_62": {
+            "id": "JbDRs0ja3PE_62",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "How do the particles move in the scene?",
+            "options": [
+                "A. Gentle and smooth.",
+                "B. Fast and chaotic.",
+                "C. Completely still.",
+                "D. Sometimes fast, sometimes slow."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_63": {
+            "id": "JbDRs0ja3PE_63",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "How does the text in the scene change?",
+            "options": [
+                "A. The text becomes smaller and less noticeable.",
+                "B. The text remains centered and unchanged.",
+                "C. The color of the text has changed.",
+                "D. The text completely disappears when switching."
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_64": {
+            "id": "JbDRs0ja3PE_64",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is the initial state of the liquid in the scene?",
+            "options": [
+                "A. In a state of expansive flow.",
+                "B. A still metallic pool.",
+                "C. In the form of small droplets.",
+                "D. In the form of icicles."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_65": {
+            "id": "JbDRs0ja3PE_65",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What happens to the smoke after the explosion occurs in the scene?",
+            "options": [
+                "A. The smoke disperses in all directions.",
+                "B. The smoke condenses into a solid shape.",
+                "C. The smoke changes color and becomes denser.",
+                "D. The smoke completely dissipates."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_66": {
+            "id": "JbDRs0ja3PE_66",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the final promotional image of the scene like?",
+            "options": [
+                "A. Uses static text with a black background.",
+                "B. Scrolls the lyrics of the promotional song.",
+                "C. Uses a white background and static text.",
+                "D. Animated characters interact with the scene."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_67": {
+            "id": "JbDRs0ja3PE_67",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "After introducing a structure similar to the lungs, what does the scene transition to?",
+            "options": [
+                "A. Transitions to a line moving like an electrocardiogram.",
+                "B. Transitions to a static black screen.",
+                "C. Transitions to a glowing sphere.",
+                "D. Transitions to a rotating vortex of light."
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_68": {
+            "id": "JbDRs0ja3PE_68",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "When are text elements introduced in the video?",
+            "options": [
+                "A. Introduced after some of the smoke and clouds dissipate.",
+                "B. Appears at the very beginning of the video.",
+                "C. Introduced simultaneously with the formation of particles.",
+                "D. Introduced after the particles completely fill the screen."
+            ],
+            "answer": "A"
+        }
+    }
+}

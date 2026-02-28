@@ -1,0 +1,1196 @@
+{
+    "scene_hint": {
+        "0": "一个简洁的开场界面。",
+        "1": "勺子出现在画面中并被剪断。",
+        "2": "给勺子喷上涂料。",
+        "3": "勺瓣被贴在纸板上。",
+        "4": "在成品中间放上蜡烛。",
+        "5": "展示最终成品。",
+        "6": "画面中出现宣传界面。"
+    },
+    "qa": {
+        "FlcVBKTSjRs_0": {
+            "id": "FlcVBKTSjRs_0",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "场景中文字位于背景的什么位置？",
+            "options": [
+                "A. 文字位于背景的左侧。",
+                "B. 文字位于背景的右侧。",
+                "C. 文字位于背景的中间。",
+                "D. 文字位于背景的底部。"
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_1": {
+            "id": "FlcVBKTSjRs_1",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "画面中的元素看上去是什么样子的？",
+            "options": [
+                "A. 简约而醒目。",
+                "B. 杂乱无章的。",
+                "C. 有彩色的字体。",
+                "D. 完全单色的。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_2": {
+            "id": "FlcVBKTSjRs_2",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "场景中 'ventuno' 文本旁的几何图案是什么样的？",
+            "options": [
+                "A. 一个由色块组成的圆形图标。",
+                "B. 一个带有条纹的方形图标。",
+                "C. 一个带有紫色和橙色阴影的三角形图标。",
+                "D. 一个带有粉色和灰色渐变的矩形图标。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_3": {
+            "id": "FlcVBKTSjRs_3",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "图像中的光线是否不均匀？",
+            "options": [
+                "A. 是的，光线不均匀且刺眼。",
+                "B. 不，光线均匀而柔和。",
+                "C. 是的，光线昏暗且不清晰。",
+                "D. 不，光线均匀但不自然。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_4": {
+            "id": "FlcVBKTSjRs_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "单词“ART”是如何展现的？",
+            "options": [
+                "A. 单词“ART”使用加粗的手写黑色字体。",
+                "B. 单词“ART”以小写并斜体书写。",
+                "C. 单词“ART”使用彩色的手写体。",
+                "D. 单词“ART”以小尺寸印刷。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_5": {
+            "id": "FlcVBKTSjRs_5",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "多彩的圆形几何标志相对‘ART’这个词出现在哪里？",
+            "options": [
+                "A. 圆形标志出现在‘ART’这个词的上方。",
+                "B. 圆形标志出现在‘ART’这个词的右边。",
+                "C. 圆形标志出现在‘ART’这个词的下方。",
+                "D. 圆形标志出现在‘ART’这个词的左边。"
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_6": {
+            "id": "FlcVBKTSjRs_6",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "场景中使用的是哪种相机视角？",
+            "options": [
+                "A. 相机视角是倾斜和偏斜的。",
+                "B. 相机视角是正面的视角。",
+                "C. 相机视角是从上方俯视。",
+                "D. 相机视角是从下方仰视。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_7": {
+            "id": "FlcVBKTSjRs_7",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "文本设计中字体大小的是什么样的？",
+            "options": [
+                "A. 从“ART”到“all the way”到“Powered by ventuno”逐渐减小。",
+                "B. 所有的文本组件的字体大小都是一致的。",
+                "C. 从“ART”到“all the way”到“Powered by ventuno”逐渐增大。",
+                "D.“Powered by ventuno”比“ART”大，但比“all the way”小。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_8": {
+            "id": "FlcVBKTSjRs_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "什么使“Powered by”与“ventuno”区分开来？",
+            "options": [
+                "A. 他们写在两行，并且字体和字号并不相同。",
+                "B. 这与其上方的“ART”一词对齐。",
+                "C. 没有伴随任何区分的标志。",
+                "D. 阴影效果使其从其他元素中脱颖而出。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_9": {
+            "id": "FlcVBKTSjRs_9",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "在最终画面中，勺子的空间排列方向是怎样的？",
+            "options": [
+                "A. 勺子竖直排列。",
+                "B. 勺子水平排列。",
+                "C. 勺子叠放在一起",
+                "D. 勺子随机散落表面上。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_10": {
+            "id": "FlcVBKTSjRs_10",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这个场景的整体设置是什么？",
+            "options": [
+                "A. 场景展示了一个木制北京的构图。",
+                "B. 场景设定在一个厨房。",
+                "C. 场景描绘了一个市场摊位。",
+                "D. 场景展示了一条街道。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_11": {
+            "id": "FlcVBKTSjRs_11",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这个场景有着什么样的环境？",
+            "options": [
+                "A. 场景整洁且有序。",
+                "B. 场景混乱和杂乱。",
+                "C. 场景充满活力和色彩。",
+                "D. 场景偏向黑暗和低沉。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_12": {
+            "id": "FlcVBKTSjRs_12",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "背景的质地是什么样的？",
+            "options": [
+                "A. 背景有轻微老化和风化的质地。",
+                "B. 背景光滑有光泽。",
+                "C. 背景粗糙不平且有深裂缝。",
+                "D. 背景具有金属和抛光的外观。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_13": {
+            "id": "FlcVBKTSjRs_13",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "在场景中有多少个碗是可见的？",
+            "options": [
+                "A. 三个碗",
+                "B. 五个碗",
+                "C. 没有碗。",
+                "D. 七个碗"
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_14": {
+            "id": "FlcVBKTSjRs_14",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "“PLASTIC SPOONS”是否在整个场景都是可见的？",
+            "options": [
+                "A. 是的，“PLASTIC SPOONS”一直可见。",
+                "B. 不，“PLASTIC SPOONS”只在开始时可见。",
+                "C. “PLASTIC SPOONS”只有部分可见。",
+                "D. “PLASTIC SPOONS”从未出现在场景中。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_15": {
+            "id": "FlcVBKTSjRs_15",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在整个场景中，勺子的排列发生了什么变化？",
+            "options": [
+                "A. 勺子开始到结束时都是水平排列的。",
+                "B. 勺子从水平排列，改为垂直排列。",
+                "C. 勺子被摊开形成一个圆形图案。",
+                "D. 勺子从随机排列，改为对角线排列。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_16": {
+            "id": "FlcVBKTSjRs_16",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "在最终排列中，勺子的截口朝向哪一方向？",
+            "options": [
+                "A. 勺子的截口朝上。",
+                "B. 勺子的截口朝侧面。",
+                "C. 勺子的截口朝下。",
+                "D. 勺子的截口倾斜。"
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_17": {
+            "id": "FlcVBKTSjRs_17",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "在这个场景中使用了哪种类型的摄像机角度？",
+            "options": [
+                "A. 使用了侧角视角。",
+                "B. 使用了俯视视角。",
+                "C. 使用了特写视角。",
+                "D. 使用了广角视角。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_18": {
+            "id": "FlcVBKTSjRs_18",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在场景最初和最终画面之间删除了哪些文字？",
+            "options": [
+                "A. 删除了 'PLASTIC SPOONS'。",
+                "B. 删除了 'METAL SPOONS'。",
+                "C. 删除了 'WOODEN SPOONS'。",
+                "D. 删除了 'SILVER SPOONS'。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_19": {
+            "id": "FlcVBKTSjRs_19",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在整个场景中，哪个标志始终可见？",
+            "options": [
+                "A. 'Spoonify' 标志。",
+                "B. 一个彩色圆形标志。",
+                "C. 一个黑色三角标志。",
+                "D. 'Textura' 标志。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_20": {
+            "id": "FlcVBKTSjRs_20",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "汤匙头是如何排列的？",
+            "options": [
+                "A. 汤匙头斜着排列。",
+                "B. 汤匙头纵向排列。",
+                "C. 汤匙头横向排列。",
+                "D. 汤匙头按圆形排列。"
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_21": {
+            "id": "FlcVBKTSjRs_21",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "勺头所处的环境是什么样的？",
+            "options": [
+                "A. 木质表面。",
+                "B. 大理石表面。",
+                "C. 玻璃表面。",
+                "D. 塑料表面。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_22": {
+            "id": "FlcVBKTSjRs_22",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "喷漆结束后，手在此之后发生了什么？",
+            "options": [
+                "A. 手在喷漆后不再出现在画面中。",
+                "B. 手在喷漆后消失，并重新出现了。",
+                "C. 手将勺子放在另一个勺子旁。",
+                "D. 手拿着金属勺子并展示。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_23": {
+            "id": "FlcVBKTSjRs_23",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "勺头是什么形状的？",
+            "options": [
+                "A. 勺头是椭圆形的。",
+                "B. 勺头是圆形的。",
+                "C. 勺头是方形的。",
+                "D. 勺头是三角形的。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_24": {
+            "id": "FlcVBKTSjRs_24",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "勺子手柄的状态是怎样的？",
+            "options": [
+                "A. 手柄被裁出了画框。",
+                "B. 手柄在画面边缘部分可见。",
+                "C. 手柄与勺子交织在一起。",
+                "D. 手柄显示在画框正中间。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_25": {
+            "id": "FlcVBKTSjRs_25",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "场景中有多少个金色勺头？",
+            "options": [
+                "A. 两个金色勺头",
+                "B. 三个金色勺头",
+                "C. 四个金色勺头",
+                "D. 五个金色勺头"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_26": {
+            "id": "FlcVBKTSjRs_26",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "彩色圆形标志位于画面的哪个位置？",
+            "options": [
+                "A. 标志位于画面的左上角。",
+                "B. 标志位于画面的右下角。",
+                "C. 标志位于画面的中央。",
+                "D. 标志位于画面的右上角。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_27": {
+            "id": "FlcVBKTSjRs_27",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "场景发生了什么变化？",
+            "options": [
+                "A. 场景从白色汤匙头互动转变为金色汤匙头排列。",
+                "B. 场景从“ventuno”标志转变为排列汤匙。",
+                "C. 场景从汤匙手柄转变为多色标志。",
+                "D. 场景从手与金属汤匙互动转变为塑料汤匙。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_28": {
+            "id": "FlcVBKTSjRs_28",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "勺子头的碗状部分朝哪个方向？",
+            "options": [
+                "A. 勺子头的碗状部分是朝上的。",
+                "B. 勺子头的碗状部分是朝下的。",
+                "C. 勺子头的碗状部分是朝左的。",
+                "D. 勺子头的碗状部分是朝右的。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_29": {
+            "id": "FlcVBKTSjRs_29",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "摄像机的角度是什么样的？",
+            "options": [
+                "A. 角度是一个特写侧视角。",
+                "B. 角度是一个俯视角。",
+                "C. 角度是一个倾斜视角。",
+                "D. 角度是一个低角度镜头。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_30": {
+            "id": "FlcVBKTSjRs_30",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景中可见的是哪个标志?",
+            "options": [
+                "A. 多色圆形的标志",
+                "B. 单色三角的标志",
+                "C. 金色方形的标志",
+                "D. 蓝白相间的标志"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_31": {
+            "id": "FlcVBKTSjRs_31",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景中的照明怎么样？",
+            "options": [
+                "A. 光线明亮。",
+                "B. 光线较暗。",
+                "C. 场景黑暗。",
+                "D. 光线刺眼。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_32": {
+            "id": "FlcVBKTSjRs_32",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "手对中间勺头执行了什么动作？",
+            "options": [
+                "A. 手抓住并抬起中间的勺头。",
+                "B. 手同时旋转所有三个勺头。",
+                "C. 手没有与中间的勺头互动。",
+                "D. 手将中间的勺头移动到表面边缘。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_33": {
+            "id": "FlcVBKTSjRs_33",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "场景中中央勺头的外观是什么样的？",
+            "options": [
+                "A. 中央勺头是金色。",
+                "B. 中央勺头是银色。",
+                "C. 中央勺头是黑色。",
+                "D. 中央勺头是蓝色。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_34": {
+            "id": "FlcVBKTSjRs_34",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "场景中左右两个勺头是什么外观？",
+            "options": [
+                "A. 银色外观。",
+                "B. 青铜色外观。",
+                "C. 金色外观。",
+                "D. 黑色外观。"
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_35": {
+            "id": "FlcVBKTSjRs_35",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "场景中有多少个勺头？",
+            "options": [
+                "A. 有两个勺头。",
+                "B. 有三个勺头。",
+                "C. 有四个勺头。",
+                "D. 只有一个勺头。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_36": {
+            "id": "FlcVBKTSjRs_36",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "相机角度在场景中的作用或影响？",
+            "options": [
+                "A. 它提供了一个全面的视角。",
+                "B. 它只专注于多彩的圆形标志。",
+                "C. 它创造了一个狭窄的视角。",
+                "D. 它遮挡了手部的动作。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_37": {
+            "id": "FlcVBKTSjRs_37",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "在场景中，哪个视觉元素保持一致？",
+            "options": [
+                "A. 多彩圆形标志始保持一致。",
+                "B. 中央勺头的位置保持不变。",
+                "C. 手在整个场景中保持不动。",
+                "D. 表面没有沟槽或油漆剥落。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_38": {
+            "id": "FlcVBKTSjRs_38",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "勺头装在圆形物体的什么位置？",
+            "options": [
+                "A. 按圆形附着在圆形物体上。",
+                "B. 附着在圆形物体的中心。",
+                "C. 放置在圆形物体的下边缘。",
+                "D. 随机分布在圆形物体的周围。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_39": {
+            "id": "FlcVBKTSjRs_39",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "整体环境的外观是怎样的？",
+            "options": [
+                "A. 以木质背景为特点。",
+                "B. 以金属背景为特点。",
+                "C. 以混凝土背景为特点。",
+                "D. 以多彩背景为特点。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_40": {
+            "id": "FlcVBKTSjRs_40",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "谁负责工艺制作过程？",
+            "options": [
+                "A. 专业艺术家",
+                "B. 一群孩子",
+                "C. 未明确说明",
+                "D. 熟练的工匠"
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_41": {
+            "id": "FlcVBKTSjRs_41",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "勺子的表面是怎样的？",
+            "options": [
+                "A. 勺子表面光滑。",
+                "B. 勺子表面粗糙。",
+                "C. 勺子表面有纹理。",
+                "D. 勺子表面有文字。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_42": {
+            "id": "FlcVBKTSjRs_42",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "勺子是什么颜色的？",
+            "options": [
+                "A. 金色光泽",
+                "B. 银色光泽",
+                "C. 深铜色光泽",
+                "D. 黑色光泽"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_43": {
+            "id": "FlcVBKTSjRs_43",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "内层排列中使用了多少勺子？",
+            "options": [
+                "A. 三把勺子",
+                "B. 四把勺子",
+                "C. 五把勺子",
+                "D. 六把勺子"
+            ],
+            "answer": "D"
+        },
+        "FlcVBKTSjRs_44": {
+            "id": "FlcVBKTSjRs_44",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "勺子的凹面在排列中是朝下的吗？",
+            "options": [
+                "A. 是的，勺子的凹面是朝下的。",
+                "B. 不是，勺子的凹面是朝上的。",
+                "C. 不是，勺子的凹面是朝右侧的。",
+                "D. 不是，勺子的凹面是朝左侧的。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_45": {
+            "id": "FlcVBKTSjRs_45",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景中的画面所强调的是什么？",
+            "options": [
+                "A. 强调了组件的排列。",
+                "B. 强调了背景的纹理。",
+                "C. 强调了底座和勺子之间的对比。",
+                "D. 强调了角落的标志。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_46": {
+            "id": "FlcVBKTSjRs_46",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "整个场景中，摄像机的视角是怎样的？",
+            "options": [
+                "A. 摄像机保持特写的俯视视角。",
+                "B. 摄像机在侧视和顶视之间切换。",
+                "C. 摄像机使用广角镜头从远处拍摄。",
+                "D. 摄像机从低角度跟随一个移动的主体。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_47": {
+            "id": "FlcVBKTSjRs_47",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "场景中的初始构造是什么？",
+            "options": [
+                "A. 一个简单的圆形底座。",
+                "B. 一个圆圈，上面有五把勺子。",
+                "C. 一个蓝色三角形底座。",
+                "D. 一个有裂纹和剥落油漆的标志。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_48": {
+            "id": "FlcVBKTSjRs_48",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景中的最终构图是什么？",
+            "options": [
+                "A. 一个对称设计，由勺头排列成花瓣的形状。",
+                "B. 一个简单的圆形，上面有两个金属部件。",
+                "C. 由勺和随机物品散落在一个圆形底座上。",
+                "D. 一把勺子指向内侧，放置在一个木质背景上。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_49": {
+            "id": "FlcVBKTSjRs_49",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景右下角未发生变化的视觉元素是什么？",
+            "options": [
+                "A. 圆形基座",
+                "B. 金属组件",
+                "C. 圆形标志",
+                "D. 木质背景"
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_50": {
+            "id": "FlcVBKTSjRs_50",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景的背景是什么？",
+            "options": [
+                "A. 背景是一个木质表面。",
+                "B. 背景是一个光滑的表面。",
+                "C. 背景是一块鲜红色的布料。",
+                "D. 背景是一个大理石台面。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_51": {
+            "id": "FlcVBKTSjRs_51",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "排列在最外面一圈的勺子有多少个？",
+            "options": [
+                "A. 五个",
+                "B. 八个",
+                "C. 十个",
+                "D. 十二个"
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_52": {
+            "id": "FlcVBKTSjRs_52",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "在整个场景中，圆盘会保持在中心吗？",
+            "options": [
+                "A. 是的，保持在中心。",
+                "B. 不，移到了边上。",
+                "C. 是的，但后来消失了。",
+                "D. 不，场景中没有圆盘。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_53": {
+            "id": "FlcVBKTSjRs_53",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "彩色圆形标志相对于类似花朵的装饰件的位置在哪里？",
+            "options": [
+                "A. 彩色圆形标志位于其左上角。",
+                "B. 彩色圆形标志位于其右下角。",
+                "C. 彩色圆形标志位于其正上方。",
+                "D. 彩色圆形标志位于其中心。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_54": {
+            "id": "FlcVBKTSjRs_54",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "装饰性的花朵状排列的中心部分是什么？",
+            "options": [
+                "A. 中心部分是圆盘露出的一部分。",
+                "B. 中心部分是蓝色的圆形标志。",
+                "C. 中心部分是金属的银色的勺子。",
+                "D. 中心部分是红色的粘贴圆片。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_55": {
+            "id": "FlcVBKTSjRs_55",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景中是否有包含文字的元素？",
+            "options": [
+                "A. 是的，是一个品牌名称。",
+                "B. 不，没有包含任何文字。",
+                "C. 是的，是一段标语。",
+                "D. 是的，是一个网址。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_56": {
+            "id": "FlcVBKTSjRs_56",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "在制作过程中，右手采取了什么行动？",
+            "options": [
+                "A. 固定稳固圆盘的位置。",
+                "B. 使用热熔胶枪添加粘合剂。",
+                "C. 移除一个花瓣形勺子。",
+                "D. 将粘合剂抚平到位。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_57": {
+            "id": "FlcVBKTSjRs_57",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "第一次使用热熔胶枪时，枪嘴指向哪个方向？",
+            "options": [
+                "A. 枪嘴指向装饰布置的顶部。",
+                "B. 枪嘴指向装饰布置的中心。",
+                "C. 枪嘴远离装饰布置的位置。",
+                "D. 枪嘴指向装饰布置的底部。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_58": {
+            "id": "FlcVBKTSjRs_58",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景中的环境照明是怎样的？",
+            "options": [
+                "A. 明亮且均匀。",
+                "B. 昏暗且不均匀。",
+                "C. 明亮且不均匀。",
+                "D. 昏暗且均匀。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_59": {
+            "id": "FlcVBKTSjRs_59",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景发生在哪里？",
+            "options": [
+                "A. 场景发生在一个木质表面。",
+                "B. 场景发生在一个大理石桌面。",
+                "C. 场景发生在一个编织布背景上。",
+                "D. 场景发生在一个砖墙上。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_60": {
+            "id": "FlcVBKTSjRs_60",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "花朵状装饰品的主要特征是什么？",
+            "options": [
+                "A. 有两层同心的银色勺。",
+                "B. 有两层同心的金色勺。",
+                "C. 有三层同心的青铜色勺。",
+                "D. 有三层同心的金色勺。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_61": {
+            "id": "FlcVBKTSjRs_61",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "框架的右下角出现了什么视觉元素？",
+            "options": [
+                "A. 一个圆形标志",
+                "B. 一个棋盘格图案",
+                "C. 一支红玫瑰",
+                "D. 一个银色时钟"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_62": {
+            "id": "FlcVBKTSjRs_62",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "使用什么类型的摄影镜头来捕捉装饰品？",
+            "options": [
+                "A. 摄影机使用俯视视角。",
+                "B. 摄影机使用近景视角。",
+                "C. 摄影机使用侧角视角。",
+                "D. 摄影机使用广角视角。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_63": {
+            "id": "FlcVBKTSjRs_63",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "中心蜡烛对装饰品有何影响？",
+            "options": [
+                "A. 突出了勺子的反光质感。",
+                "B. 投下的阴影模糊了勺子。",
+                "C. 与勺子的金色调形成对比。",
+                "D. 使得装饰品处于黑暗中。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_64": {
+            "id": "FlcVBKTSjRs_64",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "装饰件的花瓣层之间存在什么空间关系？",
+            "options": [
+                "A. 花瓣状勺子随意散落。",
+                "B. 有两层同心的花瓣层。",
+                "C. 形成一个单一的平面层。",
+                "D. 有三层同心的花瓣层。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_65": {
+            "id": "FlcVBKTSjRs_65",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "场景中的文字'SPOON CANDLE HOLDER'位于什么位置？",
+            "options": [
+                "A. 文字'SPOON CANDLE HOLDER'位于画面的右上角。",
+                "B. 文字'SPOON CANDLE HOLDER'位于画面的左下角。",
+                "C. 文字'SPOON CANDLE HOLDER'位于画面的中央。",
+                "D. 文字'SPOON CANDLE HOLDER'位于画面的右下角。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_66": {
+            "id": "FlcVBKTSjRs_66",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景中装饰物的背景表面是什么？",
+            "options": [
+                "A. 背景表面是一个木质表面。",
+                "B. 背景表面是一个玻璃表面。",
+                "C. 背景表面是一个大理石台面。",
+                "D. 背景表面是一个瓷砖地面。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_67": {
+            "id": "FlcVBKTSjRs_67",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "花朵状装饰件中的花瓣是什么颜色的？",
+            "options": [
+                "A. 金铜色。",
+                "B. 银色。",
+                "C. 红色。",
+                "D. 青铜色。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_68": {
+            "id": "FlcVBKTSjRs_68",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "花朵形状的装饰品中心是什么？",
+            "options": [
+                "A. 它中心是一个LED灯。",
+                "B. 它中心是一个蜡烛。",
+                "C. 它中心是一株小植物。",
+                "D. 它中心是一个玻璃装饰品。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_69": {
+            "id": "FlcVBKTSjRs_69",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "花朵状的装饰品花瓣是如何排列的？",
+            "options": [
+                "A. 花瓣呈螺旋状排列。",
+                "B. 花瓣并排排列。",
+                "C. 花瓣呈层叠状排列。",
+                "D. 花瓣随机排列。"
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_70": {
+            "id": "FlcVBKTSjRs_70",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "场景后期能看到多少个烛台？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_71": {
+            "id": "FlcVBKTSjRs_71",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "彩色标志在场景转换时会发生什么？",
+            "options": [
+                "A. 没有任何变化。",
+                "B. 变得更加清晰。",
+                "C. 完全消失。",
+                "D. 变成灰色的。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_72": {
+            "id": "FlcVBKTSjRs_72",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "彩色圆形标志在初始画面的哪个位置？",
+            "options": [
+                "A. 彩色圆形标志位于左上角。",
+                "B. 彩色圆形标志位于左下角。",
+                "C. 彩色圆形标志位于右上角。",
+                "D. 彩色圆形标志位于右下角。"
+            ],
+            "answer": "D"
+        },
+        "FlcVBKTSjRs_73": {
+            "id": "FlcVBKTSjRs_73",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "在场景开始时描绘了什么？",
+            "options": [
+                "A. 一个莲花状烛台。",
+                "B. 一个纯白背景。",
+                "C. 一个宣传传单。",
+                "D. 一个社交媒体图标。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_74": {
+            "id": "FlcVBKTSjRs_74",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "场景中是否提到有人类的存在或行为？",
+            "options": [
+                "A. 是的，人类积极地与物体互动。",
+                "B. 是的，人类可见但未进行任何行为。",
+                "C. 不，没有提到人类的存在或行为。",
+                "D. 不，场景是一片空白，什么都没有。"
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_75": {
+            "id": "FlcVBKTSjRs_75",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "初始画面中右边的烛台看起来是什么样的？",
+            "options": [
+                "A. 右边的烛台有金铜色的花瓣。",
+                "B. 右边的烛台由闪亮的银材制成。",
+                "C. 右边的烛台表面是哑光黑色。",
+                "D. 右边的烛台完全透明。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_76": {
+            "id": "FlcVBKTSjRs_76",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "起始画面中右边的烛台具有什么特点？",
+            "options": [
+                "A. 蜡烛发出黄色的光芒。",
+                "B. 烛台中有蓝色的光芒。",
+                "C. 烛台中心没有蜡烛。",
+                "D. LED蜡烛发出白炽光。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_77": {
+            "id": "FlcVBKTSjRs_77",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "在宣传画面中，展示了多少个应用商店标志？",
+            "options": [
+                "A. 一个应用商店标志",
+                "B. 两个应用商店标志",
+                "C. 三个应用商店标志",
+                "D. 四个应用商店标志"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_78": {
+            "id": "FlcVBKTSjRs_78",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "在宣传版面中是否提供了一个网址？",
+            "options": [
+                "A. 是的，网址 '21frames.in/artalltheway' 被提供了。",
+                "B. 不，版面中未包含任何网址。",
+                "C. 是的，但是网址是 'art21frames.in/promotional'。",
+                "D. 是的，网址 '21frames.in/artforall' 被提供了。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_79": {
+            "id": "FlcVBKTSjRs_79",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "在场景过程中引入了什么效果？",
+            "options": [
+                "A. 引入了模糊效果。",
+                "B. 引入了放大效果。",
+                "C. 引入了淡入黑色效果。",
+                "D. 引入了颜色反转效果。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_80": {
+            "id": "FlcVBKTSjRs_80",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "场景描述中有没有物体移动？",
+            "options": [
+                "A. 是的，有多个物体都移动了。",
+                "B. 不，没有任何物体在移动。",
+                "C. 是的，有一个扳手在移动。",
+                "D. 是的，但只有烛台移动了。"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_81": {
+            "id": "FlcVBKTSjRs_81",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景中的宣传画面是什么样的？",
+            "options": [
+                "A. 纯白色背景和文本图标元素。",
+                "B. 木质背景和彩色图形元素。",
+                "C. 深色背景和金属烛台。",
+                "D. 纹理木质表面和LED蜡烛。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_82": {
+            "id": "FlcVBKTSjRs_82",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "场景中显示的是什么歌曲？",
+            "options": [
+                "A. Loving Caliber的《It's Alright》",
+                "B. Michael Bublé的《Feeling Good》",
+                "C. Pharrell Williams的《Happy》",
+                "D. Sara Bareilles的《Love Song》"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_83": {
+            "id": "FlcVBKTSjRs_83",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频以什么开始？",
+            "options": [
+                "A. 视频开始是白色木背景并显示文本的场景。",
+                "B. 视频开始是一个白色背景和宣传文本。",
+                "C. 视频开始是摆放在表面上的一组烛台。",
+                "D. 视频开始是一张宣传传单在白色背景上。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_84": {
+            "id": "FlcVBKTSjRs_84",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "涉及勺子的第一个视觉变化是什么？",
+            "options": [
+                "A. 勺子的勺柄从画面中移除。",
+                "B. 勺子的颜色从银色变为金色。",
+                "C. 勺子在新的画面中被叉子取代。",
+                "D. 勺子完全从场景中移除。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_85": {
+            "id": "FlcVBKTSjRs_85",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "与金色调勺子的互动是如何开始的？",
+            "options": [
+                "A. 手握住并抬起中央勺头。",
+                "B. 按下烛台底部的一个按钮。",
+                "C. 用手擦拭勺托的金色花瓣。",
+                "D. 将中央勺头向右扭转。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_86": {
+            "id": "FlcVBKTSjRs_86",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "手工场景中始终可见的标志是什么？",
+            "options": [
+                "A. 右下角的彩色圆形标志。",
+                "B. 'SPOON CANDLE HOLDER'标志。",
+                "C. Android设备的Google Play标志。",
+                "D. 没有标志是始终可见的。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_87": {
+            "id": "FlcVBKTSjRs_87",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "装饰件的最终成品是由什么构成的？",
+            "options": [
+                "A. 由十六个金色勺头和一个蜡烛组成。",
+                "B. 由五个银色勺头和一个蓝色中心组成。",
+                "C. 由古铜色勺头组成，没有中心部分。",
+                "D. 由三个金色勺头和一个红色中心组成。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_88": {
+            "id": "FlcVBKTSjRs_88",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频中的手工制作过程涉及什么？",
+            "options": [
+                "A. 涉及用手和热熔胶枪制作设计。",
+                "B. 涉及用色彩涂绘烛台。",
+                "C. 涉及将木块组装成桌面。",
+                "D. 涉及将LED蜡烛放入玻璃罐中。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_89": {
+            "id": "FlcVBKTSjRs_89",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "制作过程中，右手做了什么？",
+            "options": [
+                "A. 在装饰品的中心放入蜡烛。",
+                "B. 使用热熔胶枪涂抹圆盘。",
+                "C. 拆解装饰品变成另一种设计。",
+                "D. 把装饰品托在手心上展示。"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_90": {
+            "id": "FlcVBKTSjRs_90",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "场景从什么画面转变成最后的宣传界面？",
+            "options": [
+                "A. 从装饰品的展示画面。",
+                "B. 从 '21frames' 宣传画面。",
+                "C. 从企业办公室的画面。",
+                "D. 从户外花园场景画面。"
+            ],
+            "answer": "A"
+        }
+    }
+}

@@ -1,0 +1,1445 @@
+{
+    "scene_hint": {
+        "0": "展示一碗馄饨面。",
+        "1": "展示餐厅环境。",
+        "2": "一颗馄饨的特写镜头。",
+        "3": "正面展示男子用餐过程。",
+        "4": "右侧近景展示男子用餐过程。",
+        "5": "左侧中景镜头展示男子描述馄饨。",
+        "6": "咬掉一半的馄饨特写镜头。",
+        "7": "左侧中景镜头展示男子用餐过程。",
+        "8": "正面展示男子用餐过程。"
+    },
+    "qa": {
+        "AIs3LoU4JUo_0": {
+            "id": "AIs3LoU4JUo_0",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "图中文字 '孤独的美食家 Season 8' 位于什么位置？",
+            "options": [
+                "A. 右下角。",
+                "B. 右上角。",
+                "C. 左上角。",
+                "D. 左下角。"
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_1": {
+            "id": "AIs3LoU4JUo_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这个场景设定在什么样的环境中？",
+            "options": [
+                "A. 大型餐厅中。",
+                "B. 小型餐馆中。",
+                "C. 街头市场中。",
+                "D. 家庭厨房中。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_2": {
+            "id": "AIs3LoU4JUo_2",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "视频中能看到有人物角色吗？",
+            "options": [
+                "A. 是的，视频中可以看到有人物角色。",
+                "B. 不，视频中没有人物角色。",
+                "C. 视频中只看得到手部。",
+                "D. 背景中可以看到模糊的人影。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_3": {
+            "id": "AIs3LoU4JUo_3",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "视频中的碗是什么样的？",
+            "options": [
+                "A. 蓝白图案，包括碗边缘周围的风格化图案。",
+                "B. 碗是纯白色的，没有设计或图案。",
+                "C. 碗上有明亮的红色和黄色抽象图案。",
+                "D. 碗是全黑色的，表面呈哑光。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_4": {
+            "id": "AIs3LoU4JUo_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "视频中的碟子是什么样子的？",
+            "options": [
+                "A. 这个碟子为蓝白图案。",
+                "B. 这个碟子是纯白色的。",
+                "C. 这个碟子有花卉图案。",
+                "D. 这个碟子是亮红色的。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_5": {
+            "id": "AIs3LoU4JUo_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "视频中有多少段文字提供了上下文信息？",
+            "options": [
+                "A. 两段。",
+                "B. 三段。",
+                "C. 四段。",
+                "D. 五段。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_6": {
+            "id": "AIs3LoU4JUo_6",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "在整个视频中，镜头是否始终显示碗下的桌子？",
+            "options": [
+                "A. 是的，桌子在视频中始终可见。",
+                "B. 不是，桌子只在开始时被短暂显示。",
+                "C. 是的，但重点主要是在碗上。",
+                "D. 不是，桌子在整个视频中未显示，因为镜头放大到食物上。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_7": {
+            "id": "AIs3LoU4JUo_7",
+            "scene": 0,
+            "dimension": "Camera Direction",
+            "question": "视频中相机执行了什么动作？",
+            "options": [
+                "A. 相机在整个视频中保持静止。",
+                "B. 相机快速进行放大和缩小的动作。",
+                "C. 相机进行逐渐放大和视角转换。",
+                "D. 相机快速围绕碗旋转。"
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_8": {
+            "id": "AIs3LoU4JUo_8",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "随着视频的进行，摄像机的焦点如何变化？",
+            "options": [
+                "A. 摄像机更紧密地集中在菜肴的组成部分上。",
+                "B. 摄像机拉远以展示整个用餐环境。",
+                "C. 摄像机转移以突出碗和碟子的装饰元素。",
+                "D. 摄像机平移以展示厨师在厨房准备菜肴的过程。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_9": {
+            "id": "AIs3LoU4JUo_9",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "视频中主要使用的是哪种类型的镜头？",
+            "options": [
+                "A. 航拍镜头",
+                "B. 广角镜头",
+                "C. 特写镜头",
+                "D. 长镜头"
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_10": {
+            "id": "AIs3LoU4JUo_10",
+            "scene": 0,
+            "dimension": "Speed",
+            "question": "视频中摄像机移动的速度是多少？",
+            "options": [
+                "A. 迅速而快速。",
+                "B. 稳定而缓慢。",
+                "C. 不规则且不可预测。",
+                "D. 突然而颠簸。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_11": {
+            "id": "AIs3LoU4JUo_11",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "当摄像机放大盘子时，什么变得不那么显眼了？",
+            "options": [
+                "A. 碗的装饰元素。",
+                "B. 虾馄饨。",
+                "C. 汤里的面条。",
+                "D. 左上角的文字。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_12": {
+            "id": "AIs3LoU4JUo_12",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "当镜头放大到菜肴上时，什么变得更加明显？",
+            "options": [
+                "A. 馄饨和面条。",
+                "B. 碗的装饰元素。",
+                "C. 普通的棕色桌面。",
+                "D. 叠加的文字和版权信息。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_13": {
+            "id": "AIs3LoU4JUo_13",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "视频中哪个视觉元素表明了节目的名称？",
+            "options": [
+                "A. 位于左上角的文字 '孤独的美食家 8' 表明了节目的名称。",
+                "B. 位于左上角的文字 '孤独的美食家 2' 表明了节目的名称。",
+                "C. 右下角的版权文字表明了节目的名称和季节。",
+                "D. 右上角的 'KKTV' 标志表明了节目的名称。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_14": {
+            "id": "AIs3LoU4JUo_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "醒目的黄色招牌上有醒目的红色汉字在哪里？",
+            "options": [
+                "A. 放置在女人身后的窗前。",
+                "B. 悬挂在天花板上。",
+                "C. 放在男人前面的柜台上。",
+                "D. 立在餐饮区域左边的墙上。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_15": {
+            "id": "AIs3LoU4JUo_15",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "视频中的那名男子穿着什么？",
+            "options": [
+                "A. 深色西装，搭配白衬衫和图案领带。",
+                "B. 蓝衬衫和牛仔裤。",
+                "C. 休闲T恤和短裤。",
+                "D. 毛衣和卡其裤。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_16": {
+            "id": "AIs3LoU4JUo_16",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "视频中的那位女性穿着什么？",
+            "options": [
+                "A. 干净的白色上衣。",
+                "B. 明亮的黄色连衣裙。",
+                "C. 深色西装。",
+                "D. 有图案的女衬衫。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_17": {
+            "id": "AIs3LoU4JUo_17",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "视频中这两个人在做什么？",
+            "options": [
+                "A. 两人都坐在柜台前认真地吃饭。",
+                "B. 两人都站着讨论菜单选项。",
+                "C. 男人在看报纸，而女人在玩手机。",
+                "D. 两人都在厨房准备食物。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_18": {
+            "id": "AIs3LoU4JUo_18",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "柜台上有什么物品？",
+            "options": [
+                "A. 罐子，金属盘子、碗",
+                "B. 盘子，陶瓷杯子、篮子",
+                "C. 瓶子，塑料托盘，碗",
+                "D. 容器，木勺子，盘子"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_19": {
+            "id": "AIs3LoU4JUo_19",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "台面描述是什么？",
+            "options": [
+                "A. 台面上有一个波点垫子，并且装饰有很多五颜六色的物品。",
+                "B. 台面简洁而极简风格，只有少量的调味品。",
+                "C. 台面完全空空如也，没有任何装饰。",
+                "D. 台面上有一个普通的垫子，没有额外的物品。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_20": {
+            "id": "AIs3LoU4JUo_20",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "场景中有多少个人？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_21": {
+            "id": "AIs3LoU4JUo_21",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "覆盖文字显示节目的标题《孤独的美食家（第8季）》是否在视频全程出现？",
+            "options": [
+                "A. 是的，“《孤独的美食家（第8季）》”的覆盖文字贯穿整个视频。",
+                "B. 不，“《孤独的美食家（第8季）》”的覆盖文字在视频中途消失。",
+                "C. 是的，但覆盖文字在视频中频繁地改变位置。",
+                "D. 不是，视频中没有覆盖文字。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_22": {
+            "id": "AIs3LoU4JUo_22",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "“KKTV”标志是否在整段视频中都有出现？",
+            "options": [
+                "A. 是的，在整段视频中都有出现。",
+                "B. 不是，只间歇性地出现。",
+                "C. 不是，完全没有出现。",
+                "D. 是的，有出现，但仅限于片尾字幕时。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_23": {
+            "id": "AIs3LoU4JUo_23",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "在聚焦于虾肉云吞面汤后，相机角度会发生什么变化？",
+            "options": [
+                "A. 相机进一步放大虾肉云吞面汤的细节。",
+                "B. 相机切换到一个中近景角度。",
+                "C. 相机切换到一个广角镜头，展示整个餐厅。",
+                "D. 相机移动到靠近女性的冰饮特写。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_24": {
+            "id": "AIs3LoU4JUo_24",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素确立了该场景作为节目品牌的一部分？",
+            "options": [
+                "A. 标题'孤独的美食家 (第八季)'和'KKTV'标志",
+                "B. 装饰有五颜六色物品和调料的鲜艳柜台",
+                "C. 带有醒目的红色中文字符的亮黄色标牌",
+                "D. 靠近女子的部分可见冰饮"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_25": {
+            "id": "AIs3LoU4JUo_25",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "那男的和女的坐在柜台的哪个位置？",
+            "options": [
+                "A. 柜台前面。",
+                "B. 私人包厢里。",
+                "C. 圆形餐桌旁。",
+                "D. 户外的露台上。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_26": {
+            "id": "AIs3LoU4JUo_26",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "餐馆的氛围由哪些特点构成？",
+            "options": [
+                "A. 柜台、波点地垫、调料罐，以及红色中文字符的亮黄色招牌。",
+                "B. 一个安静的用餐区，配有昏暗的灯光和宁静的蓝色背景。",
+                "C. 极简风格的装饰，搭配单色调和背景播放的柔和爵士音乐。",
+                "D. 工业设计风格，有裸露的砖墙和现代钢制家具。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_27": {
+            "id": "AIs3LoU4JUo_27",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "柜台上的那个男人在做什么？",
+            "options": [
+                "A. 那个男人微微前倾，专注于他的饭菜，双手放在筷子旁边。",
+                "B. 那个男人正在兴奋地和坐在他旁边的女人交谈。",
+                "C. 那个男人正在向柜台后面的服务员点餐。",
+                "D. 那个男人正在看放在柜台上的菜单。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_28": {
+            "id": "AIs3LoU4JUo_28",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "柜台的那位女士在做什么？",
+            "options": [
+                "A. 那位女士正在笔记本上写点什么。",
+                "B. 那位女士一只手拿着一双筷子，另一只手似乎在稳住一个盘子。",
+                "C. 那位女士一边用手机一边吃饭。",
+                "D. 那位女士正在给食物浇酱。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_29": {
+            "id": "AIs3LoU4JUo_29",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "用来盛放虾云吞面汤的瓷勺是什么颜色和图案？",
+            "options": [
+                "A. 蓝白相间。",
+                "B. 红白相间。",
+                "C. 绿白相间。",
+                "D. 黑白相间。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_30": {
+            "id": "AIs3LoU4JUo_30",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "瓷勺托着的饺子是什么样子的？",
+            "options": [
+                "A. 饺子外皮呈半透明的浅橙色，质地光亮。",
+                "B. 饺子是暗棕色的，表面无光泽。",
+                "C. 饺子是亮红色的，质地粗糙。",
+                "D. 饺子是绿色的，表面光滑无光泽。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_31": {
+            "id": "AIs3LoU4JUo_31",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "在餐馆场景中最初关注了多少位食客？",
+            "options": [
+                "A. 一位",
+                "B. 两位",
+                "C. 三位",
+                "D. 四位"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_32": {
+            "id": "AIs3LoU4JUo_32",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "虾云吞面汤特写镜头的背景是否模糊？",
+            "options": [
+                "A.是的，有点模糊的。",
+                "B.是的，清晰且细节丰富的。",
+                "C.不是，完全黑色的。",
+                "D.不是，对焦清晰并添加了纹理。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_33": {
+            "id": "AIs3LoU4JUo_33",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "近距离观察虾馄饨汤面时，筷子传达了什么动作建议？",
+            "options": [
+                "A. 筷子轻轻夹住馄饨一侧，表现出盛取或食用的动作。",
+                "B. 筷子静静地放在汤碗旁，暗示一个稍作停顿的时刻。",
+                "C. 筷子正用来在馄饨周围搅动汤汁。",
+                "D. 筷子整齐地横放在碗边，作为摆盘的一部分。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_34": {
+            "id": "AIs3LoU4JUo_34",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "在虾云吞汤面场景的后续画面中，汤匙的位置是如何变化的？",
+            "options": [
+                "A. 汤匙略微向下移动，改变了观众的视角。",
+                "B. 汤匙在整个场景中基本保持不变，后几帧上下移动。",
+                "C. 汤匙向上移动，使视角更清晰。",
+                "D. 汤匙完全从场景中移除。"
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_35": {
+            "id": "AIs3LoU4JUo_35",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "云吞在两个画面之间的外观发生了什么变化？",
+            "options": [
+                "A. 起初，云吞是被筷子夹住的，下一画面放在了汤勺上。",
+                "B. 云吞的颜色从半透明的橙色变成了亮白色。",
+                "C. 云吞最初放在汤里，但后来被单独放在盘子上。",
+                "D. 云吞最初被放在面条中，但在下一个画面中，它没有了汤或面条。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_36": {
+            "id": "AIs3LoU4JUo_36",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素为虾仁云吞面汤的场景提供了背景信息？",
+            "options": [
+                "A. 标题《孤独的美食家 第八季》、'KKTV'标志。",
+                "B. 户外景观、传统的木桌和手写菜单。",
+                "C. 厨师准备食物、人群以及的菜单。",
+                "D. 模糊的背景和汤中可见的黄色面条。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_37": {
+            "id": "AIs3LoU4JUo_37",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "木制搁架单元相对于穿深色西装的男子在哪个位置？",
+            "options": [
+                "A. 后面。",
+                "B. 左边。",
+                "C. 前面。",
+                "D. 上方。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_38": {
+            "id": "AIs3LoU4JUo_38",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "黑色商务西装的男人对他的餐做了什么动作？",
+            "options": [
+                "A. 男人小心地品尝他的食物。",
+                "B. 男人从架子上的瓶子倒了一杯饮品。",
+                "C. 男人阅读了一份用东亚文字书写的手写菜单。",
+                "D. 男人接起了附近柜台上的象牙色电话。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_39": {
+            "id": "AIs3LoU4JUo_39",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "场景中可以看到多少个徽标或品牌元素？",
+            "options": [
+                "A. 一个。",
+                "B. 两个。",
+                "C. 三个。",
+                "D. 看不到。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_40": {
+            "id": "AIs3LoU4JUo_40",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景中提到了哪些标志或品牌元素可见？",
+            "options": [
+                "A. '孤独的美食家 第八季' 和 'KKTV'",
+                "B. '美食频道' 和 'Netflix'",
+                "C. '名厨的餐桌' 和 'HBO'",
+                "D. '美味佳肴' 和 'BBC'"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_41": {
+            "id": "AIs3LoU4JUo_41",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "男人的姿势发生了什么变化来品味食物？",
+            "options": [
+                "A. 他的动作变得更加从容和优雅。",
+                "B. 他开始紧张地摆弄餐具。",
+                "C. 他向后靠并闭上眼睛休息。",
+                "D. 他突然站起来离开。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_42": {
+            "id": "AIs3LoU4JUo_42",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "中文字幕在男子用餐时有何作用？",
+            "options": [
+                "A. 为这个男人的反思或观察增添了情感深度。",
+                "B. 提供了对食物的详细评论。",
+                "C. 对菜单项目进行翻译。",
+                "D. 专注于厨师的烹饪技巧。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_43": {
+            "id": "AIs3LoU4JUo_43",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "穿深灰色西装的男人相对于穿便装的用餐者的位置在哪里？",
+            "options": [
+                "A.右边。",
+                "B.左边。",
+                "C.前面。",
+                "D.后面。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_44": {
+            "id": "AIs3LoU4JUo_44",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频中描述的场景是什么？",
+            "options": [
+                "A.餐厅。",
+                "B.街道",
+                "C.图书馆",
+                "D.办公室"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_45": {
+            "id": "AIs3LoU4JUo_45",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "那个穿深灰色西装的男人在做什么？",
+            "options": [
+                "A. 微微前倾，仔细地用浅色木筷子吃面。",
+                "B. 男人正在用一个小白碗喝汤。",
+                "C. 一边拿着木筷子，一边看菜单。",
+                "D. 一边用筷子比划，一边和他左边的食客说话。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_46": {
+            "id": "AIs3LoU4JUo_46",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "穿着休闲的食客在场景中拿着什么？",
+            "options": [
+                "A. 一个小的白色碗",
+                "B. 一杯水",
+                "C. 一双筷子",
+                "D. 一张餐巾"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_47": {
+            "id": "AIs3LoU4JUo_47",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "视频中描述了多少个人？",
+            "options": [
+                "A. 两个",
+                "B. 三个",
+                "C. 四个",
+                "D. 五个"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_48": {
+            "id": "AIs3LoU4JUo_48",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "视频中描述的是哪些人？",
+            "options": [
+                "A. 身穿深灰色西装的男人和穿着随意的用餐者。",
+                "B. 身穿深灰色西装的男人和厨房里的厨师。",
+                "C. 穿着随意的用餐者和端菜的服务员。",
+                "D. 身穿深灰色西装的男人和一个用餐的家庭。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_49": {
+            "id": "AIs3LoU4JUo_49",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "在这个场景中，穿着休闲装的食客做了什么动作？",
+            "options": [
+                "A. 转向一个更外侧的角度，并在用餐中短暂停顿。",
+                "B. 前倾，开始用筷子吃食物。",
+                "C. 生动地与穿深灰色西装的男子交谈。",
+                "D. 起身离开用餐区域。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_50": {
+            "id": "AIs3LoU4JUo_50",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "男人用筷子时，手是朝哪个方向移动的？",
+            "options": [
+                "A. 移动到更靠近嘴巴的位置。",
+                "B. 移动到远离嘴巴的位置。",
+                "C. 向侧面移动。",
+                "D. 男人的手保持不动。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_51": {
+            "id": "AIs3LoU4JUo_51",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "视频开头的文字叠加是什么？",
+            "options": [
+                "A.  '孤独的美食家 Season 8'。",
+                "B.  '欢迎来到美食探险 Season 8'。",
+                "C.  '一人的食堂 Season 8'。",
+                "D.  'KKTV呈现：美食盛宴 Season 8'。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_52": {
+            "id": "AIs3LoU4JUo_52",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "视频中除了孤独的美食家，还出现了什么其他文本叠加？",
+            "options": [
+                "A. 'KKTV.'",
+                "B. '美食天堂.'",
+                "C. '季终集.'",
+                "D. '餐饮纪事.'"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_53": {
+            "id": "AIs3LoU4JUo_53",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "视频提供了哪些额外的背景信息？",
+            "options": [
+                "A. 视频中包括不断变化的中文字幕来提供背景评论。",
+                "B. 视频中包括背景音乐来营造氛围。",
+                "C. 视频特点是动态摄像机移动以增强观众的参与感。",
+                "D. 视频展示了多个角色在繁忙的餐厅环境中互动。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_54": {
+            "id": "AIs3LoU4JUo_54",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "餐区主要有哪些东西？",
+            "options": [
+                "A. 波点台面、玻璃罐头以及横幅等元素。",
+                "B. 各种花瓶。",
+                "C. 装有食物的冰柜。",
+                "D. 许多的桌椅。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_55": {
+            "id": "AIs3LoU4JUo_55",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "穿深色西装的男人吃饭时使用什么餐具？",
+            "options": [
+                "A. 右手拿叉子。",
+                "B. 右手拿筷子。",
+                "C. 右手拿勺子。",
+                "D. 右手拿刀。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_56": {
+            "id": "AIs3LoU4JUo_56",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "穿深色西装的男人在吃东西时用左手做什么？",
+            "options": [
+                "A.放在桌子不动。",
+                "B.拿着一个玻璃罐。",
+                "C.向服务员示意。",
+                "D. 调整领带。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_57": {
+            "id": "AIs3LoU4JUo_57",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "这个男人在吃饭时的姿势是什么？",
+            "options": [
+                "A. 微微向前倾。",
+                "B. 向后靠。",
+                "C. 坐得非常端正。",
+                "D. 向左倾。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_58": {
+            "id": "AIs3LoU4JUo_58",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "台面上有什么图案？",
+            "options": [
+                "A. 波点图案。",
+                "B. 格子图案。",
+                "C. 花卉图案。",
+                "D. 个条纹图案。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_59": {
+            "id": "AIs3LoU4JUo_59",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "台面上有什么物品？",
+            "options": [
+                "A. 玻璃罐。",
+                "B. 盘子。",
+                "C. 陶瓷碗。",
+                "D. 葡萄酒和烈酒。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_60": {
+            "id": "AIs3LoU4JUo_60",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "场景中有多少个主要角色参与？",
+            "options": [
+                "A. 四个。",
+                "B. 两个。",
+                "C. 三个。",
+                "D. 五个。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_61": {
+            "id": "AIs3LoU4JUo_61",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "谁是场景中的主要角色？",
+            "options": [
+                "A. 穿黑色西装的男人",
+                "B. 穿白色上衣的女人。",
+                "C. 服务员。",
+                "D. 厨师。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_62": {
+            "id": "AIs3LoU4JUo_62",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "这个场景是否发生在一家餐厅里？",
+            "options": [
+                "A. 是",
+                "B. 不是",
+                "C. 可能",
+                "D. 信息不足"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_63": {
+            "id": "AIs3LoU4JUo_63",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "穿深色夹克的男人做了哪些细微调整？",
+            "options": [
+                "A. 微微向前倾。",
+                "B. 把一块食物举到嘴边。",
+                "C. 起来并离开桌子。",
+                "D. 重新排列柜台上的罐装食品。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_64": {
+            "id": "AIs3LoU4JUo_64",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "穿着深色西装的男人在吃饭时朝哪个方向倾斜？",
+            "options": [
+                "A. 向前倾斜。",
+                "B. 向后倾斜。",
+                "C. 向左倾斜。",
+                "D. 向右倾斜。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_65": {
+            "id": "AIs3LoU4JUo_65",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "在这一场景中使用了什么类型的镜头拍摄？",
+            "options": [
+                "A. 中景镜头。",
+                "B. 特写镜头。",
+                "C. 低角度镜头。",
+                "D. 广角镜头。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_66": {
+            "id": "AIs3LoU4JUo_66",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "你会如何描述这位男子用筷子时的速度？",
+            "options": [
+                "A. 快速而匆忙。",
+                "B. 笨拙而不稳定。",
+                "C. 镇定而从容。",
+                "D. 犹豫而不稳。"
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_67": {
+            "id": "AIs3LoU4JUo_67",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "穿白上衣的女人的显著性发生了什么变化？",
+            "options": [
+                "A. 变得不那么显眼。",
+                "B. 成为了场景的主要焦点。",
+                "C. 完全从镜头中消失。",
+                "D. 得更加显眼。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_68": {
+            "id": "AIs3LoU4JUo_68",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素提供了有关用餐环境的背景信息？",
+            "options": [
+                "A. 横幅上的中文字符以及电话号码。",
+                "B. 使用筷子的人突出了餐厅的文化氛围。",
+                "C. 柜台上的动态波点图案展示了餐厅的主题内饰设计。",
+                "D. 女人向左移动显示了餐厅布局的变化。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_69": {
+            "id": "AIs3LoU4JUo_69",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "云吞相对于筷子的位置是什么？",
+            "options": [
+                "A. 躺在盘子上。",
+                "B. 平衡地放在筷子上。",
+                "C. 被夹在在一对黑筷子之间。",
+                "D. 漂浮在筷子上方。"
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_70": {
+            "id": "AIs3LoU4JUo_70",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景中的背景暗示了什么样的环境？",
+            "options": [
+                "A. 背景是冷色调的柔和蓝色，暗示着现代厨房。",
+                "B. 背景是暖色调的柔和棕橙色，暗示着一个舒适的木桌或类似的温暖环境。",
+                "C. 背景充满了色彩斑斓的装饰，暗示着节日气氛。",
+                "D. 背景是中性的，没有任何明显特征，只专注于云吞。"
+            ],
+            "answer": "D"
+        },
+        "AIs3LoU4JUo_71": {
+            "id": "AIs3LoU4JUo_71",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "场景中有没有任何人类角色可见？",
+            "options": [
+                "A.有的",
+                "B.没有",
+                "C.有的，但人少。",
+                "D.有的但人多。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_72": {
+            "id": "AIs3LoU4JUo_72",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "饺子馅的颜色是什么？",
+            "options": [
+                "A.粉橙色。",
+                "B.黄色。",
+                "C.深绿色。",
+                "D.紫色。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_73": {
+            "id": "AIs3LoU4JUo_73",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "饺子的馅料可能由什么组成？",
+            "options": [
+                "A. 虾或对虾组成。",
+                "B. 猪肉和蔬菜组成。",
+                "C. 鸡肉和蘑菇组成。",
+                "D. 牛肉和大蒜组成。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_74": {
+            "id": "AIs3LoU4JUo_74",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "饺子里的馅看起来怎么样？",
+            "options": [
+                "A.干燥且过熟。",
+                "B. 多汁且新鲜。",
+                "C. 是冷冻的。",
+                "D. 看起来部分生的。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_75": {
+            "id": "AIs3LoU4JUo_75",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "在画面中有多少段文字可见？（包括字幕和logo）",
+            "options": [
+                "A. 一段。",
+                "B. 三段。",
+                "C. 五段。",
+                "D. 没有。"
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_76": {
+            "id": "AIs3LoU4JUo_76",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "画面右上角显示了什么文字？",
+            "options": [
+                "A. 'KKTV' 。",
+                "B. 'KK美食秀' 。",
+                "C. 'KKTV 8' 。",
+                "D. '美食电视' 。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_77": {
+            "id": "AIs3LoU4JUo_77",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "框架左上角可见的文字是什么？",
+            "options": [
+                "A. 'KKTV'",
+                "B. '孤独的美食家 8'",
+                "C. '美味饺子'",
+                "D. '传统中文字幕'"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_78": {
+            "id": "AIs3LoU4JUo_78",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "画面底部可见的文本是什么？",
+            "options": [
+                "A. 字幕。",
+                "B. 节目的标题。",
+                "C. 'KKTV' 。",
+                "D. 没有文本。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_79": {
+            "id": "AIs3LoU4JUo_79",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "这个场景中正在进行什么动作？",
+            "options": [
+                "A. 饺子被筷子精细地夹起。",
+                "B. 饺子正被蘸进一碟酱油里。",
+                "C. 饺子正被放在盘子上。",
+                "D. 饺子被刀切开。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_80": {
+            "id": "AIs3LoU4JUo_80",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "饺子相对于背景是如何摆放的？",
+            "options": [
+                "A. 背景模糊的环境中。",
+                "B. 清晰且细致的厨房背景中。",
+                "C. 纯黑色背景中。",
+                "D. 明亮的白色墙壁前。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_81": {
+            "id": "AIs3LoU4JUo_81",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "使用什么类型的拍摄镜头来聚焦饺子？",
+            "options": [
+                "A. 使用中景镜头。",
+                "B. 使用广角镜头。",
+                "C. 使用特写镜头。",
+                "D. 使用过肩镜头。"
+            ],
+            "answer": "C"
+        },
+        "AIs3LoU4JUo_82": {
+            "id": "AIs3LoU4JUo_82",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "在画面中，哪些视觉元素为节目的系列提供了背景信息？",
+            "options": [
+                "A. “KKTV”标志和“孤独的美食家 8”",
+                "B. 单独的饺子特写镜头。",
+                "C. 温暖的棕橙色背景，营造出舒适的环境。",
+                "D. 画面底部的繁体中文字幕。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_83": {
+            "id": "AIs3LoU4JUo_83",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "黄色的餐厅标志位于哪里？",
+            "options": [
+                "A. 用餐者的后面。",
+                "B. 位于柜台旁边。",
+                "C. 悬挂在天花板上。",
+                "D. 位于餐厅门上。"
+            ],
+            "answer": "D"
+        },
+        "AIs3LoU4JUo_84": {
+            "id": "AIs3LoU4JUo_84",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "这个场景中，这个男人是如何使用筷子的？",
+            "options": [
+                "A. 认真仔细地使用筷子。",
+                "B. 粗心大意地把筷子弄掉了。",
+                "C. 迅速地旋转筷子。",
+                "D. 笨拙地使用筷子。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_85": {
+            "id": "AIs3LoU4JUo_85",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "这个男人在吃饭时做了哪些身体动作？",
+            "options": [
+                "A. 男人吃饭时会歪头并向前倾。",
+                "B. 男人向服务员招手，并指向柜台上的罐子。",
+                "C. 男人调整筷子并四处张望餐厅。",
+                "D. 男人伸展双臂并把碗推开。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_86": {
+            "id": "AIs3LoU4JUo_86",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "这个男人是如何吃饭的？",
+            "options": [
+                "A. 这个男人以从容和谨慎的动作享用他的食物。",
+                "B. 这个男人以快速而慌乱的动作急忙吃完他的食物。",
+                "C. 这个男人由于被周围的环境分心而不碰他的食物。",
+                "D. 这个男人一边吃饭，一边参与一场热烈的谈话。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_87": {
+            "id": "AIs3LoU4JUo_87",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "餐厅柜台上显著展示了哪些物品？",
+            "options": [
+                "A. 一些玻璃罐子以及图案摆件。",
+                "B. 一套银质餐具和精美瓷器。",
+                "C. 各种各样的木碗和筷子。",
+                "D. 一套陶瓷茶具和花卉装饰。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_88": {
+            "id": "AIs3LoU4JUo_88",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "在这个餐厅场景中，有多少人被拍摄？",
+            "options": [
+                "A. 四个。",
+                "B. 三个。",
+                "C. 两个。",
+                "D. 五个。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_89": {
+            "id": "AIs3LoU4JUo_89",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "那个穿深色西装的男人是唯一在吧台吃东西的人吗？",
+            "options": [
+                "A. 是的，那位穿深色西装的男人是唯一在吧台吃东西的人。",
+                "B. 不是，还有其他人物。",
+                "C. 是的，只有那个男人和小孩在吧台吃东西。",
+                "D. 不是，但穿深色西装的男人是场景的主要焦点，吧台没有其他可见的用餐者。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_90": {
+            "id": "AIs3LoU4JUo_90",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "以下哪种行为反映了该男子专注于享受这顿饭？",
+            "options": [
+                "A. 正将面条送向嘴边。",
+                "B. 小心翼翼地将酱汁倒在他的餐食上。",
+                "C. 将筷子整齐地摆放在柜台上。",
+                "D. 男子一边用筷子比划，一边与坐在他旁边的女子交谈。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_91": {
+            "id": "AIs3LoU4JUo_91",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "这个男人在用餐时动作的节奏是怎样的？",
+            "options": [
+                "A. 匆忙而急促的。",
+                "B. 有条不紊且富有节奏的。",
+                "C. 且不协调的。",
+                "D. 间歇性且零散的。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_92": {
+            "id": "AIs3LoU4JUo_92",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "框架中的哪个元素体现了餐馆类型？",
+            "options": [
+                "A. 黄色的餐馆招牌及上面的红色文字",
+                "B. 有波点装饰的柜台",
+                "C. 红色的餐馆招牌及上面的黄色文字",
+                "D. 带有红色和黄色盖子的玻璃罐"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_93": {
+            "id": "AIs3LoU4JUo_93",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素表明了与该系列品牌的联系？",
+            "options": [
+                "A. 《孤独的美食家 8》与 'KKTV'以及中文字幕。",
+                "B. 玻璃罐的排列。",
+                "C. 中文字符的招牌。",
+                "D. 棕橙色调和台面。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_94": {
+            "id": "AIs3LoU4JUo_94",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "这个男人在场景中是如何出现的？",
+            "options": [
+                "A. 男人以特写形式出现在画面中央。",
+                "B. 男人在背景中，周围有色彩丰富的罐子。",
+                "C. 男人站在一个拥挤的市场里。",
+                "D. 男人坐在桌子旁，和一群人一起。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_95": {
+            "id": "AIs3LoU4JUo_95",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "场景中的背景如何？",
+            "options": [
+                "A. 背景是一个繁忙的集市。",
+                "B. 背景是模糊的。",
+                "C. 背景是一个户外花园景象。",
+                "D. 背景完全是黑暗的。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_96": {
+            "id": "AIs3LoU4JUo_96",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "场景发生在什么地方？",
+            "options": [
+                "A. 室内。",
+                "B. 户外市场。",
+                "C. 海滨餐厅。",
+                "D. 火车上。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_97": {
+            "id": "AIs3LoU4JUo_97",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "这个男人穿着什么？",
+            "options": [
+                "A. 深色西装、衬衫和领带。",
+                "B. 浅色西装和领结。",
+                "C. 休闲T恤和牛仔裤。",
+                "D. 深色西装，没有领带，敞领衬衫。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_98": {
+            "id": "AIs3LoU4JUo_98",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "那个男人拿着什么样的食物？",
+            "options": [
+                "A. 一块寿司",
+                "B. 一碗云吞面条",
+                "C. 一碗汤",
+                "D. 一块白豆腐"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_99": {
+            "id": "AIs3LoU4JUo_99",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "场景中的品牌元素位于哪里？",
+            "options": [
+                "A. ‘孤獨的美食家 8’和‘KKTV’标志分别位于画面的左上角和右上角。",
+                "B. ‘孤獨的美食家 8’和‘KKTV’标志位于画面的下方。",
+                "C. ‘孤獨的美食家 8’位于画面的左上角，‘KKTV’标志位于画面的右下角。",
+                "D. ‘孤獨的美食家 8’和‘KKTV’标志位于画面的中央。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_100": {
+            "id": "AIs3LoU4JUo_100",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "该场景是否包含繁体中文字幕？",
+            "options": [
+                "A. 是的。",
+                "B. 否。",
+                "C. 没有字幕。",
+                "D. 字幕只有英文。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_101": {
+            "id": "AIs3LoU4JUo_101",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "哪个动作表明了这个男人用餐体验的下一步？",
+            "options": [
+                "A. 男人把筷子放回桌子上。",
+                "B. 筷子夹着食物逐渐靠近男人的脸，暗示下一步的进食动作。",
+                "C. 男人把目光移开食物，表示用餐暂停。",
+                "D. 男人开始说话，打断了用餐过程。"
+            ],
+            "answer": "B"
+        },
+        "AIs3LoU4JUo_102": {
+            "id": "AIs3LoU4JUo_102",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "场景中视觉焦点如何在画面之间切换？",
+            "options": [
+                "A. 从复杂的餐厅背景过渡到一个强调男子上半身的特写。",
+                "B. 停留在复杂的餐厅背景的背景上。",
+                "C. 移到背景中色彩斑斓的罐子上。",
+                "D. 在男子的上半身和画面底部的字幕之间交替切换。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_103": {
+            "id": "AIs3LoU4JUo_103",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "字幕是如何描述食物的？",
+            "options": [
+                "A. 解释了馄饨名称的词源为“吞云”，并将其描述为“必须咀嚼的云”。",
+                "B. 提供了制作馄饨的食谱，包括原料和烹饪步骤。",
+                "C. 描述了馄饨的营养好处，强调其蛋白质含量。",
+                "D. 重点介绍了馄饨的历史，详述了其在古代中国的起源。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_104": {
+            "id": "AIs3LoU4JUo_104",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "视频的最初焦点是什么？",
+            "options": [
+                "A. 云吞面汤的特写。",
+                "B. 筷子夹起一块脆脆的食物。",
+                "C. 一个女人和五颜六色的罐子。",
+                "D. 解释云吞词源的字幕特写。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_105": {
+            "id": "AIs3LoU4JUo_105",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在突出虾云吞面汤之后，焦点发生了什么变化？",
+            "options": [
+                "A. 焦点转移，包含两人坐在柜台前的用餐环境。",
+                "B. 焦点仅集中在该男子的用餐体验上，强调他的穿着。",
+                "C. 焦点切换到一幅厨师们忙着准备菜肴的热闹厨房场景。",
+                "D. 焦点突出背景中五彩斑斓的罐子的细节。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_106": {
+            "id": "AIs3LoU4JUo_106",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "镜头拉近勺子上的云吞后会发生什么？",
+            "options": [
+                "A. 画面切换中景，聚焦于穿西装的男子专心享用他的餐点。",
+                "B. 镜头移动到充满活力的背景，出现女人和五颜六色的罐子。",
+                "C. 男子开始对着镜头讲述馄饨的起源。",
+                "D. 灯光变化以突出背景中色彩斑斓的罐子。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_107": {
+            "id": "AIs3LoU4JUo_107",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频的主要场景是什么？",
+            "options": [
+                "A. 小型餐馆。",
+                "B. 市场。",
+                "C. 高级餐厅。",
+                "D. 户外野餐区。"
+            ],
+            "answer": "A"
+        },
+        "AIs3LoU4JUo_108": {
+            "id": "AIs3LoU4JUo_108",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "云吞的特写是在介绍其他食客之前出现的吗？",
+            "options": [
+                "A. 是的，饺子的特写是在介绍食客之前出现的。",
+                "B. 不是，饺子的特写是在介绍桌上食客之后出现的。",
+                "C. 是的，饺子的特写与食客的介绍同时出现。",
+                "D. 不是，场景和字幕中没有介绍其他食客。"
+            ],
+            "answer": "D"
+        },
+        "AIs3LoU4JUo_109": {
+            "id": "AIs3LoU4JUo_109",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频中最先展示的是什么？",
+            "options": [
+                "A. 用筷子吃饭的男人。",
+                "B. 餐饮环境的概览。",
+                "C. 解释馄饨词源的字幕。",
+                "D. 一碗云吞面的特写。"
+            ],
+            "answer": "D"
+        }
+    }
+}

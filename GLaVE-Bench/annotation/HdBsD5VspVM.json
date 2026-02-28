@@ -1,0 +1,1156 @@
+{
+    "scene_hint": {
+        "0": "电子游戏界面显示两个面板，对同一个装备进行比较。",
+        "1": "场景切换到游戏画面，一位游戏英雄正使用技能对训练木桩造成伤害。",
+        "2": "镜头拉近，放慢了游戏英雄对训练木桩射击画面。",
+        "3": "画面又转到游戏装备页面，出现多个不同装备。",
+        "4": "游戏继续进行，出现游戏英雄，游戏英雄持续对训练木桩进行攻击。",
+        "5": "屏幕转为黑色,视频结束。"
+    },
+    "qa": {
+        "HdBsD5VspVM_0": {
+            "id": "HdBsD5VspVM_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "两个带有“Infinity Edge”这个装备的面板彼此之间是如何放置的？",
+            "options": [
+                "A. 两个面板上下排列。",
+                "B. 两个面板并排放置。",
+                "C. 两个面板对角放置。",
+                "D. 两个面板背对背放置。"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_1": {
+            "id": "HdBsD5VspVM_1",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "带有“Infinity Edge”装备的两块面板的尺寸如何比较？",
+            "options": [
+                "A. 左侧面板略大且更显眼，相比之下右侧较小。",
+                "B. 右侧面板略大且更显眼，相比之下左侧较小。",
+                "C. 两块面板的尺寸和显眼程度完全相同。",
+                "D. 两块面板的尺寸截然不同。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_2": {
+            "id": "HdBsD5VspVM_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这张图片中的场景发生在哪里？",
+            "options": [
+                "A. 《英雄联盟》的主菜单",
+                "B. 《英雄联盟》的游戏商店界面",
+                "C. 《英雄联盟》的英雄选择界面",
+                "D. 直播游戏过程中游戏地图"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_3": {
+            "id": "HdBsD5VspVM_3",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "场景中可以看到哪些背景元素？",
+            "options": [
+                "A. 背景展示了一个繁忙市场的景象，有各种商店和NPC。",
+                "B. 背景由石块和绿色植物组成，右下角有缩小地图",
+                "C. 背景展示了一幅细腻描绘的火焰战场，有熔岩流和烟雾。",
+                "D. 背景展示了一片宁静的森林，有高大的树木和潺潺流动的河流。"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_4": {
+            "id": "HdBsD5VspVM_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "界面上哪些用户交互元素表示玩家输入？",
+            "options": [
+                "A. 光标悬停在物品详情上，一个灰色的“PURCHASE”按钮。",
+                "B. 小地图上有一个闪烁的图标。",
+                "C. 游戏地图上有一个高亮的蓝色路径。",
+                "D. 界面右上角有一个闪烁的通知。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_5": {
+            "id": "HdBsD5VspVM_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "两侧“Infinity Edge”这件装备的攻击力都是多少？",
+            "options": [
+                "A. 65 Attack Damage",
+                "B. 50 Attack Damage",
+                "C. 40 Attack Damage",
+                "D. 70 Attack Damage"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_6": {
+            "id": "HdBsD5VspVM_6",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "两侧‘Infinity Edge’这件装备的暴击几率都是多少？",
+            "options": [
+                "A. 15% Critical Strike Chance",
+                "B. 20% Critical Strike Chance",
+                "C. 25% Critical Strike Chance",
+                "D. 30% Critical Strike Chance"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_7": {
+            "id": "HdBsD5VspVM_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "在屏幕左侧面板上，‘Infinity Edge’的暴击伤害是多少？",
+            "options": [
+                "A. 40% Critical Strike Damage",
+                "B. 50% Critical Strike Damage",
+                "C. 30% Critical Strike Damage",
+                "D. 20% Critical Strike Damage"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_8": {
+            "id": "HdBsD5VspVM_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "在屏幕右侧面板上，“Infinity Edge”的暴击伤害是多少？",
+            "options": [
+                "A. 40% Critical Strike Damage",
+                "B. 45% Critical Strike Damage",
+                "C. 50% Critical Strike Damage",
+                "D. 55% Critical Strike Damage"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_9": {
+            "id": "HdBsD5VspVM_9",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "‘Infinity Edge’这件装备的价格是多少？",
+            "options": [
+                "A. 3000金币",
+                "B. 3300金币",
+                "C. 3500金币",
+                "D. 3200金币"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_10": {
+            "id": "HdBsD5VspVM_10",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "有多少个面板展示了'Infinity Edge'这件装备？",
+            "options": [
+                "A. 一个面板",
+                "B. 两个面板",
+                "C. 三个面板",
+                "D. 四个面板"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_11": {
+            "id": "HdBsD5VspVM_11",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "左侧面板和右侧面板这件装备暴击伤害是否相同？",
+            "options": [
+                "A. 是的，两侧面板的都是50%。",
+                "B. 是的，两侧面板的都是40%。",
+                "C. 不是，不同；左侧面板是40%，右侧面板是50%。",
+                "D. 不是，不同；左侧面板是50%，右侧面板是40%。"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_12": {
+            "id": "HdBsD5VspVM_12",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "两个面板统计数据的差异说明什么？",
+            "options": [
+                "A. 统计数据的差异表明游戏界面中存在视觉错误。",
+                "B. 统计数据的差异表明该装备物品属性发生了变化。",
+                "C. 统计数据的差异表明该物品在一个面板上有折扣价。",
+                "D. 统计数据的差异表明玩家选择了两个不同的物品进行比较。"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_13": {
+            "id": "HdBsD5VspVM_13",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "与‘Infinity Edge’相关的金剑图标在每个属性介绍面板中的位置在哪里？",
+            "options": [
+                "A. 金剑图标位于面板左偏上位置，在两个面板中都是这样。",
+                "B. 金剑图标位于面板左下角，在两个面板中都是这样。",
+                "C. 金剑图标位于面板右上角，在两个面板中都是这样。",
+                "D. 金剑图标位于屏幕中央，在两个面板中都是这样。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_14": {
+            "id": "HdBsD5VspVM_14",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频中何强调这个场景？",
+            "options": [
+                "A. 它在模糊的背景中清晰详细地比较了两个'Infinity Edge'面板。",
+                "B. 它展示了游戏的环境多于物品的细节。",
+                "C. 它强调了'Infinity Edge'的价格而不是其属性。",
+                "D. 它关注游戏中的动作而不是商店界面。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_15": {
+            "id": "HdBsD5VspVM_15",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "图像中是否有任何动态元素，例如运动或速度效果？",
+            "options": [
+                "A. 是的，图像中可以看到速度效果。",
+                "B. 是的，与面板交互时，它们会动态移动。",
+                "C. 不，界面和环境保持静态，场景中没有可见的运动或速度效果。",
+                "D. 是的，游戏中的元素显示出表示运动的轨迹。"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_16": {
+            "id": "HdBsD5VspVM_16",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "什么视觉提示确保‘Infinity Edge’属性易于阅读？",
+            "options": [
+                "A. 粗体的字体确保该装备的属性易于阅读。",
+                "B. 深色背景结合数值高亮使文字突出。",
+                "C. 华丽的剑形图标突出该物品。",
+                "D. 灰显的‘PURCHASE’按钮引起对文本的注意。"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_17": {
+            "id": "HdBsD5VspVM_17",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "什么视觉提示有助于比较两个面板上的“Infinity Edge”属性？",
+            "options": [
+                "A. 统一的布局和一致的描述文字位置有助于比较两个面板上的属性。",
+                "B. 明亮的绿色背景突出了属性的差异。",
+                "C. 剑的图标在面板之间变化以表示更新。",
+                "D. 每个面板上的文字使用完全不同的字体以显示对比。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_18": {
+            "id": "HdBsD5VspVM_18",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "在游戏中，游戏英雄位于屏幕的哪个位置？",
+            "options": [
+                "A. 英雄位于屏幕的右上方附近，在两个面板中都是这样。",
+                "B. 英雄位于屏幕的右下方附近，在两个面板中都是这样。",
+                "C. 英雄位于屏幕的左中部附近，在两个面板中都是这样。",
+                "D. 英雄位于屏幕的中央附近，在两个面板中都是这样。"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_19": {
+            "id": "HdBsD5VspVM_19",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频中描绘的战场环境是什么？",
+            "options": [
+                "A. 战场是一片贫瘠的沙漠，沙丘变换并且零星散布着仙人掌。",
+                "B. 战场上有茂密的植被、草丛、岩石以及被松树等。",
+                "C. 战场上有金属废墟、高耸的烟囱和污染的河流。",
+                "D. 战场是覆盖着雪地的地形、冰冷的悬崖和冻结的河流。"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_20": {
+            "id": "HdBsD5VspVM_20",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "在游戏过程中，这位英雄的外貌特征是什么？",
+            "options": [
+                "A. 这位英雄有着独特的轮廓，手持手枪，穿着白色的服装。",
+                "B. 这位英雄有着独特的轮廓，持有一把狙击步枪，穿着蓝色的服装。",
+                "C. 这位英雄有着独特的轮廓，双持匕首，穿着黑色的服装。",
+                "D. 这位英雄有着独特的轮廓，持有剑和盾牌，穿着绿色的服装。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_21": {
+            "id": "HdBsD5VspVM_21",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "游戏英雄在游戏过程中会执行哪些动作？",
+            "options": [
+                "A. 英雄正在行动中，向训练木桩射击。",
+                "B. 英雄被展示在战场上收集金币。",
+                "C. 英雄被展示藏在草丛中埋伏敌人。",
+                "D. 英雄被展示在攻击后修复训练木桩。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_22": {
+            "id": "HdBsD5VspVM_22",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "视频里的训练木桩看起来是什么样子的?",
+            "options": [
+                "A. 训练木桩是带有机械手臂和红色生命条的木制人偶。",
+                "B. 训练木桩是戴着草帽且没有生命条的木制人偶。",
+                "C. 训练木桩是带有蓝色生命条和激光的球形无人机。",
+                "D. 训练木桩是带有绿色生命条和护盾的全息投影。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_23": {
+            "id": "HdBsD5VspVM_23",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "视频中训练木桩上方显示了哪些指标？",
+            "options": [
+                "A. Health, Mana, Armor",
+                "B. Last Hit, DPS, Total",
+                "C. Speed, Agility, Strength",
+                "D. Experience, Gold, Level"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_24": {
+            "id": "HdBsD5VspVM_24",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "战斗场景中有多少个训练木桩？（只考虑一侧画面）",
+            "options": [
+                "A. 一个训练木桩",
+                "B. 两个训练木桩",
+                "C. 三个训练木桩",
+                "D. 四个训练木桩"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_25": {
+            "id": "HdBsD5VspVM_25",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "游戏英雄在战斗过程中会受到伤害吗？",
+            "options": [
+                "A. 是的，英雄在战斗过程中受到重大伤害。",
+                "B. 是的，英雄受到轻微伤害，但很快恢复。",
+                "C. 不，英雄在战斗过程中没有受到任何伤害。",
+                "D. 不，英雄只有在战斗结束后才会受到伤害。"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_26": {
+            "id": "HdBsD5VspVM_26",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在游戏英雄释放技能后，会出现什么微妙的视觉效果？",
+            "options": [
+                "A. 一道微弱的白色条痕标记了弹道轨迹，附近的小蓝色效果暗示着英雄技能的能量残留。",
+                "B. 一种红色光环围绕着英雄，表明攻击速度和力量的提高。",
+                "C. 环境会短暂变暗，突出战场上英雄的轮廓。",
+                "D. 鲜艳的绿色光芒包围弹道，暗示潜在的伤害增强。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_27": {
+            "id": "HdBsD5VspVM_27",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "游戏英雄射击后子弹沿哪个方向飞行？",
+            "options": [
+                "A. 子弹沿着直线轨迹向左方飞行。",
+                "B. 子弹沿着直线轨迹向下方飞行。",
+                "C. 子弹沿着直线轨迹向上方飞行。",
+                "D. 子弹沿着直线轨迹向右方飞行。"
+            ],
+            "answer": "D"
+        },
+        "HdBsD5VspVM_28": {
+            "id": "HdBsD5VspVM_28",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "子弹接近训练假人的速度是如何可视化显示的？",
+            "options": [
+                "A. 速度通过一条淡白色的光迹来表现，突出其快速且直线的运动。",
+                "B. 速度通过跟随子弹的一道发光的红色粒子轨迹来视觉化显示。",
+                "C. 子弹的速度通过围绕它的脉动蓝色光晕来表示。",
+                "D. 速度通过子弹移动时屏幕上的一系列震动来表现。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_29": {
+            "id": "HdBsD5VspVM_29",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "左侧画面中，当左侧训练木桩在受到游戏英雄第一击后显示的伤害指标是多少？",
+            "options": [
+                "A. 木桩显示为：'Last Hit: 1572,' 'DPS: 115,'和'Total:1756.'",
+                "B. 木桩显示为：'Last Hit: 1572,' 'DPS: 1572,'和'Total: 1572.'",
+                "C. 木桩显示为：'Last Hit: 1647,' 'DPS: 1647,'和'Total: 1647.'",
+                "D. 木桩显示为：'Last Hit: 1367,' 'DPS: 1367,'和'Total: 1367.'"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_30": {
+            "id": "HdBsD5VspVM_30",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "左侧画面中，英雄人物发射第一枪后，最下面训练木桩的下面显示的是什么？",
+            "options": [
+                "A. 'Last Hit: 1572,' 'DPS: 1523.4'和'Total: 1534.'",
+                "B. 'Last Hit: 0,' 'DPS: 1367'和'Total: 1367.'",
+                "C. 'Last Hit: 1647,' 'DPS: 1367'和'Total: 1367.'",
+                "D. 'Last Hit: 1725,' 'DPS: 3329'和'Total: 3329.'"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_31": {
+            "id": "HdBsD5VspVM_31",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在游戏英雄射击后，画面底部的训练木桩会受到什么影响？",
+            "options": [
+                "A. 训练木桩在撞击后被摧毁，两个画面都是。",
+                "B. 训练木桩受到轻微伤害，两个画面都是。",
+                "C. 训练木桩不受影响，两个画面都是。",
+                "D. 训练木桩在撞击后显示新的损伤覆盖，两个画面都是。"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_32": {
+            "id": "HdBsD5VspVM_32",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在游戏中，英雄的生命值、法力值和护盾状态显示在什么位置？",
+            "options": [
+                "A. 英雄的生命值、法力值和护盾状态显示在他们头顶上方。",
+                "B. 英雄的生命值、法力值和护盾状态显示在画面的左下角。",
+                "C. 英雄的生命值、法力值和护盾状态显示在画面的右下角。",
+                "D. 英雄的生命值、法力值和护盾状态显示在画面的左上角。"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_33": {
+            "id": "HdBsD5VspVM_33",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在游戏过程中，画面中提供了哪些关于英雄物品栏和金币的信息？",
+            "options": [
+                "A. 显示了累积的金币和物品栏中的高级装备。",
+                "B. 仅显示英雄的金币数量，不包含物品栏的详细信息。",
+                "C. 提供关于英雄健康值和法力值的信息，但不涉及物品栏。",
+                "D. 显示了基础入门装备，但不显示累积的金币。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_34": {
+            "id": "HdBsD5VspVM_34",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "从游戏英雄来看，绿色的草在什么位置？",
+            "options": [
+                "A. 绿色的草在英雄的左手边。",
+                "B. 绿色的草在英雄的右手边。",
+                "C. 绿色的草在英雄的前面。",
+                "D. 绿色的草在英雄的后面。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_35": {
+            "id": "HdBsD5VspVM_35",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在游戏英雄施展攻击期间，他的姿势发生了哪些变化？",
+            "options": [
+                "A. 英雄施展攻击时来回移动进行攻击。",
+                "B. 英雄施展攻击时整个过程中保持蹲下姿势。",
+                "C. 英雄施展攻击时逐渐前倾。",
+                "D. 英雄施展攻击期间在跳跃和蹲下之间交替。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_36": {
+            "id": "HdBsD5VspVM_36",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "右侧画面中有多少个训练木桩受到了英雄的攻击？",
+            "options": [
+                "A. 一个训练假人受到了英雄的攻击。",
+                "B. 两个训练假人受到英雄的攻击。",
+                "C. 有三个训练假人都受到了英雄的攻击。",
+                "D. 没有训练假人受到英雄的攻击。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_37": {
+            "id": "HdBsD5VspVM_37",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "在这一场景末尾，两侧画面中旋转的紫色漩涡是否仍然可见？",
+            "options": [
+                "A. 是的，旋转的紫色漩涡仍然可见。",
+                "B. 不，旋转的紫色漩涡不再可见。",
+                "C. 旋转的紫色漩涡只有微弱的可见性。",
+                "D. 在序列的末尾，旋转的紫色漩涡变得更大。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_38": {
+            "id": "HdBsD5VspVM_38",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "左侧画面中游戏英雄攻击结束时的标志是什么？",
+            "options": [
+                "A. 英雄从前倾的姿势过渡到面向草丛站立。",
+                "B. 围绕冠军的蓝色光辉变得更强烈。",
+                "C. 训练木桩开始移动，表示攻击结束。",
+                "D. 植物状的生物开始参与战斗，表示攻击结束。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_39": {
+            "id": "HdBsD5VspVM_39",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "场景中的某个物体是否显示出移动？",
+            "options": [
+                "A. 是的，发光的蓝白色弹体向中间的训练木桩移动并击中了它。",
+                "B. 是的，类似植物的生物向英雄靠近。",
+                "C. 不，场景中没有任何移动。",
+                "D. 是的，下方的训练木桩移出了攻击范围。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_40": {
+            "id": "HdBsD5VspVM_40",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "右侧画面中英雄停止攻击后左侧训练木桩的最新伤害指标是多少？",
+            "options": [
+                "A. 左侧木桩显示为：'Last Hit: 3084,' 'DPS: 1826,'和'Total: 10746.'",
+                "B. 左侧木桩显示为：'Last Hit: 10746,' 'DPS: 1826,'和'Total: 1572.'",
+                "C. 左侧木桩显示为：'Last Hit: 5000,' 'DPS: 1500,'和'Total: 1647.'",
+                "D. 左侧木桩显示为：'Last Hit: 10746,' 'DPS: 2004,'和'Total: 1367.'"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_41": {
+            "id": "HdBsD5VspVM_41",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "右侧画面中英雄停止攻击后最下方训练木桩的最新伤害指标是多少？",
+            "options": [
+                "A. 'Last Hit: 0' 'DPS：1432'和'Total: 1742.'",
+                "B. 'Last Hit: 8267' 'DPS：2004'和'Total: 1570.'",
+                "C. 'Last Hit: 5000' 'DPS：1500'和'Total: 5000.'",
+                "D. 'Last Hit: 0' 'DPS：1367'和'Total: 1367.'"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_42": {
+            "id": "HdBsD5VspVM_42",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "右侧画面中底部训练木桩是否有损伤？",
+            "options": [
+                "A. 底部训练木桩未发生损伤。",
+                "B. 底部训练木桩损伤较大。",
+                "C. 底部训练木桩损伤较小。",
+                "D. 底部训练木桩的损伤不明确。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_43": {
+            "id": "HdBsD5VspVM_43",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "训练木桩如何显示更新的伤害统计数据？",
+            "options": [
+                "A. 更新的伤害统计数据通过文本显示。",
+                "B. 更新的伤害统计数据以声波形式从每个假人发出。",
+                "C. 更新的伤害统计数据通过木桩大小显示。",
+                "D. 更新的伤害统计数据通过假人颜色变化进行视觉表示。"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_44": {
+            "id": "HdBsD5VspVM_44",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "游戏景观中的显著岩石结构位于哪里？",
+            "options": [
+                "A. 显著的岩石结构位于游戏景观的左下方，两侧画面位置相同。",
+                "B. 显著的岩石结构位于游戏景观的右下方，两侧画面位置相同。",
+                "C. 显著的岩石结构位于游戏景观的中心，两侧画面位置相同。",
+                "D. 显著的岩石结构位于游戏景观的右上方，两侧画面位置相同。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_45": {
+            "id": "HdBsD5VspVM_45",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "右侧“Navori Quickblades”（纳沃利瞬刃）装备的属性是什么？",
+            "options": [
+                "A. “Navori Quickblades”物品提供+65 Attack Damage, 20% Critical Strike Chance,和+15 Ability Haste。",
+                "B. “Navori Quickblades”物品提供+70 Attack Damage, 25% Critical Strike Chance,和+20 Ability Haste。",
+                "C. “Navori Quickblades”物品提供+60 Attack Damage, 15% Critical Strike Chance,和+10 Ability Haste。",
+                "D. “Navori Quickblades”物品提供30% Critical Strike Chance,和+18 Ability Haste。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_46": {
+            "id": "HdBsD5VspVM_46",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "“Navori Quickblades”物品的独特被动是什么？",
+            "options": [
+                "A. “Transcendence”，通过攻击减少非终极技能的冷却时间12%，以及“Impermanence”，根据暴击几率提升技能伤害最多20%。",
+                "B. “Transcendence”，提升暴击几率15%，以及“Impermanence”，增加技能急速20%。",
+                "C. “Transcendence”，减少技能伤害12%，以及“Impermanence”，提升攻击速度最多20%。",
+                "D. “Transcendence”，减少终极技能的冷却时间12%，以及“Impermanence”，增加收入金币20%。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_47": {
+            "id": "HdBsD5VspVM_47",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "两侧画面说明“Navori Quickblades”装备的建造路径中有多少组件？",
+            "options": [
+                "A. 建造路径中有四个组件。",
+                "B. 建造路径中有五个组件。",
+                "C. 建造路径中有六个组件。",
+                "D. 建造路径中有七个组件。"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_48": {
+            "id": "HdBsD5VspVM_48",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "右侧面板中，制作'Navori Quickblades'的组件成本是多少？",
+            "options": [
+                "A. 成本分别是1300金币、1100金币、600金币、350金币、250金币和350金币。",
+                "B. 成本分别是1300金币、1200金币、650金币、400金币、300金币和200金币。",
+                "C. 成本分别是1200金币、1100金币、700金币、350金币、300金币和300金币。",
+                "D. 成本分别是1400金币、1000金币、500金币、400金币、250金币和250金币。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_49": {
+            "id": "HdBsD5VspVM_49",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "对于同一物品，右侧面板详细说明物品属性的部分是否会变化？",
+            "options": [
+                "A. 是的，右侧面板已进行了重大更新。",
+                "B. 不，右侧面板保持静止且未被更改。",
+                "C. 是的，仅对右侧面板进行了细微调整。",
+                "D. 不，右侧面板已在更新中被移除。"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_50": {
+            "id": "HdBsD5VspVM_50",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "从右侧到左侧‘Navori Quickblades’合成路线中剑状部件的价格发生了什么变化？",
+            "options": [
+                "A. 价格从1300金币降低到875金币。",
+                "B. 价格从600金币增加到1100金币。",
+                "C. 价格从875金币增加到1300金币。",
+                "D. 价格保持不变。"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_51": {
+            "id": "HdBsD5VspVM_51",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "小地图上使用什么颜色标记来表示盟友、敌人？",
+            "options": [
+                "A. 清晰的蓝色和绿色标记用于表示盟友、敌人。",
+                "B. 清晰的蓝色和红色标记用于表示盟友、敌人。",
+                "C. 清晰的黄色和红色标记用于表示盟友、敌人。",
+                "D. 清晰的绿色和红色标记用于表示盟友、敌人。"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_52": {
+            "id": "HdBsD5VspVM_52",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "紫色旋涡位的位置在哪里？",
+            "options": [
+                "A. 紫色旋涡悬浮在训练木桩左侧。",
+                "B. 紫色旋涡在游戏英雄的头上方。",
+                "C. 紫色旋涡在大石头附近漂浮。",
+                "D. 紫色旋涡在道路中央。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_53": {
+            "id": "HdBsD5VspVM_53",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "画面中，游戏英雄那只手中拿着剑？",
+            "options": [
+                "A. 左手",
+                "B. 右手",
+                "C. 两只手都拿了",
+                "D. 两只手都没拿"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_54": {
+            "id": "HdBsD5VspVM_54",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "游戏英雄带着什么颜色的帽子？",
+            "options": [
+                "A. 黑色",
+                "B. 蓝色",
+                "C. 白色",
+                "D. 棕色"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_55": {
+            "id": "HdBsD5VspVM_55",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "画面中人，能看出游戏英雄的那些特点？",
+            "options": [
+                "A. 游戏英雄双腿搭在凳子上，拿着燃烧的纸张，戴着帽子拿着剑。",
+                "B. 游戏英雄站立在画面中，戴着帽子手里拿着手枪。",
+                "C. 游戏英雄侧身躺在椅子上，手里拿着一本书正在观看。",
+                "D. 游戏英雄坐在可以摇晃的椅子中，把玩手中的剑。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_56": {
+            "id": "HdBsD5VspVM_56",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "玩家控制的英雄的皮肤是什么颜色的？",
+            "options": [
+                "A. 玩家控制的英雄的皮肤是浅蓝色。",
+                "B. 玩家控制的英雄的皮肤是浅绿色。",
+                "C. 玩家控制的英雄的皮肤是浅紫色。",
+                "D. 玩家控制的英雄的皮肤是浅白色。"
+            ],
+            "answer": "D"
+        },
+        "HdBsD5VspVM_57": {
+            "id": "HdBsD5VspVM_57",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "玩家控制的英雄使用什么武器？",
+            "options": [
+                "A. 一把发射子弹的手枪",
+                "B. 一把发出蓝光的剑",
+                "C. 一把带有绿色箭矢的弓",
+                "D. 一把被红色火焰包围的锤子"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_58": {
+            "id": "HdBsD5VspVM_58",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "从小地图上看一共有几条路？",
+            "options": [
+                "A. 一条",
+                "B. 两条",
+                "C. 三条",
+                "D. 四条"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_59": {
+            "id": "HdBsD5VspVM_59",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "双面板格式中 featuring 的“Navori Quickblades”是否仍然存在？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 它会短暂出现",
+                "D. 不确定"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_60": {
+            "id": "HdBsD5VspVM_60",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "视频中的飞行中的紫色旋涡表明了什么？",
+            "options": [
+                "A. 飞行中的紫色旋涡表明某个技能或法术正在生效。",
+                "B. 飞行中的紫色旋涡表明游戏已暂停。",
+                "C. 飞行中的紫色旋涡表明英雄在撤退。",
+                "D. 飞行中的紫色旋涡表明游戏即将结束。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_61": {
+            "id": "HdBsD5VspVM_61",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "紫色的旋涡正朝哪个方向移动？",
+            "options": [
+                "A. 紫色的旋涡正远离英雄，朝着森林移动。",
+                "B. 紫色的旋涡正朝着未移动。",
+                "C. 紫色的旋涡正在地图上随机移动。",
+                "D. 紫色的旋涡正朝着敌方小兵的反方向移动。"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_62": {
+            "id": "HdBsD5VspVM_62",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "游戏内界面中的哪些视觉元素支持战略决策？",
+            "options": [
+                "A. 游戏内界面显示了英雄统计数据、记分板、小地图和角色进阶工具。",
+                "B. 游戏内界面仅显示玩家的健康状况和技能冷却时间。",
+                "C. 游戏内界面提供了带有详细天气效果的全景景观以供决策。",
+                "D. 游戏内界面仅包含一个无功能元素的装饰性边框。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_63": {
+            "id": "HdBsD5VspVM_63",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "屏幕上玩家控制的英雄位于哪里？",
+            "options": [
+                "A. 靠近屏幕的左上角，靠近三个训练木桩中的最左边一个。",
+                "B. 在屏幕中央，在三个训练木桩的左边。",
+                "C. 屏幕的右下角，靠近敌方基地。",
+                "D. 屏幕底部，靠近发光的红色守卫。"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_64": {
+            "id": "HdBsD5VspVM_64",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "该场景游戏界面以什么地形为主？",
+            "options": [
+                "A. 丛林地形",
+                "B. 沙漠地形",
+                "C. 海洋地形",
+                "D. 山地地形"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_65": {
+            "id": "HdBsD5VspVM_65",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "什么视觉指示器表示玩家主要攻击目标？",
+            "options": [
+                "A. 训练木桩前的旋转图形指示器",
+                "B. 左上角附近发光的红色守卫",
+                "C. 所有三个训练假人上方的生命条",
+                "D. 小地图中显示英雄的位置"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_66": {
+            "id": "HdBsD5VspVM_66",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "剩下的两个木桩是否显示更新后的战斗统计数据？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 仅有一个显示更新后的统计数据",
+                "D. 两个都受损但统计数据未更改"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_67": {
+            "id": "HdBsD5VspVM_67",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "游戏英雄在展示什么战术动作？",
+            "options": [
+                "A. 英雄正在同时攻击三个训练假人。",
+                "B. 英雄在来回移动攻击训练木桩。",
+                "C. 英雄无视训练假人并在丛林中探索。",
+                "D. 英雄使用隐身技能变得隐形。"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_68": {
+            "id": "HdBsD5VspVM_68",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "左侧画面最左侧训练木桩的生命减少速率意味着什么？",
+            "options": [
+                "A. 它表明训练木桩是主要攻击目标。",
+                "B. 它表明训练木桩正在恢复生命值。",
+                "C. 它表明训练木桩对攻击免疫。",
+                "D. 它意味着在战斗中没有被关注。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_69": {
+            "id": "HdBsD5VspVM_69",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "游戏英雄最后攻击之后，中间训练假人的最后命中值是多少？",
+            "options": [
+                "A. 1,647",
+                "B. 2,500",
+                "C. 1,555",
+                "D. 28,405"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_70": {
+            "id": "HdBsD5VspVM_70",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "游戏英雄最后攻击之后，训练木桩的的显示的DPS是多少？",
+            "options": [
+                "A. 1,464",
+                "B. 1,432",
+                "C. 3,084",
+                "D. 28,405"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_71": {
+            "id": "HdBsD5VspVM_71",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "游戏英雄最后攻击结束之后，中间训练假人的Total显示什么？",
+            "options": [
+                "A. 32,411",
+                "B. 1,742",
+                "C. 3,084",
+                "D. 1,555"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_72": {
+            "id": "HdBsD5VspVM_72",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "当前画面中显示的金币数量最接近下列哪一个？",
+            "options": [
+                "A. 23,876",
+                "B. 8,192",
+                "C. 93,798",
+                "D. 58,439"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_73": {
+            "id": "HdBsD5VspVM_73",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "过渡后视频中的当前场景是什么？",
+            "options": [
+                "A. 当前场景是完全黑屏，没有可辨别的物体、文字或环境背景。",
+                "B. 当前场景展示了一个生机勃勃的丛林，有茂盛的植被和高耸的树木。",
+                "C. 当前场景显示了一个细致的玩家HUD，其中包括发光的侦查守卫。",
+                "D. 当前场景以一个充满动作感的环境中的训练假人为特色。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_74": {
+            "id": "HdBsD5VspVM_74",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "当前画面中是否有任何人类角色可见？",
+            "options": [
+                "A. 是的，有多个人人类角色可见。",
+                "B. 是的，有一个人类角色可见。",
+                "C. 不，当前画面中没有人类角色可见。",
+                "D. 是否有人类角色可见不明确。"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_75": {
+            "id": "HdBsD5VspVM_75",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "当前画面中可见的元素有多少？",
+            "options": [
+                "A. 当前画面中没有元素可见。",
+                "B. 当前画面中有一个元素可见。",
+                "C. 当前画面中有几个元素可见。",
+                "D. 当前画面中有许多元素可见。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_76": {
+            "id": "HdBsD5VspVM_76",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "在过渡之后，屏幕上是否有视觉信息？",
+            "options": [
+                "A. 是的，屏幕上仍然有视觉信息。",
+                "B. 不，过渡后屏幕上没有视觉信息。",
+                "C. 屏幕上有些元素依稀可见。",
+                "D. 屏幕显示不同的场景，其中包含新的元素。"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_77": {
+            "id": "HdBsD5VspVM_77",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在视频开始商店界面展示了什么物品？",
+            "options": [
+                "A. 在静态商店界面序列的开头展示了'Infinity Edge'。",
+                "B. 在静态商店界面序列的开头展示了'Phantom Dancer'。",
+                "C. 在静态商店界面序列的开头展示了'Bloodthirster'。",
+                "D. 在静态商店界面序列的开头展示了'Rabadon's Deathcap'。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_78": {
+            "id": "HdBsD5VspVM_78",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在视频中展示“Infinity Edge”的静态商店界面后发生了什么？",
+            "options": [
+                "A. 视频从静态商店界面过渡到动态战斗游戏场景。",
+                "B. 视频切换到玩家角色在安全区休息的场景。",
+                "C. 视频显示一个带有新任务目标的对话框。",
+                "D. 视频显示结束字幕。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_79": {
+            "id": "HdBsD5VspVM_79",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "静态商店界面的主要重点是什么？",
+            "options": [
+                "A. 静态商店界面的主要重点是提供关于同一个装备进行比较。",
+                "B. 静态商店界面的主要重点是显示玩家当前的生命值和法力值。",
+                "C. 静态商店界面的主要重点是展示丛林环境及其各种元素。",
+                "D. 静态商店界面的主要重点是显示游戏中顶级玩家的排行榜。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_80": {
+            "id": "HdBsD5VspVM_80",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "商店界面之后的游戏片段描绘了什么？",
+            "options": [
+                "A. 商店界面之后的游戏片段展示了一名英雄正在攻击训练木桩。",
+                "B. 商店界面之后的游戏片段显示了从丛林环境直接过渡到游戏结束画面的情景。",
+                "C. 商店界面之后的游戏片段呈现了一名英雄定制其护甲的场景。",
+                "D. 商店界面之后的游戏片段描述了游戏剧情的一个电影式过场动画。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_81": {
+            "id": "HdBsD5VspVM_81",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "从战斗画面切换到黑屏，这一变化暗示了什么？",
+            "options": [
+                "A. 画面变化暗示着游戏暂停，让玩家休息一下。",
+                "B. 这一变化暗示了游戏被打断、切换到另一个场景，或者是视频结束。",
+                "C. 黑屏意味着游戏中出现了需要修复的错误。",
+                "D. 屏幕变黑表示新的丛林关卡的开始。"
+            ],
+            "answer": "B"
+        },
+        "HdBsD5VspVM_82": {
+            "id": "HdBsD5VspVM_82",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "左侧和右侧面板中，'Infinity Edge'描述有什么变化？",
+            "options": [
+                "A. 'Magic Resist'从左侧面板的30变为右侧面板的40。",
+                "B. 'Attack Damage'从左侧面板的70变为右侧面板的80。",
+                "C. 'Critical Strike Damage'从左侧面板的40%变为右侧面板的50%。",
+                "D. 'Cooldown Reduction'从左侧面板的10%变为右侧面板的15%。"
+            ],
+            "answer": "C"
+        },
+        "HdBsD5VspVM_83": {
+            "id": "HdBsD5VspVM_83",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在英雄攻击后，训练假人的伤害指标如何变化？",
+            "options": [
+                "A. 在英雄攻击后，伤害指标更新。",
+                "B. 尽管英雄进行了攻击，伤害指标依然不变。",
+                "C. 在英雄攻击后，伤害指标重置为零。",
+                "D. 在英雄攻击后，伤害指标只显示暴击率。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_84": {
+            "id": "HdBsD5VspVM_84",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么静态商店界面展示了“Infinity Edge”属性的不同版本？",
+            "options": [
+                "A. 这些变化展示了改动，可能是为了说明平衡更新或让玩家了解该物品不断变化的数据。",
+                "B. 这些变化确保玩家可以为特定角色构建购买不同版本的“Infinity Edge”。",
+                "C. 这些变化允许玩家根据自己的喜好自定义“Infinity Edge”的外观。",
+                "D. 这些变化显示了游戏商店界面的错误，由于故障或漏洞引起。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_85": {
+            "id": "HdBsD5VspVM_85",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "转为游戏英雄插图时，是一个怎样的背景？",
+            "options": [
+                "A. 背景昏暗，有火和栏杆。",
+                "B. 背景明亮，有树和草丛。",
+                "C. 背景柔和，有石头和小溪。",
+                "D. 背景一片漆黑，未发现明显特征。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_86": {
+            "id": "HdBsD5VspVM_86",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么游戏英雄在训练时要来回移动？",
+            "options": [
+                "A. 可能是利用丛林地形进行战略战斗定位。",
+                "B. 可能是探索与战斗无关的新游戏区域。",
+                "C. 可能是因为游戏中的随机事件导致自动移动。",
+                "D. 可能是为了收集散布在丛林中的装饰物品。"
+            ],
+            "answer": "A"
+        },
+        "HdBsD5VspVM_87": {
+            "id": "HdBsD5VspVM_87",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么游戏英雄要对训练假人使用攻击？",
+            "options": [
+                "A. 英雄对训练假人使用攻击是为了测试伤害输出。",
+                "B. 英雄对训练假人使用攻击是为了吓跑丛林生物。",
+                "C. 英雄对训练假人使用攻击是为了解锁秘密关卡。",
+                "D. 英雄对训练假人使用攻击是为了收集制作资源。"
+            ],
+            "answer": "A"
+        }
+    }
+}

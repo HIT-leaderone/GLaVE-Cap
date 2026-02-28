@@ -1,0 +1,2136 @@
+{
+    "scene_hint": {
+        "0": "一位自男子正朝着一架直升机大步走去。",
+        "1": "一位白发中年男人出现，旁边有一个工业箱。",
+        "2": "黑发男人登上直升机。",
+        "3": "镜头再度转向白发男人，这个男人欲言又止。",
+        "4": "黑发男人坐上直升机，在他微笑的同时机门关闭。",
+        "5": "白发男人沉默站在原地，头发被风微微吹起。",
+        "6": "直升机向上腾空飞起。",
+        "7": "镜头转向直升机内的黑发男人。",
+        "8": "黑发男人看向一旁并握了握手臂。",
+        "9": "手按向按钮，男人穿上盔甲飞出直升机，后出现一艘飞船。",
+        "10": "钢铁侠与美国队长在背景中程对峙姿势，屏幕上显示文字。"
+    },
+    "qa": {
+        "a0AGwUACt7E_0": {
+            "id": "a0AGwUACt7E_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "男人和直升机之间的空间关系是什么？",
+            "options": [
+                "A. 男人正在走向位于视频中央的直升机。",
+                "B. 男人正站在直升机旁边，检查它的旋翼。",
+                "C. 男人正走离直升机，朝机库边缘走去。",
+                "D. 男人坐在直升机里，准备起飞。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_1": {
+            "id": "a0AGwUACt7E_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这个装有直升机的飞机库的整体环境如何？",
+            "options": [
+                "A. 飞机库是一个明亮的、带有木梁和复古飞机的古朴储存设施。",
+                "B. 飞机库是一个灯光昏暗的，具有现代工业设计风格。",
+                "C. 飞机库是一个小型、杂乱的车库，配备基本的工具和设备。",
+                "D. 飞机库是一个开放的户外区域，光线很少且看不到明显的建筑结构。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_2": {
+            "id": "a0AGwUACt7E_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "那个男人穿得怎么样？",
+            "options": [
+                "A. 那个男人穿着黑色皮夹克和修身裤子。",
+                "B. 那个男人穿着白色实验室外套和牛仔裤。",
+                "C. 那个男人穿着灰色西装和领带。",
+                "D. 那个男人穿着黑色连帽衫和工装裤。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_3": {
+            "id": "a0AGwUACt7E_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "这个男人的举止表明了什么？",
+            "options": [
+                "A. 他的举止表现出一种随意但有目的的态度，以稳定的步伐和自信的动作朝着直升机前进。",
+                "B. 他的举止表现出一种匆忙而焦虑的态度，以快速的步伐和紧张的目光流连。",
+                "C. 他的举止表现出一种放松而无忧无虑的态度，以缓慢、漫步的步调前行。",
+                "D. 他的举止表现出一种犹豫不决和不确定的态度，以缓慢、不确定的步伐远离直升机。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_4": {
+            "id": "a0AGwUACt7E_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "在机库中的直升机是什么样子的？",
+            "options": [
+                "A. 直升机外形流线型，颜色为黑色，抛光表面反射着机库的灯光。",
+                "B. 直升机外观粗犷，涂有迷彩，表面为哑光。",
+                "C. 直升机体积小，颜色为红色，有明显的划痕和磨损。",
+                "D. 直升机呈明亮的银色，有金属磨损的外观。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_5": {
+            "id": "a0AGwUACt7E_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "飞机库里的直升机上有哪些标志？",
+            "options": [
+                "A. 'N78298' 和 'Stark' 品牌标志",
+                "B. 'N78208' 和 'Wayne' 品牌标志",
+                "C. 'N78209' 和 'Stark' 品牌标志",
+                "D. 'N78208' 和 'LexCorp' 品牌标志"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_6": {
+            "id": "a0AGwUACt7E_6",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "有哪些特征表明直升机与斯塔克工业的关联？",
+            "options": [
+                "A. 直升机上的“Stark”品牌标识表明其与斯塔克工业有关。",
+                "B. 直升机的红黑条纹标志着其与斯塔克工业的关联。",
+                "C. 直升机独特的旋翼设计表明其与斯塔克工业有关。",
+                "D. 直升机侧面写着的名字“Aero-X”表明其与斯塔克工业的关联。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_7": {
+            "id": "a0AGwUACt7E_7",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "机库内直升机的设计特点有哪些？",
+            "options": [
+                "A. 直升机设计现代，外形流线型，可见旋翼为红色。",
+                "B. 直升机设计复古，外形方正，旋翼小，窗户为透明。",
+                "C. 直升机设计前卫，有机翼而不是旋翼，驾驶舱为透明玻璃。",
+                "D. 直升机外形厚重，窗户狭窄，灯光装饰很少。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_8": {
+            "id": "a0AGwUACt7E_8",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "有多少人出现在画面中？",
+            "options": [
+                "A. 一个人",
+                "B. 两个人",
+                "C. 三个人",
+                "D. 四个人"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_9": {
+            "id": "a0AGwUACt7E_9",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "整个场景中，文字'N78298'是否可见？",
+            "options": [
+                "A. 是的，文字'N78298'在整个场景中都可见。",
+                "B. 不，文字'N78298'在整个场景中不可见。",
+                "C. 场景中文字'N78298'发生了变化。",
+                "D. 场景中根本没有显示文字'N78298'。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_10": {
+            "id": "a0AGwUACt7E_10",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "当这个人接近直升机时，他的动作发生了什么变化？",
+            "options": [
+                "A. 当他接近直升机时，他的动作未发现明显变化。",
+                "B. 当他接近直升机时，他开始加快速度。",
+                "C. 他改变方向，向左走，相对于直升机而言。",
+                "D. 他停下来，暂停走动以观察直升机。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_11": {
+            "id": "a0AGwUACt7E_11",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "哪种类型的摄像镜头能突出这个男人的前进动作？",
+            "options": [
+                "A. 从男人上方的俯视镜头",
+                "B. 略微仰角的低角度镜头",
+                "C. 从侧面的特写镜头",
+                "D. 从远处的广角镜头"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_12": {
+            "id": "a0AGwUACt7E_12",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "随着场景的发展，直升机的品牌标识发生了什么变化？",
+            "options": [
+                "A. 直升机的品牌标识完全消失。",
+                "B. 直升机的品牌标识几乎没有变化。",
+                "C. 直升机的品牌标识变成了与斯塔克工业无关的不同标志。",
+                "D. 直升机的品牌标识被更大字体的注册号“N78208”取代。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_13": {
+            "id": "a0AGwUACt7E_13",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "随着场景的发展，直升机的编号会发生什么变化？",
+            "options": [
+                "A. 编号'N78298'部分被遮挡。",
+                "B. 编号号变为'N78309'。",
+                "C. 编号号被完全移除。",
+                "D. 编号号被照亮以提高可见性。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_14": {
+            "id": "a0AGwUACt7E_14",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素将观众的注意力引向那名男子和直升机上？",
+            "options": [
+                "A. 照亮的步道、嵌入地面的灯光和橙色护栏将观众的注意力引向那名男子和直升机上。",
+                "B. 明亮的顶部灯具反射在机械上，将观众的注意力引向那名男子和直升机上。",
+                "C. 直升机上的标志和深色窗户将观众的注意力引向那名男子和直升机上。",
+                "D. 背景中散落的机械和设备将观众的注意力引向那名男子和直升机上。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_15": {
+            "id": "a0AGwUACt7E_15",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "从视频来看，大型工业箱相对于白发男人的位置在哪里？",
+            "options": [
+                "A. 大型工业箱在男人右侧。",
+                "B. 大型工业箱在男人的后面。",
+                "C. 大型工业箱在男人左侧。",
+                "D. 大型工业箱在男人的上方。"
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_16": {
+            "id": "a0AGwUACt7E_16",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这个场景的整体环境是什么？",
+            "options": [
+                "A. 一个以工业元素为特征的高科技机库，比如裸露的管道、电缆、梯子和金属表面。",
+                "B. 一个舒适的休息室，配有舒适的座椅、温暖的灯光和木质装饰。",
+                "C. 一个自然的户外环境，有树木、草地和宁静的湖泊。",
+                "D. 一个地下洞穴，岩石墙壁和钟乳石，由火炬微弱照明。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_17": {
+            "id": "a0AGwUACt7E_17",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "相较于上一个场景，这个场景的环境如何变化？",
+            "options": [
+                "A. 环境以直升机为中心焦点转移到机库的其他部分上。",
+                "B. 环境始终以直升机为中心，没有转移到其他元素上。",
+                "C. 场景从户外设置转换到一个灯光昏暗的未来实验室。",
+                "D. 机库变成一个繁忙的市场，有各种人和摊位。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_18": {
+            "id": "a0AGwUACt7E_18",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "该场景中的男人穿着是什么？",
+            "options": [
+                "A. 穿着一套亮红色的西装。",
+                "B. 穿着一件黑色的夹克。",
+                "C. 穿着一件白色实验室外套。",
+                "D. 穿着一件蓝色连身衣。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_19": {
+            "id": "a0AGwUACt7E_19",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "场景中可见的工业箱具有哪些特性？",
+            "options": [
+                "A. 工业箱是一个带有多个锁扣和把手的黑色容器。",
+                "B. 工业箱是一个带有单个锁扣的小型亮红色盒子。",
+                "C. 工业箱是一个没有可见把手的中型蓝色容器。",
+                "D. 工业箱是一个带有轮子和锁的大型透明箱子。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_20": {
+            "id": "a0AGwUACt7E_20",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "场景中工业箱的设计特点是什么？",
+            "options": [
+                "A. 该箱子是一个表面被黑色带子包裹的全黑并且带有金属卡扣的箱子。",
+                "B. 该箱子是一个简单的木箱，没有标记或标签，用于一般存储。",
+                "C. 该箱子是一个透明容器，可以看到其内容物，没有安全功能。",
+                "D. 该箱子是一个装饰品，有华丽的雕刻和鲜艳的颜色，用于美观目的。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_21": {
+            "id": "a0AGwUACt7E_21",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "该场景开始时，有多少人是直接可见的？",
+            "options": [
+                "A. 一个人。",
+                "B. 两个人。",
+                "C. 三个人。",
+                "D. 没有人。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_22": {
+            "id": "a0AGwUACt7E_22",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "在该场景结束时，有多少人是直接可见的？",
+            "options": [
+                "A. 两个人是可见的。",
+                "B. 没有人是可见的。",
+                "C. 只有一个人是可见的。",
+                "D. 三个人是可见的。"
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_23": {
+            "id": "a0AGwUACt7E_23",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "直升机在这个场景中都能看见吗？",
+            "options": [
+                "A. 是的，直升机在整个场景中都能看见。",
+                "B. 不，直升机在这个场景中一直未见。",
+                "C. 是的，直升机一直保持静止且一直可见。",
+                "D. 不，直升机在场景开始前就从视野中移除了。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_24": {
+            "id": "a0AGwUACt7E_24",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "转换到该场景时，这个人做了什么动作？",
+            "options": [
+                "A. 这个人向前一步站立，并开始说话。",
+                "B. 这个人物操作直升机，然后离开场景。",
+                "C. 这个人与工业箱互动并检查其内容。",
+                "D. 这个人物爬上梯子以进入上层平台。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_25": {
+            "id": "a0AGwUACt7E_25",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "这个大型工业箱是新加入到这一场景中的吗？",
+            "options": [
+                "A. 是的，这个大型工业箱是新加入到场景中的。",
+                "B. 不是，这个工业箱自上一个场景开始就一直存在。",
+                "C. 是的，但它在背景中只简短出现。",
+                "D. 不是，这个箱子之前在直升机附近清晰可见。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_26": {
+            "id": "a0AGwUACt7E_26",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "大型工业箱子是静止的吗？",
+            "options": [
+                "A. 是的，箱子是静止的。",
+                "B. 不，箱子是移动的。",
+                "C. 是的，但是箱子是被某人搬运的。",
+                "D. 不，箱子是在一开始由机械起重机吊起的。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_27": {
+            "id": "a0AGwUACt7E_27",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "这个人相对于直升机的位置在哪里？",
+            "options": [
+                "A. 这个人在直升机侧面。",
+                "B. 这个人在直升机里。",
+                "C. 这个人在直升机上面。",
+                "D. 这个人远离直升机。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_28": {
+            "id": "a0AGwUACt7E_28",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "那名男子在直升机侧面做什么？",
+            "options": [
+                "A. 那名男子正将手握在直升机顶部把手上。",
+                "B. 那名男子正在修理直升机的引擎。",
+                "C. 那名男子正在给直升机的外部涂漆。",
+                "D. 那名男子正在向直升机外的人挥手。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_29": {
+            "id": "a0AGwUACt7E_29",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "这个男人在做什么？",
+            "options": [
+                "A. 这个男人正站在直升机侧面敞开的侧门口。",
+                "B. 这个男人正坐在直升机里操作控制装置。",
+                "C. 这个男人正站在直升机旁，用无线电通话。",
+                "D. 这个男人正用手电筒检查直升机的外部。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_30": {
+            "id": "a0AGwUACt7E_30",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "这个男人看起来怎么样？",
+            "options": [
+                "A. 他穿着一件黑色皮夹克，一只手被黑色吊带固定。",
+                "B. 他穿着亮黄色的雨衣，撑着一把伞以防止自己被雨淋湿。",
+                "C. 他穿着黑色西装，打着红色领带，正式地站在直升机旁边。",
+                "D. 他穿着随意，牛仔裤搭配T恤，看起来放松且无拘无束。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_31": {
+            "id": "a0AGwUACt7E_31",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "直升机的外观是什么样的？",
+            "options": [
+                "A. 直升机有一个亮白色的外观，带有“DUSTRIES”标志。",
+                "B. 直升机外观是黑色的，有白色线条，带有“DUSTRIES”标志。",
+                "C. 直升机的外观是哑光黑色，没有可见的标志。",
+                "D. 直升机有一个金属银色的外观，标志很模糊。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_32": {
+            "id": "a0AGwUACt7E_32",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "是什么表明直升机经历了近期降雨？",
+            "options": [
+                "A. 直升机上有残留的水滴，表明最近下过雨。",
+                "B. 直升机上覆盖着积雪，表明最近下过雪。",
+                "C. 直升机的窗户覆有霜，暗示结冰的环境。",
+                "D. 直升机的外部布满灰尘，表明长期没有下雨。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_33": {
+            "id": "a0AGwUACt7E_33",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "直升机侧门上有什么细节可见？",
+            "options": [
+                "A. 直升机的侧门是打开的。",
+                "B. 直升机的侧门是关闭的。",
+                "C. 直升机的侧门被泥覆盖。",
+                "D. 直升机的侧门没有照明。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_34": {
+            "id": "a0AGwUACt7E_34",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "直升机内部可以看到什么？",
+            "options": [
+                "A. 直升机内部可以看到一部分米白色的内结构。",
+                "B. 直升机内部整齐排列着一堆金属箱。",
+                "C. 直升机内有一个配备齐全的控制面板，按钮发光。",
+                "D. 直升机内部有一排排乘客座椅。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_35": {
+            "id": "a0AGwUACt7E_35",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "直升机窗户的形状是什么？",
+            "options": [
+                "A. 直升机的窗户是不规则的矩形。",
+                "B. 直升机的窗户是圆形的。",
+                "C. 直升机的窗户是三角形的。",
+                "D. 直升机的窗户是方形的。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_36": {
+            "id": "a0AGwUACt7E_36",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "这一场景中可以看到多少人？",
+            "options": [
+                "A. 一个人",
+                "B. 两个人",
+                "C. 三个人",
+                "D. 没有人"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_37": {
+            "id": "a0AGwUACt7E_37",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "直升机的门开着吗？",
+            "options": [
+                "A. 是的，门是开的。",
+                "B. 不，门是关着的。",
+                "C. 门是半开的。",
+                "D. 门的状态不清楚。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_38": {
+            "id": "a0AGwUACt7E_38",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "直升机的内部是否可见？",
+            "options": [
+                "A. 是，直升机的内部通过打开的侧门清晰可见。",
+                "B. 是，直升机的内部通过打开的侧门微弱可见。",
+                "C. 不，直升机的内部通过打开的侧门完全不可见。",
+                "D. 不，直升机侧门未打开，内部不可见。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_39": {
+            "id": "a0AGwUACt7E_39",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "这个场景中，稳定的摄影角度强调了什么？",
+            "options": [
+                "A. 它强调了质感、氛围，以及男人与直升机之间细微的互动。",
+                "B. 它强调了男人进入直升机时的激烈动作。",
+                "C. 它强调了直升机起飞的速度和紧迫感。",
+                "D. 它强调了场景中明亮、丰富的灯光。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_40": {
+            "id": "a0AGwUACt7E_40",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "由于交互或环境，材质发生了什么变化？",
+            "options": [
+                "A. 昏暗的灯光突出了男人夹克的质感和褶皱、他背上的斜跨带以及直升机上的水滴。",
+                "B. 明亮的阳光增强了直升机平滑的表面和男人闪亮的鞋子。",
+                "C. 强风使男人的夹克摆动，显露出背后的隐藏徽章。",
+                "D. 强烈的热浪使直升机的金属表面看起来扭曲和变形。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_41": {
+            "id": "a0AGwUACt7E_41",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "该场景中，灯光照明是否发生变化？",
+            "options": [
+                "A. 否，未发现明显变化。",
+                "B. 否，灯光始终明亮。",
+                "C. 否，灯光始终昏暗。",
+                "D. 是，灯光有明亮转为黑暗。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_42": {
+            "id": "a0AGwUACt7E_42",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "这个男人那只手臂被吊带固定？",
+            "options": [
+                "A. 右手。",
+                "B. 左手。",
+                "C. 两只手臂均受伤。",
+                "D. 未出现被固定的手臂。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_43": {
+            "id": "a0AGwUACt7E_43",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "这一场景中，男人的手部有发生动作吗？",
+            "options": [
+                "A. 不，这个男人手臂下垂，未做动作。",
+                "B. 是，这个男人单手向上抬起，握住扶手。",
+                "C. 是，这个男人双手交叉，放于胸前。",
+                "D. 是，这个男人正在面向镜头挥手打招呼。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_44": {
+            "id": "a0AGwUACt7E_44",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "在画面转向这个男人时，他做了什么动作？",
+            "options": [
+                "A.他微微偏头，欲言又止。",
+                "B.他将手臂抬起，微微招手。",
+                "C.他身体微转，背对镜头。",
+                "D.他正低头望向地面。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_45": {
+            "id": "a0AGwUACt7E_45",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "室内场景中描绘的环境是什么？",
+            "options": [
+                "A. 一个温馨的客厅环境。",
+                "B. 一个高科技、工业设计的环境。",
+                "C. 一个别致的咖啡馆环境。",
+                "D. 一个乡村风格的小木屋环境。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_46": {
+            "id": "a0AGwUACt7E_46",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "这个男人的外貌在室内场景中传达了什么？",
+            "options": [
+                "A. 这个男人穿着休闲装，毫不费力地融入周围的环境。",
+                "B. 这个男人穿着黑色高领衣服，散发出一种正式和权威的气息。",
+                "C. 这个男人穿着一件粗犷的户外夹克，反映了一种随和的态度。",
+                "D. 这个男人穿着礼服，象征着一种传统和尊重的环境。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_47": {
+            "id": "a0AGwUACt7E_47",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "室内场景中突出的不同色调是什么？",
+            "options": [
+                "A. 温暖色调的漫射光和明亮绿色光。",
+                "B. 冷色调的漫射光和在微弱红色光。",
+                "C. 暗色调的直射光和在鲜艳蓝色光。",
+                "D. 明亮色调的自然光和显眼的黄色光。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_48": {
+            "id": "a0AGwUACt7E_48",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "这一场景是否包含其他户外元素，比如直升机？",
+            "options": [
+                "A. 是的，室内场景包括直升机和其他户外元素。",
+                "B. 不，室内场景不包含任何户外元素，比如直升机。",
+                "C. 是的，直升机在室内场景的背景中可见。",
+                "D. 不，室内场景只包括来自开放户外环境的元素。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_49": {
+            "id": "a0AGwUACt7E_49",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "这一场景是否可以观察到湿地面？",
+            "options": [
+                "A. 是的，可以观察到湿地面。",
+                "B. 不，场景中未出现地面。",
+                "C. 是的，观察到有湿地面和干燥区域的混合地面。",
+                "D. 不清楚室内场景是否包括湿地面。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_50": {
+            "id": "a0AGwUACt7E_50",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "男人在室内场景前景中的位置如何与叙事焦点相关？",
+            "options": [
+                "A. 男人位于前景的位置，通过模糊背景，反映了叙事焦点的转移。",
+                "B. 男人位于前景的位置表明他正在从远处观察直升机，这表明是一个反思的阶段。",
+                "C. 男人在场景中的不显眼位置表明他在叙事的这一部分中是一个次要角色。",
+                "D. 男人位于前景的位置突出了回到早期室外场景的情节，保持了对过去事件的关注。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_51": {
+            "id": "a0AGwUACt7E_51",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "微弱红光位这个男人哪个位置？",
+            "options": [
+                "A. 微弱的红光位于这个男人的左侧。",
+                "B. 微弱的红光位于这个男人的右侧。",
+                "C. 微弱的红光位于这个男人的前面。",
+                "D. 微弱的红光位于这个男人的后面。"
+            ],
+            "answer": "D"
+        },
+        "a0AGwUACt7E_52": {
+            "id": "a0AGwUACt7E_52",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "这一场景中摄像机角度使用了怎样的角度？",
+            "options": [
+                "A. 摄像机保持在眼睛水平。",
+                "B. 摄像机从高角度拍摄。",
+                "C. 摄像机从低角度拍摄。",
+                "D. 摄像机从鸟瞰视角拍摄。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_53": {
+            "id": "a0AGwUACt7E_53",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "摄像机角度如何在室内场景的呈现中发挥作用？",
+            "options": [
+                "A. 它让男人保持在焦点的同时融入环境细节，使观众扎根于场景中，并强调男人的角色。",
+                "B. 它主要突出机器设备，淡化男人在场景中的重要性。",
+                "C. 它使用低角度拍摄以强调高耸的机器和工业设计，而不是男人。",
+                "D. 它保持静止，提供对整体工业环境的远景观察，几乎不关注男人。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_54": {
+            "id": "a0AGwUACt7E_54",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "这个场景中，男人的服装有发生变化吗？",
+            "options": [
+                "A. 这个男人的服装未发生变化。",
+                "B. 这个男人的服装变成了一套色彩鲜艳的休闲装。",
+                "C. 这个男人的服装变成了一件粗犷户外夹克。",
+                "D. 这个男人的服装变成了一套带领带的正式西装。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_55": {
+            "id": "a0AGwUACt7E_55",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "是什么为这一场景的柔和色调提供了视觉对比？",
+            "options": [
+                "A. 背景中的微弱红光",
+                "B. 背景中的一束明亮黄色聚光灯",
+                "C. 机械附近的发光绿色面板",
+                "D. 来自顶灯的柔和紫色光晕"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_56": {
+            "id": "a0AGwUACt7E_56",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "从视频来看，直升机上的“EXIT”标签位于哪里？",
+            "options": [
+                "A. “EXIT”标签位于直升机内部左下角。",
+                "B. “EXIT”标签位于直升机内部右下角。",
+                "C. “EXIT”标签位于直升机外部靠近尾部的位置。",
+                "D. “EXIT”标签位于飞行员的控制面板上。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_57": {
+            "id": "a0AGwUACt7E_57",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "这一场景中背景展示了什么环境？",
+            "options": [
+                "A. 背景展示了一个正打开的直升机，内部是米白色色调，还有其他文字显示。",
+                "B. 背景展示了一个阳光明媚的户外公园，天空晴朗，绿意盎然，表明这是白天的环境。",
+                "C. 背景展示了一个室内办公室，有明亮的日光灯和现代的家具。",
+                "D. 背景展示了一个农村景观，有开阔的田野、木栅栏和在晴朗的蓝天下的远处农舍。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_58": {
+            "id": "a0AGwUACt7E_58",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "在中景镜头中，直升机里的那个人在做什么？",
+            "options": [
+                "A. 那个人向前倾，准备下直升机。",
+                "B. 那个人向下坐在直升机座位上。",
+                "C. 那个人正在调整直升机的控制装置，准备起飞。",
+                "D. 那个人站在敞开的门边，向城市景观望去。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_59": {
+            "id": "a0AGwUACt7E_59",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "直升机内部遮篷有哪些特点？",
+            "options": [
+                "A. 内部遮篷采用米白色装饰，带有可见的“EXIT”标签。",
+                "B. 内部遮篷明亮，带有红色装饰，没有可见的标签。",
+                "C. 内部遮篷为深色装饰，并有“CAUTION”标志可见。",
+                "D. 内部遮篷为黑色皮革装饰，并有发光的控制面板。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_60": {
+            "id": "a0AGwUACt7E_60",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "在描述的场景中，直升机的门是什么状态？",
+            "options": [
+                "A. 是的，直升机的侧门在描述的场景中一直开着。",
+                "B. 不，直升机的侧门在整个场景中都是完全关闭的。",
+                "C. 门是部分打开的，但在最后一帧中是关闭的。",
+                "D. 门在场景中在开和关之间交替。"
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_61": {
+            "id": "a0AGwUACt7E_61",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "这位男子在直升机里调整位置是怎么做的？",
+            "options": [
+                "A. 这名男子保持上半身向前倾的姿势坐往位置。",
+                "B. 这名男子脱下外套以变得更舒适。",
+                "C. 这名男子滑动到机舱的另一侧以平衡重量。",
+                "D. 这名男子伸手去关直升机的门。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_62": {
+            "id": "a0AGwUACt7E_62",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "在直升机车门即将关闭时，那个男人的姿势是什么？",
+            "options": [
+                "A. 那个男人保持向前倾斜，姿势稳定。",
+                "B. 那个男人向后躺在一个倾斜的位置。",
+                "C. 那个男人蹲在敞开的门附近。",
+                "D. 那个男人进一步向驾驶舱倾斜。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_63": {
+            "id": "a0AGwUACt7E_63",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "在直升机侧门关闭最后，那名男子的姿势是怎样的？",
+            "options": [
+                "A. 那名男子向后靠在了座椅上。",
+                "B. 那名男子从座位上起身。",
+                "C. 那名男子保持原本倾斜姿势。",
+                "D. 那名男子伸出直升机外部进行观察。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_64": {
+            "id": "a0AGwUACt7E_64",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "在直升机车侧门关闭时，直升机外部文字是否可见？",
+            "options": [
+                "A. 是，文字在直升机外部完全可见。",
+                "B. 是，文字在直升机外部部分可见。",
+                "C. 不，文字在直升机外部完全不可见。",
+                "D. 不，直升机外部未出现任何文字图案。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_65": {
+            "id": "a0AGwUACt7E_65",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "摄像机在整个场景中保持一致的焦点吗？",
+            "options": [
+                "A. 是的，摄像机始终保持对直升机及其机舱的稳定对焦。",
+                "B. 不是，摄像机经常将焦点转移到城市背景上。",
+                "C. 是的，但焦点主要停留在直升机机翼。",
+                "D. 不是，焦点主要停留在那个男人身上，忽视了直升机。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_66": {
+            "id": "a0AGwUACt7E_66",
+            "scene": 4,
+            "dimension": "Camera Direction",
+            "question": "在一场景中，摄像机会有变化吗？",
+            "options": [
+                "A. 是的，摄像机有时会微微放大，以强调这个人的存在和动作。",
+                "B. 不，摄像机在整个场景中保持恒定距离，未变化。",
+                "C. 是的，摄像机会戏剧性地放大以聚焦在直升机的外部。",
+                "D. 不，摄像机只会平移而不会放大。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_67": {
+            "id": "a0AGwUACt7E_67",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "这一场景用什么类型的镜头拍摄直升机的机舱和乘员？",
+            "options": [
+                "A. 使用了特写镜头。",
+                "B. 使用了中景镜头。",
+                "C. 使用了广角镜头。",
+                "D. 使用了鸟瞰镜头。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_68": {
+            "id": "a0AGwUACt7E_68",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "这一场景直升机在视频中有移动吗？",
+            "options": [
+                "A. 直升机在所描述的场景中始终保持静止。",
+                "B. 直升机在所描述的场景中被看到起飞。",
+                "C. 直升机在所描述的场景中飞越城市。",
+                "D. 直升机在所描述的场景中略为移动，但没有起飞。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_69": {
+            "id": "a0AGwUACt7E_69",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "在这一场景中，男人的姿势有哪些显著变化？",
+            "options": [
+                "A. 这个男人起初向前倾斜，最后向后倚靠在座位上。",
+                "B. 这个男人起初向后倚靠，然后在打开的门旁向前倾斜。",
+                "C. 这个男人一开始是直立坐着的，然后走到打开的门旁站立。",
+                "D. 这个男人一开始侧身倚靠，然后转为躺在舱内。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_70": {
+            "id": "a0AGwUACt7E_70",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "在这一场景最后，男人的位置发生了哪些显著变化？",
+            "options": [
+                "A. 男人走到直升机外面。",
+                "B. 男人站起来走出直升机。",
+                "C. 男人后来向舱内深处移动。",
+                "D. 男人探出开着的门向外看。"
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_71": {
+            "id": "a0AGwUACt7E_71",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "从视频来看，直升机侧门像哪个方向关闭？",
+            "options": [
+                "A. 侧门从左向右关闭。",
+                "B. 侧门从右向左关闭。",
+                "C. 侧门从上向下关闭。",
+                "D. 侧门从下向上关闭。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_72": {
+            "id": "a0AGwUACt7E_72",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "从视频来看，白发男人站立的姿势与位置是怎样的？",
+            "options": [
+                "A. 这个男人微微侧身站立在屏幕右边。",
+                "B. 这个男人笔直站立在屏幕中央。",
+                "C. 这个男人侧身站立在屏幕左边。",
+                "D. 这个男人背对镜头站立。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_73": {
+            "id": "a0AGwUACt7E_73",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "这一场景中是否有新的箱子出现？",
+            "options": [
+                "A. 是的，有多个新的箱子出现。",
+                "B. 不，视频中只有一个箱子出现。",
+                "C. 不，视频中未出现任何箱子。",
+                "D. 视频可见度低，不能确定。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_74": {
+            "id": "a0AGwUACt7E_74",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "这一场景中这个男人的面部表情是怎样的？",
+            "options": [
+                "A. 兴奋、愉悦的。",
+                "B. 惊恐、忧心的。",
+                "C. 平静、稳定的。",
+                "D. 伤心、难过的。"
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_75": {
+            "id": "a0AGwUACt7E_75",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "这个男人外貌特征是怎样的？",
+            "options": [
+                "A. 这是一个中年男人，有一头黑色短发、黑色胡子和黑色眉毛。",
+                "B. 这是一个中年男人，有一头白色短发、黑色胡子和隐约可见的眉毛。",
+                "C. 这是一个中年男人，有一头柔顺的黑色长发、黑色胡子和黑色眉毛。",
+                "D. 这是一个中年男人，有一头白色短发、白色胡子和白色眉毛。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_76": {
+            "id": "a0AGwUACt7E_76",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "直升机起飞对这个男人造成了什么影响？",
+            "options": [
+                "A. 直升机起飞螺旋桨的风力将这个男人吹到在地上。",
+                "B. 直升机起飞螺旋桨的风力将这个男人的头发微微吹起。",
+                "C. 直升机起飞螺旋桨的风力对这个男人完全没影响。",
+                "D. 直升机起飞这个男人已经离开，走远了。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_77": {
+            "id": "a0AGwUACt7E_77",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "直升机相对于圆形工业平台的位置在哪里？",
+            "options": [
+                "A. 直升机位于圆形工业平台的上方。",
+                "B. 直升机位于圆形工业平台的下方。",
+                "C. 直升机位于圆形工业平台的旁边。",
+                "D. 直升机位于圆形工业平台的内部。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_78": {
+            "id": "a0AGwUACt7E_78",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "直升飞机怎样飞向空中的？",
+            "options": [
+                "A. 直升飞机程旋转式飞向空中。",
+                "B. 直升飞机向右转弯飞向空中。",
+                "C. 直升飞机向左转弯飞向空中。",
+                "D. 直升飞机直接起飞，未改变方向。"
+            ],
+            "answer": "D"
+        },
+        "a0AGwUACt7E_79": {
+            "id": "a0AGwUACt7E_79",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "在这一场景中，直升机看起来是什么样子的？",
+            "options": [
+                "A. 直升机有一个黑色外壳带有线条，轮廓隐约可见，与圆台背景几乎融为一体。",
+                "B. 直升机有一个明亮的金属外壳，设计圆润，与清澈平静的水域形成鲜明对比。",
+                "C. 直升机有一个银色的流线型圆柱形外壳，表面有明亮的灯光照亮。",
+                "D. 直升机外壳锈迹斑斑，呈盒状结构，周围是平静的浅水区域。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_80": {
+            "id": "a0AGwUACt7E_80",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "直升机飞出圆台创造了什么样的氛围？",
+            "options": [
+                "A. 气氛神秘而紧张，由低调的灯光增强。",
+                "B. 气氛轻松而充满冒险，由明亮多彩的灯光衬托。",
+                "C. 气氛平静而安详，由柔和温暖的灯光补充。",
+                "D. 气氛混乱而充满玩趣，由鲜艳闪烁的灯光凸显。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_81": {
+            "id": "a0AGwUACt7E_81",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "在这个场景中可以看到多少架直升机？",
+            "options": [
+                "A. 一架直升机",
+                "B. 两架直升机",
+                "C. 三架直升机",
+                "D. 四架直升机"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_82": {
+            "id": "a0AGwUACt7E_82",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "黑色的流线型直升机是否出现在工业园区上空？",
+            "options": [
+                "A. 是的，黑色的流线型直升机出现在工业园区上空。",
+                "B. 不，黑色的流线型直升机仅出现在海洋上空。",
+                "C. 不，黑色的流线型直升机从未出现在画面上。",
+                "D. 是的，但仅在未来的机库中。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_83": {
+            "id": "a0AGwUACt7E_83",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "当直升机停在起飞过程中时，它的旋翼会怎么样？",
+            "options": [
+                "A. 直升机的旋翼开始旋转，吸引注意力到其动态运动和存在感。",
+                "B. 直升机的旋翼保持静止，强调其流线型设计。",
+                "C. 直升机的旋翼收回到机身，突显其先进技术。",
+                "D. 直升机的旋翼被拆除进行维护，展示其模块化结构。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_84": {
+            "id": "a0AGwUACt7E_84",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "从视频里看，直升机在飞上天空时最后向哪个方向倾斜？",
+            "options": [
+                "A. 直升机向右上方倾斜。",
+                "B. 直升机向下倾斜。",
+                "C. 直升机向左上方倾斜。",
+                "D. 直升机向右下方倾斜。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_85": {
+            "id": "a0AGwUACt7E_85",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "直升机起飞时天气怎么样？",
+            "options": [
+                "A. 天气晴，能见度高",
+                "B. 天气多云，能见度高。",
+                "C. 天气阴，下雨，能见度低。",
+                "D. 天黑，未能观察到天气状况。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_86": {
+            "id": "a0AGwUACt7E_86",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "直升机在聚焦于机库后会发生什么？",
+            "options": [
+                "A. 直升机保持原地不动，旋翼继续旋转。",
+                "B. 直升机从旋翼旋转但静止的状态过渡到上升。",
+                "C. 直升机缓慢下降回机库地面。",
+                "D. 直升机在空中悬停，altitude没有变化。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_87": {
+            "id": "a0AGwUACt7E_87",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "在雾蒙蒙的阴天环境中，直升机的外观如何变化？",
+            "options": [
+                "A. 在雾蒙蒙的阴天环境中，直升机的机身显得更大且更细致，机身细节被朦胧的氛围所覆盖。",
+                "B. 在雾蒙蒙的阴天环境中，直升机完全消失，取而代之的是清晰的海洋景色。",
+                "C. 在雾蒙蒙的阴天环境中，直升机的机身显得更小，完全被薄雾遮掩，使其无法辨识。",
+                "D. 在雾蒙蒙的阴天环境中，直升机被明亮地照亮，没有可见的薄雾或大气干扰。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_88": {
+            "id": "a0AGwUACt7E_88",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "从男人来看，玻璃窗位于什么位置？",
+            "options": [
+                "A. 玻璃窗在男人的左手边。",
+                "B. 玻璃窗在男人的正前方。",
+                "C. 玻璃窗在男人的右手方。",
+                "D. 玻璃窗在男人的上方。"
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_89": {
+            "id": "a0AGwUACt7E_89",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "场景的整体环境是什么？",
+            "options": [
+                "A. 场景设置在一个被明亮照亮的户外公园，周围有生机勃勃的绿植。",
+                "B. 场景设置在一个光线昏暗的环境中，窗子顶部有把手。",
+                "C. 场景设置在一个熙熙攘攘的市场中，充满了鲜艳的色彩和噪音。",
+                "D. 场景设置在一个装饰华丽的豪华酒店大堂。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_90": {
+            "id": "a0AGwUACt7E_90",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "这个场景的整体基调是什么？",
+            "options": [
+                "A. 基调是简约和电影感，通过柔和的环境光和阴影得到增强。",
+                "B. 基调是活泼且充满活力的，色彩鲜艳，动作节奏快。",
+                "C. 基调是混乱和无序的，视觉杂乱无章，光影不稳定。",
+                "D. 基调是欢快和活泼的，伴随着轻快的音乐和有趣的互动。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_91": {
+            "id": "a0AGwUACt7E_91",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "坐着的人穿着什么？",
+            "options": [
+                "A. 坐着的人穿着一件光亮的黑色皮夹克，左臂上戴有固定手臂的带子。",
+                "B. 坐着的人穿着一件蓝色牛仔夹克，手指上戴着银戒指，脖子上戴着金项链。",
+                "C. 坐着的人穿着一件灰色连帽衫，手上戴着黑色手套，手腕上有一条银色链手链。",
+                "D. 坐着的人穿着一件绿色飞行夹克，两只手臂上都有皮制腕带，并戴着一块电子表。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_92": {
+            "id": "a0AGwUACt7E_92",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "背景右侧可以看到什么？",
+            "options": [
+                "A. 右侧有一个带有白色标签、红色图标的禁止吸烟标志以及一张黄色标志。",
+                "B. 右侧有一张带有突出路线的大地图、墙上的一个小镜子，以及一个明亮的红色按钮面板。",
+                "C. 右侧有一个带有醒目图案的禁止吸烟标志、一扇带有雨滴的窗户，以及一个绿色的紧急出口灯。",
+                "D. 右侧有一件悬挂的外套、一小块放有文件的架子，以及一个带蓝光的控制面板。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_93": {
+            "id": "a0AGwUACt7E_93",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "坐着的人佩戴了什么显眼的饰品？",
+            "options": [
+                "A. 一个银色手表",
+                "B. 一条鲜红色围巾",
+                "C. 一副墨镜",
+                "D. 一个金戒指"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_94": {
+            "id": "a0AGwUACt7E_94",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "这个场景是设定在户外环境吗？",
+            "options": [
+                "A. 是的，这个场景设定在户外环境。",
+                "B. 不，这个场景设定在沙滩环境。",
+                "C. 不，这个场景设定在室内环境。",
+                "D. 是的，这个场景设定在公园。"
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_95": {
+            "id": "a0AGwUACt7E_95",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "坐着的那个人用左手做了什么微妙的动作？",
+            "options": [
+                "A. 坐着的人左手被吊带固定，微微向上抬起。",
+                "B. 坐着的人整理皮夹克，抚平皱纹。",
+                "C. 坐着的人有节奏地在膝盖上敲打手指。",
+                "D. 坐着的人伸手去关旁边的磨砂窗户。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_96": {
+            "id": "a0AGwUACt7E_96",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "结霜窗户上的条纹水滴表明了什么样的天气？",
+            "options": [
+                "A. 这表明外面是晴天。",
+                "B. 这表明外面是阴天或下雨。",
+                "C. 这表明外面在下雪。",
+                "D. 这表明外面有风。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_97": {
+            "id": "a0AGwUACt7E_97",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "这一场景，使用那种镜头来体现人物和环境？",
+            "options": [
+                "A. 使用一个中距离特写镜头来突出坐着的个体、其穿着、细微动作以及周围环境。",
+                "B. 使用一个广角镜头强调整个车辆的内部，展示场景。",
+                "C. 使用一个极近特写镜头，仅聚焦于个体的双手和手链。",
+                "D. 使用一个高角度镜头，从俯视角度展现坐在车辆中的个体。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_98": {
+            "id": "a0AGwUACt7E_98",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "有哪些视觉元素构成了场景的沉郁和内省的氛围？",
+            "options": [
+                "A. 亮黑色皮夹克、柔和的环境光线、阴影、带水滴的磨砂窗以及图标等对氛围产生了影响。",
+                "B. 墙上的彩色涂鸦、明亮的阳光、窗外晴朗的天空和室内的绿植对氛围产生了影响。",
+                "C. 鲜艳的霓虹灯、快速的动作、室外集市和熙熙攘攘的人群对氛围产生了影响。",
+                "D. 反光的表面、喧闹的背景音乐、开阔的环境和热闹的闲聊对氛围产生了影响。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_99": {
+            "id": "a0AGwUACt7E_99",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "从视频来看，禁烟标志位于哪里？",
+            "options": [
+                "A. 禁烟标志在人物的后上方。",
+                "B. 禁烟标志在人物的左上方。",
+                "C. 禁烟标志在人物的右上方。",
+                "D. 禁烟标志在人物的右下边。"
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_100": {
+            "id": "a0AGwUACt7E_100",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "这架直升机的内部是什么样子的？",
+            "options": [
+                "A. 内部是深色的，配有复古皮革座椅和精美的结构元素。",
+                "B. 内部是浅灰色的，采用现代设计，有光滑的座椅。",
+                "C. 内部是亮黄色的，有金属座椅和显眼的结构扶手。",
+                "D. 内部是白色的，装饰简约，有大而清晰的窗户。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_101": {
+            "id": "a0AGwUACt7E_101",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "直升机的内部传达出什么样的氛围？",
+            "options": [
+                "A. 直升机内部传达出一种奢华与精致的氛围。",
+                "B. 直升机内部传达出一种混乱且杂乱的氛围。",
+                "C. 直升机内部传达出一种质朴和复古的氛围。",
+                "D. 直升机内部传达出一种随性与放松的氛围。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_102": {
+            "id": "a0AGwUACt7E_102",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "这个场景中，这个人进行了怎样的动作？",
+            "options": [
+                "A. 他在轻轻转动手臂，似乎在调整或。",
+                "B. 他在用手指轻敲肩膀附近的一个金属物体。",
+                "C. 他正在膝上的笔记本上写东西。",
+                "D. 他正在捧着一本书专心阅读。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_103": {
+            "id": "a0AGwUACt7E_103",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "透过侧窗能看到的天气是否晴朗？",
+            "options": [
+                "A. 是的，天气晴朗。",
+                "B. 不是，天气阴天并且下雪。",
+                "C. 不是，天气阴天并且下雨。",
+                "D. 是的，天气晴朗无云。"
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_104": {
+            "id": "a0AGwUACt7E_104",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "那个人的手在做什么？",
+            "options": [
+                "A. 那个人的手紧握着扶手。",
+                "B. 那个人的右手握住左手。",
+                "C. 那个人的手拿着一本书。",
+                "D. 那个人的手完全静止地放在腿上。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_105": {
+            "id": "a0AGwUACt7E_105",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "窗户上的水滴看起来在朝哪个方向移动？",
+            "options": [
+                "A. 水滴看起来在向上移动。",
+                "B. 水滴看起来在向侧面移动。",
+                "C. 水滴看起来在向下移动。",
+                "D. 水滴看起来是静止的。"
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_106": {
+            "id": "a0AGwUACt7E_106",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "更近的构图对场景有什么影响？",
+            "options": [
+                "A. 更近的构图强调了禁止吸烟标志和黄色条纹。",
+                "B. 更近的构图强调了磨砂侧窗上的雨痕。",
+                "C. 更近的构图强调了车辆内饰的浅灰色和现代设计。",
+                "D. 更近的构图强调了个人的上半身和细微的动作。"
+            ],
+            "answer": "D"
+        },
+        "a0AGwUACt7E_107": {
+            "id": "a0AGwUACt7E_107",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "较窄的角度对场景有什么影响？",
+            "options": [
+                "A. 较窄的角度增强了场景的动作感和动感。",
+                "B. 较窄的角度增加了外部环境的可见度。",
+                "C. 较窄的角度增强了场景的内省和沉思氛围。",
+                "D. 较窄的角度在画面内营造了一种混乱和运动感。"
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_108": {
+            "id": "a0AGwUACt7E_108",
+            "scene": 8,
+            "dimension": "Speed",
+            "question": "这一场景中，左手移动的速度是怎样的？",
+            "options": [
+                "A. 左手微微缓慢转动。",
+                "B. 左手快速转动。",
+                "C. 左手的转动是不规律且难以预测的。",
+                "D. 场景中没有动作，左手完全静止不动。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_109": {
+            "id": "a0AGwUACt7E_109",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "车辆内饰的描述如何变得更加详细？",
+            "options": [
+                "A. 镜头拉远直升机流线型座椅、磨砂窗户等元素清晰出现在画面中。",
+                "B. 描述关注于个人的动作，而忽略了车辆内饰的细节。",
+                "C. 描述突出了车内明亮、鲜艳的色彩和活泼的氛围。",
+                "D. 描述主要讨论了外部天气状况，而没有提到内饰设计。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_110": {
+            "id": "a0AGwUACt7E_110",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素有助于营造场景的沉思氛围？",
+            "options": [
+                "A. 明亮的照明、清晰的侧窗、鲜艳的反射和明亮的色调有助于营造沉思氛围。",
+                "B. 柔和的光线、带有雨痕的磨砂侧窗、柔和的反射和沉稳的色调有助于营造沉思氛围。",
+                "C. 强烈的光线、阳光透过的开窗、醒目的反射和深沉的色调有助于营造沉思氛围。",
+                "D. 昏暗的照明、透明的侧窗、强烈的反射和鲜艳的色彩有助于营造沉思氛围。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_111": {
+            "id": "a0AGwUACt7E_111",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "这一场景中，通过窗户可以看到什么？",
+            "options": [
+                "A. 通过窗户中可以看到外部雾蒙蒙的，有雨滴打在窗户上。",
+                "B. 通过窗户中可以看到附近飞船的发光灯光。",
+                "C. 通过窗户中可以看到明亮、阳光明媚的景观，天空晴朗。",
+                "D. 通过窗户中可以看到霓虹灯闪烁的繁华城市景观。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_112": {
+            "id": "a0AGwUACt7E_112",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "这一场景发生在什么样的环境中？",
+            "options": [
+                "A. 发生在一个充满发光灯光的未来风格走廊里。",
+                "B. 发生在一个昏暗朦胧的直升机内部。",
+                "C. 发生在一架穿越暴风云的飞机内部。",
+                "D. 发生在一个有星空的遥远星球上。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_113": {
+            "id": "a0AGwUACt7E_113",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "在天空广角镜头中，那个人穿着什么？",
+            "options": [
+                "A. 一套休闲装，面料质地简单。",
+                "B. 一套盔甲服，胸部有发光元素，并带有红色和金色装饰。",
+                "C. 一套传统的西装和领带，带有金属装饰。",
+                "D. 一件带有反光补丁的厚重风衣。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_114": {
+            "id": "a0AGwUACt7E_114",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "当按下按钮时，发现了什么设备？",
+            "options": [
+                "A. 一个红色物体出现",
+                "B. 一个绿色物体出现",
+                "C. 一个蓝色物体出现",
+                "D. 一个银色物体出现"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_115": {
+            "id": "a0AGwUACt7E_115",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "当盔甲穿戴完成后，视觉上突出的光源是什么？",
+            "options": [
+                "A. 胸部和头盔上的明亮发光圆形灯",
+                "B. 手臂和腿上的脉动红灯",
+                "C. 背部的闪烁绿灯",
+                "D. 整个服装上分布的小白灯"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_116": {
+            "id": "a0AGwUACt7E_116",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "盔甲上散发的灯光是否明亮？",
+            "options": [
+                "A. 是的，灯光很明亮。",
+                "B. 不，灯光很昏暗。",
+                "C. 灯光不稳定，明暗交替变化。",
+                "D. 没有提到内部是否有灯光。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_117": {
+            "id": "a0AGwUACt7E_117",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "当打开隔间门时，机械手执行什么动作？",
+            "options": [
+                "A. 机械手程放松状态，未执行动作。",
+                "B. 机械手刮擦隔间门的表面。",
+                "C. 机械手按下按钮自动打开隔间门。",
+                "D. 机械手将隔间门滑到一边。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_118": {
+            "id": "a0AGwUACt7E_118",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "这一场景中用于描绘飞行中直升机的镜头是什么？",
+            "options": [
+                "A. 一个倾斜的低角度镜头",
+                "B. 一个宽广的俯拍镜头",
+                "C. 直升机旋翼的特写镜头",
+                "D. 从直升机上方进行的俯视镜头"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_119": {
+            "id": "a0AGwUACt7E_119",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "视频中直升机的飞行动作是如何描绘的？",
+            "options": [
+                "A. 直升机在一个雾蒙蒙的天气中飞行，后续隐约不可见。",
+                "B. 直升机在一个明亮、阳光明媚的环境中从停机坪起飞。",
+                "C. 直升机被描绘成在平静的海面上安静地悬停。",
+                "D. 直升机停在地面上，没有显著的动作。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_120": {
+            "id": "a0AGwUACt7E_120",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "这一场景如何发生场景转换？",
+            "options": [
+                "A. 从光线昏暗的场景转变为室外场景。",
+                "B. 从阳光明媚的户外景观转变为室内场景。",
+                "C. 从灯光明亮的实验室转变为室外场景。",
+                "D. 从密集的森林场景转变为室内场景。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_121": {
+            "id": "a0AGwUACt7E_121",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "在天空中飞行时，钢铁侠身上哪个视觉元素最突出？",
+            "options": [
+                "A. 物体胸部和头盔上明亮的灯光。",
+                "B. 围绕物体的水下植物。",
+                "C. 物体服装的锈迹金属质感。",
+                "D. 物体在海底投下的黑暗阴影。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_122": {
+            "id": "a0AGwUACt7E_122",
+            "scene": 9,
+            "dimension": "Object Direction",
+            "question": "钢铁侠最初是从直升机哪个方向移动的？",
+            "options": [
+                "A. 从直升机侧门向下移动",
+                "B. 从直升机侧门向右移动",
+                "C. 从直升机尾部向下移动",
+                "D. 从直升机尾部向左移动"
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_123": {
+            "id": "a0AGwUACt7E_123",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "这一场景的初始场景是什么？",
+            "options": [
+                "A. 灯光昏暗的室内",
+                "B. 炎热的沙漠景观",
+                "C. 繁忙的城市景观",
+                "D. 野兽遍布的密林"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_124": {
+            "id": "a0AGwUACt7E_124",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "在下直升机之后，环境会转变成什么？",
+            "options": [
+                "A. 带有旋转云层的暴风雨天空。",
+                "B. 霓虹灯闪烁的繁华城市景观。",
+                "C. 高耸树木的茂密森林。",
+                "D. 波浪轻柔的宁静海滩。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_125": {
+            "id": "a0AGwUACt7E_125",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "场景的最终环境是什么？",
+            "options": [
+                "A. 被雾气笼罩",
+                "B. 水下环境",
+                "C. 被阳光笼罩",
+                "D. 未来城市景观"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_126": {
+            "id": "a0AGwUACt7E_126",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "这个盔甲的外貌是什么样的？",
+            "options": [
+                "A. 盔甲表面光滑，胸口和头盔上有发光的灯。",
+                "B. 盔甲有金属般的皮肤和发光的蓝色眼睛。",
+                "C. 盔甲有着色彩鲜艳的服装，身披斗篷。",
+                "D. 盔甲上覆盖着鳞片，长着长长的鬃毛。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_127": {
+            "id": "a0AGwUACt7E_127",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "钢铁侠在执行什么活动？",
+            "options": [
+                "A. 钢铁侠正在灵活地穿梭于环境中。",
+                "B. 钢铁侠正被动地漂浮在一个地方。",
+                "C. 钢铁侠静止不动，观察周围环境。",
+                "D. 钢铁侠在与另一个实体进行战斗。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_128": {
+            "id": "a0AGwUACt7E_128",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "人是否会以原貌出现在整个场景中？",
+            "options": [
+                "A. 是",
+                "B. 否，仅出现一瞬间",
+                "C. 仅在飞机外面",
+                "D. 仅在结尾"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_129": {
+            "id": "a0AGwUACt7E_129",
+            "scene": 9,
+            "dimension": "Camera Direction",
+            "question": "当钢铁侠飞走后，摄像机的焦点会发生什么变化？",
+            "options": [
+                "A. 焦点转回到不间断的风暴云及其大气特性上。",
+                "B. 焦点转向天空中明亮、快速移动的物体。",
+                "C. 焦点转向一个新的类人形体在环境中穿梭。",
+                "D. 焦点仍然停留在剪影物体上，现在更加清晰并发光。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_130": {
+            "id": "a0AGwUACt7E_130",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "在飞船出现后，场景发生了哪些变化？",
+            "options": [
+                "A. 场景变得生动，五彩缤纷的烟花照亮了天空。",
+                "B. 场景还是一片弥漫的雾气，未发生改变。",
+                "C. 发生了一次大爆炸，摧毁了飞船并在天空中制造了混乱。",
+                "D. 飞船保持在中心位置，与另一艘飞船进行激烈的战斗。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_131": {
+            "id": "a0AGwUACt7E_131",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "钢铁侠在场景中的位置在哪里？",
+            "options": [
+                "A. 钢铁侠在左边。",
+                "B. 钢铁侠在右边。",
+                "C. 钢铁侠在中间。",
+                "D. 钢铁侠在背景中。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_132": {
+            "id": "a0AGwUACt7E_132",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "美国队长在场景中的哪个位置？",
+            "options": [
+                "A. 美国队长在左边。",
+                "B. 美国队长在右边。",
+                "C. 美国队长在中间。",
+                "D. 美国队长在钢铁侠上方。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_133": {
+            "id": "a0AGwUACt7E_133",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "钢铁侠与美国队长对峙的场景是什么？",
+            "options": [
+                "A. 对峙发生在灯火辉煌的城市景观中，周围是高耸的摩天大楼。",
+                "B. 对峙发生在光线昏暗的工业环境中，背景有微弱的光源。",
+                "C. 对峙发生在夜间的密林中，仅靠月光照明。",
+                "D. 对峙发生在日落时分的沙滩上，背景有拍打的海浪声。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_134": {
+            "id": "a0AGwUACt7E_134",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "美国队长如何抵御钢铁侠的攻击？",
+            "options": [
+                "A. 美国队长使用盾牌来抵御攻击。",
+                "B. 美国队长通过迅速侧移来躲避能量光束。",
+                "C. 美国队长用自己的能量武器反击能量光束。",
+                "D. 美国队长使用力场来阻挡能量光束。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_135": {
+            "id": "a0AGwUACt7E_135",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "钢铁侠装甲的颜色是什么？",
+            "options": [
+                "A. 金属红和金",
+                "B. 金属蓝和银",
+                "C. 黑色和银色",
+                "D. 绿色和金色"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_136": {
+            "id": "a0AGwUACt7E_136",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "钢铁侠面部有什么显著特征？",
+            "options": [
+                "A. 他面部主要以金属金为主，眼睛发出明亮的光。",
+                "B. 他面部主要以金属蓝为主，眼睛发出明亮的光。",
+                "C. 他面部主要以金属红为主，眼睛法出明亮的光。",
+                "D. 他面部主要以暗黑为主，未出面发光部位。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_137": {
+            "id": "a0AGwUACt7E_137",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "有多少超级英雄参与了对抗？",
+            "options": [
+                "A. 一个超级英雄",
+                "B. 两个超级英雄",
+                "C. 三个超级英雄",
+                "D. 四个超级英雄"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_138": {
+            "id": "a0AGwUACt7E_138",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "哪些超级英雄参与了这场对抗？",
+            "options": [
+                "A. 钢铁侠和美国队长",
+                "B. 蜘蛛侠和雷神",
+                "C. 绿巨人和黑寡妇",
+                "D. 奇异博士和黑豹"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_139": {
+            "id": "a0AGwUACt7E_139",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "这个场景是否出现文字标志？",
+            "options": [
+                "A. 是的，场景中出现“SUBSCRIBE”文字标志。",
+                "B. 不，场景完全是电影化的，没有文字标志出现。",
+                "C. 是的，场景中出现“CAUTION”文字标志。",
+                "D. 不，场景专注于战斗，不含任何文字元素。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_140": {
+            "id": "a0AGwUACt7E_140",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "钢铁侠的能量光束与美国队长的盾牌碰撞会产生什么效果？",
+            "options": [
+                "A. 碰撞产生炽热的火花。",
+                "B. 碰撞产生刺眼的闪光。",
+                "C. 碰撞产生巨大的爆炸声。",
+                "D. 碰撞释放出弥漫在战场上的发光薄雾。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_141": {
+            "id": "a0AGwUACt7E_141",
+            "scene": 10,
+            "dimension": "Object Direction",
+            "question": "钢铁侠的能量光束指向哪个方向？",
+            "options": [
+                "A. 钢铁侠的能量光束指向右侧。",
+                "B. 钢铁侠的能量光束指向左侧。",
+                "C. 钢铁侠的能量光束向下瞄准地面。",
+                "D. 钢铁侠的能量光束指向天空。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_142": {
+            "id": "a0AGwUACt7E_142",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "对抗场景中使用了什么摄影角度？",
+            "options": [
+                "A. 摄像机保持正面，强调钢铁侠和美国队长之间的对峙。",
+                "B. 摄像机从高处拍摄，捕捉对抗的鸟瞰图。",
+                "C. 摄像机绕圈拍摄，提供对激烈战斗的360度视角。",
+                "D. 摄像机置于地面，突显两位角色的高大姿态。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_143": {
+            "id": "a0AGwUACt7E_143",
+            "scene": 10,
+            "dimension": "Speed",
+            "question": "场景中的事件是否暗示快速的动作？",
+            "options": [
+                "A. 是的，场景暗示快速的动作，伴随着激烈的动作和动态的视觉效果，如火花四溅。",
+                "B. 不是，场景暗示缓慢的动作，视觉效果平静而静止。",
+                "C. 是的，场景暗示中等速度的动作，伴随着适度的动作和细微的视觉效果。",
+                "D. 不是，场景暗示没有动作，视觉效果完全静止。"
+            ],
+            "answer": "D"
+        },
+        "a0AGwUACt7E_144": {
+            "id": "a0AGwUACt7E_144",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "对峙期间，光照条件如何变化？",
+            "options": [
+                "A. 整个场景的光线始终保持黑暗，没有显著变化。",
+                "B. 光线从完全黑暗开始，然后因碰撞产生的火花而转变为间歇性的暖光。",
+                "C. 光线从明亮清晰过渡到昏暗，没有额外的光效。",
+                "D. 光线以聚光灯照在美国队长开始，然后转变为钢铁侠能量束发出的红光。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_145": {
+            "id": "a0AGwUACt7E_145",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "从视频来看，钢铁侠旁边左侧出现了什么字？",
+            "options": [
+                "A. SUBSCRIBE",
+                "B. LIKE",
+                "C. SHARE",
+                "D. FOLLOW"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_146": {
+            "id": "a0AGwUACt7E_146",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "从视频来看，在美国队长后面出现了什么？",
+            "options": [
+                "A. 一个醒目的白色“SUBSCRIBE”文本",
+                "B. 两个模糊半透明的方形面板",
+                "C. 一个用于互动内容的矩形占位符",
+                "D. 能量冲撞的明亮火花"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_147": {
+            "id": "a0AGwUACt7E_147",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在最初的场景中，是怎样走向直升机的？",
+            "options": [
+                "A. 这个男人背对镜头正面走向直升机。",
+                "B. 这个男人面对镜头正面走向直升机。",
+                "C. 这个男人面对镜头从侧面走向直升机。",
+                "D. 这个男人侧面入镜，朝正面的直升机走去。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_148": {
+            "id": "a0AGwUACt7E_148",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "当这个人走向直升机后会发生什么？",
+            "options": [
+                "A. 这个人身后走出另一个人。",
+                "B. 这个人消失在直升机里并起飞。",
+                "C. 这个人与直升机互动后开始修理它。",
+                "D. 这个人没有做任何事情就离开了直升机。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_149": {
+            "id": "a0AGwUACt7E_149",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在那名男子走向直升机后，镜头发生了怎样的转变？",
+            "options": [
+                "A. 焦点转移到机库里的另一名个体和一个工业箱子上。",
+                "B. 焦点转移到直升机从机库飞走。",
+                "C. 焦点转移到那名男子正在操作的控制面板。",
+                "D. 焦点转移到一群超级英雄进入机库。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_150": {
+            "id": "a0AGwUACt7E_150",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "黑发男人的手臂在上飞机前有什么特征？",
+            "options": [
+                "A. 黑发男人的右手手臂被吊带固定，左手自然向下。",
+                "B. 黑发男人的左手手臂被吊带固定，右手自然向下。",
+                "C. 黑发男人的双手手臂自然向下垂落。",
+                "D. 环境昏暗可见度低，未发现明显特征。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_151": {
+            "id": "a0AGwUACt7E_151",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "直升机的商标标识表明了它与哪方面的关系？",
+            "options": [
+                "A. 直升机的“Stark Industries”商标标识表明它的关系。",
+                "B. 直升机的“SHIELD”商标标识表明它是一架政府拥有的飞行器。",
+                "C. 直升机的缺乏商标标识表明它没有隶属关系且保持中立。",
+                "D. 直升机的“Avengers”标识表明它是他们私人机队的一部分。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_152": {
+            "id": "a0AGwUACt7E_152",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "直升机的外观暗示了它的用途是什么？",
+            "options": [
+                "A. 它的高科技外观表明它可能是为特殊任务或行动设计的。",
+                "B. 它尘土飞扬和生锈的外观表明它是一个旧的和被遗弃的直升机场。",
+                "C. 它明亮的外观表明它用于公共交通。",
+                "D. 它的小尺寸表明它是一架用于短途旅行的私人民用飞机。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_153": {
+            "id": "a0AGwUACt7E_153",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "场景中的环境照明传达了整体氛围的什么情绪？",
+            "options": [
+                "A. 环境照明营造了一种高科技和紧张的氛围，强调了神秘和复杂的主题。",
+                "B. 环境照明传达了一种明亮、生动和愉快的氛围，突出了欢乐和庆祝的主题。",
+                "C. 环境照明呈现出一种沉闷和中性的色调，削弱了场景的情感强度。",
+                "D. 环境照明营造了一种过于明亮和不真实的氛围，削弱了悬念和紧张感。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_154": {
+            "id": "a0AGwUACt7E_154",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "黑发男人在坐上直升机时他的面部表情是怎样的？",
+            "options": [
+                "A. 轻松、愉悦的。",
+                "B. 紧张、严肃的。",
+                "C. 平静、稳定的。",
+                "D. 烦躁、气愤的。"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_155": {
+            "id": "a0AGwUACt7E_155",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "男人按下按钮如何影响故事情节？",
+            "options": [
+                "A. 男人按下按钮之后人与盔甲合为一体，强调了以人机融合为中心的叙事。",
+                "B. 男人按下按钮之后暗示着激活了一个隐藏的工业机制，从而为持续的战斗提供动力。",
+                "C. 男人按下按钮之后象征着两个超级英雄之间的忠诚转变，导致他们的冲突得到解决。",
+                "D. 男人按下按钮之后引发了一场毁灭性的爆炸，突然结束了战斗，并使周围环境陷入火海。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_156": {
+            "id": "a0AGwUACt7E_156",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在画面进展中机库里可以看到什么？",
+            "options": [
+                "A. 一架外形流线的黑色直升机",
+                "B. 一组错综复杂的计算机网络",
+                "C. 一系列生锈的旧货运集装箱",
+                "D. 一架废弃的战斗机"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_157": {
+            "id": "a0AGwUACt7E_157",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "镜头转向天空可以看到什么？",
+            "options": [
+                "A. 一个人形身影穿着发光的衣服空中移动。",
+                "B. 一个直升飞机在空中飞行。",
+                "C. 一只飞船出现在空中，隐约可见。",
+                "D. 以上三种在空中均能看到。"
+            ],
+            "answer": "D"
+        },
+        "a0AGwUACt7E_158": {
+            "id": "a0AGwUACt7E_158",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "车内的座位变动后，这个人做了什么？",
+            "options": [
+                "A. 这个人微微向后倒下，飞出直升机。",
+                "B. 这个人兴奋地和同伴交谈，并指出外面变化的风景。",
+                "C. 这个人往后靠，闭上眼睛，看起来立刻就睡着了。",
+                "D. 这个人匆忙拿出手机并开始打字发信息。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_159": {
+            "id": "a0AGwUACt7E_159",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么直升机在机库环境中会变得模糊不清？",
+            "options": [
+                "A. 直升机机库灯光昏暗，镜头主要突显人物。",
+                "B. 直升机被机库中弥漫的浓烟遮挡，导致无法看见。",
+                "C. 直升机在场景的早期部分已经被完全摧毁，机库中没有留下任何痕迹。",
+                "D. 机库中的照明完全失效，使所有元素，包括直升机在内，变得不可见。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_160": {
+            "id": "a0AGwUACt7E_160",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "发光的胸部元素可能为这个盔甲形象提供了什么用途？",
+            "options": [
+                "A. 发光的胸部元素只是一个装饰特征，没有实际用途。",
+                "B. 发光的胸部元素是对另一个超级英雄效忠的象征。",
+                "C. 发光的胸部元素可能作为高级技术用于功能性。",
+                "D. 发光的胸部元素作为赋予神秘力量的古代遗物发挥作用。"
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_161": {
+            "id": "a0AGwUACt7E_161",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "人物穿戴盔甲可能起到什么作用？",
+            "options": [
+                "A. 盔甲很可能作为先进技术，用于功能性目的。",
+                "B. 盔甲主要用于美学目的，增强该角色在公众场合的视觉吸引力。",
+                "C. 盔甲旨在使该角色在长时间保持静止时更加舒适。",
+                "D. 盔甲是为了降低该角色的能见度，以便在城市环境中进行隐秘行动。"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_162": {
+            "id": "a0AGwUACt7E_162",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "什么可以解释从户外天空场景到室内对峙环境的过渡？",
+            "options": [
+                "A. 这种过渡暗示了主题的扩展，以创造关于探索或对抗的连贯叙事。",
+                "B. 这种过渡代表着时间的变迁，反映出对历史事件的回顾。",
+                "C. 这种过渡突出了角色从空中向地面的移动，因为他们在逃避危险。",
+                "D. 这种过渡强调了环境的技术演化，专注于机械设计。"
+            ],
+            "answer": "A"
+        }
+    }
+}

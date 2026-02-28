@@ -1,0 +1,1433 @@
+{
+    "scene_hint": {
+        "0": "什么都没有的空白画面。",
+        "1": "画面中出现'WHAT IS AN INDEX?'。",
+        "2": "画面中出现index和其他标志。",
+        "3": "一位女孩出现在画面中，她旁边之后出现了很多其他元素。",
+        "4": "画面中又出现了index。",
+        "5": "画面中出现了一个数字3。",
+        "6": "画面中出现了DowJones和其他标志",
+        "7": "画面中出现了“S&P 500”和其他标志。",
+        "8": "画面中出现了“NASDAQ”和其他标志。",
+        "9": "画面中出现了index和一行文字。"
+    },
+    "qa": {
+        "EQ-67udZEeg_0": {
+            "id": "EQ-67udZEeg_0",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "图像中是否有任何可辨识的内容？",
+            "options": [
+                "A. 有文字",
+                "B. 没有",
+                "C. 有人物",
+                "D. 有图案"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_1": {
+            "id": "EQ-67udZEeg_1",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景最先出现的标识是什么？",
+            "options": [
+                "A. 'WHAT IS AN INDEX?'",
+                "B. 深灰方块上的标志",
+                "C. 'WALL STREET SURVIVOR'",
+                "D. 人物角色"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_2": {
+            "id": "EQ-67udZEeg_2",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景主要发生在什么地方？",
+            "options": [
+                "A. 在一个户外公园的场景中。",
+                "B. 在一个室内的竞技场里。",
+                "C. 在一个繁忙的办公室环境中。",
+                "D. 在一个纯色背景里。"
+            ],
+            "answer": "D"
+        },
+        "EQ-67udZEeg_3": {
+            "id": "EQ-67udZEeg_3",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "长方形在其设计中具有什么样的纹理？",
+            "options": [
+                "A. 长方形具有颗粒状纹理。",
+                "B. 长方形具有光滑的纹理。",
+                "C. 长方形具有反光的纹理。",
+                "D. 长方形具有闪光的纹理。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_4": {
+            "id": "EQ-67udZEeg_4",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "方块上有什么标记？",
+            "options": [
+                "A. 一个来回弯折的箭头。",
+                "B. 一个小的红色圆圈。",
+                "C. 一条细黄色条纹。",
+                "D. 一个蓝色星星标记。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_5": {
+            "id": "EQ-67udZEeg_5",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "场景中是否描绘了任何人类？",
+            "options": [
+                "A. 描绘的是人形怪兽",
+                "B. 没有描绘任何人类",
+                "C. 只有一名人类",
+                "D. 有多个人类"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_6": {
+            "id": "EQ-67udZEeg_6",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "方块旁边出现什么文字？",
+            "options": [
+                "A. 'WALL STREET SURVIVOR'。",
+                "B. 'STOCK MARKET GUIDE'。",
+                "C. 'FINANCIAL ADVISOR'。",
+                "D. 'INVESTMENT TIPS'。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_7": {
+            "id": "EQ-67udZEeg_7",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "文本“WALL STREET SURVIVOR”是什么样的？",
+            "options": [
+                "A. 文本是粗体、无衬线、全大写字母。",
+                "B. 文本是斜体、衬线、小写字母。",
+                "C. 文本是粗体、草书、大写字母。",
+                "D. 文本是细体、无衬线、小写字母。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_8": {
+            "id": "EQ-67udZEeg_8",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景的背景有没有很多视觉杂乱？",
+            "options": [
+                "A. 是的，背景混乱。",
+                "B. 不，背景简单。",
+                "C. 是的，背景有很多细节和图案。",
+                "D. 不，背景充满了抽象艺术作品。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_9": {
+            "id": "EQ-67udZEeg_9",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "单词 'INDEX' 在框架中的位置在哪里？",
+            "options": [
+                "A. 单词 'INDEX' 位于框架的顶部中央。",
+                "B. 单词 'INDEX' 位于框架的左下角。",
+                "C. 单词 'INDEX' 位于框架的中央。",
+                "D. 单词 'INDEX' 位于框架的右上角。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_10": {
+            "id": "EQ-67udZEeg_10",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景的背景是什么？",
+            "options": [
+                "A. 背景是一个浅灰色渐变。",
+                "B. 背景是一个蓝色漩涡。",
+                "C. 背景是一个红色条纹图案。",
+                "D. 背景是一个棋盘格设计。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_11": {
+            "id": "EQ-67udZEeg_11",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "“INDEX”这个词的颜色是什么？",
+            "options": [
+                "A. “INDEX”这个词填充是淡紫色。",
+                "B. “INDEX”这个词填充是亮绿色。",
+                "C. “INDEX”这个词填充是黄色。",
+                "D. “INDEX”这个词填充是红色。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_12": {
+            "id": "EQ-67udZEeg_12",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "“INDEX”这个词的样式是什么？",
+            "options": [
+                "A. “INDEX”这个词被设计成大写的。",
+                "B. “INDEX”这个词有深蓝色描边。",
+                "C. “INDEX”这个词被设计成大小写混合。",
+                "D. “INDEX”这个词以小写形式呈现。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_13": {
+            "id": "EQ-67udZEeg_13",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "场景中显著显示了多少单词？",
+            "options": [
+                "A. 三个",
+                "B. 四个",
+                "C. 五个",
+                "D. 两个"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_14": {
+            "id": "EQ-67udZEeg_14",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景中显著显示的文本元素是什么？",
+            "options": [
+                "A. 'INDEX,' 'QUICK,' '+,' 和 'EASY.'",
+                "B. 'INDEX,' 'FAST,' '+,' 和 'SIMPLE.'",
+                "C. 'INDEX,' 'QUICK,' '*,' 和 'EASY.'",
+                "D. 'SECTION,' 'QUICK,' '+,' 和 'EFFICIENT.'"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_15": {
+            "id": "EQ-67udZEeg_15",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "场景中新增了什么？",
+            "options": [
+                "A. 字母词 'HARD' 新增到了 '+' 符号的正下方。",
+                "B. 字母词 'EASY' 新增到了 '+' 符号的正下方。",
+                "C. 字母词 'INDEX' 新增到了 '+' 符号的正下方。",
+                "D. 字母词 'QUICK' 新增到了 '+' 符号的正下方。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_16": {
+            "id": "EQ-67udZEeg_16",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "场景使用了什么摄像机视角？",
+            "options": [
+                "A. 使用固定摄像机视角。",
+                "B. 使用旋转摄像机视角。",
+                "C. 使用放大摄像机视角。",
+                "D. 使用横移摄像机视角。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_17": {
+            "id": "EQ-67udZEeg_17",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "框架中新引入的文本属性是什么？",
+            "options": [
+                "A. 'EASY' 用绿色填充。",
+                "B. 'EASY' 用浅黄色填充。",
+                "C. 'QUICK,' 用绿色填充。",
+                "D. 'QUICK,' 用浅蓝色填充。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_18": {
+            "id": "EQ-67udZEeg_18",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "文本周围采用了什么边框？",
+            "options": [
+                "A. 黑色边框",
+                "B. 白色边框",
+                "C. 浅紫色边框",
+                "D. 红色边框"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_19": {
+            "id": "EQ-67udZEeg_19",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "小女孩在画面中的位置在哪里？",
+            "options": [
+                "A. 小女孩位于画面的右侧。",
+                "B. 小女孩位于画面的中央。",
+                "C. 小女孩位于画面的左侧。",
+                "D. 小女孩位于画面的背景中。"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_20": {
+            "id": "EQ-67udZEeg_20",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "柱状图在画面中相对于小女孩的位置在哪里？",
+            "options": [
+                "A. 柱状图出现在小女孩的左边。",
+                "B. 柱状图出现在小女孩的正上方。",
+                "C. 柱状图出现在小女孩的右边。",
+                "D. 柱状图出现在小女孩的下方。"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_21": {
+            "id": "EQ-67udZEeg_21",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景的整体环境是怎样的？",
+            "options": [
+                "A. 明亮的户外场景。",
+                "B. 黑暗、不祥的背景。",
+                "C. 灰色渐变的背景。",
+                "D. 色彩斑斓的森林。"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_22": {
+            "id": "EQ-67udZEeg_22",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "这个场景的画面风格是什么？",
+            "options": [
+                "A. 暗黑画面风格。",
+                "B. 儿童手绘风格。",
+                "C. 写实画面风格。",
+                "D. 赛博朋克风格。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_23": {
+            "id": "EQ-67udZEeg_23",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "场景最后，那个年轻女孩穿着什么？",
+            "options": [
+                "A. 一件白色T恤，一条黄色裙子。",
+                "B. 一件蓝色T恤，一条浅青色裤子。",
+                "C. 一件白色T恤，一条浅青色裙子。",
+                "D. 一件蓝色T恤，一条黄色连衣裙。"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_24": {
+            "id": "EQ-67udZEeg_24",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "当小女孩头上出现标点符号时，她保持着什么姿势？",
+            "options": [
+                "A. 她保持着沉思的姿势。",
+                "B. 她正兴奋地在空中挥手。",
+                "C. 她用左手指着柱状图。",
+                "D. 她双手合十放在面前。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_25": {
+            "id": "EQ-67udZEeg_25",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "年轻女孩的头上显示了什么标点符号？",
+            "options": [
+                "A. 一个问号。",
+                "B. 三个问号。",
+                "C. 一个感叹号。",
+                "D. 三个感叹号。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_26": {
+            "id": "EQ-67udZEeg_26",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "柱状图中展示了多少个柱子？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_27": {
+            "id": "EQ-67udZEeg_27",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "柱状图中有什么标记？",
+            "options": [
+                "A. “MATT”、“AMY”和“JESS”。",
+                "B. “JOHN”、“LUCY”和“ELLA”。",
+                "C. “TOM”、“KATE”和“SOPHIA”。",
+                "D. “SAM”、“LILA”和“NOAH”。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_28": {
+            "id": "EQ-67udZEeg_28",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "图表中“JESS”的柱状图是否有数值？",
+            "options": [
+                "A. 是的，“JESS”的柱状图有一个数值为150。",
+                "B. 不，“JESS”的柱状图显示的是“??”。",
+                "C. 是的，“JESS”的柱状图的数值是最高的。",
+                "D. 不，“JESS”的柱状图是空的。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_29": {
+            "id": "EQ-67udZEeg_29",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "柱状图中“MATT”的计数是多少？",
+            "options": [
+                "A. “MATT”的计数是“201”。",
+                "B. “MATT”的计数是“122”。",
+                "C. “MATT”的计数是“??”。",
+                "D. “MATT”的计数是“150”。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_30": {
+            "id": "EQ-67udZEeg_30",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "条形图中显示的“AMY”的数量是多少？",
+            "options": [
+                "A. “AMY”的数量是“201”。",
+                "B. “AMY”的数量是“98”。",
+                "C. “AMY”的数量是“122”。",
+                "D. “AMY”的数量是“??”。"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_31": {
+            "id": "EQ-67udZEeg_31",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "场景中使用的是什么类型的摄像机视角？",
+            "options": [
+                "A. 场景使用的是固定摄像机视角。",
+                "B. 场景使用的是旋转摄像机视角。",
+                "C. 场景使用的是平移摄像机视角。",
+                "D. 场景使用的是缩放摄像机视角。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_32": {
+            "id": "EQ-67udZEeg_32",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "背景是否保持一致？",
+            "options": [
+                "A. 是的，背景保持了一致。",
+                "B. 不，背景被替换为一个鲜艳的图案。",
+                "C. 不，背景加入了一些新的颜色。",
+                "D. 不，背景被替换为白色背景。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_33": {
+            "id": "EQ-67udZEeg_33",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "年轻女孩相对于背景的位置在哪里？",
+            "options": [
+                "A. 她稍微偏右。",
+                "B. 她完全居于背景的中心。",
+                "C. 她稍微偏左。",
+                "D. 她位于背景的最左边缘。"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_34": {
+            "id": "EQ-67udZEeg_34",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "这个场景的环境是什么？",
+            "options": [
+                "A. 这个场景有城市环境。",
+                "B. 这个场景有简约和中性的环境。",
+                "C. 这个场景发生在公园里。",
+                "D. 这个环境是一个房间。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_35": {
+            "id": "EQ-67udZEeg_35",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "这个画面中的小女孩长什么样子？",
+            "options": [
+                "A. 小女孩有浅棕色的微卷头发。",
+                "B. 小女孩有深棕色的卷发。",
+                "C. 小女孩有黑色的直发。",
+                "D. 小女孩有金色的波浪发。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_36": {
+            "id": "EQ-67udZEeg_36",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "女孩T恤最上方的文字写了什么?",
+            "options": [
+                "A. 女孩T恤最上方的文字是“VOTE”。",
+                "B. 女孩T恤最上方的文字是“LOVE”。",
+                "C. 女孩T恤最上方的文字是“HOPE”。",
+                "D. 女孩T恤最上方的文字是“GROVE”。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_37": {
+            "id": "EQ-67udZEeg_37",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "女孩的服装上可以看到多少个数字？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 没有"
+            ],
+            "answer": "D"
+        },
+        "EQ-67udZEeg_38": {
+            "id": "EQ-67udZEeg_38",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "画面中女孩的位置发生了什么变化？",
+            "options": [
+                "A. 她向右靠近了一些。",
+                "B. 她的位置几乎没有变化。",
+                "C. 她移动到了最左边。",
+                "D. 她从画面中消失了。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_39": {
+            "id": "EQ-67udZEeg_39",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "场景变化之间女孩的T恤发生了什么变化？",
+            "options": [
+                "A. T恤上的文字从“MOVE”变成“STYLE”。",
+                "B. T恤的颜色从白色变成了灰色。",
+                "C. 她T恤上的颜色从粉红变成白色。",
+                "D. 女孩最后穿着一件夹克外套。"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_40": {
+            "id": "EQ-67udZEeg_40",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "文本“INDEX”在场景中的位置在哪里？",
+            "options": [
+                "A. 在画面的顶部中央",
+                "B. 在画面的右下角",
+                "C. 在画面的中间",
+                "D. 在画面的左上角"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_41": {
+            "id": "EQ-67udZEeg_41",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "整个场景中出现了什么类型的背景？",
+            "options": [
+                "A. 淡灰色背景",
+                "B. 卡通风格背景",
+                "C. 蓝白背景",
+                "D. 纹理木质背景"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_42": {
+            "id": "EQ-67udZEeg_42",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "文本“INDEX”下方的矩形插图像什么？",
+            "options": [
+                "A. 插图像相框。",
+                "B. 插图像书籍。",
+                "C. 插图像栅栏。",
+                "D. 插图像大门。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_43": {
+            "id": "EQ-67udZEeg_43",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "文字'INDEX'下方的矩形插图是如何排列的？",
+            "options": [
+                "A. 插图呈一条直线排列。",
+                "B. 插图以略微倾斜的角度排列。",
+                "C. 插图完全垂直叠放在一起。",
+                "D. 插图随机分布在框架中。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_44": {
+            "id": "EQ-67udZEeg_44",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "在“INDEX”文本下方介绍了多少个矩形插图？",
+            "options": [
+                "A. 三个矩形插图",
+                "B. 四个矩形插图",
+                "C. 五个矩形插图",
+                "D. 两个矩形插图"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_45": {
+            "id": "EQ-67udZEeg_45",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "“INDEX”这个词会改变吗？",
+            "options": [
+                "A. 是的，“INDEX”的内容会变。",
+                "B. 不，“INDEX”的构成保持不变。",
+                "C. 是的，“INDEX”的字体类型会变。",
+                "D. 不，“INDEX”消失了。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_46": {
+            "id": "EQ-67udZEeg_46",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "“INDEX”这个词的位置会改变吗？",
+            "options": [
+                "A. 是的，“INDEX”会移动到左边缘。",
+                "B. 不，“INDEX”的位置保持不变。",
+                "C. 是的，放大后“INDEX”会移动到中央。",
+                "D. 放大后“INDEX”会消失。"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_47": {
+            "id": "EQ-67udZEeg_47",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "在缩放效果过程中，单词'INDEX'会发生什么？",
+            "options": [
+                "A. 它缩小并且变得不太可见。",
+                "B. 它改变颜色并消失。",
+                "C. 它显著扩展并占据更多的画面。",
+                "D. 它先显著扩展并占据更多的画面后缩小到不可见。"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_48": {
+            "id": "EQ-67udZEeg_48",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "放大镜的手柄向哪个方向移动？",
+            "options": [
+                "A. 手柄向右下对角线。",
+                "B. 手柄向左下对角线。",
+                "C. 手柄垂直向上。",
+                "D. 手柄水平向右。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_49": {
+            "id": "EQ-67udZEeg_49",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "放大镜是是如何出现的？",
+            "options": [
+                "A. 它是突然出现在场景中的。",
+                "B. 从画面底部滑入场景。",
+                "C. 它突然弹入场景。",
+                "D. 它水平横移滑入场景。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_50": {
+            "id": "EQ-67udZEeg_50",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "放大镜消失后，单词“INDEX”相对于框架的位置在哪里？",
+            "options": [
+                "A. 单词“INDEX”位于框架的顶部中央。",
+                "B. 单词“INDEX”位于框架的左下角。",
+                "C. 单词“INDEX”位于框架的右中部。",
+                "D. 单词“INDEX”位于框架的底部中央。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_51": {
+            "id": "EQ-67udZEeg_51",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景中的背景是什么样的？",
+            "options": [
+                "A. 一个鲜艳的粉色背景",
+                "B. 一个深蓝色渐变背景",
+                "C. 一个浅灰色渐变背景",
+                "D. 一个黑白条纹背景"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_52": {
+            "id": "EQ-67udZEeg_52",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "场景中有真人角色吗？",
+            "options": [
+                "A. 是的，视频中有几个真人角色。",
+                "B. 是的，视频中有一个真人角色。",
+                "C. 不，视频中没有真人角色。",
+                "D. 不，视频中只有人形怪角色。"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_53": {
+            "id": "EQ-67udZEeg_53",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "构图中心的数字'3'的主要视觉属性是什么？",
+            "options": [
+                "A. 数字'3'为粉色和黑色。",
+                "B. 数字'3'为黑色。",
+                "C. 数字'3'霓虹绿色和蓝色。",
+                "D. 数字'3'为纯白色。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_54": {
+            "id": "EQ-67udZEeg_54",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "场景中介绍了哪些文本元素？",
+            "options": [
+                "A. 数字“3”，“DOWJONES”和“S&P 500”。",
+                "B. 数字“3”，没有其他标签。",
+                "C. 数字“3”，标签“NASDAQ”和“FTSE 100”。",
+                "D. 数字“3”和标签“DOW JONES”。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_55": {
+            "id": "EQ-67udZEeg_55",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "场景开始时数字“3”相对于观察者如何变化？",
+            "options": [
+                "A. 数字“3”随着画面放大进场。",
+                "B. 数字“3”保持静止。",
+                "C. 数字“3”向后移动。",
+                "D. 数字“3”在保持大小的同时旋转。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_56": {
+            "id": "EQ-67udZEeg_56",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "哪种镜头被用来突出数字“3”和文本元素？",
+            "options": [
+                "A. 一个清晰、聚焦的镜头。",
+                "B. 一个杂乱、混乱的镜头。",
+                "C. 一个失焦的镜头。",
+                "D. 一个黑暗、阴影的镜头。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_57": {
+            "id": "EQ-67udZEeg_57",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "场景最初的焦点是什么",
+            "options": [
+                "A. 数字“3”。",
+                "B. 单词“INDEX”。",
+                "C. 放大镜。",
+                "D.“S&P 500”标志。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_58": {
+            "id": "EQ-67udZEeg_58",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "构图中使用了哪些视觉元素？",
+            "options": [
+                "A. “DOW JONES”标志，“S&P 500”标签。",
+                "B. 数字“3”以及“INDEX”。",
+                "C. 放大镜，以及数字“3”。",
+                "D. “INDEX”，“S&P 500”标签。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_59": {
+            "id": "EQ-67udZEeg_59",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "“S&P 500”文本在画面中的位置在哪里？",
+            "options": [
+                "A. “S&P 500”文本位于构图的底部中心。",
+                "B. “S&P 500”文本位于构图的左上角。",
+                "C. “S&P 500”文本位于构图的顶部中心。",
+                "D. “S&P 500”文本位于构图的右侧。"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_60": {
+            "id": "EQ-67udZEeg_60",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "框架中保持了什么主题？",
+            "options": [
+                "A. 框架中保持的主题是金融和企业风格。",
+                "B. 框架中保持的主题是自然和野生动物。",
+                "C. 框架中保持的主题是家庭和厨房用品。",
+                "D. 框架中保持的主题是科学和技术。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_61": {
+            "id": "EQ-67udZEeg_61",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "这些框架整体上是什么样的?",
+            "options": [
+                "A. 保持一致且简约。",
+                "B. 呈现混乱且杂乱。",
+                "C. 充满活力且极繁。",
+                "D. 呈现单色且沉闷。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_62": {
+            "id": "EQ-67udZEeg_62",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "在画面的右侧添加了什么视觉动态元素？",
+            "options": [
+                "A. 一个动态统计折线图。",
+                "B. 一个亮红色的指示器。",
+                "C. 一个显示财务数据的时钟。",
+                "D. 一个带有向上箭头的图表。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_63": {
+            "id": "EQ-67udZEeg_63",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "场景第一个画面中，框架右侧出现了多少个标志？",
+            "options": [
+                "A. 描述了两个标志。",
+                "B. 描述了三个标志。",
+                "C. 描述了四个标志。",
+                "D. 描述了五个标志。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_64": {
+            "id": "EQ-67udZEeg_64",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "在画面右侧的场景中描述的是哪些标志？",
+            "options": [
+                "A. 'Ford', 'Visa','FedEx'",
+                "B. 'Tesla', 'MasterCard','DHL'",
+                "C. 'Ford', 'MasterCard', 'UPS'",
+                "D. 'Toyota', 'Visa', 'Amazon'"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_65": {
+            "id": "EQ-67udZEeg_65",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "福特（Ford）的标志是否位于框架右侧列的底部？",
+            "options": [
+                "A. 是的，福特的标志位于右侧列的底部。",
+                "B. 不，福特的标志在VISA上面。",
+                "C. 不，福特的标志位于顶部中间。",
+                "D. 不，框架中没有福特的标志。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_66": {
+            "id": "EQ-67udZEeg_66",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "标志是如何排列的？",
+            "options": [
+                "A. 标志分区域整齐排列。",
+                "B. 标志在画框的底部水平排列。",
+                "C. 标志随机散布在画框中。",
+                "D. 标志集中在画框的中心。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_67": {
+            "id": "EQ-67udZEeg_67",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "品牌标志在框架中有何变化？",
+            "options": [
+                "A. 新增标志。",
+                "B. 保持不变。",
+                "C. 减少标志。",
+                "D. 没有任何品牌标志。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_68": {
+            "id": "EQ-67udZEeg_68",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "画面的主要场景是什么？",
+            "options": [
+                "A. 浅灰色背景与其他各种标志。",
+                "B. 深色背景与其他各种标志。",
+                "C. 各种股票指数的动态动画。",
+                "D. 公司会议室的特写视图。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_69": {
+            "id": "EQ-67udZEeg_69",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "手绘的人穿着什么样的衣服？",
+            "options": [
+                "A. 手绘的人穿着灰色西装。",
+                "B. 手绘的人穿着黑色西装。",
+                "C. 手绘的人穿着白色西装。",
+                "D. 手绘的人穿着蓝色西装。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_70": {
+            "id": "EQ-67udZEeg_70",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "手绘男人的头发颜色是什么？",
+            "options": [
+                "A. 金色",
+                "B. 橙棕色",
+                "C. 黑色",
+                "D. 灰色"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_71": {
+            "id": "EQ-67udZEeg_71",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "手绘人物的姿势是什么？",
+            "options": [
+                "A. 手绘人物直立，两臂自然下垂。",
+                "B. 手绘人物坐着，双臂交叉。",
+                "C. 手绘人物前倾，一只手抬起。",
+                "D. 手绘人物躺着，双臂交叉。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_72": {
+            "id": "EQ-67udZEeg_72",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "‘S&P 500’ 文字的初始风格是什么？",
+            "options": [
+                "A. 大型三维灰白色字母",
+                "B. 平面白色字母",
+                "C. 手绘的黑色字母",
+                "D. 大的金色字母"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_73": {
+            "id": "EQ-67udZEeg_73",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "场景的第一个画面显示了多少企业标志？",
+            "options": [
+                "A. 两个企业标志",
+                "B. 三个企业标志",
+                "C. 四个企业标志",
+                "D. 五个企业标志"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_74": {
+            "id": "EQ-67udZEeg_74",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "镜头中最初展示了哪些企业标志？",
+            "options": [
+                "A. Ford, Visa, UPS.",
+                "B. Ford, Visa, FedEx.",
+                "C. Ford, Mastercard, FedEx.",
+                "D. Toyota, Visa, FedEx."
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_75": {
+            "id": "EQ-67udZEeg_75",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "背景颜色会发生变化吗？",
+            "options": [
+                "A. 是的，它从浅灰色变为深灰色。",
+                "B. 不，背景都保持为一致的浅灰色。",
+                "C. 是的，它从浅灰色变为蓝色。",
+                "D. 是的，它从浅灰色变为白色。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_76": {
+            "id": "EQ-67udZEeg_76",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "在画面切换期间，公司标志会发生什么变化？",
+            "options": [
+                "A. 公司标志消失。",
+                "B. 公司标志变大。",
+                "C. 公司标志改变颜色。",
+                "D. 公司标志移动到画面底部。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_77": {
+            "id": "EQ-67udZEeg_77",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "数字“500”最初出现在画面的什么位置？",
+            "options": [
+                "A. 数字“500”出现在画面的左侧。",
+                "B. 数字“500”出现在画面的底部中央。",
+                "C. 数字“500”出现在画面的右侧。",
+                "D. 数字“500”出现在画面的顶部中央。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_78": {
+            "id": "EQ-67udZEeg_78",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "场景从公司标志过渡后，新场景发生了什么变化？",
+            "options": [
+                "A. 场景中出现了一个卡通角色。",
+                "B. 场景中出现了条形统计图。",
+                "C. 场景中出现了放大镜。",
+                "D. 场景中出现了一栋建筑物。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_79": {
+            "id": "EQ-67udZEeg_79",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "场景中使用了什么相机视角？",
+            "options": [
+                "A. 使用的是直接且一致的相机视角。",
+                "B. 使用的是动态且不断变化的相机视角。",
+                "C. 使用的是高角度的相机视角。",
+                "D. 使用的是特写和缩放的相机视角。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_80": {
+            "id": "EQ-67udZEeg_80",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "在场景中，'S&P 500'文本相对于男人插图的位置在哪里？",
+            "options": [
+                "A. 'S&P 500'文本在上，插图中的男人在其下方。",
+                "B. 'S&P 500'文本在下，插图中的男人在其上方。",
+                "C. 'S&P 500'文本在插图中男人的左侧。",
+                "D. 'S&P 500'文本在插图中男人的右侧。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_81": {
+            "id": "EQ-67udZEeg_81",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "在文字和插图消失后，场景的环境是什么？",
+            "options": [
+                "A. 场景变得完全空白，背景为浅灰色。",
+                "B. 场景过渡到一个城市景观。",
+                "C. 场景显示出一个色彩斑斓的抽象设计。",
+                "D. 场景变得黑暗，背景为黑色。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_82": {
+            "id": "EQ-67udZEeg_82",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "‘NASDAQ’文本在画面中的位置在哪里？",
+            "options": [
+                "A. ‘NASDAQ’文本位于画面顶部中央。",
+                "B. ‘NASDAQ’文本位于画面底部中央。",
+                "C. ‘NASDAQ’文本位于画面左上角。",
+                "D. ‘NASDAQ’文本位于画面中心。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_83": {
+            "id": "EQ-67udZEeg_83",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "整个场景的背景是什么？",
+            "options": [
+                "A. 一种浅灰色渐变背景。",
+                "B. 一种深蓝色纹理背景。",
+                "C. 一种纯白色背景。",
+                "D. 一种彩色马赛克背景。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_84": {
+            "id": "EQ-67udZEeg_84",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "场景中的数字“3,000”是什么颜色的？",
+            "options": [
+                "A. 数字“3,000”是红色字体。",
+                "B. 数字“3,000”是深绿色字体。",
+                "C. 数字“3,000”是蓝色字体。",
+                "D. 数字“3,000”是黑色字体。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_85": {
+            "id": "EQ-67udZEeg_85",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "场景中的数字“3,000”是如何设计的？",
+            "options": [
+                "A. 数字“3,000”采用粗体，带有黑色轮廓。",
+                "B. 数字“3,000”采用粗体手绘，带有纹理图案和白色轮廓。",
+                "C. 数字“3,000”采用粗体衬线，带有黄色轮廓。",
+                "D. 数字“3,000”采用纤细的斜体，没有任何轮廓。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_86": {
+            "id": "EQ-67udZEeg_86",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "在这个场景中出现了多少个公司标志？",
+            "options": [
+                "A. 两个公司标志",
+                "B. 三个公司标志",
+                "C. 四个公司标志",
+                "D. 五个公司标志"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_87": {
+            "id": "EQ-67udZEeg_87",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "在这个场景中引入了哪些公司标志？",
+            "options": [
+                "A. Google, Adobe, EA.",
+                "B. Google, Microsoft, EA.",
+                "C. Adobe, Microsoft, Amazon.",
+                "D. Google, Amazon, Adobe."
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_88": {
+            "id": "EQ-67udZEeg_88",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "“Google”标志是否出现在“3,000”数字的左侧？",
+            "options": [
+                "A. 是的，“Google”标志出现在“3,000”数字的左侧。",
+                "B. 不，“Google”标志出现在“3,000”数字的右侧。",
+                "C. 不，“Google”标志直接出现在“3,000”数字的下方。",
+                "D. 不，“Google”标志没有出现在场景中。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_89": {
+            "id": "EQ-67udZEeg_89",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "当“Adobe”标志被添加在什么位置？",
+            "options": [
+                "A. “Adobe”标志被整合在“Google”标志的下方。",
+                "B. “Adobe”标志放置于“Google”标志的上方。",
+                "C. “Adobe”标志取代“Google”标志。",
+                "D. “Adobe”标志被添加到“Google”标志的左侧。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_90": {
+            "id": "EQ-67udZEeg_90",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "当“Electronic Arts”标志被放置在什么位置？",
+            "options": [
+                "A. “Electronic Arts”标志被整合于“Google”标志的下方并稍往右。",
+                "B. “Electronic Arts”标志被放置在“Google”标志上方。",
+                "C. “Electronic Arts”标志被引入到“NADAQ”左边。",
+                "D. “Electronic Arts”标志取代了“Adobe”标志。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_91": {
+            "id": "EQ-67udZEeg_91",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "场景使用了哪种类型的摄像机视角？",
+            "options": [
+                "A. 使用了居中且稳定的摄像机视角。",
+                "B. 使用了倾斜且动态的摄像机视角。",
+                "C. 使用了摇晃的手持摄像机视角。",
+                "D. 使用了广角全景摄像机视角。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_92": {
+            "id": "EQ-67udZEeg_92",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "‘INDEX’文本位于框架中的什么位置？",
+            "options": [
+                "A. ‘INDEX’文本位于框架的顶部。",
+                "B. ‘INDEX’文本位于框架的底部中央。",
+                "C. ‘INDEX’文本位于框架的中央稍往上。",
+                "D. ‘INDEX’文本位于框架的右上角。"
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_93": {
+            "id": "EQ-67udZEeg_93",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "“INDEX”文字的颜色是什么？",
+            "options": [
+                "A. 'INDEX'文字是紫色。",
+                "B. 'INDEX'文字是绿色。",
+                "C. 'INDEX'文字是红色。",
+                "D. 'INDEX'文字是蓝色。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_94": {
+            "id": "EQ-67udZEeg_94",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "“INDEX”文本的字体风格是什么？",
+            "options": [
+                "A. “INDEX”文本是加粗的大写字母。",
+                "B. “INDEX”文本是流线型的斜体字。",
+                "C. “INDEX”文本是加粗的小写字母。",
+                "D. “INDEX”文本是衬线字体。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_95": {
+            "id": "EQ-67udZEeg_95",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "场景的最终画面中有多少个文本元素？",
+            "options": [
+                "A. 一个文本元素",
+                "B. 两个文本元素",
+                "C. 三个文本元素",
+                "D. 四个文本元素"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_96": {
+            "id": "EQ-67udZEeg_96",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "场景中的文字元素是什么？",
+            "options": [
+                "A. 'NASDAQ'， 'GOOGLE'.",
+                "B. '3,000'， 'ELECTRONIC ARTS'.",
+                "C. 'INDEX'，'WALLSTREETSURVIVOR.COM'.",
+                "D. 'ADOBE'， 'INDEX'."
+            ],
+            "answer": "C"
+        },
+        "EQ-67udZEeg_97": {
+            "id": "EQ-67udZEeg_97",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "场景中是否有文本元素的动画？",
+            "options": [
+                "A. 是的，文本元素是动态出现的。",
+                "B. 不，文本元素没有动画效果。",
+                "C. 是的，文本元素之间有动态的互动。",
+                "D. 是的，文本元素的位置经常变化。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_98": {
+            "id": "EQ-67udZEeg_98",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "在场景最后，视觉元素或其布局是否发生了变化？",
+            "options": [
+                "A. 是的，视觉元素及其布局发生了显著变化。",
+                "B. 否，视觉元素及其布局没有发生变化。",
+                "C. 是的，背景颜色发生了变化。",
+                "D. 是的，网址消失了，但主要文本保持不变。"
+            ],
+            "answer": "B"
+        },
+        "EQ-67udZEeg_99": {
+            "id": "EQ-67udZEeg_99",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "“INDEX”文本拥有什么效果？",
+            "options": [
+                "A. 投影效果",
+                "B. 渐变叠加",
+                "C. 浮雕效果",
+                "D. 反射效果"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_100": {
+            "id": "EQ-67udZEeg_100",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "场景最开始出现的文本元素是什么？",
+            "options": [
+                "A. “WHAT IS AN INDEX?”。",
+                "B. 'Google'、'Adobe'和'Electronic Arts'。",
+                "C. “NASDAQ INDEX”。",
+                "D. “INDEX”。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_101": {
+            "id": "EQ-67udZEeg_101",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在“WHAT IS AN INDEX?”消失后出现的“INDEX”下方有什么变化？",
+            "options": [
+                "A. 文字“QUICK”和“EASY”出现在单词“INDEX”下方稍往左。",
+                "B. 文字“secure”和“fast”出现在单词“INDEX”下方。",
+                "C. 文字“reliable”和“safe”出现在单词“INDEX”下方。",
+                "D. 文字“simple”和“effective”出现在单词“INDEX”下方。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_102": {
+            "id": "EQ-67udZEeg_102",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "QUICK'和'EASY'之间出现了什么符号？",
+            "options": [
+                "A. 一个'+'符号出现在中间。",
+                "B. 一个'-'符号出现在中间。",
+                "C. 一个'&'符号出现在中间。",
+                "D. 一个'='符号出现在中间。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_103": {
+            "id": "EQ-67udZEeg_103",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "小女孩位于画面左侧时，出现过什么视觉元素？",
+            "options": [
+                "A. 在她右侧出现过一个色彩鲜艳的条形图。",
+                "B. 在她右侧出现过一个显示数据百分比的饼图。",
+                "C. 在她右侧出现过一个包含统计和数字数据的文本框。",
+                "D. 在她右侧播放过一个动画视频片段。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_104": {
+            "id": "EQ-67udZEeg_104",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "场景开始时，第一个画面中有什么视觉元素？",
+            "options": [
+                "A. “WHAT IS AN INDEX?，方块。",
+                "B. NASDAQ的文本和标志。",
+                "C. 紫色粗体文字“index”。",
+                "D. “WALLSTREETSURVIVOR.COM”。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_105": {
+            "id": "EQ-67udZEeg_105",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在“INDEX”这个词下面引入的第一个文本元素是什么？",
+            "options": [
+                "A. 第一个元素是“QUICK”。",
+                "B. 第一个元素是“NASDAQ”。",
+                "C. 第一个元素是“GOOGLE”。",
+                "D. 第一个元素是3,000”。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_106": {
+            "id": "EQ-67udZEeg_106",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "女孩右侧的柱状图消失后，场景有什么变化？",
+            "options": [
+                "A. 单词 'INDEX' 以放大效果显著显示。",
+                "B. 女孩仍在画面中， 'INDEX' 在她旁边。",
+                "C. 年轻女孩和柱状图被饼图动画所取代。",
+                "D. 女孩的右侧出现了数字“500”。"
+            ],
+            "answer": "D"
+        },
+        "EQ-67udZEeg_107": {
+            "id": "EQ-67udZEeg_107",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "画面顶部中央的‘'DowJones’随后被什么文字顶替了位置？",
+            "options": [
+                "A.‘S&P 500’。",
+                "B.‘NASDAQ’。",
+                "C.‘Google’。",
+                "D.‘INDEX’。"
+            ],
+            "answer": "A"
+        },
+        "EQ-67udZEeg_108": {
+            "id": "EQ-67udZEeg_108",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "\"S&P 500\"主题的场景出现了什么元素？",
+            "options": [
+                "A. 'INDEX'这个词和下面的一个网址",
+                "B. '500'这个数字和额外的公司标志",
+                "C. 一个变化的背景与动画元素",
+                "D. 绿色加粗的'NASDAQ'文本"
+            ],
+            "answer": "B"
+        }
+    }
+}

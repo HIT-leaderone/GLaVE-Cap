@@ -1,0 +1,1522 @@
+{
+    "scene_hint": {
+        "0": "镜头快速略过草坪。",
+        "1": "一名身穿白衣的男子站在足球世界杯旁边。",
+        "2": "展示体育场内部结构。",
+        "3": "聚焦于体育场外部以及周边环境",
+        "4": "镜头依次跟随着绿色、蓝色，红色发光条纹展示城市街景。",
+        "5": "在水面上添加“NEW YORK NEW JERSEY”文字说明这是哪里。",
+        "6": "世界杯奖杯位于正中央，背景单一朴素。",
+        "7": "动感的同心红色形状和围绕国际足联世界杯奖杯的鲜艳多彩图案。"
+    },
+    "qa": {
+        "1tidNDIpKSY_0": {
+            "id": "1tidNDIpKSY_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "白线在初始画面的什么位置？",
+            "options": [
+                "A. 白线垂直位于画面的中间。",
+                "B. 白线对角线穿过画面下部。",
+                "C. 白线水平跨过画面上部。",
+                "D. 白线水平跨过画面的中间。"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_1": {
+            "id": "1tidNDIpKSY_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频中环境是如何描绘的？",
+            "options": [
+                "A. 一个光线昏暗的绿色草坪。",
+                "B. 一个灯光明亮、色彩缤纷的公园。",
+                "C. 一条繁忙的城市街道，。",
+                "D. 一个安静的图书馆。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_2": {
+            "id": "1tidNDIpKSY_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频初始可以看到什么？",
+            "options": [
+                "A. 一条单独的白线，位于绿色的草坪上。",
+                "B. 多条白线。",
+                "C. 两条平行的黄色线。",
+                "D. 一组彩色涂鸦，画在混凝土墙上。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_3": {
+            "id": "1tidNDIpKSY_3",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "场景中有任何车辆可见吗？",
+            "options": [
+                "A. 是的，有多辆车可见。",
+                "B. 不，没有车辆可见。",
+                "C. 在远处有一辆车可见。",
+                "D. 只有部分车辆可见。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_4": {
+            "id": "1tidNDIpKSY_4",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "白线在视频中是否改变了位置？",
+            "options": [
+                "A. 是的，它从画面的上部移到下部。",
+                "B. 不，白线在整个视频中都保持在同一位置。",
+                "C. 是的，它从画面的左侧移到右侧。",
+                "D. 不，白线在初始画面消失后完全消失。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_5": {
+            "id": "1tidNDIpKSY_5",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "在过渡过程中，白线的外观如何变化？",
+            "options": [
+                "A. 白线重新出现在画面的下方，并呈现出轻微的弧度。",
+                "B. 白线变得更亮，并水平跨越整个画面。",
+                "C. 白线完全从场景中消失。",
+                "D. 白线重新出现在相同位置，但呈现不同的颜色。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_6": {
+            "id": "1tidNDIpKSY_6",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "视频中使用了什么类型的镜头拍摄？",
+            "options": [
+                "A. 近距离侧面角度视角。",
+                "B. 俯拍且略微倾斜的视角。",
+                "C. 低角度向上拍摄的视角。",
+                "D. 广角全景视角。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_7": {
+            "id": "1tidNDIpKSY_7",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "白线的位置在场景内是如何变化的？",
+            "options": [
+                "A. 在画面中从上移到下。",
+                "B. 在画面中从下移到上。",
+                "C. 在画面中从左移动到右。",
+                "D. 白线在整个场景中保持在同一位置。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_8": {
+            "id": "1tidNDIpKSY_8",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "那个人相对于足球场的位置在哪里？",
+            "options": [
+                "A. 足球场的中场区附近。",
+                "B. 站在足球场的边线。",
+                "C. 坐在足球场的观众区域。",
+                "D. 在体育场外面，靠近入口。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_9": {
+            "id": "1tidNDIpKSY_9",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在这一场景中，体育场的灯光情况如何？",
+            "options": [
+                "A. 灯光增强。",
+                "B. 灯光变暗。",
+                "C. 灯光闪烁。",
+                "D. 灯光基本不变。"
+            ],
+            "answer": "D"
+        },
+        "1tidNDIpKSY_10": {
+            "id": "1tidNDIpKSY_10",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这一场景中足球场周围显示了什么？",
+            "options": [
+                "A. 五颜六色的气球。",
+                "B. 广告横幅。",
+                "C. 滚动文字的显示屏。",
+                "D. 来自不同国家的旗帜。"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_11": {
+            "id": "1tidNDIpKSY_11",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "这个男人是怎么穿着的？",
+            "options": [
+                "A. 一身白，包括夹克、裤子和运动鞋。",
+                "B. 一套黑色西服和领带。",
+                "C. 一件红色足球衫和短裤。",
+                "D. 休闲的T恤和牛仔裤。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_12": {
+            "id": "1tidNDIpKSY_12",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "那个男人带着什么显著的物品？",
+            "options": [
+                "A. 一个足球陪着那个男人。",
+                "B. 一名裁判陪着那个男人。",
+                "C. 国际足联世界杯奖杯陪着那个男人。",
+                "D. 一面红旗陪着那个男人。"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_13": {
+            "id": "1tidNDIpKSY_13",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "世界杯奖杯位于何处？",
+            "options": [
+                "A. 它放置在主持人旁边一个高高的黑色基座上。",
+                "B. 它悬挂在体育场屋顶的遮篷上。",
+                "C. 它放在足球门柱上。",
+                "D. 它躺在靠近罚球区的草地上。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_14": {
+            "id": "1tidNDIpKSY_14",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "这个场景中的主要视觉元素是什么？",
+            "options": [
+                "A. 那个人、FIFA世界杯奖杯和中间对齐的球门柱。",
+                "B. 那个人、观众和体育场的屋顶棚。",
+                "C. FIFA世界杯奖杯、标识显示和蓝光区域。",
+                "D. 足球场、罚球区和彩色灯光显示。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_15": {
+            "id": "1tidNDIpKSY_15",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中是否有可见的文字标志？",
+            "options": [
+                "A. 不，场景中没有可见的文字标志。",
+                "B. 是的，是“FIFA WORLD CUP 26”。",
+                "C. 是的，是“WELCOME TO THE FINALS”。",
+                "D. 是的，是显示比赛的比分。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_16": {
+            "id": "1tidNDIpKSY_16",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "哪种微妙的动作表明这个男人的举止发生了变化？",
+            "options": [
+                "A. 边说话，双手一边小幅度地挥动。",
+                "B. 这个男人向奖杯迈出一步。",
+                "C. 这个男人举起双臂庆祝。",
+                "D. 这个男人倚靠在底座上。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_17": {
+            "id": "1tidNDIpKSY_17",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "这个男人的位置在视频后面向哪个方向移动了？",
+            "options": [
+                "A. 向画面左侧移动。",
+                "B. 向画面右侧移动。",
+                "C. 远离镜头移动。",
+                "D. 靠近镜头移动。"
+            ],
+            "answer": "D"
+        },
+        "1tidNDIpKSY_18": {
+            "id": "1tidNDIpKSY_18",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "这个男人在国际足联世界杯奖杯旁边做什么？",
+            "options": [
+                "A. 在演讲，主持或者宣传。",
+                "B. 在擦拭国际足联世界杯奖杯。",
+                "C. 拿着国际足联世界杯奖杯。",
+                "D. 向观众展示国际足联世界杯奖杯。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_19": {
+            "id": "1tidNDIpKSY_19",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "在场景中，数字显示屏进行了哪些增加？",
+            "options": [
+                "A. 生动的绿色图案和装饰元素。",
+                "B. 替换为单色设计和简约文字。",
+                "C. 被完全移除，使体育场没有电子视觉效果。",
+                "D. 增强了暗淡的照明并减少了对装饰特征的关注。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_20": {
+            "id": "1tidNDIpKSY_20",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "在场景中，上层部分添加了哪些数字化变化？",
+            "options": [
+                "A. 一个横向的数字显示屏横跨上层部分。",
+                "B. 上层部分装饰了烟花展示。",
+                "C. 引入了一个竖向的数字显示屏。",
+                "D. 上层部分展示了一个旋转的全息显示屏。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_21": {
+            "id": "1tidNDIpKSY_21",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "描述中提到了多少个显著的数字显示屏？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_22": {
+            "id": "1tidNDIpKSY_22",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "在整个场景中，奖杯旁边那个人的正式风格是否保持一致？",
+            "options": [
+                "A. 是的，整个场景中一直保持正式风格。",
+                "B. 不，那个男人的正式风格变化了好几次。",
+                "C. 是的，但仅限于场景的开始。",
+                "D. 不，那个人一点也不正式。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_23": {
+            "id": "1tidNDIpKSY_23",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "奖杯旁的男人做了什么微妙的动作？",
+            "options": [
+                "A. 男人双手相握置于腹前。",
+                "B. 男人挥了一面旗子。",
+                "C. 男人调整了他的帽子。",
+                "D. 男人坐下了。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_24": {
+            "id": "1tidNDIpKSY_24",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "那个男人在他细微的动作之后站在哪里？",
+            "options": [
+                "A. 他站在FIFA世界杯奖杯旁，距离没有变。",
+                "B. 他站在FIFA世界杯奖杯旁，距离更远了。",
+                "C. 他站在电子显示屏旁边。",
+                "D. 他站在人群前面。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_25": {
+            "id": "1tidNDIpKSY_25",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "绿色数字显示屏延伸的区域是哪个？",
+            "options": [
+                "A. 上部水平区域。",
+                "B. 下部水平区域。",
+                "C. 垂直延伸于地面和天空。",
+                "D. 对角延伸，从地面穿过体育场。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_26": {
+            "id": "1tidNDIpKSY_26",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "数字显示内容如何变化？",
+            "options": [
+                "A. 变为单色色调和装饰图案。",
+                "B. 过渡为彩色模式。",
+                "C. 保持静态，全程只展示活动的标志。",
+                "D. 转为展示当地商业广告。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_27": {
+            "id": "1tidNDIpKSY_27",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "视频开头显著捕捉了什么？",
+            "options": [
+                "A. 体育馆中熙熙攘攘的人群。",
+                "B. 空座位。",
+                "C. 停车场。",
+                "D. 体育场周围的道路。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_28": {
+            "id": "1tidNDIpKSY_28",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "视频中出现的大蓝色横幅是什么样子的？",
+            "options": [
+                "A. 有白色的星星和条纹。",
+                "B. 有红色的圆形和三角形。",
+                "C. 有绿色的方块和线条。",
+                "D. 有黄色的点和波浪。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_29": {
+            "id": "1tidNDIpKSY_29",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "视频中过渡部分突出强调的主要结构元素是什么？",
+            "options": [
+                "A. 彩色灯光、绿色足球场和大型蓝色横幅。",
+                "B. 分层座椅、照明停车场以及绿色足球场。",
+                "C. 光滑的金属外观、装饰性横幅和镜头光晕效果。",
+                "D. 外部照明、由灯光组成的道路网络以及城市景观。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_30": {
+            "id": "1tidNDIpKSY_30",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "当相机在体育场上方移动得更高时，哪些元素变得更加明显？",
+            "options": [
+                "A. 体育场外观以及周边环境。",
+                "B. 内部的座位安排和场上球员。",
+                "C. 体育场内的小卖部和商品商店。",
+                "D. 记分板以及体育场屏幕上的广告。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_31": {
+            "id": "1tidNDIpKSY_31",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "摄像机从体育场的特写镜头转移到与城市景观融合时朝哪个方向移动？",
+            "options": [
+                "A. 摄像机向内移动并降低。",
+                "B. 摄像机向外移动并升高。",
+                "C. 摄像机左右移动。",
+                "D. 摄像机向下移动并靠近。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_32": {
+            "id": "1tidNDIpKSY_32",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "用什么类型的镜头来展现体育场的广阔?",
+            "options": [
+                "A. 静态特写镜头。",
+                "B. 横扫的全景镜头。",
+                "C. 动态航拍镜头。",
+                "D. 固定地面镜头。"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_33": {
+            "id": "1tidNDIpKSY_33",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "什么类型的摄影镜头用来展示体育场的复杂设计？",
+            "options": [
+                "A. 动态空中视角镜头",
+                "B. 静态广角镜头",
+                "C. 人群的特写镜头",
+                "D. 中距离跟踪镜头"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_34": {
+            "id": "1tidNDIpKSY_34",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "相机在场景过渡过程中如何保持速度？",
+            "options": [
+                "A. 相机平稳渐进地过渡。",
+                "B. 相机在场景之间突然移动。",
+                "C. 相机在过渡期间速度显著加快。",
+                "D. 相机保持静止。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_35": {
+            "id": "1tidNDIpKSY_35",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "场景转换期间会发生哪种类型的焦点转移？",
+            "options": [
+                "A. 从人群特写转移到更广阔的全景视图。",
+                "B. 只专注于人群。",
+                "C. 从外部城市景观看向绿色田野。",
+                "D. 弱化建筑元素以突出停车场。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_36": {
+            "id": "1tidNDIpKSY_36",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频发生在什么地方？",
+            "options": [
+                "A. 城市环境中。",
+                "B. 乡村地区。",
+                "C. 沙漠里。",
+                "D. 偏远岛屿上。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_37": {
+            "id": "1tidNDIpKSY_37",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "绿色灯带上可见的颜色有哪些？",
+            "options": [
+                "A. 红色、绿色和黄色",
+                "B. 蓝色和紫色",
+                "C. 紫色和橙色",
+                "D. 蓝色和黑色"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_38": {
+            "id": "1tidNDIpKSY_38",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "绿色灯带上能看到什么图案？",
+            "options": [
+                "A. 红色三角和绿色三角",
+                "B. 蓝色三角形和黄色正方形",
+                "C. 白色星星和橙色叉号",
+                "D. 紫色椭圆和粉色六边形"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_39": {
+            "id": "1tidNDIpKSY_39",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "在展示体育场的场景中，有多少颜色的光束划过夜空？",
+            "options": [
+                "A. 三种。",
+                "B. 四种。",
+                "C. 五种。",
+                "D. 两种。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_40": {
+            "id": "1tidNDIpKSY_40",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "绿灯条的近景是否能看到整体的城市环境？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 部分",
+                "D. 只有在非常详细的情况下"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_41": {
+            "id": "1tidNDIpKSY_41",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "当从全景的体育场过渡到绿灯条的特写镜头时，会发生什么视觉变化？",
+            "options": [
+                "A. 镜头会跟随绿灯条快速移动。",
+                "B. 视野扩展，。",
+                "C. 体育场变得更加突出，。",
+                "D. 背景完全变暗。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_42": {
+            "id": "1tidNDIpKSY_42",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "紫色光束在天空中朝哪个方向穿过？",
+            "options": [
+                "A. 紫色光束近乎水平穿过天空。",
+                "B. 紫色光束近乎垂直穿过天空。",
+                "C. 存在多条紫色光束，难以描述方向。",
+                "D. 紫色光束从左下方到右上方对角穿过天空。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_43": {
+            "id": "1tidNDIpKSY_43",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "用什么类型的镜头来突出绿色光带？",
+            "options": [
+                "A. 特写镜头。",
+                "B. 广角镜头。",
+                "C. 航拍镜头。",
+                "D. 全景镜头。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_44": {
+            "id": "1tidNDIpKSY_44",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "发光的蓝色条纹相对于道路的位置在哪里？",
+            "options": [
+                "A. 道路的左侧。",
+                "B. 就在路上。",
+                "C. 道路的上方。",
+                "D. 发背景天际线上。"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_45": {
+            "id": "1tidNDIpKSY_45",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "发光的蓝色条纹相对于城市景观的位置在哪里？",
+            "options": [
+                "A. 连接了近景与其后广阔的城市区域。",
+                "B. 位于城市天际线中的一座摩天大楼之上。",
+                "C. 位于繁忙的行人过街中心。",
+                "D. 悬挂在前景附近的灯光道路之上。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_46": {
+            "id": "1tidNDIpKSY_46",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频场景的整体环境和背景是怎样的？",
+            "options": [
+                "A. 夜晚的都市环境中。",
+                "B. 白天的中世纪城堡中。",
+                "C. 日出的宁静乡村。",
+                "D. 白天的水下世界。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_47": {
+            "id": "1tidNDIpKSY_47",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "视频场景中有真人角色吗？",
+            "options": [
+                "A. 是的，视频场景中有几个真人角色。",
+                "B. 不，视频场景中没有真人角色。",
+                "C. 是的，视频场景中有一个真人角色。",
+                "D. 是的，视频场景中有很多真人角色在互动。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_48": {
+            "id": "1tidNDIpKSY_48",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景中提到的是哪种类型的光元素？",
+            "options": [
+                "A. 绿色霓虹线条、黄色路灯灯光。",
+                "B. 红色霓虹灯、黄色路灯灯光。",
+                "C. 蓝色霓虹线条、黄色路灯灯光。",
+                "D. 绿色霓虹线条、白色路灯灯光。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_49": {
+            "id": "1tidNDIpKSY_49",
+            "scene": 4,
+            "dimension": "Camera Direction",
+            "question": "在整个视频场景中，摄像机是静止的吗？",
+            "options": [
+                "A. 是的，摄像机保持静止。",
+                "B. 不，摄像机快速移动。",
+                "C. 不，但是摄像机只移动了一次。",
+                "D. 不，摄像机在场景的不同角度间频繁切换。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_50": {
+            "id": "1tidNDIpKSY_50",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "摄像机是如何增强场景的动态特性的？",
+            "options": [
+                "A. 摄像机快速平移",
+                "B. 摄像机戏剧性地放大",
+                "C. 摄像机轻微地倾斜",
+                "D. 摄像机保持静止"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_51": {
+            "id": "1tidNDIpKSY_51",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "整个序列中灯光的复杂性是如何变化的？",
+            "options": [
+                "A. 逐渐减少，仅集中在绿色霓虹线条上。",
+                "B. 保持不变，对光辉和颜色的变化极小。",
+                "C. 增加，包含绿色霓虹线条、黄色路灯灯光、紫色光带。",
+                "D. 灯光在结尾时完全消失。"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_52": {
+            "id": "1tidNDIpKSY_52",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "蓝色发光条纹与道路有何空间关系？",
+            "options": [
+                "A. 与道路几乎平行。",
+                "B. 垂直于道路布置。",
+                "C. 悬浮在道路上方。",
+                "D. 与道路没有明显关联。"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_53": {
+            "id": "1tidNDIpKSY_53",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频中描述的环境是什么？",
+            "options": [
+                "A. 一个农村的山区。",
+                "B. 一个沙漠景观",
+                "C. 环境是一个城市的夜晚景观。",
+                "D. 一个郊区的住宅区。"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_54": {
+            "id": "1tidNDIpKSY_54",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "蓝色发光条纹是什么样子的？",
+            "options": [
+                "A. 有着白色星星图案，显得细长。",
+                "B. 有着红色星星图案，显得细长。",
+                "C. 有着白色星星图案，显得短小。",
+                "D. 有着金色星星图案，显得弯曲。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_55": {
+            "id": "1tidNDIpKSY_55",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "视频中提到的灯条颜色是什么？",
+            "options": [
+                "A. 绿色、蓝色、红色。",
+                "B. 绿色、黄色、红色。",
+                "C. 蓝色、黄色、红色。",
+                "D. 绿色、蓝色、黄色。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_56": {
+            "id": "1tidNDIpKSY_56",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "视频描述中提到了道路拥堵吗？",
+            "options": [
+                "A. 是的，描述了道路上的严重拥堵。",
+                "B. 是的，提到了中等程度的拥堵，并且可以看到一些车辆。",
+                "C. 不，视频中并未描述到车辆。",
+                "D. 不，车辆只是停在路边，没有造成拥堵。"
+            ],
+            "answer": "D"
+        },
+        "1tidNDIpKSY_57": {
+            "id": "1tidNDIpKSY_57",
+            "scene": 4,
+            "dimension": "Camera Direction",
+            "question": "相机看起来是朝哪个方向移动的？",
+            "options": [
+                "A. 向前移向城市景观。",
+                "B. 向上移向摩天大楼。",
+                "C. 向后移动，远离城市环境。",
+                "D. 保持静止，对准蓝色拱门。"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_58": {
+            "id": "1tidNDIpKSY_58",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景的背景焦点是什么？",
+            "options": [
+                "A. 焦点是城市环境和建筑细节。",
+                "B. 焦点是一个繁忙的市场。",
+                "C. 场景突出一个拥挤的地铁站。",
+                "D. 重点放在宁静的公园区域。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_59": {
+            "id": "1tidNDIpKSY_59",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "场景中有出现人吗？",
+            "options": [
+                "A. 有，场景中充满了正在庆祝的人。",
+                "B. 没有，场景中没有显示任何人。",
+                "C. 有，有几个人在四处走动。",
+                "D. 没有，但场景中出现了人的影子。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_60": {
+            "id": "1tidNDIpKSY_60",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "场景中建筑物上的数字广告牌上描绘的是什么物体？",
+            "options": [
+                "A. FIFA世界杯奖杯。",
+                "B. 一个未来主义城市天际线的发光图案",
+                "C. 一个蓝色霓虹汽车的数字呈现",
+                "D. 奥运五环，显示在黑白背景上"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_61": {
+            "id": "1tidNDIpKSY_61",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "场景中可以看到多少条主要的光迹？",
+            "options": [
+                "A. 一条",
+                "B. 两条",
+                "C. 三条",
+                "D. 四条"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_62": {
+            "id": "1tidNDIpKSY_62",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "场景中的道路是否交通繁忙？",
+            "options": [
+                "A. 是的，道路上交通非常繁忙。",
+                "B. 不，道路上空无一人。",
+                "C. 是的，道路上有适中的交通。",
+                "D. 不，但有几辆车。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_63": {
+            "id": "1tidNDIpKSY_63",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "这条路是如何是什么样的？",
+            "options": [
+                "A. 这条路是一条光滑明亮的小径。",
+                "B. 这条路是一条由鹅卵石铺成的小径。",
+                "C. 这条路是一条泥土小路。",
+                "D. 这条路是一条沙质小道。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_64": {
+            "id": "1tidNDIpKSY_64",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "在数字广告牌上的国际足联世界杯奖杯下方点亮的文字是什么？",
+            "options": [
+                "A. “World Cup”。",
+                "B. “Champions”。",
+                "C. “FIFA”。",
+                "D. “2022”。"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_65": {
+            "id": "1tidNDIpKSY_65",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "当场景转换为红色照明时，弯曲小径会发生什么变化？",
+            "options": [
+                "A. 弯曲小径被红光淹没。",
+                "B. 弯曲小径完全消失。",
+                "C. 弯曲小径变成一束蓝光。",
+                "D. 弯曲小径变成一条直线。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_66": {
+            "id": "1tidNDIpKSY_66",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频主要呈现了什么样的场景？",
+            "options": [
+                "A. 城乡过渡的动态变化。",
+                "B. 车水马龙的繁忙城市风貌。",
+                "C. 一个没有城市元素打扰的宁静自然环境。",
+                "D. 一个充满外星建筑的未来太空景观。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_67": {
+            "id": "1tidNDIpKSY_67",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "城市景观背景中可以看到哪些著名物体？",
+            "options": [
+                "A. 自由女神像和设计各异的明亮摩天大楼",
+                "B. 摩天轮和灯火辉煌的游乐园",
+                "C. 车水马龙的街道和行人",
+                "D. 一座灯火通明且人声鼎沸的大型体育场"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_68": {
+            "id": "1tidNDIpKSY_68",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "这个场景中是否包含反光的水体？",
+            "options": [
+                "A. 是的，场景中包含反光的水体。",
+                "B. 不，场景中不包含任何水。",
+                "C. 是的，但水体不反光。",
+                "D. 不，这里只有一条干燥的小路，没有任何水。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_69": {
+            "id": "1tidNDIpKSY_69",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "在场景最后一帧中，红色光带发生了什么变化？",
+            "options": [
+                "A. 红色光带变得更加明亮和强烈。",
+                "B. 红色光带消失了。",
+                "C. 红色光带变成了一束延伸到地平线的蓝色光束。",
+                "D. 红色光带被一系列发光的绿色图案所取代。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_70": {
+            "id": "1tidNDIpKSY_70",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "这条红色光带延伸到哪个方向？",
+            "options": [
+                "A. 一直延伸到地平线。",
+                "B. 向左弯曲，然后消失在背景中。",
+                "C. 以环状形式回到自身。",
+                "D. 分支成多个较小的路径。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_71": {
+            "id": "1tidNDIpKSY_71",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "在红光照亮的场景中，摄像机是否更注重地面的拍摄？",
+            "options": [
+                "A. 是的，摄像机更接近地面。",
+                "B. 不是，摄像机聚焦于地平线和城市景观。",
+                "C. 是的，摄像机聚焦于树木及其剪影。",
+                "D. 不是，摄像机聚焦于数字广告牌及其色彩。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_72": {
+            "id": "1tidNDIpKSY_72",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "最终画面使用了什么类型的摄像机角度？",
+            "options": [
+                "A. 使用了一个高角度的摄像机角度。",
+                "B. 使用了一个接近地面的低角度摄像机角度。",
+                "C. 使用了一个俯视视角的摄像机角度。",
+                "D. 使用了一个直接的正面摄像机角度。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_73": {
+            "id": "1tidNDIpKSY_73",
+            "scene": 4,
+            "dimension": "Speed",
+            "question": "相机在帧与帧之间过渡时会改变速度吗？",
+            "options": [
+                "A. 是的，相机在帧与帧之间平滑过渡。",
+                "B. 不，整个过程中相机保持相同的速度。",
+                "C. 是的，相机在每一帧中突然改变速度。",
+                "D. 不，相机来回切换速度。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_74": {
+            "id": "1tidNDIpKSY_74",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "文本“NEW YORK NEW JERSEY”在构图中的什么位置？",
+            "options": [
+                "A. 文本位于左上角。",
+                "B. 文本位于场景的中心。",
+                "C. 文本位于右下角。",
+                "D. 文本位于摩天大楼上方。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_75": {
+            "id": "1tidNDIpKSY_75",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "视频场景中描绘了什么环境？",
+            "options": [
+                "A. 水滨景观。",
+                "B. 城市街道。",
+                "C. 沙漠景观脉。",
+                "D. 森林。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_76": {
+            "id": "1tidNDIpKSY_76",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "场景中显示的'NEW YORK NEW JERSEY'文字是什么颜色？",
+            "options": [
+                "A. 文字是浅灰色的。",
+                "B. 文字是深蓝色的。",
+                "C. 文字是鲜红色的。",
+                "D. 文字是霓虹绿色的。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_77": {
+            "id": "1tidNDIpKSY_77",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "城市天际线背景中提到的关键元素是什么？",
+            "options": [
+                "A. 灯火辉煌的摩天大楼、自由女神像和建筑的闪烁灯光",
+                "B. 茂密的森林、一座灯塔和倒映在水中的月光",
+                "C. 山脉、一座老教堂和昏暗的街道",
+                "D. 废弃的仓库、摩天轮和极少的照明"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_78": {
+            "id": "1tidNDIpKSY_78",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "文本'NEW YORK NEW JERSEY'在水面上的倒影是怎样的？",
+            "options": [
+                "A. 文本变得模糊，在水面上几乎不可见。",
+                "B. 文本在水面上被镜像反映，与其倒影及周围元素保持一致的互动。",
+                "C. 由于水面波动，文本的倒影被扭曲。",
+                "D. 文本在水面上并没有形成镜像，可能文字是合成到视频中的。"
+            ],
+            "answer": "D"
+        },
+        "1tidNDIpKSY_79": {
+            "id": "1tidNDIpKSY_79",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "天际线的倒影在水中呈现哪个方向？",
+            "options": [
+                "A. 向上呈现。",
+                "B. 水平呈现。",
+                "C. 向下呈现。",
+                "D. 斜向呈现。"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_80": {
+            "id": "1tidNDIpKSY_80",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "场景是否描绘了任何运动？",
+            "options": [
+                "A. 是的，场景显示了流动的水和移动的城市灯光。",
+                "B. 不，场景强调了静止和宁静。",
+                "C. 是的，文字和倒影在画面中是动态的。",
+                "D. 不，除了微小的光影闪烁外，场景看起来是静止的。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_81": {
+            "id": "1tidNDIpKSY_81",
+            "scene": 5,
+            "dimension": "Speed",
+            "question": "这个场景有没有表现出速度的变化？",
+            "options": [
+                "A. 有，场景中有明显的速度变化。",
+                "B. 没有，场景强调静止和宁静。",
+                "C. 场景在静止和快速运动之间交替。",
+                "D. 场景表现出随时间变化的微小速度变化。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_82": {
+            "id": "1tidNDIpKSY_82",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "场景画面中引入了哪些显著变化？",
+            "options": [
+                "A. 是场景中心新增了粗体文字'NEW YORK NEW JERSEY'。",
+                "B. 是从场景中移除了反光的水体。",
+                "C. 是背景中消失了城市天际线。",
+                "D. 是光照的改变，使场景看起来像白天一样。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_83": {
+            "id": "1tidNDIpKSY_83",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "在原始城市景观中，摩天大楼与自然元素的空间关系是什么？",
+            "options": [
+                "A. 靠近山脉的位置。",
+                "B. 靠近水的位置。",
+                "C. 靠近平原的位置。",
+                "D. 靠近沙漠的位置。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_84": {
+            "id": "1tidNDIpKSY_84",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景的开头场景描绘了什么？",
+            "options": [
+                "A. 一个没有任何特点的空灰色背景。",
+                "B. 一个充满活力的城市风景。",
+                "C. 一个繁忙的市场。",
+                "D. 一个宁静的山间风景。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_85": {
+            "id": "1tidNDIpKSY_85",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "在城市景观转变之前可以看到什么文本？",
+            "options": [
+                "A.  'NEW YORK NEW JERSEY' 。",
+                "B.  'CITY OF LIGHTS' 。",
+                "C.  'WELCOME TO THE BIG APPLE' 。",
+                "D.  'URBAN DREAMS' 。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_86": {
+            "id": "1tidNDIpKSY_86",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景开始的视觉场景是什么？",
+            "options": [
+                "A. 明亮的浅灰色背景。",
+                "B. 城市景观和暴风雨天空。",
+                "C. 乡村和黄昏的地平线。",
+                "D. 城市景观和彩色的日落天空。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_87": {
+            "id": "1tidNDIpKSY_87",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "场景开始时是否有可见的物体？",
+            "options": [
+                "A. 有，最后一个场景中可以看到人体模型。",
+                "B. 有，最后一个场景中可以看到高楼的模糊轮廓。",
+                "C. 没有，最后一个场景中完全没有物体。",
+                "D. 有，最后一个场景中可以看到树木和剪影。"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_88": {
+            "id": "1tidNDIpKSY_88",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "视频中这两个场景之间发生了什么变化？",
+            "options": [
+                "A. 城市景观被替换成了浅灰色背景。",
+                "B. 城市景观变得更加生动细致。",
+                "C. 城市景观转变为一个乡村景观。",
+                "D. 生动的城市景观被替换成了一个水下场景。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_89": {
+            "id": "1tidNDIpKSY_89",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "国际足联世界杯奖杯被放置在哪里？",
+            "options": [
+                "A. 最前面。",
+                "B. 左侧。",
+                "C. 角落。",
+                "D. 数字的后面。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_90": {
+            "id": "1tidNDIpKSY_90",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "FIFA世界杯奖杯旁边的“26”数字位于什么位置？",
+            "options": [
+                "A. “26”数字直接位于奖杯前面。",
+                "B. “26”在奖杯后面。",
+                "C. “26”数字被放置在奖杯的底座上。",
+                "D. “26”数字悬挂在奖杯上方。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_91": {
+            "id": "1tidNDIpKSY_91",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "FIFA 世界杯奖杯展示的环境是什么样的？",
+            "options": [
+                "A. 场景是一个黑色背景。",
+                "B. 场景设置在阳光明媚的户外。",
+                "C. 场景是一个人山人海的体育场。",
+                "D. 场景在一个博物馆里。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_92": {
+            "id": "1tidNDIpKSY_92",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "FIFA世界杯奖杯上有哪些设计元素？",
+            "options": [
+                "A. 奖杯上有两个举起地球的形象，并且表面光芒四射。",
+                "B. 奖杯上刻有历届FIFA冠军的名字。",
+                "C. 奖杯上有一个举着足球的人物形象。",
+                "D. 奖杯上装饰有所有参赛国家的地图。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_93": {
+            "id": "1tidNDIpKSY_93",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "FIFA世界杯奖杯的底座饰有什么装饰？",
+            "options": [
+                "A. 墨绿色和金色的点缀。",
+                "B. 银色和深红色的点缀。",
+                "C. 浅蓝色和白色的点缀。",
+                "D. 黑色和银色的点缀。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_94": {
+            "id": "1tidNDIpKSY_94",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "这个场景包含奖杯和主题元素之外的环境细节吗？",
+            "options": [
+                "A. 是的，场景包含各种环境细节。",
+                "B. 不，场景除了奖杯和主题元素外，没有其他环境细节。",
+                "C. 是的，有风景背景和额外的道具。",
+                "D. 不，场景背景热闹，有观众。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_95": {
+            "id": "1tidNDIpKSY_95",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "该场景是否包含奖杯和主题元素以外的运动细节？",
+            "options": [
+                "A. 是的，该场景包含了奖杯和主题元素以外的各种运动细节。",
+                "B. 不，该场景只关注奖杯和主题元素，没有运动细节。",
+                "C. 是的，该场景背景中有动态动画。",
+                "D. 不，该场景包括人群和足球比赛的运动细节。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_96": {
+            "id": "1tidNDIpKSY_96",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "背景中的“26”数字是如何呈现的？",
+            "options": [
+                "A. “26”数字以金色雕刻，边缘锋利。",
+                "B. “26”数字是平面的，呈纯白色。",
+                "C. “26”数字曲线优美，其边缘带有一种彩虹般的虹彩效果。",
+                "D. “26”数字用绿色勾勒并伴有星星的闪光。"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_97": {
+            "id": "1tidNDIpKSY_97",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "拍摄世界杯奖杯使用的是哪种镜头角度？",
+            "options": [
+                "A. 使用固定的、直接的、齐眼水平的镜头角度。",
+                "B. 使用高角度、近距离的镜头角度。",
+                "C. 使用低角度、广角镜头角度。",
+                "D. 使用侧角、特写镜头角度。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_98": {
+            "id": "1tidNDIpKSY_98",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "彩色几何图形相对于国际足联世界杯奖杯的位置如何?",
+            "options": [
+                "A. 几何图形以同心圆的方式从奖杯向外辐射，围绕着它。",
+                "B. 几何图形仅位于奖杯的顶部。",
+                "C. 几何图形随机散布在奖杯周围。",
+                "D. 几何图形在奖杯背后形成一条水平线。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_99": {
+            "id": "1tidNDIpKSY_99",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "视频中描述的整体环境是什么？",
+            "options": [
+                "A. 是极简主义美学，背景黑色，有抽象白色数字'26。'",
+                "B. 环境主要是混乱和杂乱的景象，色彩模式不可预测。",
+                "C. 环境始终保持静态，背景是纯白色。",
+                "D. 环境采用单一的颜色方案，侧重于中性色调。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_100": {
+            "id": "1tidNDIpKSY_100",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "视频中的环境是如何随着时间变化的？",
+            "options": [
+                "A. 开始主要由红色几何组成，最后变成具有隧道效果的多彩几何织锦。",
+                "B. 整个视频中保持静止。",
+                "C. 转变为一系列单色的蓝色形状，没有任何几何图案。",
+                "D. 演变成一个简单的白色背景，没有其他元素。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_101": {
+            "id": "1tidNDIpKSY_101",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "在视频中，FIFA世界杯奖杯是否从画面的中心被移除？",
+            "options": [
+                "A. 是的，被移除。",
+                "B. 不，一直在整个视频的中心且明显。",
+                "C. 是的，被重新移至画面的边缘。",
+                "D. 不，在开场场景后消失。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_102": {
+            "id": "1tidNDIpKSY_102",
+            "scene": 7,
+            "dimension": "Object Direction",
+            "question": "奖杯周围的几何图形的视觉运动方向是什么？",
+            "options": [
+                "A. 几何图形以同心排列从奖杯向外辐射，产生扩散运动的效果。",
+                "B. 几何图形以线性方式向奖杯内移动，呈现收缩运动的趋势。",
+                "C. 几何图形顺时针围绕奖杯旋转，强调旋转运动。",
+                "D. 几何图形从上方下降，暗示了垂直向下的运动。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_103": {
+            "id": "1tidNDIpKSY_103",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "彩色形状的背景看起来的运动效果是怎样的？",
+            "options": [
+                "A. 像一个更有活力和复杂的隧道状效果。",
+                "B. 像一个静止而平静的背景。",
+                "C. 像缓慢移动的蓝色波浪。",
+                "D. 像简单的同心圆，没有任何效果。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_104": {
+            "id": "1tidNDIpKSY_104",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "视频中背景的颜色是如何变化的？",
+            "options": [
+                "A. 从黑和红色变为蓝色、绿色、红色、黑色。",
+                "B. 从黑色和金色变为红色。",
+                "C. 从多彩的图案过渡到简约的黑白设计。",
+                "D. 背景在视频中始终保持单色调的蓝色色调。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_105": {
+            "id": "1tidNDIpKSY_105",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "视频的整体环境和背景是怎样的？",
+            "options": [
+                "A. 视频以黑色背景为基础。",
+                "B. 视频在纯白背景中呈现了FIFA世界杯奖杯。",
+                "C. 在安静博物馆环境中的FIFA世界杯奖杯。",
+                "D. 视频在体育场中展示了FIFA世界杯奖杯。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_106": {
+            "id": "1tidNDIpKSY_106",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "FIFA世界杯奖杯的主要特点是什么？",
+            "options": [
+                "A. 是银制的，立于白色底座上。",
+                "B. 是水晶制成的，底座为黑色。",
+                "C. 金色的，中央底座是黑色的。",
+                "D. 是青铜制成的，立于红色底座上。"
+            ],
+            "answer": "C"
+        },
+        "1tidNDIpKSY_107": {
+            "id": "1tidNDIpKSY_107",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "视频中主要展示的两个元素是什么？",
+            "options": [
+                "A. 国际足联世界杯奖杯和背景中的万花筒图案。",
+                "B. 足球场和欢呼的球迷。",
+                "C. 国际足联世界杯奖杯和一个球员举起奖杯。",
+                "D. 万花筒图案和记分板。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_108": {
+            "id": "1tidNDIpKSY_108",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "视频中是否有任何可见的光线变化？",
+            "options": [
+                "A. 是的，视频中有可见的光线变化。",
+                "B. 不，视频中没有可见的光线变化。",
+                "C. 视频到结尾时变暗了。",
+                "D. 视频到结尾时变亮了。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_109": {
+            "id": "1tidNDIpKSY_109",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "在视频中，FIFA 世界杯奖杯发生了什么微妙的动作？",
+            "options": [
+                "A. 奖杯进行了旋转。",
+                "B. FIFA 世界杯奖杯略微向左水平移动。",
+                "C. 奖杯改变了颜色。",
+                "D. 奖杯向上升起。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_110": {
+            "id": "1tidNDIpKSY_110",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在转入结尾的世界杯奖杯之前，视觉焦点是什么？",
+            "options": [
+                "A. 是在日落时分的海滩地平线。",
+                "B. 是充满活力的都市景观。",
+                "C. 是宁静的乡村。",
+                "D. 是热闹市场。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_111": {
+            "id": "1tidNDIpKSY_111",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "随着场景转变到红灯色灯带，路环境发生了哪些变化？",
+            "options": [
+                "A. 繁华的道路变成了一条空荡的小路。",
+                "B. 道路因大雨而被淹。",
+                "C. 充满活力的道路过渡到一个被高楼环绕的昏暗小巷。",
+                "D. 道路变成了一个充满行人和摊位的繁忙市场。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_112": {
+            "id": "1tidNDIpKSY_112",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "当场景转换到红光照亮的小路时，城市环境发生了哪些变化？",
+            "options": [
+                "A. 场景被强烈的红光笼罩，。",
+                "B. 场景切换为白天的城市景观。",
+                "C. 场景转变为静谧的蓝色海洋景观。",
+                "D. 场景变成森林环境。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_113": {
+            "id": "1tidNDIpKSY_113",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "当万花筒般的背景变成FIFA世界杯奖杯的背景时，那些弧线和光纹发生了什么变化？",
+            "options": [
+                "A. 完全消失，留下一个纯黑的背景。",
+                "B. 形成了一个鲜艳的漩涡效果，突出了奖杯。",
+                "C. 变成了一系列尖锐的直线，指向奖杯的外侧。",
+                "D. 被单色渐变所取代。"
+            ],
+            "answer": "B"
+        },
+        "1tidNDIpKSY_114": {
+            "id": "1tidNDIpKSY_114",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "在聚焦于蓝色发光的条纹和被照亮的建筑之前，路发生了什么变化？",
+            "options": [
+                "A. 变为反射绿色、蓝色和紫色光的空旷路段。",
+                "B. 被庆祝活动的人群取代",
+                "C. 变成了一个被明亮的霓虹灯包围的水道。",
+                "D. 马路上覆盖了五彩纸屑，以及在微风中飘扬的旗帜。"
+            ],
+            "answer": "A"
+        },
+        "1tidNDIpKSY_115": {
+            "id": "1tidNDIpKSY_115",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "‘NEW YORK NEW JERSEY’文字消失后，焦点转移到哪里？",
+            "options": [
+                "A. 焦点过渡到暗灰色背景。",
+                "B. 焦点转移到一名球员手持国际足联世界杯奖杯。",
+                "C. 焦点过渡到体育场内观众欢呼的场景。",
+                "D. 焦点切换到复杂万花筒图案的特写。"
+            ],
+            "answer": "A"
+        }
+    }
+}

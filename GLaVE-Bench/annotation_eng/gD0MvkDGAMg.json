@@ -1,0 +1,1652 @@
+{
+    "scene_hint": {
+        "0": "Different texts and patterns appear on a light blue gradient background.",
+        "1": "Two silhouetted figures stand against a starry sky background, with a building nearby.",
+        "2": "A glowing sphere appears, and then a pair of large hands lift the sphere.",
+        "3": "A person stands at a podium explaining to seated people.",
+        "4": "Different patterns appear in a reddish-brown mountain landscape, with the camera focusing on a building.",
+        "5": "Inside a building, people look at papers on the wall displaying text and patterns, then appear by the window.",
+        "6": "People appear under the night sky, a child's photo in hand is enlarged, and then the content changes.",
+        "7": "A website accompanied by different texts and patterns appears on a blue background, and the video ends."
+    },
+    "qa": {
+        "gD0MvkDGAMg_0": {
+            "id": "gD0MvkDGAMg_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "When social media icons first appeared, where were they placed in the video frame?",
+            "options": [
+                "A. The icon is located at the bottom center of the frame.",
+                "B. The icon is located at the top center of the frame.",
+                "C. The icon is located on the left side of the frame.",
+                "D. The icon is located on the right side of the frame."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_1": {
+            "id": "gD0MvkDGAMg_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What are the characteristics of the theme of this scene?",
+            "options": [
+                "A. The scene is simple and tranquil.",
+                "B. The scene is chaotic and messy.",
+                "C. The scene has a futuristic and dark feel.",
+                "D. The scene is traditional and splendid."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_2": {
+            "id": "gD0MvkDGAMg_2",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the visual focus in the scene?",
+            "options": [
+                "A. A light blue gradient background, adorned with text, geometric network structures, and social media icons.",
+                "B. A dark blue gradient background with glowing white stars and minimal text.",
+                "C. A bright yellow background, highlighting large and bold text, with no other visual elements.",
+                "D. A multicolored striped background with swirling patterns and no text."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_3": {
+            "id": "gD0MvkDGAMg_3",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Are there any human characters appearing in the scene?",
+            "options": [
+                "A. Yes, there are a few human characters.",
+                "B. No, there are no human characters in the scene.",
+                "C. Yes, but only one human character appears briefly.",
+                "D. Yes, but they are just silhouettes."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_4": {
+            "id": "gD0MvkDGAMg_4",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What changes will occur to the text 'SCI ANI' in the scene?",
+            "options": [
+                "A. The text 'SCI ANI' transitions from a black transparent outline to a solid black font.",
+                "B. The text 'SCI ANI' changes from a solid black font to a metallic gray font.",
+                "C. The text 'SCI ANI' completely disappears from the screen.",
+                "D. The text 'SCI ANI' transitions from a striking black to a lighter blue."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_5": {
+            "id": "gD0MvkDGAMg_5",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "In the scene, which text appears at the bottom of 'SCI ANI'?",
+            "options": [
+                "A. 'Science Animated'",
+                "B. 'Cartoon Animated'",
+                "C. 'Historical Animated'",
+                "D. 'Creature Animated'"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_6": {
+            "id": "gD0MvkDGAMg_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many circular icons appear in the scene in total?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "D"
+        },
+        "gD0MvkDGAMg_7": {
+            "id": "gD0MvkDGAMg_7",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is the background a solid color?",
+            "options": [
+                "A. Yes, the background is solid light blue.",
+                "B. No, the background is a light blue gradient.",
+                "C. Yes, the background is solid white.",
+                "D. No, the background is a dark blue gradient."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_8": {
+            "id": "gD0MvkDGAMg_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "How does changing the text to bold black letters affect its visual impact?",
+            "options": [
+                "A. It enhances the prominence and readability of the text against a light blue gradient background.",
+                "B. It reduces the visibility of the text by blending it into the background.",
+                "C. It makes the text appear less professional and harder to read.",
+                "D. It removes the subtle gradient effect of the text itself."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_9": {
+            "id": "gD0MvkDGAMg_9",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "Are the red, yellow, and blue circles moving in the scene?",
+            "options": [
+                "A. The circles remain stationary.",
+                "B. The circles are moving.",
+                "C. The circles completely disappear.",
+                "D. The circles turn into squares."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_10": {
+            "id": "gD0MvkDGAMg_10",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "In the scene, which visual element's color has changed?",
+            "options": [
+                "A. The color of the text 'SCI ANI' changed from a black transparent outline to solid black.",
+                "B. The background color changed from light blue to dark blue.",
+                "C. The color of the social media icons changed from their standard colors to grayscale.",
+                "D. The color of the geometric network structure changed from black to white."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_11": {
+            "id": "gD0MvkDGAMg_11",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the position of the red circular icon at the end of the scene?",
+            "options": [
+                "A. At the top right of the screen",
+                "B. At the bottom left of the screen",
+                "C. At the center of the screen",
+                "D. At the bottom right of the screen"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_12": {
+            "id": "gD0MvkDGAMg_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "How are the silhouettes positioned relative to the paved road?",
+            "options": [
+                "A. The silhouettes are standing side by side on the road, near the center of the image.",
+                "B. The silhouettes are sitting on the road, near the edge of the image.",
+                "C. The silhouettes are sitting on a chair beside the road.",
+                "D. The silhouettes are lying in the middle of the road, near the foreground."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_13": {
+            "id": "gD0MvkDGAMg_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "How does the silhouette of the person contribute to the overall scene?",
+            "options": [
+                "A. The silhouette of the person is very small, providing scale and presence to the starry sky background.",
+                "B. The silhouette of the person is the focal point of the entire scene.",
+                "C. The silhouette of the person disrupts the tranquil and contemplative atmosphere.",
+                "D. The silhouette of the person is difficult to discern and does not make a substantial contribution to the scene."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_14": {
+            "id": "gD0MvkDGAMg_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the overall design of the scene described in the picture?",
+            "options": [
+                "A. An outdoor night scene with a purple starry sky, roads, trees, buildings, etc.",
+                "B. A brand design composition with a light blue background and geometric pattern designs, etc.",
+                "C. A busy city scene with towering skyscrapers and bustling streets, etc.",
+                "D. A tranquil desert scene with a bright blue sky, scattered cacti, and distant mountains, etc."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_15": {
+            "id": "gD0MvkDGAMg_15",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the atmosphere of the new scene described in the video?",
+            "options": [
+                "A. It conveys a warm and peaceful atmosphere.",
+                "B. It conveys a chaotic and vibrant atmosphere.",
+                "C. It conveys a professional and static atmosphere.",
+                "D. It conveys a desolate and bleak atmosphere."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_16": {
+            "id": "gD0MvkDGAMg_16",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "How are people depicted visually in the scene?",
+            "options": [
+                "A. People are presented in silhouette form, completely black.",
+                "B. People are in color, depicted in bright tones.",
+                "C. People are drawn with detailed features and clothing.",
+                "D. People are glowing, with neon outlines."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_17": {
+            "id": "gD0MvkDGAMg_17",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many trees appear in the scene in total?",
+            "options": [
+                "A. Two",
+                "B. Three",
+                "C. Four",
+                "D. Five"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_18": {
+            "id": "gD0MvkDGAMg_18",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What does the building in the scene look like?",
+            "options": [
+                "A. The building is cylindrical, with multiple windows neatly arranged.",
+                "B. The building is curved, with an entire wall made of glass.",
+                "C. The building is square, with walls made of wood and no windows.",
+                "D. The building is square, with small windows appearing on the stone walls."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_19": {
+            "id": "gD0MvkDGAMg_19",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What is the color tone of the cylindrical building in the scene?",
+            "options": [
+                "A. The building is in a monochromatic purple tone.",
+                "B. The building is in vibrant red and orange tones.",
+                "C. The building is in a monochromatic blue tone.",
+                "D. The building is in green and yellow tones."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_20": {
+            "id": "gD0MvkDGAMg_20",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What kind of windows does the cylindrical building have?",
+            "options": [
+                "A. The building has several rows of circular windows.",
+                "B. The building has several rows of rectangular windows.",
+                "C. The building has several rows of triangular windows.",
+                "D. The building has no windows."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_21": {
+            "id": "gD0MvkDGAMg_21",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What are the characteristics of the ground floor of the cylindrical building?",
+            "options": [
+                "A. The ground floor has an open area supported by columns and walls.",
+                "B. The ground floor is completely enclosed with no visible openings.",
+                "C. The ground floor has a series of small shops and cafes.",
+                "D. The ground floor is covered with a glass curtain wall, reflecting the night sky."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_22": {
+            "id": "gD0MvkDGAMg_22",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the basic structure of the building?",
+            "options": [
+                "A. The building is situated on a circular platform.",
+                "B. The building is situated on a square foundation.",
+                "C. The building has a triangular base.",
+                "D. The building is suspended in the air."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_23": {
+            "id": "gD0MvkDGAMg_23",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many silhouette figures can be seen on the road?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_24": {
+            "id": "gD0MvkDGAMg_24",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Is the cylindrical building located on the left side of the image?",
+            "options": [
+                "A. Yes, the cylindrical building is located on the left side of the image.",
+                "B. No, the cylindrical building is located on the right side of the image.",
+                "C. No, the cylindrical building is not visible in the image.",
+                "D. Yes, the cylindrical building spans both sides of the image."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_25": {
+            "id": "gD0MvkDGAMg_25",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Which element in the composition attracts the viewer's attention?",
+            "options": [
+                "A. The unique purple starry sky at the top of the image",
+                "B. The large cylindrical building on the right",
+                "C. The distinct undulating hills in the distance",
+                "D. The sparsely arranged trees on the left"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_26": {
+            "id": "gD0MvkDGAMg_26",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "In the scene, which direction does the road appear to move?",
+            "options": [
+                "A. The road appears to extend towards the horizon.",
+                "B. The road appears to sharply turn left.",
+                "C. The road seems to rise towards the sky.",
+                "D. The road appears to suddenly break off."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_27": {
+            "id": "gD0MvkDGAMg_27",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "How is Earth depicted in the scene?",
+            "options": [
+                "A. Earth is floating in the dark sky, surrounded by a glowing blue halo.",
+                "B. Earth is stationary on a tabletop, with continents and oceans painted in vibrant colors.",
+                "C. Earth is rotating around a circular orbit, surrounded by numerous celestial bodies.",
+                "D. Earth is floating in the air, with sharp edges and no visible atmosphere."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_28": {
+            "id": "gD0MvkDGAMg_28",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "In the scene, how are the surrounding elements related to Earth?",
+            "options": [
+                "A. Smaller stars are scattered in the background, subtly emphasizing the vastness of space.",
+                "B. The surrounding elements are depicted as bright comets orbiting Earth.",
+                "C. Planets with visible rings and satellites are shown as operating near Earth.",
+                "D. The surrounding space is depicted as completely empty, with no other celestial elements."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_29": {
+            "id": "gD0MvkDGAMg_29",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the video environment after Earth appears?",
+            "options": [
+                "A. A brightly lit bustling urban landscape.",
+                "B. A dark void with scattered stars.",
+                "C. A forest filled with diverse wildlife and waterfalls.",
+                "D. A misty evening sky with radiant sunset on the horizon."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_30": {
+            "id": "gD0MvkDGAMg_30",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What elements of Earth can be seen in the scene?",
+            "options": [
+                "A. Green land and blue oceans are clearly visible, with parts of the continents' outlines discernible.",
+                "B. Only the green land of Asia and Europe is visible, with no depiction of oceans.",
+                "C. Earth is primarily composed of oceans, with only small patches of land and no recognizable continents.",
+                "D. Land is shown in red, with no visible oceans, highlighting South America and Antarctica."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_31": {
+            "id": "gD0MvkDGAMg_31",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What unique design features are depicted on the land in the scene?",
+            "options": [
+                "A. The land is presented in green tones.",
+                "B. The land is presented in blue tones.",
+                "C. The land is presented in pure brown tones.",
+                "D. The land is presented in light yellow tones."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_32": {
+            "id": "gD0MvkDGAMg_32",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Is there text in the video scene?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. Only a few words.",
+                "D. There are a few sentences."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_33": {
+            "id": "gD0MvkDGAMg_33",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "From the video, how does the sphere rotate internally?",
+            "options": [
+                "A. Rotates from left to right",
+                "B. Rotates from top to bottom",
+                "C. Rotates from right to left",
+                "D. Rotates irregularly"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_34": {
+            "id": "gD0MvkDGAMg_34",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the big hand holding up the Earth?",
+            "options": [
+                "A. It is flesh-colored, with neatly trimmed nails.",
+                "B. It is dark brown, with slender fingers.",
+                "C. It is bright white, with clearly visible finger lines.",
+                "D. It is black, with no obvious features observed."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_35": {
+            "id": "gD0MvkDGAMg_35",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used to showcase the Earth?",
+            "options": [
+                "A. A static, centered shot to highlight the Earth.",
+                "B. A dynamic rotating shot to convey the motion around the Earth.",
+                "C. A zoomed-in close-up shot focusing only on a specific continent of the Earth.",
+                "D. A wide-angle shot from a distant position that reduces the details of the Earth."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_36": {
+            "id": "gD0MvkDGAMg_36",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What color is the halo emitted by the Earth?",
+            "options": [
+                "A. Light blue",
+                "B. Light yellow",
+                "C. Light red",
+                "D. Light green"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_37": {
+            "id": "gD0MvkDGAMg_37",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What is the text that appears in the scene?",
+            "options": [
+                "A. “What's the future like?”",
+                "B. “Is Venus our future?”",
+                "C. “What is the future?”",
+                "D. “Should we look forward to the future?”"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_38": {
+            "id": "gD0MvkDGAMg_38",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene take place?",
+            "options": [
+                "A. In a bright classroom.",
+                "B. In a dimly lit cinema.",
+                "C. In a blurry gymnasium.",
+                "D. In a bright open-air venue."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_39": {
+            "id": "gD0MvkDGAMg_39",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Is there anyone standing in the classroom in the scene?",
+            "options": [
+                "A. Yes, one person is standing.",
+                "B. Yes, two people are standing.",
+                "C. No, everyone is sitting on chairs.",
+                "D. Most of the scene is obscured, unable to confirm."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_40": {
+            "id": "gD0MvkDGAMg_40",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the person standing on the podium wearing?",
+            "options": [
+                "A. She is wearing a blue top and black pants.",
+                "B. She is wearing a green top and blue pants.",
+                "C. She is wearing a purple and white striped dress.",
+                "D. She is wearing a red top and brown pants."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_41": {
+            "id": "gD0MvkDGAMg_41",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the posture of the person standing on the podium?",
+            "options": [
+                "A. She is holding a stick in her right hand, pointing to the wall.",
+                "B. She raises her left hand with the palm facing up, as if introducing something.",
+                "C. She points her left index finger downward at someone sitting.",
+                "D. She raises her right hand, as if performing some kind of violent action."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_42": {
+            "id": "gD0MvkDGAMg_42",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What items are on the desk of the podium?",
+            "options": [
+                "A. There is a stack of books, a computer, and a keyboard.",
+                "B. There is a bag, a tablet, and a remote control.",
+                "C. There is a laptop and an open book.",
+                "D. There is a pack of tissues, a cup, and a notebook."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_43": {
+            "id": "gD0MvkDGAMg_43",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many people are sitting on the bench in the scene?",
+            "options": [
+                "A. Six",
+                "B. Seven",
+                "C. Eight",
+                "D. Nine"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_44": {
+            "id": "gD0MvkDGAMg_44",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "From the video, what color is the clothing of the person in the lower left corner of the scene in the later stage?",
+            "options": [
+                "A. Purple",
+                "B. Blue",
+                "C. Red",
+                "D. Brown"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_45": {
+            "id": "gD0MvkDGAMg_45",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "At the end of the scene, did the posture of the person in the middle of the back row wearing blue clothes change?",
+            "options": [
+                "A. Yes, he raised both hands high to clap.",
+                "B. Yes, he put his left index finger to his mouth.",
+                "C. Yes, he raised his right hand high.",
+                "D. No, he maintained his original posture without any change."
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_46": {
+            "id": "gD0MvkDGAMg_46",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many people's postures and movements have changed significantly in the scene?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. None"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_47": {
+            "id": "gD0MvkDGAMg_47",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the sun located in the scene?",
+            "options": [
+                "A. In the upper right corner.",
+                "B. In the lower left corner.",
+                "C. In the center of the sky.",
+                "D. Behind the observatory."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_48": {
+            "id": "gD0MvkDGAMg_48",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the main visual focus of the scene?",
+            "options": [
+                "A. The winding road leading to the observatory and the central building.",
+                "B. The desolate mountain landscape, with its reddish-brown hues.",
+                "C. The circular illustration showing Saturn, with its yellow-brown body and ring structure.",
+                "D. The futuristic observatory facility with a large dome and telescope."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_49": {
+            "id": "gD0MvkDGAMg_49",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Can human presence be observed in the scene?",
+            "options": [
+                "A. Yes, there are people walking on the road.",
+                "B. Yes, scientists can be seen near the observatory.",
+                "C. No, no human presence is visible.",
+                "D. Yes, there are vehicles parked near the observatory."
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_50": {
+            "id": "gD0MvkDGAMg_50",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "What objects can be seen in the newly appeared three illustrations?",
+            "options": [
+                "A. An observatory or research station with a dome",
+                "B. A large reservoir",
+                "C. A group of wind turbines",
+                "D. A small village with houses"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_51": {
+            "id": "gD0MvkDGAMg_51",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many circular illustrations are in the foreground?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_52": {
+            "id": "gD0MvkDGAMg_52",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is Saturn shown in one of the circular illustrations?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Maybe",
+                "D. Uncertain"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_53": {
+            "id": "gD0MvkDGAMg_53",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "Which direction does the unpaved road lead?",
+            "options": [
+                "A. The unpaved road leads to the building complex at the top of the mountain.",
+                "B. The unpaved road descends into a forest-covered valley.",
+                "C. The unpaved road leads to a small village in the mountains.",
+                "D. The unpaved road meanders aimlessly through the rugged terrain."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_54": {
+            "id": "gD0MvkDGAMg_54",
+            "scene": 4,
+            "dimension": "Camera Direction",
+            "question": "Has the camera changed its perspective in this scene?",
+            "options": [
+                "A. Yes, the camera switched to a new angle.",
+                "B. No, the camera maintained the same composition as the previous shot.",
+                "C. Yes, the camera zoomed in on the observatory.",
+                "D. Yes, the camera panned left to show more of the scenery."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_55": {
+            "id": "gD0MvkDGAMg_55",
+            "scene": 4,
+            "dimension": "Speed",
+            "question": "Is there a significant speed change in the scene?",
+            "options": [
+                "A. Yes, the scene shows obvious movement and speed changes.",
+                "B. No, the scene remains mostly stationary.",
+                "C. Yes, vehicles are shown moving quickly on the winding road.",
+                "D. Yes, the Saturn illustration demonstrates dynamic motion."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_56": {
+            "id": "gD0MvkDGAMg_56",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "Where is the cylindrical structure located in the close-up shot?",
+            "options": [
+                "A. The cylindrical structure is located on the left side of the shot.",
+                "B. The cylindrical structure is located in the center of the shot.",
+                "C. The cylindrical structure is located on the right side of the shot.",
+                "D. The cylindrical structure is located in the background of the shot."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_57": {
+            "id": "gD0MvkDGAMg_57",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "How is the surface of the ground around the cylindrical structure described?",
+            "options": [
+                "A. It is a flat, light beige surface with precise geometric patterns made of white lines.",
+                "B. It is a rough, dark gray surface scattered with gravel and cracks.",
+                "C. It is a smooth black surface with reflective metal strips.",
+                "D. It is a soft, light brown surface covered with sand and footprints."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_58": {
+            "id": "gD0MvkDGAMg_58",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What features does the building display?",
+            "options": [
+                "A. The building is surrounded by a colorful and exquisite mosaic pattern.",
+                "B. The base of the building is dark gray, supporting a light gray upper area.",
+                "C. The building has elaborate carvings and decorative elements, indicating it has a historical design style.",
+                "D. The building is surrounded by dense green plants and decorated with floral patterns."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_59": {
+            "id": "gD0MvkDGAMg_59",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What visual processing enhances the minimalism of the scene?",
+            "options": [
+                "A. Fine details and vibrant color combinations on cylindrical structures.",
+                "B. The monotonous gray and white colors used in the architecture and surroundings.",
+                "C. Complex text or signs on the structure, highlighting its purpose.",
+                "D. A dynamic and colorful background with diverse environmental features."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_60": {
+            "id": "gD0MvkDGAMg_60",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the poster located in the scene?",
+            "options": [
+                "A. The poster is on the window.",
+                "B. The poster is on the wall.",
+                "C. The poster is on the door.",
+                "D. The poster is on the floor."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_61": {
+            "id": "gD0MvkDGAMg_61",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video scene?",
+            "options": [
+                "A. The scene is in a place similar to a data center or server room, with beige segmented walls and soft yellow lighting.",
+                "B. The scene is in a traditional classroom, with wooden desks, a blackboard, and an academic atmosphere.",
+                "C. The scene is in an outdoor park, with trees, paths, and a relaxed and casual atmosphere.",
+                "D. The scene is in a cozy café, with wooden tables, soft lighting, and casual interactions."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_62": {
+            "id": "gD0MvkDGAMg_62",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What are the characteristics of the person who appears first in the scene?",
+            "options": [
+                "A. She is wearing a light blue dress and has curly long black hair.",
+                "B. She is wearing a light blue top and black pants, with long brown hair.",
+                "C. She is wearing a black coat and black pants, with blonde hair.",
+                "D. She is wearing red clothes and blue pants, with curly short brown hair."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_63": {
+            "id": "gD0MvkDGAMg_63",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "From the video, what special appearance or features does the woman on the far left have?",
+            "options": [
+                "A. She has brown hair and is wearing a dark business suit with a white shirt underneath.",
+                "B. She has a ponytail, is wearing casual clothes, and looks very shy.",
+                "C. She has straight blonde hair, is wearing a red dress, and is sitting on a chair.",
+                "D. She has long black hair, is wearing a lab coat, and is holding a clipboard."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_64": {
+            "id": "gD0MvkDGAMg_64",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What unique appearance or features does the person in the middle position in the scene have?",
+            "options": [
+                "A. The person is wearing glasses, a dark blue suit, and a red tie.",
+                "B. The person has curly brown hair, wearing a dark business suit with a white shirt underneath.",
+                "C. The person is expressive, wearing a light blue button-up shirt, and appears lively.",
+                "D. The person is wearing a mask, dressed in casual clothes, and looks relaxed."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_65": {
+            "id": "gD0MvkDGAMg_65",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many people appear in this scene in total?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_66": {
+            "id": "gD0MvkDGAMg_66",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What is the highlighted information on the poster in the scene?",
+            "options": [
+                "A. International Astronomy Virtual Conference",
+                "B. Advanced Technological Innovations",
+                "C. Modern Business Solutions",
+                "D. Global Sustainability Summit"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_67": {
+            "id": "gD0MvkDGAMg_67",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What ecological features are highlighted in the poster within the scene?",
+            "options": [
+                "A. “3000x smaller carbon footprint”。",
+                "B. “reduction of energy consumption by 50%”。",
+                "C. “net-zero emissions commitment”。",
+                "D. “recyclable materials for production”。"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_68": {
+            "id": "gD0MvkDGAMg_68",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the pattern on the poster?",
+            "options": [
+                "A. It is a footprint pattern with text displayed.",
+                "B. It is a handprint pattern with stripes displayed.",
+                "C. It is a cat paw pattern with dots displayed.",
+                "D. It is a cactus pattern with white spikes."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_69": {
+            "id": "gD0MvkDGAMg_69",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "Can server cabinets be seen in the scene background?",
+            "options": [
+                "A. Yes, server cabinets can be seen in the background.",
+                "B. No, there are no visible server cabinets in the background.",
+                "C. Yes, but the server cabinets are not operational.",
+                "D. No, only promotional boards can be seen in the background."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_70": {
+            "id": "gD0MvkDGAMg_70",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "From the video, where is the server cabinet located?",
+            "options": [
+                "A. The server cabinet is on the left side of the screen.",
+                "B. The server cabinet is at the bottom of the screen.",
+                "C. The server cabinet is on the right side of the screen.",
+                "D. The server cabinet is at the top of the screen."
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_71": {
+            "id": "gD0MvkDGAMg_71",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Are there any green plants present in this scene?",
+            "options": [
+                "A. Yes, the green plants are almost completely obscured.",
+                "B. Yes, the green plants are prominently located to the left of the window.",
+                "C. No, there are no green plants present in the scene.",
+                "D. Yes, the green plants are located to the right of the promotional brochure."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_72": {
+            "id": "gD0MvkDGAMg_72",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What objects can be observed through the window?",
+            "options": [
+                "A. Rows of solar panels and a sun",
+                "B. A blinking green indicator light and server racks",
+                "C. A poster with a green footprint pattern and beige walls",
+                "D. A sunny dense forest landscape"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_73": {
+            "id": "gD0MvkDGAMg_73",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "In the final frame, is the young woman in the light blue shirt fully visible?",
+            "options": [
+                "A. Yes, she is fully visible.",
+                "B. No, she is partially out of the frame.",
+                "C. Yes, she is more clearly visible than before.",
+                "D. No, she is completely out of sight."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_74": {
+            "id": "gD0MvkDGAMg_74",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What did the woman in the black suit do when the focus shifted to the outdoor scenery?",
+            "options": [
+                "A. The woman in the black suit stood quietly in front of the window, doing nothing.",
+                "B. The woman in the black suit talked with the man wearing a red tie.",
+                "C. The woman in the black suit completely exited the scene.",
+                "D. The woman in the black suit pointed to the solar panels outside the window."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_75": {
+            "id": "gD0MvkDGAMg_75",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What did the man in the red tie suit do when the focus shifted to the outdoor landscape?",
+            "options": [
+                "A. The man in the red tie suit raised his left hand while speaking.",
+                "B. The man in the red tie suit left the room to make a phone call.",
+                "C. The man in the red tie suit started talking to the woman in the light blue top.",
+                "D. The man in the red tie suit pointed to the solar panels outside."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_76": {
+            "id": "gD0MvkDGAMg_76",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "In the outdoor view, which direction do the solar panels face?",
+            "options": [
+                "A. The solar panels face upwards, towards the sunlight.",
+                "B. The solar panels face downwards, towards the ground.",
+                "C. The solar panels face west, towards the sunset.",
+                "D. The solar panels face east, towards the dawn."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_77": {
+            "id": "gD0MvkDGAMg_77",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What changes occur in the video scene when the focus shifts to the outdoor view?",
+            "options": [
+                "A. Posters and server racks disappear, and solar panels and hilly landscapes come into view.",
+                "B. Server racks start emitting red light, emphasizing a warning signal.",
+                "C. The formally dressed person leaves the scene, leaving only the young woman in a blue shirt.",
+                "D. As the outdoor sunlight dims, the indoor scene becomes darker."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_78": {
+            "id": "gD0MvkDGAMg_78",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "From the video, where is the woman positioned relative to the telescope?",
+            "options": [
+                "A. The woman is standing to the left of the telescope.",
+                "B. The woman is sitting in front of the telescope.",
+                "C. The woman is standing to the right of the telescope.",
+                "D. The woman is holding the telescope in her hand and stargazing."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_79": {
+            "id": "gD0MvkDGAMg_79",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the landscape of this scene?",
+            "options": [
+                "A. A vast grassland surrounded by hills and a body of water, under the twilight sky.",
+                "B. In a dense forest, surrounded by towering trees and a shimmering lake.",
+                "C. On a rocky hillside, surrounded by steep peaks and a frozen river, with a cloudy sky overhead.",
+                "D. On a beach, surrounded by crashing waves and bright midday sunlight."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_80": {
+            "id": "gD0MvkDGAMg_80",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "How does the scene transition from an indoor professional environment to an outdoor environment?",
+            "options": [
+                "A. The scene transitions to a tranquil nighttime outdoor environment.",
+                "B. The scene transitions to a city nightlife outdoor environment.",
+                "C. The scene transitions to a sunny outdoor environment.",
+                "D. The scene transitions to a dense forest outdoor environment."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_81": {
+            "id": "gD0MvkDGAMg_81",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What is the person holding the child's hand wearing?",
+            "options": [
+                "A. The man is wearing a purple short-sleeve shirt and dark navy blue pants.",
+                "B. The man is wearing a formal black suit jacket and gray pants.",
+                "C. The man is wearing a red sweater and blue jeans.",
+                "D. The man is wearing a white sleeveless top and khaki shorts."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_82": {
+            "id": "gD0MvkDGAMg_82",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What is the woman next to the telescope doing?",
+            "options": [
+                "A. She is standing next to the telescope, slightly moving her head to stargaze.",
+                "B. She is adjusting the telescope to observe nearby wildlife.",
+                "C. She is teaching the boy how to use the telescope for stargazing.",
+                "D. She is packing up the telescope after finishing her observation."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_83": {
+            "id": "gD0MvkDGAMg_83",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many people are in the outdoor scene?",
+            "options": [
+                "A. There are two people in the outdoor scene.",
+                "B. There are three people in the outdoor scene.",
+                "C. There are four people in the outdoor scene.",
+                "D. There are five people in the outdoor scene."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_84": {
+            "id": "gD0MvkDGAMg_84",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "Who are the people in the outdoor scene?",
+            "options": [
+                "A. A woman by the telescope and a man with a little boy.",
+                "B. Two men in formal attire and a child playing near the telescope.",
+                "C. A woman observing the sky alone, undisturbed.",
+                "D. A group of friends having a picnic near the telescope."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_85": {
+            "id": "gD0MvkDGAMg_85",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "Is the sky described in the scene completely clear?",
+            "options": [
+                "A. Yes, the sky is completely clear, with no obstructions.",
+                "B. No, there are dark clouds partially obscuring the crescent moon.",
+                "C. Yes, the sky is clear, and only stars can be seen.",
+                "D. No, the sky is filled with thick storm clouds."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_86": {
+            "id": "gD0MvkDGAMg_86",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What did the woman do after the man appeared holding the little boy's hand?",
+            "options": [
+                "A. She held a telescope in one hand and waved to the little boys with the other.",
+                "B. She knelt on one knee on the grass, with one hand on the little boy's back.",
+                "C. She leaned forward, observing the aquatic plants and animals with the little boys.",
+                "D. She lay on the grass, gazing at the stars with the little boys."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_87": {
+            "id": "gD0MvkDGAMg_87",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "Which direction is the telescope tilted?",
+            "options": [
+                "A. The telescope lens is tilted upwards, towards the sky.",
+                "B. The telescope lens is tilted downwards, towards the ground.",
+                "C. The telescope lens is tilted horizontally, towards the horizon.",
+                "D. The telescope lens is tilted towards the nearby bushes."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_88": {
+            "id": "gD0MvkDGAMg_88",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What visual elements in the sky add depth to the scene?",
+            "options": [
+                "A. The sky has a blue-orange gradient, with stars, clouds, and the moon.",
+                "B. The sky is completely dark, with no visible celestial elements to show depth.",
+                "C. The sky has only bright sunlight and clear skies, without stars or clouds.",
+                "D. The sky is filled with thick clouds, blocking any celestial bodies and gradients."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_89": {
+            "id": "gD0MvkDGAMg_89",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What visual elements in the sky add a sense of mystery to the scene?",
+            "options": [
+                "A. A tranquil night, with a full moon partially obscured by clouds, etc.",
+                "B. A full moon, clear sky without clouds, accompanied by a rainbow.",
+                "C. Bright sunshine, no stars, transitioning to a pale blue horizon.",
+                "D. A stormy sky, with torrential rain and thunderclouds obscuring all celestial sights."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_90": {
+            "id": "gD0MvkDGAMg_90",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the Earth's position in the cosmic space?",
+            "options": [
+                "A. The Earth is in the center of the image.",
+                "B. The Earth is in the upper left corner of the image.",
+                "C. The Earth is in the upper right corner of the image.",
+                "D. The Earth is at the bottom of the image."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_91": {
+            "id": "gD0MvkDGAMg_91",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene begin?",
+            "options": [
+                "A. A tranquil and expansive nighttime environment.",
+                "B. A bustling nighttime cityscape.",
+                "C. A view of Earth from space.",
+                "D. A logo and text promoting Earth awareness."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_92": {
+            "id": "gD0MvkDGAMg_92",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "What color is the sleeve of the hand holding the photo when the perspective is enlarged?",
+            "options": [
+                "A. Light blue",
+                "B. White",
+                "C. Dark blue",
+                "D. Gray"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_93": {
+            "id": "gD0MvkDGAMg_93",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "How is the hand holding the photo?",
+            "options": [
+                "A. The hand is holding the center of the photo.",
+                "B. The hand is gripping the edge of the photo.",
+                "C. The hand is tightly clutching the photo in a fist.",
+                "D. The hand is pinching the corner of the photo with fingers."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_94": {
+            "id": "gD0MvkDGAMg_94",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What does the image of Earth in the photo include?",
+            "options": [
+                "A. Green continents, light blue oceans, and a blue halo.",
+                "B. Red continents, deep blue oceans, and a yellow halo.",
+                "C. Brown continents, clear oceans, and a white halo.",
+                "D. Purple continents, green oceans, and a pink halo."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_95": {
+            "id": "gD0MvkDGAMg_95",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the background color when the Earth rotates?",
+            "options": [
+                "A. Dark Green",
+                "B. Light Blue",
+                "C. Black",
+                "D. White"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_96": {
+            "id": "gD0MvkDGAMg_96",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "Does the Earth completely disappear from view over time?",
+            "options": [
+                "A. Yes, the video gradually zooms out, erasing the Earth from view.",
+                "B. No, the Earth remains visible throughout the entire video.",
+                "C. Yes, but the Earth is immediately replaced by another planet.",
+                "D. No, the Earth is obscured by a spaceship, but does not disappear from view."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_97": {
+            "id": "gD0MvkDGAMg_97",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "After the close-up shot, what happens to the hand holding the photo?",
+            "options": [
+                "A. The hand and photo disappear from the frame, and the scene shifts to focus on Earth.",
+                "B. The hand releases the photo, and the photo floats into space.",
+                "C. The hand places the photo on a table, and the scene switches to a room.",
+                "D. The hand crumples the photo and throws it away."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_98": {
+            "id": "gD0MvkDGAMg_98",
+            "scene": 6,
+            "dimension": "Camera Direction",
+            "question": "After zooming out from Earth, what does the camera focus on?",
+            "options": [
+                "A. The logo of 'ASTRONOMERS FOR PLANET EARTH'",
+                "B. A serene nighttime setting with family and telescope",
+                "C. A void with twinkling starlight, revealing a completely different sphere.",
+                "D. Holding a Polaroid-style photo in hand"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_99": {
+            "id": "gD0MvkDGAMg_99",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "How does the process of Earth's disappearance occur?",
+            "options": [
+                "A. Very suddenly, switching from Earth to pattern text identification.",
+                "B. Gradually, seamlessly transitioning from Earth's prominent scenes to the vast space.",
+                "C. Occurs in a fragmented manner, showcasing different planets one by one.",
+                "D. Completely skips Earth, focusing on the pale blue spacecraft."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_100": {
+            "id": "gD0MvkDGAMg_100",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What visual changes occur when turning from Earth to the cosmic void?",
+            "options": [
+                "A. The color of Earth changes, displaying vibrant shades of purple and red.",
+                "B. Earth disappears from view, and a text pattern appears.",
+                "C. A photo of Earth falls to the ground and shatters, revealing a hidden message.",
+                "D. A massive comet passes by Earth, casting a dramatic shadow over it."
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_101": {
+            "id": "gD0MvkDGAMg_101",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What visual elements appear in the last frame of the scene to convey a promotional message?",
+            "options": [
+                "A. A blue and black logo with a text emblem.",
+                "B. A photo of the Earth with a glowing blue halo.",
+                "C. A telescope pointing at the starry sky.",
+                "D. A hand holding a Polaroid-style photo of the Earth."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_102": {
+            "id": "gD0MvkDGAMg_102",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What text elements appear in the last frame of the scene to convey advocacy messages?",
+            "options": [
+                "A. “ASTRONOMERS FOR PLANET EARTH”.",
+                "B. “SAVE OUR PLANET”.",
+                "C. “COSMIC UNITY FOR ALL”.",
+                "D. “PROTECT OUR UNIVERSE”."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_103": {
+            "id": "gD0MvkDGAMg_103",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the main scene depicted in the scenario?",
+            "options": [
+                "A. A minimalist layout with a light blue gradient background, dynamic typography, geometric design, and interactive elements.",
+                "B. A static cosmic image featuring the logo and message 'ASTRONOMERS FOR PLANET EARTH.'",
+                "C. A simple text-based layout using only a white background and black typography.",
+                "D. A purely abstract design with no interactive elements or brand identity."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_104": {
+            "id": "gD0MvkDGAMg_104",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "In the scene, what does the text 'SCIANI' represent?",
+            "options": [
+                "A. The text 'SCIANI' represents a typographic design element related to the theme.",
+                "B. The text 'SCIANI' is a placeholder for a future logo design.",
+                "C. The text 'SCIANI' is a reference to a fictional planet in the video.",
+                "D. The text 'SCIANI' is the name of the artist who created the work."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_105": {
+            "id": "gD0MvkDGAMg_105",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What are the notable features of the layout in the image?",
+            "options": [
+                "A. The layout spells out 'SCIANI' in a modern and artistic style, accompanied by vibrant circular patterns.",
+                "B. The layout uses a bold and solid design to directly spell out 'SCIANI', with no abstract elements.",
+                "C. The layout highlights 'ASTRONOMERS FOR PLANET EARTH' in a minimalist font.",
+                "D. The layout focuses on scientific equations written in abstract geometric forms."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_106": {
+            "id": "gD0MvkDGAMg_106",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Does this copy include a call-to-action guiding users to follow social media channels?",
+            "options": [
+                "A. Yes, it includes a call-to-action along with an icon.",
+                "B. No, it does not mention social media channels in the copy.",
+                "C. Yes, but it only includes a website link without social media icons.",
+                "D. Yes, but it only includes text labels."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_107": {
+            "id": "gD0MvkDGAMg_107",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What is the URL that appears in the scene?",
+            "options": [
+                "A. “www.sciani.com”",
+                "B. “www.visuals.com”",
+                "C. “www.sentence.com”",
+                "D. “www.sversen.com”"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_108": {
+            "id": "gD0MvkDGAMg_108",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "Where is the position of the 'FOLLOW' sign in the scene?",
+            "options": [
+                "A. In the upper right corner",
+                "B. In the lower left corner",
+                "C. In the lower right corner",
+                "D. Centered"
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_109": {
+            "id": "gD0MvkDGAMg_109",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What visual elements are used in the composition to maintain clarity and appeal?",
+            "options": [
+                "A. Uses a gradient background and a concentrated arrangement of text and graphics.",
+                "B. Relies on a completely black background and disordered elements to create visual interest.",
+                "C. Uses a variety of random colors and a scattered text layout to maintain appeal.",
+                "D. Employs heavy textures and a non-gradient design to create clarity."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_110": {
+            "id": "gD0MvkDGAMg_110",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "How does the font change to reflect a more structured brand?",
+            "options": [
+                "A. The font 'SCIANI' changed from semi-transparent to pure black, and added text elements, etc.",
+                "B. The font 'SCIANI' changed to 'SCIENTIFIC', removing some elements for simplification.",
+                "C. The font 'SCIANI' changed to 'SCAN', and added extra decorative elements.",
+                "D. The font 'SCIANI' changed to 'SCALD', and added the subtitle 'Animated visuals'."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_111": {
+            "id": "gD0MvkDGAMg_111",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What visual cues are provided by the text on the webpage?",
+            "options": [
+                "A. Text displayed in black font serves as a visual cue.",
+                "B. The gradient background provides the main visual cue.",
+                "C. Bright circular patterns serve as the main visual cue.",
+                "D. Phrases in light gray font provide visual cues."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_112": {
+            "id": "gD0MvkDGAMg_112",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after the minimalist brand composition is displayed?",
+            "options": [
+                "A. It is replaced by a vibrant and captivating nighttime outdoor scene.",
+                "B. The minimalist brand composition transitions to a static image of space.",
+                "C. The brand composition fades into a white blank background without text.",
+                "D. It transforms into a colorful depiction of a busy urban landscape during the day."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_113": {
+            "id": "gD0MvkDGAMg_113",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is shown after the desolate mountain landscape?",
+            "options": [
+                "A. A close-up of a large cylindrical structure building is shown.",
+                "B. A vivid depiction of a cosmic sky filled with stars and galaxies is shown.",
+                "C. A bustling city skyline with towering skyscrapers is shown.",
+                "D. A dense forest filled with tall ancient trees is shown."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_114": {
+            "id": "gD0MvkDGAMg_114",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the next scene after the woman, man, and boy scene?",
+            "options": [
+                "A. The scene transitions to a close-up shot showing a hand holding a Polaroid-like photo.",
+                "B. The scene transitions to a view of a telescope pointing at the night sky.",
+                "C. The scene transitions to an animation of the universe featuring constellations.",
+                "D. The scene transitions to a group of people walking through a field under the starry sky."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_115": {
+            "id": "gD0MvkDGAMg_115",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why was the text 'SCI ANI' changed to bold black letters?",
+            "options": [
+                "A. To enhance prominence and readability on the light blue gradient background.",
+                "B. To match the color scheme of the vibrant overlapping circular patterns.",
+                "C. To seamlessly integrate with the geometric design elements above it.",
+                "D. To maintain a consistent appearance with the 'Earth Astronomer' logo."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_116": {
+            "id": "gD0MvkDGAMg_116",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What do the three adjacent circular icons in this composition represent?",
+            "options": [
+                "A. They represent integration and connectivity, enhancing appeal.",
+                "B. They represent random aesthetic elements with no practical functional use.",
+                "C. They represent outdated design choices that conflict with the overall theme.",
+                "D. They represent an emphasis on traditional branding with a lack of interactive elements."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_117": {
+            "id": "gD0MvkDGAMg_117",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "In the quiet night scene, with silhouettes of people, roads, and futuristic buildings, how does it affect the audience?",
+            "options": [
+                "A. It presents a dreamy, tranquil atmosphere.",
+                "B. It creates a sense of urgency and excitement.",
+                "C. It evokes feelings of chaos and unpredictability.",
+                "D. It serves as a symbol of a busy urban environment."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_118": {
+            "id": "gD0MvkDGAMg_118",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What happened after the initial image of Earth with a blue halo was shown?",
+            "options": [
+                "A. Earth is lifted up by a pair of large hands wearing blue clothing.",
+                "B. Earth gradually fades into the background, replaced by a series of planets from the solar system.",
+                "C. The blue halo around Earth intensifies, and the scene shifts to a view of a space station.",
+                "D. The photo of Earth transforms into an animated diagram of the solar system with orbital paths."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_119": {
+            "id": "gD0MvkDGAMg_119",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "Which character appears again in the outdoor night scene after the indoor scene?",
+            "options": [
+                "A. A woman wearing light blue clothes and dark pants.",
+                "B. A man wearing purple clothes and light brown pants.",
+                "C. A woman wearing a black suit and black shoes.",
+                "D. A man wearing a blue suit and a red tie."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_120": {
+            "id": "gD0MvkDGAMg_120",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "After the woman reappeared in the night scene, who joined her?",
+            "options": [
+                "A. A man and a little boy joined her.",
+                "B. A group of astronomers joined her.",
+                "C. She was accompanied by a dog and a man.",
+                "D. She stood alone under the starry sky."
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_121": {
+            "id": "gD0MvkDGAMg_121",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "From the video, where are the trees under the purple dreamy starry sky located?",
+            "options": [
+                "A. Around the buildings on the right side.",
+                "B. On both sides of the central road.",
+                "C. In the bottom left corner of the frame.",
+                "D. In the bottom right corner of the frame."
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_122": {
+            "id": "gD0MvkDGAMg_122",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "In the classroom, what color is the girl in the middle of the first row facing the podium wearing?",
+            "options": [
+                "A. Purple",
+                "B. Blue",
+                "C. Red",
+                "D. Yellow"
+            ],
+            "answer": "A"
+        },
+        "gD0MvkDGAMg_123": {
+            "id": "gD0MvkDGAMg_123",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How many rows of solar panels can be observed through the window?",
+            "options": [
+                "A. Three rows",
+                "B. Four rows",
+                "C. Five rows",
+                "D. Six rows"
+            ],
+            "answer": "B"
+        },
+        "gD0MvkDGAMg_124": {
+            "id": "gD0MvkDGAMg_124",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What is the purpose of adding icon text elements in the final scene?",
+            "options": [
+                "A. To emphasize the celestial theme of the design.",
+                "B. To enhance visual complexity and maintain a futuristic tone.",
+                "C. To attract the audience's attention to the author's channel.",
+                "D. To display a purely aesthetic feature without functional purpose."
+            ],
+            "answer": "C"
+        },
+        "gD0MvkDGAMg_125": {
+            "id": "gD0MvkDGAMg_125",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why introduce social media icons in the final image?",
+            "options": [
+                "A. To attract viewers to follow the author's channel.",
+                "B. Emphasize celestial bodies and abstract themes.",
+                "C. Highlight colorful circular shapes and their movement.",
+                "D. Replace geometric design with minimalist visual effects."
+            ],
+            "answer": "A"
+        }
+    }
+}

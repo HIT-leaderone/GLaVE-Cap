@@ -1,0 +1,1890 @@
+{
+    "scene_hint": {
+        "0": "画面中出现两行文字。",
+        "1": "画面中出现一把乐器",
+        "2": "背景里有一行文字。",
+        "3": "画面中出现两把乐器",
+        "4": "画面里有手绘的琴弦。",
+        "5": "火柴人在演奏歌曲",
+        "6": "一个吉他的部分图片",
+        "7": "一个平板音乐游戏",
+        "8": "画面中出现“FREE”。",
+        "9": "画面中出现“THANKS for Watching!”",
+        "10": "画面中出现了两行文字",
+        "11": "手绘元素被擦除。"
+    },
+    "qa": {
+        "_tvmjsKXTu8_0": {
+            "id": "_tvmjsKXTu8_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "棕色线位于哪里？",
+            "options": [
+                "A. 靠近底部边缘",
+                "B. 靠近图像的中心",
+                "C. 靠近左上角",
+                "D. 沿着右边缘"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_1": {
+            "id": "_tvmjsKXTu8_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这个场景的背景是什么样的？",
+            "options": [
+                "A. 一个白色的面板。",
+                "B. 一个杂乱无章的环境。",
+                "C. 一个光线昏暗的房间。",
+                "D. 充满活力和色彩。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_2": {
+            "id": "_tvmjsKXTu8_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "手使用第三种颜色的笔执行了什么动作？",
+            "options": [
+                "A. 书写了一段新的文字。",
+                "B. 对原有文字再次描绘。",
+                "C. 画出了新的音乐符号。",
+                "D. 没有使用第三种颜色。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_3": {
+            "id": "_tvmjsKXTu8_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "添加了哪些元素在文字周围？",
+            "options": [
+                "A. 一系列音符和符号。",
+                "B. 彩色几何图形。",
+                "C. 一组与吉他相关的照片。",
+                "D. 标注日期和时间。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_4": {
+            "id": "_tvmjsKXTu8_4",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "在场景中，一共画了多少条横线？",
+            "options": [
+                "A. 一条。",
+                "B. 两条。",
+                "C. 三条。",
+                "D. 没有。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_5": {
+            "id": "_tvmjsKXTu8_5",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "场景中是否有明显的阴影？",
+            "options": [
+                "A. 有大片的阴影",
+                "B. 没有",
+                "C. 只有淡淡的阴影",
+                "D. 有各种形状的阴影"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_6": {
+            "id": "_tvmjsKXTu8_6",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "在场景中，手最后做了什么？",
+            "options": [
+                "A. 它从白板上擦去之前的内容。",
+                "B. 它添加新的文字内容。",
+                "C. 它在面板上画一幅新图。",
+                "D. 它更换正在使用的记号笔颜色。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_7": {
+            "id": "_tvmjsKXTu8_7",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "场景中使用了什么拍摄镜头？",
+            "options": [
+                "A. 静态镜头。",
+                "B. 动态镜头。",
+                "C. 俯拍镜头。",
+                "D. 手部特写镜头。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_8": {
+            "id": "_tvmjsKXTu8_8",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "在整个场景中，面板发生了哪些变化？",
+            "options": [
+                "A. 面板上添加了文字、图案并被擦除。",
+                "B. 面板上贴上了各种贴纸与文字。",
+                "C. 面板始终保持不变。",
+                "D. 面板最后被布覆盖上。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_9": {
+            "id": "_tvmjsKXTu8_9",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "擦黑板时手局部来看是朝哪个方向移动的？",
+            "options": [
+                "A. 擦黑板时手是左右移动的。",
+                "B. 擦黑板时手是向右移动的。",
+                "C. 擦黑板时手是向上移动的。",
+                "D. 擦黑板时手是向下移动的。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_10": {
+            "id": "_tvmjsKXTu8_10",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "在擦除白板的过程中，整体环境是如何描述的？",
+            "options": [
+                "A. 光线昏暗且阴影重重。",
+                "B. 光线充足且均匀照明。",
+                "C. 灯光闪烁。",
+                "D. 黑暗阴沉。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_11": {
+            "id": "_tvmjsKXTu8_11",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "手在白板上最后做什么了动作？",
+            "options": [
+                "A. 手在白板上画一只恐龙。",
+                "B. 手在白板上写音乐符号。",
+                "C. 手在用板擦擦除白板。",
+                "D. 手在白板上放置圆形标记。"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_12": {
+            "id": "_tvmjsKXTu8_12",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "白板上有哪些显著的物品？",
+            "options": [
+                "A. 一只恐龙和一把黑白电吉他。",
+                "B. 一条大蓝鲸和一把红色电吉他。",
+                "C. 一艘宇宙飞船和一把绿色吉他。",
+                "D. 一只蝴蝶和一把黄色萨克斯管。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_13": {
+            "id": "_tvmjsKXTu8_13",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "在中间地球的右侧出现了几种颜色？",
+            "options": [
+                "A. 两种颜色。",
+                "B. 三种颜色。",
+                "C. 四种颜色。",
+                "D. 五种颜色。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_14": {
+            "id": "_tvmjsKXTu8_14",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "最后白板是否完全干净？",
+            "options": [
+                "A. 是的，白板完全干净。",
+                "B. 不，有一些不显眼的标记存在。",
+                "C. 不，有一个单词还存在。",
+                "D. 不，白板上仍然覆盖着图画。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_15": {
+            "id": "_tvmjsKXTu8_15",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "音乐符号会发生什么变化？",
+            "options": [
+                "A. 变得更加明亮和鲜艳。",
+                "B. 被板擦擦除而不可见。",
+                "C. 红色符号变大。",
+                "D. 红色符号变成了完全不同的形状。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_16": {
+            "id": "_tvmjsKXTu8_16",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "白板上的动作是用什么摄像机镜头拍摄的？",
+            "options": [
+                "A. 一个正面镜头",
+                "B. 一个侧面角度",
+                "C. 一个特写镜头",
+                "D. 一个低角度镜头"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_17": {
+            "id": "_tvmjsKXTu8_17",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "白板的表面是什么样的？",
+            "options": [
+                "A. 表面凸出。",
+                "B. 表面光滑。",
+                "C. 表面粗糙。",
+                "D. 表面凹陷。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_18": {
+            "id": "_tvmjsKXTu8_18",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "白板上擦除后哪里留下了淡淡的红色痕迹？",
+            "options": [
+                "A. 画面中心和左下方",
+                "B. 画面左上方和中心",
+                "C. 画面底部和两侧",
+                "D. 画面右上方和右下方"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_19": {
+            "id": "_tvmjsKXTu8_19",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "擦除动作后场景的环境看起来如何？",
+            "options": [
+                "A. 环境变得昏暗且阴影重重。",
+                "B. 环境在明亮且均匀的光线下。",
+                "C. 环境变得混乱无序。",
+                "D. 环境转变为一个黑暗的背景。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_20": {
+            "id": "_tvmjsKXTu8_20",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "手最后与“Chordophones”是如何互动的？",
+            "options": [
+                "A. 手使“Chordophones”的部分出现扭曲。",
+                "B. 手完全擦除了“Chordophones”这个单词。",
+                "C. 手在“Chordophones”周围写下了额外的词语。",
+                "D. 手改变了“Chordophones”的大小。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_21": {
+            "id": "_tvmjsKXTu8_21",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "手是如何强调单词“Chordophones”的某些部分？",
+            "options": [
+                "A. 手用黄色重描了一遍。",
+                "B. 手用红色圆圈强。",
+                "C. 手通过擦去一些字母来强调。",
+                "D. 手用蓝色高亮标记强调。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_22": {
+            "id": "_tvmjsKXTu8_22",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "在擦除完成后，哪个单词在场景中显得突出？",
+            "options": [
+                "A. Chordophones",
+                "B. Melodica",
+                "C. Percussion",
+                "D. 没有单词"
+            ],
+            "answer": "D"
+        },
+        "_tvmjsKXTu8_23": {
+            "id": "_tvmjsKXTu8_23",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景开始时，“Chordophones”这个单词是用什么颜色写的？",
+            "options": [
+                "A. 单词“Chordophones”是用紫蓝色记号笔写的。",
+                "B. 单词“Chordophones”是用绿色记号笔写的。",
+                "C. 单词“Chordophones”是用红色记号笔写的。",
+                "D. 单词“Chordophones”是用黑色记号笔写的。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_24": {
+            "id": "_tvmjsKXTu8_24",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "单词“Chordophones”大概位于哪里？",
+            "options": [
+                "A. 单词“Chordophones”位于白板的左上角。",
+                "B. 单词“Chordophones”位于白板的右下角。",
+                "C. 单词“Chordophones”位于白板的中央。",
+                "D. 单词“Chordophones”写在白板的最右边。"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_25": {
+            "id": "_tvmjsKXTu8_25",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "场景中最多有多少只手同时出现？",
+            "options": [
+                "A. 一只手",
+                "B. 两只手",
+                "C. 三只手",
+                "D. 四只手"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_26": {
+            "id": "_tvmjsKXTu8_26",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "在引入卡片时，单词“Chordophones”是否完全清晰可辨？",
+            "options": [
+                "A. 是的，单词“Chordophones”仍然完全可见。",
+                "B. 不，遮挡了“Chordophones”的一些字母。",
+                "C. 是的，但只有第一个字母部分被遮挡。",
+                "D. 不，整个单词“Chordophones”变得无法辨认。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_27": {
+            "id": "_tvmjsKXTu8_27",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "涂有粉红色指甲油的食指执行什么动作？",
+            "options": [
+                "A. 它拨动了场景中的线条。",
+                "B. 它擦去“Chordophones”这个词。",
+                "C. 它写下“Chordophones”这个词。",
+                "D. 它在“Chordophones”这个词下划线。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_28": {
+            "id": "_tvmjsKXTu8_28",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "擦白板的时候，手局部来看向什么方向移动？",
+            "options": [
+                "A. 手是左右来回移动的。",
+                "B. 手从中心向上边缘移动。",
+                "C. 手从左边缘向右边缘移动。",
+                "D. 手在白板上做圆周运动。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_29": {
+            "id": "_tvmjsKXTu8_29",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "在添加纸卡片的过程中，摄像机如何保持对焦？",
+            "options": [
+                "A. 摄像机保持稳定和居中的对焦。",
+                "B. 摄像机使用快速变焦。",
+                "C. 摄像机采用旋转效果。",
+                "D. 摄像机在卡片和白板之间切换对焦。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_30": {
+            "id": "_tvmjsKXTu8_30",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "在擦子消失后，白板看起来怎么样？",
+            "options": [
+                "A. 白板完全干净。",
+                "B. 白板看起来干净了许多。",
+                "C. 白板上覆盖了新的画作和文字。",
+                "D. 白板保持不变。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_31": {
+            "id": "_tvmjsKXTu8_31",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "画面中出现的第二把乐器放在哪里？",
+            "options": [
+                "A. 放在第一把乐器的左侧。",
+                "B. 放在第一把乐器的右侧。",
+                "C. 放在第一把乐器的上方。",
+                "D. 放在第一把乐器的下方。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_32": {
+            "id": "_tvmjsKXTu8_32",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景的环境是什么？",
+            "options": [
+                "A. 场景发生在白板上。",
+                "B. 场景发生在录音室。",
+                "C. 场景发生在一个艺术工作室。",
+                "D. 场景发生在户外的公园中。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_33": {
+            "id": "_tvmjsKXTu8_33",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "场景中手放在面板上的是什么？",
+            "options": [
+                "A. 两张乐器卡片。",
+                "B. 一个小黑板擦。",
+                "C. 一个迷你弦乐器。",
+                "D. 一支蓝色记号笔。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_34": {
+            "id": "_tvmjsKXTu8_34",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景中的手先擦掉了什么？",
+            "options": [
+                "A. 手擦掉了 'Chordophones' 这个词。",
+                "B. 手擦掉了 'Tanbur' 这个词。",
+                "C. 手擦掉了 'Sitar' 这个词。",
+                "D. 手擦掉了 'ASIA' 这个词。"
+            ],
+            "answer": "D"
+        },
+        "_tvmjsKXTu8_35": {
+            "id": "_tvmjsKXTu8_35",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景中，手在白板上写了什么词？",
+            "options": [
+                "A. 手在白板上写了'Chordophones'和'Tanbur'。",
+                "B. 手在白板上写了'Chordophones'和'Asia'。",
+                "C. 手在白板上写了'Tanbur'和'Sitar'。",
+                "D. 手在白板上写了'Chordophones'。"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_36": {
+            "id": "_tvmjsKXTu8_36",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景中手画了什么框住'Asia'？",
+            "options": [
+                "A. 手画了波浪曲线。",
+                "B. 手画了直线。",
+                "C. 手画了圆圈。",
+                "D. 手画了三角形。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_37": {
+            "id": "_tvmjsKXTu8_37",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "右侧的弦乐器看起来像什么？",
+            "options": [
+                "A. 一把西塔琴。",
+                "B. 一把小提琴。",
+                "C. 一把吉他。",
+                "D. 一把竖琴。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_38": {
+            "id": "_tvmjsKXTu8_38",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "左侧的乐器是什么样子的?",
+            "options": [
+                "A. 有一个浅棕色的琴颈和一个泪滴状的琴身。",
+                "B. 有一个深棕色的琴颈和一个椭圆形的琴身。",
+                "C. 有一个红色的琴颈和一个圆形的琴身。",
+                "D. 有一个蓝色的琴颈和一个黄色的琴身。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_39": {
+            "id": "_tvmjsKXTu8_39",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景中是否将乐器与地理连接起来的标注？",
+            "options": [
+                "A. 是的，将‘Tanbur’和‘Sitar’与‘Asia’连接起来。",
+                "B. 不，仅展示了乐器，没有任何标注。",
+                "C. 是的，将‘Tanbur’和‘Sitar’与‘Africa’连接起来。",
+                "D. 不，仅仅专注于擦除白板。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_40": {
+            "id": "_tvmjsKXTu8_40",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "白板上与“Tanbur”一词相伴的箭头指向哪个方向？",
+            "options": [
+                "A. 箭头指向左下方。",
+                "B. 箭头指向左上方。",
+                "C. 箭头指向右上方。",
+                "D. 箭头指向右下方。"
+            ],
+            "answer": "D"
+        },
+        "_tvmjsKXTu8_41": {
+            "id": "_tvmjsKXTu8_41",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "是什么视觉元素表明了乐器的地理来源？",
+            "options": [
+                "A. 'EUROPE'（欧洲）",
+                "B. 'ASIA'（亚洲）",
+                "C. 白板上的地图",
+                "D. 指向不同大陆的箭头"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_42": {
+            "id": "_tvmjsKXTu8_42",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "手如何与琴弦互动？",
+            "options": [
+                "A. 手在琴弦上固定着互动。",
+                "B. 手在琴弦上先移动后固定着互动。",
+                "C. 手悬在琴弦上方。",
+                "D. 手没有与琴弦互动。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_43": {
+            "id": "_tvmjsKXTu8_43",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景中的环境是什么样的？",
+            "options": [
+                "A. 洁白光滑的背景上。",
+                "B. 一间杂乱的工作区。",
+                "C. 彩色的背景涂鸦墙。",
+                "D. 一个黑暗的房间。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_44": {
+            "id": "_tvmjsKXTu8_44",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "黑色矩形物体是如何引入的？",
+            "options": [
+                "A. 手移出画面后引入的。",
+                "B. 从琴弦后面露出。",
+                "C. 黑色矩形物一开始就存在。",
+                "D. 黑色矩形物体掉到白板上。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_45": {
+            "id": "_tvmjsKXTu8_45",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "这个黑色矩形物体是什么？",
+            "options": [
+                "A. 是一个记号笔。",
+                "B. 是一块硬纸板。",
+                "C. 是一个板擦。",
+                "D. 是一本乐谱书。"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_46": {
+            "id": "_tvmjsKXTu8_46",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "琴弦有多少条黑色线条？",
+            "options": [
+                "A. 三条平行线",
+                "B. 四条平行线",
+                "C. 五条平行线",
+                "D. 六条平行线"
+            ],
+            "answer": "D"
+        },
+        "_tvmjsKXTu8_47": {
+            "id": "_tvmjsKXTu8_47",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "手部在与黑色矩形设备交互时执行了什么动作？",
+            "options": [
+                "A. 利用黑色矩形设备对白板擦除。",
+                "B. 用拳头敲击黑色矩形设备。",
+                "C. 在黑色矩形设备表面来回滑动。",
+                "D. 手悬停在黑色矩形设备上方。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_48": {
+            "id": "_tvmjsKXTu8_48",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "使用了哪种类型的镜头拍摄？",
+            "options": [
+                "A. 广角镜头",
+                "B. 过肩镜头",
+                "C. 特写视角",
+                "D. 航拍镜头"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_49": {
+            "id": "_tvmjsKXTu8_49",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "相机镜头主要关注场景的什么？",
+            "options": [
+                "A. 它强调了手、黑色装置和琴弦。",
+                "B. 它聚焦于场景的环境光和整体氛围。",
+                "C. 它突出了白板的艺术元素。",
+                "D. 它仅关注了手部的动态动作。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_50": {
+            "id": "_tvmjsKXTu8_50",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "场景中的手绘琴是什么样的？",
+            "options": [
+                "A. 黑色长线，棕褐色的边缘，散布椭圆形符号。",
+                "B. 完全笔直的黑线，红色和蓝色的边缘，以及白色表面。",
+                "C. 全息显示、生动的霓虹色彩和数字动画。",
+                "D. 统一的黑线、清晰的数字印刷。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_51": {
+            "id": "_tvmjsKXTu8_51",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "大提琴手相对于画面在吉他手的哪里？",
+            "options": [
+                "A. 大提琴手位于吉他手的左上方。",
+                "B. 大提琴手紧挨吉他手。",
+                "C. 大提琴手位于吉他手的最右侧。",
+                "D. 大提琴手位于吉他手的后面。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_52": {
+            "id": "_tvmjsKXTu8_52",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "贝斯手相对于画面在吉他手的在哪里？",
+            "options": [
+                "A. 在吉他手的左侧。",
+                "B. 在吉他手的右上方。",
+                "C. 在吉他手的前面。",
+                "D. 在吉他手的左上方。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_53": {
+            "id": "_tvmjsKXTu8_53",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "这个场景描绘了什么环境？",
+            "options": [
+                "A. 场景是在一个白板上。",
+                "B. 场景是在一间音乐厅。",
+                "C. 场景是在一个艺术工作室。",
+                "D. 场景是在一个音乐节。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_54": {
+            "id": "_tvmjsKXTu8_54",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景中的人物如何出现在画面中的？",
+            "options": [
+                "A. 随机地分散在一个彩色背景上。",
+                "B. 井然有序地分布在白色背景上。",
+                "C. 站在写满数学公式的黑板前。",
+                "D. 人物画在一张巨大的纸上。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_55": {
+            "id": "_tvmjsKXTu8_55",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "中央火柴人吉他手长什么样？",
+            "options": [
+                "A. 中央火柴人吉他手有黑色散乱的头发。",
+                "B. 中央火柴人吉他手有长卷发。",
+                "C. 中央火柴人吉他手戴着帽子。",
+                "D. 中央火柴人吉他手有金色短发。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_56": {
+            "id": "_tvmjsKXTu8_56",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "中央火柴人吉他的穿着是什么样？",
+            "options": [
+                "A. 穿着印有音符的T恤和短裤。",
+                "B. 穿着印有星星的T恤和牛仔裤。",
+                "C. 穿着条纹T恤和长裤。",
+                "D. 穿着印有心形的T恤和裙子。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_57": {
+            "id": "_tvmjsKXTu8_57",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "中央火柴人吉他手的情绪表现是什么样的？",
+            "options": [
+                "A. 表现出愉快的心情。",
+                "B. 看起来沮丧且懊恼。",
+                "C. 表现出紧张不安的。",
+                "D. 表现出平静且漠然。"
+            ],
+            "answer": "D"
+        },
+        "_tvmjsKXTu8_58": {
+            "id": "_tvmjsKXTu8_58",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "场景中同时最多有多少乐队成员存在？",
+            "options": [
+                "A. 有两名乐队成员。",
+                "B. 有三名乐队成员。",
+                "C. 有四名乐队成员。",
+                "D. 只有一名乐队成员。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_59": {
+            "id": "_tvmjsKXTu8_59",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "场景开始时包含哪三种乐器？",
+            "options": [
+                "A. 乐器包括一把吉他、一把贝斯和一个架子鼓。",
+                "B. 乐器包括一架钢琴、一把大提琴和一把电吉他。",
+                "C. 乐器包括一把木吉他、一套鼓组和一把电吉他。",
+                "D. 乐器包括一把木吉他、一把大提琴和一把小提琴。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_60": {
+            "id": "_tvmjsKXTu8_60",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "鼓手人偶始终出现在画面中吗？",
+            "options": [
+                "A. 是的，鼓手人偶仍始终出现。",
+                "B. 不，鼓手人偶已被取代。",
+                "C. 是的，鼓手人偶去演奏了大提琴。",
+                "D. 不，画面中没有鼓手人偶。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_61": {
+            "id": "_tvmjsKXTu8_61",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "场景中人类的手握着什么？",
+            "options": [
+                "A. 人类的手握着一支白板笔。",
+                "B. 人类的手握着一支铅笔。",
+                "C. 人类的手握着一根鼓槌。",
+                "D. 人类的手握着一个麦克风。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_62": {
+            "id": "_tvmjsKXTu8_62",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "人手正在用记号笔做什么？",
+            "options": [
+                "A. 人手正在画不同的人物角色。",
+                "B. 人手正在画不同的乐器。",
+                "C. 人手正在给背景上色。",
+                "D. 人手正在白板上签名。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_63": {
+            "id": "_tvmjsKXTu8_63",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "麦克风主唱相对于画面在吉他手的哪里？",
+            "options": [
+                "A. 在吉他手的两侧。",
+                "B. 在吉他手的下面。",
+                "C. 在吉他手的上方。",
+                "D. 在吉他手的后面。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_64": {
+            "id": "_tvmjsKXTu8_64",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "这个场景的设置是什么？",
+            "options": [
+                "A. 场景发生在白板上。",
+                "B. 场景发生在音乐厅里。",
+                "C. 场景发生在录音室里。",
+                "D. 场景发生在舞台上。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_65": {
+            "id": "_tvmjsKXTu8_65",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景中的光线如何？",
+            "options": [
+                "A. 光线明亮且均匀。",
+                "B. 光线昏暗且多阴影。",
+                "C. 光线变化频繁。",
+                "D. 光线强烈。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_66": {
+            "id": "_tvmjsKXTu8_66",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景中的画面是什么样的？",
+            "options": [
+                "A. 是极繁的。",
+                "B. 是混乱的。",
+                "C. 是极简的。",
+                "D. 是复古的。"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_67": {
+            "id": "_tvmjsKXTu8_67",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "场景中呈现了哪些元素？",
+            "options": [
+                "A. 该场景包含图片和文字。",
+                "B. 该场景展示了现场音乐会。",
+                "C. 该场景主要表现了一张桌子。",
+                "D. 该场景展示了一块只有文字的白板。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_68": {
+            "id": "_tvmjsKXTu8_68",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "后来在原声吉他的音孔下方增加了什么？",
+            "options": [
+                "A. 增加了装饰图案。",
+                "B. 增加了“smule”这个单词。",
+                "C. 增加了一个麦克风的绘图。",
+                "D. 增加了“acoustic”标签。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_69": {
+            "id": "_tvmjsKXTu8_69",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "手除了画出新的角色还会做什么？",
+            "options": [
+                "A. 它开始弹奏原声吉他。",
+                "B. 它还会擦掉人物角色。",
+                "C. 它在吉他下面写上‘smule’。",
+                "D. 它调整麦克风支架。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_70": {
+            "id": "_tvmjsKXTu8_70",
+            "scene": 5,
+            "dimension": "Speed",
+            "question": "人手涂抹和描画的速度是怎样的？",
+            "options": [
+                "A. 动态且相对快速的。",
+                "B. 缓慢且深思熟虑的。",
+                "C. 停滞和不变的。",
+                "D. 不规律和不协调的。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_71": {
+            "id": "_tvmjsKXTu8_71",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "替鼓手的新火柴人角色外形是什么样的？",
+            "options": [
+                "A. 新的火柴人角色有短短的头发。",
+                "B. 新的火柴人角色有长长的卷发。",
+                "C. 新的火柴人角色戴着帽子。",
+                "D. 新的火柴人角色戴着眼镜。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_72": {
+            "id": "_tvmjsKXTu8_72",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "场景开始时，手拿着平板的哪个位置？",
+            "options": [
+                "A. 拿着黑色平板的左侧。",
+                "B. 拿着黑色平板的右侧。",
+                "C. 拿着黑色平板的上方。",
+                "D. 拿着黑色平板的下方。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_73": {
+            "id": "_tvmjsKXTu8_73",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "场景中的环境如何？",
+            "options": [
+                "A. 环境简约。",
+                "B. 环境混乱。",
+                "C. 环境未来感十足。",
+                "D. 环境充满乡村风。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_74": {
+            "id": "_tvmjsKXTu8_74",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "如何在平板电脑上显示乐器的名称的？",
+            "options": [
+                "A. 较大且加粗的字体显示。",
+                "B. 以手写体书写。",
+                "C. 以小号且斜体的文字显示。",
+                "D. 仅以图标形式呈现。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_75": {
+            "id": "_tvmjsKXTu8_75",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "平板电脑上显示了多少不同的吉他图片？",
+            "options": [
+                "A. 一张吉他图片",
+                "B. 两张吉他图片",
+                "C. 三张吉他图片",
+                "D. 没有吉他图片"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_76": {
+            "id": "_tvmjsKXTu8_76",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "这个场景中，屏幕上是否出现了“GUITAR!”这个文字？",
+            "options": [
+                "A. 是的，“GUITAR!”这个文字出现在了屏幕上。",
+                "B. 不，“GUITAR!”这个文字并没有出现。",
+                "C. 是的，但只是短暂出现后便消失了。",
+                "D. 不，“GUITAR!”这个文字只出现在了白板上。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_77": {
+            "id": "_tvmjsKXTu8_77",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "白板上的文字“Guitar!”会发生什么？",
+            "options": [
+                "A. 被板擦擦掉了。",
+                "B. 被一个记号笔标记出来。",
+                "C. 被一支蓝色的笔下划了线。",
+                "D. 被一个荧光笔圈起来了。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_78": {
+            "id": "_tvmjsKXTu8_78",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "吉他图像如何在平板电脑上重新定位？",
+            "options": [
+                "A. 吉他图像从竖直变为水平方向。",
+                "B. 吉他图像从平板的左侧定位到右侧。",
+                "C. 吉他图像从屏幕底部定位到顶部。",
+                "D. 吉他图像从水平定位为竖直方向。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_79": {
+            "id": "_tvmjsKXTu8_79",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "场景快结束时，平板显示屏上会出现什么文字？",
+            "options": [
+                "A. 右侧出现短语 'High Score' 和数字 '2275'。",
+                "B. 左侧出现短语 'Game Over' 和数字 '1500'。",
+                "C. 顶部出现短语 'New Record' 和数字 '3000'。",
+                "D. 底部出现短语 'Level Up' 和数字 '1000'。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_80": {
+            "id": "_tvmjsKXTu8_80",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "在进行平板游戏时，手和平板之间的空间关系是什么？",
+            "options": [
+                "A. 平板被两只手围绕。",
+                "B. 平板被两只手抓住。",
+                "C. 平板漂浮在两只手之间的空中。",
+                "D. 平板放在手掌上面抬着。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_81": {
+            "id": "_tvmjsKXTu8_81",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "平板电脑的背景环境是什么？",
+            "options": [
+                "A. 平板电脑置于一个白色背景上。",
+                "B. 平板电脑置于一个黑暗背景上。",
+                "C. 平板电脑置于一个木质表面上。",
+                "D. 平板电脑置于一个彩色图案背景上。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_82": {
+            "id": "_tvmjsKXTu8_82",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "平板屏幕上显示了什么？",
+            "options": [
+                "A. 平板屏幕上可以看到一个动画片视频。",
+                "B. 平板屏幕上正在播放音乐表演的视频。",
+                "C. 平板屏幕上显示的是一个游戏界面。",
+                "D. 平板屏幕上显示了一张城市的地图。"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_83": {
+            "id": "_tvmjsKXTu8_83",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "拿着平板的手的肤色是什么？",
+            "options": [
+                "A. 手的肤色是浅白色的。",
+                "B. 手的肤色是棕黑色的。",
+                "C. 手的肤色是棕黄色的。",
+                "D. 手的肤色是亮黑色的。"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_84": {
+            "id": "_tvmjsKXTu8_84",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "平板电脑屏幕变黑时，上面显示了什么？",
+            "options": [
+                "A. 'Hold your device like this!'.",
+                "B. 'Play music now!'.",
+                "C. 'Operate with one hand only!'.",
+                "D. 该图显示了一个空白的黑色屏幕。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_85": {
+            "id": "_tvmjsKXTu8_85",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "哪个细节表明平板电脑的持握方式是稳定的？",
+            "options": [
+                "A. 平板电脑放置在平坦的表面上以保持稳定。",
+                "B. 平板电脑用双手握持，提供稳定的握持。",
+                "C. 手上戴着手套以获得更好的抓握和控制。",
+                "D. 平板电脑被固定在支架中以防止移动。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_86": {
+            "id": "_tvmjsKXTu8_86",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "这个场景中平板电脑有移动吗？",
+            "options": [
+                "A. 有，平板电脑经常被移动。",
+                "B. 没有，平板电脑保持静止。",
+                "C. 有，平板电脑有轻微旋转。",
+                "D. 没有，场景中没有平板电脑。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_87": {
+            "id": "_tvmjsKXTu8_87",
+            "scene": 7,
+            "dimension": "Camera Direction",
+            "question": "场景中相机有移动吗？",
+            "options": [
+                "A. 是的，相机在场景中拉近和拉远。",
+                "B. 是的，相机切换到了一个侧面的角度。",
+                "C. 否，相机整体上保持稳定。",
+                "D. 是的，相机平移以跟随平板的移动。"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_88": {
+            "id": "_tvmjsKXTu8_88",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "在这个场景中使用了什么摄像机角度？",
+            "options": [
+                "A. 居中的俯视视角。",
+                "B. 显示侧面视图。",
+                "C. 在低角度向上看着平板。",
+                "D. 捕捉对角线视图。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_89": {
+            "id": "_tvmjsKXTu8_89",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "玩家在游戏中的手部动作表明了什么？",
+            "options": [
+                "A. 表明是在随意的参与游戏。",
+                "B. 表明是在积极参与游戏。",
+                "C. 表明是游戏难度简单。",
+                "D. 表明是游戏只需要单手操作。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_90": {
+            "id": "_tvmjsKXTu8_90",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "游戏界面的背景是星空夜景吗？",
+            "options": [
+                "A. 是的，游戏界面的背景是星空夜景。",
+                "B. 不，游戏界面的背景是纯白色。",
+                "C. 不，游戏界面的背景是明媚的晴天。",
+                "D. 不，游戏界面的背景是完全黑色。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_91": {
+            "id": "_tvmjsKXTu8_91",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "在游戏过程中右手执行哪些操作？",
+            "options": [
+                "A. 右手移动平板以改变屏幕方向。",
+                "B. 右手通过点击或滑动与游戏进行交互。",
+                "C. 右手没有执行操作。",
+                "D. 右手调整平板屏幕的亮度。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_92": {
+            "id": "_tvmjsKXTu8_92",
+            "scene": 7,
+            "dimension": "Object Direction",
+            "question": "游戏界面的圆形图标是如何移动的？",
+            "options": [
+                "A. 圆形图标快速在屏幕上向右移动的。",
+                "B. 圆形图标在整个游戏过程中保持静止。",
+                "C. 圆形图标在屏幕上随机移动。",
+                "D. 圆形图标仅在游戏暂停时移动。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_93": {
+            "id": "_tvmjsKXTu8_93",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "游戏过程中分数是如何增加的？",
+            "options": [
+                "A. 分数迅速从‘0’增加到‘900’。",
+                "B. 分数从‘0’开始，攀升到‘375’。",
+                "C. 分数在整个过程中保持在‘10’。",
+                "D. 由于游戏错误，分数会减少。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_94": {
+            "id": "_tvmjsKXTu8_94",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "在场景的前期，用户与平板的互动是如何变化的？",
+            "options": [
+                "A. 变成与游戏界面互动。",
+                "B. 变成使用触控笔互动。",
+                "C. 停止与平板互动。",
+                "D. 切换到其他设备。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_95": {
+            "id": "_tvmjsKXTu8_95",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "周围环境的照明在场景中发生变化了吗？",
+            "options": [
+                "A. 是的，灯光变得明显昏暗。",
+                "B. 是的，随着游戏画面变化。",
+                "C. 不，灯光保持一致。",
+                "D. 是的，灯光随时间逐渐变暖色调。"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_96": {
+            "id": "_tvmjsKXTu8_96",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "在场景最后，画面转换为什么？",
+            "options": [
+                "A. 场景转换为一个游戏界面。",
+                "B. 场景转换为一个带有动画角色的场景。",
+                "C. 场景转换为一个简约的画面。",
+                "D. 场景转换为一个充满人群的环境。"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_97": {
+            "id": "_tvmjsKXTu8_97",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "最初有多少个拇指积极参与游戏界面？",
+            "options": [
+                "A. 一个拇指积极参与游戏界面。",
+                "B. 两个拇指积极参与游戏界面。",
+                "C. 没有拇指积极参与游戏界面。",
+                "D. 三个拇指积极参与游戏界面。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_98": {
+            "id": "_tvmjsKXTu8_98",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "过渡到游戏结算画面，平板屏幕变暗了吗？",
+            "options": [
+                "A. 是的，平板屏幕会完全变暗。",
+                "B. 不，平板屏幕依然明亮。",
+                "C. 平板屏幕在过渡后会关闭。",
+                "D. 平板屏幕会稍微变暗。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_99": {
+            "id": "_tvmjsKXTu8_99",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "在游戏结算的第一个画面，头像形象有多少个？",
+            "options": [
+                "A. 一个头像形象",
+                "B. 两个头像形象",
+                "C. 三个头像形象",
+                "D. 没有头像形象"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_100": {
+            "id": "_tvmjsKXTu8_100",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "提到的虚拟人物名字是什么？",
+            "options": [
+                "A. 'HunterSparkman' 和 'AbbyRose3'",
+                "B. 'JohnDoe' 和 'JaneSmith'",
+                "C. 'MusicLover1' 和 'StarSinger22'",
+                "D. 'GuitarHero' 和 'KaraokeQueen'"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_101": {
+            "id": "_tvmjsKXTu8_101",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "场景的画面是什么？",
+            "options": [
+                "A. 一台笔记本电脑。",
+                "B. 一块白板。",
+                "C. 一个投影屏幕。",
+                "D. 一块黑板。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_102": {
+            "id": "_tvmjsKXTu8_102",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "场景开始时，人手做了什么？",
+            "options": [
+                "A. 人手在白板上写下文字。",
+                "B. 人手完全擦掉了文字。",
+                "C. 人手对文字进行装饰。",
+                "D. 人手将白板移到了一个新位置。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_103": {
+            "id": "_tvmjsKXTu8_103",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "白板上的第一条信息写了什么？",
+            "options": [
+                "A. 写着'THANKS'。",
+                "B. 写着'FREE!'。",
+                "C. 写着'GOODBYE'。",
+                "D. 写着'WELCOME'。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_104": {
+            "id": "_tvmjsKXTu8_104",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "白板上第一条信息中使用了什么颜色？",
+            "options": [
+                "A. 'THANKS' 用红色描边。",
+                "B. 'THANKS' 用绿色描边。",
+                "C. 'THANKS' 用蓝色描边。",
+                "D. 'THANKS' 用黄色描边。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_105": {
+            "id": "_tvmjsKXTu8_105",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "在整个场景中，白板上写了多少条不同的信息？",
+            "options": [
+                "A. 白板上写了一条信息。",
+                "B. 白板上写了两条信息。",
+                "C. 白板上写了三条信息。",
+                "D. 白板上写了四条信息。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_106": {
+            "id": "_tvmjsKXTu8_106",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "场景中的白板是否始终保持空白？",
+            "options": [
+                "A. 是的，白板在始终是空白的。",
+                "B. 不，白板并没有保持空白。",
+                "C. 不，白板只在中途变白。",
+                "D. 不，白板在未被使用。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_107": {
+            "id": "_tvmjsKXTu8_107",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "手在“FREE”这个词上添加了什么轮廓？",
+            "options": [
+                "A. 手在字母上添加了深蓝色的轮廓。",
+                "B. 手在字母上添加了红色的轮廓。",
+                "C. 手在字母上添加了绿色的轮廓。",
+                "D. 手在字母上添加了黑色的轮廓。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_108": {
+            "id": "_tvmjsKXTu8_108",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "手在“FREE!”这个词的内部添加了什么图案？",
+            "options": [
+                "A. 手用绿色锯齿图案给内部着色。",
+                "B. 手用蓝色斜线给内部着色。",
+                "C. 手用黄色点状图案给内部着色。",
+                "D. 手用红色波浪线给内部着色。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_109": {
+            "id": "_tvmjsKXTu8_109",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "手在单词“FREE!”下面画了哪些额外的线？",
+            "options": [
+                "A. 一条是蓝色的，另一条是绿色的",
+                "B. 一条是蓝色的，另一条是红色的",
+                "C. 一条是黄色的，另一条是绿色的",
+                "D. 一条是黄色的，另一条是红色的"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_110": {
+            "id": "_tvmjsKXTu8_110",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "之前被擦除的文字是否完全被擦除？",
+            "options": [
+                "A. 还有淡淡痕迹存在。",
+                "B. 没有任何先前书写的痕迹。",
+                "C. 可以看到明显的痕迹。",
+                "D. 可以看到部分文字。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_111": {
+            "id": "_tvmjsKXTu8_111",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "漩涡状设计在白板上位于“smule”这个词的哪个位置？",
+            "options": [
+                "A. 位于“smule”中字母“l”的上方。",
+                "B. 位于“smule”这个词的正下方。",
+                "C. 位于“smule”这个词的左侧。",
+                "D. 位于“smule”这个词的右侧。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_112": {
+            "id": "_tvmjsKXTu8_112",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "描述的场景的主要设置是什么？",
+            "options": [
+                "A. 白色背景的白板。",
+                "B. 摆放着桌椅的教室。",
+                "C. 放在木桌上的一张空白纸。",
+                "D. 显示彩色文本和动画的数字屏幕。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_113": {
+            "id": "_tvmjsKXTu8_113",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "手在白板上执行了哪些操作？",
+            "options": [
+                "A. 手在白板上进行书写、绘画，以及擦除内容。",
+                "B. 手握着记号笔但在场景中一直没有活动。",
+                "C. 手仅用于擦除白板上的内容。",
+                "D. 手用于清洁白板并在其上贴上贴纸。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_114": {
+            "id": "_tvmjsKXTu8_114",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "场景中握着的笔是什么样的？",
+            "options": [
+                "A. 白色笔杆。",
+                "B. 红色笔杆。",
+                "C. 彩色笔杆。",
+                "D. 蓝色笔杆。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_115": {
+            "id": "_tvmjsKXTu8_115",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "在整个场景中，白板上写了多少行单词或信息？",
+            "options": [
+                "A. 白板上写了一行。",
+                "B. 白板上写了两行。",
+                "C. 白板上写了三行。",
+                "D. 白板上写了四行。"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_116": {
+            "id": "_tvmjsKXTu8_116",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "场景中的光线是否不均匀或过于刺眼？",
+            "options": [
+                "A. 是的，场景中的光线不均匀。",
+                "B. 不，场景中的光线保持均匀且明亮。",
+                "C. 场景中的光线较暗。",
+                "D. 场景中的光线在明亮和黑暗之间交替。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_117": {
+            "id": "_tvmjsKXTu8_117",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "场景中保持了什么摄像机视角？",
+            "options": [
+                "A. 维持正面视角。",
+                "B. 维持俯视视角。",
+                "C. 维持斜视视角。",
+                "D. 维持侧视视角。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_118": {
+            "id": "_tvmjsKXTu8_118",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "在白板上书写时，手是如何移动的？",
+            "options": [
+                "A. 手以一种稳定的速度移动。",
+                "B. 手快速而不规律地移动。",
+                "C. 手慢悠悠地移动。",
+                "D. 手以圆形移动。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_119": {
+            "id": "_tvmjsKXTu8_119",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "擦除白板上的内容时，手是如何移动的？",
+            "options": [
+                "A. 手以稳定的速度移动。",
+                "B. 手移动得快而不规律。",
+                "C. 手保持不动。",
+                "D. 手以随机的方式移动。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_120": {
+            "id": "_tvmjsKXTu8_120",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "场景最后，文本 'THANKS for Watching!' 会发生什么情况？",
+            "options": [
+                "A. 被完全擦掉，留下空白白板。",
+                "B. 被用红色标记笔加下划线。",
+                "C. 被用黄色突出显示以强调。",
+                "D. 被替换为蓝色的小型草书。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_121": {
+            "id": "_tvmjsKXTu8_121",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "在白板上使用了什么视觉元素来强调“Subscribe!”？",
+            "options": [
+                "A. 用蓝色醒目记号笔书写。",
+                "B. 用红色记号笔划了两条下划线。",
+                "C. 用绿色圈起来以突出显示。",
+                "D. 有一个黄色的星形符号。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_122": {
+            "id": "_tvmjsKXTu8_122",
+            "scene": 11,
+            "dimension": "Object Direction",
+            "question": "拿着黑板擦的手从画面的哪个位置出现？",
+            "options": [
+                "A. 在画面的左上部分。",
+                "B. 在画面的左侧部分。",
+                "C. 在画面的中央位置。",
+                "D. 在画面的右上部分。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_123": {
+            "id": "_tvmjsKXTu8_123",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "场景的整体环境是怎样的？",
+            "options": [
+                "A. 场景混乱，背景杂乱。",
+                "B. 场景简约，背景是纯白色。",
+                "C. 场景在户外，背景有绿色植被。",
+                "D. 场景色彩丰富，背景上有各种图案。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_124": {
+            "id": "_tvmjsKXTu8_124",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "场景的整体照明是怎样的？",
+            "options": [
+                "A. 光线不均匀。",
+                "B. 光线柔和且均匀。",
+                "C. 使用自然光。",
+                "D. 光线昏暗。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_125": {
+            "id": "_tvmjsKXTu8_125",
+            "scene": 11,
+            "dimension": "Count",
+            "question": "有多少只手在握持黑板擦？",
+            "options": [
+                "A. 一只手。",
+                "B. 两只手。",
+                "C. 没有手。",
+                "D. 三只手。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_126": {
+            "id": "_tvmjsKXTu8_126",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "场景最后，'smule'标志是否可见？",
+            "options": [
+                "A. 是的，'smule'标志仍然可见。",
+                "B. 不，'smule'标志已从白板上擦去。",
+                "C. 'smule'标志部分可见。",
+                "D. 'smule'标志被另一个图形取代。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_127": {
+            "id": "_tvmjsKXTu8_127",
+            "scene": 11,
+            "dimension": "Fine Grained Action",
+            "question": "手正在用黑板擦做什么动作？",
+            "options": [
+                "A. 手自然地握着。",
+                "B. 手在敲打黑板擦。",
+                "C. 手在黑板擦上滑动。",
+                "D. 手将黑板擦放在白板上。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_128": {
+            "id": "_tvmjsKXTu8_128",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "手相对于黑板擦的位置是怎样的？",
+            "options": [
+                "A. 拇指在黑板擦的右侧边缘。",
+                "B. 拇指在黑板擦的顶部边缘。",
+                "C. 拇指在黑板擦的左侧边缘。",
+                "D. 手只握住黑板擦的角落。"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_129": {
+            "id": "_tvmjsKXTu8_129",
+            "scene": 11,
+            "dimension": "Camera Shot",
+            "question": "这个场景使用了什么拍摄角度？",
+            "options": [
+                "A. 正面视角。",
+                "B. 仰视视角。",
+                "C. 俯视视角。",
+                "D. 侧面视角。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_130": {
+            "id": "_tvmjsKXTu8_130",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "白板上显眼的黑点位于哪里？",
+            "options": [
+                "A. 靠近左下角。",
+                "B. 靠近右上角。",
+                "C. 靠近白板中心。",
+                "D. 靠近右下角。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_131": {
+            "id": "_tvmjsKXTu8_131",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "在手和黑板擦消失后，场景的重点是什么？",
+            "options": [
+                "A. 场景聚焦在白板上。",
+                "B. 场景聚焦在智能手机。",
+                "C. 场景聚焦在没有标记的墙面。",
+                "D. 场景聚焦在重新出现的手。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_132": {
+            "id": "_tvmjsKXTu8_132",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "场景最后，白板表面上可以看到哪些细节？",
+            "options": [
+                "A. 白板表面有轻微的残留痕迹。",
+                "B. 白板表面完全干净。",
+                "C. 白板表面只有一些粗黑色的标记。",
+                "D. 白板表面覆盖着图画和手写内容。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_133": {
+            "id": "_tvmjsKXTu8_133",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "场景最后，白板是否被任何物体遮挡？",
+            "options": [
+                "A. 是的，白板被一部智能手机遮挡。",
+                "B. 是的，白板被一只手遮挡。",
+                "C. 不，白板没有被任何物体遮挡。",
+                "D. 是的，白板被一支记号笔遮挡。"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_134": {
+            "id": "_tvmjsKXTu8_134",
+            "scene": 11,
+            "dimension": "Camera Direction",
+            "question": "在展示白板时，摄像机会移动吗？",
+            "options": [
+                "A. 是的，摄像机在白板周围移动。",
+                "B. 不，摄像机在展示白板时保持静止。",
+                "C. 是的，摄像机对白板进行缩放。",
+                "D. 是的，摄像机横移过白板。"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_135": {
+            "id": "_tvmjsKXTu8_135",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在白板上写下‘Chordophones’之后会发生什么？",
+            "options": [
+                "A. 手拉着几条线条模仿琴弦。",
+                "B. 手转动白板，露出更多笔记。",
+                "C. 白板被翻转，展示另一个演示。",
+                "D. 一个动画序列在白板上播放。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_136": {
+            "id": "_tvmjsKXTu8_136",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在白板上显示“smule”标志后会发生什么？",
+            "options": [
+                "A. 写上“Subscribe!”一词。",
+                "B. 白板保持不变。",
+                "C. 写上“Like and Share”这句话。",
+                "D. 在smule标志上画了一条红线。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_137": {
+            "id": "_tvmjsKXTu8_137",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频如何融入音乐元素？",
+            "options": [
+                "A. 视频包含乐器的绘画。",
+                "B. 视频以动画形式展示了音乐符号。",
+                "C. 视频在白板上展示了音乐名人。",
+                "D. 视频播放背景音乐而没有任何绘画。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_138": {
+            "id": "_tvmjsKXTu8_138",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "该视频如何通过平板融入音乐元素？",
+            "options": [
+                "A. 视频包含具有音乐主题的互动游戏界面。",
+                "B. 视频运用环境音乐与场景切换同步。",
+                "C. 视频展示了与音乐节奏匹配的编排动作。",
+                "D. 视频将静默与突发的音乐音效形成对比。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_139": {
+            "id": "_tvmjsKXTu8_139",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频是如何通过什么教育内容融入音乐元素的？",
+            "options": [
+                "A. 视频中包括关于音乐历史的教育内容。",
+                "B. 视频通过使用乐器创造节奏的教育内容。",
+                "C. 视频展示了一首音乐作品的现场演出。",
+                "D. 视频通过对网络音乐的欣赏。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_140": {
+            "id": "_tvmjsKXTu8_140",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "单词 'Tanbur'最开始是怎样与白板互动的？",
+            "options": [
+                "A. 'Tanbur' 被用记号笔写在白板上。",
+                "B. 一个人擦掉白板上的 'Tanbur'。",
+                "C. 白板上自动显示出 'Tanbur' 这个词。",
+                "D. 将 'Tanbur' 投影到白板上。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_141": {
+            "id": "_tvmjsKXTu8_141",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在白板上介绍“Tanbur”之后会发生什么？",
+            "options": [
+                "A. 相似地介绍了“Sitar”这个词。",
+                "B. 白板被完全擦掉。",
+                "C. 添加了一幅彩色的乐器图画。",
+                "D. 在白板上写了一串名字。"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_142": {
+            "id": "_tvmjsKXTu8_142",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在显示“THANKS for Watching!”信息后，白板会发生什么变化？",
+            "options": [
+                "A. 白板显示一条新信息。",
+                "B. 信息仍然留在白板上。",
+                "C. 信息被完全擦除。",
+                "D. 白板上覆盖着涂鸦。"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_143": {
+            "id": "_tvmjsKXTu8_143",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "“THANKS for Watching!”被擦掉后，上面写了什么？",
+            "options": [
+                "A. 写下了一个新单词“smule”。",
+                "B. 板子保持完全空白。",
+                "C. 用记号笔画了随机的涂鸦和形状。",
+                "D. 用记号笔写下了“Meeting at 3 PM”这句话。"
+            ],
+            "answer": "A"
+        }
+    }
+}

@@ -1,0 +1,1547 @@
+{
+    "scene_hint": {
+        "0": "运动员向前慢步走着。",
+        "1": "运动员加速助跑。",
+        "2": "运动员完成了跳跃。",
+        "3": "运动员躺在了垫子上。",
+        "4": "跳跃画面回放",
+        "5": "场景转变为颁奖典礼。",
+        "6": "场景转变为抽象几何图形画面。"
+    },
+    "qa": {
+        "8y2Hj7GDcwI_0": {
+            "id": "8y2Hj7GDcwI_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "男运动员的位置在哪里？",
+            "options": [
+                "A. 男运动员位于前景。",
+                "B. 男运动员位于背景。",
+                "C. 男运动员位于前排座位上。",
+                "D. 男运动员位于画面角落。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_1": {
+            "id": "8y2Hj7GDcwI_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "记分牌的位置在哪里？",
+            "options": [
+                "A. 记分牌位于图像的左部。",
+                "B. 记分牌位于运动员的正后方。",
+                "C. 记分牌位于图像的右部。",
+                "D. 记分牌位于运动员的头上方。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_2": {
+            "id": "8y2Hj7GDcwI_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这场景的背景是什么？",
+            "options": [
+                "A. 场景设定在展示运动服的艺术画廊。",
+                "B. 场景设定在一场体育比赛。",
+                "C. 场景设定在讨论体育品牌的会议。",
+                "D. 场景设定在购物中心的运动服装区。"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_3": {
+            "id": "8y2Hj7GDcwI_3",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "场景的背景是什么？",
+            "options": [
+                "A. 背景是鲜艳的黄色。",
+                "B. 背景是深蓝色。",
+                "C. 背景是亮红色。",
+                "D. 背景是淡绿色。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_4": {
+            "id": "8y2Hj7GDcwI_4",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "这个男运动员穿的是什么？",
+            "options": [
+                "A. 这名男运动员穿着一件黑色运动背心。",
+                "B. 这名男运动员穿着一件白色运动背心。",
+                "C. 这名男运动员穿着一件蓝色运动背心。",
+                "D. 这名男运动员穿着一件红色运动背心。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_5": {
+            "id": "8y2Hj7GDcwI_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "这个男运动员服装上有什么标识？",
+            "options": [
+                "A. 上面展示了'NEW ZEALAND'字样、彪马标志和银蕨徽章。",
+                "B. 上面有'AUSTRALIA'字样、耐克标志和袋鼠徽章。",
+                "C. 上面有'USA'字样、阿迪达斯标志和鹰徽章。",
+                "D. 上面有'CANADA'字样、锐步标志和枫叶徽章。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_6": {
+            "id": "8y2Hj7GDcwI_6",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "男运动员的服装表明了什么？",
+            "options": [
+                "A. 它表明他代表新西兰。",
+                "B. 它表明他与阿迪达斯有联系。",
+                "C. 它表明他是新西兰队的教练。",
+                "D. 它表明他是跳高裁判。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_7": {
+            "id": "8y2Hj7GDcwI_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "记分板上显示的标题是什么？",
+            "options": [
+                "A. FINAL MEN'S HIGH JUMP",
+                "B. MEN'S 100M SPRINT",
+                "C. FINAL WOMEN'S HIGH JUMP",
+                "D. MEN'S LONG JUMP FINAL"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_8": {
+            "id": "8y2Hj7GDcwI_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "记分牌上最右边一列显示的是什么？",
+            "options": [
+                "A. 国家",
+                "B. 高度",
+                "C. 时间",
+                "D. 积分"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_9": {
+            "id": "8y2Hj7GDcwI_9",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "记分板上显示的一些运动员名字及他们的跳跃高度有哪些？",
+            "options": [
+                "A. Macsweyn (2.28m), Woo (2.28m), Doroshchuk (2.24m), Stefela (2.24m), 其他",
+                "B. Macsweyn (2.35m), Woo (2.30m), Carmoy (2.18m), Stefela (2.24m), 其他",
+                "C. Doroshchuk (2.25m), Thomas (2.20m), Kerr (2.33m), Rivera (2.22m), 其他",
+                "D. McEwen (2.29m), Turner (2.19m), Akamatsu (2.16m), Kobielski (2.21m), 其他"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_10": {
+            "id": "8y2Hj7GDcwI_10",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "记分板上有多少名运动员排名？",
+            "options": [
+                "A. 9名运动员",
+                "B. 10名运动员",
+                "C. 11名运动员",
+                "D. 12名运动员"
+            ],
+            "answer": "D"
+        },
+        "8y2Hj7GDcwI_11": {
+            "id": "8y2Hj7GDcwI_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "记分牌上是否包含名字“KERR”？",
+            "options": [
+                "A. 是的，记分牌上包含名字“KERR”。",
+                "B. 不，记分牌上的名字是“KEPP”。",
+                "C. 名字“KERR”被提及了，但没有出现在记分牌上。",
+                "B. 不，记分牌上的名字是“FERR”。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_12": {
+            "id": "8y2Hj7GDcwI_12",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "背景上的文字是如何排列的？",
+            "options": [
+                "A. 背景上的文字横跨在运动员身后的画面中。",
+                "B. 背景上的文字纵向排列成列。",
+                "C. 背景上的文字以圆形图案显示。",
+                "D. 背景上的文字限制在右下角。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_13": {
+            "id": "8y2Hj7GDcwI_13",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "背景上的文字展示了什么？",
+            "options": [
+                "A. 背景上的文字突出了比赛举办的城市。",
+                "B. 背景上的文字展示了活动的详细日程。",
+                "C. 背景上的文字列出了所有参与者的名字。",
+                "D. 背景上的文字突出了活动的赞助商。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_14": {
+            "id": "8y2Hj7GDcwI_14",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "使用哪种类型的镜头来拍摄运动员？",
+            "options": [
+                "A. 摄像机使用中近距离镜头。",
+                "B. 摄像机使用广角镜头。",
+                "C. 摄像机使用特写镜头。",
+                "D. 摄像机使用远景镜头。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_15": {
+            "id": "8y2Hj7GDcwI_15",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "视频是否表明速度或运动?",
+            "options": [
+                "A. 是的，视频显示运动员在空中运动。",
+                "B. 是的，视频显示运动员在奔跑。",
+                "C. 不，视频显示运动员是静态的。",
+                "D. 是的，视频显示运动员在向前步行。"
+            ],
+            "answer": "D"
+        },
+        "8y2Hj7GDcwI_16": {
+            "id": "8y2Hj7GDcwI_16",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "运动员是朝画面哪个方向移动的？",
+            "options": [
+                "A. 运动员正朝画面左侧移动。",
+                "B. 运动员正朝画面右侧移动。",
+                "C. 运动员正朝画面上方移动。",
+                "D. 运动员正朝画面中心移动。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_17": {
+            "id": "8y2Hj7GDcwI_17",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这段视频发生在哪里？",
+            "options": [
+                "A. 在有篮球场的体育馆里",
+                "B. 在体育场的田径跑道上",
+                "C. 在被草地环绕的网球场上",
+                "D. 在有塑料护栏的溜冰场上"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_18": {
+            "id": "8y2Hj7GDcwI_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这段视频的整体背景是什么？",
+            "options": [
+                "A. 整体背景包括黄色的赞助横幅、模糊的观众。",
+                "B. 整体背景包括一个安静的图书馆。",
+                "C. 整体背景包括一条繁忙的城市街道。",
+                "D. 整体背景包括一个宁静的海滩。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_19": {
+            "id": "8y2Hj7GDcwI_19",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "运动员上身穿着什么？",
+            "options": [
+                "A. 一件设计简洁的黑色无袖运动背心。",
+                "B. 一件亮橙色无袖运动背心。",
+                "C. 一件白色长袖运动上衣。",
+                "D. 一件红色无袖运动背心。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_20": {
+            "id": "8y2Hj7GDcwI_20",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "运动员上身穿着有什么标识？",
+            "options": [
+                "A. 上面印有“NEW ZEALAND”、彪马标志和银蕨徽章。",
+                "B. 上面印有“AUSTRALIA”、耐克标志和袋鼠徽章。",
+                "C. 上面印有“USA”、阿迪达斯标志和鹰徽章。",
+                "D. 上面印有“CHINA”、锐步标志和龙徽章。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_21": {
+            "id": "8y2Hj7GDcwI_21",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "运动员下半身穿着什么？",
+            "options": [
+                "A. 黑色短裤",
+                "B. 亮橙色运动裤",
+                "C. 黑白相间的短裤",
+                "D. 带白色图案的蓝色短裤"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_22": {
+            "id": "8y2Hj7GDcwI_22",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "这位运动员穿着什么鞋子？",
+            "options": [
+                "A. 鲜橙色运动鞋",
+                "B. 红白相间的跑鞋",
+                "C. 黑白运动鞋",
+                "D. 蓝绿色田径鞋"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_23": {
+            "id": "8y2Hj7GDcwI_23",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "视频中有多少个不同的赞助横幅是可见的？",
+            "options": [
+                "A. 两个不同的黄色赞助横幅",
+                "B. 三个不同的黄色赞助横幅",
+                "C. 四个不同的黄色赞助横幅",
+                "D. 不明确赞助横幅的数量，但它们是黄色的"
+            ],
+            "answer": "D"
+        },
+        "8y2Hj7GDcwI_24": {
+            "id": "8y2Hj7GDcwI_24",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "该视频是否包含排行榜叠加面板？",
+            "options": [
+                "A. 是的，但排行榜叠加面板折叠成了一行“MEN'S HIGH JUMP|FINAL”。",
+                "B. 不，该视频不包含排行榜叠加面板。",
+                "C. 是的，该视频包含一个排行榜叠加面板，但不会发生变化。",
+                "D. 不，该视频只显示运动员，没有任何其他标识。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_25": {
+            "id": "8y2Hj7GDcwI_25",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "镜头是以哪种视角捕捉运动员的动作？",
+            "options": [
+                "A. 镜头以中等广角视角捕捉运动员的动作。",
+                "B. 镜头完全以俯视视角捕捉运动员的动作。",
+                "C. 镜头专注于从固定的侧面角度捕捉运动员的动作。",
+                "D. 镜头始终以低角度、地面视角捕捉运动员的动作。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_26": {
+            "id": "8y2Hj7GDcwI_26",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "视频中捕捉到的运动员动作是什么样的？",
+            "options": [
+                "A. 运动员助跑速度逐渐加快。",
+                "B. 运动员从跑步转变为慢跑。",
+                "C. 运动员从地面上拉伸过渡到坐在长凳上。",
+                "D. 运动员从绕场散步转变为坐在看台上。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_27": {
+            "id": "8y2Hj7GDcwI_27",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "在画面中，高跳杆的设置相对于运动员的位置在哪里？",
+            "options": [
+                "A. 高跳杆的设置位于画面的左边。",
+                "B. 高跳杆的设置位于画面的右边。",
+                "C. 高跳杆的设置位于画面的中心。",
+                "D. 高跳杆的设置位于画面的下方。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_28": {
+            "id": "8y2Hj7GDcwI_28",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频中场景前景的特征是什么？",
+            "options": [
+                "A. 场景前景是一个标有标志线的田径跑道。",
+                "B. 前景包括看台上模糊的观众。",
+                "C. 前景被明亮的黄色横幅主导。",
+                "D. 前景显示了高跳用的带衬垫横杆装置。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_29": {
+            "id": "8y2Hj7GDcwI_29",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频场景中使用了什么样的照明？",
+            "options": [
+                "A. 视频场景使用了专业的体育场照明。",
+                "B. 视频场景的光线昏暗且柔和。",
+                "C. 视频场景有自然阳光。",
+                "D. 视频场景有色彩斑斓的闪烁灯光。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_30": {
+            "id": "8y2Hj7GDcwI_30",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "在视频中，运动员是以什么方式接近跳高杆的？",
+            "options": [
+                "A. 运动员正在缓慢地接近。",
+                "B. 运动员正在快速有力地接近。",
+                "C. 运动员正在杂乱无章地接近。",
+                "D. 运动员正在犹豫不决地接近。"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_31": {
+            "id": "8y2Hj7GDcwI_31",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "在视频中运动员的手臂如何移动？",
+            "options": [
+                "A. 他的手臂静止在身体两侧。",
+                "B. 他的手臂调整以平衡他冲刺时的动量。",
+                "C. 他的手臂交叉在胸前。",
+                "D. 他的手臂举过头顶。"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_32": {
+            "id": "8y2Hj7GDcwI_32",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "背景中的观众是否清晰可见？",
+            "options": [
+                "A. 是的，观众的形象清晰明确。",
+                "B. 不，观众是模糊不清的。",
+                "C. 是的，观众成员易于辨认。",
+                "D. 不，场景中完全没有观众。"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_33": {
+            "id": "8y2Hj7GDcwI_33",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "运动员在接近跳高横杆时朝哪个方向前进？",
+            "options": [
+                "A. 运动员正朝向跳高横杆。",
+                "B. 运动员正背离跳高横杆。",
+                "C. 运动员与跳高横杆平行奔跑。",
+                "D. 运动员围绕跳高横杆做圆周运动。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_34": {
+            "id": "8y2Hj7GDcwI_34",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "使用了哪种相机角度来捕捉这个场景？",
+            "options": [
+                "A. 使用了高角度拍摄。",
+                "B. 使用了低角度拍摄。",
+                "C. 使用了平视角度。",
+                "D. 使用了俯视角度。"
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_35": {
+            "id": "8y2Hj7GDcwI_35",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "在跳高杆旁的人相对于运动员跑道的位置在哪里？",
+            "options": [
+                "A. 位于画面左侧，靠近跑道。",
+                "B. 位于画面右侧，靠近观众座位区。",
+                "C. 位于跑道的远端，站在跳高杆附近。",
+                "D. 位于画面中央，正在穿越跑道。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_36": {
+            "id": "8y2Hj7GDcwI_36",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "运动员表现出了哪些动作？",
+            "options": [
+                "A. 运动员以更强的专注和力度加速，并有意识地甩动双臂以保持平衡。",
+                "B. 运动员正在以稳定的速度慢跑，环视体育场，并仅作少量的手臂动作。",
+                "C. 运动员静立不动，等待轮到自己，同时观察观众。",
+                "D. 运动员慢慢走动，举起双臂保持平衡，保持放松的姿态。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_37": {
+            "id": "8y2Hj7GDcwI_37",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "运动员穿的是什么颜色的号码布？",
+            "options": [
+                "A. 运动员穿着红色的号码布。",
+                "B. 运动员穿着蓝色的号码布。",
+                "C. 运动员穿着白色的号码布。",
+                "D. 运动员穿着黑色的号码布。"
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_38": {
+            "id": "8y2Hj7GDcwI_38",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "当镜头向左移动时，第二个黄色设备会发生什么？",
+            "options": [
+                "A. 黄色设备进一步移入背景。",
+                "B. 黄色设备变得更加显眼。",
+                "C. 黄色设备从视野中消失。",
+                "D. 黄色设备保持不动。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_39": {
+            "id": "8y2Hj7GDcwI_39",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "相机的摇摄运动对场景的构图有何影响？",
+            "options": [
+                "A. 摇摄运动扩大了视角，引入了新的元素。",
+                "B. 摇摄运动缩小了视角，只集中在跳高架的设置上。",
+                "C. 摇摄运动使运动员模糊，突出背景中的观众。",
+                "D. 摇摄运动移除了静态叠加文本，集中在黄色设备上。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_40": {
+            "id": "8y2Hj7GDcwI_40",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "相机的平移运动如何影响跳高横杆的设置？",
+            "options": [
+                "A. 平移运动使跳高横杆的设置变得模糊。",
+                "B. 平移运动使跳高横杆的设置更加清晰。",
+                "C. 平移运动使跳高横杆的设置看起来更近。",
+                "D. 平移运动使跳高横杆的设置在画面中更加显眼。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_41": {
+            "id": "8y2Hj7GDcwI_41",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "镜头的平移运动对场景的焦点有什么影响？",
+            "options": [
+                "A. 平移运动将运动员突出为焦点。",
+                "B. 平移运动聚焦于右上角背景中的观众。",
+                "C. 平移运动使裁判员或观察者成为关注的焦点。",
+                "D. 平移运动突出了左下角的红色软垫区域。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_42": {
+            "id": "8y2Hj7GDcwI_42",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "在整个场景中，什么文字保持静止？",
+            "options": [
+                "A. 左下角的“MEN'S HIGH JUMP|FINAL”。",
+                "B. 左下角的红色垫子区域。",
+                "C. 早期画面中可见的黄色设备。",
+                "D. 运动员运动衫上的“新西兰”字样。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_43": {
+            "id": "8y2Hj7GDcwI_43",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "摄影师相对于运动员的位置在哪里？",
+            "options": [
+                "A. 摄影师位于运动员的左后方。",
+                "B. 摄影师位于运动员的右前方。",
+                "C. 摄影师位于运动员的左前方。",
+                "D. 摄影师位于运动员的右后方。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_44": {
+            "id": "8y2Hj7GDcwI_44",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "这段视频的背景是哪里？",
+            "options": [
+                "A. 视频的背景是室内田径场景。",
+                "B. 视频的背景是田径运动员的户外训练设施。",
+                "C. 视频的背景是在一个公共公园。",
+                "D. 视频的背景是在篮球锦标赛的体育馆。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_45": {
+            "id": "8y2Hj7GDcwI_45",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "视频中垫子旁的摄影师在做什么？",
+            "options": [
+                "A. 摄影师站着正对他的相机。",
+                "B. 摄影师站着挥手。",
+                "C. 摄影师坐着调整灯光。",
+                "D. 摄影师跑着呼叫支援。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_46": {
+            "id": "8y2Hj7GDcwI_46",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "可以看到哪些设备？",
+            "options": [
+                "A. 可以看到红蓝相间的软垫以及部分跳高装置。",
+                "B. 可以看到电子屏幕以及部分跑道。",
+                "C. 可以看到橙色条纹杆以及分层的观众席。",
+                "D. 可以看到红白相间的软垫以及部分跳高装置。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_47": {
+            "id": "8y2Hj7GDcwI_47",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "场景中可以看到多少位摄影师？",
+            "options": [
+                "A. 一位摄影师",
+                "B. 两位摄影师",
+                "C. 三位摄影师",
+                "D. 没有摄影师"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_48": {
+            "id": "8y2Hj7GDcwI_48",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "跳跃运动员的上半身在视频中可见吗？",
+            "options": [
+                "A. 是的，只有跳跃运动员的上半身是可见的。",
+                "B. 不，跳跃运动员的上半身完全不可见。",
+                "C. 只有运动员的头和手臂是可见的。",
+                "D. 运动员的整个身体都是可见的。"
+            ],
+            "answer": "D"
+        },
+        "8y2Hj7GDcwI_49": {
+            "id": "8y2Hj7GDcwI_49",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "运动员腾空最高点时的身体是朝哪个方向的？",
+            "options": [
+                "A. 跳高杆在运动员的身体正上方。",
+                "B. 跳高杆在运动员的身体正下方。",
+                "C. 跳高杆在运动员的身体前方。",
+                "D. 跳高杆在运动员的身体侧面。"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_50": {
+            "id": "8y2Hj7GDcwI_50",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "摄像机在这一场景中使用了什么视角？",
+            "options": [
+                "A. 摄像机使用了俯视视角。",
+                "B. 摄像机使用了侧面视角。",
+                "C. 摄像机使用了正面视角。",
+                "D. 摄像机使用了特写视角。"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_51": {
+            "id": "8y2Hj7GDcwI_51",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "屏幕上叠加了什么文字以强调场景的背景？",
+            "options": [
+                "A. 'MEN'S HIGH JUMP | FINAL'",
+                "B. 'WOMEN'S HIGH JUMP | FINAL'",
+                "C. 'MEN'S LONG JUMP | FINAL'",
+                "D. 'MEN'S HIGH JUMP | SEMIFINAL'"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_52": {
+            "id": "8y2Hj7GDcwI_52",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "男运动员相对于蓝色垫子的位置在哪里？",
+            "options": [
+                "A. 男运动员仰面躺在蓝色垫子上。",
+                "B. 男运动员坐在蓝色垫子旁边。",
+                "C. 男运动员站在蓝色垫子旁边。",
+                "D. 男运动员跪在蓝色垫子上。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_53": {
+            "id": "8y2Hj7GDcwI_53",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "视频中的场景发生在哪里？",
+            "options": [
+                "A. 场景发生在一个室内跳高比赛场地。",
+                "B. 场景发生在海滩上的冲浪活动期间。",
+                "C. 场景发生在户外的马拉松比赛中。",
+                "D. 场景发生在繁忙的城市街道比赛中。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_54": {
+            "id": "8y2Hj7GDcwI_54",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "垫子上有什么样的图案？",
+            "options": [
+                "A. 垫子上有动态的抽象图案。",
+                "B. 垫子上有带有圆形和方形的几何图案。",
+                "C. 垫子上有不同颜色的宽线条。",
+                "D. 垫子上有柔和色调的花卉图案。"
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_55": {
+            "id": "8y2Hj7GDcwI_55",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "垫子上有哪些颜色？",
+            "options": [
+                "A. 垫子上有粉色和绿色的色调。",
+                "B. 垫子上是完全蓝色的。",
+                "C. 垫子上有紫色和黄色的色调。",
+                "D. 垫子上有黄色和蓝色的图案。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_56": {
+            "id": "8y2Hj7GDcwI_56",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "视频帧中有多少文本覆盖?",
+            "options": [
+                "A. 视频帧中有一个文本覆盖。",
+                "B. 视频帧中有两个文本覆盖。",
+                "C. 视频帧中有三个文本覆盖。",
+                "D. 视频帧中没有文本覆盖。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_57": {
+            "id": "8y2Hj7GDcwI_57",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "视频场景中是否有红色跑道？",
+            "options": [
+                "A. 是的，视频场景中有红色跑道。",
+                "B. 场景中仅显示了一个白色跑道。",
+                "C. 场景中仅显示了一个绿色跑道。",
+                "D. 场景中没有可见的跑道。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_58": {
+            "id": "8y2Hj7GDcwI_58",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "男性运动员在垫子上躺着时，对自己的姿势做了哪些调整？",
+            "options": [
+                "A. 男性运动员将双臂展开放下。",
+                "B. 男性运动员站起来并在垫子周围走动。",
+                "C. 男性运动员在垫子上进行拉伸训练。",
+                "D. 男性运动员没有动作变化。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_59": {
+            "id": "8y2Hj7GDcwI_59",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "男性运动员的哪些动作表明他处于自然的赛后恢复状态？",
+            "options": [
+                "A. 男性运动员胸膛的起伏表明他处于自然的赛后恢复状态。",
+                "B. 男性运动员的突然跳跃和跑动表明他在为下一次尝试做准备。",
+                "C. 男性运动员僵硬且静止的姿态表明他正在深度集中注意力。",
+                "D. 男性运动员持续与教练互动表明他正在讨论策略。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_60": {
+            "id": "8y2Hj7GDcwI_60",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "男运动员的上半身朝哪个方向移动？",
+            "options": [
+                "A. 男运动员的上半身正向背景方向移动。",
+                "B. 男运动员的上半身正向垫子的左侧移动。",
+                "C. 男运动员的上半身正向前景方向移动。",
+                "D. 男运动员的上半身不可见。"
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_61": {
+            "id": "8y2Hj7GDcwI_61",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "镜头的视角在画面中是如何变化的？",
+            "options": [
+                "A. 摄像机的角度收紧并靠近运动员。",
+                "B. 摄像机拉远。",
+                "C. 摄像机切换为广角视图。",
+                "D. 摄像机聚焦在跳高器材上。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_62": {
+            "id": "8y2Hj7GDcwI_62",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "近景镜头突出了什么？",
+            "options": [
+                "A. 近景镜头突出了他的放松姿态、穿着、上半身以及肌肉线条。",
+                "B. 近景镜头突出了垫子上鲜艳的图案。",
+                "C. 近景镜头突出了红色跑道及其清晰的白色线条。",
+                "D. 近景镜头突出了结构元素，比如红白相间的条纹杆。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_63": {
+            "id": "8y2Hj7GDcwI_63",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "关于场景变化的速度可以说是什么样的？",
+            "options": [
+                "A. 场景的变化是微妙和逐渐的。",
+                "B. 场景的变化是迅速和动态的。",
+                "C. 场景的变化是突然和缓慢的。",
+                "D. 场景的变化是不存在的。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_64": {
+            "id": "8y2Hj7GDcwI_64",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "左下角的哪个视觉元素强化了竞争环境？",
+            "options": [
+                "A. 文字'MEN'S HIGH JUMP | FINAL'",
+                "B. 红白相间的积分排行榜",
+                "C. 倒计时的电子屏",
+                "D. 文字'MEN'S HIGH JUMP |Semifinals'"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_65": {
+            "id": "8y2Hj7GDcwI_65",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "运动员与橙白色杆之间的空间关系是什么？",
+            "options": [
+                "A. 运动员正在握住橙白色杆。",
+                "B. 橙白色杆部分遮挡了运动员的下半身。",
+                "C. 橙白色杆躺在运动员旁边。",
+                "D. 橙白色杆在运动员的头上方。"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_66": {
+            "id": "8y2Hj7GDcwI_66",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "运动员显著的外貌特征是什么？",
+            "options": [
+                "A. 这位运动员有一头棕色短发。",
+                "B. 这位运动员有一头金色长发。",
+                "C. 这位运动员是剃干净的脸庞和黑发。",
+                "D. 这位运动员留着胡子和卷发。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_67": {
+            "id": "8y2Hj7GDcwI_67",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "运动员穿着什么？",
+            "options": [
+                "A. 红色运动装",
+                "B. 绿色运动装",
+                "C. 黑色运动装",
+                "D. 白色运动装"
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_68": {
+            "id": "8y2Hj7GDcwI_68",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "运动员在视频中垫子上的位置是否发生变化？",
+            "options": [
+                "A. 是的，运动员多次改变了位置。",
+                "B. 不，运动员的位置始终不变。",
+                "C. 是的，运动员偶尔会移动他的腿。",
+                "D. 是的，运动员经常站起又躺下。"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_69": {
+            "id": "8y2Hj7GDcwI_69",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "运动员在视频中用他的头做什么？",
+            "options": [
+                "A. 他微微把头转向左边。",
+                "B. 他把头向后倾斜。",
+                "C. 他把头转向右边。",
+                "D. 他保持头部不动。"
+            ],
+            "answer": "D"
+        },
+        "8y2Hj7GDcwI_70": {
+            "id": "8y2Hj7GDcwI_70",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "叠加的白色椭圆线延伸的方向是哪个？",
+            "options": [
+                "A. 叠加的白色椭圆线向左上延伸。",
+                "B. 叠加的白色椭圆线向内延伸。",
+                "C. 叠加的白色椭圆线向右下延伸。",
+                "D. 叠加的白色椭圆线水平延伸。"
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_71": {
+            "id": "8y2Hj7GDcwI_71",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "镜头如何切换以聚焦在运动员伸展的手臂上？",
+            "options": [
+                "A. 摄像机由远逐渐拉近镜头。",
+                "B. 摄像机直接放大运动员的手臂。",
+                "C. 摄像机移动到俯视角度。",
+                "D. 摄像机沿着蓝色垫子平移。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_72": {
+            "id": "8y2Hj7GDcwI_72",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "添加了什么视觉元素以过渡画面？",
+            "options": [
+                "A. 叠加的白色椭圆线",
+                "B. 垫子上的绿色和白色元素",
+                "C. 橙色和白色的杆子",
+                "D. 红色和灰色的跑道线"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_73": {
+            "id": "8y2Hj7GDcwI_73",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "运动员在跳跃过程中处于什么位置？",
+            "options": [
+                "A. 运动员位于水平杆的上方。",
+                "B. 运动员位于水平杆的下方。",
+                "C. 运动员位于水平杆的旁边。",
+                "D. 运动员位于水平杆的边缘。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_74": {
+            "id": "8y2Hj7GDcwI_74",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频中描绘的是什么类型的场地？",
+            "options": [
+                "A. 室内体育馆",
+                "B. 室外田径场",
+                "C. 用于训练的健身房",
+                "D. 娱乐公园"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_75": {
+            "id": "8y2Hj7GDcwI_75",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频中正在进行哪些活动？",
+            "options": [
+                "A. 有观众观看的跳高比赛。",
+                "B. 激烈竞争的篮球比赛。",
+                "C. 有观众呐喊助威的游泳比赛。",
+                "D. 有现场乐队伴奏的体操表演。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_76": {
+            "id": "8y2Hj7GDcwI_76",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "运动员在空中跳跃时的穿着是什么？",
+            "options": [
+                "A. 穿着一套黑白相间的制服，脚穿橙色的运动鞋。",
+                "B. 穿着一套深蓝色的制服，脚穿银色的跑鞋。",
+                "C. 穿着一套全黑色的制服，脚穿黄色的运动鞋。",
+                "D. 穿着一套红白相间的制服，脚穿白色的运动鞋。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_77": {
+            "id": "8y2Hj7GDcwI_77",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "高跳杆有哪些视觉特征？",
+            "options": [
+                "A. 高跳杆是鲜艳的品红色。",
+                "B. 高跳杆是亮黄色的。",
+                "C. 高跳杆是鲜艳的橙色。",
+                "D. 高跳杆是金属银色的。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_78": {
+            "id": "8y2Hj7GDcwI_78",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "支撑跳高杆的立柱有哪些视觉特征？",
+            "options": [
+                "A. 立柱是橙色和黄色的。",
+                "B. 立柱是黑色的。",
+                "C. 立柱是红色和蓝色的。",
+                "D. 立柱是绿色的，。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_79": {
+            "id": "8y2Hj7GDcwI_79",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "有多少运动员展示了体育动作？",
+            "options": [
+                "A. 展示了一位运动员。",
+                "B. 展示了两位运动员。",
+                "C. 展示了三位运动员。",
+                "D. 展示了四位运动员。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_80": {
+            "id": "8y2Hj7GDcwI_80",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "运动员正在进行哪些运动动作？",
+            "options": [
+                "A. 运动员正在进行跳高。",
+                "B. 运动员正在进行跳远。",
+                "C. 运动员正在进行跳高。",
+                "D. 运动员正在进行撑杆跳。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_81": {
+            "id": "8y2Hj7GDcwI_81",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "运动员越过了横杆吗？",
+            "options": [
+                "A. 是的，运动员越过了横杆。",
+                "B. 不，跳高运动员没有越过去。",
+                "C. 运动员没有尝试跳高。",
+                "D. 运动员被描绘为在跑道上奔跑。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_82": {
+            "id": "8y2Hj7GDcwI_82",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "运动员使用什么技术来越过横杆？",
+            "options": [
+                "A. 运动员使用“背越式”技术。",
+                "B. 运动员使用“剪式跳”技术。",
+                "C. 运动员使用“侧手翻”技术。",
+                "D. 运动员使用“前空翻”技术。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_83": {
+            "id": "8y2Hj7GDcwI_83",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "在抽象场景中，弯曲的白色弧线是朝哪个方向流动的？",
+            "options": [
+                "A. 弯曲的白色弧线从右上角流向左下角。",
+                "B. 弯曲的白色弧线从左下角流向右上角。",
+                "C. 弯曲的白色弧线从左上角流向右下角。",
+                "D. 弯曲的白色弧线从右下角流向左上角。"
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_84": {
+            "id": "8y2Hj7GDcwI_84",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "摄影机角度是否会改变焦点？",
+            "options": [
+                "A. 是的，摄影机角度改变了一次焦点。",
+                "B. 不，摄影机角度始终保持静止。",
+                "A. 是的，摄影机角度改变了三次焦点。",
+                "D. 不，摄影机角度稍微拉远但未改变焦点。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_85": {
+            "id": "8y2Hj7GDcwI_85",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "第二个镜头角度强调了什么视角？",
+            "options": [
+                "A. 它详细捕捉了运动员的面部表情。",
+                "B. 它用略微低角度的特写镜头突出表现了跳跃的高度。",
+                "C. 它从广角镜头集中展现了观众的反应。",
+                "D. 它提供了一个俯视图，突出了整个体育场的布局。"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_86": {
+            "id": "8y2Hj7GDcwI_86",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "在第一个镜头角度里使用了哪种类型的摄影镜头？",
+            "options": [
+                "A. 使用了一个特写镜头。",
+                "B. 使用了一个广角镜头。",
+                "C. 使用了一个俯拍镜头。",
+                "D. 使用了一个侧视镜头。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_87": {
+            "id": "8y2Hj7GDcwI_87",
+            "scene": 4,
+            "dimension": "Speed",
+            "question": "运动员在垫子上时，运动速度会如何变化？",
+            "options": [
+                "A. 速度非常慢，因为运动员在跳跃后放松躺在垫子上。",
+                "B. 速度很快，因为运动员正在为下一次跳跃做准备。",
+                "C. 速度适中，因为运动员在垫子上伸展身体。",
+                "D. 速度正在增加，因为运动员在练习跳跃技巧。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_88": {
+            "id": "8y2Hj7GDcwI_88",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "哈米什·克尔相对于其他奖牌获得者的位置在哪里？",
+            "options": [
+                "A. Hamish Kerr位于领奖台上第三名的左侧。",
+                "B. Hamish Kerr位于领奖台上第二名的右侧。",
+                "C. Hamish Kerr位于领奖台上第一名的位置。",
+                "D. Hamish Kerr未上领奖台没有名次。"
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_89": {
+            "id": "8y2Hj7GDcwI_89",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景的背景是什么？",
+            "options": [
+                "A. 场景设定在一个室内体育馆。",
+                "B. 场景设定在一个户外的奥林匹克田径场。",
+                "C. 场景设定在一个娱乐大厅。",
+                "D. 场景设定在一个社区体育中心。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_90": {
+            "id": "8y2Hj7GDcwI_90",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景中有哪些结构元素？",
+            "options": [
+                "A. 场景包括颁奖台和照明设备。",
+                "B. 场景包括大型奖杯陈列柜和金色拱门。",
+                "C. 场景包括喷泉和装饰性雕像。",
+                "D. 场景包括悬挂式记分牌和悬挂横幅。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_91": {
+            "id": "8y2Hj7GDcwI_91",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "场景中可以看到哪些广告？",
+            "options": [
+                "A. 有带有'TDK'品牌的数字广告板。",
+                "B. 墙上明显展示了可口可乐的广告。",
+                "C. 体育场周围的横幅上有耐克的标志。",
+                "D. 场景中没有可见的广告。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_92": {
+            "id": "8y2Hj7GDcwI_92",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "颁奖典礼现场能看到观众吗？",
+            "options": [
+                "A. 看台上坐满了欢呼的观众。",
+                "B. 可以看到一些空着的观众席。",
+                "C. 看台上完全空无一人，没有座位可见。",
+                "D. 可以看到观众挥舞旗帜并欢呼。"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_93": {
+            "id": "8y2Hj7GDcwI_93",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "金牌得主Hamish Kerr在颁奖仪式上做了什么动作？",
+            "options": [
+                "A. Hamish Kerr自豪地高举双臂举起新西兰国旗。",
+                "B. Hamish Kerr跪下来系鞋带。",
+                "C. Hamish Kerr用双手向观众挥手。",
+                "D. Hamish Kerr从领奖台上翻了个后空翻。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_94": {
+            "id": "8y2Hj7GDcwI_94",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "银牌得主Shelby McEwen在颁奖仪式上做了什么动作？",
+            "options": [
+                "A. Shelby McEwen披着美国国旗举起双臂。",
+                "B. Shelby McEwen表演了一段舞蹈。",
+                "C. Shelby McEwen向观众鞠躬。",
+                "D. Shelby McEwen发表了讲话。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_95": {
+            "id": "8y2Hj7GDcwI_95",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "铜牌得主Sanghyeok Woo在颁奖仪式上做了什么动作？",
+            "options": [
+                "A. Sanghyeok Woo举起双臂，同时握住韩国国旗。",
+                "B. Sanghyeok Woo用双手向观众挥手。",
+                "C. Sanghyeok Woo鞠躬以表达对观众的感谢。",
+                "D. Sanghyeok Woo用一只手握住韩国国旗，另一只手指向记分牌。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_96": {
+            "id": "8y2Hj7GDcwI_96",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "铜牌得主手持的国旗上有哪些可见的图案？",
+            "options": [
+                "A. 黑色的四卦符号",
+                "B. 红白条纹以及一颗蓝色星星",
+                "C. 一片红色的枫叶",
+                "D. 一棵绿色的雪松树"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_97": {
+            "id": "8y2Hj7GDcwI_97",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "有多少名运动员站在领奖台上？",
+            "options": [
+                "A. 两名运动员",
+                "B. 三名运动员",
+                "C. 四名运动员",
+                "D. 一名运动员"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_98": {
+            "id": "8y2Hj7GDcwI_98",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "下面运动员下方的记分牌是否显示比赛项目和结果？",
+            "options": [
+                "A. 是的，运动员下方的记分牌显示比赛项目和结果。",
+                "B. 不，记分牌只显示广告。",
+                "C. 不，它只显示运动员的名字，不显示结果。",
+                "D. 不，颁奖典礼期间记分牌是关闭的。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_99": {
+            "id": "8y2Hj7GDcwI_99",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "颁奖典礼使用了什么镜头来表现欢庆氛围？",
+            "options": [
+                "A. 一个特写或中景镜头。",
+                "B. 一个微距镜头。",
+                "C. 一个俯拍镜头。",
+                "D. 一个远景镜头。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_100": {
+            "id": "8y2Hj7GDcwI_100",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "根据领奖台上的文字，金牌得主取得了什么成绩？",
+            "options": [
+                "A. 金牌得主完成了一次跳跃，成绩为2.36米。",
+                "B. 金牌得主完成了一次跳跃，成绩为2.28米。",
+                "C. 金牌得主完成了一次跳跃，成绩为2.42米。",
+                "D. 金牌得主完成了一次跳跃，成绩为2.30米。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_101": {
+            "id": "8y2Hj7GDcwI_101",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "银牌和铜牌得主在领奖台上的成绩如何？",
+            "options": [
+                "A. 银牌和铜牌得主成绩都是2.28米。",
+                "B. 银牌得主成绩为2.30米，而铜牌得主成绩为2.28米。",
+                "C. 银牌得主成绩为2.28米，而铜牌得主成绩为2.26米。",
+                "D. 银牌和铜牌得主成绩都是2.30米。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_102": {
+            "id": "8y2Hj7GDcwI_102",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "在抽象场景转换时，哪个物体成为中心元素？",
+            "options": [
+                "A. 抽象的、棱角分明的几何图形",
+                "B. 一个带有 X 图案的纯紫色区域",
+                "C. 一个带有交叉对角线的蓝色网格",
+                "D. 由粉色和紫红色半圆弧组成的彩虹状图案"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_103": {
+            "id": "8y2Hj7GDcwI_103",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "视频的最后一幕是否有嵌入任何文字？",
+            "options": [
+                "A. 是的，最后一幕中有嵌入英文文字。",
+                "B. 不，最后一幕中没有文字。",
+                "C. 是的，但文字只有部分可见。",
+                "D. 是的，最后一幕中有嵌入中英双语文字。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_104": {
+            "id": "8y2Hj7GDcwI_104",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "视频的最后一幕中包含了哪些文字？",
+            "options": [
+                "A. 'WORLD ATHLETICS,' 'INDOOR CHAMPIONSHIPS,'和'GLASGOW 24.'",
+                "B. 'WORLD CHAMPIONS,' 'HIGH JUMP FINALS,'和'GLASGOW 24.'",
+                "C. 'INDOOR ATHLETICS,' 'WORLD FINALS,'和'GLASGOW 2024.'",
+                "D. 'ATHLETICS CHAMPIONSHIPS,' 'MEN'S HIGH JUMP,'和'GLASGOW 24.'"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_105": {
+            "id": "8y2Hj7GDcwI_105",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "绿钻形状在转换过程中如何改变？",
+            "options": [
+                "A. 形状扩展成带有锯齿图案的圆形。",
+                "B. 变成一个抽象的、有棱角的形状。",
+                "C. 分裂成多个较小的绿色六边形。",
+                "D. 变成一个具有蓝色边界的平坦矩形横幅。"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_106": {
+            "id": "8y2Hj7GDcwI_106",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "背景上的浅色线条是如何相交的？",
+            "options": [
+                "A. 以交叉的方式相交。",
+                "B. 以螺旋的方式相交。",
+                "C. 以平行的方式相交。",
+                "D. 以圆形的方式相交。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_107": {
+            "id": "8y2Hj7GDcwI_107",
+            "scene": 6,
+            "dimension": "Speed",
+            "question": "视频中抽象主题之间的转换速度是如何变化的？",
+            "options": [
+                "A. 转换是突然且快速的。",
+                "B. 转换是平滑且逐渐的。",
+                "C. 转换是不稳定且不一致的。",
+                "D. 转换是瞬间发生的。"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_108": {
+            "id": "8y2Hj7GDcwI_108",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "背景是什么颜色？",
+            "options": [
+                "A. 背景变成深蓝色网格。",
+                "B. 背景变成亮红色网格。",
+                "C. 背景变成深紫色网格。",
+                "D. 背景变成浅绿色网格。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_109": {
+            "id": "8y2Hj7GDcwI_109",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "黑衣运动员在第一个镜头中做什么？",
+            "options": [
+                "A. 运动员处于准备的接近静止状态。",
+                "B. 运动员正在跃过高跳横杆，在空中庆祝。",
+                "C. 运动员正向观众挥手，手里拿着奖牌。",
+                "D. 运动员坐在地上系鞋带。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_110": {
+            "id": "8y2Hj7GDcwI_110",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "运动员完成跳跃后会发生什么？",
+            "options": [
+                "A. 运动员在跑道附近与观众一起庆祝。",
+                "B. 运动员躺在蓝色跳高垫上，呈放松状态。",
+                "C. 运动员立即走向颁奖区。",
+                "D. 运动员紧接着进行另一次跳跃。"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_111": {
+            "id": "8y2Hj7GDcwI_111",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "男子跳高项目领奖仪式后关注的焦点是什么？",
+            "options": [
+                "A. 关注点转向与跳高运动员的采访。",
+                "B. 关注点转向一段展示几何图案的抽象场景。",
+                "C. 关注点转向一场包含烟花和音乐的庆祝活动。",
+                "D. 关注点转向锦标赛其他田径项目的集锦。"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_112": {
+            "id": "8y2Hj7GDcwI_112",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在比赛中，黑衣运动员的制服上有哪些品牌元素？",
+            "options": [
+                "A. 制服上印有‘NEW ZEALAND’和Puma标志。",
+                "B. 制服上印有‘USA’和Adidas标志。",
+                "C. 制服上印有‘SOUTH KOREA’和Nike标志。",
+                "D. 制服上印有‘GLASGOW 24’和Reebok徽标。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_113": {
+            "id": "8y2Hj7GDcwI_113",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "比赛中，运动员的制服有哪些设计元素？",
+            "options": [
+                "A. 制服包括一个叶片徽标。",
+                "B. 制服上有一个星形徽标。",
+                "C. 制服有一个格子图案。",
+                "D. 制服有条纹元素。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_114": {
+            "id": "8y2Hj7GDcwI_114",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "描述如何将真实世界的运动动作与视觉特效相结合？",
+            "options": [
+                "A. 描述将详细的真实运动场景与视觉特效的过渡相结合。",
+                "B. 它仅关注活动的抽象视觉效果，忽略了任何真实世界的运动动作。",
+                "C. 描述中只展现了颁奖台庆祝场景，没有过渡到任何抽象视觉效果。",
+                "D. 场景中展示运动员在进行不同的运动项目，随后出现不相关的抽象视觉效果。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_115": {
+            "id": "8y2Hj7GDcwI_115",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "颁奖台庆典之前会发生什么？",
+            "options": [
+                "A. 运动表现的场景画面的回放。",
+                "B. 评论员关于跳高项目规则的讨论。",
+                "C. 关于男子跳高项目往届冠军的集锦。",
+                "D. 预览比赛中下一个项目的安排。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_116": {
+            "id": "8y2Hj7GDcwI_116",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "抽象的弧线和条纹图案转场后是什么场景？",
+            "options": [
+                "A. 场景切换到WIC Glasgow 24颁奖台庆祝，运动员手持国旗。",
+                "B. 场景切换到一个有山和湖的宁静风景。",
+                "C. 场景切换到一个繁忙的都市景观，有摩天大楼和繁忙的街道。",
+                "D. 场景切换到一个安静的图书馆，里面有书和阅读桌。"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_117": {
+            "id": "8y2Hj7GDcwI_117",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "讲台时刻结束后的抽象视觉效果的目的是什么？",
+            "options": [
+                "A. 这些视觉效果旨在以引人入胜的方式结束叙事，并宣传活动。",
+                "B. 这些视觉效果主要是为了展示国旗的鲜艳色彩。",
+                "C. 这些视觉效果以抽象的方式描绘运动员的训练日常。",
+                "D. 这些视觉效果突出了举办活动的体育场的建筑设计。"
+            ],
+            "answer": "A"
+        }
+    }
+}

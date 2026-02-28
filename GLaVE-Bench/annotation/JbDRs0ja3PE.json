@@ -1,0 +1,909 @@
+{
+    "scene_hint": {
+        "0": "烟雾与液体在场景中舞动。",
+        "1": "烟雾与液体融合成心脏。",
+        "2": "出现一个肺形状的东西。",
+        "3": "画面中有线条曲折移动。",
+        "4": "烟雾与液体相撞产生爆炸。",
+        "5": "画面中出现文本元素。"
+    },
+    "qa": {
+        "JbDRs0ja3PE_0": {
+            "id": "JbDRs0ja3PE_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "场景开始时，金棕色结构从画框的哪里出现的？",
+            "options": [
+                "A. 画框的右上角。",
+                "B. 画框的右下角。",
+                "C. 画框的左侧偏下。",
+                "D. 画框的中央。"
+            ],
+            "answer": "C"
+        },
+        "JbDRs0ja3PE_1": {
+            "id": "JbDRs0ja3PE_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "场景开始时，烟雾状的形态从画框的哪里出现的？",
+            "options": [
+                "A. 烟雾状的形态位于左下角。",
+                "B. 烟雾状的形态位于右上角。",
+                "C. 烟雾状的形态位于画面的中心。",
+                "D. 烟雾状的形态位于左上角。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_2": {
+            "id": "JbDRs0ja3PE_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这个场景的背景是什么样的？",
+            "options": [
+                "A. 背景是一片黑暗。",
+                "B. 黄昏的公园。",
+                "C. 明亮的城市景观。",
+                "D. 户外的夜间场景。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_3": {
+            "id": "JbDRs0ja3PE_3",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "金棕色结构的物理特征是什么？",
+            "options": [
+                "A. 它有一定的流动性与透明性。",
+                "B. 它是一个锐利的矩形物体。",
+                "C. 它是一个光滑的圆形物体。",
+                "D. 它有锯齿状边缘和暗淡的表面。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_4": {
+            "id": "JbDRs0ja3PE_4",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "图像中有多少个明显可见的不同元素？",
+            "options": [
+                "A. 一个不同元素",
+                "B. 两个不同元素",
+                "C. 三个不同元素",
+                "D. 四个不同元素"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_5": {
+            "id": "JbDRs0ja3PE_5",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "图像中有文字吗？",
+            "options": [
+                "A. 是的，有一个网址可见。",
+                "B. 不，图像中没有文字。",
+                "C. 是的，有一个标题可见。",
+                "D. 是的，有一个水印存在。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_6": {
+            "id": "JbDRs0ja3PE_6",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "金棕色结构发生了什么变化？",
+            "options": [
+                "A. 金棕色结构正在不断的流动。",
+                "B. 金棕色结构正在收缩。",
+                "C. 金棕色结构正在转变为烟雾状。",
+                "D. 金棕色结构保持静止不变。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_7": {
+            "id": "JbDRs0ja3PE_7",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "烟状物体正在向哪个方向移动？",
+            "options": [
+                "A. 烟状物体正在向左移动。",
+                "B. 烟状物体正在不规则移动。",
+                "C. 烟状物体正在向右移动。",
+                "D. 烟状物体正在向右上移动。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_8": {
+            "id": "JbDRs0ja3PE_8",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "场景中使用了哪种类型的镜头？",
+            "options": [
+                "A. 中景镜头。",
+                "B. 广角镜头。",
+                "C. 全景镜头。",
+                "D. 俯视镜头。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_9": {
+            "id": "JbDRs0ja3PE_9",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "场景中有人物吗？",
+            "options": [
+                "A. 是的，场景中有几个人物。",
+                "B. 不，场景中没有人物。",
+                "C. 有一个人物在与液体互动。",
+                "D. 背景中有人物的影子。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_10": {
+            "id": "JbDRs0ja3PE_10",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "液体在场景中发生了什么变化？",
+            "options": [
+                "A. 保留其金橙色。",
+                "B. 失去了光泽。",
+                "C. 变成银灰色。",
+                "D. 变得完全透明。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_11": {
+            "id": "JbDRs0ja3PE_11",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "场景中的烟雾或薄雾是否在某个时刻完全消失？",
+            "options": [
+                "A. 是的，它完全消失，然后又重新出现。",
+                "B. 不，烟雾或薄雾在整个场景中都存在。",
+                "C. 是的，它完全消失，不再重新出现。",
+                "D. 不，场景中没有烟雾或薄雾出现。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_12": {
+            "id": "JbDRs0ja3PE_12",
+            "scene": 0,
+            "dimension": "Camera Direction",
+            "question": "场景中摄像机角度是否会发生变化？",
+            "options": [
+                "A. 是的，摄像机角度多次改变。",
+                "B. 不，摄像机角度保持不变。",
+                "C. 是的，摄像机逐渐拉远。",
+                "D. 是的，视角变为俯视视角。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_13": {
+            "id": "JbDRs0ja3PE_13",
+            "scene": 0,
+            "dimension": "Speed",
+            "question": "液体在运动过程中的速度是怎样的？",
+            "options": [
+                "A. 是快速迅捷的。",
+                "B. 是时慢时快的。",
+                "C. 是缓慢迟钝的。",
+                "D. 是完全静止的。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_14": {
+            "id": "JbDRs0ja3PE_14",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "这个场景中有多少个切片画面？",
+            "options": [
+                "A. 一个。",
+                "B. 两个。",
+                "C. 三个。",
+                "D. 四个。"
+            ],
+            "answer": "C"
+        },
+        "JbDRs0ja3PE_15": {
+            "id": "JbDRs0ja3PE_15",
+            "scene": 0,
+            "dimension": "Speed",
+            "question": "烟雾元素在运动过程中的速度是怎样的？",
+            "options": [
+                "A. 是快速迅捷的。",
+                "B. 是时慢时快的。",
+                "C. 是缓慢迟钝的。",
+                "D. 是完全静止的。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_16": {
+            "id": "JbDRs0ja3PE_16",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "液体沿着烟雾的边缘时是什么样的？",
+            "options": [
+                "A. 是长条状的。",
+                "B. 是一个固体块。",
+                "C. 是一个蒸汽云。",
+                "D. 是绿色的薄雾。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_17": {
+            "id": "JbDRs0ja3PE_17",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "这场景结束时液体会发生什么？",
+            "options": [
+                "A. 液体变成了薄雾状。",
+                "B. 液体凝固成一个金色结构。",
+                "C. 液体消失，同时出现火焰元素。",
+                "D. 没有发生什么显著的变化。"
+            ],
+            "answer": "D"
+        },
+        "JbDRs0ja3PE_18": {
+            "id": "JbDRs0ja3PE_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景的背景是什么？",
+            "options": [
+                "A. 是一片绿色的森林。",
+                "B. 是一个纯黑色背景。",
+                "C. 是一个城市景象。",
+                "D. 是一片蓝天。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_19": {
+            "id": "JbDRs0ja3PE_19",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "场景中液体表面的基础颜色是什么？",
+            "options": [
+                "A. 深棕黑色",
+                "B. 火红色",
+                "C. 半透明白色",
+                "D. 翠绿色"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_20": {
+            "id": "JbDRs0ja3PE_20",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景中液体表面的亮点是什么样的？",
+            "options": [
+                "A. 是发光的橙色亮点。",
+                "B. 是明亮的蓝色亮点。",
+                "C. 是发光的绿色亮点。",
+                "D. 是闪烁的银色亮点。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_21": {
+            "id": "JbDRs0ja3PE_21",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "刚开始融合之后，液体看上去像什么东西？",
+            "options": [
+                "A. 心脏。",
+                "B. 玻璃板。",
+                "C. 金属镜子。",
+                "D. 流动的水。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_22": {
+            "id": "JbDRs0ja3PE_22",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "场景中是否存在任何人类元素？",
+            "options": [
+                "A. 是的，场景中有一个静止的人。",
+                "B. 不，场景不包含任何人类元素。",
+                "C. 是的，场景中有一个运动的人。",
+                "D. 场景中只包含人类的一双手。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_23": {
+            "id": "JbDRs0ja3PE_23",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "液体烟雾融合后，摄影机视角是怎样的？",
+            "options": [
+                "A. 摄影机切换成特写视角。",
+                "B. 摄影机视角向上移动。",
+                "C. 摄影机切换到广角视角。",
+                "D. 摄影机视角向下倾斜。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_24": {
+            "id": "JbDRs0ja3PE_24",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "融合后的液体与烟雾运动状态如何？",
+            "options": [
+                "A. 剧烈地运动。",
+                "B. 温和地运动。",
+                "C. 规则的运动。",
+                "D. 保持静止。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_25": {
+            "id": "JbDRs0ja3PE_25",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "场景中呈现了什么样的变化？",
+            "options": [
+                "A. 心脏形状的物体发生了爆炸。",
+                "B. 从海浪过渡到冰川地形。",
+                "C. 从一幅画布过渡到森林。",
+                "D. 从夜空过渡到一个城市景观。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_26": {
+            "id": "JbDRs0ja3PE_26",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "肺形状的融合物在构图中是怎样的？",
+            "options": [
+                "A. 较对称地排列在构图中心的两侧。",
+                "B. 位于构图的左下角。",
+                "C. 随机散布在构图的各个位置。",
+                "D. 集中在构图中心的上方。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_27": {
+            "id": "JbDRs0ja3PE_27",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景的整体环境是什么样的？",
+            "options": [
+                "A. 是一个黑色背景。",
+                "B. 是一个金色背景。",
+                "C. 是一个红色背景。",
+                "D. 是一个白色背景。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_28": {
+            "id": "JbDRs0ja3PE_28",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "场景中的发生了什么变化?",
+            "options": [
+                "A. 肺状的东西逐渐干瘪下去。",
+                "B. 黑色背景变成星空夜景。",
+                "C. 发光树木变为肺部形态。",
+                "D. 翻滚的烟雾变成龙形。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_29": {
+            "id": "JbDRs0ja3PE_29",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "烟雾在最终转变中象征着什么？",
+            "options": [
+                "A. 烟雾象征着运动或呼气。",
+                "B. 烟雾象征着燃烧或燃尽。",
+                "C. 烟雾象征着腐烂和分解。",
+                "D. 烟雾象征着冷却或冻结过程。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_30": {
+            "id": "JbDRs0ja3PE_30",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "在转变成肺后，烟雾朝哪里移动？",
+            "options": [
+                "A. 烟雾向上移动。",
+                "B. 烟雾水平移动。",
+                "C. 烟雾向肺内移动。",
+                "D. 烟雾以圆形旋转。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_31": {
+            "id": "JbDRs0ja3PE_31",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景的视觉环境是什么？",
+            "options": [
+                "A. 场景发生在明亮多彩的环境中。",
+                "B. 场景在一个黑色背景下进行。",
+                "C. 场景设置在一个灰色环境中。",
+                "D. 场景展示了一个自然景观。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_32": {
+            "id": "JbDRs0ja3PE_32",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "场景中是否描述了人们的行为？",
+            "options": [
+                "A. 是的，描述了三个人们的行为。",
+                "B. 不，视频中没有描述人们的行为。",
+                "C. 是的，描述了一个人在跑步。",
+                "D. 是的，有一个人静止在画面中。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_33": {
+            "id": "JbDRs0ja3PE_33",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "在像肺一样的结构中突出了哪些颜色？",
+            "options": [
+                "A. 明亮的橙色、黄色。",
+                "B. 蓝色、绿色和紫色。",
+                "C. 粉色、灰色和白色。",
+                "D. 银色、金色和青铜色。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_34": {
+            "id": "JbDRs0ja3PE_34",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "在烟雾在类似肺的结构中突出了哪些图案？",
+            "options": [
+                "A. 类似于静脉或支气管的网状图案。",
+                "B. 没有可见的图案。",
+                "C. 具有锐角和直线的几何图案。",
+                "D. 类似海浪的旋转图案。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_35": {
+            "id": "JbDRs0ja3PE_35",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景开始时的画面是什么？",
+            "options": [
+                "A. 一条类似心电图的曲线。",
+                "B. 一个类似肺的结构。",
+                "C. 静止的水平线。",
+                "D. 一个类似心脏的结构。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_36": {
+            "id": "JbDRs0ja3PE_36",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "场景中是否包含任何文字？",
+            "options": [
+                "A. 是的，始终包含文字。",
+                "B. 不，没有任何文字。",
+                "C. 只在场景的开头可见。",
+                "D. 歇性地可见文字。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_37": {
+            "id": "JbDRs0ja3PE_37",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "在场景中，线条整体上是如何移动的？",
+            "options": [
+                "A. 一边上下波动，一边向右移动。",
+                "B. 一边上下波动，一边向左移动。",
+                "C. 一边左右波动，一边向上移动",
+                "D. 一边左右波动，一边向下移动。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_38": {
+            "id": "JbDRs0ja3PE_38",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "场景中使用了哪种类型的镜头视角？",
+            "options": [
+                "A. 使用了一个正面水平视角。",
+                "B. 使用了一个特写镜头视角。",
+                "C. 使用了一个俯拍镜头视角。",
+                "D. 使用了一个侧视图视角。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_39": {
+            "id": "JbDRs0ja3PE_39",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "在场景中，烟雾的表现如何？",
+            "options": [
+                "A. 烟雾形成复杂的图案。",
+                "B. 烟雾跟随着线条一起移动。",
+                "C. 烟雾垂直上升。",
+                "D. 烟雾扩散成一个云团。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_40": {
+            "id": "JbDRs0ja3PE_40",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "当波形变化时，线条的颜色如何变化？",
+            "options": [
+                "A. 会变得更加浓烈和鲜艳。",
+                "B. 颜色整体上没有变化。",
+                "C. 会转变为较冷的色调。",
+                "D. 颜色会完全消失。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_41": {
+            "id": "JbDRs0ja3PE_41",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "在场景开始时，橙色液体朝哪个方向移动？",
+            "options": [
+                "A. 橙色液体向左侧移动。",
+                "B. 橙色液体向右侧移动。",
+                "C. 橙色液体做垂直运动。",
+                "D. 橙色液体朝着顶部移动。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_42": {
+            "id": "JbDRs0ja3PE_42",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "场景的背景是什么？",
+            "options": [
+                "A. 是一个黑暗的背景。",
+                "B. 是一个色彩斑斓的天空。",
+                "C. 是一个高耸的山脉。",
+                "D. 是一个金属反光的表面。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_43": {
+            "id": "JbDRs0ja3PE_43",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "场景中的这个线条表面是什么样的？",
+            "options": [
+                "A. 光滑的。",
+                "B. 螺旋状的。",
+                "C. 粗糙的。",
+                "D. 点状的。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_44": {
+            "id": "JbDRs0ja3PE_44",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "烟雾柱在整个场景中是否保持相同的形态？",
+            "options": [
+                "A. 是的，且烟雾柱的颜色未改变。",
+                "B. 不，烟雾柱变成了云团状。",
+                "C. 是的，但烟雾柱的颜色改变了。",
+                "D. 不，烟雾柱完全消散了。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_45": {
+            "id": "JbDRs0ja3PE_45",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "在场景中，线条整体上是如何运动的？",
+            "options": [
+                "A. 垂直运动。",
+                "B. 水平运动。",
+                "C. 对角线运动。",
+                "D. 圆周运动。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_46": {
+            "id": "JbDRs0ja3PE_46",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "在场景中，采用了什么镜头视角？",
+            "options": [
+                "A. 广角镜头视角。",
+                "B. 正面水平视角。",
+                "C. 向上俯视视角。",
+                "D. 特写镜头视角。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_47": {
+            "id": "JbDRs0ja3PE_47",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "在爆炸前，线条的运动状态是怎样的？",
+            "options": [
+                "A. 运动是流畅而且灵活的。",
+                "B. 运动是时动时停转换的。",
+                "C. 运动是静止完全不动的。",
+                "D. 运动不断加速且突然的。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_48": {
+            "id": "JbDRs0ja3PE_48",
+            "scene": 4,
+            "dimension": "Speed",
+            "question": "爆炸场景中运动是如何变化的？",
+            "options": [
+                "A. 爆炸场景中运动减慢并变得流畅。",
+                "B. 爆炸场景中运动变得迅速而有力。",
+                "C. 爆炸场景中运动始终保持一致。",
+                "D. 爆炸场景被一片爆炸白光所遮挡。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_49": {
+            "id": "JbDRs0ja3PE_49",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "在爆炸前的场景中，烟雾发生了什么变化？",
+            "options": [
+                "A. 烟雾与液体分离并变成更浓密的柱状。",
+                "B. 烟雾变得更轻，并形成几何图形。",
+                "C. 烟雾呈现出火焰般的波浪形图案。",
+                "D. 烟雾完全消散并消失。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_50": {
+            "id": "JbDRs0ja3PE_50",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "在爆炸过程中，烟雾是如何变化的？",
+            "options": [
+                "A. 烟雾变成带有分支的球形气团。",
+                "B. 烟雾变成为水平的流动。",
+                "C. 烟雾呈现出旋转的图案。",
+                "D. 烟雾转变为向内辐射的同心圆。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_51": {
+            "id": "JbDRs0ja3PE_51",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "场景开始时，烟雾相对于文字的位置是什么？",
+            "options": [
+                "A. 烟雾包裹着文字露出其部分可见。",
+                "B. 烟雾与文字分离在画面的上下。",
+                "C. 烟雾在文字的后面作为背景。",
+                "D. 场景中完全没有烟雾。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_52": {
+            "id": "JbDRs0ja3PE_52",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "文本在场景中的位置在哪里？",
+            "options": [
+                "A. 文本位于画面中央。",
+                "B. 文本位于画面的左上角。",
+                "C. 文本位于画面的底部。",
+                "D. 文本随机分布在屏幕上。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_53": {
+            "id": "JbDRs0ja3PE_53",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景的设置是什么样的？",
+            "options": [
+                "A. 在一个森林中。",
+                "B. 在一个黑色背景中。",
+                "C. 在一个城市天际线。",
+                "D. 从教室过渡到实验室。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_54": {
+            "id": "JbDRs0ja3PE_54",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "场景中是否有真人出现？",
+            "options": [
+                "A. 是的，场景中有几位真人出现。",
+                "B. 不，场景中没有真人出现。",
+                "C. 是的，场景中有一位真人出现。",
+                "D. 不，但场景中有动画角色出现。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_55": {
+            "id": "JbDRs0ja3PE_55",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景中有什么东西？",
+            "options": [
+                "A. 烟雾，和液滴状颗粒。",
+                "B. 蓝天，白云和星形颗粒。",
+                "C. 细雨、叶状颗粒。",
+                "D. 阳光、火焰状颗粒。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_56": {
+            "id": "JbDRs0ja3PE_56",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "场景中有什么标志？",
+            "options": [
+                "A. 带鹰设计的CDC标志。",
+                "B. 带火箭设计的NASA标志。",
+                "C. 带地球设计的WHO标志。",
+                "D. 带树设计的EPA标志。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_57": {
+            "id": "JbDRs0ja3PE_57",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "场景中的文字元素总共有几行？",
+            "options": [
+                "A. 一行",
+                "B. 两行",
+                "C. 三行",
+                "D. 四行"
+            ],
+            "answer": "C"
+        },
+        "JbDRs0ja3PE_58": {
+            "id": "JbDRs0ja3PE_58",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "文本信息中有没有特定的词组被强调？",
+            "options": [
+                "A. 有，词组'THE RISKS'被强调为粗体大写字母。",
+                "B. 没有，文本没有强调任何特定的词组。",
+                "C. 有，“Learn more about THE RISKS of mixing drugs”被下划线强调。",
+                "D. 是的，整个文本信息都用斜体字强调。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_59": {
+            "id": "JbDRs0ja3PE_59",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "随着场景的推进，画面中的烟雾会有什么变化？",
+            "options": [
+                "A. 烟雾逐渐消散。",
+                "B. 烟雾变得更加浓密和混乱。",
+                "C. 烟雾变成亮橙色。",
+                "D. 烟雾形成明确的形状和符号。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_60": {
+            "id": "JbDRs0ja3PE_60",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "在初始画面中，烟雾向哪个方向扩散？",
+            "options": [
+                "A. 烟雾向上以直线扩散。",
+                "B. 烟雾向外以放射状扩散。",
+                "C. 烟雾向左以螺旋状扩散。",
+                "D. 烟雾向下以锯齿状扩散。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_61": {
+            "id": "JbDRs0ja3PE_61",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "场景中使用了哪种类型的镜头？",
+            "options": [
+                "A. 一个静态全景镜头。",
+                "B. 一个动态的特写镜头。",
+                "C. 一个广角移动镜头。",
+                "D. 一个快速的放大镜头。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_62": {
+            "id": "JbDRs0ja3PE_62",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "场景中颗粒的运动是怎样的？",
+            "options": [
+                "A. 温和而流畅。",
+                "B. 快速而混乱。",
+                "C. 完全静止。",
+                "D. 时快时慢的。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_63": {
+            "id": "JbDRs0ja3PE_63",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "场景中的文本是如何变化的？",
+            "options": [
+                "A. 文本变得更小，更不显眼。",
+                "B. 文本保持居中没有变化。",
+                "C. 文本的颜色发生了改变。",
+                "D. 文本在切换时完全消失。"
+            ],
+            "answer": "B"
+        },
+        "JbDRs0ja3PE_64": {
+            "id": "JbDRs0ja3PE_64",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在场景最初时，液体是处于什么状态的？",
+            "options": [
+                "A. 扩张流动的状态。",
+                "B. 静止的金属状水池。",
+                "C. 呈现小液滴状。",
+                "D. 呈现冰柱状。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_65": {
+            "id": "JbDRs0ja3PE_65",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "在场景发生爆炸之后，烟雾会发生什么？",
+            "options": [
+                "A. 烟雾向四周散去。",
+                "B. 烟雾凝结成固体形状。",
+                "C. 烟雾改变颜色并变得更浓密。",
+                "D. 烟雾完全消散开来。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_66": {
+            "id": "JbDRs0ja3PE_66",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "场景最后的宣传画面是怎样的？",
+            "options": [
+                "A. 采用静态文字与黑色背景。",
+                "B. 滚动显示宣传歌曲的歌词。",
+                "C. 采用白色背景和静态文字。",
+                "D. 动画角色与场景进行互动。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_67": {
+            "id": "JbDRs0ja3PE_67",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在介绍了类似肺部的结构后，场景转变为什么画面？",
+            "options": [
+                "A. 转变为一个心电图状运动的线条。",
+                "B. 转变为一个静态的黑屏。",
+                "C. 转变为一个发光的球体。",
+                "D. 转变为一个旋转的光漩涡。"
+            ],
+            "answer": "A"
+        },
+        "JbDRs0ja3PE_68": {
+            "id": "JbDRs0ja3PE_68",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "视频中何时引入文字元素？",
+            "options": [
+                "A. 烟云部分消散后引入的。",
+                "B. 视频一开始就出现。",
+                "C. 在颗粒形成的同时引入的。",
+                "D. 在颗粒完全填满屏幕后引入的。"
+            ],
+            "answer": "A"
+        }
+    }
+}

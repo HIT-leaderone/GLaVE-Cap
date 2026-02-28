@@ -1,0 +1,2109 @@
+{
+    "scene_hint": {
+        "0": "手正用帕子对键盘进行清洁。",
+        "1": "蓝色时钟图形成为文本一部分。",
+        "2": "使用机器清理键盘。",
+        "3": "一只猫出现并趴在电脑上。",
+        "4": "电脑页面打开，手拿帕子檫试键盘。",
+        "5": "网页显示在屏幕中。",
+        "6": "手正操作电脑，电脑屏幕放大、黑屏。",
+        "7": "电脑页面关闭，继续檫试电脑键盘。",
+        "8": "演示电脑按键，后电脑屏幕被放大。",
+        "9": "蓝色时钟转变‘9to5mac.com’文本出现。"
+    },
+    "qa": {
+        "7iXM5aq53Ts_0": {
+            "id": "7iXM5aq53Ts_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这个场景的整体环境如何？",
+            "options": [
+                "A. 环境看起来杂乱而忙碌。",
+                "B. 环境看起来干净而简约。",
+                "C. 环境看起来黑暗而阴沉。",
+                "D. 环境看起来丰富多彩且充满活力。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_1": {
+            "id": "7iXM5aq53Ts_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这个场景的背景是什么？",
+            "options": [
+                "A. 场景发生在一个杂乱的办公空间。",
+                "B. 场景设定在一个漆黑的金属桌上。",
+                "C. 场景发生在一张浅色的木制桌子上。",
+                "D. 场景发生在一张玻璃桌上，窗外有美丽的风景。"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_2": {
+            "id": "7iXM5aq53Ts_2",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "这个场景中，这个人正在进行什么动作？",
+            "options": [
+                "A. 这个人在用毛巾清洁笔记本电脑。",
+                "B. 这个人在笔记本电脑键盘上打字。",
+                "C. 这个人在组装笔记本电脑的部件。",
+                "D. 这个人在用笔记本电脑浏览互联网。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_3": {
+            "id": "7iXM5aq53Ts_3",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "场景中的笔记本电脑是什么颜色的？",
+            "options": [
+                "A. 笔记本电脑是银色的。",
+                "B. 笔记本电脑是黑色的。",
+                "C. 笔记本电脑是白色的。",
+                "D. 笔记本电脑是灰色的。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_4": {
+            "id": "7iXM5aq53Ts_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "场景中的笔记本电脑屏幕和键盘是什么颜色的？",
+            "options": [
+                "A. 屏幕是黑色的，键盘是黑色的。",
+                "B. 屏幕是银色的，键盘是黑色的。",
+                "C. 屏幕是黑色的，键盘是银色的。",
+                "D. 屏幕是银色的，键盘是银色的。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_5": {
+            "id": "7iXM5aq53Ts_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "场景中的笔记本电脑键盘是什么样式的？",
+            "options": [
+                "A. 电脑键盘是黑色键帽和白色字母。",
+                "B. 电脑键盘是白色键帽和黑色字母。",
+                "C. 电脑键盘是蓝色键帽和黄色字母。",
+                "D. 电脑键盘是红色键帽和白色字母。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_6": {
+            "id": "7iXM5aq53Ts_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "场景中能看到几只手？",
+            "options": [
+                "A. 一只手",
+                "B. 两只手",
+                "C. 三只手",
+                "D. 没有手"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_7": {
+            "id": "7iXM5aq53Ts_7",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "笔记本电脑的屏幕是打开的吗？",
+            "options": [
+                "A. 是的，屏幕已打开并显示明亮的图像。",
+                "B. 不，笔记本电脑的屏幕是黑暗的。",
+                "C. 是的，屏幕微微亮起，可以看到显示内容。",
+                "D. 不，屏幕显示为空白的白色。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_8": {
+            "id": "7iXM5aq53Ts_8",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "哪一部分笔记本电脑正在用毛巾擦拭？",
+            "options": [
+                "A. 笔记本电脑的屏幕和上部",
+                "B. 笔记本电脑的键盘和下部",
+                "C. 笔记本电脑的左侧",
+                "D. 触控板和笔记本的右边缘"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_9": {
+            "id": "7iXM5aq53Ts_9",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "清洁笔记本电脑时，清洁布的运动方向是什么？",
+            "options": [
+                "A. 横向擦拭键盘",
+                "B. 纵向擦拭屏幕",
+                "C. 以圆周运动擦拭笔记本电脑",
+                "D. 方向并不恒定"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_10": {
+            "id": "7iXM5aq53Ts_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "场景中使用了哪种摄像机视角？",
+            "options": [
+                "A. 摄像机视角是直接在正上方，从上方直接拍摄场景。",
+                "B. 摄像机视角是从侧面，展示了笔记本电脑的侧面轮廓。",
+                "C. 摄像机视角是从下方，仰视笔记本电脑。",
+                "D. 摄像机视角是以一个角度，从正面拍摄笔记本电脑。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_11": {
+            "id": "7iXM5aq53Ts_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "什么视觉提示表明了场景中光源的位置？",
+            "options": [
+                "A. 黑暗电脑屏幕反射出的模糊影像，暗示光源在人的上方并稍微靠后。",
+                "B. 亮橙色的超细纤维布被照亮，表明光源在人的正前方。",
+                "C. 木质表面光亮，暗示光源在桌子下方。",
+                "D. 键盘按键看起来有光泽，表明光源来自侧面。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_12": {
+            "id": "7iXM5aq53Ts_12",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "可见的手用黄色清洁布做什么？",
+            "options": [
+                "A. 可见的手用清洁布在电脑的键盘和掌托区域进行擦拭。",
+                "B. 可见的手用黄色清洁布擦亮笔记本电脑的屏幕。",
+                "C. 可见的手静止地握着黄色清洁布，不做任何擦拭动作。",
+                "D. 可见的手折起黄色清洁布并将其放在一旁。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_13": {
+            "id": "7iXM5aq53Ts_13",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "关闭的笔记本电脑屏幕会做什么？",
+            "options": [
+                "A. 关闭的屏幕隐约反射周围环境。",
+                "B. 关闭的屏幕生动地显示彩色图像。",
+                "C. 关闭的屏幕播放视频。",
+                "D. 关闭的屏幕完全黑暗，不反射任何东西。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_14": {
+            "id": "7iXM5aq53Ts_14",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "笔记本电脑的键盘是什么颜色的？",
+            "options": [
+                "A. 笔记本电脑有一个黑色键盘。",
+                "B. 笔记本电脑有一个白色键盘。",
+                "C. 笔记本电脑有一个银色键盘。",
+                "D. 笔记本电脑有一个灰色键盘。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_15": {
+            "id": "7iXM5aq53Ts_15",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "笔记本电脑的键盘有什么类型的键？",
+            "options": [
+                "A. 笔记本电脑的键盘有字母数字键和功能键。",
+                "B. 笔记本电脑的键盘有数字键和多媒体键。",
+                "C. 笔记本电脑的键盘只有功能键。",
+                "D. 笔记本电脑的键盘有游戏键和快捷键。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_16": {
+            "id": "7iXM5aq53Ts_16",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "清洁过程需要多少只手？",
+            "options": [
+                "A. 清洁过程需要一只手。",
+                "B. 清洁过程需要两只手。",
+                "C. 清洁过程需要三只手。",
+                "D. 清洁过程需要四只手。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_17": {
+            "id": "7iXM5aq53Ts_17",
+            "scene": 0,
+            "dimension": "Camera Direction",
+            "question": "清洁过程中相机角度会发生变化吗？",
+            "options": [
+                "A. 是的，它会切换到侧面角度。",
+                "B. 是的，它会切换到正面视角。",
+                "C. 不，相机角度保持一致，始终从正上方拍摄。",
+                "D. 是的，它会移动到一个放大的视角。"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_18": {
+            "id": "7iXM5aq53Ts_18",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "这个场景中清洁布发生了什么变化？",
+            "options": [
+                "A. 橙色的清洁布消失，被黄色的清洁布替代。",
+                "B. 黄色的清洁布消失，被橙色的清洁布替代。",
+                "C. 清洁布从黄色的清洁布变成了红色的清洁布。",
+                "D. 清洁布仍然是黄色的，未发生改变。"
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_19": {
+            "id": "7iXM5aq53Ts_19",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素突出了场景中的清洁过程？",
+            "options": [
+                "A. 柔和的漫射光和一致的俯拍角度确保清洁过程清晰可见。",
+                "B. 明亮的直射光和侧面拍摄角度使清洁过程不易见到。",
+                "C. 强烈的阴影和低角度突出清洁过程。",
+                "D. 昏暗的照明和远距离拍摄角度增强了清洁过程的可见性。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_20": {
+            "id": "7iXM5aq53Ts_20",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这一场景开头发生在哪里？",
+            "options": [
+                "A. 开头场景发生在办公室。",
+                "B. 开头场景是在一个蓝色的背景。",
+                "C. 开头场景发生在客厅。",
+                "D. 开头场景是在一个红色的背景。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_21": {
+            "id": "7iXM5aq53Ts_21",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景开场是什么样的？",
+            "options": [
+                "A. 场景有五彩斑斓的爆炸效果，伴随着散落的多个点。",
+                "B. 场景有一个中央的白色圆点，营造出简洁分明的效果。",
+                "C. 场景上充满了显示不同时间的多个指针式时钟。",
+                "D. 场景上是一张杂乱的桌子，上面散落着各种科技小工具。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_22": {
+            "id": "7iXM5aq53Ts_22",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "视频中的白点变成了什么？",
+            "options": [
+                "A. 白点演变成一个类模拟式的时钟。",
+                "B. 白点转变成一个电子秒表。",
+                "C. 白点变形成一个旋转的地球仪。",
+                "D. 白点变成了一颗发光的星星。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_23": {
+            "id": "7iXM5aq53Ts_23",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景转换前描绘的最初活动是什么？",
+            "options": [
+                "A. 描绘的最初活动是清理笔记本电脑。",
+                "B. 描绘的最初活动是查看时钟上的时间。",
+                "C. 描绘的最初活动是设计一个标志。",
+                "D. 描绘的最初活动是设置投影仪。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_24": {
+            "id": "7iXM5aq53Ts_24",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中时钟定格的时间是多少？",
+            "options": [
+                "A. 7:05",
+                "B. 3:00 ",
+                "C. 12:00。",
+                "D. 9:00。"
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_25": {
+            "id": "7iXM5aq53Ts_25",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "视频中的时钟会融入到'9TO5Mac'的标志中吗？",
+            "options": [
+                "A. 是的，时钟融入到'9TO5Mac'的标志中。",
+                "B. 不，时钟在整个视频中都与'9TO5Mac'的标志保持分离。",
+                "C. 是的，但时钟仅作为背景元素出现，并未融入标志。",
+                "D. 不，时钟在'9TO5Mac'的标志中被替换为其他符号。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_26": {
+            "id": "7iXM5aq53Ts_26",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在场景中，时钟经历了什么最终的变化？",
+            "options": [
+                "A. 时钟固定到9:00的位置，然后融入到'9TO5Mac'的标志中。",
+                "B. 时钟变成了一个秒表，指针停在6:00。",
+                "C. 时钟变成了一个日历，显示日期为9/5。",
+                "D. 时钟完全消失，只留下一个空白的蓝色背景。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_27": {
+            "id": "7iXM5aq53Ts_27",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景结尾显示了什么视觉背景？",
+            "options": [
+                "A. 背景变为浅蓝色背景。",
+                "B. 背景保持为纯蓝色静态。",
+                "C. 背景变为深蓝色实心，没有渐变。",
+                "D. 背景变成鲜艳的红白图案。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_28": {
+            "id": "7iXM5aq53Ts_28",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "“9TO5Mac”标志的颜色方案是什么？",
+            "options": [
+                "A. “9TO5Mac”标志采用深蓝和浅蓝文字的混合。",
+                "B. “9TO5Mac”标志采用绿色和黄色文字的混合。",
+                "C. “9TO5Mac”标志采用红色和橙色文字的混合。",
+                "D. “9TO5Mac”标志采用紫色和粉色文字的混合。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_29": {
+            "id": "7iXM5aq53Ts_29",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中如何融入品牌形象？",
+            "options": [
+                "A. 品牌形象通过将时钟融入到'9TO5Mac'标志中来体现。",
+                "B. 品牌形象通过将背景颜色更改为红色来展现。",
+                "C. 品牌形象通过添加滴答声效来体现。",
+                "D. 品牌形象通过展示带有标志的日历来展现。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_30": {
+            "id": "7iXM5aq53Ts_30",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "从视频来看，白色陶瓷盘相对于银色笔记本电脑的位置在哪里？",
+            "options": [
+                "A. 白色陶瓷盘位于银色笔记本电脑的左侧。",
+                "B. 白色陶瓷盘位于银色笔记本电脑的正前方。",
+                "C. 白色陶瓷盘位于银色笔记本电脑的上方。",
+                "D. 白色陶瓷盘位于银色笔记本电脑的右侧。"
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_31": {
+            "id": "7iXM5aq53Ts_31",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景中描述的工作环境总体是怎样的？",
+            "options": [
+                "A. 工作空间凌乱混乱。",
+                "B. 工作空间整洁、明亮。",
+                "C. 工作空间昏暗且不吸引人。",
+                "D. 工作空间充满活力且色彩鲜艳。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_32": {
+            "id": "7iXM5aq53Ts_32",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "视频中是否有直接的人类存在？",
+            "options": [
+                "A. 是的，有一个人在使用笔记本电脑。",
+                "B. 不，视频中没有直接的人类存在。",
+                "C. 是的，有一个人在吃蛋糕。",
+                "D. 是的，有人正在拿着麦克风。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_33": {
+            "id": "7iXM5aq53Ts_33",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "视频中的物体是否暗示了人类的活动或互动？",
+            "options": [
+                "A. 是的，这些物体表明有人类正在进行活动或互动。",
+                "B. 不，这些物体未能暗示任何人类的活动或互动。",
+                "C. 是的，但这些物体与人类的活动或互动无关。",
+                "D. 不，这些物体暗示了一个完全静止的环境。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_34": {
+            "id": "7iXM5aq53Ts_34",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "这个黑灰色的设备像什么？",
+            "options": [
+                "A. 一个相机镜头",
+                "B. 一个遥控器",
+                "C. 一个清理器",
+                "D. 一个手电筒"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_35": {
+            "id": "7iXM5aq53Ts_35",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "黑色手持设备的位置是什么？",
+            "options": [
+                "A. 在陶瓷盘上",
+                "B. 在键盘上",
+                "C. 在抽屉里",
+                "D. 在地板上"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_36": {
+            "id": "7iXM5aq53Ts_36",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "黑色手持设备的位置说明了什么?",
+            "options": [
+                "A. 该设备是用于装饰的。",
+                "B. 该设备是用于给键盘清理用的。",
+                "C. 该设备是意外遗留在那里的。",
+                "D. 该设备用于给笔记本电脑充电。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_37": {
+            "id": "7iXM5aq53Ts_37",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "工作区强调的主要物品是什么？",
+            "options": [
+                "A. 银色笔记本电脑、一块食物和叉子放在瓷盘中、以及一个黑色手持设备。",
+                "B. 银色笔记本电脑、一副耳机、以及一本笔记本。",
+                "C. 银色笔记本电脑、一个装满蛋糕的瓷盘、以及一个白色充电器插头。",
+                "D. 银色笔记本电脑、一只装有咖啡的瓷杯、以及一个黑色充电器插头。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_38": {
+            "id": "7iXM5aq53Ts_38",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "视频中工作区的照明有任何变化吗？",
+            "options": [
+                "A. 是的，照明从暖色调变为冷色调。",
+                "B. 是的，照明在视频结束时变得更亮。",
+                "C. 不，照明在整个视频过程中保持一致。",
+                "D. 是的，当话筒出现时，照明变暗。"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_39": {
+            "id": "7iXM5aq53Ts_39",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "在视频中，那只看起来像麦克风的黑色手持设备发生了什么？",
+            "options": [
+                "A. 黑色手持设备在键盘上缓慢移动，后从镜头移除。",
+                "B. 黑色手持设备始终放在桌上，象征持续的活动。",
+                "C. 黑色手持设备被引入到笔记本电脑附近并留在原地，永久改变了布局。",
+                "D. 黑色手持设备在背景中短暂出现，对工作区没有显著影响。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_40": {
+            "id": "7iXM5aq53Ts_40",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "当黑色手持设备被移走时，它向哪个方向移动？",
+            "options": [
+                "A. 向左",
+                "B. 向右",
+                "C. 视频中未明确说明其移动的确切方向",
+                "D. 向上"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_41": {
+            "id": "7iXM5aq53Ts_41",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "谁的个人主页显示在笔记本电脑的屏幕上？",
+            "options": [
+                "A. Jeff Benjamin",
+                "B. John Benjamin",
+                "C. Jake Stonemason",
+                "D. Jim Stockwell"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_42": {
+            "id": "7iXM5aq53Ts_42",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "场景结束时，猫咪处于什么位置？",
+            "options": [
+                "A. 猫蜷缩在笔记本电脑旁边。",
+                "B. 猫趴在键盘上。",
+                "C. 猫坐在陶瓷盘子上。",
+                "D. 猫在桌子下面。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_43": {
+            "id": "7iXM5aq53Ts_43",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "猫破坏场景后，笔记本电脑屏幕上显示了什么内容？",
+            "options": [
+                "A. 笔记本电脑屏幕显示的是网上购物页面，展示了智能手表、平板电脑和苹果产品。",
+                "B. 笔记本电脑屏幕显示的是一个名为“Jack Stooffansen”的个人主页和媒体内容。",
+                "C. 笔记本电脑屏幕显示的是一个宁静海滩的桌面壁纸。",
+                "D. 笔记本电脑屏幕显示的是一个无法响应的黑白错误画面。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_44": {
+            "id": "7iXM5aq53Ts_44",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "瓷盘在当前场景中是否改变位置？",
+            "options": [
+                "A. 是的，瓷盘在场景中多次改变位置。",
+                "B. 是的，瓷盘在场景中稍微朝猫移动。",
+                "C. 不，瓷盘在整个场景中未出现。",
+                "D. 不，但瓷盘在场景中途被移走了。"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_45": {
+            "id": "7iXM5aq53Ts_45",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "叉子在场景中是否改变了位置？",
+            "options": [
+                "A. 是的，叉子移到了桌子的边缘。",
+                "B. 是的，叉子移到了盘子上。",
+                "C. 不，叉子在整个场景中未出现。",
+                "D. 是的，视频中途叉子被从桌子上拿走。"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_46": {
+            "id": "7iXM5aq53Ts_46",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "在视频中，猫的动作速度如何描述？",
+            "options": [
+                "A. 猫的动作细微且缓慢。",
+                "B. 猫的动作快速且不稳定。",
+                "C. 猫的动作具有攻击性且迅速。",
+                "D. 猫的动作难以预测且动来动去。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_47": {
+            "id": "7iXM5aq53Ts_47",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "猫的衣服是怎样的？",
+            "options": [
+                "A. 一件浅色带有灰色圆点衣服。",
+                "B. 一件浅绿色带有条纹衣服。。",
+                "C. 一件浅蓝色带有水波纹衣服。",
+                "D. 一件粉红色带有花卉图案衣服。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_48": {
+            "id": "7iXM5aq53Ts_48",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "从视来看，猫是从哪个位置出现在键盘上？",
+            "options": [
+                "A. 猫从画面左边出现。",
+                "B. 猫从画面右边出现。",
+                "C. 猫从画面上方跳入。",
+                "D. 无法准确判断。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_49": {
+            "id": "7iXM5aq53Ts_49",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "从视频来看，当猫趴下后猫的尾巴位于哪里？",
+            "options": [
+                "A. 猫的尾巴向上卷曲并在画面微微向左位置。",
+                "B. 猫的尾巴向下卷曲并在画面微微向右位置。",
+                "C. 猫的尾巴向上卷曲并在画面微微向右位置。",
+                "D. 猫的尾巴平放在桌子上。"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_50": {
+            "id": "7iXM5aq53Ts_50",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "笔记本电脑屏幕上的内容发生了什么变化？",
+            "options": [
+                "A. 屏幕从一个促销产品页面转换到谷歌主页。",
+                "B. 屏幕从电子邮件收件箱转换到促销产品页面。",
+                "C. 屏幕从社交媒体提要转换到新闻网站。",
+                "D. 屏幕从空白桌面转换到视频通话。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_51": {
+            "id": "7iXM5aq53Ts_51",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "猫趴下后位于桌子的右侧是什么？",
+            "options": [
+                "A. 一个鲜艳的橙色立方体形状的音箱",
+                "B. 一个黑色的咖啡杯",
+                "C. 一个红边的平板电脑",
+                "D. 一个小型的盆栽植物"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_52": {
+            "id": "7iXM5aq53Ts_52",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "这一场景中猫的爪子有几只可以看见？",
+            "options": [
+                "A. 猫没有可见爪子。",
+                "B. 两只。",
+                "C. 三只。",
+                "D. 四只。"
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_53": {
+            "id": "7iXM5aq53Ts_53",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "这只猫的服装上有绿色的点缀吗？",
+            "options": [
+                "A. 是的",
+                "B. 不是",
+                "C. 可能吧",
+                "D. 没有提到"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_54": {
+            "id": "7iXM5aq53Ts_54",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "猫身体的哪个部分部分搭在笔记本电脑上？",
+            "options": [
+                "A. 它的头和身体",
+                "B. 它的尾巴和爪子",
+                "C. 它的耳朵和胡须",
+                "D. 它的腿和尾巴"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_55": {
+            "id": "7iXM5aq53Ts_55",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "摄影机视角发生了变化？",
+            "options": [
+                "A. 从直接的俯视视角变为稍微倾斜的视角。",
+                "B. 从桌子下方的视角变为直接的俯视视角。",
+                "C. 从右侧视角变为直接的俯视视角。",
+                "D. 从桌子下方的视角变为稍微倾斜的视角。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_56": {
+            "id": "7iXM5aq53Ts_56",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "稍微倾斜的视角拍摄的视觉效果是什么？",
+            "options": [
+                "A. 它展示了更多的工作空间，显示了桌面的布局。",
+                "B. 它只突出显示笔记本电脑屏幕，强调谷歌主页。",
+                "C. 它掩盖了工作空间，只留下猫在焦点。",
+                "D. 它消除了场景的深度，创造了一个平坦而无特征的构图。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_57": {
+            "id": "7iXM5aq53Ts_57",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "笔记本电脑屏幕上的光反射如何影响视频质量？",
+            "options": [
+                "A. 反射使屏幕出现一块矩形曝光，但其他位置仍能保持清晰度。",
+                "B. 反光使屏幕完全变暗，无法查看任何内容。",
+                "C. 反射产生了彩虹棱镜效果，显著扭曲了视频的颜色。",
+                "D. 反射导致屏幕过曝，冲淡了视频的所有细节。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_58": {
+            "id": "7iXM5aq53Ts_58",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "笔记本电脑屏幕上的哪个视觉元素指示正在进行的浏览活动？",
+            "options": [
+                "A. 谷歌搜索主页面。",
+                "B. 充满广告的产品宣传页面。",
+                "C. 空白的桌面背景。",
+                "D. 全屏播放的在线视频。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_59": {
+            "id": "7iXM5aq53Ts_59",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "餐具是放在哪里的？",
+            "options": [
+                "A. 餐具被放置在一个浅色木桌上，旁边是笔记本电脑。",
+                "B. 餐具被放置在一个深色木桌上，旁边有一个智能手机。",
+                "C. 餐具被放置在一个玻璃桌上，旁边是一摞书。",
+                "D. 餐具被放置在一个靠近咖啡机的金属台面上。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_60": {
+            "id": "7iXM5aq53Ts_60",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "这一场景中檫试键盘的清洁布是什么颜色的？",
+            "options": [
+                "A. 黑色",
+                "B. 黄色",
+                "C. 蓝色",
+                "D. 红色"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_61": {
+            "id": "7iXM5aq53Ts_61",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "该场景中是否显示食物？",
+            "options": [
+                "A. 是的，在画面右侧的白色盘子中。",
+                "B. 是的，在画面左侧的白色盘子中。",
+                "C. 是的，在电脑键盘上的白色盘子中。",
+                "D. 不，该场景未显示食物。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_62": {
+            "id": "7iXM5aq53Ts_62",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "在檫试键盘时，用什么来固定电脑？",
+            "options": [
+                "A. 左手",
+                "B. 右手",
+                "C. 金属固定器",
+                "D. 未使用物品"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_63": {
+            "id": "7iXM5aq53Ts_63",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "当页面缩放时，笔记本电脑屏幕上显示了什么？",
+            "options": [
+                "A. 笔记本电脑屏幕上显示了 iPhone 6s 的广告。",
+                "B. 显示了一个介绍键盘清洁软件开发时间表的网页。",
+                "C. 笔记本电脑屏幕上显示了一个音乐播放列表。",
+                "D. 笔记本电脑屏幕上显示了一个电影流媒体服务界面。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_64": {
+            "id": "7iXM5aq53Ts_64",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "这一场景中一共有几个主要物品可见？（包括桌子）",
+            "options": [
+                "A. 两种",
+                "B. 三种",
+                "C. 四种",
+                "D. 五种"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_65": {
+            "id": "7iXM5aq53Ts_65",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "场景中主要可见的物品是什么？",
+            "options": [
+                "A. 一张桌子、一台银灰笔记本，一个装有食物和叉子的白盘和一块清洁布。",
+                "B. 一张深色木桌、一台黑色的台式电脑，一杯咖啡，一份报纸和一支笔。",
+                "C. 一张灰色圆桌、一本打开的书，一杯果汁，一个笔记本和一支铅笔。",
+                "D. 一张黑色方桌、一台平板电脑，一碗麦片，一个计算器和一些餐巾纸。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_66": {
+            "id": "7iXM5aq53Ts_66",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "电脑屏幕缩放页面是否包含导航链接？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 可能",
+                "D. 不明确"
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_67": {
+            "id": "7iXM5aq53Ts_67",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "网页右侧图案上显示什么文本内容？",
+            "options": [
+                "A.  'BETTER JS DOCS FOR US, BY US!'",
+                "B.  'IMPROVE YOUR CODE WITH US!'",
+                "C.  'Welcome to my page!'",
+                "D. 'Stay tuned for more updates!'"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_68": {
+            "id": "7iXM5aq53Ts_68",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "红黑色促销图形出现在网页的什么位置？",
+            "options": [
+                "A. 在网页顶部",
+                "B. 在网页右侧",
+                "C. 在网页底部",
+                "D. 在网页中央"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_69": {
+            "id": "7iXM5aq53Ts_69",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "网页标题是怎样的？",
+            "options": [
+                "A. 使用加粗加大的黑色字体。",
+                "B. 使用加大斜体的黑色字体。",
+                "C. 使用黑色加大的艺术字体。",
+                "D. 使用与文本相同字体，居中显示。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_70": {
+            "id": "7iXM5aq53Ts_70",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "为什么网页文本页面中使用直接面向前方的视角？",
+            "options": [
+                "A. 确保文字密集网页的可读性。",
+                "B. 强调场景的触感特征。",
+                "C. 突出桌面上的物理元素。",
+                "D. 展示屏幕上房间的反射。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_71": {
+            "id": "7iXM5aq53Ts_71",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "场景如何从上一场景变化？",
+            "options": [
+                "A. 场景从一个工作空间变为一个网页文本界面，去除了所有物理元素。",
+                "B. 场景从餐饮布置转变为完全的户外环境，没有任何数字元素。",
+                "C. 场景保持不变，仅在物品的角度上有轻微变化。",
+                "D. 场景从一个数字化布局转变为一个充满科技小工具的物理工作空间。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_72": {
+            "id": "7iXM5aq53Ts_72",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "网页文本中有箭头显示吗？",
+            "options": [
+                "A. 有。",
+                "B. 没有。",
+                "C. 有可能。",
+                "D. 无法判断。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_73": {
+            "id": "7iXM5aq53Ts_73",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "网页文本中共有几个文本箭头显示？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_74": {
+            "id": "7iXM5aq53Ts_74",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "文本箭头分别朝哪个方向？",
+            "options": [
+                "A. 箭头向上、向左。",
+                "B. 箭头向下、向左。",
+                "C. 箭头向上、向右。",
+                "D. 箭头向右、向下。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_75": {
+            "id": "7iXM5aq53Ts_75",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "网页文本显示图案是什么样的？",
+            "options": [
+                "A. 是红色和黑色的，有一个卡通鳄鱼图案。",
+                "B. 是蓝色和红色的，有一个卡通猫咪图案。",
+                "C. 是蓝色和黑色的，有一个卡通狗狗图案。",
+                "D. 是黄色和黑色的，有一个卡通绵羊图案。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_76": {
+            "id": "7iXM5aq53Ts_76",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "网页文本的标题是什么？",
+            "options": [
+                "A. Keyboard Cleaner",
+                "B. Digital Workspace",
+                "C. Better JS Docs",
+                "D. Mac App Store Submission"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_77": {
+            "id": "7iXM5aq53Ts_77",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "从视频来看，黄色的布相对于笔记本电脑在哪里？",
+            "options": [
+                "A. 黄色的布在笔记本电脑的左侧。",
+                "B. 黄色的布在笔记本电脑的顶部。",
+                "C. 黄色的布在画面的右下角，靠近笔记本电脑。",
+                "D. 黄色的布在笔记本电脑的正下方。"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_78": {
+            "id": "7iXM5aq53Ts_78",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "场景开始时电脑屏幕显示什么页面？",
+            "options": [
+                "A. 谷歌浏览器主页面。",
+                "B. 人物信息介绍页面。",
+                "C. 手机、手表销售页面。",
+                "D. 电脑屏幕锁屏页面。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_79": {
+            "id": "7iXM5aq53Ts_79",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "与笔记本电脑互动时，此人的指甲有什么显著特点？",
+            "options": [
+                "A. 指甲修剪得很好且有光泽。",
+                "B. 指甲涂着鲜艳的颜色。",
+                "C. 指甲破损且不整洁。",
+                "D. 指甲上戴着手套。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_80": {
+            "id": "7iXM5aq53Ts_80",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "在谷歌页面显示后页面背景是怎样的？",
+            "options": [
+                "A. 屏幕显示空白的桌面壁纸。",
+                "B. 屏幕显示灰白模糊并带些橙色色调的桌面壁纸。",
+                "C. 屏幕显示郁郁葱葱的密林和透亮湖水的桌面壁纸。",
+                "D. 屏幕显示由红色、黄色、蓝色不同图案拼接的桌面壁纸。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_81": {
+            "id": "7iXM5aq53Ts_81",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "场景中有多少只手在操作笔记本电脑？",
+            "options": [
+                "A. 一只手",
+                "B. 两只手",
+                "C. 三只手",
+                "D. 四只手"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_82": {
+            "id": "7iXM5aq53Ts_82",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "场景中的摄像角度是否始终一致？",
+            "options": [
+                "A. 是的，摄像角度保持一致，提供了清晰、对称的场景视图。",
+                "B. 不，摄像角度经常变化，提供不同的视角。",
+                "C. 是的，但摄像角度偶尔会稍微倾斜以强调某些内容。",
+                "D. 不，摄像角度会改变，但保持了相似的视点。"
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_83": {
+            "id": "7iXM5aq53Ts_83",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "场景中，笔记本电脑是否表现出任何方向性移动？",
+            "options": [
+                "A. 是的，笔记本电脑左右移动。",
+                "B. 是的，笔记本电脑上下倾斜。",
+                "C. 不，笔记本电脑保持静止。",
+                "D. 是的，笔记本电脑旋转了360度。"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_84": {
+            "id": "7iXM5aq53Ts_84",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "在场景中，笔记本电脑的屏幕是否有任何方向上的移动？",
+            "options": [
+                "A. 是的，它从左向右旋转。",
+                "B. 不，屏幕保持静止。",
+                "C. 是的，它前后倾斜。",
+                "D. 是的，它旋转了360度。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_85": {
+            "id": "7iXM5aq53Ts_85",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "在场景中，电脑屏幕上发生了什么变化？",
+            "options": [
+                "A. 电脑屏幕从显示Google主页切换到一个应用程序图标页面。",
+                "B. 电脑屏幕从显示视频播放切换到一个空白的桌面屏幕。",
+                "C. 电脑屏幕从邮箱收件箱切换到一个电子表格应用程序。",
+                "D. 电脑屏幕从一个新闻网站切换到一个文件浏览器界面。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_86": {
+            "id": "7iXM5aq53Ts_86",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "是什么显示了场景中可能存在清洁活动的迹象？",
+            "options": [
+                "A. 键盘按键的光亮外观。",
+                "B. 双手位于“A”、“S”和“D”键附近的位置。",
+                "C. 右下角放置的一块黄色的布。",
+                "D. 显示屏上显示模糊的搜索结果缩略图。"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_87": {
+            "id": "7iXM5aq53Ts_87",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "笔记本电脑屏幕上的应用图标是如何排列的？",
+            "options": [
+                "A. 应用图标从屏幕的右上角排列到左下角。",
+                "B. 应用图标从屏幕的左上角排列到右下角。",
+                "C. 应用图标从屏幕中心排列到各个角落。",
+                "D. 应用图标随机分布在屏幕上。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_88": {
+            "id": "7iXM5aq53Ts_88",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "左手在最初位置是怎样的姿势？",
+            "options": [
+                "A. 左手在触摸板上。",
+                "B. 左手放于键盘左下角。",
+                "C. 左手在键盘上打字。",
+                "D. 左手握住鼠标。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_89": {
+            "id": "7iXM5aq53Ts_89",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "笔记本电脑屏幕上可以看到哪些应用程序图标？",
+            "options": [
+                "A. Skype, Google Chrome, Xcode, DaisyDisk",
+                "B. Skype, Safari, Photoshop, Premiere Pro",
+                "C. Google Chrome, Microsoft Word, iMovie, DaisyDisk",
+                "D. Xcode, WhatsApp, Excel, DaisyDisk"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_90": {
+            "id": "7iXM5aq53Ts_90",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "屏幕上边缘提到了多少个系统状态图标？",
+            "options": [
+                "A. 提到了两个系统状态图标。",
+                "B. 提到了三个系统状态图标。",
+                "C. 提到了四个系统状态图标。",
+                "D. 提到了五个系统状态图标。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_91": {
+            "id": "7iXM5aq53Ts_91",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "笔记本电脑屏幕黑色覆盖层下是否能看到网页背景？",
+            "options": [
+                "A. 不能，背景完全是黑色的，没有网页可见。",
+                "B. 可以，可以看到淡淡的网页背景在黑色覆盖层下。",
+                "C. 不能，黑色覆盖层完全遮住了所有网页背景。",
+                "D. 可以，网页背景清晰可见。"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_92": {
+            "id": "7iXM5aq53Ts_92",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "笔记本电脑屏幕顶部的哪些视觉元素提供数据？",
+            "options": [
+                "A. 活动应用图标",
+                "B. 彩色壁纸设计",
+                "C. 屏幕上边缘的系统状态图标",
+                "D. 应用程序网格布局"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_93": {
+            "id": "7iXM5aq53Ts_93",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "系统状态图标在笔记本电脑屏幕上显示哪些数据？",
+            "options": [
+                "A. 时间“10:44 AM”，互联网连接图标，以及用户标识符“Jeff”。",
+                "B. 时间“12:30 PM”，电池电量指示器，以及用户标识符“Sarah”。",
+                "C. 时间“10:44 AM”，蓝牙图标，以及用户标识符“Mike”。",
+                "D. 时间“11:15 AM”，互联网连接图标，没有用户标识符。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_94": {
+            "id": "7iXM5aq53Ts_94",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "场景最后什么主导了笔记本电脑屏幕？",
+            "options": [
+                "A. 一个单一可见的光标主导了屏幕，屏幕变为全黑色，没有其他元素。",
+                "B. 一排五彩斑斓的应用程序图标主导了屏幕，显示出充满活力和吸引力的画面。",
+                "C. 一系列错误信息和系统警报主导了屏幕，显示系统故障的提示。",
+                "D. 一组复杂的线条和代码矩阵主导了屏幕，暗示一次黑客攻击。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_95": {
+            "id": "7iXM5aq53Ts_95",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "屏幕变黑后，屏幕上还剩下多少视觉元素？",
+            "options": [
+                "A. 两个视觉元素仍然可见。",
+                "B. 没有视觉元素可见。",
+                "C. 三个视觉元素仍然可见。",
+                "D. 一个视觉元素仍然可见。"
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_96": {
+            "id": "7iXM5aq53Ts_96",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "屏幕变黑后是否显示任何文本？",
+            "options": [
+                "A. 是的，屏幕上显示了一条文字信息。",
+                "B. 不，黑屏上没有显示任何文本。",
+                "C. 是的，屏幕上显示了多行代码。",
+                "D. 是的，出现了一个通知弹窗。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_97": {
+            "id": "7iXM5aq53Ts_97",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "过渡到空白黑屏意味着什么？",
+            "options": [
+                "A. 这种过渡暗示了暂停、重置或关机状态。",
+                "B. 这种过渡暗示了升级到一个新的操作系统。",
+                "C. 这种过渡暗示了新软件的安装。",
+                "D. 这种过渡暗示了屏幕亮度的增加。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_98": {
+            "id": "7iXM5aq53Ts_98",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "是什么视觉元素标志着屏幕处于关机或休眠状态？",
+            "options": [
+                "A. 黑屏上仅显示一个光标",
+                "B. 一个充满应用程序图标的鲜艳显示",
+                "C. 带有活动数字元素的深色半透明背景",
+                "D. 一个完全空白且没有光标的屏幕"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_99": {
+            "id": "7iXM5aq53Ts_99",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "屏幕变黑后光标位于何处？",
+            "options": [
+                "A. 在完全黑屏的中央。",
+                "B. 在完全黑屏的左下象限。",
+                "C. 在完全黑屏的右上象限。",
+                "D. 在完全黑屏的右下象限。"
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_100": {
+            "id": "7iXM5aq53Ts_100",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "用户的右手在笔记本电脑上做什么？",
+            "options": [
+                "A. 右手最初悬停在键盘上。",
+                "B. 右手完全离开了笔记本电脑。",
+                "C. 右手用一块橙色的布清洁笔记本电脑。",
+                "D. 右手从未与笔记本电脑互动。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_101": {
+            "id": "7iXM5aq53Ts_101",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "桌子上的布是什么颜色的？",
+            "options": [
+                "A. 布是黄色的。",
+                "B. 布是蓝色的。",
+                "C. 布是绿色的。",
+                "D. 布是红色的。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_102": {
+            "id": "7iXM5aq53Ts_102",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "桌子上的布料的用途是什么？",
+            "options": [
+                "A. 它可能是一块清洁布。",
+                "B. 它是一个装饰元素。",
+                "C. 它用于覆盖笔记本电脑。",
+                "D. 它用来为笔记本电脑提供缓冲。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_103": {
+            "id": "7iXM5aq53Ts_103",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "最初有多少只手可以看见在操作笔记本电脑？",
+            "options": [
+                "A. 最初可以看见一只手在操作笔记本电脑。",
+                "B. 最初可以看见两只手在操作笔记本电脑。",
+                "C. 最初可以看见三只手在操作笔记本电脑。",
+                "D. 最初没有手可以看见在操作笔记本电脑。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_104": {
+            "id": "7iXM5aq53Ts_104",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "场景中笔记本电脑的屏幕是打开的吗？",
+            "options": [
+                "A. 是的，笔记本电脑的屏幕打开并显示了一个明亮的画面。",
+                "B. 不，笔记本电脑的屏幕在整个场景中保持关闭状态。",
+                "C. 是的，笔记本电脑的屏幕不时地闪烁开关。",
+                "D. 不，笔记本电脑的屏幕关闭但显示一幅静态图像。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_105": {
+            "id": "7iXM5aq53Ts_105",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "在场景中，左手是否发生移动？",
+            "options": [
+                "A. 是的，左手抬起与右手交互。",
+                "B. 不，左手在键盘上保持原位。",
+                "C. 场景中左手部分被遮挡，不能判断。",
+                "D. 场景中未有任何手的部位出现。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_106": {
+            "id": "7iXM5aq53Ts_106",
+            "scene": 7,
+            "dimension": "Object Direction",
+            "question": "黄色布在清洁过程中朝哪个方向移动？",
+            "options": [
+                "A. 黄色布在键盘区域动态移动",
+                "B. 黄色布围绕木制桌子的边缘做圆周运动。",
+                "C. 黄色布静止在键盘上。",
+                "D. 黄色布专用于清洁用户的左手。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_107": {
+            "id": "7iXM5aq53Ts_107",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "场景中摄像机角度有变化吗？",
+            "options": [
+                "A. 是的，摄像机角度在整个场景中频繁变化。",
+                "B. 不，摄像机角度保持稳定，场景中没有变化。",
+                "C. 摄像机角度略有变化，但大体保持不变。",
+                "D. 摄像机进行了缩放，但角度没有改变。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_108": {
+            "id": "7iXM5aq53Ts_108",
+            "scene": 7,
+            "dimension": "Speed",
+            "question": "手部动作的速度突出了什么？",
+            "options": [
+                "A. 速度突出了小心的互动和清洁。",
+                "B. 速度突出了混乱的活动和无序。",
+                "C. 速度突出了快速而粗心的检查。",
+                "D. 速度突出了频繁的中断和多任务处理。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_109": {
+            "id": "7iXM5aq53Ts_109",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "在这个场景中，左手的位置会发生什么变化？",
+            "options": [
+                "A. 左手起初放在键盘上，然后移动到外壳上，最后移出场景。",
+                "B. 左手在整个场景中都保持在键盘上。",
+                "C. 左手起初放在桌面上，没有碰到笔记本电脑的外壳。",
+                "D. 左手起初放在桌面上，并没有碰笔记本电脑。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_110": {
+            "id": "7iXM5aq53Ts_110",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "哪种视觉线索表明笔记本电脑反射了周围的环境？",
+            "options": [
+                "A. 笔记本电脑的黑屏显示了双手和物体轮廓模糊影像。",
+                "B. 笔记本电脑的屏幕显示了一张木桌的图像。",
+                "C. 笔记本电脑的屏幕反射了明亮的阳光。",
+                "D. 笔记本电脑的黑屏显示了多个指纹和污痕。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_111": {
+            "id": "7iXM5aq53Ts_111",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "在清洁过程中，左手按住笔记本电脑什么部位保持稳定？",
+            "options": [
+                "A. 外壳左下角",
+                "B. 在触控板上",
+                "C. 键盘下方",
+                "D. 在反光屏幕上"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_112": {
+            "id": "7iXM5aq53Ts_112",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "电脑屏幕反射出手上带有什么配件？",
+            "options": [
+                "A. 一个白色表带",
+                "B. 一个银色手链",
+                "C. 一个皮质腕带",
+                "D. 一个智能手表"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_113": {
+            "id": "7iXM5aq53Ts_113",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "哪只手进行了电脑键盘操作？",
+            "options": [
+                "A. 左手操作",
+                "B. 右手操作",
+                "C. 两只手一起操作",
+                "D. 没有手操作"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_114": {
+            "id": "7iXM5aq53Ts_114",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "场景开始时手是如何变化的？",
+            "options": [
+                "A. 手在进行键盘操作后离开画面，后又进入画面。",
+                "B. 在打字和清理过渡过程中，手多次离开画面。",
+                "C. 在视频中的任何时候，手都没有离开画面。",
+                "D. 手仅在数字交互阶段离开画面。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_115": {
+            "id": "7iXM5aq53Ts_115",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "视频中是否包含了谷歌主页的打开过程？",
+            "options": [
+                "A. 是。",
+                "B. 否。",
+                "C. 只显示了设置界面。",
+                "D. 谷歌主页部分可见。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_116": {
+            "id": "7iXM5aq53Ts_116",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "打字时，手在键盘上的动作是什么？",
+            "options": [
+                "A. 手的运动模糊，表明与笔记本电脑界面的互动。",
+                "B. 手的静止，表示互动的暂停。",
+                "C. 手的向上运动，表明暂停打字。",
+                "D. 手的平稳滑动，保持与键盘的轻触。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_117": {
+            "id": "7iXM5aq53Ts_117",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "哪种摄像技术强调在数字交互过程中按下特定键？",
+            "options": [
+                "A. 使用一个中心在键盘某部分的蓝色边框圆形覆盖层。",
+                "B. 应用整个键盘的动态缩放效果。",
+                "C. 显示手按下按键的慢动作捕捉。",
+                "D. 展示手在键盘上移动的特写镜头。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_118": {
+            "id": "7iXM5aq53Ts_118",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "当谷歌主页出现在电脑屏幕上之后，屏幕会发生什么变化？",
+            "options": [
+                "A. 屏幕切换到一个个人资料界面，显示头像和文字片段。",
+                "B. 屏幕切换到一个明亮的日历视图，显示即将发生的事件。",
+                "C. 屏幕停留在谷歌主页上，没有进一步的变化。",
+                "D. 屏幕切换到全屏播放视频的模式。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_119": {
+            "id": "7iXM5aq53Ts_119",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "什么有助于理解键盘上特定按键的视觉效果？",
+            "options": [
+                "A. 键盘放大半透明蓝色圆形覆盖，模糊背景增强了清晰度。",
+                "B. 一个明亮的白色覆盖和频闪灯效果突出显示了被按下的按键。",
+                "C. 一条红色虚线和时间流逝效果显示了被按下的按键。",
+                "D. 键盘缩小视图中突出显示的按键显示了特定被按下的按键。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_120": {
+            "id": "7iXM5aq53Ts_120",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "Xcode应用程序图标位于屏幕的哪个位置？",
+            "options": [
+                "A. 应用程序图标位于屏幕的左中部。",
+                "B. 应用程序图标位于屏幕的右中部。",
+                "C. 应用程序图标位于屏幕的左下角。",
+                "D. 应用程序图标位于屏幕的右上角。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_121": {
+            "id": "7iXM5aq53Ts_121",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "屏幕应用图标是如何在视觉上呈现的？",
+            "options": [
+                "A. 一个特写镜头，显示电脑屏幕应用图标网格界面。",
+                "B. 一个远距离镜头，显示一个凌乱的办公桌，电脑屏幕处于关闭状态。",
+                "C. 一个侧视图，显示一个人在使用电脑，并且屏幕上弹出多个通知。",
+                "D. 一个灯光昏暗的房间，电脑的屏幕是黑的。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_122": {
+            "id": "7iXM5aq53Ts_122",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "在电脑屏幕转向应用图标页面时，人类的手执行了什么动作？",
+            "options": [
+                "A. 人类的手指指向一个应用图标。",
+                "B. 人类的手滑动屏幕，浏览不同页面的应用图标。",
+                "C. 人类的手电脑键盘上打字。",
+                "D. 人类的手握着一支触控笔并在屏幕上点击。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_123": {
+            "id": "7iXM5aq53Ts_123",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "这只手在场景中是如何描绘的？",
+            "options": [
+                "A. 手指指向屏幕中右侧的一个应用图标。",
+                "B. 显示手平放在MacBook旁边的桌子上。",
+                "C. 手似乎正在MacBook的键盘上打字。",
+                "D. 手被描绘成握着一只触控笔靠近MacBook的屏幕。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_124": {
+            "id": "7iXM5aq53Ts_124",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "场景中主要展示的物品是什么？",
+            "options": [
+                "A. 主要物品是一部智能手机。",
+                "B. 主要物品是一台平板电脑。",
+                "C. 主要物品是一台笔记本电脑。",
+                "D. 主要物品是一台桌面显示器。"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_125": {
+            "id": "7iXM5aq53Ts_125",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "在电脑屏幕最左侧中有多少个应用程序图标？",
+            "options": [
+                "A. 18 个应用程序图标",
+                "B. 20 个应用程序图标",
+                "C. 22 个应用程序图标",
+                "D. 24 个应用程序图标"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_126": {
+            "id": "7iXM5aq53Ts_126",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "该场景在后续画面中聚焦于应用图标界面时，是否包括周围的物理环境？",
+            "options": [
+                "A. 是的，该场景继续展示周围的物理环境。",
+                "B. 不是，在后续画面中，焦点完全转移到笔记本屏幕上。",
+                "C. 有时，场景会在展示笔记本屏幕和周围的物理环境之间切换。",
+                "D. 场景未显示任何数字界面或物理环境。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_127": {
+            "id": "7iXM5aq53Ts_127",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "人类的手指在电脑屏幕上指向哪个方向？",
+            "options": [
+                "A. 人类的手指指向电脑屏幕的中右方向。",
+                "B. 人类的手指指向电脑屏幕的左上方向。",
+                "C. 人类的手指指向电脑屏幕的右下方向。",
+                "D. 人类的手指指向电脑屏幕的中心。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_128": {
+            "id": "7iXM5aq53Ts_128",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "在这一场景中，呈现方式如何从环境视图转变为特写视图？",
+            "options": [
+                "A. 它从放置在桌面上电脑环境视图切换为其应用图标界面的特写高细节视图。",
+                "B. 它从屏幕的特写视图转换为被物理对象包围的电脑的环境视图。",
+                "C. 焦点从界面模糊视图转移到被其他设备包围的清晰详细的电脑视图。",
+                "D. 它从数字界面的展示直接切换到包含桌面上额外工具的工作区域高角度镜头。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_129": {
+            "id": "7iXM5aq53Ts_129",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "在电脑屏幕应用图标顶部的工具栏中有什么视觉元素？",
+            "options": [
+                "A. 工具栏显示一个半透明的搜索栏。",
+                "B. 工具栏显示一个纯黑色的搜索栏。",
+                "C. 工具栏只显示生产力应用程序的图标。",
+                "D. 工具栏显示一个数字时钟和天气信息。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_130": {
+            "id": "7iXM5aq53Ts_130",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "电脑屏幕上的应用图标网格有多少行？",
+            "options": [
+                "A. 3行",
+                "B. 4行",
+                "C. 5行",
+                "D. 6行"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_131": {
+            "id": "7iXM5aq53Ts_131",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "电脑屏幕上应用图标的网格有多少列？",
+            "options": [
+                "A. 4 列",
+                "B. 5 列",
+                "C. 6 列",
+                "D. 7 列"
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_132": {
+            "id": "7iXM5aq53Ts_132",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "场景中显示了钟表图标吗？",
+            "options": [
+                "A. 是的，当抽象的同心圆过渡时，视频会显示钟表图标。",
+                "B. 不，视频中只显示了抽象的同心圆，没有任何钟表图标。",
+                "C. 不，视频只专注于整个详细的电脑界面布局。",
+                "D. 是的，但钟表图标是作为电脑界面的一部分显示，而不是从同心圆中出现的。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_133": {
+            "id": "7iXM5aq53Ts_133",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "视频中的视觉主题是如何演变的？",
+            "options": [
+                "A. 视觉主题从详细的电脑界面过渡到简约的同心圆设计，之后变为干净的时钟图标，最后变为一个品牌网站。",
+                "B. 视觉主题从简约的抽象设计演变为充满应用图标的网格，并突然黑屏。",
+                "C. 场景从杂乱的随机颜色和形状界面开始，演变为详细的汽车绘图，接着是生动的电脑屏幕。",
+                "D. 视觉主题从一个详细的自然场景开始，转变为拥挤的城市景观，最终是复杂的数学公式。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_134": {
+            "id": "7iXM5aq53Ts_134",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "从同心圆过渡到时钟图标的象征物是什么？",
+            "options": [
+                "A. 同心圆变换颜色形成时钟数字。",
+                "B. 外部深蓝色环形成时钟框架。",
+                "C. 浅蓝色背景变形成日历。",
+                "D. 顶部的工具栏变为时钟数字。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_135": {
+            "id": "7iXM5aq53Ts_135",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "视频中间有哪些视觉元素建立了对称感？",
+            "options": [
+                "A. 浅蓝色最外圈、深蓝色内圈和中心浅蓝色填充圆创造了对称感。",
+                "B. 4x5的彩色应用图标网格以及纵向的应用快捷方式列建立了对称感。",
+                "C. 屏幕顶部的半透明工具栏创造了对称感。",
+                "D. 深蓝色钟框和指向2:00的钟表指针建立了对称感。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_136": {
+            "id": "7iXM5aq53Ts_136",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "当同心圆出现时，'9to5mac.com' 位于什么位置？",
+            "options": [
+                "A. 在同心圆的中心。",
+                "B. 在同心圆的外部。",
+                "C. 在同心圆的顶部。",
+                "D. 在同心圆的下方。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_137": {
+            "id": "7iXM5aq53Ts_137",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "视频场景的背景颜色是什么？",
+            "options": [
+                "A. 视频场景的背景颜色是浅蓝色。",
+                "B. 视频场景的背景颜色是深蓝色。",
+                "C. 视频场景的背景颜色是白色。",
+                "D. 视频场景的背景颜色是灰色。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_138": {
+            "id": "7iXM5aq53Ts_138",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "视频场景中出现了哪些元素？",
+            "options": [
+                "A. 视频场景包括一个时钟图标、同心圆以及简约的文字展示，强调品牌和清晰度。",
+                "B. 视频场景融合了一个时钟图标、棋盘图案和明亮对比的颜色，用于突出重点。",
+                "C. 视频场景呈现了一个时钟图标、漂浮的云和彩霞主题的背景，带有鲜艳的颜色。",
+                "D. 视频场景包括一个时钟图标、同心方形以及各种颜色的文本，营造出动态效果。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_139": {
+            "id": "7iXM5aq53Ts_139",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "视频中显示的“9to5mac.com”文字是什么颜色？",
+            "options": [
+                "A. 深蓝色",
+                "B. 浅蓝色",
+                "C. 红色",
+                "D. 黑色"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_140": {
+            "id": "7iXM5aq53Ts_140",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "背景颜色是否发生变化？",
+            "options": [
+                "A. 是的，背景颜色从浅蓝变为深蓝。",
+                "B. 不，背景颜色在整个场景中始终保持浅蓝。",
+                "C. 是的，背景颜色从浅蓝变为白色。",
+                "D. 是的，背景颜色从浅蓝变为蓝色和灰色的渐变。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_141": {
+            "id": "7iXM5aq53Ts_141",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "在设计转换过程中，同心圆会发生什么变化？",
+            "options": [
+                "A. 同心圆变大。",
+                "B. 同心圆变色。",
+                "C. 同心圆变大后移除。",
+                "D. 同心圆移到角落。"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_142": {
+            "id": "7iXM5aq53Ts_142",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "在移除同心圆后，设计会过渡到什么样的效果？",
+            "options": [
+                "A. 它过渡到以纯浅蓝背景显示居中单独的“9to5mac.com”。",
+                "B. 它过渡到一个包含零散浅蓝色时钟图标以及深蓝背景的设计。",
+                "C. 它过渡到一个大胆的多彩图案，并以“9to5mac.com”为中心框住。",
+                "D. 它过渡到以白色背景显示居中单独的“9to5mac.com”。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_143": {
+            "id": "7iXM5aq53Ts_143",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "什么视觉元素有助于保持对'9to5mac.com'文本的关注？",
+            "options": [
+                "A. 深蓝色字体",
+                "B. 浅蓝色背景",
+                "C. 同心圆",
+                "D. 以上都是"
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_144": {
+            "id": "7iXM5aq53Ts_144",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "第一个场景中使用什么清洁笔记本电脑？",
+            "options": [
+                "A. 一块黄色的清洁布",
+                "B. 一块白色的棉布",
+                "C. 一张蓝色的一次性湿巾",
+                "D. 一张黄色的纸巾"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_145": {
+            "id": "7iXM5aq53Ts_145",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在键盘清洁后，时钟会变成什么？",
+            "options": [
+                "A. 时钟变成了 '9TO5Mac' 的标志，其中时钟作为 'TO' 中的 'O'。",
+                "B. 时钟变成了一系列移动的同心圆，形成了 '9TO5Mac' 的标志。",
+                "C. 时钟变成了一个没有文字或标志的纯蓝色方块。",
+                "D. 时钟变成了 '9TO5Mac' 标志淡入黑色背景的动画。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_146": {
+            "id": "7iXM5aq53Ts_146",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "时钟过渡到 '9TO5Mac' 标志象征着什么？",
+            "options": [
+                "A. 它象征着时间的概念与品牌相结合。",
+                "B. 它象征着时钟设计的技术进步。",
+                "C. 它代表了工作日中的时间流逝。",
+                "D. 它表明工作场所准时的重要性。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_147": {
+            "id": "7iXM5aq53Ts_147",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "猫在工作空间布置中扮演什么角色？",
+            "options": [
+                "A. 猫阻挡笔记本电脑屏幕和键盘，并与周围环境进行有趣互动。",
+                "B. 猫作为一个静态的设计元素，放置在笔记本电脑旁边。",
+                "C. 猫强调简约，安静地待在背景中而不进行互动。",
+                "D. 猫作为生产力和时间管理的象征。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_148": {
+            "id": "7iXM5aq53Ts_148",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在猫趴在电脑上时，工作空间背景是怎样的？",
+            "options": [
+                "A. 工作空间背景包括一盏台灯、一个橙色音箱、一只白色鼠标和其他物品。",
+                "B. 工作空间背景杂乱，充满了纸张和书籍，使猫咪难以移动。",
+                "C. 工作空间背景昏暗，隐约能见灰色墙壁、黑色书桌和一个文件夹。",
+                "D. 工作空间背景包括一个书柜、一个黑色音响、一本打开的书和其他物品。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_149": {
+            "id": "7iXM5aq53Ts_149",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在文字显示结束后，笔记本电脑屏幕上显示的第一个数字界面是什么？",
+            "options": [
+                "A. 笔记本电脑屏幕显示多个页面，头像和不同文本较为显眼。",
+                "B. 笔记本电脑屏幕显示了一个日历应用。",
+                "C. 笔记本电脑屏幕显示了一个编程界面。",
+                "D. 笔记本电脑屏幕展示了一个社交媒体界面。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_150": {
+            "id": "7iXM5aq53Ts_150",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在文字显示结束后，笔记本电脑屏幕上的第二个数字界面是什么？",
+            "options": [
+                "A. 笔记本电脑屏幕显示了手表手机介绍页面。",
+                "B. 笔记本电脑屏幕显示了社交媒体动态。",
+                "C. 笔记本电脑屏幕显示了日历应用程序。",
+                "D. 笔记本电脑屏幕显示了音乐播放器界面。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_151": {
+            "id": "7iXM5aq53Ts_151",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在文字显示结束后，笔记本电脑屏幕上显示的第三个数字界面是什么？",
+            "options": [
+                "A. 笔记本电脑屏幕显示了谷歌主页面。",
+                "B. 笔记本电脑屏幕显示了电子邮件收件箱。",
+                "C. 笔记本电脑屏幕显示了日历应用程序。",
+                "D. 笔记本电脑屏幕关闭，仅显示了一个反射。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_152": {
+            "id": "7iXM5aq53Ts_152",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "猫在挡住笔记本电脑键盘和屏幕后会做什么？",
+            "options": [
+                "A. 猫跳下桌子。",
+                "B. 猫调整了它的位置。",
+                "C. 猫开始大声呼噜。",
+                "D. 猫撞倒了一杯水。"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_153": {
+            "id": "7iXM5aq53Ts_153",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "猫趴在电脑上时，屏幕上显示的是什么？",
+            "options": [
+                "A. 笔记本电脑屏幕显示谷歌主页面。",
+                "B. 笔记本电脑屏幕显示一个暂停的视频。",
+                "C. 笔记本电脑屏幕显示一个空白的桌面背景。",
+                "D. 笔记本电脑屏幕更新为一篇新闻文章。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_154": {
+            "id": "7iXM5aq53Ts_154",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "当焦点第一次转移到电脑屏幕时，显示的是什么？",
+            "options": [
+                "A. 首先显示的是文本网页，右侧有显眼图象。",
+                "B. 首先显示的是带有主页的Safari浏览器。",
+                "C. 首先显示的是一个文本文档。",
+                "D. 首先显示的是MacBook的桌面背景。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_155": {
+            "id": "7iXM5aq53Ts_155",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "镜头聚焦半透明篮圈内，可以观察到左手食指按了哪个按键？",
+            "options": [
+                "A. “Q”",
+                "B. “A”",
+                "C. “Z”",
+                "D. “command”"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_156": {
+            "id": "7iXM5aq53Ts_156",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频结尾的抽象几何设计之后显示什么？",
+            "options": [
+                "A. 显示一个时钟图标。",
+                "B. 显示一个天气图标。",
+                "C. 显示一个日历图标。",
+                "D. 显示一个邮件图标。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_157": {
+            "id": "7iXM5aq53Ts_157",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "视频最后电脑屏幕上显示的是什么?",
+            "options": [
+                "A. 显示一个极简的'9to5mac.com'标志。",
+                "B. 显示一个带同心圆的深蓝色时钟图标。",
+                "C. 显示一个充满活力的多色几何设计。",
+                "D. 显示一个没有文本或标志的淡蓝色背景。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_158": {
+            "id": "7iXM5aq53Ts_158",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "Google Chrome这个应用图标是怎样的？",
+            "options": [
+                "A. 图标是绿色、黄色、红色组成的。",
+                "B. 图标是黄色、蓝色、红色组成的。",
+                "C. 图标是黑色、蓝色、黄色组成的。",
+                "D. 图标是红色、橙色、蓝色组成的。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_159": {
+            "id": "7iXM5aq53Ts_159",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么笔记本电脑屏幕会切换到Google主页？",
+            "options": [
+                "A. 切换到Google主页可能代表浏览会话或用户交互的过渡。",
+                "B. 切换到Google主页是为了展示一个反射。",
+                "C. 切换到Google主页是在示范屏幕亮度水平。",
+                "D. 切换到Google主页表示演示的结束。"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_160": {
+            "id": "7iXM5aq53Ts_160",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在视频叙述中包含时钟图标的目的是什么？",
+            "options": [
+                "A. 时钟图标强调时间的推进以及视频叙述中向品牌化的过渡。",
+                "B. 时钟图标作为装饰元素存在，并没有传达任何特定的含义。",
+                "C. 时钟图标突出视频信息中守时的重要性。",
+                "D. 时钟图标代表了一种与网站主题相关的经典设计。"
+            ],
+            "answer": "A"
+        }
+    }
+}

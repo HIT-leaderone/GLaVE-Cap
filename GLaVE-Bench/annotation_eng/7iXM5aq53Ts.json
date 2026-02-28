@@ -1,0 +1,2109 @@
+{
+    "scene_hint": {
+        "0": "A hand is cleaning the keyboard with a cloth.",
+        "1": "The blue clock graphic becomes part of the text.",
+        "2": "Using a machine to clean the keyboard.",
+        "3": "A cat appears and lies on the computer.",
+        "4": "The computer page is open, and a hand is wiping the keyboard with a cloth.",
+        "5": "The webpage is displayed on the screen.",
+        "6": "A hand is operating the computer, the computer screen enlarges and goes black.",
+        "7": "The computer page closes, and the keyboard cleaning continues.",
+        "8": "Demonstrating computer keys, then the computer screen is enlarged.",
+        "9": "The blue clock transforms, and '9to5mac.com' text appears."
+    },
+    "qa": {
+        "7iXM5aq53Ts_0": {
+            "id": "7iXM5aq53Ts_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "How is the overall environment of this scene?",
+            "options": [
+                "A. The environment looks cluttered and busy.",
+                "B. The environment looks clean and minimalist.",
+                "C. The environment looks dark and gloomy.",
+                "D. The environment looks colorful and vibrant."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_1": {
+            "id": "7iXM5aq53Ts_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the background of this scene?",
+            "options": [
+                "A. The scene takes place in a cluttered office space.",
+                "B. The scene is set on a dark metal table.",
+                "C. The scene takes place on a light-colored wooden table.",
+                "D. The scene takes place on a glass table with a beautiful view outside the window."
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_2": {
+            "id": "7iXM5aq53Ts_2",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What action is this person performing in this scene?",
+            "options": [
+                "A. The person is cleaning a laptop with a towel.",
+                "B. The person is typing on the laptop keyboard.",
+                "C. The person is assembling components of the laptop.",
+                "D. The person is browsing the internet on the laptop."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_3": {
+            "id": "7iXM5aq53Ts_3",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What color is the laptop in the scene?",
+            "options": [
+                "A. The laptop is silver.",
+                "B. The laptop is black.",
+                "C. The laptop is white.",
+                "D. The laptop is gray."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_4": {
+            "id": "7iXM5aq53Ts_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What color are the laptop screen and keyboard in the scene?",
+            "options": [
+                "A. The screen is black, and the keyboard is black.",
+                "B. The screen is silver, and the keyboard is black.",
+                "C. The screen is black, and the keyboard is silver.",
+                "D. The screen is silver, and the keyboard is silver."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_5": {
+            "id": "7iXM5aq53Ts_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What style is the laptop keyboard in the scene?",
+            "options": [
+                "A. The computer keyboard has black keycaps and white letters.",
+                "B. The computer keyboard has white keycaps and black letters.",
+                "C. The computer keyboard has blue keycaps and yellow letters.",
+                "D. The computer keyboard has red keycaps and white letters."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_6": {
+            "id": "7iXM5aq53Ts_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many hands can be seen in the scene?",
+            "options": [
+                "A. One hand",
+                "B. Two hands",
+                "C. Three hands",
+                "D. No hands"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_7": {
+            "id": "7iXM5aq53Ts_7",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is the laptop screen open?",
+            "options": [
+                "A. Yes, the screen is open and displaying a bright image.",
+                "B. No, the laptop screen is dark.",
+                "C. Yes, the screen is slightly lit, and the display content can be seen.",
+                "D. No, the screen is displaying a blank white."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_8": {
+            "id": "7iXM5aq53Ts_8",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "Which part of the laptop is being wiped with a towel?",
+            "options": [
+                "A. The screen and top of the laptop",
+                "B. The keyboard and bottom of the laptop",
+                "C. The left side of the laptop",
+                "D. The touchpad and the right edge of the laptop"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_9": {
+            "id": "7iXM5aq53Ts_9",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "What is the direction of movement of the cleaning cloth when cleaning a laptop?",
+            "options": [
+                "A. Wipe the keyboard horizontally",
+                "B. Wipe the screen vertically",
+                "C. Wipe the laptop in a circular motion",
+                "D. The direction is not constant"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_10": {
+            "id": "7iXM5aq53Ts_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in the scene?",
+            "options": [
+                "A. The camera angle is directly from above, capturing the scene from the top.",
+                "B. The camera angle is from the side, showing the side profile of the laptop.",
+                "C. The camera angle is from below, looking up at the laptop.",
+                "D. The camera angle is at an angle, capturing the laptop from the front."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_11": {
+            "id": "7iXM5aq53Ts_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What visual cues indicate the position of the light source in the scene?",
+            "options": [
+                "A. The blurred image reflected on the dark computer screen suggests the light source is above and slightly behind the person.",
+                "B. The bright orange microfiber cloth is illuminated, indicating the light source is directly in front of the person.",
+                "C. The wooden surface is shiny, suggesting the light source is below the table.",
+                "D. The keyboard keys appear glossy, indicating the light source is coming from the side."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_12": {
+            "id": "7iXM5aq53Ts_12",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What is the visible hand doing with the yellow cleaning cloth?",
+            "options": [
+                "A. The visible hand is using the cleaning cloth to wipe the keyboard and palm rest area of the computer.",
+                "B. The visible hand is using the yellow cleaning cloth to polish the laptop screen.",
+                "C. The visible hand is holding the yellow cleaning cloth still, without making any wiping motions.",
+                "D. The visible hand folds the yellow cleaning cloth and sets it aside."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_13": {
+            "id": "7iXM5aq53Ts_13",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "What does a closed laptop screen do?",
+            "options": [
+                "A. A closed screen faintly reflects the surrounding environment.",
+                "B. A closed screen vividly displays colorful images.",
+                "C. A closed screen plays videos.",
+                "D. A closed screen is completely dark and reflects nothing."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_14": {
+            "id": "7iXM5aq53Ts_14",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What color is the laptop keyboard?",
+            "options": [
+                "A. The laptop has a black keyboard.",
+                "B. The laptop has a white keyboard.",
+                "C. The laptop has a silver keyboard.",
+                "D. The laptop has a gray keyboard."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_15": {
+            "id": "7iXM5aq53Ts_15",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What types of keys are on a laptop keyboard?",
+            "options": [
+                "A. A laptop keyboard has alphanumeric keys and function keys.",
+                "B. A laptop keyboard has numeric keys and multimedia keys.",
+                "C. A laptop keyboard only has function keys.",
+                "D. A laptop keyboard has gaming keys and shortcut keys."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_16": {
+            "id": "7iXM5aq53Ts_16",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many hands are needed for the cleaning process?",
+            "options": [
+                "A. The cleaning process requires one hand.",
+                "B. The cleaning process requires two hands.",
+                "C. The cleaning process requires three hands.",
+                "D. The cleaning process requires four hands."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_17": {
+            "id": "7iXM5aq53Ts_17",
+            "scene": 0,
+            "dimension": "Camera Direction",
+            "question": "Will the camera angle change during the cleaning process?",
+            "options": [
+                "A. Yes, it will switch to a side angle.",
+                "B. Yes, it will switch to a front view.",
+                "C. No, the camera angle remains consistent, always shooting from directly above.",
+                "D. Yes, it will move to a magnified view."
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_18": {
+            "id": "7iXM5aq53Ts_18",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What change occurred to the cleaning cloth in this scene?",
+            "options": [
+                "A. The orange cleaning cloth disappeared and was replaced by the yellow cleaning cloth.",
+                "B. The yellow cleaning cloth disappeared and was replaced by the orange cleaning cloth.",
+                "C. The cleaning cloth changed from yellow to red.",
+                "D. The cleaning cloth is still yellow and has not changed."
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_19": {
+            "id": "7iXM5aq53Ts_19",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements highlight the cleaning process in the scene?",
+            "options": [
+                "A. Soft diffused light and consistent overhead angles ensure the cleaning process is clearly visible.",
+                "B. Bright direct light and side shooting angles make the cleaning process less visible.",
+                "C. Strong shadows and low angles highlight the cleaning process.",
+                "D. Dim lighting and distant shooting angles enhance the visibility of the cleaning process."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_20": {
+            "id": "7iXM5aq53Ts_20",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where does the opening scene take place?",
+            "options": [
+                "A. The opening scene takes place in the office.",
+                "B. The opening scene is set against a blue background.",
+                "C. The opening scene takes place in the living room.",
+                "D. The opening scene is set against a red background."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_21": {
+            "id": "7iXM5aq53Ts_21",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What does the scene look like at the beginning?",
+            "options": [
+                "A. The scene has a colorful explosion effect, accompanied by scattered multiple points.",
+                "B. The scene has a central white dot, creating a clean and distinct effect.",
+                "C. The scene is filled with multiple clock hands showing different times.",
+                "D. The scene is a cluttered table with various tech gadgets scattered on it."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_22": {
+            "id": "7iXM5aq53Ts_22",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What did the white dot in the video turn into?",
+            "options": [
+                "A. The white dot evolved into an analog-style clock.",
+                "B. The white dot transformed into an electronic stopwatch.",
+                "C. The white dot morphed into a rotating globe.",
+                "D. The white dot turned into a glowing star."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_23": {
+            "id": "7iXM5aq53Ts_23",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the initial activity depicted before the scene transition?",
+            "options": [
+                "A. The initial activity depicted is cleaning the laptop.",
+                "B. The initial activity depicted is checking the time on the clock.",
+                "C. The initial activity depicted is designing a logo.",
+                "D. The initial activity depicted is setting up the projector."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_24": {
+            "id": "7iXM5aq53Ts_24",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What is the time shown on the clock in the scene?",
+            "options": [
+                "A. 7:05",
+                "B. 3:00",
+                "C. 12:00.",
+                "D. 9:00."
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_25": {
+            "id": "7iXM5aq53Ts_25",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Will the clock in the video be integrated into the '9TO5Mac' logo?",
+            "options": [
+                "A. Yes, the clock is integrated into the '9TO5Mac' logo.",
+                "B. No, the clock remains separate from the '9TO5Mac' logo throughout the video.",
+                "C. Yes, but the clock only appears as a background element and is not integrated into the logo.",
+                "D. No, the clock in the '9TO5Mac' logo is replaced by another symbol."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_26": {
+            "id": "7iXM5aq53Ts_26",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What final change did the clock undergo in the scene?",
+            "options": [
+                "A. The clock was fixed at 9:00 and then merged into the '9TO5Mac' logo.",
+                "B. The clock turned into a stopwatch with the hands stopping at 6:00.",
+                "C. The clock turned into a calendar displaying the date 9/5.",
+                "D. The clock completely disappeared, leaving only a blank blue background."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_27": {
+            "id": "7iXM5aq53Ts_27",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What visual background is shown at the end of the scene?",
+            "options": [
+                "A. The background changes to a light blue background.",
+                "B. The background remains a solid static blue.",
+                "C. The background changes to a solid dark blue without a gradient.",
+                "D. The background changes to a vibrant red and white pattern."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_28": {
+            "id": "7iXM5aq53Ts_28",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What is the color scheme of the '9TO5Mac' logo?",
+            "options": [
+                "A. The '9TO5Mac' logo uses a mix of dark blue and light blue text.",
+                "B. The '9TO5Mac' logo uses a mix of green and yellow text.",
+                "C. The '9TO5Mac' logo uses a mix of red and orange text.",
+                "D. The '9TO5Mac' logo uses a mix of purple and pink text."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_29": {
+            "id": "7iXM5aq53Ts_29",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "How to integrate brand image into the scene?",
+            "options": [
+                "A. The brand image is reflected by incorporating a clock into the '9TO5Mac' logo.",
+                "B. The brand image is showcased by changing the background color to red.",
+                "C. The brand image is reflected by adding ticking sound effects.",
+                "D. The brand image is showcased by displaying a calendar with the logo."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_30": {
+            "id": "7iXM5aq53Ts_30",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "From the video, where is the position of the white ceramic plate relative to the silver laptop?",
+            "options": [
+                "A. The white ceramic plate is located to the left of the silver laptop.",
+                "B. The white ceramic plate is located directly in front of the silver laptop.",
+                "C. The white ceramic plate is located above the silver laptop.",
+                "D. The white ceramic plate is located to the right of the silver laptop."
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_31": {
+            "id": "7iXM5aq53Ts_31",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the overall work environment described in the scene?",
+            "options": [
+                "A. The workspace is messy and chaotic.",
+                "B. The workspace is tidy and bright.",
+                "C. The workspace is dim and unappealing.",
+                "D. The workspace is vibrant and colorful."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_32": {
+            "id": "7iXM5aq53Ts_32",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Is there a direct human presence in the video?",
+            "options": [
+                "A. Yes, there is a person using a laptop.",
+                "B. No, there is no direct human presence in the video.",
+                "C. Yes, there is a person eating cake.",
+                "D. Yes, there is someone holding a microphone."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_33": {
+            "id": "7iXM5aq53Ts_33",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Do the objects in the video suggest human activity or interaction?",
+            "options": [
+                "A. Yes, these objects indicate that there is human activity or interaction taking place.",
+                "B. No, these objects fail to suggest any human activity or interaction.",
+                "C. Yes, but these objects are unrelated to human activity or interaction.",
+                "D. No, these objects suggest a completely static environment."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_34": {
+            "id": "7iXM5aq53Ts_34",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What does this black and gray device look like?",
+            "options": [
+                "A. A camera lens",
+                "B. A remote control",
+                "C. A cleaner",
+                "D. A flashlight"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_35": {
+            "id": "7iXM5aq53Ts_35",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "What is the location of the black handheld device?",
+            "options": [
+                "A. On the ceramic plate",
+                "B. On the keyboard",
+                "C. In the drawer",
+                "D. On the floor"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_36": {
+            "id": "7iXM5aq53Ts_36",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What does the position of the black handheld device indicate?",
+            "options": [
+                "A. The device is used for decoration.",
+                "B. The device is used for cleaning the keyboard.",
+                "C. The device was accidentally left there.",
+                "D. The device is used for charging the laptop."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_37": {
+            "id": "7iXM5aq53Ts_37",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What are the main items highlighted in the workspace?",
+            "options": [
+                "A. A silver laptop, a piece of food and a fork on a porcelain plate, and a black handheld device.",
+                "B. A silver laptop, a pair of headphones, and a notebook.",
+                "C. A silver laptop, a porcelain plate filled with cake, and a white charger plug.",
+                "D. A silver laptop, a porcelain cup with coffee, and a black charger plug."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_38": {
+            "id": "7iXM5aq53Ts_38",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "Is there any change in the lighting of the workspace in the video?",
+            "options": [
+                "A. Yes, the lighting changed from warm tones to cool tones.",
+                "B. Yes, the lighting became brighter at the end of the video.",
+                "C. No, the lighting remained consistent throughout the video.",
+                "D. Yes, the lighting dimmed when the microphone appeared."
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_39": {
+            "id": "7iXM5aq53Ts_39",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What happened to the black handheld device that looks like a microphone in the video?",
+            "options": [
+                "A. The black handheld device slowly moves across the keyboard and is then removed from the frame.",
+                "B. The black handheld device remains on the table, symbolizing ongoing activity.",
+                "C. The black handheld device is introduced near the laptop and stays in place, permanently altering the layout.",
+                "D. The black handheld device briefly appears in the background, having no significant impact on the workspace."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_40": {
+            "id": "7iXM5aq53Ts_40",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "When the black handheld device is removed, in which direction does it move?",
+            "options": [
+                "A. To the left",
+                "B. To the right",
+                "C. The exact direction of its movement is not clearly stated in the video",
+                "D. Upward"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_41": {
+            "id": "7iXM5aq53Ts_41",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "Whose personal profile is displayed on the laptop screen?",
+            "options": [
+                "A. Jeff Benjamin",
+                "B. John Benjamin",
+                "C. Jake Stonemason",
+                "D. Jim Stockwell"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_42": {
+            "id": "7iXM5aq53Ts_42",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the cat located at the end of the scene?",
+            "options": [
+                "A. The cat is curled up next to the laptop.",
+                "B. The cat is lying on the keyboard.",
+                "C. The cat is sitting on the ceramic plate.",
+                "D. The cat is under the table."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_43": {
+            "id": "7iXM5aq53Ts_43",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What content was displayed on the laptop screen after the cat disrupted the scene?",
+            "options": [
+                "A. The laptop screen displayed an online shopping page showcasing smartwatches, tablets, and Apple products.",
+                "B. The laptop screen displayed a personal homepage and media content named 'Jack Stooffansen'.",
+                "C. The laptop screen displayed a desktop wallpaper of a tranquil beach.",
+                "D. The laptop screen displayed an unresponsive black and white error screen."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_44": {
+            "id": "7iXM5aq53Ts_44",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "Has the porcelain plate changed position in the current scene?",
+            "options": [
+                "A. Yes, the porcelain plate has changed position multiple times in the scene.",
+                "B. Yes, the porcelain plate has slightly moved towards the cat in the scene.",
+                "C. No, the porcelain plate did not appear in the entire scene.",
+                "D. No, but the porcelain plate was removed midway through the scene."
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_45": {
+            "id": "7iXM5aq53Ts_45",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "Did the fork change its position in the scene?",
+            "options": [
+                "A. Yes, the fork moved to the edge of the table.",
+                "B. Yes, the fork moved onto the plate.",
+                "C. No, the fork did not appear throughout the scene.",
+                "D. Yes, the fork was taken off the table midway through the video."
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_46": {
+            "id": "7iXM5aq53Ts_46",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "How is the speed of the cat's movements described in the video?",
+            "options": [
+                "A. The cat's movements are subtle and slow.",
+                "B. The cat's movements are quick and unstable.",
+                "C. The cat's movements are aggressive and fast.",
+                "D. The cat's movements are unpredictable and erratic."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_47": {
+            "id": "7iXM5aq53Ts_47",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What does the cat's clothing look like?",
+            "options": [
+                "A. A light-colored garment with gray polka dots.",
+                "B. A light green garment with stripes.",
+                "C. A light blue garment with wave patterns.",
+                "D. A pink garment with floral patterns."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_48": {
+            "id": "7iXM5aq53Ts_48",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "From the perspective, where does the cat appear on the keyboard?",
+            "options": [
+                "A. The cat appears from the left side of the screen.",
+                "B. The cat appears from the right side of the screen.",
+                "C. The cat jumps in from the top of the screen.",
+                "D. Unable to accurately determine."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_49": {
+            "id": "7iXM5aq53Ts_49",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "From the video, where is the cat's tail located when the cat lies down?",
+            "options": [
+                "A. The cat's tail curls upwards and is slightly to the left in the frame.",
+                "B. The cat's tail curls downwards and is slightly to the right in the frame.",
+                "C. The cat's tail curls upwards and is slightly to the right in the frame.",
+                "D. The cat's tail is flat on the table."
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_50": {
+            "id": "7iXM5aq53Ts_50",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What change occurred on the laptop screen?",
+            "options": [
+                "A. The screen changed from a promotional product page to the Google homepage.",
+                "B. The screen changed from the email inbox to a promotional product page.",
+                "C. The screen changed from a social media feed to a news website.",
+                "D. The screen changed from a blank desktop to a video call."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_51": {
+            "id": "7iXM5aq53Ts_51",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "What is located on the right side of the table after the cat lies down?",
+            "options": [
+                "A. A bright orange cube-shaped speaker",
+                "B. A black coffee mug",
+                "C. A tablet with a red border",
+                "D. A small potted plant"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_52": {
+            "id": "7iXM5aq53Ts_52",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many of the cat's paws are visible in this scene?",
+            "options": [
+                "A. The cat has no visible paws.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_53": {
+            "id": "7iXM5aq53Ts_53",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Does this cat's outfit have green accents?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Maybe",
+                "D. Not mentioned"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_54": {
+            "id": "7iXM5aq53Ts_54",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "Which part of the cat's body is resting on the laptop?",
+            "options": [
+                "A. Its head and body",
+                "B. Its tail and paws",
+                "C. Its ears and whiskers",
+                "D. Its legs and tail"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_55": {
+            "id": "7iXM5aq53Ts_55",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "Has the camera angle changed?",
+            "options": [
+                "A. From a direct overhead view to a slightly tilted view.",
+                "B. From an under-the-table view to a direct overhead view.",
+                "C. From a right-side view to a direct overhead view.",
+                "D. From an under-the-table view to a slightly tilted view."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_56": {
+            "id": "7iXM5aq53Ts_56",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What is the visual effect of shooting from a slightly tilted angle?",
+            "options": [
+                "A. It shows more of the workspace, displaying the layout of the desk.",
+                "B. It only highlights the laptop screen, emphasizing the Google homepage.",
+                "C. It obscures the workspace, leaving only the cat in focus.",
+                "D. It eliminates the depth of the scene, creating a flat and featureless composition."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_57": {
+            "id": "7iXM5aq53Ts_57",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "How does the reflection of light on a laptop screen affect video quality?",
+            "options": [
+                "A. The reflection causes a rectangular exposure on the screen, but other areas can still maintain clarity.",
+                "B. The reflection makes the screen completely dark, making it impossible to view any content.",
+                "C. The reflection creates a rainbow prism effect, significantly distorting the video's colors.",
+                "D. The reflection leads to screen overexposure, washing out all the details of the video."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_58": {
+            "id": "7iXM5aq53Ts_58",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Which visual element on the laptop screen indicates ongoing browsing activity?",
+            "options": [
+                "A. Google search homepage.",
+                "B. Product promotion page full of advertisements.",
+                "C. Blank desktop background.",
+                "D. Full-screen playing online video."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_59": {
+            "id": "7iXM5aq53Ts_59",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "Where are the utensils placed?",
+            "options": [
+                "A. The utensils are placed on a light-colored wooden table, next to a laptop.",
+                "B. The utensils are placed on a dark-colored wooden table, next to a smartphone.",
+                "C. The utensils are placed on a glass table, next to a stack of books.",
+                "D. The utensils are placed on a metal countertop near the coffee machine."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_60": {
+            "id": "7iXM5aq53Ts_60",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What color is the cleaning cloth used to wipe the keyboard in this scene?",
+            "options": [
+                "A. Black",
+                "B. Yellow",
+                "C. Blue",
+                "D. Red"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_61": {
+            "id": "7iXM5aq53Ts_61",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is food displayed in this scene?",
+            "options": [
+                "A. Yes, in the white plate on the right side of the screen.",
+                "B. Yes, in the white plate on the left side of the screen.",
+                "C. Yes, in the white plate on the computer keyboard.",
+                "D. No, food is not displayed in this scene."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_62": {
+            "id": "7iXM5aq53Ts_62",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "When cleaning the keyboard, what do you use to stabilize the computer?",
+            "options": [
+                "A. Left hand",
+                "B. Right hand",
+                "C. Metal stabilizer",
+                "D. Unused items"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_63": {
+            "id": "7iXM5aq53Ts_63",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What is displayed on the laptop screen when the page is zoomed in?",
+            "options": [
+                "A. An advertisement for the iPhone 6s is displayed on the laptop screen.",
+                "B. A webpage introducing the development timeline of keyboard cleaning software is displayed.",
+                "C. A music playlist is displayed on the laptop screen.",
+                "D. A movie streaming service interface is displayed on the laptop screen."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_64": {
+            "id": "7iXM5aq53Ts_64",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many main items are visible in this scene? (Including the table)",
+            "options": [
+                "A. Two",
+                "B. Three",
+                "C. Four",
+                "D. Five"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_65": {
+            "id": "7iXM5aq53Ts_65",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What are the main visible items in the scene?",
+            "options": [
+                "A. A table, a silver-gray laptop, a white plate with food and a fork, and a cleaning cloth.",
+                "B. A dark wooden table, a black desktop computer, a cup of coffee, a newspaper, and a pen.",
+                "C. A gray round table, an open book, a glass of juice, a notebook, and a pencil.",
+                "D. A black square table, a tablet, a bowl of cereal, a calculator, and some napkins."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_66": {
+            "id": "7iXM5aq53Ts_66",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Does the zoomed page on the computer screen contain navigation links?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Maybe",
+                "D. Unclear"
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_67": {
+            "id": "7iXM5aq53Ts_67",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What text content is displayed on the pattern on the right side of the webpage?",
+            "options": [
+                "A.  'BETTER JS DOCS FOR US, BY US!'",
+                "B.  'IMPROVE YOUR CODE WITH US!'",
+                "C.  'Welcome to my page!'",
+                "D. 'Stay tuned for more updates!'"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_68": {
+            "id": "7iXM5aq53Ts_68",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where does the red and black promotional graphic appear on the webpage?",
+            "options": [
+                "A. At the top of the webpage",
+                "B. On the right side of the webpage",
+                "C. At the bottom of the webpage",
+                "D. In the center of the webpage"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_69": {
+            "id": "7iXM5aq53Ts_69",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What is the webpage title like?",
+            "options": [
+                "A. Use bold and enlarged black font.",
+                "B. Use enlarged italic black font.",
+                "C. Use enlarged black artistic font.",
+                "D. Use the same font as the text, centered."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_70": {
+            "id": "7iXM5aq53Ts_70",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "Why is a direct front-facing perspective used in web text pages?",
+            "options": [
+                "A. To ensure the readability of text-heavy web pages.",
+                "B. To emphasize the tactile features of the scene.",
+                "C. To highlight the physical elements on the desktop.",
+                "D. To display the reflection of the room on the screen."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_71": {
+            "id": "7iXM5aq53Ts_71",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "How does the scene transition from the previous one?",
+            "options": [
+                "A. The scene transitions from a workspace to a web text interface, removing all physical elements.",
+                "B. The scene transitions from a dining setup to a completely outdoor environment, with no digital elements.",
+                "C. The scene remains unchanged, with only slight variations in the angle of objects.",
+                "D. The scene transitions from a digital layout to a physical workspace filled with tech gadgets."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_72": {
+            "id": "7iXM5aq53Ts_72",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Is there an arrow displayed in the webpage text?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. Possibly.",
+                "D. Cannot be determined."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_73": {
+            "id": "7iXM5aq53Ts_73",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many text arrows are displayed in the webpage text?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_74": {
+            "id": "7iXM5aq53Ts_74",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "Which direction do the text arrows point?",
+            "options": [
+                "A. Arrow points up and to the left.",
+                "B. Arrow points down and to the left.",
+                "C. Arrow points up and to the right.",
+                "D. Arrow points right and down."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_75": {
+            "id": "7iXM5aq53Ts_75",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What does the pattern displayed on the webpage text look like?",
+            "options": [
+                "A. It is red and black, with a cartoon crocodile pattern.",
+                "B. It is blue and red, with a cartoon cat pattern.",
+                "C. It is blue and black, with a cartoon dog pattern.",
+                "D. It is yellow and black, with a cartoon sheep pattern."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_76": {
+            "id": "7iXM5aq53Ts_76",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What is the title of the webpage text?",
+            "options": [
+                "A. Keyboard Cleaner",
+                "B. Digital Workspace",
+                "C. Better JS Docs",
+                "D. Mac App Store Submission"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_77": {
+            "id": "7iXM5aq53Ts_77",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "From the video, where is the yellow cloth relative to the laptop?",
+            "options": [
+                "A. The yellow cloth is to the left of the laptop.",
+                "B. The yellow cloth is on top of the laptop.",
+                "C. The yellow cloth is in the lower right corner of the screen, near the laptop.",
+                "D. The yellow cloth is directly below the laptop."
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_78": {
+            "id": "7iXM5aq53Ts_78",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What page is displayed on the computer screen at the beginning of the scene?",
+            "options": [
+                "A. Google browser homepage.",
+                "B. Character information introduction page.",
+                "C. Mobile phone and watch sales page.",
+                "D. Computer screen lock page."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_79": {
+            "id": "7iXM5aq53Ts_79",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What notable characteristics does this person's nails have when interacting with the laptop?",
+            "options": [
+                "A. The nails are well-trimmed and shiny.",
+                "B. The nails are painted in bright colors.",
+                "C. The nails are damaged and untidy.",
+                "D. The nails are covered with gloves."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_80": {
+            "id": "7iXM5aq53Ts_80",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What does the page background look like after the Google page is displayed?",
+            "options": [
+                "A. The screen displays a blank desktop wallpaper.",
+                "B. The screen displays a grayish-white blurred desktop wallpaper with some orange tones.",
+                "C. The screen displays a lush forest and clear lake desktop wallpaper.",
+                "D. The screen displays a desktop wallpaper with different patterns of red, yellow, and blue pieced together."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_81": {
+            "id": "7iXM5aq53Ts_81",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many hands are operating the laptop in the scene?",
+            "options": [
+                "A. One hand",
+                "B. Two hands",
+                "C. Three hands",
+                "D. Four hands"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_82": {
+            "id": "7iXM5aq53Ts_82",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "Is the camera angle in the scene always consistent?",
+            "options": [
+                "A. Yes, the camera angle remains consistent, providing a clear and symmetrical view of the scene.",
+                "B. No, the camera angle frequently changes, offering different perspectives.",
+                "C. Yes, but the camera angle occasionally tilts slightly to emphasize certain content.",
+                "D. No, the camera angle changes, but maintains a similar viewpoint."
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_83": {
+            "id": "7iXM5aq53Ts_83",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "In the scene, does the laptop exhibit any directional movement?",
+            "options": [
+                "A. Yes, the laptop moves left and right.",
+                "B. Yes, the laptop tilts up and down.",
+                "C. No, the laptop remains stationary.",
+                "D. Yes, the laptop rotates 360 degrees."
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_84": {
+            "id": "7iXM5aq53Ts_84",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "In the scene, does the laptop screen move in any direction?",
+            "options": [
+                "A. Yes, it rotates from left to right.",
+                "B. No, the screen remains stationary.",
+                "C. Yes, it tilts back and forth.",
+                "D. Yes, it rotates 360 degrees."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_85": {
+            "id": "7iXM5aq53Ts_85",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred on the computer screen in the scene?",
+            "options": [
+                "A. The computer screen switched from displaying the Google homepage to an application icon page.",
+                "B. The computer screen switched from displaying video playback to a blank desktop screen.",
+                "C. The computer screen switched from the email inbox to a spreadsheet application.",
+                "D. The computer screen switched from a news website to a file browser interface."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_86": {
+            "id": "7iXM5aq53Ts_86",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What shows signs of possible cleaning activities in the scene?",
+            "options": [
+                "A. The shiny appearance of the keyboard keys.",
+                "B. The placement of both hands near the 'A', 'S', and 'D' keys.",
+                "C. A yellow cloth placed in the lower-right corner.",
+                "D. Blurry search result thumbnails displayed on the screen."
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_87": {
+            "id": "7iXM5aq53Ts_87",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "How are the application icons arranged on the laptop screen?",
+            "options": [
+                "A. The application icons are arranged from the top right corner to the bottom left corner of the screen.",
+                "B. The application icons are arranged from the top left corner to the bottom right corner of the screen.",
+                "C. The application icons are arranged from the center of the screen to the corners.",
+                "D. The application icons are randomly distributed on the screen."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_88": {
+            "id": "7iXM5aq53Ts_88",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What is the position of the left hand at the initial position?",
+            "options": [
+                "A. The left hand is on the touchpad.",
+                "B. The left hand is at the bottom left corner of the keyboard.",
+                "C. The left hand is typing on the keyboard.",
+                "D. The left hand is holding the mouse."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_89": {
+            "id": "7iXM5aq53Ts_89",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What application icons can be seen on the laptop screen?",
+            "options": [
+                "A. Skype, Google Chrome, Xcode, DaisyDisk",
+                "B. Skype, Safari, Photoshop, Premiere Pro",
+                "C. Google Chrome, Microsoft Word, iMovie, DaisyDisk",
+                "D. Xcode, WhatsApp, Excel, DaisyDisk"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_90": {
+            "id": "7iXM5aq53Ts_90",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many system status icons are mentioned at the top edge of the screen?",
+            "options": [
+                "A. Two system status icons are mentioned.",
+                "B. Three system status icons are mentioned.",
+                "C. Four system status icons are mentioned.",
+                "D. Five system status icons are mentioned."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_91": {
+            "id": "7iXM5aq53Ts_91",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Can the webpage background be seen under the black overlay on the laptop screen?",
+            "options": [
+                "A. No, the background is completely black, and no webpage is visible.",
+                "B. Yes, you can see a faint webpage background under the black overlay.",
+                "C. No, the black overlay completely covers all webpage backgrounds.",
+                "D. Yes, the webpage background is clearly visible."
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_92": {
+            "id": "7iXM5aq53Ts_92",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What visual elements at the top of a laptop screen provide data?",
+            "options": [
+                "A. Active application icons",
+                "B. Colorful wallpaper design",
+                "C. System status icons at the top edge of the screen",
+                "D. Application grid layout"
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_93": {
+            "id": "7iXM5aq53Ts_93",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What data does the system status icon display on the laptop screen?",
+            "options": [
+                "A. Time '10:44 AM', internet connection icon, and user identifier 'Jeff'.",
+                "B. Time '12:30 PM', battery level indicator, and user identifier 'Sarah'.",
+                "C. Time '10:44 AM', Bluetooth icon, and user identifier 'Mike'.",
+                "D. Time '11:15 AM', internet connection icon, no user identifier."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_94": {
+            "id": "7iXM5aq53Ts_94",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What ultimately dominated the laptop screen in the scene?",
+            "options": [
+                "A. A single visible cursor dominated the screen, turning it completely black with no other elements.",
+                "B. A row of colorful application icons dominated the screen, displaying a vibrant and appealing image.",
+                "C. A series of error messages and system alerts dominated the screen, indicating system failure.",
+                "D. A set of complex lines and code matrix dominated the screen, suggesting a hacking attack."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_95": {
+            "id": "7iXM5aq53Ts_95",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "After the screen turns black, how many visual elements remain on the screen?",
+            "options": [
+                "A. Two visual elements are still visible.",
+                "B. No visual elements are visible.",
+                "C. Three visual elements are still visible.",
+                "D. One visual element is still visible."
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_96": {
+            "id": "7iXM5aq53Ts_96",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Does any text appear after the screen goes black?",
+            "options": [
+                "A. Yes, a text message appeared on the screen.",
+                "B. No, no text appeared on the black screen.",
+                "C. Yes, multiple lines of code appeared on the screen.",
+                "D. Yes, a notification pop-up appeared."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_97": {
+            "id": "7iXM5aq53Ts_97",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What does transitioning to a blank black screen mean?",
+            "options": [
+                "A. This transition implies a pause, reset, or shutdown state.",
+                "B. This transition implies an upgrade to a new operating system.",
+                "C. This transition implies the installation of new software.",
+                "D. This transition implies an increase in screen brightness."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_98": {
+            "id": "7iXM5aq53Ts_98",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What visual element indicates that the screen is off or in sleep mode?",
+            "options": [
+                "A. A black screen with only a cursor displayed",
+                "B. A vibrant display filled with application icons",
+                "C. A dark translucent background with active digital elements",
+                "D. A completely blank screen with no cursor"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_99": {
+            "id": "7iXM5aq53Ts_99",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the cursor located after the screen goes black?",
+            "options": [
+                "A. In the center of the completely black screen.",
+                "B. In the lower left quadrant of the completely black screen.",
+                "C. In the upper right quadrant of the completely black screen.",
+                "D. In the lower right quadrant of the completely black screen."
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_100": {
+            "id": "7iXM5aq53Ts_100",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the user's right hand doing on the laptop?",
+            "options": [
+                "A. The right hand initially hovers over the keyboard.",
+                "B. The right hand is completely off the laptop.",
+                "C. The right hand is cleaning the laptop with an orange cloth.",
+                "D. The right hand never interacted with the laptop."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_101": {
+            "id": "7iXM5aq53Ts_101",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What color is the cloth on the table?",
+            "options": [
+                "A. The cloth is yellow.",
+                "B. The cloth is blue.",
+                "C. The cloth is green.",
+                "D. The cloth is red."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_102": {
+            "id": "7iXM5aq53Ts_102",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What is the purpose of the fabric on the table?",
+            "options": [
+                "A. It might be a cleaning cloth.",
+                "B. It is a decorative element.",
+                "C. It is used to cover the laptop.",
+                "D. It is used to provide cushioning for the laptop."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_103": {
+            "id": "7iXM5aq53Ts_103",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many hands can be seen operating the laptop initially?",
+            "options": [
+                "A. Initially, one hand can be seen operating the laptop.",
+                "B. Initially, two hands can be seen operating the laptop.",
+                "C. Initially, three hands can be seen operating the laptop.",
+                "D. Initially, no hands can be seen operating the laptop."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_104": {
+            "id": "7iXM5aq53Ts_104",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Is the laptop screen open in the scene?",
+            "options": [
+                "A. Yes, the laptop screen is open and displays a bright image.",
+                "B. No, the laptop screen remains closed throughout the scene.",
+                "C. Yes, the laptop screen flickers on and off occasionally.",
+                "D. No, the laptop screen is closed but displays a static image."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_105": {
+            "id": "7iXM5aq53Ts_105",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "In the scene, does the left hand move?",
+            "options": [
+                "A. Yes, the left hand is raised and interacts with the right hand.",
+                "B. No, the left hand remains in place on the keyboard.",
+                "C. The left hand is partially obscured in the scene, making it impossible to determine.",
+                "D. No part of any hand appears in the scene."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_106": {
+            "id": "7iXM5aq53Ts_106",
+            "scene": 7,
+            "dimension": "Object Direction",
+            "question": "In which direction does the yellow cloth move during the cleaning process?",
+            "options": [
+                "A. The yellow cloth moves dynamically in the keyboard area.",
+                "B. The yellow cloth moves in a circular motion around the edges of the wooden table.",
+                "C. The yellow cloth remains stationary on the keyboard.",
+                "D. The yellow cloth is specifically used to clean the user's left hand."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_107": {
+            "id": "7iXM5aq53Ts_107",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "Is there a change in the camera angle in the scene?",
+            "options": [
+                "A. Yes, the camera angle changes frequently throughout the scene.",
+                "B. No, the camera angle remains stable, with no changes in the scene.",
+                "C. The camera angle changes slightly, but generally remains unchanged.",
+                "D. The camera zooms in and out, but the angle does not change."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_108": {
+            "id": "7iXM5aq53Ts_108",
+            "scene": 7,
+            "dimension": "Speed",
+            "question": "What does the speed of hand movements highlight?",
+            "options": [
+                "A. The speed highlights careful interaction and cleanliness.",
+                "B. The speed highlights chaotic activity and disorder.",
+                "C. The speed highlights quick and careless inspection.",
+                "D. The speed highlights frequent interruptions and multitasking."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_109": {
+            "id": "7iXM5aq53Ts_109",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "What happens to the position of the left hand in this scene?",
+            "options": [
+                "A. The left hand initially rests on the keyboard, then moves to the casing, and finally exits the scene.",
+                "B. The left hand remains on the keyboard throughout the entire scene.",
+                "C. The left hand initially rests on the desktop, without touching the laptop casing.",
+                "D. The left hand initially rests on the desktop and does not touch the laptop."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_110": {
+            "id": "7iXM5aq53Ts_110",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "Which visual cue indicates that the laptop is reflecting its surroundings?",
+            "options": [
+                "A. The laptop's black screen shows a blurred image of hands and object outlines.",
+                "B. The laptop's screen displays an image of a wooden table.",
+                "C. The laptop's screen reflects bright sunlight.",
+                "D. The laptop's black screen shows multiple fingerprints and smudges."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_111": {
+            "id": "7iXM5aq53Ts_111",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "During the cleaning process, which part of the laptop should the left hand hold to keep it stable?",
+            "options": [
+                "A. Lower left corner of the casing",
+                "B. On the touchpad",
+                "C. Below the keyboard",
+                "D. On the reflective screen"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_112": {
+            "id": "7iXM5aq53Ts_112",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What accessory is reflected on the computer screen from the hand?",
+            "options": [
+                "A. A white watch strap",
+                "B. A silver bracelet",
+                "C. A leather wristband",
+                "D. A smartwatch"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_113": {
+            "id": "7iXM5aq53Ts_113",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "Which hand operated the computer keyboard?",
+            "options": [
+                "A. Left hand operation",
+                "B. Right hand operation",
+                "C. Both hands together",
+                "D. No hand operation"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_114": {
+            "id": "7iXM5aq53Ts_114",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "How do the hands change at the beginning of the scene?",
+            "options": [
+                "A. The hands leave the frame after using the keyboard and then re-enter the frame.",
+                "B. During the typing and clearing transition, the hands repeatedly leave the frame.",
+                "C. The hands never leave the frame at any point in the video.",
+                "D. The hands leave the frame only during the numerical interaction phase."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_115": {
+            "id": "7iXM5aq53Ts_115",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Does the video include the process of opening the Google homepage?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. Only the settings interface is shown.",
+                "D. The Google homepage is partially visible."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_116": {
+            "id": "7iXM5aq53Ts_116",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "What is the movement of the hands on the keyboard when typing?",
+            "options": [
+                "A. The motion blur of the hands indicates interaction with the laptop interface.",
+                "B. The stillness of the hands indicates a pause in interaction.",
+                "C. The upward movement of the hands indicates a pause in typing.",
+                "D. The smooth sliding of the hands maintains a light touch with the keyboard."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_117": {
+            "id": "7iXM5aq53Ts_117",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "Which camera technique emphasizes pressing a specific key during digital interaction?",
+            "options": [
+                "A. Use a circular overlay with a blue border centered on a part of the keyboard.",
+                "B. Apply dynamic zoom effects to the entire keyboard.",
+                "C. Show slow-motion capture of the hand pressing the key.",
+                "D. Display close-up shots of the hand moving across the keyboard."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_118": {
+            "id": "7iXM5aq53Ts_118",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "What happens to the screen after the Google homepage appears on the computer screen?",
+            "options": [
+                "A. The screen switches to a profile interface, displaying an avatar and text snippets.",
+                "B. The screen switches to a bright calendar view, showing upcoming events.",
+                "C. The screen remains on the Google homepage with no further changes.",
+                "D. The screen switches to a mode that plays videos in full screen."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_119": {
+            "id": "7iXM5aq53Ts_119",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What helps in understanding the visual effect of specific keys on the keyboard?",
+            "options": [
+                "A. A semi-transparent blue circular overlay magnifies the keyboard, with a blurred background enhancing clarity.",
+                "B. A bright white overlay and strobe light effect highlight the pressed key.",
+                "C. A red dashed line and time-lapse effect show the pressed key.",
+                "D. The pressed key is highlighted in a minimized view of the keyboard, showing the specific key being pressed."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_120": {
+            "id": "7iXM5aq53Ts_120",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "Where is the Xcode app icon located on the screen?",
+            "options": [
+                "A. The app icon is located in the middle left of the screen.",
+                "B. The app icon is located in the middle right of the screen.",
+                "C. The app icon is located in the bottom left corner of the screen.",
+                "D. The app icon is located in the top right corner of the screen."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_121": {
+            "id": "7iXM5aq53Ts_121",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "How are screen application icons visually presented?",
+            "options": [
+                "A. A close-up shot showing the grid interface of computer screen application icons.",
+                "B. A long-distance shot showing a cluttered desk with the computer screen turned off.",
+                "C. A side view showing a person using a computer with multiple notifications popping up on the screen.",
+                "D. A dimly lit room with the computer screen being black."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_122": {
+            "id": "7iXM5aq53Ts_122",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "When the computer screen turns to the application icon page, what action does the human hand perform?",
+            "options": [
+                "A. The human finger points to an application icon.",
+                "B. The human hand slides the screen, browsing application icons on different pages.",
+                "C. The human hand types on the computer keyboard.",
+                "D. The human hand holds a stylus and clicks on the screen."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_123": {
+            "id": "7iXM5aq53Ts_123",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "How is this hand depicted in the scene?",
+            "options": [
+                "A. The fingers are pointing to an app icon on the right side of the screen.",
+                "B. Shows the hand lying flat on the table next to the MacBook.",
+                "C. The hand seems to be typing on the MacBook's keyboard.",
+                "D. The hand is depicted holding a stylus near the MacBook's screen."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_124": {
+            "id": "7iXM5aq53Ts_124",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What is the main item displayed in the scene?",
+            "options": [
+                "A. The main item is a smartphone.",
+                "B. The main item is a tablet.",
+                "C. The main item is a laptop.",
+                "D. The main item is a desktop monitor."
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_125": {
+            "id": "7iXM5aq53Ts_125",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many application icons are there on the far left of the computer screen?",
+            "options": [
+                "A. 18 application icons",
+                "B. 20 application icons",
+                "C. 22 application icons",
+                "D. 24 application icons"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_126": {
+            "id": "7iXM5aq53Ts_126",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "Does the scene include the surrounding physical environment when the focus shifts to the application icon interface in subsequent frames?",
+            "options": [
+                "A. Yes, the scene continues to display the surrounding physical environment.",
+                "B. No, in subsequent frames, the focus is entirely on the laptop screen.",
+                "C. Sometimes, the scene switches between displaying the laptop screen and the surrounding physical environment.",
+                "D. The scene does not display any digital interface or physical environment."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_127": {
+            "id": "7iXM5aq53Ts_127",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "Which direction is the human finger pointing on the computer screen?",
+            "options": [
+                "A. The human finger is pointing to the middle-right of the computer screen.",
+                "B. The human finger is pointing to the upper-left of the computer screen.",
+                "C. The human finger is pointing to the lower-right of the computer screen.",
+                "D. The human finger is pointing to the center of the computer screen."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_128": {
+            "id": "7iXM5aq53Ts_128",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "In this scenario, how does the presentation shift from an environmental view to a close-up view?",
+            "options": [
+                "A. It switches from an environmental view of the computer placed on the desktop to a close-up, high-detail view of its application icon interface.",
+                "B. It transitions from a close-up view of the screen to an environmental view of the computer surrounded by physical objects.",
+                "C. The focus shifts from a blurred view of the interface to a clear, detailed view of the computer surrounded by other devices.",
+                "D. It directly switches from a digital interface display to a high-angle shot of a workspace containing additional tools on the desktop."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_129": {
+            "id": "7iXM5aq53Ts_129",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What visual elements are in the toolbar at the top of the application icons on the computer screen?",
+            "options": [
+                "A. The toolbar displays a translucent search bar.",
+                "B. The toolbar displays a solid black search bar.",
+                "C. The toolbar only displays productivity application icons.",
+                "D. The toolbar displays a digital clock and weather information."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_130": {
+            "id": "7iXM5aq53Ts_130",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many rows are in the grid of app icons on the computer screen?",
+            "options": [
+                "A. 3 rows",
+                "B. 4 rows",
+                "C. 5 rows",
+                "D. 6 rows"
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_131": {
+            "id": "7iXM5aq53Ts_131",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many columns are there in the grid of application icons on the computer screen?",
+            "options": [
+                "A. 4 columns",
+                "B. 5 columns",
+                "C. 6 columns",
+                "D. 7 columns"
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_132": {
+            "id": "7iXM5aq53Ts_132",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "Is a clock icon shown in the scene?",
+            "options": [
+                "A. Yes, when the abstract concentric circles transition, the video shows a clock icon.",
+                "B. No, the video only shows abstract concentric circles without any clock icon.",
+                "C. No, the video focuses solely on the detailed computer interface layout.",
+                "D. Yes, but the clock icon is shown as part of the computer interface, not emerging from the concentric circles."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_133": {
+            "id": "7iXM5aq53Ts_133",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "How do the visual themes in the video evolve?",
+            "options": [
+                "A. The visual theme transitions from detailed computer interfaces to a minimalist concentric circle design, then to a clean clock icon, and finally to a brand website.",
+                "B. The visual theme evolves from a minimalist abstract design to a grid filled with app icons, and suddenly goes black.",
+                "C. The scene starts with a chaotic interface of random colors and shapes, evolves into detailed car drawings, followed by vivid computer screens.",
+                "D. The visual theme begins with a detailed natural scene, transitions to a crowded cityscape, and finally to complex mathematical formulas."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_134": {
+            "id": "7iXM5aq53Ts_134",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "What is the symbol that transitions from concentric circles to a clock icon?",
+            "options": [
+                "A. The concentric circles change color to form clock numbers.",
+                "B. The outer dark blue ring forms the clock frame.",
+                "C. The light blue background transforms into a calendar.",
+                "D. The top toolbar becomes clock numbers."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_135": {
+            "id": "7iXM5aq53Ts_135",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "What visual elements in the middle of the video create a sense of symmetry?",
+            "options": [
+                "A. The light blue outer circle, dark blue inner circle, and center light blue filled circle create a sense of symmetry.",
+                "B. The 4x5 grid of colorful app icons and the vertical column of app shortcuts establish a sense of symmetry.",
+                "C. The translucent toolbar at the top of the screen creates a sense of symmetry.",
+                "D. The dark blue clock frame and the clock hands pointing to 2:00 establish a sense of symmetry."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_136": {
+            "id": "7iXM5aq53Ts_136",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "When concentric circles appear, where is '9to5mac.com' located?",
+            "options": [
+                "A. At the center of the concentric circles.",
+                "B. Outside the concentric circles.",
+                "C. At the top of the concentric circles.",
+                "D. At the bottom of the concentric circles."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_137": {
+            "id": "7iXM5aq53Ts_137",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What is the background color of the video scene?",
+            "options": [
+                "A. The background color of the video scene is light blue.",
+                "B. The background color of the video scene is dark blue.",
+                "C. The background color of the video scene is white.",
+                "D. The background color of the video scene is gray."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_138": {
+            "id": "7iXM5aq53Ts_138",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What elements appear in the video scene?",
+            "options": [
+                "A. The video scene includes a clock icon, concentric circles, and minimalist text display, emphasizing brand and clarity.",
+                "B. The video scene integrates a clock icon, a checkerboard pattern, and bright contrasting colors to highlight key points.",
+                "C. The video scene presents a clock icon, floating clouds, and a sunset-themed background with vibrant colors.",
+                "D. The video scene includes a clock icon, concentric squares, and text in various colors, creating a dynamic effect."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_139": {
+            "id": "7iXM5aq53Ts_139",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What color is the text '9to5mac.com' shown in the video?",
+            "options": [
+                "A. Dark blue",
+                "B. Light blue",
+                "C. Red",
+                "D. Black"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_140": {
+            "id": "7iXM5aq53Ts_140",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "Has the background color changed?",
+            "options": [
+                "A. Yes, the background color changed from light blue to dark blue.",
+                "B. No, the background color remained light blue throughout the scene.",
+                "C. Yes, the background color changed from light blue to white.",
+                "D. Yes, the background color changed from light blue to a gradient of blue and gray."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_141": {
+            "id": "7iXM5aq53Ts_141",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "What changes occur to the concentric circles during the design transformation process?",
+            "options": [
+                "A. The concentric circles become larger.",
+                "B. The concentric circles change color.",
+                "C. The concentric circles become larger and then are removed.",
+                "D. The concentric circles move to the corner."
+            ],
+            "answer": "C"
+        },
+        "7iXM5aq53Ts_142": {
+            "id": "7iXM5aq53Ts_142",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "What effect will the design transition to after removing the concentric circles?",
+            "options": [
+                "A. It transitions to a centered standalone '9to5mac.com' displayed on a plain light blue background.",
+                "B. It transitions to a design featuring scattered light blue clock icons and a dark blue background.",
+                "C. It transitions to a bold multicolored pattern, with '9to5mac.com' framed at the center.",
+                "D. It transitions to a centered standalone '9to5mac.com' displayed on a white background."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_143": {
+            "id": "7iXM5aq53Ts_143",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What visual elements help maintain focus on the '9to5mac.com' text?",
+            "options": [
+                "A. Dark blue font",
+                "B. Light blue background",
+                "C. Concentric circles",
+                "D. All of the above"
+            ],
+            "answer": "D"
+        },
+        "7iXM5aq53Ts_144": {
+            "id": "7iXM5aq53Ts_144",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is used to clean the laptop in the first scene?",
+            "options": [
+                "A. A yellow cleaning cloth",
+                "B. A white cotton cloth",
+                "C. A blue disposable wet wipe",
+                "D. A yellow tissue"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_145": {
+            "id": "7iXM5aq53Ts_145",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "After cleaning the keyboard, what does the clock turn into?",
+            "options": [
+                "A. The clock turns into the '9TO5Mac' logo, where the clock serves as the 'O' in 'TO'.",
+                "B. The clock turns into a series of moving concentric circles, forming the '9TO5Mac' logo.",
+                "C. The clock turns into a plain blue square without any text or logo.",
+                "D. The clock turns into an animation of the '9TO5Mac' logo fading into a black background."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_146": {
+            "id": "7iXM5aq53Ts_146",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What does the clock transition to the '9TO5Mac' logo symbolize?",
+            "options": [
+                "A. It symbolizes the integration of the concept of time with the brand.",
+                "B. It symbolizes technological advancements in clock design.",
+                "C. It represents the passage of time during the workday.",
+                "D. It signifies the importance of punctuality in the workplace."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_147": {
+            "id": "7iXM5aq53Ts_147",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What role does a cat play in workspace arrangement?",
+            "options": [
+                "A. The cat blocks the laptop screen and keyboard, and interacts interestingly with the surroundings.",
+                "B. The cat serves as a static design element, placed next to the laptop.",
+                "C. The cat emphasizes minimalism, quietly staying in the background without interaction.",
+                "D. The cat symbolizes productivity and time management."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_148": {
+            "id": "7iXM5aq53Ts_148",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the workspace background look like when the cat is lying on the computer?",
+            "options": [
+                "A. The workspace background includes a desk lamp, an orange speaker, a white mouse, and other items.",
+                "B. The workspace background is cluttered, filled with papers and books, making it difficult for the cat to move.",
+                "C. The workspace background is dimly lit, with a faint view of a gray wall, a black desk, and a folder.",
+                "D. The workspace background includes a bookshelf, a black speaker, an open book, and other items."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_149": {
+            "id": "7iXM5aq53Ts_149",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "After the text display ends, what is the first numerical interface shown on the laptop screen?",
+            "options": [
+                "A. The laptop screen displays multiple pages, with avatars and different texts being more prominent.",
+                "B. The laptop screen displays a calendar application.",
+                "C. The laptop screen displays a programming interface.",
+                "D. The laptop screen displays a social media interface."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_150": {
+            "id": "7iXM5aq53Ts_150",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the second digital interface on the laptop screen after the text display ends?",
+            "options": [
+                "A. The laptop screen displayed the watch phone introduction page.",
+                "B. The laptop screen displayed social media updates.",
+                "C. The laptop screen displayed the calendar application.",
+                "D. The laptop screen displayed the music player interface."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_151": {
+            "id": "7iXM5aq53Ts_151",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the third numerical interface displayed on the laptop screen after the text display ends?",
+            "options": [
+                "A. The laptop screen displayed the Google homepage.",
+                "B. The laptop screen displayed the email inbox.",
+                "C. The laptop screen displayed the calendar application.",
+                "D. The laptop screen was off, only showing a reflection."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_152": {
+            "id": "7iXM5aq53Ts_152",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What does the cat do after blocking the laptop keyboard and screen?",
+            "options": [
+                "A. The cat jumps off the table.",
+                "B. The cat adjusts its position.",
+                "C. The cat starts purring loudly.",
+                "D. The cat knocks over a glass of water."
+            ],
+            "answer": "B"
+        },
+        "7iXM5aq53Ts_153": {
+            "id": "7iXM5aq53Ts_153",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is displayed on the screen when the cat lies on the computer?",
+            "options": [
+                "A. The laptop screen shows the Google homepage.",
+                "B. The laptop screen shows a paused video.",
+                "C. The laptop screen shows a blank desktop background.",
+                "D. The laptop screen updates to a news article."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_154": {
+            "id": "7iXM5aq53Ts_154",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is displayed when the focus first shifts to the computer screen?",
+            "options": [
+                "A. The first thing displayed is a text webpage with a prominent image on the right.",
+                "B. The first thing displayed is the Safari browser with the homepage.",
+                "C. The first thing displayed is a text document.",
+                "D. The first thing displayed is the MacBook's desktop background."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_155": {
+            "id": "7iXM5aq53Ts_155",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "The camera focuses on the translucent basketball hoop, allowing observation of which key the left index finger pressed?",
+            "options": [
+                "A. “Q”",
+                "B. “A”",
+                "C. “Z”",
+                "D. “command”"
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_156": {
+            "id": "7iXM5aq53Ts_156",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is displayed after the abstract geometric design at the end of the video?",
+            "options": [
+                "A. A clock icon is displayed.",
+                "B. A weather icon is displayed.",
+                "C. A calendar icon is displayed.",
+                "D. A mail icon is displayed."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_157": {
+            "id": "7iXM5aq53Ts_157",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is displayed on the computer screen at the end of the video?",
+            "options": [
+                "A. A minimalist '9to5mac.com' logo is displayed.",
+                "B. A deep blue clock icon with concentric circles is displayed.",
+                "C. A vibrant multicolored geometric design is displayed.",
+                "D. A light blue background with no text or logo is displayed."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_158": {
+            "id": "7iXM5aq53Ts_158",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the Google Chrome app icon look like?",
+            "options": [
+                "A. The icon is composed of green, yellow, and red.",
+                "B. The icon is composed of yellow, blue, and red.",
+                "C. The icon is composed of black, blue, and yellow.",
+                "D. The icon is composed of red, orange, and blue."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_159": {
+            "id": "7iXM5aq53Ts_159",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the laptop screen switch to the Google homepage?",
+            "options": [
+                "A. Switching to the Google homepage may represent a transition in browsing sessions or user interactions.",
+                "B. Switching to the Google homepage is to display a reflection.",
+                "C. Switching to the Google homepage is demonstrating the screen brightness level.",
+                "D. Switching to the Google homepage indicates the end of the presentation."
+            ],
+            "answer": "A"
+        },
+        "7iXM5aq53Ts_160": {
+            "id": "7iXM5aq53Ts_160",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the purpose of including a clock icon in the video narration?",
+            "options": [
+                "A. The clock icon emphasizes the progression of time and the transition to branding in the video narration.",
+                "B. The clock icon exists as a decorative element and does not convey any specific meaning.",
+                "C. The clock icon highlights the importance of punctuality in the video information.",
+                "D. The clock icon represents a classic design related to the website theme."
+            ],
+            "answer": "A"
+        }
+    }
+}

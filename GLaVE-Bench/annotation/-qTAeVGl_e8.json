@@ -1,0 +1,1444 @@
+{
+    "scene_hint": {
+        "0": "视频开始，黑屏显示出标题。",
+        "1": "两位运动员的第一次跳高情况。",
+        "2": "工作人员重新定位跳高杆高度。",
+        "3": "将焦点转移到比赛周围的社区。",
+        "4": "两位运动员的第二次跳高情况。",
+        "5": "绿色短裤运动员的特写镜头。",
+        "6": "绿色短裤运动员第二次跳高过程的慢放镜头。",
+        "7": "运动员以场边观众为背景的特写镜头。"
+    },
+    "qa": {
+        "-qTAeVGl_e8_0": {
+            "id": "-qTAeVGl_e8_0",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "白色文字“Kenyan High Jump”在画面的什么位置？",
+            "options": [
+                "A. 在画面右上",
+                "B. 在画面右下",
+                "C. 在画面左下",
+                "D. 在画面左上"
+            ],
+            "answer": "C"
+        },
+        "-qTAeVGl_e8_1": {
+            "id": "-qTAeVGl_e8_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频中描绘的整体环境是什么？",
+            "options": [
+                "A. 环境特点是繁忙的街道和色彩丰富的视觉效果。",
+                "B. 环境特点是宁静的自然风景，充满生机的颜色。",
+                "C. 环境特点是黑色的背景，偶尔出现白色文字。",
+                "D. 环境特点是热闹的集市，包含各种物品和活动。"
+            ],
+            "answer": "C"
+        },
+        "-qTAeVGl_e8_2": {
+            "id": "-qTAeVGl_e8_2",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "视频中展示的物体是什么？",
+            "options": [
+                "A. 一位跳高运动员",
+                "B. 白色文字显示为‘Kenyan High Jump’",
+                "C. 带有星星的黑色背景",
+                "D. 一幅带有跳高杆的彩色场景"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_3": {
+            "id": "-qTAeVGl_e8_3",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "录像中有多少元素是可见的？",
+            "options": [
+                "A. 一个元素，白色文字‘Kenyan High Jump’。",
+                "B. 两个元素，白色文字和一些背景图像。",
+                "C. 三个元素，包括白色文字、一个黑色背景和额外的物体。",
+                "D. 视频中没有可见元素。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_4": {
+            "id": "-qTAeVGl_e8_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "在整个视频中，“Kenyan High Jump”这段文字是否一直可见？",
+            "options": [
+                "A. 是的，文字一直可见。",
+                "B. 不，文字逐渐淡化并消失。",
+                "C. 是的，但文字改变颜色。",
+                "D. 不，文字突然消失。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_5": {
+            "id": "-qTAeVGl_e8_5",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "在'Kenyan High Jump'这段文字出现后会发生什么？",
+            "options": [
+                "A. 文字开始逐渐消失，直到完全变黑。",
+                "B. 文字变成鲜红色并停留在屏幕上。",
+                "C. 文字变大并移到画面的顶部。",
+                "D. 文字保持在黑色背景上没有任何变化。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_6": {
+            "id": "-qTAeVGl_e8_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "是什么视觉元素表明了视频的内容？",
+            "options": [
+                "A. 肯尼亚风景中多彩的图像。",
+                "B. 白色文字显示“Kenyan High Jump”。",
+                "C. 一位运动员正在进行跳高动作。",
+                "D. 一个没有文字的黑屏。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_7": {
+            "id": "-qTAeVGl_e8_7",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "白色裤子的运动员画面开始时相对于镜头移动到哪里了？",
+            "options": [
+                "A. 他稍微移动到画面的右侧。",
+                "B. 他稍微移动到画面的左侧。",
+                "C. 他移动到画面的中央。",
+                "D. 他移动到画面的后方。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_8": {
+            "id": "-qTAeVGl_e8_8",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景的背景是什么？",
+            "options": [
+                "A. 背景是一个室内篮球场。",
+                "B. 背景是一个室外跳高赛事。",
+                "C. 背景是一个比赛期间的体育馆。",
+                "D. 背景是一个多云天气下的网球场。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_9": {
+            "id": "-qTAeVGl_e8_9",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这个场景的自然特征是什么？",
+            "options": [
+                "A. 这个场景有生动的自然环境。",
+                "B. 这个场景有一个现代化的室内体育馆。",
+                "C. 这个场景是在人工照明下进行的。",
+                "D. 这个场景设置在一个雪景中。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_10": {
+            "id": "-qTAeVGl_e8_10",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这个场景中的天空有什么显著特点？",
+            "options": [
+                "A. 天空布满乌云。",
+                "B. 天空明亮而晴朗。",
+                "C. 天空布满星星。",
+                "D. 天空黑暗而暴风雨。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_11": {
+            "id": "-qTAeVGl_e8_11",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "这位新运动员是如何被描述的？",
+            "options": [
+                "A. 这位新运动员显得心不在焉，对比赛不感兴趣，姿势懒散。",
+                "B. 这位新运动员展现出准备充分和决心，姿态表现出意图和专注。",
+                "C. 这位新运动员犹豫不决，避免与跳高器材进行眼神接触。",
+                "D. 这位新运动员过于放松，随意地与观众交谈，没有准备跳跃。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_12": {
+            "id": "-qTAeVGl_e8_12",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "有多少人在调整跳高横杆？",
+            "options": [
+                "A. 一个人",
+                "B. 两个人",
+                "C. 三个人",
+                "D. 四个人"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_13": {
+            "id": "-qTAeVGl_e8_13",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "背景中是否有穿戴红色点缀的观众？",
+            "options": [
+                "A. 是的，在观众中偶尔可以看到一些红色点缀。",
+                "B. 不，观众中没有可见的红色点缀。",
+                "C. 是的，所有观众都只穿戴红色点缀。",
+                "D. 不，观众全都统一穿着白色，没有任何红色点缀。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_14": {
+            "id": "-qTAeVGl_e8_14",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "左边的那个穿白色衬衫的人在画面开始时正在做什么？",
+            "options": [
+                "A. 左边的那个人举起手臂。",
+                "B. 左边的那个人调整横杆。",
+                "C. 左边的那个人让开位置。",
+                "D. 左边的那个人处于静止。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_15": {
+            "id": "-qTAeVGl_e8_15",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "绿色裤子的运动员画面开始时相对于镜头移动到哪里了？",
+            "options": [
+                "A. 他稍微移动到画面的右侧。",
+                "B. 他稍微移动到画面的左侧。",
+                "C. 他移动到画面的中央。",
+                "D. 他移动到画面的后方。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_16": {
+            "id": "-qTAeVGl_e8_16",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "该场景使用了哪种摄影视角？",
+            "options": [
+                "A. 摄影视角是稳定的广角镜头。",
+                "B. 摄影视角是特写镜头。",
+                "C. 摄影视角是手持的晃动镜头。",
+                "D. 摄影视角是低角度镜头。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_17": {
+            "id": "-qTAeVGl_e8_17",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "随着场景的发展，观众的组成是如何变化的？",
+            "options": [
+                "A. 观众逐渐靠近运动员，围成一个紧密的圆圈围绕着跳高装置。",
+                "B. 出现了新的身穿校服或正式服装的人物。",
+                "C. 观众在整个场景中保持静止，没有明显的变化或移动。",
+                "D. 大部分观众散开，留下的场地几乎是空的。"
+            ],
+            "answer": "D"
+        },
+        "-qTAeVGl_e8_18": {
+            "id": "-qTAeVGl_e8_18",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "自然光如何影响参与者的服装？",
+            "options": [
+                "A. 自然光突出了参与者服装的鲜艳色彩。",
+                "B. 自然光使参与者的服装显得暗淡。",
+                "C. 自然光在参与者的服装上制造了阴影效果。",
+                "D. 自然光使参与者的服装与背景融为一体。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_19": {
+            "id": "-qTAeVGl_e8_19",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "自然光如何影响整体场景？",
+            "options": [
+                "A. 自然光增强了场景的深度和温暖感。",
+                "B. 自然光掩盖了运动员和观众的细节。",
+                "C. 自然光使参与者服饰的颜色显得很淡。",
+                "D. 自然光投下了沉重的阴影，干扰了视觉效果。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_20": {
+            "id": "-qTAeVGl_e8_20",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "打红色领带的工作人员相对于跳高设备的位置在哪里？",
+            "options": [
+                "A. 促进者位于跳高设备的左侧。",
+                "B. 促进者位于跳高设备的右侧。",
+                "C. 促进者直接位于跳高设备的后方。",
+                "D. 促进者位于跳高设备的前方。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_21": {
+            "id": "-qTAeVGl_e8_21",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "高跳项目的场景是什么？",
+            "options": [
+                "A. 该项目发生在一个有人工照明和观众坐在看台上的室内体育馆。",
+                "B. 该项目发生在户外的沙滩上，背景是清晰的地平线和海浪。",
+                "C. 该项目发生在户外，在高大的绿色树木和晴朗天空自然背景下进行。",
+                "D. 该项目发生在沙漠环境中，周围是岩石地形和稀疏的植被。"
+            ],
+            "answer": "C"
+        },
+        "-qTAeVGl_e8_22": {
+            "id": "-qTAeVGl_e8_22",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "高跳比赛场地周围的地面状况如何？",
+            "options": [
+                "A. 地面完全被草覆盖。",
+                "B. 地面是红褐色的土壤，沙子以及一些草地。",
+                "C. 地面为土壤和沙子，几乎没有植被。",
+                "D. 地面是由混凝土铺成的。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_23": {
+            "id": "-qTAeVGl_e8_23",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "场景中白色衬衫工作人员在做什么？",
+            "options": [
+                "A. 工作人员正在调整跳高杆高度。",
+                "B. 工作人员坐在看台上观看比赛。",
+                "C. 工作人员穿着反光夹克，正朝运动员走去。",
+                "D. 工作人员在画面最左边呆站着。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_24": {
+            "id": "-qTAeVGl_e8_24",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "高跳装置的状况如何？",
+            "options": [
+                "A. 高跳装置仍然是场景的中心。",
+                "B. 高跳装置已从场景中移除。",
+                "C. 装置的横杆明显受损，倾向一侧。",
+                "D. 高跳装置完全被观众遮挡。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_25": {
+            "id": "-qTAeVGl_e8_25",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "场景中能否看到穿绿色短裤的运动员？",
+            "options": [
+                "A. 是的，穿绿色短裤的运动员在场景中清晰可见。",
+                "B. 不，穿绿色短裤的运动员在场景中不再可见。",
+                "C. 是的，但穿绿色短裤的运动员部分被设备遮挡。",
+                "D. 不，穿绿色短裤的运动员仍被观众挡住。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_26": {
+            "id": "-qTAeVGl_e8_26",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "工作人员正在做什么动作？",
+            "options": [
+                "A. 工作人员在向人群挥手。",
+                "B. 工作人员在鼓掌以鼓励运动员。",
+                "C. 工作人员在举手以调整跳高杆。",
+                "D. 工作人员在整理自己的衬衫。"
+            ],
+            "answer": "C"
+        },
+        "-qTAeVGl_e8_27": {
+            "id": "-qTAeVGl_e8_27",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "穿白色衬衫的工作人员正在与什么保持接触？",
+            "options": [
+                "A. 横杆",
+                "B. 杆子",
+                "C. 地面",
+                "D. 运动员"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_28": {
+            "id": "-qTAeVGl_e8_28",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "穿着绿色短裤的运动员是在画面快结束时朝哪个方向移动的？",
+            "options": [
+                "A. 穿着绿色短裤的运动员向左边移动了。",
+                "B. 穿着绿色短裤的运动员向右边移动了。",
+                "C. 穿着绿色短裤的运动员远离摄像头移动。",
+                "D. 穿着绿色短裤的运动员靠近摄像头移动。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_29": {
+            "id": "-qTAeVGl_e8_29",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "场景中镜头有没有向右移动？",
+            "options": [
+                "A. 是的，镜头的构图显示有些微向右移动。",
+                "B. 不，镜头固定在跳高器材上。",
+                "C. 是的，镜头向左移动，聚焦在穿绿色短裤的运动员身上。",
+                "D. 不，镜头拉近聚焦在跳高横杆上。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_30": {
+            "id": "-qTAeVGl_e8_30",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "拍摄的类型如何强调活动的集体氛围？",
+            "options": [
+                "A. 镜头微妙地变化，更加关注观众，捕捉他们的集体参与感。",
+                "B. 镜头始终聚焦于跳高器材，强调活动的技术性。",
+                "C. 镜头拉近到个别观众，将他们与集体氛围隔离开来。",
+                "D. 镜头完全转换到周围的景观上，弱化了参与者和观众的角色。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_31": {
+            "id": "-qTAeVGl_e8_31",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "在场景中的运动速度有明显的变化吗？",
+            "options": [
+                "A. 是的，观众的散布和移动有明显的变化。",
+                "B. 不，场景保持静止，没有运动变化。",
+                "C. 是的，但只有运动员的动作速度有变化。",
+                "D. 不，只有景观和环境发生变化，但运动没有变化。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_32": {
+            "id": "-qTAeVGl_e8_32",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "哪种视觉元素表明强调的方向转向了观众？",
+            "options": [
+                "A. 促导员向设备靠近的动作。",
+                "B. 画面中出现更多的观众。",
+                "C. 运动员从画面的左侧退出。",
+                "D. 始终一致的绿色树木和明亮的天空背景。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_33": {
+            "id": "-qTAeVGl_e8_33",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "户外场景中树木的特征是什么？",
+            "options": [
+                "A. 户外环境以高大的树木为特色。",
+                "B. 户外环境以矮灌木和开花植物为特色。",
+                "C. 户外环境以秋叶覆盖的高大树木为特色。",
+                "D. 户外环境以长有椰子的高大棕榈树为特色。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_34": {
+            "id": "-qTAeVGl_e8_34",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "户外场景中天空的颜色是什么？",
+            "options": [
+                "A. 明亮的蓝色",
+                "B. 阴沉的灰色",
+                "C. 明亮的白色",
+                "D. 深橙色"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_35": {
+            "id": "-qTAeVGl_e8_35",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "户外场景中土壤的颜色是什么？",
+            "options": [
+                "A. 土壤是红棕色的。",
+                "B. 土壤是亮黄色的。",
+                "C. 土壤是深灰色的。",
+                "D. 土壤是浅米色的。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_36": {
+            "id": "-qTAeVGl_e8_36",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "室外景象中有草地吗？",
+            "options": [
+                "A. 是的，有一些的草地。",
+                "B. 不，地面完全被红褐色的土壤覆盖。",
+                "C. 是的，但由于人群，草地几乎都被遮挡了。",
+                "D. 不，地面完全被混凝土铺满了。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_37": {
+            "id": "-qTAeVGl_e8_37",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "初始画面左侧的主导物体是什么？",
+            "options": [
+                "A. 高跳装置",
+                "B. 一棵大树",
+                "C. 一群孩子",
+                "D. 一个食品摊"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_38": {
+            "id": "-qTAeVGl_e8_38",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "高跳装置发生了什么？",
+            "options": [
+                "A. 它被突出显示为场景的中心焦点。",
+                "B. 它倒塌并造成了干扰。",
+                "C. 工作人员正在调试跳高杆高度。",
+                "D. 有新的观众在使用高跳装置。"
+            ],
+            "answer": "C"
+        },
+        "-qTAeVGl_e8_39": {
+            "id": "-qTAeVGl_e8_39",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "框架右侧组观众的特点是什么？",
+            "options": [
+                "A. 人主要穿着栗色毛衣和白衬衫。",
+                "B. 人大多穿着鲜艳的黄色和蓝色服装。",
+                "C. 人由穿着黑色夹克和牛仔裤的人组成。",
+                "D. 人的特点是他们带着色彩鲜艳的帽子和围巾。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_40": {
+            "id": "-qTAeVGl_e8_40",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "原本驻守在跳高器材附近的工作人员还看得见吗？",
+            "options": [
+                "A. 是的，工作人员仍然可见。",
+                "B. 不，工作人员不再可见。",
+                "C. 工作人员已经移动到画面右侧。",
+                "D. 工作人员现在在观众中。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_41": {
+            "id": "-qTAeVGl_e8_41",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "摄像机如何调整以包含更多的观众？",
+            "options": [
+                "A. 摄像机会微微拉远或横向移动以包含更多观众。",
+                "B. 摄像机会向下倾斜以聚焦在地面。",
+                "C. 摄像机会向上平移以捕捉天空。",
+                "D. 摄像机只专注于一小群人。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_42": {
+            "id": "-qTAeVGl_e8_42",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "摄像机轻微缩放的效果对场景有什么影响？",
+            "options": [
+                "A. 它聚焦于跳高器械和工作人员的位置。",
+                "B. 它扩展了视角以捕捉更广泛的互动以及聚会的活力流动。",
+                "C. 它突出了穿绿色或蓝色衣服的年轻人。",
+                "D. 它模糊了观众的动作并将注意力转移到户外背景。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_43": {
+            "id": "-qTAeVGl_e8_43",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "相机的横向调整对场景有什么影响？",
+            "options": [
+                "A. 通过聚焦于事件的一个以前未见的部分，它引入了新的惊喜元素。",
+                "B. 它扩展了视野，捕捉到更多的观众。",
+                "C. 它将焦点完全转移到了郁郁葱葱的背景和风景元素上。",
+                "D. 它放大了单个观众，广泛展示了他们的反应。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_44": {
+            "id": "-qTAeVGl_e8_44",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "您会如何描述人群动态变化的速度？",
+            "options": [
+                "A. 人群动态变化是突然且混乱的。",
+                "B. 人群动态变化是逐渐但持续的。",
+                "C. 人群动态变化是静止且不变的。",
+                "D. 人群动态变化是突发且零星的。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_45": {
+            "id": "-qTAeVGl_e8_45",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "整个场景中一致的光照条件是什么？",
+            "options": [
+                "A. 多云的天空下弥漫的光线主导了场景。",
+                "B. 中午的阳光投射出明亮而清晰的阴影，在整个场景中保持一致。",
+                "C. 微妙的人工照明创造出柔和而温暖的氛围。",
+                "D. 暮光的微光投射出长而淡的阴影，塑造了光线。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_46": {
+            "id": "-qTAeVGl_e8_46",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频中场景的环境是什么？",
+            "options": [
+                "A. 有高大的绿树、红褐色的土壤、稀疏的草地和明亮的正午阳光，类似于公园的样子。",
+                "B. 场景是一个室内环境，有人工照明、光滑的木地板和现代家具。",
+                "C. 场景是一个繁忙的城市街道，有高楼大厦、混凝土人行道和繁重的交通。",
+                "D. 场景是一个安静的图书馆，有成排的书架、柔和的灯光和安静的氛围。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_47": {
+            "id": "-qTAeVGl_e8_47",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "两位工作人员穿得怎么样？",
+            "options": [
+                "A. 他穿着一件笔挺的白衬衫和灰黑色裤子。",
+                "B. 他穿着一件白色和紫色条纹衬衫搭配浅色裤子。",
+                "C. 他穿着一套深绿色的服装。",
+                "D. 他穿着一件格子衬衫配浅色服装。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_48": {
+            "id": "-qTAeVGl_e8_48",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "站在绿色短裤运动员身后的人穿什么颜色的衣服？",
+            "options": [
+                "A.黄色",
+                "B.蓝色",
+                "C.红色",
+                "D.黑色"
+            ],
+            "answer": "C"
+        },
+        "-qTAeVGl_e8_49": {
+            "id": "-qTAeVGl_e8_49",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "穿浅色夹克和深色衬衫并站在最右边的工作人员发生了什么变化？",
+            "options": [
+                "A. 该参与者稍微向前走了一步，恢复了横杆。",
+                "B. 该参与者移动到画面的最左边。",
+                "C. 该参与者完全离开了画面。",
+                "D. 该参与者开始与中心的小组互动。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_50": {
+            "id": "-qTAeVGl_e8_50",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "最左边的人群关注的方向是哪个方向？",
+            "options": [
+                "A. 最左边的人群关注的方向是向右。",
+                "B. 最左边的人群关注的方向是向左。",
+                "C. 最左边的人群关注的方向是正前方。",
+                "D. 最左边的人群关注的方向是朝向中心。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_51": {
+            "id": "-qTAeVGl_e8_51",
+            "scene": 4,
+            "dimension": "Camera Direction",
+            "question": "镜头在场景中是如何移动的？",
+            "options": [
+                "A. 镜头稍微向右移动，裁剪了最左边人群的一些元素，同时更好地捕捉了右侧和中心的新出现区域。",
+                "B. 镜头稍微向左移动，裁剪了最右边人群的一些元素，同时更好地捕捉了左侧和中心的新出现区域。",
+                "C. 镜头向上移动，提供了整个场景的俯视视角。",
+                "D. 镜头保持静止，拍摄了整个聚会，视角没有变化。"
+            ],
+            "answer": "D"
+        },
+        "-qTAeVGl_e8_52": {
+            "id": "-qTAeVGl_e8_52",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素增强了对场景设置的理解？",
+            "options": [
+                "A. 高大的绿色树木、红色的土壤、稀疏的草地和明亮的正午阳光。",
+                "B. 熙熙攘攘的参与者及其鲜艳的服饰反映了一场室内的节庆活动。",
+                "C. 高大的摩天大楼、铺设的道路和人工照明唤起了一种现代都市的氛围。",
+                "D. 人群的影子和昏暗的灯光暗示了一个封闭、光线昏暗的环境。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_53": {
+            "id": "-qTAeVGl_e8_53",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "这蓝色裙子白色斑点的女人相对于高跳布置的位置在哪里？",
+            "options": [
+                "A. 这蓝色裙子白色斑点的女人位于高跳布置的左边。",
+                "B. 这蓝色裙子白色斑点的女人位于高跳布置的右边。",
+                "C. 这蓝色裙子白色斑点的女人位于高跳布置的后面。",
+                "D. 这蓝色裙子白色斑点的女人位于高跳布置的前面。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_54": {
+            "id": "-qTAeVGl_e8_54",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "场景快结束时观众相对于跳高装置的位置在哪里？",
+            "options": [
+                "A. 观众在跳高装置的左侧。",
+                "B. 观众在跳高装置的右侧。",
+                "C. 观众在跳高装置的正后方。",
+                "D. 观众在跳高装置的正前方。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_55": {
+            "id": "-qTAeVGl_e8_55",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "高跳项目的场地是怎样的？",
+            "options": [
+                "A. 高跳项目是在有人工照明和现代化体育馆的室内进行。",
+                "B. 高跳项目是在户外，环境有高大的绿树、清澈的蓝天、干燥的草地，以及斑驳的红土，背景非常优美。",
+                "C. 高跳项目是在拥挤的城市区域，背景是高楼大厦。",
+                "D. 高跳项目是在沙漠中，四周是沙丘和稀疏的植被。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_56": {
+            "id": "-qTAeVGl_e8_56",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "跳高比赛期间的光线条件如何？",
+            "options": [
+                "A. 比赛在明亮的正午阳光下进行。",
+                "B. 比赛在阴云密布的天气中进行。",
+                "C. 比赛由人工体育场灯光照明。",
+                "D. 比赛在傍晚夕阳的柔光照射下进行。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_57": {
+            "id": "-qTAeVGl_e8_57",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "这个年轻的男运动员在存在感方面是如何描述的？",
+            "options": [
+                "A. 这位年轻的男运动员被描述为拥有强势的存在感，弯曲的手臂和紧握的拳头，充满动感和自信。",
+                "B. 这位年轻的男运动员被描述为在背景中保持低调，消极地观察着比赛。",
+                "C. 这位年轻的男运动员被描述为在行动中暂停，表现出犹豫和不确定。",
+                "D. 这位年轻的男运动员被描述为安静地坐在场边，对正在进行的活动没有任何参与。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_58": {
+            "id": "-qTAeVGl_e8_58",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "这个年轻的男运动员穿的是什么？",
+            "options": [
+                "A. 浅桃色无袖衬衫和亮绿色短裤",
+                "B. 白衬衫和深色长裤",
+                "C. 灰色衬衫和白色短裤",
+                "D. 黑色无袖衬衫和红色短裤"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_59": {
+            "id": "-qTAeVGl_e8_59",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "有多少身着正式服装的男子在跳高装置附近？",
+            "options": [
+                "A. 一位身着正式服装的男子",
+                "B. 两位身着正式服装的男子",
+                "C. 三位身着正式服装的男子",
+                "D. 四位身着正式服装的男子"
+            ],
+            "answer": "C"
+        },
+        "-qTAeVGl_e8_60": {
+            "id": "-qTAeVGl_e8_60",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "在跳高结束后，年轻运动员朝哪个方向移动？",
+            "options": [
+                "A. 年轻运动员朝向摄像机靠近。",
+                "B. 年轻运动员背离摄像机后退。",
+                "C. 年轻运动员朝向摄像机靠近后远离。",
+                "D. 年轻运动员朝向摄像机远离后靠近。"
+            ],
+            "answer": "C"
+        },
+        "-qTAeVGl_e8_61": {
+            "id": "-qTAeVGl_e8_61",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "镜头如何增加跳高时刻的紧张感？",
+            "options": [
+                "A. 镜头聚焦于运动员的前进动作。",
+                "B. 镜头捕捉整个观众群体，突出了社区精神。",
+                "C. 镜头保持静止，强调了自然背景。",
+                "D. 镜头拉近观众，展现他们的反应。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_62": {
+            "id": "-qTAeVGl_e8_62",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "随着活动的进行，人群的规模如何变化？",
+            "options": [
+                "A. 随着新的观众加入，人群扩大且变得更密集。",
+                "B. 整个活动期间，人群的规模保持不变。",
+                "C. 随着观众离开，人群逐渐减少。",
+                "D. 人群逐渐散开并变得不再有序。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_63": {
+            "id": "-qTAeVGl_e8_63",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "身穿白色号码为‘417’衣服的那个人相对于其他观众的位置在哪里？",
+            "options": [
+                "A. 清晰可见，位于场景的中心",
+                "B. 被附近的观众部分遮挡",
+                "C. 独自一人站在远离人群的地方",
+                "D. 没有出现白色号码为‘417’的人"
+            ],
+            "answer": "D"
+        },
+        "-qTAeVGl_e8_64": {
+            "id": "-qTAeVGl_e8_64",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "视频的背景是什么？",
+            "options": [
+                "A. 视频发生在一个阳光明媚的中午活动期间，蓝天白云，周围是高大的绿树和热闹的群众。",
+                "B. 视频发生在一个室内体育比赛中，有人工照明，观众稀少。",
+                "C. 视频发生在一个下雨的下午，天空阴云密布，公园里安静无声。",
+                "D. 视频发生在一个夜晚的街头庆典上，有璀璨的灯光和熙熙攘攘的小贩。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_65": {
+            "id": "-qTAeVGl_e8_65",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "年轻男性运动员的主要活动是什么？",
+            "options": [
+                "A. 年轻男性运动员参与的是跳高。",
+                "B. 年轻男性运动员正在参加一场足球比赛。",
+                "C. 年轻男性运动员从事的是田径活动。",
+                "D. 年轻男性运动员在比赛中跳舞。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_66": {
+            "id": "-qTAeVGl_e8_66",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "在视频中，这个中心人物的姿势有变化吗？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 只有轻微变化",
+                "D. 变化不明显"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_67": {
+            "id": "-qTAeVGl_e8_67",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "在接下来的画面中，中央人物完成了什么动作？",
+            "options": [
+                "A. 中央人物将完成跳高，过程中双臂向下并稍微向外伸展。",
+                "B. 中央人物将双臂举过头顶表示庆祝。",
+                "C. 中央人物坐在观众人群中。",
+                "D. 中央人物开始朝跳高装置跑去。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_68": {
+            "id": "-qTAeVGl_e8_68",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "中央人物最初移动的方向是哪个？",
+            "options": [
+                "A. 略微向左",
+                "B. 略微向右",
+                "C. 直接向前",
+                "D. 向后"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_69": {
+            "id": "-qTAeVGl_e8_69",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "在当前场景中，人群的组成发生了什么变化？",
+            "options": [
+                "A. 在整个视频中，人群保持不变。",
+                "B. 一些人群中的人离开了，看到的人变少了。",
+                "C. 一些人群中的人不再可见，同时出现了新的面孔。",
+                "D. 整个人群移动到了不同的区域。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_70": {
+            "id": "-qTAeVGl_e8_70",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素表明正在进行的体育赛事？",
+            "options": [
+                "A. 运动员、观众群体、明亮的正午阳光’。",
+                "B. 运动员、空旷的背景、阴云的天空以及没有观众。",
+                "C. 运动员、轻松的氛围、夜间照明和空无一人的周围环境。",
+                "D. 运动员、丰富的体育设备、茂密的森林背景。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_71": {
+            "id": "-qTAeVGl_e8_71",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "运动员在准备过程中与跳高横杆的空间关系是什么？",
+            "options": [
+                "A. 运动员更接近跳高横杆，缩小的间隙强调了他正在准备并靠近器械。",
+                "B. 运动员正在远离跳高横杆，增加了他与器械之间的距离。",
+                "C. 运动员静止不动，与跳高横杆保持一致的距离。",
+                "D. 运动员位于裁判员后面，与器械的距离没有变化。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_72": {
+            "id": "-qTAeVGl_e8_72",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "高跳比赛的环境是如何描述的？",
+            "options": [
+                "A. 比赛在户外进行，有干燥的金黄草地、高大的绿树、清澈深蓝的天空，以及强烈的阳光投下清晰的阴影。",
+                "B. 比赛在室内进行，有合成跑道地面、人造照明，还有一个恒温环境。",
+                "C. 比赛在户外进行，有泥泞的地面、阴云密布的天空，以及微微的细雨营造出湿润的氛围。",
+                "D. 比赛在体育场内进行，周围是混凝土看台、人造照明和一个大型电子记分板。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_73": {
+            "id": "-qTAeVGl_e8_73",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "这位男运动员在准备跳跃时穿着什么？",
+            "options": [
+                "A. 米色背心和亮绿色短裤",
+                "B. 白色衬衫和深色短裤",
+                "C. 蓝色背心和红色短裤",
+                "D. 黑色运动服带黄色条纹"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_74": {
+            "id": "-qTAeVGl_e8_74",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "这位男运动员在准备跳跃时表现出的是什么姿势？",
+            "options": [
+                "A. 这位男运动员上半身抬起，一只手臂向上弯曲。",
+                "B. 这位男运动员低身蹲伏，两臂向前伸展，准备起跳。",
+                "C. 这位男运动员双臂交叉胸前，耐心等待。",
+                "D. 这位男运动员坐在地上，正在伸展腿部准备跳跃。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_75": {
+            "id": "-qTAeVGl_e8_75",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "高跳装置使用了哪些材料？",
+            "options": [
+                "A. 高跳装置由一根木制水平杆和坚固的垂直杆支撑组成。",
+                "B. 高跳装置由一根金属水平杆和柔性橡胶杆支撑组成。",
+                "C. 高跳装置由一根塑料水平杆和铝制杆支撑组成。",
+                "D. 高跳装置由一根绳制水平杆和木制杆支撑组成。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_76": {
+            "id": "-qTAeVGl_e8_76",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "监督官员做了什么动作以加强监督角色？",
+            "options": [
+                "A. 监督官员稍微向左移动稍微远离运动员。",
+                "B. 监督官员举起手臂示意比赛开始。",
+                "C. 监督官员向后移动以给运动员更多空间。",
+                "D. 监督官员踩上跳高装置进行检查。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_77": {
+            "id": "-qTAeVGl_e8_77",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "摄像机的拍摄角度如何影响观众对运动员准备过程的感知？",
+            "options": [
+                "A. 稳定的摄像机角度突出运动员与跳高杆之间逐渐缩小的距离。",
+                "B. 摄像机频繁在运动员和观众之间切换，平等地关注两者。",
+                "C. 广角镜头突出了整个观众和风景，减少了对运动员的关注。",
+                "D. 摄像机聚焦于裁判，将注意力从运动员身上吸引开。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_78": {
+            "id": "-qTAeVGl_e8_78",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "画面观众聚集中，什么引人注目？",
+            "options": [
+                "A. 一位穿白色无袖连衣裙的女士，站在最靠近跳高装置的位置。",
+                "B. 一位穿红色衬衫的人在主要以白色着装的观众背景下显得格外醒目。",
+                "C. 一群穿着各种颜色服装的孩子，正兴奋地欢呼。",
+                "D. 一位监督官员以镇定的姿态站在跳高装置附近。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_79": {
+            "id": "-qTAeVGl_e8_79",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "这个场景发生在哪里？",
+            "options": [
+                "A. 这个场景发生在体育馆内。",
+                "B. 这个场景在户外的运动场。",
+                "C. 这个场景发生在有顶棚的体育场中。",
+                "D. 这个场景发生在城市公园。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_80": {
+            "id": "-qTAeVGl_e8_80",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "男性运动员在比赛完成后做了哪些动作？",
+            "options": [
+                "A. 男性运动员以，弯曲手臂，握紧拳头，向右迈步。",
+                "B. 男性运动员坐在地上，热身双腿并与裁判聊天。",
+                "C. 男性运动员绕着跳高杆跑圈，以练习他的助跑。",
+                "D. 男性运动员躺在草地上，休息并观看其他参赛者。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_81": {
+            "id": "-qTAeVGl_e8_81",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "在比赛结束后，男性运动员的外貌是怎样的？",
+            "options": [
+                "A. 男性运动员出现在背景中，动作轻松，姿态放松，双手张开。",
+                "B. 男性运动员在画面前景中占据主导地位，站姿自信，手臂弯曲，拳头紧握。",
+                "C. 男性运动员坐在场边，双臂交叉休息着。",
+                "D. 男性运动员正随意地与裁判闲聊，没有表现出任何专注的迹象。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_82": {
+            "id": "-qTAeVGl_e8_82",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "场景中有多少位工作人员?",
+            "options": [
+                "A. 一位工作人员",
+                "B. 两位工作人员",
+                "C. 三位工作人员",
+                "D. 没有工作人员"
+            ],
+            "answer": "C"
+        },
+        "-qTAeVGl_e8_83": {
+            "id": "-qTAeVGl_e8_83",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "监督官员如何表现出对跳高比赛的关注？",
+            "options": [
+                "A. 监督官员略微调整自己的位置，向中心靠拢，以更直接面对运动员的姿态站立。",
+                "B. 监督官员举手示意比赛的开始。",
+                "C. 监督官员在观看运动员的同时在写字板上做记录。",
+                "D. 监督官员保持不动，并密切注视运动员。"
+            ],
+            "answer": "D"
+        },
+        "-qTAeVGl_e8_84": {
+            "id": "-qTAeVGl_e8_84",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "在跳高比赛期间，人群的形成是如何演变的？",
+            "options": [
+                "A. 人群变得更加分散，高跳杆附近的人减少。",
+                "B. 在最右侧出现了一个更紧密的观众群体。",
+                "C. 观众全部移动到左侧，使跳高区域几乎无人关注。",
+                "D. 人群保持静止，在整个比赛过程中没有变化。"
+            ],
+            "answer": "D"
+        },
+        "-qTAeVGl_e8_85": {
+            "id": "-qTAeVGl_e8_85",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "有哪些视觉元素能够增强对跳高赛事场景的理解？",
+            "options": [
+                "A. 明亮的自然光线突出了服装和跳高布置的鲜艳色彩，加强了对参与者、裁判和观众的可见度和关注。",
+                "B. 昏暗的多云天空和茂密的树叶遮挡了跳高布置，营造出一种神秘和悬念的氛围。",
+                "C. 人工照明扭曲了场景，使得区分不同的参与者和裁判变得困难。",
+                "D. 雾天减少了参与者服装的鲜艳度，降低了跳高布置的可见性和关注度。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_86": {
+            "id": "-qTAeVGl_e8_86",
+            "scene": 6,
+            "dimension": "Camera Direction",
+            "question": "当摄影机转向时，肌肉发达的男性运动员在画面中的位置在哪里？",
+            "options": [
+                "A. 当摄影机转向时，肌肉发达的男性运动员位于画面的最左侧，露出他的背部。",
+                "B. 当摄影机转向时，肌肉发达的男性运动员位于画面的中央，露出他的背部。",
+                "C. 当摄影机转向时，肌肉发达的男性运动员位于画面的最右侧，露出他的背部。",
+                "D. 当摄影机转向时，肌肉发达的男性运动员完全在画面之外。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_87": {
+            "id": "-qTAeVGl_e8_87",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "场景的设置是什么？",
+            "options": [
+                "A. 场景设定在阳光明媚的正午，举行一场户外体育活动。",
+                "B. 场景设定在一个灯光昏暗的室内体育馆。",
+                "C. 场景设定在日落时的海滩。",
+                "D. 场景设定在清晨的森林空地。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_88": {
+            "id": "-qTAeVGl_e8_88",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "场景环境有哪些特点？",
+            "options": [
+                "A. 环境生动活泼，有人穿着正式，也有人穿着休闲。",
+                "B. 环境安静隐秘，场景中只有几个人。",
+                "C. 环境昏暗阴沉，没有看到任何人。",
+                "D. 环境寒冷多风，每个人都穿着冬季服装。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_89": {
+            "id": "-qTAeVGl_e8_89",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "这位肌肉发达的男性运动员穿着什么？",
+            "options": [
+                "A. 这位肌肉发达的男性运动员穿着一件无袖橙色背心和绿色短裤。",
+                "B. 这位肌肉发达的男性运动员穿着一件白色衬衫和灰色长裤。",
+                "C. 这位肌肉发达的男性运动员穿着一件红色T恤和黑色长裤。",
+                "D. 这位肌肉发达的男性运动员穿着一件蓝色衬衫和牛仔裤。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_90": {
+            "id": "-qTAeVGl_e8_90",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "场景中现在缺失的物体是什么？",
+            "options": [
+                "A. 场景中现在缺失的是跳高横杆。",
+                "B. 场景中现在缺失的是橙色无袖背心。",
+                "C. 场景中现在缺失的是鲜红色T恤衫。",
+                "D. 场景中现在缺失的是明亮的正午阳光。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_91": {
+            "id": "-qTAeVGl_e8_91",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "在场景的最右边，看到哪些明显的变化？",
+            "options": [
+                "A. 最右边的群体一直保持着一个紧密的队形。",
+                "B. 最右边的群体已经分散，变得更稀疏。",
+                "C. 最右边的群体保持比较分散，静止不动。",
+                "D. 最右边的群体移到了更靠近运动员的地方。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_92": {
+            "id": "-qTAeVGl_e8_92",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "场景中部和右下部分有哪些显著变化？",
+            "options": [
+                "A. 中部和右下部分出现了新的个体填充场景。",
+                "B. 中部和右下部分变得完全空旷。",
+                "C. 中部和右下部分保持不变，仍有零散的人群。",
+                "D. 中部和右下部分被一组非正式的群体占据。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_93": {
+            "id": "-qTAeVGl_e8_93",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "在一个充满活力的时刻，这位运动员通过什么动作吸引观众的注意？",
+            "options": [
+                "A. 这位运动员通过后空翻来吸引观众的注意。",
+                "B. 这位运动员抱紧双臂，增强与观众的互动和氛围。",
+                "C. 这位运动员为观众唱了一首歌。",
+                "D. 这位运动员跳过横杆来与观众互动。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_94": {
+            "id": "-qTAeVGl_e8_94",
+            "scene": 7,
+            "dimension": "Object Direction",
+            "question": "肌肉发达的运动员在镜头中向哪个方向移动？",
+            "options": [
+                "A. 肌肉发达的运动员向左移动。",
+                "B. 肌肉发达的运动员向右移动。",
+                "C. 肌肉发达的运动员向上移动。",
+                "D. 肌肉发达的运动员向下移动。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_95": {
+            "id": "-qTAeVGl_e8_95",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "当相机聚焦于运动员的背影时，镜头角度会如何变化？",
+            "options": [
+                "A. 相机向上移动以聚焦于运动员的面部",
+                "B. 相机放大到运动员右边的人群",
+                "C. 相机缓慢旋转到运动员的正面",
+                "D. 相机轻微调整角度，以运动员为主体"
+            ],
+            "answer": "D"
+        },
+        "-qTAeVGl_e8_96": {
+            "id": "-qTAeVGl_e8_96",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "展示一位肌肉发达的运动员与观众互动所使用的构图技巧是什么？",
+            "options": [
+                "A. 运动员被置于画面中央，突出他的背部轮廓和周围的动态。",
+                "B. 运动员以侧面轮廓呈现，同时忽略了周围人群的动态。",
+                "C. 运动员被框在画面的角落，以突出观众的多样性。",
+                "D. 运动员被刻意遮挡在观众中，以聚焦于他们的反应。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_97": {
+            "id": "-qTAeVGl_e8_97",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "在运动员进入一个运动动作时，引入了哪些视觉元素？",
+            "options": [
+                "A. 一位穿着正式的观察者进入左前景，与随意的观众形成对比，改变了场景的动态。",
+                "B. 一根新的跳高杆被直接放置在运动员面前，将注意力集中在器材上。",
+                "C. 一群摄影师从右侧出现，将相机对准运动员。",
+                "D. 运动员被彩纸围绕，象征着赛事庆祝的结束。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_98": {
+            "id": "-qTAeVGl_e8_98",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "黑色背景后的第一个可见元素是什么？",
+            "options": [
+                "A. 白色文字，上面写着“Kenyan High Jump”。",
+                "B. 一名身穿橙色背心的肌肉发达的男性运动员。",
+                "C. 一个跳高横杆。",
+                "D. 一个色彩鲜艳的人群场景。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_99": {
+            "id": "-qTAeVGl_e8_99",
+            "scene": "-1",
+            "dimension": "Attribute Change",
+            "question": "在“Kenyan High Jump”字样消失后会发生什么？",
+            "options": [
+                "A. 场景恢复为纯黑的视觉背景。",
+                "B. 场景切换到运动员完成跳高的画面。",
+                "C. 场景转为显示观众为表演鼓掌的画面。",
+                "D. 场景引入一位解说员对赛事进行回顾。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_100": {
+            "id": "-qTAeVGl_e8_100",
+            "scene": "-1",
+            "dimension": "Spatial",
+            "question": "慢放镜头结束后运动员在这个场景中的位置如何变化？",
+            "options": [
+                "A. 运动员稍微向画面左侧移动。",
+                "B. 运动员在整个场景中保持在画面中心不动。",
+                "C. 运动员完全移出画面右侧。",
+                "D. 运动员稍微向画面右侧移动。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_101": {
+            "id": "-qTAeVGl_e8_101",
+            "scene": "-1",
+            "dimension": "Description-Human",
+            "question": "第一轮跳高第二个进行跳高的运动员是谁？",
+            "options": [
+                "A. 一名穿绿色短裤运动员。",
+                "B. 一名穿橙色短裤运动员。",
+                "C. 一名穿红色短裤运动员。",
+                "D. 一名穿蓝色短裤运动员。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_102": {
+            "id": "-qTAeVGl_e8_102",
+            "scene": "-1",
+            "dimension": "Fine Grained Action",
+            "question": "第一轮跳高之后发生了什么事情？",
+            "options": [
+                "A. 两名穿正式服装的人在调节高跳横杆。",
+                "B. 观众坐在场边热烈鼓掌。",
+                "C. 一组穿橙色背心的裁判正在标记地面。",
+                "D. 教练给运动员指导。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_103": {
+            "id": "-qTAeVGl_e8_103",
+            "scene": "-1",
+            "dimension": "Description-Human",
+            "question": "这个场景如何描绘观众？",
+            "options": [
+                "A. 观众被描绘成通过穿着校服或正式服装的观众以半圆形排列。",
+                "B. 观众分散在各处，对活动没有特别的兴趣，显得无动于衷。",
+                "C. 观众安静地坐着不动，表现出极小的参与度。",
+                "D. 观众大多缺席，只有少数几个人出现在背景中，没有特定的排列。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_104": {
+            "id": "-qTAeVGl_e8_104",
+            "scene": "-1",
+            "dimension": "Description-Scene",
+            "question": "高跳比赛的环境是怎样的？",
+            "options": [
+                "A. 比赛在室内进行，有人工照明和抛光的木地板。",
+                "B. 比赛在室外进行，地面是红土和草地，在阳光明媚的天空下，场地边缘有高大的绿树。",
+                "C. 比赛在一个有混凝土看台的体育场进行，天空是阴天。",
+                "D. 比赛在一个城市公园进行，公园内有铺设的小路，周围环绕着高大的摩天大楼。"
+            ],
+            "answer": "B"
+        },
+        "-qTAeVGl_e8_105": {
+            "id": "-qTAeVGl_e8_105",
+            "scene": "-1",
+            "dimension": "Spatial",
+            "question": "负责人的位置在跳高器材周围如何变化？",
+            "options": [
+                "A. 穿白衬衫和灰色裤子的负责人移动到左边缘更近的位置。",
+                "B. 穿白衬衫和灰色裤子的负责人移动到画面的右侧。",
+                "C. 负责人在整个场景中一直在跳高器材附近几乎不动。",
+                "D. 负责人走到后台，远离跳高器材。"
+            ],
+            "answer": "C"
+        },
+        "-qTAeVGl_e8_106": {
+            "id": "-qTAeVGl_e8_106",
+            "scene": "-1",
+            "dimension": "Fine Grained Action",
+            "question": "两轮跳高之间发生了什么？",
+            "options": [
+                "A. 工作人员在恢复跳高横杆。",
+                "B. 工作人员在计分。",
+                "C. 摄像头还是移向观众。",
+                "D. 运动员在握拳庆祝。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_107": {
+            "id": "-qTAeVGl_e8_107",
+            "scene": "-1",
+            "dimension": "Description-Human",
+            "question": "为什么在跳高比赛中，裁判员会调整自己的位置？",
+            "options": [
+                "A. 他们调整位置是为了微调跳高横杆，确保其对齐和稳定。",
+                "B. 他们调整位置是为了更好地观察运动员的表现。",
+                "C. 他们调整位置是为了管理观众并确保安全。",
+                "D. 他们调整位置是为了鼓励运动员并提供精神支持。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_108": {
+            "id": "-qTAeVGl_e8_108",
+            "scene": "-1",
+            "dimension": "Description-Scene",
+            "question": "为什么在跳高比赛中会将注意力转向观众？",
+            "options": [
+                "A. 通过观众的密集来体现观众的观赛热情。",
+                "B. 展示特定观众的正装。",
+                "C. 强调跳高的技术方面。",
+                "D. 展示由于观众干扰运动员面临的挑战。"
+            ],
+            "answer": "A"
+        },
+        "-qTAeVGl_e8_109": {
+            "id": "-qTAeVGl_e8_109",
+            "scene": "-1",
+            "dimension": "Fine Grained Action",
+            "question": "运动员完成跳高做了什么庆祝动作？",
+            "options": [
+                "A. 运动员握紧拳头、弯曲手臂，并靠近镜头。",
+                "B. 运动员站着不动，将一只手臂向上伸直。",
+                "C. 运动员原地跳跃多次后向前弯腰。",
+                "D. 运动员转过身背对镜头并跪在地上。"
+            ],
+            "answer": "A"
+        }
+    }
+}

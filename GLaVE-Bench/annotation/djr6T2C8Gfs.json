@@ -1,0 +1,1604 @@
+{
+    "scene_hint": {
+        "0": "沙漠里，有一个“GHOST COWBOYS”标志。",
+        "1": "幽灵的牛仔和他们的幽灵马成为焦点。",
+        "2": "幽灵牛仔来到一个小镇，画面中还有一只狼。",
+        "3": "在酒馆里，有幽灵牛仔、怪物酒保和一个木乃伊钢琴手。",
+        "4": "狼警长拿着幽灵牛仔的通缉令。",
+        "5": "两个幽灵牛仔紧张的流出汗水。",
+        "6": "近距离展示通缉令。",
+        "7": "展示狼警长的特写。",
+        "8": "两位幽灵骑手在沙漠中急速奔跑。",
+        "9": "画面转到狼警长，他正在在后面追逐。",
+        "10": "狼追赶幽灵角色，上演一场追逐大戏。",
+        "11": "幽灵躲在石头后面，狼奔跑略过后出现跳舞庆祝。"
+    },
+    "qa": {
+        "djr6T2C8Gfs_0": {
+            "id": "djr6T2C8Gfs_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "鬼魂牛仔相对于“GHOST COWBOYS”标志的位置在哪里？",
+            "options": [
+                "A. 围绕“GHOST COWBOYS”标志旋转奔跑。",
+                "B. 从左向右穿越景观，而“GHOST COWBOYS”标志在场景的右侧。",
+                "C. 站在“GHOST COWBOYS”标志的正前方。",
+                "D. 从右向左移动，远离“GHOST COWBOYS”标志。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_1": {
+            "id": "djr6T2C8Gfs_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频场景中描绘的环境是什么？",
+            "options": [
+                "A. 环境是沙漠景观。",
+                "B. 环境是茂密森林。",
+                "C. 环境是雪山地形。",
+                "D. 环境是海岸沙滩落。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_2": {
+            "id": "djr6T2C8Gfs_2",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "鬼魂牛仔在视频中正在做什么动作？",
+            "options": [
+                "A. 正在穿越沙漠景观。",
+                "B. 静止站立。",
+                "C. 在星空下演奏乐器。",
+                "D. 正在消失在远处的台地和孤山背景中。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_3": {
+            "id": "djr6T2C8Gfs_3",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "“GHOST COWBOYS”标志是什么样的？",
+            "options": [
+                "A. 这个标志是矩形的。",
+                "B. 这个标志是圆形的。",
+                "C. 这个标志是三角形的。",
+                "D. 这个标志是方形的。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_4": {
+            "id": "djr6T2C8Gfs_4",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "‘GHOST COWBOYS’ 标志位于何处？",
+            "options": [
+                "A. 标志安装在嵌入于场景右侧岩石地面上的单独柱子上。",
+                "B. 标志漂浮在桌山上方的天空中。",
+                "C. 标志悬挂在场景左侧的仙人掌上。",
+                "D. 标志放置在背景中的孤峰上。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_5": {
+            "id": "djr6T2C8Gfs_5",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "出现在场景中的主要元素有哪些，除了背景的山岗？",
+            "options": [
+                "A. “GHOST COWBOYS”标志、幽灵牛仔、围栏结构和草堆。",
+                "B. “GHOST COWBOYS”标志、一群幽灵矿工、一口井和一个滚动的草堆。",
+                "C. 一个大型木质小屋、一群幽灵警长和一个车轮。",
+                "D. “GHOST COWBOYS”标志、一个酒馆入口和一群幽灵野牛。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_6": {
+            "id": "djr6T2C8Gfs_6",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "在幽灵牛仔的动作中能观察到哪些微妙的动作？",
+            "options": [
+                "A. 幽灵牛仔表现出轻柔的动作。",
+                "B. 幽灵牛仔静止不动。",
+                "C. 幽灵牛仔表演特技。",
+                "D. 幽灵牛仔的马快速疾驰。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_7": {
+            "id": "djr6T2C8Gfs_7",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "这些幽灵牛仔的移动方向是什么？",
+            "options": [
+                "A. 从左向右移动。",
+                "B. 从右向左移动。",
+                "C. 从上到下移动。",
+                "D. 从下到上移动。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_8": {
+            "id": "djr6T2C8Gfs_8",
+            "scene": 0,
+            "dimension": "Camera Direction",
+            "question": "场景中相机的运动是如何演变的?",
+            "options": [
+                "A. 场景缓慢向右平移。",
+                "B. 场景快速拉近。",
+                "C. 相机向左平移。",
+                "D. 相机保持静止。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_9": {
+            "id": "djr6T2C8Gfs_9",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "拍摄幽灵牛仔的镜头视角是什么？",
+            "options": [
+                "A. 视角是从正面。",
+                "B. 视角是从上方。",
+                "C. 视角是从下方。",
+                "D. 视角是从侧面。"
+            ],
+            "answer": "D"
+        },
+        "djr6T2C8Gfs_10": {
+            "id": "djr6T2C8Gfs_10",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "鬼魂牛仔是如何移动的？",
+            "options": [
+                "A. 移动迅速，并且突然消失。",
+                "B. 动作轻柔且移动缓慢。",
+                "C. 一动不动地站着。",
+                "D. 以不规律和不可预知的方式移动。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_11": {
+            "id": "djr6T2C8Gfs_11",
+            "scene": 0,
+            "dimension": "Camera Direction",
+            "question": "摄像机向右移动时，场景中显露出哪些变化？",
+            "options": [
+                "A. 平顶山变成了一座发光的山，标志上的文字颜色发生变化。",
+                "B. 幽灵牛仔逐渐出现。",
+                "C. 星星消失，天空变成明亮的蓝色。",
+                "D. 幽灵牛仔变成真实的牛仔并停下动作。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_12": {
+            "id": "djr6T2C8Gfs_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "场景中较胖的牛仔在画面的哪里？",
+            "options": [
+                "A. 在左边。",
+                "B. 在右边。",
+                "C. 在中间。",
+                "D. 在马后面。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_13": {
+            "id": "djr6T2C8Gfs_13",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "场景中帽子较高较大的牛仔位于场景的哪里？",
+            "options": [
+                "A. 左边。",
+                "B. 中间。",
+                "C. 右边。",
+                "D. 场景中没有戴着帽子的牛仔。"
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_14": {
+            "id": "djr6T2C8Gfs_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "幽灵牛仔所在场景的环境是什么？",
+            "options": [
+                "A. 雾弥漫的森林中。",
+                "B. 沙漠景观中。",
+                "C. 繁华的城市中。",
+                "D. 一颗外星球上。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_15": {
+            "id": "djr6T2C8Gfs_15",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "从观看视频角度来看，左边的牛仔在外貌和表情上是如何描述的？",
+            "options": [
+                "A. 整体类似圆形，戴着很小的帽子，表情略显不安。",
+                "B. 戴着一顶黑色牛仔帽，帽上有一条红色帽带，表情开朗。",
+                "C. 圆形的头部，戴着小星形的王冠，姿态自信。",
+                "D. 左边的牛仔有一张细长的脸，表情中性，没有头部配饰。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_16": {
+            "id": "djr6T2C8Gfs_16",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "从外貌和表情来看，右边的牛仔是如何描述的？",
+            "options": [
+                "A. 戴着黑帽，帽上有一圈红色的带子。",
+                "B. 戴着黑色皇冠状饰物，神情显得不安，姿势略显懈怠。",
+                "C. 头圆圆的，头上漂浮着一颗五角星。",
+                "D. 右边的牛仔没有佩戴任何饰物，表情活泼而愉快。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_17": {
+            "id": "djr6T2C8Gfs_17",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "在左边的牛仔骑着的马有哪些特征？",
+            "options": [
+                "A. 圆润柔和的特征，浅棕色马鞍，呈灰色不透明。",
+                "B. 尖锐的棱角特征，深棕色的马鞍，呈亮红色且不透明。",
+                "C. 细长、光滑的特征，黑色马鞍，呈深绿色且透明。",
+                "D. 方形刚硬的特征，白色马鞍，呈亮黄色且坚固。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_18": {
+            "id": "djr6T2C8Gfs_18",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "右边骑有牛仔的马有什么特征？",
+            "options": [
+                "A. 稍微窄一点，色调略偏蓝，并且是半透明的。",
+                "B. 特征圆润，黑色椭圆眼睛，颜色是淡蓝色。",
+                "C. 戴着类似冠状的装饰，颜色是淡棕色。",
+                "D. 色彩鲜艳，马鞍很精致。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_19": {
+            "id": "djr6T2C8Gfs_19",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "场景中有多少个幽灵牛仔？",
+            "options": [
+                "A. 一个。",
+                "B. 两个。",
+                "C. 三个。",
+                "D. 四个。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_20": {
+            "id": "djr6T2C8Gfs_20",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "场景中有多少匹幽灵马？",
+            "options": [
+                "A. 一匹。",
+                "B. 两匹。",
+                "C. 三匹。",
+                "D. 四匹。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_21": {
+            "id": "djr6T2C8Gfs_21",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "在这个场景中，摄像机运动的方向是什么？",
+            "options": [
+                "A. 摄像机运动集中在幽灵牛仔。",
+                "B. 摄像机运动集中在横移穿过沙漠景观。",
+                "C. 摄像机运动集中在缩小以展示整个沙漠场景。",
+                "D. 摄像机运动集中在向上倾斜以展示天空和云彩。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_22": {
+            "id": "djr6T2C8Gfs_22",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "用于强调幽灵牛仔及其马匹的摄影镜头是什么类型？",
+            "options": [
+                "A. 仰视镜头。",
+                "B. 广角镜头。",
+                "C. 俯视镜头。",
+                "D. 特写镜头。"
+            ],
+            "answer": "D"
+        },
+        "djr6T2C8Gfs_23": {
+            "id": "djr6T2C8Gfs_23",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "场景的焦点如何从上一个场景变化？",
+            "options": [
+                "A. 焦点从广阔的沙漠景观和“幽灵牛仔”标志转移。",
+                "B. 焦点从幽灵牛仔转移到沙漠景观。",
+                "C. 焦点从马匹转移到“幽灵牛仔”标志。",
+                "D. 焦点从天空转移到台地和岩石地貌。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_24": {
+            "id": "djr6T2C8Gfs_24",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "当前场景的焦点是什么？",
+            "options": [
+                "A. 焦点集中在幽灵牛仔及他们的马匹。",
+                "B. 场景过渡到一幅全景的沙漠风光图。",
+                "C. 焦点转移到“幽灵牛仔”标志上。",
+                "D. 场景捕捉了天空和云朵。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_25": {
+            "id": "djr6T2C8Gfs_25",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "狼般的人物在场景中的什么位置？",
+            "options": [
+                "A. 小镇的中央。",
+                "B. 场景左侧的岩石突出部分。",
+                "C. 尘土飞扬的道路上，靠近牛仔。",
+                "D. 西部建筑的上方。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_26": {
+            "id": "djr6T2C8Gfs_26",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频场景的背景是什么？",
+            "options": [
+                "A. 风格化的西部沙漠小镇。",
+                "B. 现代大都市。",
+                "C. 神秘的森林。",
+                "D. 古老的遗址。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_27": {
+            "id": "djr6T2C8Gfs_27",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "鬼魂牛仔的外貌有什么独特之处？",
+            "options": [
+                "A. 有逼真的特征，穿着传统牛仔服装。",
+                "B. 有幽默的卡通特征。",
+                "C. 被描绘成没有明显特征的阴影人物。",
+                "D. 穿着未来派服装，带有发光的配饰。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_28": {
+            "id": "djr6T2C8Gfs_28",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "鬼魂牛仔的背景是什么？",
+            "options": [
+                "A. 高楼林立的繁华城市景观",
+                "B. 蓝天下的雪山",
+                "C. 风格化的沙漠背景",
+                "D. 笼罩着浓雾的密林"
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_29": {
+            "id": "djr6T2C8Gfs_29",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "在西式风格的小镇中，哪栋建筑最显眼？",
+            "options": [
+                "A. 一栋标有“BAR”的建筑很显眼。",
+                "B. 一栋标有“SHERIFF”的建筑很显眼。",
+                "C. 一栋标有“HOTEL”的建筑很显眼。",
+                "D. 一栋标有“BANK”的建筑很显眼。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_30": {
+            "id": "djr6T2C8Gfs_30",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "场景中有多少个幽灵牛仔？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_31": {
+            "id": "djr6T2C8Gfs_31",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "这个场景包括野生动物吗？",
+            "options": [
+                "A. 是的，其中包括一个类似狼的剪影。",
+                "B. 不，场景中没有野生动物。",
+                "C. 是的，场景中有一群狼在沙漠中奔跑。",
+                "D. 不，场景中只有牛仔和马。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_32": {
+            "id": "djr6T2C8Gfs_32",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "那些鬼魂牛仔正朝哪个方向旅行？",
+            "options": [
+                "A. 正朝向观众旅行。",
+                "B. 正向正左侧旅行。",
+                "C. 正远离观众旅行。",
+                "D. 正向正右侧旅行。"
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_33": {
+            "id": "djr6T2C8Gfs_33",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "当前场景的相机镜头是什么？",
+            "options": [
+                "A. 摄像机移到幽灵牛仔的特写镜头。",
+                "B. 摄像机紧紧跟随狼一样的身影。",
+                "C. 摄像机当前是一个广角的、宽广的镜头。",
+                "D. 摄像机平移以聚焦于BAR建筑。"
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_34": {
+            "id": "djr6T2C8Gfs_34",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "酒馆场景的整体设置是什么？",
+            "options": [
+                "A. 现代工业风格，金属地板，明亮的霓虹灯和未来感的装饰。",
+                "B. 复古美感，深棕色的木地板和墙壁，吊灯、蛾状生物。",
+                "C. 极简设计，光滑的白色墙壁，极简家具和稀疏的装饰。",
+                "D. 乡村户外风格，泥土地板，木桶和开阔的天空视野。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_35": {
+            "id": "djr6T2C8Gfs_35",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "木乃伊形象正在画面右侧做什么？",
+            "options": [
+                "A. 弹钢琴。",
+                "B. 坐着，观察着幽灵。",
+                "C. 在唱歌。",
+                "D. 随着音乐拍手。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_36": {
+            "id": "djr6T2C8Gfs_36",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "坐在中央桌子左侧的幽灵人物所戴帽子有什么独特之处？",
+            "options": [
+                "A. 小号黑色牛仔帽。",
+                "B. 大号黑色牛仔帽，帽带为粉色。",
+                "C. 有羽毛的帽子。",
+                "D. 宽檐牛仔帽，帽带为蓝色。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_37": {
+            "id": "djr6T2C8Gfs_37",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "中央桌子上右边那个幽灵人物戴的帽子有什么特别之处？",
+            "options": [
+                "A. 较大的帽子，上面有一条粉色带子。",
+                "B. 一顶牛仔帽，上面有一条紫色带子。",
+                "C. 较小的帽子，上面有一条蓝色带子。",
+                "D. 绿色羽毛的帽子。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_38": {
+            "id": "djr6T2C8Gfs_38",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "沙龙中中央桌子上有多少个身影坐着？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_39": {
+            "id": "djr6T2C8Gfs_39",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "酒馆左侧的酒保形象仍在看管酒吧吗？",
+            "options": [
+                "A. 是的。",
+                "B. 不。",
+                "C. 是的，但酒保不再是绿皮的，也不再像怪物。",
+                "D. 不，酒保已经不再出现在酒馆内。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_40": {
+            "id": "djr6T2C8Gfs_40",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "从立式钢琴发出的音符朝哪个方向移动？",
+            "options": [
+                "A. 立式钢琴没有发出音符。",
+                "B. 向下移动。",
+                "C. 向左漂移。",
+                "D. 四面八方随机散开。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_41": {
+            "id": "djr6T2C8Gfs_41",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "酒馆场景中的镜头取景重点是什么？",
+            "options": [
+                "A. 镜头拉近绿色酒保和它身后的瓶子。",
+                "B. 在聚焦中央桌子及其周围人。",
+                "C. 它突出了摇摆的双扇门及其附近的阴影剪影。",
+                "D. 它聚焦于钢琴边演奏音乐的木乃伊形象。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_42": {
+            "id": "djr6T2C8Gfs_42",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "在酒馆场景中，左侧鬼影上出现了什么新细节？",
+            "options": [
+                "A. 左侧鬼影张大嘴巴唱歌。",
+                "B. 左侧鬼影的帽子上增加了一条粉色带子。",
+                "C. 左侧鬼影开始演奏钢琴。",
+                "D. 左侧鬼影失去了它的圆鼻子。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_43": {
+            "id": "djr6T2C8Gfs_43",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "狼可能站在哪里？",
+            "options": [
+                "A. 酒馆门口。",
+                "B. 繁忙的市场中间。",
+                "C. 安静的森林前面。",
+                "D. 沙滩上。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_44": {
+            "id": "djr6T2C8Gfs_44",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "狼出现的场景环境是怎样的？",
+            "options": [
+                "A. 环境是未来主义风格",
+                "B. 环境具有西部美学风格。",
+                "C. 环境是冰雪和寒冷的。",
+                "D. 环境是热带风情。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_45": {
+            "id": "djr6T2C8Gfs_45",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "狼拿的“WANTED”海报上画了什么？",
+            "options": [
+                "A. 两只卡通式的幽灵。",
+                "B. 一群戴面具和牛仔帽的强盗。",
+                "C. 一只独狼，蓝色的眼睛锐利。",
+                "D. 一对捣蛋的浣熊，带有条纹尾巴。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_46": {
+            "id": "djr6T2C8Gfs_46",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "海报上“通缉”的人物有多少个？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_47": {
+            "id": "djr6T2C8Gfs_47",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "数字 '31' 是否显示在狼的牛仔帽上？",
+            "options": [
+                "A. 是的，数字 '31' 显示在狼的牛仔帽上。",
+                "B. 不，数字 '13' 显示在狼的牛仔帽上。",
+                "C. 不，狼的牛仔帽上没有数字。",
+                "D. 不，数字 '21' 显示在狼的牛仔帽上。"
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_48": {
+            "id": "djr6T2C8Gfs_48",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "用于聚焦狼的细节的摄像机角度是什么？",
+            "options": [
+                "A. 略微向上的角度。",
+                "B. 俯视角度。",
+                "C. 侧面特写。",
+                "D. 低角度广角镜头。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_49": {
+            "id": "djr6T2C8Gfs_49",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "相机角度突出了狼的哪些细节？",
+            "options": [
+                "A. 狼的皱眉、警长徽章和“通缉”海报。",
+                "B. 狼的浅棕色牛仔靴、灰色毛发和背景中的楼梯。",
+                "C. 狼那刺眼的橙色眼睛、红棕色背心和木制楼梯。",
+                "D. 狼那过大的牛仔帽、它的尾巴和酒馆内部。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_50": {
+            "id": "djr6T2C8Gfs_50",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "用什么镜头来强调狼的支配地位?",
+            "options": [
+                "A. 特写镜头。",
+                "B. 广角镜头。",
+                "C. 俯拍镜头。",
+                "D. 低角度长镜头拍摄楼梯。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_51": {
+            "id": "djr6T2C8Gfs_51",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "灰色的杯子相对于幽灵牛仔的位置在哪里？",
+            "options": [
+                "A. 对称的放在桌子上，两个幽灵牛仔之间。",
+                "B. 在酒馆背景的一个架子上。",
+                "C. 在地板上，靠近幽灵牛仔。",
+                "D. 在酒馆角落的另一张桌子上。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_52": {
+            "id": "djr6T2C8Gfs_52",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "胖幽灵的外貌是什么样的？",
+            "options": [
+                "A. 胖幽灵身材圆润，戴着一顶倾斜的黑色牛仔帽，面部表情简单滑稽，有一个张开的椭圆形嘴巴、上扬的点状眉毛和几滴汗。",
+                "B. 胖幽灵身材苗条，戴着一顶黑色宽边牛仔帽，上面有一条红色帽带，并且表情平静。",
+                "C. 胖幽灵身材高挑，戴着一顶绿色牛仔帽，有一个开心的表情和灿烂的笑容。",
+                "D. 胖幽灵外貌尖锐，戴着一顶蓝色棒球帽，表情惊讶，双眼睁得大大的。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_53": {
+            "id": "djr6T2C8Gfs_53",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "瘦小的幽灵外观有什么特点？",
+            "options": [
+                "A. 穿着一件带有金色纽扣的黑色背心。",
+                "B. 戴着一顶带有鲜红色装饰带的宽檐黑色牛仔帽。",
+                "C. 一只手拿着一个套索。",
+                "D. 佩戴着一个闪亮的银色警长徽章。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_54": {
+            "id": "djr6T2C8Gfs_54",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "桌子上有多少个幽灵般的人物？",
+            "options": [
+                "A.一个。",
+                "B. 两个。",
+                "C. 三个。",
+                "D. 四个。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_55": {
+            "id": "djr6T2C8Gfs_55",
+            "scene": 5,
+            "dimension": "Camera Direction",
+            "question": "相机的视角是正对着这些幽灵般的人物吗？",
+            "options": [
+                "A. 是的，相机的视角是正对的。",
+                "B. 不，相机的视角是从上方拍摄的。",
+                "C. 不，相机的视角是从一个角度拍摄的。",
+                "D. 不，相机的视角是从背后拍摄的。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_56": {
+            "id": "djr6T2C8Gfs_56",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "星星状的符号是如何排列在乳白色的纸张上的？",
+            "options": [
+                "A. 随机散布在纸张上。",
+                "B. 位于纸张上方对称排列。",
+                "C. 位于纸张的四个角落。",
+                "D. 沿着矩形的对角线排列。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_57": {
+            "id": "djr6T2C8Gfs_57",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "酒馆之后的下一场景是什么？",
+            "options": [
+                "A. 场景切换到一张淡奶油色的纸张特写。",
+                "B. 场景变为酒馆的外景。",
+                "C. 场景移动到一个热闹的市场。",
+                "D. 场景转到一个黑暗且下着雨的夜晚。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_58": {
+            "id": "djr6T2C8Gfs_58",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "纸上插图右侧的幽灵有什么特点？",
+            "options": [
+                "A. 圆润，小眼睛，头上有王冠状的帽子。",
+                "B. 细长、花瓣状的帽子和点状面部标记。",
+                "C. 高大，带着宽边帽子。",
+                "D. 方形，大眼睛。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_59": {
+            "id": "djr6T2C8Gfs_59",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "狼状角色的毛色是什么？",
+            "options": [
+                "A. 狼的毛色是深灰色，嘴部周围有较浅的色调。",
+                "B. 狼的毛色是白色，耳朵周围有黑色斑点。",
+                "C. 狼的毛色是棕色，尾巴上有金色的亮点。",
+                "D. 狼的毛色是黑色，眼睛周围有红色条纹。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_60": {
+            "id": "djr6T2C8Gfs_60",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "关于那个狼的耳朵，有什么特别之处？",
+            "options": [
+                "A. 是完全深灰色的。",
+                "B. 带有粉红色的色调。",
+                "C. 完全是橙色的。",
+                "D. 充满了浅蓝色的高光。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_61": {
+            "id": "djr6T2C8Gfs_61",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "狼一样的角色的眼睛是如何描述的？",
+            "options": [
+                "A. 狼有着宽大、圆圆的眼睛。",
+                "B. 狼有着狭长、倾斜的眼睛。",
+                "C. 狼有着明亮的蓝色眼睛。",
+                "D. 狼有着闭合的、睡眼惺忪的眼睛。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_62": {
+            "id": "djr6T2C8Gfs_62",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "狼一样的角色有什么独特的配件？",
+            "options": [
+                "A. 有一顶黑色的西部牛仔帽。",
+                "B. 围着一条红色围巾。",
+                "C. 戴着一顶蓝色帽子。",
+                "D. 尾巴上系着一块绿色的头巾。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_63": {
+            "id": "djr6T2C8Gfs_63",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "狼一样的角色的嘴巴有什么独特之处？",
+            "options": [
+                "A. 狼稍微张开的嘴里有一颗锋利的尖牙。",
+                "B. 狼露出一个宽大的笑容，露出多颗锋利的牙齿。",
+                "C. 狼闭着嘴，口水滴落下来。",
+                "D. 狼伸出一条长长的舌头。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_64": {
+            "id": "djr6T2C8Gfs_64",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "狼状角色的嘴里能看到多少颗尖牙？",
+            "options": [
+                "A. 一颗尖牙",
+                "B. 两颗尖牙",
+                "C. 三颗尖牙",
+                "D. 没有尖牙"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_65": {
+            "id": "djr6T2C8Gfs_65",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "用于描绘狼状角色的是哪种类型的镜头？",
+            "options": [
+                "A. 特写镜头。",
+                "B. 广角镜头。",
+                "C. 中景镜头。",
+                "D. 在其身后拍摄的过肩镜头。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_66": {
+            "id": "djr6T2C8Gfs_66",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "从画面来看，戴着红色缎带黑色牛仔帽的幽灵般的身影的位置在哪里？",
+            "options": [
+                "A. 上方。",
+                "B. 下方。",
+                "C. 左边。",
+                "D. 右边。"
+            ],
+            "answer": "D"
+        },
+        "djr6T2C8Gfs_67": {
+            "id": "djr6T2C8Gfs_67",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "在沙漠场景中，那个戴着王冠状的帽子的胖幽灵的位置相对于另一个幽灵是什么？",
+            "options": [
+                "A. 前面。",
+                "B. 后面。",
+                "C. 左边。",
+                "D. 右边。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_68": {
+            "id": "djr6T2C8Gfs_68",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "视频中的场景环境是怎样的？",
+            "options": [
+                "A. 一个卡通的沙漠景观",
+                "B. 一片密林、倾盆大雨和被闪电充满的黑夜天空。",
+                "C. 一片郁郁葱葱的绿色草地。",
+                "D. 荒芜而凄凉，被白雪覆盖，晴朗的蓝天无任何植被。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_69": {
+            "id": "djr6T2C8Gfs_69",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "这些类似幽灵的身影正在执行什么动作？",
+            "options": [
+                "A. 都骑着幽灵般的马状生物。",
+                "B. 坐在长椅上。",
+                "C. 在天空中飞行。",
+                "D. 都静止站立。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_70": {
+            "id": "djr6T2C8Gfs_70",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "右边幽灵骑的淡蓝色马有什么显著特征？",
+            "options": [
+                "A. 有着简单、幽灵般的轮廓。",
+                "B. 有一个鲜艳华丽的鞍子。",
+                "C. 有燃烧的鬃毛和尾巴。",
+                "D. 右边幽灵骑的淡蓝色马装饰有复杂的图案。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_71": {
+            "id": "djr6T2C8Gfs_71",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "左侧幽灵骑着的乳白色马有什么显著特点？",
+            "options": [
+                "A. 配有一个淡橙色的马鞍。",
+                "B. 配有一个蓝色的马鞍。",
+                "C. 有巨大的翅膀。",
+                "D. 有黑色的圆点眼睛。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_72": {
+            "id": "djr6T2C8Gfs_72",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "那些被幽灵般人物骑乘的马有什么共同特征？",
+            "options": [
+                "A. 两匹马都拥有幽灵般的抽象形态。",
+                "B. 两匹马都被描绘得非常细致。",
+                "C. 两匹马都有大而传神的眼睛和五彩的马鞍。",
+                "D. 两匹马都静静站立，毫无运动迹象。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_73": {
+            "id": "djr6T2C8Gfs_73",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "沙漠场景中有多少个类似幽灵的形象？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_74": {
+            "id": "djr6T2C8Gfs_74",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "在沙漠场景中有多少类似马的生物？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个",
+                "D. 四个"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_75": {
+            "id": "djr6T2C8Gfs_75",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "左边的鬼魂戴着帽子吗？",
+            "options": [
+                "A. 是的，左边的鬼魂戴着帽子，但是比较小。",
+                "B. 不，左边的鬼魂没有戴帽子。",
+                "C. 左边的鬼魂戴着一顶带红色带子的帽子。",
+                "D. 左边的鬼魂戴着一顶带黑色带子的帽子。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_76": {
+            "id": "djr6T2C8Gfs_76",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "左边的幽灵头上戴了什么？",
+            "options": [
+                "A. 左边的幽灵戴着一顶带红色饰带的牛仔帽。",
+                "B. 左边的幽灵头上有一个王冠状的小帽子。",
+                "C. 左边的幽灵头上什么也没有。",
+                "D. 左边的幽灵头上系着一条头巾。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_77": {
+            "id": "djr6T2C8Gfs_77",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "幽灵般的身影及其马状生物朝哪个方向移动？",
+            "options": [
+                "A. 从右向左移动。",
+                "B. 从左向右移动。",
+                "C. 从上向下移动。",
+                "D. 从下向上移动。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_78": {
+            "id": "djr6T2C8Gfs_78",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "在沙漠场景中使用了什么类型的相机视角？",
+            "options": [
+                "A. 使用了侧视图。",
+                "B. 使用了俯视图。",
+                "C. 使用了第一人称视角。",
+                "D. 使用了鸟瞰视角。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_79": {
+            "id": "djr6T2C8Gfs_79",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "鬼影相对于狼何时出现？",
+            "options": [
+                "A. 鬼影在狼之前出现。",
+                "B. 鬼影在狼之后出现。",
+                "C. 鬼影与狼同时出现。",
+                "D. 场景中没有出现鬼影。"
+            ],
+            "answer": "D"
+        },
+        "djr6T2C8Gfs_80": {
+            "id": "djr6T2C8Gfs_80",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "当前场景相对上个场景有什么变化？",
+            "options": [
+                "A. 狼出现并占据新的画面。",
+                "B. 鬼影带着增援返回。",
+                "C. 沙尘暴吞没了场景，遮盖了所有人物。",
+                "D. 场景转换到一个有宁静水面的和平绿洲。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_81": {
+            "id": "djr6T2C8Gfs_81",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "场景发生在哪里？",
+            "options": [
+                "A. 沙漠景观中。",
+                "B. 茂密的森林中。",
+                "C. 繁忙的城市景观。",
+                "D. 白雪皑皑的山顶。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_82": {
+            "id": "djr6T2C8Gfs_82",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "拟人化的狼执行了什么动作？",
+            "options": [
+                "A. 在场景中用四肢奔跑。",
+                "B. 在沙漠地面挖洞。",
+                "C. 躲在岩石结构后面。",
+                "D. 骑在幽灵般的马形伙伴上。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_83": {
+            "id": "djr6T2C8Gfs_83",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "狼的衬衫是什么颜色的？",
+            "options": [
+                "A. 海军蓝的。",
+                "B. 红棕色的。",
+                "C. 亮黄色的。",
+                "D. 橄榄绿色的。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_84": {
+            "id": "djr6T2C8Gfs_84",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "狼的衬衫上是什么标志？",
+            "options": [
+                "A. 新月标志",
+                "B. 西方星标志",
+                "C. 仙人掌标志",
+                "D. 锯齿状山脉标志"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_85": {
+            "id": "djr6T2C8Gfs_85",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "狼穿什么类型的鞋子？",
+            "options": [
+                "A. 狼穿凉鞋。",
+                "B. 狼穿黑色靴子。",
+                "C. 狼穿跑鞋。",
+                "D. 狼穿牛仔靴。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_86": {
+            "id": "djr6T2C8Gfs_86",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "狼戴什么类型的帽子？",
+            "options": [
+                "A. 一顶带羽毛的牛仔帽",
+                "B. 一顶宽边帽",
+                "C. 一顶柔软的遮阳帽",
+                "D. 一顶装饰有尖刺的头盔"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_87": {
+            "id": "djr6T2C8Gfs_87",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "幽灵般的身影是否在视频中始终留在场景中？",
+            "options": [
+                "A. 是的，幽灵般的身影始终留在场景中。",
+                "B. 不，幽灵般的身影在狼进入场景时消失了。",
+                "C. 是的，它们待在背景中，而狼占据了中心位置。",
+                "D. 不，幽灵般的身影随着场景的过渡消失在天空中。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_88": {
+            "id": "djr6T2C8Gfs_88",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "狼相对于幽灵形象处于什么位置？",
+            "options": [
+                "A. 狼的位置位于幽灵后方，正在追赶。",
+                "B. 狼直接位于幽灵形象的前方。",
+                "C. 狼位于幽灵形象的右侧。",
+                "D. 狼位于幽灵形象的下方。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_89": {
+            "id": "djr6T2C8Gfs_89",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "视频场景中描绘的环境是什么？",
+            "options": [
+                "A. 热带海滩。",
+                "B. 一个茂密的丛林中。",
+                "C. 沙漠景观中。",
+                "D. 雪山之中。"
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_90": {
+            "id": "djr6T2C8Gfs_90",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "那些马上的幽灵形象的面部表情是什么样的？",
+            "options": [
+                "A. 两个形象都有害怕的面部表情，还有汗珠，以绿色的色调为主。",
+                "B. 一个形象有快乐的表情，另一个有惊讶的表情。",
+                "C. 两个形象都有愤怒的表情，带有红色的色调。",
+                "D. 一个形象看起来悲伤，而另一个则显得高兴。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_91": {
+            "id": "djr6T2C8Gfs_91",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "场景中的狼有哪些显眼的身体特征？",
+            "options": [
+                "A. 狼有大眼睛、长而卡通的鼻子、锋利的牙齿。",
+                "B. 狼的眼睛很小，鼻子很短，并且缺少牙齿。",
+                "C. 狼是蓝色的，耳朵是圆的，还有一条长尾巴。",
+                "D. 狼戴着红围巾和眼镜。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_92": {
+            "id": "djr6T2C8Gfs_92",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "狼在场景中的姿势是什么？",
+            "options": [
+                "A. 狼低伏在地面上，准备扑击。",
+                "B. 狼趴在地上，看起来放松而平静。",
+                "C. 四足接地，作奔跑状。",
+                "D. 狼静静地坐着，尾巴围绕在身体周围。"
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_93": {
+            "id": "djr6T2C8Gfs_93",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "狼是否被描绘成静止的姿势？",
+            "options": [
+                "A. 是的，狼被描绘成静止的姿势，静静地站着。",
+                "B. 不是，狼被描绘成动态的姿势，用后腿站立，前腿抬起。",
+                "C. 是的，狼平静地坐在地上，没有任何动作。",
+                "D. 不是，狼平躺在地上，完全静止不动。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_94": {
+            "id": "djr6T2C8Gfs_94",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "狼似乎在进行什么微妙的动作？",
+            "options": [
+                "A. 狼似乎边跑边张大嘴巴。",
+                "B. 狼似乎在咬牙切齿地追逐幽灵般的身影。",
+                "C. 狼似乎在害怕地逃跑，并回头望着。",
+                "D. 狼似乎正在悄悄地嚎叫，向远处的狼群发出信号。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_95": {
+            "id": "djr6T2C8Gfs_95",
+            "scene": 10,
+            "dimension": "Object Direction",
+            "question": "卡通狼在画面中向哪个方向移动？",
+            "options": [
+                "A. 向左移动。",
+                "B. 向右移动。",
+                "C. 保持不动。",
+                "D. 向上移动。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_96": {
+            "id": "djr6T2C8Gfs_96",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "动画追逐场景的背景是什么？",
+            "options": [
+                "A. 辽阔的沙漠，有连绵的山脊。",
+                "B. 一片密集、黑暗的森林中。",
+                "C. 繁忙的城市景观中。",
+                "D. 积雪的山峰上。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_97": {
+            "id": "djr6T2C8Gfs_97",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "动画追逐场景的色彩搭配是什么?",
+            "options": [
+                "A. 环境特征是红褐色和绿色调。",
+                "B. 场景包含冷蓝色和银色调。",
+                "C. 背景有鲜艳的紫色和金色。",
+                "D. 调色板包括深黑色和霓虹绿色的色调。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_98": {
+            "id": "djr6T2C8Gfs_98",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "在追逐展开时，幽灵般的骑马身影，在做什么？",
+            "options": [
+                "A. 静止不动，观察着追逐。",
+                "B. 正在右侧进一步退入中远景背景，同时保持着奔跑的动作穿越沙漠。",
+                "C. 从多个方向向狼聚拢。",
+                "D. 已经完全从场景中消失。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_99": {
+            "id": "djr6T2C8Gfs_99",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "在追逐场景中，这株荆棘灌木的位置发生了什么变化？",
+            "options": [
+                "A. 整个场景中，荆棘灌木始终不动。",
+                "B. 荆棘灌木最初非常明显，然后稍微向远处移动。",
+                "C. 荆棘灌木在追逐过程中途完全消失。",
+                "D. 随着追逐的进展，荆棘灌木逐渐靠近狼。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_100": {
+            "id": "djr6T2C8Gfs_100",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "在上框中引入了多少个巨大的幽灵面孔？",
+            "options": [
+                "A. 一个",
+                "B. 两个",
+                "C. 三个 ",
+                "D. 没有巨大的幽灵面孔"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_101": {
+            "id": "djr6T2C8Gfs_101",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "狼在追逐场景中会改变它的奔跑姿势吗？",
+            "options": [
+                "A. 是的，狼经常改变它的奔跑姿势。",
+                "B. 是的，狼会短暂停顿并调整它的姿势。",
+                "C. 不，狼在追逐场景中不会改变它的奔跑姿势。",
+                "D. 不，狼改变了追逐目标但没有改变姿势。"
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_102": {
+            "id": "djr6T2C8Gfs_102",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "追逐情节中最后，幽灵们会发生什么？",
+            "options": [
+                "A. 完全消失了在了地平线。",
+                "B. 变成了狼。",
+                "C. 变得更加清晰且更为显眼。",
+                "D. 停下来并与狼对峙。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_103": {
+            "id": "djr6T2C8Gfs_103",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "相机最后如何强调追逐场景？",
+            "options": [
+                "A. 相机以极低高度的视角拍摄。",
+                "B. 相机固定在幽灵般的面孔上。",
+                "C. 相机放大幽灵骑马的身影。",
+                "D. 相机快速来回移动。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_104": {
+            "id": "djr6T2C8Gfs_104",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "视频中沙漠与洞穴般环境之间的空间关系是什么？",
+            "options": [
+                "A. 沙漠和洞穴般的环境合并成一个连续的开放区域，没有明显的分隔。",
+                "B. 沙漠被描绘成一个广阔的开放景观，过渡到一个被崎岖洞口框住的封闭洞穴般环境，与阳光明媚的沙漠背景形成对比。",
+                "C. 洞穴般的环境远离沙漠，两者之间没有任何视觉连接或过渡。",
+                "D. 沙漠是一个次要元素，主要作为洞穴般环境的背景，而洞穴般环境主导了场景。"
+            ],
+            "answer": "D"
+        },
+        "djr6T2C8Gfs_105": {
+            "id": "djr6T2C8Gfs_105",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "视频中洞穴般环境的主要特点是什么？",
+            "options": [
+                "A. 昏暗且阴影重重，色调柔和。",
+                "B. 以橙色和棕色的自然色调描绘，四周由粗糙的洞口框住。",
+                "C. 由冰冻质感组成，画面中以蓝色和白色为主色调。",
+                "D. 被发光的绿色水晶照亮。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_106": {
+            "id": "djr6T2C8Gfs_106",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "蓝色狼搭配牛仔形象的行为特点是什么？",
+            "options": [
+                "A. 蓝色狼悄悄地躲在岩石后面。",
+                "B. 拥有牛仔形象的蓝色狼自信地大步流星前行。",
+                "C. 蓝色狼唱着一首动听的曲调。",
+                "D. 蓝色狼在吃美食。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_107": {
+            "id": "djr6T2C8Gfs_107",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "有哪些特征能描述狼？",
+            "options": [
+                "A. 佩戴三角形徽章。",
+                "B. 是静态的，类似于一块岩石形成的结构。",
+                "C. 穿着牛仔服装。",
+                "D. 体型十分巨大。"
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_108": {
+            "id": "djr6T2C8Gfs_108",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "中间的岩石结构像什么？",
+            "options": [
+                "A. 像带有牛仔帽轮廓的人形，一个宽大圆润，另一个较为纤细。",
+                "B. 像高耸的仙人掌，长长的手臂和鲜艳的绿色色调。",
+                "C. 像巨大的动物足迹，刻在沙漠地面的沙地上。",
+                "D. 像抽象的形状，光滑的表面像宝石。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_109": {
+            "id": "djr6T2C8Gfs_109",
+            "scene": 11,
+            "dimension": "Count",
+            "question": "在洞穴场景中央有多少个不同的？",
+            "options": [
+                "A. 两个",
+                "B. 三个",
+                "C. 四个",
+                "D. 五个"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_110": {
+            "id": "djr6T2C8Gfs_110",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "初始的岩石结构在整个视频中保持静止吗？",
+            "options": [
+                "A. 是的，初始的岩石结构保持静止。",
+                "B. 不是，初始的岩石结构变得生动起来。",
+                "C. 是的，但是它们频繁改变位置。",
+                "D. 不，它们变成了不同的角色。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_111": {
+            "id": "djr6T2C8Gfs_111",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "在视频中是否有任何岩石地貌发生变化？",
+            "options": [
+                "A. 是的，其中一个岩石地貌变成了狼。",
+                "B. 不，所有的岩石都保持静止。",
+                "C. 是的，两个岩石地貌都变成了拟人化的狼。",
+                "D. 是的，这些岩石变成了幽灵牛仔。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_112": {
+            "id": "djr6T2C8Gfs_112",
+            "scene": 11,
+            "dimension": "Fine Grained Action",
+            "question": "狼在视频中执行了什么具体动作？",
+            "options": [
+                "A. 摆出自信的姿势，然后动态地向右侧移动。",
+                "B. 爬上洞穴的墙壁以观察周围环境。",
+                "C. 绕着较大的狼角色打转，然后消失了。",
+                "D. 在细长的岩石群附近完全静止不动。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_113": {
+            "id": "djr6T2C8Gfs_113",
+            "scene": 11,
+            "dimension": "Object Direction",
+            "question": "从狼的角度看，狼在洞穴中朝哪个方向移动？",
+            "options": [
+                "A. 向前移动。",
+                "B. 向后移动。",
+                "C. 横向移动。",
+                "D. 保持静止。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_114": {
+            "id": "djr6T2C8Gfs_114",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "视频中较大的岩石结构的特征是如何改变的？",
+            "options": [
+                "A. 变成了一只巨大的狼。",
+                "B. 较一个动画风格的蓝狼。",
+                "C. 在整个视频中保持静止。",
+                "D. 被较细的岩石结构取代。"
+            ],
+            "answer": "C"
+        },
+        "djr6T2C8Gfs_115": {
+            "id": "djr6T2C8Gfs_115",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "狼在离开场景后是否回来到洞穴？",
+            "options": [
+                "A. 是，狼回来继续追逐幽灵。",
+                "B. 是，但是狼只在结尾弹出了半个身子。",
+                "C. 否，狼之后并不可见。",
+                "D. 否，狼出现在了沙漠背景中。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_116": {
+            "id": "djr6T2C8Gfs_116",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "当幽灵牛仔在沙漠路中骑行时，场景有什么变化？",
+            "options": [
+                "A. 镜头拉近，变为两个幽灵的特写。",
+                "B. 沙漠背景转换为浓密的森林景观。",
+                "C. 背景转换为夜间场景。",
+                "D. 场景展示了一块岩石悬崖的特写镜头。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_117": {
+            "id": "djr6T2C8Gfs_117",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在详细展示那些幽灵牛仔和他们的马匹之后，叙述是如何展开的？",
+            "options": [
+                "A. 场景过渡到西部小镇景观。",
+                "B. 场景过渡到洞穴里。",
+                "C. 场景回到空旷的沙漠。",
+                "D. 叙述转向一个宁静的草甸。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_118": {
+            "id": "djr6T2C8Gfs_118",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在叙述中，那些幽灵般的牛仔出现的顺序是什么？",
+            "options": [
+                "A. 幽灵牛仔首先出现在远处的路上骑着马。",
+                "B. 幽灵牛仔首先以近距离的影子出现。",
+                "C. 幽灵牛仔首次从洞穴的阴影中出现。",
+                "D. 幽灵牛仔首先出现在地平线上。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_119": {
+            "id": "djr6T2C8Gfs_119",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "叙述中治安官狼什么时候出现？",
+            "options": [
+                "A. 最初的沙漠场景，与岩石形成一起出现。",
+                "B. 在幽灵牛仔位于酒馆时，带着一张“通缉”海报。",
+                "C. 第一次进入洞穴般的环境时，引入了治安官猫。",
+                "D. 在郊狼变成威猛的狼之后出现。"
+            ],
+            "answer": "B"
+        },
+        "djr6T2C8Gfs_120": {
+            "id": "djr6T2C8Gfs_120",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在叙述中，摄影机视角是否在特写镜头和广角镜头之间交替变化？",
+            "options": [
+                "A. 在警长狼和幽灵牛仔的镜头中，以及像沙漠和小镇这样广阔的场景交替变化。",
+                "B. 摄影机主要聚焦于岩石构造和拟人化狼角色的近景拍摄。",
+                "C. 摄影机始终只使用广角镜头来捕捉整个沙漠景观和洞穴场景。",
+                "D. 摄影机在蓝狼的动作特写和纤细岩石构造的静态视图之间交替。"
+            ],
+            "answer": "A"
+        },
+        "djr6T2C8Gfs_121": {
+            "id": "djr6T2C8Gfs_121",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在警长狼出现之前发生了什么？",
+            "options": [
+                "A. 叙述集中在鬼魂般的人物和酒馆中的幽默活动。",
+                "B. 叙述描绘了一场穿越沙漠峡谷的追逐场景。",
+                "C. 叙述展示了一个宁静的村庄场景。",
+                "D. 叙述以对立牛仔角色之间的史诗般战斗为特色。"
+            ],
+            "answer": "A"
+        }
+    }
+}

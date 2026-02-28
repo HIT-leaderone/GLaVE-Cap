@@ -1,0 +1,2136 @@
+{
+    "scene_hint": {
+        "0": "A man strides towards a helicopter.",
+        "1": "A middle-aged man with white hair appears, with an industrial box beside him.",
+        "2": "The man with black hair boards the helicopter.",
+        "3": "The camera shifts back to the white-haired man, who seems hesitant to speak.",
+        "4": "The man with black hair sits in the helicopter, smiling as the door closes.",
+        "5": "The white-haired man stands silently, his hair slightly blown by the wind.",
+        "6": "The helicopter ascends into the sky.",
+        "7": "The camera focuses on the man with black hair inside the helicopter.",
+        "8": "The man with black hair looks to the side and grips his arm.",
+        "9": "His hand presses a button, and the man dons armor and flies out of the helicopter, followed by the appearance of a spaceship.",
+        "10": "Iron Man and Captain America stand in a confrontational pose in the background, with text displayed on the screen."
+    },
+    "qa": {
+        "a0AGwUACt7E_0": {
+            "id": "a0AGwUACt7E_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the man and the helicopter?",
+            "options": [
+                "A. The man is walking towards the helicopter located in the center of the video.",
+                "B. The man is standing next to the helicopter, inspecting its rotor blades.",
+                "C. The man is walking away from the helicopter, heading towards the edge of the hangar.",
+                "D. The man is sitting inside the helicopter, preparing to take off."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_1": {
+            "id": "a0AGwUACt7E_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the hangar with the helicopter?",
+            "options": [
+                "A. The hangar is a bright, rustic storage facility with wooden beams and vintage aircraft.",
+                "B. The hangar is dimly lit, with a modern industrial design style.",
+                "C. The hangar is a small, cluttered garage equipped with basic tools and equipment.",
+                "D. The hangar is an open outdoor area with little light and no visible architectural structures."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_2": {
+            "id": "a0AGwUACt7E_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "How is that man dressed?",
+            "options": [
+                "A. That man is wearing a black leather jacket and slim-fit pants.",
+                "B. That man is wearing a white lab coat and jeans.",
+                "C. That man is wearing a gray suit and tie.",
+                "D. That man is wearing a black hoodie and cargo pants."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_3": {
+            "id": "a0AGwUACt7E_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What does this man's demeanor indicate?",
+            "options": [
+                "A. His demeanor shows a casual yet purposeful attitude, moving towards the helicopter with steady steps and confident actions.",
+                "B. His demeanor shows a hurried and anxious attitude, lingering with quick steps and a tense gaze.",
+                "C. His demeanor shows a relaxed and carefree attitude, proceeding at a slow, leisurely pace.",
+                "D. His demeanor shows a hesitant and uncertain attitude, moving away from the helicopter with slow, unsure steps."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_4": {
+            "id": "a0AGwUACt7E_4",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What does the helicopter in the hangar look like?",
+            "options": [
+                "A. The helicopter has a streamlined shape, is black in color, and its polished surface reflects the hangar lights.",
+                "B. The helicopter has a rugged appearance, is painted in camouflage, and has a matte surface.",
+                "C. The helicopter is small in size, red in color, with noticeable scratches and wear.",
+                "D. The helicopter is bright silver, with a metallic worn appearance."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_5": {
+            "id": "a0AGwUACt7E_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What markings are on the helicopter in the hangar?",
+            "options": [
+                "A. 'N78298' and 'Stark' brand markings",
+                "B. 'N78208' and 'Wayne' brand markings",
+                "C. 'N78209' and 'Stark' brand markings",
+                "D. 'N78208' and 'LexCorp' brand markings"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_6": {
+            "id": "a0AGwUACt7E_6",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What features indicate the helicopter's association with Stark Industries?",
+            "options": [
+                "A. The 'Stark' branding on the helicopter indicates its connection to Stark Industries.",
+                "B. The red and black stripes on the helicopter signify its association with Stark Industries.",
+                "C. The unique rotor design of the helicopter indicates its connection to Stark Industries.",
+                "D. The name 'Aero-X' written on the side of the helicopter signifies its association with Stark Industries."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_7": {
+            "id": "a0AGwUACt7E_7",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What are the design features of the helicopter in the hangar?",
+            "options": [
+                "A. The helicopter has a modern design, a streamlined shape, and visible red rotor blades.",
+                "B. The helicopter has a retro design, a square shape, small rotor blades, and transparent windows.",
+                "C. The helicopter has a futuristic design, with wings instead of rotor blades, and a cockpit made of transparent glass.",
+                "D. The helicopter has a heavy appearance, narrow windows, and few light decorations."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_8": {
+            "id": "a0AGwUACt7E_8",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many people appear in the picture?",
+            "options": [
+                "A. One person",
+                "B. Two people",
+                "C. Three people",
+                "D. Four people"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_9": {
+            "id": "a0AGwUACt7E_9",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Is the text 'N78298' visible throughout the entire scene?",
+            "options": [
+                "A. Yes, the text 'N78298' is visible throughout the entire scene.",
+                "B. No, the text 'N78298' is not visible throughout the entire scene.",
+                "C. The text 'N78298' changes in the scene.",
+                "D. The text 'N78298' does not appear in the scene at all."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_10": {
+            "id": "a0AGwUACt7E_10",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What changes occurred in this person's movements as he approached the helicopter?",
+            "options": [
+                "A. As he approached the helicopter, no significant changes were observed in his movements.",
+                "B. As he approached the helicopter, he began to speed up.",
+                "C. He changed direction and walked to the left, relative to the helicopter.",
+                "D. He stopped and paused to observe the helicopter."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_11": {
+            "id": "a0AGwUACt7E_11",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "Which type of camera lens can highlight the man's forward movement?",
+            "options": [
+                "A. Overhead shot from above the man",
+                "B. Slightly low-angle shot",
+                "C. Close-up shot from the side",
+                "D. Wide-angle shot from a distance"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_12": {
+            "id": "a0AGwUACt7E_12",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "As the scene develops, what changes occur to the helicopter's brand logo?",
+            "options": [
+                "A. The helicopter's brand logo completely disappears.",
+                "B. The helicopter's brand logo remains almost unchanged.",
+                "C. The helicopter's brand logo changes to a different emblem unrelated to Stark Industries.",
+                "D. The helicopter's brand logo is replaced by the larger font registration number 'N78208'."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_13": {
+            "id": "a0AGwUACt7E_13",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "As the scene develops, what changes will occur to the helicopter's number?",
+            "options": [
+                "A. The number 'N78298' is partially obscured.",
+                "B. The number changes to 'N78309'.",
+                "C. The number is completely removed.",
+                "D. The number is illuminated to enhance visibility."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_14": {
+            "id": "a0AGwUACt7E_14",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What visual elements draw the audience's attention to the man and the helicopter?",
+            "options": [
+                "A. The illuminated pathway, embedded ground lights, and orange guardrails draw the audience's attention to the man and the helicopter.",
+                "B. The bright top lighting reflecting on the machinery draws the audience's attention to the man and the helicopter.",
+                "C. The markings and dark windows on the helicopter draw the audience's attention to the man and the helicopter.",
+                "D. Scattered machinery and equipment in the background draw the audience's attention to the man and the helicopter."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_15": {
+            "id": "a0AGwUACt7E_15",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "From the video, where is the large industrial box located in relation to the white-haired man?",
+            "options": [
+                "A. The large industrial box is on the man's right side.",
+                "B. The large industrial box is behind the man.",
+                "C. The large industrial box is on the man's left side.",
+                "D. The large industrial box is above the man."
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_16": {
+            "id": "a0AGwUACt7E_16",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of this scene?",
+            "options": [
+                "A. A high-tech hangar characterized by industrial elements, such as exposed pipes, cables, ladders, and metal surfaces.",
+                "B. A cozy lounge with comfortable seating, warm lighting, and wooden decor.",
+                "C. A natural outdoor environment with trees, grass, and a tranquil lake.",
+                "D. An underground cave with rocky walls and stalactites, dimly lit by torches."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_17": {
+            "id": "a0AGwUACt7E_17",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "How does the environment change in this scene compared to the previous one?",
+            "options": [
+                "A. The focus of the environment shifts from the helicopter to other parts of the hangar.",
+                "B. The environment remains centered on the helicopter, without shifting to other elements.",
+                "C. The scene transitions from an outdoor setting to a dimly lit futuristic laboratory.",
+                "D. The hangar becomes a bustling market with various people and stalls."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_18": {
+            "id": "a0AGwUACt7E_18",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the man wearing in this scene?",
+            "options": [
+                "A. Wearing a bright red suit.",
+                "B. Wearing a black jacket.",
+                "C. Wearing a white lab coat.",
+                "D. Wearing a blue jumpsuit."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_19": {
+            "id": "a0AGwUACt7E_19",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the industrial box visible in the scene?",
+            "options": [
+                "A. The industrial box is a black container with multiple latches and handles.",
+                "B. The industrial box is a small bright red box with a single latch.",
+                "C. The industrial box is a medium-sized blue container with no visible handles.",
+                "D. The industrial box is a large transparent box with wheels and a lock."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_20": {
+            "id": "a0AGwUACt7E_20",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What are the design features of the industrial box in the scene?",
+            "options": [
+                "A. The box is completely black with a surface wrapped in black straps and has metal clasps.",
+                "B. The box is a simple wooden box without markings or labels, used for general storage.",
+                "C. The box is a transparent container, allowing its contents to be seen, with no security features.",
+                "D. The box is a decorative item with ornate carvings and bright colors, used for aesthetic purposes."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_21": {
+            "id": "a0AGwUACt7E_21",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many people are directly visible at the beginning of the scene?",
+            "options": [
+                "A. One person.",
+                "B. Two people.",
+                "C. Three people.",
+                "D. No one."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_22": {
+            "id": "a0AGwUACt7E_22",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "At the end of the scene, how many people are directly visible?",
+            "options": [
+                "A. Two people are visible.",
+                "B. No one is visible.",
+                "C. Only one person is visible.",
+                "D. Three people are visible."
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_23": {
+            "id": "a0AGwUACt7E_23",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Can the helicopter be seen throughout this scene?",
+            "options": [
+                "A. Yes, the helicopter can be seen throughout the entire scene.",
+                "B. No, the helicopter has not been seen throughout this scene.",
+                "C. Yes, the helicopter remains stationary and visible throughout.",
+                "D. No, the helicopter was removed from view before the scene started."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_24": {
+            "id": "a0AGwUACt7E_24",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What action did this person take when transitioning to this scene?",
+            "options": [
+                "A. This person stepped forward and began speaking.",
+                "B. This character operated the helicopter and then left the scene.",
+                "C. This person interacted with the industrial box and checked its contents.",
+                "D. This character climbed the ladder to access the upper platform."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_25": {
+            "id": "a0AGwUACt7E_25",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "Is this large industrial box newly added to the scene?",
+            "options": [
+                "A. Yes, this large industrial box is newly added to the scene.",
+                "B. No, this industrial box has been present since the previous scene.",
+                "C. Yes, but it only briefly appears in the background.",
+                "D. No, this box was clearly visible near the helicopter before."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_26": {
+            "id": "a0AGwUACt7E_26",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Are large industrial boxes stationary?",
+            "options": [
+                "A. Yes, the boxes are stationary.",
+                "B. No, the boxes are moving.",
+                "C. Yes, but the boxes are being carried by someone.",
+                "D. No, the boxes were initially lifted by a mechanical crane."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_27": {
+            "id": "a0AGwUACt7E_27",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the person relative to the helicopter?",
+            "options": [
+                "A. The person is beside the helicopter.",
+                "B. The person is inside the helicopter.",
+                "C. The person is above the helicopter.",
+                "D. The person is far from the helicopter."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_28": {
+            "id": "a0AGwUACt7E_28",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the man doing on the side of the helicopter?",
+            "options": [
+                "A. The man is holding onto the top handle of the helicopter.",
+                "B. The man is repairing the helicopter's engine.",
+                "C. The man is painting the exterior of the helicopter.",
+                "D. The man is waving to someone outside the helicopter."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_29": {
+            "id": "a0AGwUACt7E_29",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is this man doing?",
+            "options": [
+                "A. The man is standing at the open side door of the helicopter.",
+                "B. The man is sitting inside the helicopter operating the controls.",
+                "C. The man is standing next to the helicopter, talking on the radio.",
+                "D. The man is inspecting the exterior of the helicopter with a flashlight."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_30": {
+            "id": "a0AGwUACt7E_30",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What does this man look like?",
+            "options": [
+                "A. He is wearing a black leather jacket, with one hand secured by a black sling.",
+                "B. He is wearing a bright yellow raincoat, holding an umbrella to prevent himself from getting wet in the rain.",
+                "C. He is wearing a black suit with a red tie, standing formally next to a helicopter.",
+                "D. He is dressed casually, with jeans and a T-shirt, looking relaxed and carefree."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_31": {
+            "id": "a0AGwUACt7E_31",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What does the helicopter look like?",
+            "options": [
+                "A. The helicopter has a bright white appearance with a 'DUSTRIES' logo.",
+                "B. The helicopter is black with white stripes and has a 'DUSTRIES' logo.",
+                "C. The helicopter has a matte black appearance with no visible logo.",
+                "D. The helicopter has a metallic silver appearance with a blurry logo."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_32": {
+            "id": "a0AGwUACt7E_32",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What indicates that the helicopter has experienced recent rainfall?",
+            "options": [
+                "A. There are residual water droplets on the helicopter, indicating recent rain.",
+                "B. The helicopter is covered with snow, indicating recent snowfall.",
+                "C. The helicopter's windows are frosted, suggesting an icy environment.",
+                "D. The exterior of the helicopter is covered in dust, indicating a long period without rain."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_33": {
+            "id": "a0AGwUACt7E_33",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What details are visible on the helicopter's side door?",
+            "options": [
+                "A. The helicopter's side door is open.",
+                "B. The helicopter's side door is closed.",
+                "C. The helicopter's side door is covered in mud.",
+                "D. The helicopter's side door is not illuminated."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_34": {
+            "id": "a0AGwUACt7E_34",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What can be seen inside the helicopter?",
+            "options": [
+                "A. Inside the helicopter, you can see part of the off-white internal structure.",
+                "B. Inside the helicopter, there is a neat arrangement of metal boxes.",
+                "C. Inside the helicopter, there is a fully equipped control panel with glowing buttons.",
+                "D. Inside the helicopter, there are rows of passenger seats."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_35": {
+            "id": "a0AGwUACt7E_35",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What is the shape of the helicopter window?",
+            "options": [
+                "A. The helicopter window is an irregular rectangle.",
+                "B. The helicopter window is circular.",
+                "C. The helicopter window is triangular.",
+                "D. The helicopter window is square."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_36": {
+            "id": "a0AGwUACt7E_36",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many people can be seen in this scene?",
+            "options": [
+                "A. One person",
+                "B. Two people",
+                "C. Three people",
+                "D. No one"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_37": {
+            "id": "a0AGwUACt7E_37",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Is the helicopter door open?",
+            "options": [
+                "A. Yes, the door is open.",
+                "B. No, the door is closed.",
+                "C. The door is half-open.",
+                "D. The door's status is unclear."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_38": {
+            "id": "a0AGwUACt7E_38",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Is the interior of the helicopter visible?",
+            "options": [
+                "A. Yes, the interior of the helicopter is clearly visible through the open side door.",
+                "B. Yes, the interior of the helicopter is faintly visible through the open side door.",
+                "C. No, the interior of the helicopter is completely invisible through the open side door.",
+                "D. No, the side door of the helicopter is not open, the interior is not visible."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_39": {
+            "id": "a0AGwUACt7E_39",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What does the stable camera angle in this scene emphasize?",
+            "options": [
+                "A. It emphasizes the texture, atmosphere, and subtle interactions between the man and the helicopter.",
+                "B. It emphasizes the intense movements of the man entering the helicopter.",
+                "C. It emphasizes the speed and urgency of the helicopter's takeoff.",
+                "D. It emphasizes the bright and rich lighting in the scene."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_40": {
+            "id": "a0AGwUACt7E_40",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What changes have occurred to the material due to interaction or environment?",
+            "options": [
+                "A. The dim lighting highlighted the texture and wrinkles of the man's jacket, the crossbody strap on his back, and the water droplets on the helicopter.",
+                "B. The bright sunlight enhanced the smooth surface of the helicopter and the man's shiny shoes.",
+                "C. The strong wind made the man's jacket sway, revealing a hidden badge on his back.",
+                "D. The intense heat wave made the metal surface of the helicopter appear warped and distorted."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_41": {
+            "id": "a0AGwUACt7E_41",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "In this scene, has the lighting changed?",
+            "options": [
+                "A. No, no significant change was observed.",
+                "B. No, the lighting has remained bright.",
+                "C. No, the lighting has remained dim.",
+                "D. Yes, the lighting changed from bright to dark."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_42": {
+            "id": "a0AGwUACt7E_42",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Is this man's arm secured by a sling?",
+            "options": [
+                "A. Right hand.",
+                "B. Left hand.",
+                "C. Both arms are injured.",
+                "D. No arm appears to be secured."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_43": {
+            "id": "a0AGwUACt7E_43",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "Is there any movement of the man's hands in this scene?",
+            "options": [
+                "A. No, the man's arms are hanging down without any movement.",
+                "B. Yes, the man raises one hand to hold the handrail.",
+                "C. Yes, the man crosses his hands and places them on his chest.",
+                "D. Yes, the man is waving at the camera."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_44": {
+            "id": "a0AGwUACt7E_44",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "When the camera shifts to this man, what action does he take?",
+            "options": [
+                "A. He tilts his head slightly, as if hesitating to speak.",
+                "B. He raises his arm and waves slightly.",
+                "C. He slightly turns his body, facing away from the camera.",
+                "D. He is looking down at the ground."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_45": {
+            "id": "a0AGwUACt7E_45",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the environment depicted in the indoor scene?",
+            "options": [
+                "A. A cozy living room environment.",
+                "B. A high-tech, industrial design environment.",
+                "C. A chic café environment.",
+                "D. A country-style cabin environment."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_46": {
+            "id": "a0AGwUACt7E_46",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What does this man's appearance convey in an indoor setting?",
+            "options": [
+                "A. The man is dressed casually, effortlessly blending into the surroundings.",
+                "B. The man is wearing a black turtleneck, exuding a formal and authoritative aura.",
+                "C. The man is wearing a rugged outdoor jacket, reflecting a laid-back attitude.",
+                "D. The man is wearing formal attire, symbolizing a traditional and respectful environment."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_47": {
+            "id": "a0AGwUACt7E_47",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What are the distinct color tones emphasized in the indoor scene?",
+            "options": [
+                "A. Diffuse warm light and bright green light.",
+                "B. Diffuse cool light and faint red light.",
+                "C. Direct dark light and vivid blue light.",
+                "D. Bright natural light and striking yellow light."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_48": {
+            "id": "a0AGwUACt7E_48",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Does this scene include other outdoor elements, such as a helicopter?",
+            "options": [
+                "A. Yes, the indoor scene includes a helicopter and other outdoor elements.",
+                "B. No, the indoor scene does not include any outdoor elements, such as a helicopter.",
+                "C. Yes, the helicopter is visible in the background of the indoor scene.",
+                "D. No, the indoor scene only includes elements from an open outdoor environment."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_49": {
+            "id": "a0AGwUACt7E_49",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "Can this scene observe a wet ground?",
+            "options": [
+                "A. Yes, a wet ground can be observed.",
+                "B. No, the ground does not appear in the scene.",
+                "C. Yes, a mixed ground of wet and dry areas is observed.",
+                "D. It is unclear whether the indoor scene includes a wet ground."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_50": {
+            "id": "a0AGwUACt7E_50",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "How does the man's position in the foreground of the indoor scene relate to the narrative focus?",
+            "options": [
+                "A. The man's position in the foreground, with the background blurred, reflects a shift in narrative focus.",
+                "B. The man's position in the foreground indicates he is observing the helicopter from a distance, suggesting a reflective phase.",
+                "C. The man's inconspicuous position in the scene indicates he is a minor character in this part of the narrative.",
+                "D. The man's position in the foreground highlights the plot's return to earlier outdoor scenes, maintaining focus on past events."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_51": {
+            "id": "a0AGwUACt7E_51",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the faint red light located on this man?",
+            "options": [
+                "A. The faint red light is located on the left side of this man.",
+                "B. The faint red light is located on the right side of this man.",
+                "C. The faint red light is located in front of this man.",
+                "D. The faint red light is located behind this man."
+            ],
+            "answer": "D"
+        },
+        "a0AGwUACt7E_52": {
+            "id": "a0AGwUACt7E_52",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What camera angle is used in this scene?",
+            "options": [
+                "A. The camera is kept at eye level.",
+                "B. The camera is shot from a high angle.",
+                "C. The camera is shot from a low angle.",
+                "D. The camera is shot from a bird's-eye view."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_53": {
+            "id": "a0AGwUACt7E_53",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "How does the camera angle play a role in the presentation of indoor scenes?",
+            "options": [
+                "A. It keeps the man in focus while integrating environmental details, grounding the audience in the scene and emphasizing the man's role.",
+                "B. It primarily highlights the machinery, downplaying the importance of the man in the scene.",
+                "C. It uses low-angle shots to emphasize towering machines and industrial design rather than the man.",
+                "D. It remains static, offering a distant view of the overall industrial environment with little focus on the man."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_54": {
+            "id": "a0AGwUACt7E_54",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "In this scene, did the man's clothing change?",
+            "options": [
+                "A. The man's clothing did not change.",
+                "B. The man's clothing changed into a brightly colored casual outfit.",
+                "C. The man's clothing changed into a rugged outdoor jacket.",
+                "D. The man's clothing changed into a formal suit with a tie."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_55": {
+            "id": "a0AGwUACt7E_55",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What provides visual contrast to the soft tones of this scene?",
+            "options": [
+                "A. The faint red light in the background",
+                "B. A bright yellow spotlight in the background",
+                "C. The glowing green panel near the machinery",
+                "D. The soft purple glow from the overhead light"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_56": {
+            "id": "a0AGwUACt7E_56",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "From the video, where is the 'EXIT' label located on the helicopter?",
+            "options": [
+                "A. The 'EXIT' label is located at the lower left corner inside the helicopter.",
+                "B. The 'EXIT' label is located at the lower right corner inside the helicopter.",
+                "C. The 'EXIT' label is located outside the helicopter near the tail.",
+                "D. The 'EXIT' label is located on the pilot's control panel."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_57": {
+            "id": "a0AGwUACt7E_57",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What environment is depicted in the background of this scene?",
+            "options": [
+                "A. The background shows an open helicopter with an off-white tone interior, along with other text displays.",
+                "B. The background shows a sunny outdoor park with a clear sky and lush greenery, indicating a daytime setting.",
+                "C. The background shows an indoor office with bright fluorescent lights and modern furniture.",
+                "D. The background shows a rural landscape with open fields, wooden fences, and a distant farmhouse under a clear blue sky."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_58": {
+            "id": "a0AGwUACt7E_58",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "In the medium shot, what is the person in the helicopter doing?",
+            "options": [
+                "A. The person is leaning forward, preparing to get off the helicopter.",
+                "B. The person is sitting down in the helicopter seat.",
+                "C. The person is adjusting the helicopter's controls, preparing for takeoff.",
+                "D. The person is standing by the open door, looking out at the cityscape."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_59": {
+            "id": "a0AGwUACt7E_59",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the helicopter's interior canopy?",
+            "options": [
+                "A. The interior canopy features an off-white decoration with visible 'EXIT' labels.",
+                "B. The interior canopy is bright with red decorations and no visible labels.",
+                "C. The interior canopy has a dark decoration with visible 'CAUTION' signs.",
+                "D. The interior canopy is decorated with black leather and has a glowing control panel."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_60": {
+            "id": "a0AGwUACt7E_60",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "In the described scene, what is the state of the helicopter's door?",
+            "options": [
+                "A. Yes, the helicopter's side door is open throughout the described scene.",
+                "B. No, the helicopter's side door is completely closed throughout the entire scene.",
+                "C. The door is partially open, but it is closed in the final frame.",
+                "D. The door alternates between open and closed in the scene."
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_61": {
+            "id": "a0AGwUACt7E_61",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "How does the man in the helicopter adjust his position?",
+            "options": [
+                "A. The man keeps a forward-leaning posture while sitting in his position.",
+                "B. The man takes off his jacket to become more comfortable.",
+                "C. The man slides to the other side of the cabin to balance the weight.",
+                "D. The man reaches out to close the helicopter door."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_62": {
+            "id": "a0AGwUACt7E_62",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What was the man's posture as the helicopter door was about to close?",
+            "options": [
+                "A. The man maintained a forward-leaning, stable posture.",
+                "B. The man reclined backward in an inclined position.",
+                "C. The man crouched near the open door.",
+                "D. The man leaned further toward the cockpit."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_63": {
+            "id": "a0AGwUACt7E_63",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What was the posture of the man just before the helicopter's side door closed?",
+            "options": [
+                "A. The man leaned back against the seat.",
+                "B. The man got up from the seat.",
+                "C. The man maintained his original leaning posture.",
+                "D. The man extended outside the helicopter to observe."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_64": {
+            "id": "a0AGwUACt7E_64",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "When the helicopter's side door is closed, is the text on the outside of the helicopter visible?",
+            "options": [
+                "A. Yes, the text is completely visible on the outside of the helicopter.",
+                "B. Yes, the text is partially visible on the outside of the helicopter.",
+                "C. No, the text is completely invisible on the outside of the helicopter.",
+                "D. No, there is no text or pattern on the outside of the helicopter."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_65": {
+            "id": "a0AGwUACt7E_65",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "Does the camera maintain consistent focus throughout the entire scene?",
+            "options": [
+                "A. Yes, the camera consistently keeps stable focus on the helicopter and its cabin.",
+                "B. No, the camera frequently shifts focus to the city background.",
+                "C. Yes, but the focus mainly stays on the helicopter's wings.",
+                "D. No, the focus mainly stays on that man, ignoring the helicopter."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_66": {
+            "id": "a0AGwUACt7E_66",
+            "scene": 4,
+            "dimension": "Camera Direction",
+            "question": "Will the camera change in a scene?",
+            "options": [
+                "A. Yes, the camera will sometimes slightly zoom in to emphasize the presence and actions of the person.",
+                "B. No, the camera maintains a constant distance throughout the scene, without change.",
+                "C. Yes, the camera will dramatically zoom in to focus on the exterior of the helicopter.",
+                "D. No, the camera will only pan without zooming."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_67": {
+            "id": "a0AGwUACt7E_67",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used to film the helicopter cabin and crew in this scene?",
+            "options": [
+                "A. A close-up shot was used.",
+                "B. A medium shot was used.",
+                "C. A wide-angle shot was used.",
+                "D. A bird's-eye view shot was used."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_68": {
+            "id": "a0AGwUACt7E_68",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "Is the helicopter moving in the video of this scene?",
+            "options": [
+                "A. The helicopter remains stationary throughout the described scene.",
+                "B. The helicopter is seen taking off in the described scene.",
+                "C. The helicopter flies over the city in the described scene.",
+                "D. The helicopter moves slightly in the described scene, but does not take off."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_69": {
+            "id": "a0AGwUACt7E_69",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "What significant changes in posture does the man exhibit in this scene?",
+            "options": [
+                "A. The man initially leans forward and finally leans back against the seat.",
+                "B. The man initially leans back and then leans forward by the open door.",
+                "C. The man initially sits upright and then stands by the open door.",
+                "D. The man initially leans sideways and then turns to lie down inside the cabin."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_70": {
+            "id": "a0AGwUACt7E_70",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "What significant changes occurred in the man's position at the end of this scene?",
+            "options": [
+                "A. The man walked outside the helicopter.",
+                "B. The man stood up and walked out of the helicopter.",
+                "C. The man later moved deeper into the cabin.",
+                "D. The man leaned out of the open door to look outside."
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_71": {
+            "id": "a0AGwUACt7E_71",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "From the video, in which direction does the helicopter's side door close?",
+            "options": [
+                "A. The side door closes from left to right.",
+                "B. The side door closes from right to left.",
+                "C. The side door closes from top to bottom.",
+                "D. The side door closes from bottom to top."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_72": {
+            "id": "a0AGwUACt7E_72",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "From the video, what is the posture and position of the white-haired man standing?",
+            "options": [
+                "A. The man is standing slightly sideways on the right side of the screen.",
+                "B. The man is standing straight in the center of the screen.",
+                "C. The man is standing sideways on the left side of the screen.",
+                "D. The man is standing with his back to the camera."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_73": {
+            "id": "a0AGwUACt7E_73",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "Are there any new boxes appearing in this scene?",
+            "options": [
+                "A. Yes, multiple new boxes appear.",
+                "B. No, only one box appears in the video.",
+                "C. No, no boxes appear in the video.",
+                "D. The video visibility is low, cannot determine."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_74": {
+            "id": "a0AGwUACt7E_74",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is the facial expression of the man in this scene?",
+            "options": [
+                "A. Excited and joyful.",
+                "B. Frightened and worried.",
+                "C. Calm and stable.",
+                "D. Sad and upset."
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_75": {
+            "id": "a0AGwUACt7E_75",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What are the physical characteristics of this man?",
+            "options": [
+                "A. This is a middle-aged man with short black hair, a black beard, and black eyebrows.",
+                "B. This is a middle-aged man with short white hair, a black beard, and faintly visible eyebrows.",
+                "C. This is a middle-aged man with smooth long black hair, a black beard, and black eyebrows.",
+                "D. This is a middle-aged man with short white hair, a white beard, and white eyebrows."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_76": {
+            "id": "a0AGwUACt7E_76",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What effect did the helicopter takeoff have on this man?",
+            "options": [
+                "A. The wind from the helicopter's rotor blades blew the man to the ground.",
+                "B. The wind from the helicopter's rotor blades slightly lifted the man's hair.",
+                "C. The wind from the helicopter's rotor blades had no effect on the man at all.",
+                "D. The man had already left and walked away when the helicopter took off."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_77": {
+            "id": "a0AGwUACt7E_77",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the helicopter positioned in relation to the circular industrial platform?",
+            "options": [
+                "A. The helicopter is above the circular industrial platform.",
+                "B. The helicopter is below the circular industrial platform.",
+                "C. The helicopter is beside the circular industrial platform.",
+                "D. The helicopter is inside the circular industrial platform."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_78": {
+            "id": "a0AGwUACt7E_78",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "How does a helicopter fly into the air?",
+            "options": [
+                "A. The helicopter flies into the air in a rotating manner.",
+                "B. The helicopter turns right to fly into the air.",
+                "C. The helicopter turns left to fly into the air.",
+                "D. The helicopter takes off directly without changing direction."
+            ],
+            "answer": "D"
+        },
+        "a0AGwUACt7E_79": {
+            "id": "a0AGwUACt7E_79",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What does the helicopter look like in this scene?",
+            "options": [
+                "A. The helicopter has a black shell with lines, its outline faintly visible, almost blending into the circular platform background.",
+                "B. The helicopter has a bright metallic shell, with a sleek design, forming a stark contrast with the clear and calm water.",
+                "C. The helicopter has a silver streamlined cylindrical shell, with bright lights illuminating its surface.",
+                "D. The helicopter's shell is rusted, with a box-like structure, surrounded by a calm shallow water area."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_80": {
+            "id": "a0AGwUACt7E_80",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What kind of atmosphere did the helicopter create when it flew out of the circular platform?",
+            "options": [
+                "A. The atmosphere is mysterious and tense, enhanced by subdued lighting.",
+                "B. The atmosphere is relaxed and adventurous, complemented by bright and colorful lighting.",
+                "C. The atmosphere is calm and serene, supplemented by soft and warm lighting.",
+                "D. The atmosphere is chaotic and playful, highlighted by bright and flashing lighting."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_81": {
+            "id": "a0AGwUACt7E_81",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many helicopters can be seen in this scene?",
+            "options": [
+                "A. One helicopter",
+                "B. Two helicopters",
+                "C. Three helicopters",
+                "D. Four helicopters"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_82": {
+            "id": "a0AGwUACt7E_82",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Did the black streamlined helicopter appear over the industrial park?",
+            "options": [
+                "A. Yes, the black streamlined helicopter appeared over the industrial park.",
+                "B. No, the black streamlined helicopter only appeared over the ocean.",
+                "C. No, the black streamlined helicopter never appeared in the footage.",
+                "D. Yes, but only in the hangar of the future."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_83": {
+            "id": "a0AGwUACt7E_83",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What happens to the helicopter's rotor when it stops during takeoff?",
+            "options": [
+                "A. The helicopter's rotor starts spinning, drawing attention to its dynamic movement and presence.",
+                "B. The helicopter's rotor remains stationary, emphasizing its streamlined design.",
+                "C. The helicopter's rotor retracts into the body, highlighting its advanced technology.",
+                "D. The helicopter's rotor is removed for maintenance, showcasing its modular structure."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_84": {
+            "id": "a0AGwUACt7E_84",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "From the video, which direction does the helicopter tilt when it flies into the sky?",
+            "options": [
+                "A. The helicopter tilts upwards to the right.",
+                "B. The helicopter tilts downwards.",
+                "C. The helicopter tilts upwards to the left.",
+                "D. The helicopter tilts downwards to the right."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_85": {
+            "id": "a0AGwUACt7E_85",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What was the weather like when the helicopter took off?",
+            "options": [
+                "A. The weather was clear, with high visibility.",
+                "B. The weather was cloudy, with high visibility.",
+                "C. The weather was overcast, raining, with low visibility.",
+                "D. It was dark, unable to observe the weather conditions."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_86": {
+            "id": "a0AGwUACt7E_86",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What happens after the helicopter focuses on the hangar?",
+            "options": [
+                "A. The helicopter remains stationary, with the rotor continuing to spin.",
+                "B. The helicopter transitions from a stationary state with spinning rotors to ascending.",
+                "C. The helicopter slowly descends back to the hangar floor.",
+                "D. The helicopter hovers in the air, with no change in altitude."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_87": {
+            "id": "a0AGwUACt7E_87",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "In a foggy and overcast environment, how does the appearance of the helicopter change?",
+            "options": [
+                "A. In a foggy and overcast environment, the helicopter's body appears larger and more detailed, with the details of the body covered by the hazy atmosphere.",
+                "B. In a foggy and overcast environment, the helicopter completely disappears, replaced by a clear ocean view.",
+                "C. In a foggy and overcast environment, the helicopter's body appears smaller, completely obscured by the thin fog, making it unrecognizable.",
+                "D. In a foggy and overcast environment, the helicopter is brightly illuminated, with no visible fog or atmospheric interference."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_88": {
+            "id": "a0AGwUACt7E_88",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "From the man's perspective, where is the glass window located?",
+            "options": [
+                "A. The glass window is to the man's left.",
+                "B. The glass window is directly in front of the man.",
+                "C. The glass window is to the man's right.",
+                "D. The glass window is above the man."
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_89": {
+            "id": "a0AGwUACt7E_89",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the scene?",
+            "options": [
+                "A. The scene is set in a brightly lit outdoor park, surrounded by vibrant greenery.",
+                "B. The scene is set in a dimly lit environment, with handles on the top of the windows.",
+                "C. The scene is set in a bustling market, full of bright colors and noise.",
+                "D. The scene is set in a lavishly decorated luxury hotel lobby."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_90": {
+            "id": "a0AGwUACt7E_90",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the overall tone of this scene?",
+            "options": [
+                "A. The tone is minimalist and cinematic, enhanced by soft ambient light and shadows.",
+                "B. The tone is lively and vibrant, with bright colors and fast-paced action.",
+                "C. The tone is chaotic and disordered, with visually cluttered elements and unstable lighting.",
+                "D. The tone is cheerful and lively, accompanied by light music and fun interactions."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_91": {
+            "id": "a0AGwUACt7E_91",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the person sitting wearing?",
+            "options": [
+                "A. The person sitting is wearing a shiny black leather jacket with a strap on the left arm to secure the arm.",
+                "B. The person sitting is wearing a blue denim jacket, with silver rings on their fingers and a gold necklace around their neck.",
+                "C. The person sitting is wearing a gray hoodie, with black gloves on their hands and a silver chain bracelet on their wrist.",
+                "D. The person sitting is wearing a green flight jacket, with leather wristbands on both arms and an electronic watch."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_92": {
+            "id": "a0AGwUACt7E_92",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "What can be seen on the right side of the background?",
+            "options": [
+                "A. On the right side, there is a no smoking sign with a white label and red icon, as well as a yellow sign.",
+                "B. On the right side, there is a large map with prominent routes, a small mirror on the wall, and a bright red button panel.",
+                "C. On the right side, there is a no smoking sign with a striking pattern, a window with raindrops, and a green emergency exit light.",
+                "D. On the right side, there is a hanging coat, a small shelf with documents, and a control panel with blue light."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_93": {
+            "id": "a0AGwUACt7E_93",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What noticeable accessory is the seated person wearing?",
+            "options": [
+                "A. A silver watch",
+                "B. A bright red scarf",
+                "C. A pair of sunglasses",
+                "D. A gold ring"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_94": {
+            "id": "a0AGwUACt7E_94",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "Is this scene set in an outdoor environment?",
+            "options": [
+                "A. Yes, this scene is set in an outdoor environment.",
+                "B. No, this scene is set in a beach environment.",
+                "C. No, this scene is set in an indoor environment.",
+                "D. Yes, this scene is set in a park."
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_95": {
+            "id": "a0AGwUACt7E_95",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "What subtle action did the person sitting down do with their left hand?",
+            "options": [
+                "A. The person sitting down had their left hand fixed by a sling, slightly raised.",
+                "B. The person sitting down adjusted their leather jacket, smoothing out wrinkles.",
+                "C. The person sitting down rhythmically tapped their fingers on their knee.",
+                "D. The person sitting down reached out to close the frosted window beside them."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_96": {
+            "id": "a0AGwUACt7E_96",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What kind of weather do the streaked water droplets on a frosted window indicate?",
+            "options": [
+                "A. This indicates that it is sunny outside.",
+                "B. This indicates that it is cloudy or raining outside.",
+                "C. This indicates that it is snowing outside.",
+                "D. This indicates that it is windy outside."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_97": {
+            "id": "a0AGwUACt7E_97",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "In this scene, which type of shot is used to portray the character and environment?",
+            "options": [
+                "A. Use a medium close-up shot to highlight the seated individual, their attire, subtle movements, and the surrounding environment.",
+                "B. Use a wide-angle shot to emphasize the entire interior of the vehicle, showcasing the scene.",
+                "C. Use an extreme close-up shot, focusing only on the individual's hands and bracelet.",
+                "D. Use a high-angle shot to present the individual sitting in the vehicle from an overhead perspective."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_98": {
+            "id": "a0AGwUACt7E_98",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What visual elements contribute to the somber and introspective atmosphere of the scene?",
+            "options": [
+                "A. The glossy black leather jacket, soft ambient lighting, shadows, frosted windows with water droplets, and icons influence the atmosphere.",
+                "B. The colorful graffiti on the walls, bright sunlight, clear sky outside the window, and indoor greenery influence the atmosphere.",
+                "C. Bright neon lights, fast movements, outdoor markets, and bustling crowds influence the atmosphere.",
+                "D. Reflective surfaces, loud background music, open environment, and lively chatter influence the atmosphere."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_99": {
+            "id": "a0AGwUACt7E_99",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "From the video, where is the no-smoking sign located?",
+            "options": [
+                "A. The no-smoking sign is above and behind the person.",
+                "B. The no-smoking sign is to the upper left of the person.",
+                "C. The no-smoking sign is to the upper right of the person.",
+                "D. The no-smoking sign is to the lower right of the person."
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_100": {
+            "id": "a0AGwUACt7E_100",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What does the interior of this helicopter look like?",
+            "options": [
+                "A. The interior is dark-colored, with vintage leather seats and exquisite structural elements.",
+                "B. The interior is light gray, featuring a modern design with sleek seats.",
+                "C. The interior is bright yellow, with metal seats and prominent structural handrails.",
+                "D. The interior is white, with minimalist décor and large, clear windows."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_101": {
+            "id": "a0AGwUACt7E_101",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What kind of atmosphere does the interior of the helicopter convey?",
+            "options": [
+                "A. The interior of the helicopter conveys a luxurious and sophisticated atmosphere.",
+                "B. The interior of the helicopter conveys a chaotic and cluttered atmosphere.",
+                "C. The interior of the helicopter conveys a rustic and vintage atmosphere.",
+                "D. The interior of the helicopter conveys a casual and relaxed atmosphere."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_102": {
+            "id": "a0AGwUACt7E_102",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "What action is this person performing in this scene?",
+            "options": [
+                "A. He is gently rotating his arm, seemingly adjusting or.",
+                "B. He is lightly tapping a metal object near his shoulder with his fingers.",
+                "C. He is writing something on the notebook on his knee.",
+                "D. He is holding a book and reading it intently."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_103": {
+            "id": "a0AGwUACt7E_103",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "Can you see if the weather is clear through the side window?",
+            "options": [
+                "A. Yes, the weather is clear.",
+                "B. No, the weather is cloudy and snowing.",
+                "C. No, the weather is cloudy and raining.",
+                "D. Yes, the weather is clear and cloudless."
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_104": {
+            "id": "a0AGwUACt7E_104",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "What is that person's hand doing?",
+            "options": [
+                "A. That person's hand is tightly gripping the handrail.",
+                "B. That person's right hand is holding the left hand.",
+                "C. That person's hand is holding a book.",
+                "D. That person's hand is completely still on the leg."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_105": {
+            "id": "a0AGwUACt7E_105",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "Which direction do the water droplets on the window appear to be moving?",
+            "options": [
+                "A. The water droplets appear to be moving upwards.",
+                "B. The water droplets appear to be moving sideways.",
+                "C. The water droplets appear to be moving downwards.",
+                "D. The water droplets appear to be stationary."
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_106": {
+            "id": "a0AGwUACt7E_106",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "What impact does a closer composition have on the scene?",
+            "options": [
+                "A. A closer composition emphasizes the no smoking sign and yellow stripes.",
+                "B. A closer composition emphasizes the rain marks on the frosted side window.",
+                "C. A closer composition emphasizes the light gray and modern design of the vehicle's interior.",
+                "D. A closer composition emphasizes the upper body and subtle movements of the individual."
+            ],
+            "answer": "D"
+        },
+        "a0AGwUACt7E_107": {
+            "id": "a0AGwUACt7E_107",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "What impact does a narrower angle have on the scene?",
+            "options": [
+                "A. A narrower angle enhances the sense of action and dynamism in the scene.",
+                "B. A narrower angle increases the visibility of the external environment.",
+                "C. A narrower angle enhances the introspective and contemplative atmosphere of the scene.",
+                "D. A narrower angle creates a sense of chaos and movement within the frame."
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_108": {
+            "id": "a0AGwUACt7E_108",
+            "scene": 8,
+            "dimension": "Speed",
+            "question": "In this scene, what is the speed of the left hand's movement?",
+            "options": [
+                "A. The left hand rotates slightly and slowly.",
+                "B. The left hand rotates quickly.",
+                "C. The rotation of the left hand is irregular and unpredictable.",
+                "D. There is no movement in the scene, the left hand is completely still."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_109": {
+            "id": "a0AGwUACt7E_109",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "How can the description of vehicle interiors become more detailed?",
+            "options": [
+                "A. The camera zooms out, and elements like the helicopter's streamlined seats and frosted windows clearly appear in the frame.",
+                "B. The description focuses on individual actions, while neglecting the details of the vehicle interior.",
+                "C. The description highlights the bright, vibrant colors and lively atmosphere inside the vehicle.",
+                "D. The description mainly discusses the external weather conditions, without mentioning the interior design."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_110": {
+            "id": "a0AGwUACt7E_110",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What visual elements help create a contemplative atmosphere?",
+            "options": [
+                "A. Bright lighting, clear side windows, vibrant reflections, and bright tones help create a contemplative atmosphere.",
+                "B. Soft lighting, frosted side windows with rain marks, gentle reflections, and calm tones help create a contemplative atmosphere.",
+                "C. Intense lighting, open windows with sunlight streaming through, striking reflections, and deep tones help create a contemplative atmosphere.",
+                "D. Dim lighting, transparent side windows, strong reflections, and vibrant colors help create a contemplative atmosphere."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_111": {
+            "id": "a0AGwUACt7E_111",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What can be seen through the window in this scene?",
+            "options": [
+                "A. Through the window, the outside is foggy, with raindrops hitting the window.",
+                "B. Through the window, the glowing lights of nearby spaceships can be seen.",
+                "C. Through the window, a bright, sunny landscape can be seen, with clear skies.",
+                "D. Through the window, a bustling cityscape with flashing neon lights can be seen."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_112": {
+            "id": "a0AGwUACt7E_112",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What kind of environment does this scene take place in?",
+            "options": [
+                "A. It takes place in a futuristic corridor filled with glowing lights.",
+                "B. It takes place inside a dimly lit and hazy helicopter.",
+                "C. It takes place inside an airplane flying through storm clouds.",
+                "D. It takes place on a distant planet with a starry sky."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_113": {
+            "id": "a0AGwUACt7E_113",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "In the wide-angle lens of the sky, what is the person wearing?",
+            "options": [
+                "A. A casual outfit made from simple fabric.",
+                "B. A suit of armor with glowing elements on the chest and red and gold decorations.",
+                "C. A traditional suit and tie with metallic embellishments.",
+                "D. A heavy trench coat with reflective patches."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_114": {
+            "id": "a0AGwUACt7E_114",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "What device was discovered when the button was pressed?",
+            "options": [
+                "A. A red object appeared",
+                "B. A green object appeared",
+                "C. A blue object appeared",
+                "D. A silver object appeared"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_115": {
+            "id": "a0AGwUACt7E_115",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What is the visually prominent light source once the armor is fully donned?",
+            "options": [
+                "A. Bright glowing circular lights on the chest and helmet",
+                "B. Pulsating red lights on the arms and legs",
+                "C. Flashing green lights on the back",
+                "D. Small white lights distributed across the entire outfit"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_116": {
+            "id": "a0AGwUACt7E_116",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "Is the light emitted from the armor bright?",
+            "options": [
+                "A. Yes, the light is very bright.",
+                "B. No, the light is very dim.",
+                "C. The light is unstable, alternating between bright and dim.",
+                "D. No mention of whether there is light inside."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_117": {
+            "id": "a0AGwUACt7E_117",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "What action does the robotic arm perform when the compartment door is opened?",
+            "options": [
+                "A. The robotic arm remains in a relaxed state and does not perform any action.",
+                "B. The robotic arm scratches the surface of the compartment door.",
+                "C. The robotic arm presses a button to automatically open the compartment door.",
+                "D. The robotic arm slides the compartment door to the side."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_118": {
+            "id": "a0AGwUACt7E_118",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "What is the shot used to depict the helicopter in flight in this scene?",
+            "options": [
+                "A. A tilted low-angle shot",
+                "B. A wide overhead shot",
+                "C. A close-up shot of the helicopter rotor",
+                "D. An overhead shot from above the helicopter"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_119": {
+            "id": "a0AGwUACt7E_119",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "How is the helicopter's flying action described in the video?",
+            "options": [
+                "A. The helicopter is flying in a foggy weather condition, gradually becoming indistinct.",
+                "B. The helicopter takes off from a helipad in a bright and sunny environment.",
+                "C. The helicopter is depicted as quietly hovering over a calm sea surface.",
+                "D. The helicopter is stationary on the ground without any notable actions."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_120": {
+            "id": "a0AGwUACt7E_120",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "How does the scene transition occur in this scenario?",
+            "options": [
+                "A. Transition from a dimly lit scene to an outdoor scene.",
+                "B. Transition from a sunny outdoor landscape to an indoor scene.",
+                "C. Transition from a brightly lit laboratory to an outdoor scene.",
+                "D. Transition from a dense forest scene to an indoor scene."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_121": {
+            "id": "a0AGwUACt7E_121",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "When flying in the sky, which visual element on Iron Man is the most prominent?",
+            "options": [
+                "A. The bright lights on the object's chest and helmet.",
+                "B. The underwater plants surrounding the object.",
+                "C. The rusty metallic texture of the object's costume.",
+                "D. The dark shadows cast by the object on the seabed."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_122": {
+            "id": "a0AGwUACt7E_122",
+            "scene": 9,
+            "dimension": "Object Direction",
+            "question": "Which direction did Iron Man initially move from the helicopter?",
+            "options": [
+                "A. Move down from the helicopter side door",
+                "B. Move to the right from the helicopter side door",
+                "C. Move down from the helicopter tail",
+                "D. Move to the left from the helicopter tail"
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_123": {
+            "id": "a0AGwUACt7E_123",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What is the initial scene of this scenario?",
+            "options": [
+                "A. A dimly lit room",
+                "B. A scorching desert landscape",
+                "C. A busy cityscape",
+                "D. A dense forest filled with wild animals"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_124": {
+            "id": "a0AGwUACt7E_124",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What will the environment change into after getting off the helicopter?",
+            "options": [
+                "A. A stormy sky with swirling clouds.",
+                "B. A bustling cityscape with neon lights flashing.",
+                "C. A dense forest with towering trees.",
+                "D. A tranquil beach with gentle waves."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_125": {
+            "id": "a0AGwUACt7E_125",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What is the final environment of the scene?",
+            "options": [
+                "A. Shrouded in mist",
+                "B. Underwater environment",
+                "C. Bathed in sunlight",
+                "D. Futuristic cityscape"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_126": {
+            "id": "a0AGwUACt7E_126",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "What does this armor look like?",
+            "options": [
+                "A. The armor has a smooth surface with glowing lights on the chest and helmet.",
+                "B. The armor has metallic skin and glowing blue eyes.",
+                "C. The armor has colorful clothing and is draped with a cape.",
+                "D. The armor is covered in scales and has long mane."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_127": {
+            "id": "a0AGwUACt7E_127",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "What activity is Iron Man performing?",
+            "options": [
+                "A. Iron Man is maneuvering flexibly through the environment.",
+                "B. Iron Man is passively floating in one place.",
+                "C. Iron Man is stationary, observing the surroundings.",
+                "D. Iron Man is engaged in combat with another entity."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_128": {
+            "id": "a0AGwUACt7E_128",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "Will the person appear in their original form throughout the entire scene?",
+            "options": [
+                "A. Yes",
+                "B. No, only for a moment",
+                "C. Only outside the plane",
+                "D. Only at the end"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_129": {
+            "id": "a0AGwUACt7E_129",
+            "scene": 9,
+            "dimension": "Camera Direction",
+            "question": "What happens to the camera's focus after Iron Man flies away?",
+            "options": [
+                "A. The focus shifts back to the continuous storm clouds and their atmospheric characteristics.",
+                "B. The focus shifts to a bright, fast-moving object in the sky.",
+                "C. The focus shifts to a new humanoid figure moving through the environment.",
+                "D. The focus remains on the silhouetted object, now clearer and glowing."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_130": {
+            "id": "a0AGwUACt7E_130",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the scene after the spaceship appeared?",
+            "options": [
+                "A. The scene became lively, with colorful fireworks lighting up the sky.",
+                "B. The scene remained shrouded in mist, with no changes.",
+                "C. There was a big explosion, destroying the spaceship and causing chaos in the sky.",
+                "D. The spaceship remained in the center, engaging in an intense battle with another spaceship."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_131": {
+            "id": "a0AGwUACt7E_131",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "Where is Iron Man's position in the scene?",
+            "options": [
+                "A. Iron Man is on the left.",
+                "B. Iron Man is on the right.",
+                "C. Iron Man is in the middle.",
+                "D. Iron Man is in the background."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_132": {
+            "id": "a0AGwUACt7E_132",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "Where is Captain America in the scene?",
+            "options": [
+                "A. Captain America is on the left.",
+                "B. Captain America is on the right.",
+                "C. Captain America is in the middle.",
+                "D. Captain America is above Iron Man."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_133": {
+            "id": "a0AGwUACt7E_133",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "What is the scene where Iron Man and Captain America confront each other?",
+            "options": [
+                "A. The confrontation takes place in a brightly lit cityscape, surrounded by towering skyscrapers.",
+                "B. The confrontation takes place in a dimly lit industrial environment, with faint light sources in the background.",
+                "C. The confrontation takes place in a dense forest at night, illuminated only by moonlight.",
+                "D. The confrontation takes place on a beach at sunset, with the sound of waves crashing in the background."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_134": {
+            "id": "a0AGwUACt7E_134",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "How does Captain America defend against Iron Man's attacks?",
+            "options": [
+                "A. Captain America uses his shield to defend against attacks.",
+                "B. Captain America dodges energy beams by swiftly sidestepping.",
+                "C. Captain America counterattacks the energy beams with his own energy weapon.",
+                "D. Captain America uses a force field to block the energy beams."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_135": {
+            "id": "a0AGwUACt7E_135",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "What are the colors of Iron Man's armor?",
+            "options": [
+                "A. Metallic red and gold",
+                "B. Metallic blue and silver",
+                "C. Black and silver",
+                "D. Green and gold"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_136": {
+            "id": "a0AGwUACt7E_136",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "What are the notable features of Iron Man's face?",
+            "options": [
+                "A. His face is primarily gold metal, with eyes emitting a bright light.",
+                "B. His face is primarily blue metal, with eyes emitting a bright light.",
+                "C. His face is primarily red metal, with eyes emitting a bright light.",
+                "D. His face is primarily dark, with no glowing parts on the face."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_137": {
+            "id": "a0AGwUACt7E_137",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "How many superheroes participated in the confrontation?",
+            "options": [
+                "A. One superhero",
+                "B. Two superheroes",
+                "C. Three superheroes",
+                "D. Four superheroes"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_138": {
+            "id": "a0AGwUACt7E_138",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "Which superheroes participated in this confrontation?",
+            "options": [
+                "A. Iron Man and Captain America",
+                "B. Spider-Man and Thor",
+                "C. Hulk and Black Widow",
+                "D. Doctor Strange and Black Panther"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_139": {
+            "id": "a0AGwUACt7E_139",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "Does this scene feature any text signs?",
+            "options": [
+                "A. Yes, the scene features the text sign 'SUBSCRIBE'.",
+                "B. No, the scene is entirely cinematic with no text signs appearing.",
+                "C. Yes, the scene features the text sign 'CAUTION'.",
+                "D. No, the scene focuses on combat and contains no text elements."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_140": {
+            "id": "a0AGwUACt7E_140",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "What effect would occur when Iron Man's energy beam collides with Captain America's shield?",
+            "options": [
+                "A. The collision produces scorching sparks.",
+                "B. The collision produces a dazzling flash.",
+                "C. The collision produces a huge explosion sound.",
+                "D. The collision releases a glowing mist that spreads across the battlefield."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_141": {
+            "id": "a0AGwUACt7E_141",
+            "scene": 10,
+            "dimension": "Object Direction",
+            "question": "Which direction is Iron Man's energy beam pointing?",
+            "options": [
+                "A. Iron Man's energy beam is pointing to the right.",
+                "B. Iron Man's energy beam is pointing to the left.",
+                "C. Iron Man's energy beam is aimed downward at the ground.",
+                "D. Iron Man's energy beam is pointing to the sky."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_142": {
+            "id": "a0AGwUACt7E_142",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "What camera angles were used in the confrontation scene?",
+            "options": [
+                "A. The camera remains frontal, emphasizing the standoff between Iron Man and Captain America.",
+                "B. The camera shoots from a high angle, capturing a bird's-eye view of the confrontation.",
+                "C. The camera circles around, providing a 360-degree view of the intense battle.",
+                "D. The camera is placed on the ground, highlighting the towering stature of the two characters."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_143": {
+            "id": "a0AGwUACt7E_143",
+            "scene": 10,
+            "dimension": "Speed",
+            "question": "Does the event in the scene imply fast action?",
+            "options": [
+                "A. Yes, the scene implies fast action, accompanied by intense movements and dynamic visual effects, such as sparks flying.",
+                "B. No, the scene implies slow action, with calm and still visual effects.",
+                "C. Yes, the scene implies medium-speed action, accompanied by moderate movements and subtle visual effects.",
+                "D. No, the scene implies no action, with completely static visual effects."
+            ],
+            "answer": "D"
+        },
+        "a0AGwUACt7E_144": {
+            "id": "a0AGwUACt7E_144",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "How do the lighting conditions change during the standoff?",
+            "options": [
+                "A. The lighting throughout the scene remains dark, with no significant changes.",
+                "B. The lighting starts completely dark and then transitions to intermittent warm light due to sparks from the collision.",
+                "C. The lighting transitions from bright and clear to dim, with no additional light effects.",
+                "D. The lighting starts with a spotlight on Captain America and then changes to the red light emitted by Iron Man's energy beam."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_145": {
+            "id": "a0AGwUACt7E_145",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "From the video, what word appears on the left side next to Iron Man?",
+            "options": [
+                "A. SUBSCRIBE",
+                "B. LIKE",
+                "C. SHARE",
+                "D. FOLLOW"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_146": {
+            "id": "a0AGwUACt7E_146",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "From the video, what appears behind Captain America?",
+            "options": [
+                "A. A prominent white 'SUBSCRIBE' text",
+                "B. Two blurry semi-transparent square panels",
+                "C. A rectangular placeholder for interactive content",
+                "D. Bright sparks of energy collision"
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_147": {
+            "id": "a0AGwUACt7E_147",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "In the initial scene, how does he walk towards the helicopter?",
+            "options": [
+                "A. The man walks towards the helicopter with his back to the camera.",
+                "B. The man walks towards the helicopter facing the camera.",
+                "C. The man walks towards the helicopter from the side facing the camera.",
+                "D. The man enters the frame from the side, walking towards the helicopter in front."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_148": {
+            "id": "a0AGwUACt7E_148",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What will happen after this person approaches the helicopter?",
+            "options": [
+                "A. Another person walks out from behind this person.",
+                "B. This person disappears into the helicopter and takes off.",
+                "C. This person interacts with the helicopter and starts repairing it.",
+                "D. This person does nothing and leaves the helicopter."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_149": {
+            "id": "a0AGwUACt7E_149",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What change occurred in the camera shot after the man walked towards the helicopter?",
+            "options": [
+                "A. The focus shifted to another individual and an industrial box in the hangar.",
+                "B. The focus shifted to the helicopter flying out of the hangar.",
+                "C. The focus shifted to the control panel the man was operating.",
+                "D. The focus shifted to a group of superheroes entering the hangar."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_150": {
+            "id": "a0AGwUACt7E_150",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What are the characteristics of the black-haired man's arms before boarding the plane?",
+            "options": [
+                "A. The black-haired man's right arm is secured with a sling, and the left arm naturally hangs down.",
+                "B. The black-haired man's left arm is secured with a sling, and the right arm naturally hangs down.",
+                "C. The black-haired man's arms naturally hang down.",
+                "D. The environment is dim with low visibility, no obvious characteristics were found."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_151": {
+            "id": "a0AGwUACt7E_151",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the helicopter's trademark indicate about its affiliation?",
+            "options": [
+                "A. The helicopter's 'Stark Industries' trademark indicates its affiliation.",
+                "B. The helicopter's 'SHIELD' trademark indicates it is a government-owned aircraft.",
+                "C. The lack of a trademark on the helicopter indicates it has no affiliation and remains neutral.",
+                "D. The helicopter's 'Avengers' logo indicates it is part of their private fleet."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_152": {
+            "id": "a0AGwUACt7E_152",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the appearance of the helicopter suggest about its purpose?",
+            "options": [
+                "A. Its high-tech appearance suggests it might be designed for special missions or operations.",
+                "B. Its dusty and rusty appearance suggests it is an old and abandoned heliport.",
+                "C. Its bright appearance suggests it is used for public transportation.",
+                "D. Its small size suggests it is a private civilian aircraft used for short trips."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_153": {
+            "id": "a0AGwUACt7E_153",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What emotion does the ambient lighting in the scene convey about the overall atmosphere?",
+            "options": [
+                "A. The ambient lighting creates a high-tech and tense atmosphere, emphasizing the mysterious and complex theme.",
+                "B. The ambient lighting conveys a bright, lively, and joyful atmosphere, highlighting the theme of joy and celebration.",
+                "C. The ambient lighting presents a dull and neutral tone, weakening the emotional intensity of the scene.",
+                "D. The ambient lighting creates an overly bright and unrealistic atmosphere, diminishing the suspense and tension."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_154": {
+            "id": "a0AGwUACt7E_154",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What was the expression on the black-haired man's face when he got on the helicopter?",
+            "options": [
+                "A. Relaxed and joyful.",
+                "B. Nervous and serious.",
+                "C. Calm and steady.",
+                "D. Agitated and angry."
+            ],
+            "answer": "B"
+        },
+        "a0AGwUACt7E_155": {
+            "id": "a0AGwUACt7E_155",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "How does the man pressing the button affect the story plot?",
+            "options": [
+                "A. After the man presses the button, the man and armor become one, emphasizing a narrative centered around human-machine integration.",
+                "B. After the man presses the button, it suggests activating a hidden industrial mechanism, thereby providing power for ongoing battles.",
+                "C. After the man presses the button, it symbolizes a shift in loyalty between two superheroes, leading to the resolution of their conflict.",
+                "D. After the man presses the button, it triggers a devastating explosion, abruptly ending the battle and engulfing the surrounding environment in flames."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_156": {
+            "id": "a0AGwUACt7E_156",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What can be seen in the hangar as the scene progresses?",
+            "options": [
+                "A. A sleek black helicopter",
+                "B. A complex network of computers",
+                "C. A series of rusty old shipping containers",
+                "D. An abandoned fighter jet"
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_157": {
+            "id": "a0AGwUACt7E_157",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What can be seen when the camera turns to the sky?",
+            "options": [
+                "A. A humanoid figure wearing glowing clothes moving in the air.",
+                "B. A helicopter flying in the air.",
+                "C. A spaceship appears in the sky, faintly visible.",
+                "D. All three can be seen in the sky."
+            ],
+            "answer": "D"
+        },
+        "a0AGwUACt7E_158": {
+            "id": "a0AGwUACt7E_158",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What did this person do after the seating arrangement in the vehicle changed?",
+            "options": [
+                "A. This person slightly leaned back and flew out of the helicopter.",
+                "B. This person excitedly chatted with companions and pointed out the changing scenery outside.",
+                "C. This person leaned back, closed their eyes, and immediately appeared to fall asleep.",
+                "D. This person hurriedly took out their phone and started typing messages."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_159": {
+            "id": "a0AGwUACt7E_159",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the helicopter become indistinct in the hangar environment?",
+            "options": [
+                "A. The lighting in the helicopter hangar is dim, and the lens mainly highlights the characters.",
+                "B. The helicopter is obscured by the thick smoke permeating the hangar, making it invisible.",
+                "C. The helicopter was completely destroyed in the early part of the scene, leaving no trace in the hangar.",
+                "D. The lighting in the hangar has completely failed, making all elements, including the helicopter, invisible."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_160": {
+            "id": "a0AGwUACt7E_160",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What purpose might the glowing chest element serve for this armor design?",
+            "options": [
+                "A. The glowing chest element is merely a decorative feature with no practical use.",
+                "B. The glowing chest element symbolizes allegiance to another superhero.",
+                "C. The glowing chest element might function as advanced technology for practical purposes.",
+                "D. The glowing chest element serves as an ancient relic that grants mysterious powers."
+            ],
+            "answer": "C"
+        },
+        "a0AGwUACt7E_161": {
+            "id": "a0AGwUACt7E_161",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What role might armor play when worn by a character?",
+            "options": [
+                "A. Armor is likely used as advanced technology for functional purposes.",
+                "B. Armor is primarily used for aesthetic purposes, enhancing the character's visual appeal in public settings.",
+                "C. Armor is designed to make the character more comfortable when remaining stationary for extended periods.",
+                "D. Armor is intended to reduce the character's visibility for covert operations in urban environments."
+            ],
+            "answer": "A"
+        },
+        "a0AGwUACt7E_162": {
+            "id": "a0AGwUACt7E_162",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What can explain the transition from outdoor sky scenes to indoor confrontation environments?",
+            "options": [
+                "A. This transition suggests an expansion of the theme to create a coherent narrative about exploration or confrontation.",
+                "B. This transition represents the passage of time, reflecting a review of historical events.",
+                "C. This transition highlights the movement of characters from the air to the ground as they evade danger.",
+                "D. This transition emphasizes the technological evolution of the environment, focusing on mechanical design."
+            ],
+            "answer": "A"
+        }
+    }
+}

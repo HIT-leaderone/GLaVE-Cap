@@ -1,0 +1,3284 @@
+{
+    "scene_hint": {
+        "0": "19号球衣的运动员在做上场的准备。",
+        "1": "足球场目前的情况。",
+        "2": "镜头转到体育场观众席上。",
+        "3": "球队即将进行人员更换的两位足球运动员。",
+        "4": "现场欢呼的球迷。",
+        "5": "正在进行人员更换的两位足球运动员。",
+        "6": "特写镜头给到举手欢呼的球迷。",
+        "7": "观众席上球迷们的情况。",
+        "8": "镜头聚焦于场上的一位足球运动员。",
+        "9": "鸟瞰视角观看比赛。",
+        "10": "近距离镜头给到正在控球的运动员。",
+        "11": "鸟瞰视角继续观看比赛。",
+        "12": "视角拉近给到足球的归属情况。",
+        "13": "给到场上一位足球运动员的特写镜头。",
+        "14": "渐变的白色文字，以深蓝色背景为主。"
+    },
+    "qa": {
+        "9dQXiqS56Y4_0": {
+            "id": "9dQXiqS56Y4_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频中描绘的是什么类型的场景？",
+            "options": [
+                "A. 场景是体育场环境中的一个专业而正式的活动。",
+                "B. 场景是公共公园中的一个非正式聚会。",
+                "C. 场景是客厅中的一个随意聚会。",
+                "D. 场景是公司办公室中的一次商务会议。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_1": {
+            "id": "9dQXiqS56Y4_1",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "能体现出这是什么类别的比赛的迹象是什么？",
+            "options": [
+                "A. 通过FIFA、国际旗帜符号、横幅和蓝色体育场座椅等元素体现出来。",
+                "B. 通过球衣上的19号数字以及带有白色星星的深蓝色场地体现出来。",
+                "C. 通过球员的前倾姿势和裁判的换人牌体现出来。",
+                "D. 通过所有人穿着的正式服饰以及一名男子手中的笔记本体现出来。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_2": {
+            "id": "9dQXiqS56Y4_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "画面中央的足球运动员球衣是什么颜色？",
+            "options": [
+                "A. 中央的运动员穿着一件浅蓝色的足球球衣，上面有白色条纹，19号和阿根廷国家足球队的徽章。",
+                "B. 中央的运动员穿着一件深绿色的足球球衣，上面有黑色条纹，19号和阿根廷国家足球队的徽章。",
+                "C. 中央的运动员穿着一件深蓝色的足球球衣，上面有白色条纹，19号和阿根廷国家足球队的徽章。",
+                "D. 中央的运动员穿着一件红色的足球球衣，上面有白色条纹，19号和阿根廷国家足球队的徽章。"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_3": {
+            "id": "9dQXiqS56Y4_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "画面中间的人物的角色是什么？",
+            "options": [
+                "A. 他是一名教练。",
+                "B. 他是一名球员。",
+                "C. 他是一名裁判。",
+                "D. 他是一名观众。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_4": {
+            "id": "9dQXiqS56Y4_4",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "穿着绿色和灰色的人手里拿着什么物品？",
+            "options": [
+                "A. 一个玻璃水杯",
+                "B. 一个黑色物品",
+                "C. 一个哨子",
+                "D. 一个足球"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_5": {
+            "id": "9dQXiqS56Y4_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "那位身穿绿灰相间衣服的人手持物体的用途是什么？",
+            "options": [
+                "A. 用于管理球员替换。",
+                "B. 用于指示比分。",
+                "C. 用于记录比赛统计数据。",
+                "D. 用于表示罚则。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_6": {
+            "id": "9dQXiqS56Y4_6",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "场景中19号球衣的运动员是否有动态运动？",
+            "options": [
+                "A. 是的，运动员正在奔跑。",
+                "B. 没有，运动员正在坐着不动。",
+                "C. 是的，有很多身体活动和运动。",
+                "D. 没有，运动员站着静止不动。"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_7": {
+            "id": "9dQXiqS56Y4_7",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "初始画面在最左边的人物的手做了什么动作？",
+            "options": [
+                "A. 双手正在鼓掌。",
+                "B. 一只手抬起手指指向某处。",
+                "C. 一只手抚摸着运动员的头发。",
+                "D. 双手举过头部。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_8": {
+            "id": "9dQXiqS56Y4_8",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "场景中期时最明显的动作是什么？",
+            "options": [
+                "A. 最明显的动作是足球运动员整理衣服。",
+                "B. 足球运动员跑上场地，而教练站着并大声喊着指令。",
+                "C. 裁判在场地上移动并示意有进球。",
+                "D. 替补席上的球员聚在一起讨论他们的策略。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_9": {
+            "id": "9dQXiqS56Y4_9",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "是什么动作表明这名足球运动员可能正准备更积极地进行活动？",
+            "options": [
+                "A. 足球运动员在往运动场边行走表明了这一点。",
+                "B. 足球运动员向观众挥手表明了这一点。",
+                "C. 足球运动员整理他的球衣表明了这一点。",
+                "D. 足球运动员与裁判交谈表明了这一点。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_10": {
+            "id": "9dQXiqS56Y4_10",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "对于运动员来说，足球运动员行走时是向哪个方向移动？",
+            "options": [
+                "A. 足球运动员向左行走。",
+                "B. 足球运动员向右行走。",
+                "C. 足球运动员向下行走。",
+                "D. 足球运动员向后行走。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_11": {
+            "id": "9dQXiqS56Y4_11",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "拍摄这个场景使用了哪种相机视角？",
+            "options": [
+                "A. 相机使用略微抬高且放大的视角。",
+                "B. 相机使用远距离的广角镜头。",
+                "C. 相机使用远距离且地面水平的视角。",
+                "D. 相机使用高角度且远距离的视角。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_12": {
+            "id": "9dQXiqS56Y4_12",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "在场景的帧之间，个体的构成发生了什么变化？",
+            "options": [
+                "A. 一位穿着正式服装的19号足球运动员的位置发生变化。",
+                "B. 手持换人牌的裁判换了位置，站在阿根廷球员前面。",
+                "C. 穿海军蓝西装的男子站起来，开始给足球运动员指示。",
+                "D. 右边最远处的两位坐着的个体交换了座位并更换了服装。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_13": {
+            "id": "9dQXiqS56Y4_13",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素为活动增添了国际氛围？",
+            "options": [
+                "A. 有FIFA标志的出现，国际旗帜的展示，以及一面深蓝色背景白色星星的旗帜。",
+                "B. 有FIFA标志的出现，一面有黄色星星的旗帜，以及国际裁判的参与",
+                "C. 有FIFA标志的出现，当地球队的横幅，以及国家赞助商",
+                "D. 当地广告的展示，球队吉祥物，以及一面带有红白条纹的旗帜"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_14": {
+            "id": "9dQXiqS56Y4_14",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "阿根廷足球运动员相对于镜头正在朝哪个方向移动？",
+            "options": [
+                "A. 阿根廷足球运动员正在向画面的左侧移动。",
+                "B. 阿根廷足球运动员正在向画面的右侧移动。",
+                "C. 阿根廷足球运动员正在向画面的顶部移动。",
+                "D. 阿根廷足球运动员正在向画面的底部移动。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_15": {
+            "id": "9dQXiqS56Y4_15",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "球员球衣上显眼地展示了什么？",
+            "options": [
+                "A. FIFA",
+                "B. 数字'19'",
+                "C. 带有抽象图案的绿色横幅",
+                "D. 美国国旗"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_16": {
+            "id": "9dQXiqS56Y4_16",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "场景中明显出现了多少面旗帜？",
+            "options": [
+                "A. 一面旗帜",
+                "B. 两面旗帜",
+                "C. 至少三面旗帜",
+                "D. 四面旗帜"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_17": {
+            "id": "9dQXiqS56Y4_17",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "场景中有哪些旗帜？",
+            "options": [
+                "A. 一面美国国旗、一面带有抽象图案的绿色横幅，以及一面部分可见的旗帜，上面有可识别的文字和图像。",
+                "B. 一面法国国旗、一面带有星星的绿色横幅，以及一面部分可见的旗帜，上面有可识别的形状。",
+                "C. 一面美国国旗、一面带有抽象图案的红色横幅，以及一面完全可见的旗帜，上面有文字。",
+                "D. 一面英国国旗、一面带有条纹的绿色横幅，以及一面部分可见的旗帜，上面有标志。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_18": {
+            "id": "9dQXiqS56Y4_18",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "视频场景中能看到FIFA标志吗？",
+            "options": [
+                "A. 是的，FIFA标志在场景的右上角可见。",
+                "B. 不，FIFA标志被球员的动作遮挡住了。",
+                "C. 是的，FIFA标志在场景的左下角可见。",
+                "D. 不，FIFA标志完全没有出现在这个场景中。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_19": {
+            "id": "9dQXiqS56Y4_19",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "阿根廷足球运动员的方向相对于自己发生了什么变化？",
+            "options": [
+                "A. 现在这名球员向右走",
+                "B. 现在这名球员向前走。",
+                "C. 现在这名球员向后走。",
+                "D. 现在这名球员向右走。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_20": {
+            "id": "9dQXiqS56Y4_20",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "稳定的摄像机视角如何影响场景？",
+            "options": [
+                "A. 稳定的摄像机视角会使场景看起来充满动态且不稳定，从而分散玩家的注意力。",
+                "B. 稳定的摄像机视角保持场景的清晰度，集中于玩家的动作，并融入细微的背景变化。",
+                "C. 稳定的摄像机视角会使场景变得模糊，并遮挡背景细节。",
+                "D. 稳定的摄像机视角会阻止任何动态元素在场景中显现。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_21": {
+            "id": "9dQXiqS56Y4_21",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "场景初期最右侧位置的人员随着场景进行发生了什么变化？",
+            "options": [
+                "A. 之前坐在最右侧的那个人逐渐不可见。",
+                "B. 一名新玩家从画面最右侧进入。",
+                "C. 裁判现在占据了最右侧的位置。",
+                "D. 教练现在出现在最右侧的位置。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_22": {
+            "id": "9dQXiqS56Y4_22",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "在画面左下角观察到什么人员变化？",
+            "options": [
+                "A. 一个新人物的部分身影出现在画面左下角。",
+                "B. 之前坐着的同一个人现在被重新定位到了画面左下角。",
+                "C. 一名裁判进入了画面左下角。",
+                "D. 一名球员移动到了画面左下角。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_23": {
+            "id": "9dQXiqS56Y4_23",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "场景右上角是什么？",
+            "options": [
+                "A. FIFA",
+                "B. 美国国旗",
+                "C. 一个带有抽象图案的绿色横幅",
+                "D. 阿根廷足球协会徽章"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_24": {
+            "id": "9dQXiqS56Y4_24",
+            "scene": 0,
+            "dimension": "Camera Direction",
+            "question": "相机的平移方向是什么？",
+            "options": [
+                "A. 相机轻轻向左平移。",
+                "B. 相机轻轻向右平移。",
+                "C. 相机轻轻向上平移。",
+                "D. 相机轻轻向下平移。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_25": {
+            "id": "9dQXiqS56Y4_25",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频发生在哪里？",
+            "options": [
+                "A. 在一个足球场",
+                "B. 在一个篮球场",
+                "C. 在一个乒乓球场",
+                "D. 在一个棒球场"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_26": {
+            "id": "9dQXiqS56Y4_26",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "此时镜头里有几个白色球衣的运动员？",
+            "options": [
+                "A.3",
+                "B.4",
+                "C.5",
+                "D.6"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_27": {
+            "id": "9dQXiqS56Y4_27",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "除了白色球衣的球队，另外一只球队的球衣的颜色是什么？",
+            "options": [
+                "A. 球衣是深蓝色的，袖子上有白色条纹。",
+                "B. 球衣是淡蓝色的，带有白色斑点。",
+                "C. 球衣是白色的，袖子上有深蓝色条纹。",
+                "D. 球衣是绿色的，带有黄色装饰。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_28": {
+            "id": "9dQXiqS56Y4_28",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "距离裁判左边最近的足球运动员球衣上的号码是多少？",
+            "options": [
+                "A. 球衣是'19'号。",
+                "B. 球衣是'10'号。",
+                "C. 球衣是'20'号。",
+                "D. 球衣是'17'号。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_29": {
+            "id": "9dQXiqS56Y4_29",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "深蓝色球衣上有什么徽章？",
+            "options": [
+                "A. 胸前是阿根廷足球协会的徽章。",
+                "B. 胸前是国际足联的徽章。",
+                "C. 胸前是标明球员年龄的徽章。",
+                "D. 胸前是阿根廷国旗的图案。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_30": {
+            "id": "9dQXiqS56Y4_30",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "深蓝色球衣胸口的位置有什么标志？",
+            "options": [
+                "A. 阿迪达斯的标志。",
+                "B. Nike的标志。",
+                "C. 彪马的标志。",
+                "D. 匡威的标志。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_31": {
+            "id": "9dQXiqS56Y4_31",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "画面中穿黄色短袖的有多少人？",
+            "options": [
+                "A. 一个穿黄色背心的人",
+                "B. 两个穿黄色背心的人",
+                "C. 三个穿黄色背心的人",
+                "D. 四个穿黄色背心的人"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_32": {
+            "id": "9dQXiqS56Y4_32",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "背景中能看到一面美国国旗吗？",
+            "options": [
+                "A. 是的，可以看到一面美国国旗。",
+                "B. 不，没有看到一面美国国旗。",
+                "C. 是的，但它被栏杆遮挡了。",
+                "D. 不，那是一面其他国家的国旗。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_33": {
+            "id": "9dQXiqS56Y4_33",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "19号足球运动员在画面中做了什么动作？",
+            "options": [
+                "A. 阿根廷足球运动员在画面中稍微向左下方移动。",
+                "B. 阿根廷足球运动员在画面中稍微向右上方移动。",
+                "C. 阿根廷足球运动员在画面中心保持不动。",
+                "D. 阿根廷足球运动员在画面中迅速向右上方移动。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_34": {
+            "id": "9dQXiqS56Y4_34",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "新出现的人物位于哪里？",
+            "options": [
+                "A. 位于画面左上角。",
+                "B. 位于画面左下角。",
+                "C. 位于画面右上角。",
+                "D. 位于画面右下角。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_35": {
+            "id": "9dQXiqS56Y4_35",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "使用了哪种类型的镜头来捕捉这个场景？",
+            "options": [
+                "A. 这个镜头是中等水平的视角，包含半个足球场。",
+                "B. 这个镜头是一个特写镜头，仅聚焦于球员的脸部，画面静止。",
+                "C. 这个镜头是一个高角度镜头，从体育场上方向下俯视。",
+                "D. 这个镜头是一个极宽镜头，捕捉整个体育场和观众。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_36": {
+            "id": "9dQXiqS56Y4_36",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "场景中背景主要是什么颜色",
+            "options": [
+                "A.红色",
+                "B.白色。",
+                "C.蓝色。",
+                "D.绿色。"
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_37": {
+            "id": "9dQXiqS56Y4_37",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "右上角的视觉元素是什么，有助于理解场景的背景？",
+            "options": [
+                "A. 右上角的FIFA有助于确定场景的背景。",
+                "B. 背景中的美国国旗提供了场景的背景信息。",
+                "C. 左侧的黄蓝色横幅提供了场景的背景信息。",
+                "D. 穿着橙色背心的活动工作人员提供了场景的背景信息。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_38": {
+            "id": "9dQXiqS56Y4_38",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "绿色外套的人员在画面的什么位置?",
+            "options": [
+                "A. 位于画面底部中心附近。",
+                "B. 位于画面顶部中心附近。",
+                "C. 位于画面左上角。",
+                "D. 位于画面右侧球门柱后面。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_39": {
+            "id": "9dQXiqS56Y4_39",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频的背景是什么？",
+            "options": [
+                "A. 视频发生在一场比赛的换人时刻，地点是专业足球场，明亮的体育场。",
+                "B. 视频发生在一个训练场地，进行的是随意的比赛，没有观众。",
+                "C. 视频发生在一个室内足球场，进行的是一场友谊赛，灯光较暗。",
+                "D. 视频发生在一个公园，进行的是一场业余足球比赛，球员穿着不统一的制服。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_40": {
+            "id": "9dQXiqS56Y4_40",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "深蓝色制服的两名队员正在做什么？",
+            "options": [
+                "A. 深蓝色制服的两名队员正在微调姿势，为替换做好准备。",
+                "B. 深蓝色制服的两名队员正在与教练讨论策略。",
+                "C. 深蓝色制服的两名队员正在沿着场边慢跑热身。",
+                "D. 深蓝色制服的两名队员正在坐在替补席上等待上场。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_41": {
+            "id": "9dQXiqS56Y4_41",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "绿色外套持有的换人牌上显示了什么信息？",
+            "options": [
+                "A. 换人牌上显示红色数字 '18' 和绿色数字 '19'。",
+                "B. 换人牌上显示红色数字 '10' 和绿色数字 '7'。",
+                "C. 换人牌上显示红色数字 '13' 和绿色数字 '8'。",
+                "D. 换人牌上显示红色数字 '11' 和绿色数字 '5'。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_42": {
+            "id": "9dQXiqS56Y4_42",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "在整个画面中白色圆圈内的深蓝色球员做了什么动作？",
+            "options": [
+                "A. 穿深蓝色球衣的球员向前跑向对方球门。",
+                "B. 穿深蓝色球衣的球员稍微向右移动，表示轻微的阵型调整。",
+                "C. 穿深蓝色球衣的球员跑回防守区域。",
+                "D. 穿深蓝色球衣的球员相对于镜头向左移动。"
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_43": {
+            "id": "9dQXiqS56Y4_43",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "视频中镜头是如何转场的？",
+            "options": [
+                "A. 镜头从特写聚焦在足球运动员转变为从边线后方拍摄的足球场全景。",
+                "B. 镜头从足球场的全景转变为裁判的特写视角。",
+                "C. 镜头从换人指示牌的特写转变为看台的广角视角。",
+                "D. 镜头从体育场的高空航拍镜头转变为阿根廷足球运动员的特写。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_44": {
+            "id": "9dQXiqS56Y4_44",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "在换人时场景的节奏是怎样的？",
+            "options": [
+                "A. 场景的节奏快速且混乱，球员频繁变换位置。",
+                "B. 场景的节奏井然有序且慎重，节奏逐步推进，动作精确。",
+                "C. 场景的节奏紧张且急促，换人快速，球员动作慌乱。",
+                "D. 场景的节奏松散且自发，经常出现意想不到的变化和不规则的动作。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_45": {
+            "id": "9dQXiqS56Y4_45",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "草地上的哪个特征表明它得到了良好的维护？",
+            "options": [
+                "A. 带有修剪图案形成的浅绿和深绿条纹，表明它得到了良好的维护。",
+                "B. 右上角出现的FIFA标志表明它得到了良好的维护。",
+                "C. 照亮球场的明亮泛光灯表明它得到了良好的维护。",
+                "D. 比赛的有序动态表明它得到了良好的维护。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_46": {
+            "id": "9dQXiqS56Y4_46",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "在活动显示屏的右上角的视觉元素是什么？",
+            "options": [
+                "A. FIFA",
+                "B. 球队的队徽",
+                "C. 计时器显示",
+                "D. 赞助商的广告"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_47": {
+            "id": "9dQXiqS56Y4_47",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "FIFA标志出现在右上角的意义是什么？",
+            "options": [
+                "A. FIFA标志强调了赛事的专业性和高水平的竞争环境。",
+                "B. FIFA标志表明比赛是在国内联赛中进行的。",
+                "C. FIFA标志作为即将举行比赛的广告。",
+                "D. FIFA标志的存在是为了引导球员在场上的站位。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_48": {
+            "id": "9dQXiqS56Y4_48",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "摄像机在足球场和观众之间建立了什么样的空间关系？",
+            "options": [
+                "A. 摄像机从聚焦足球场转到体育场的观众，将视角从球员转到球迷。",
+                "B. 摄像机只聚焦在足球场上，忽略了观众。",
+                "C. 摄像机只拍摄球员对球迷的反应，而忽略了球场。",
+                "D. 摄像机一开始就聚焦在球迷身上，从未展示足球场。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_49": {
+            "id": "9dQXiqS56Y4_49",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频中描绘的环境是什么？",
+            "options": [
+                "A. 视频捕捉了一个充满活力的氛围，在一个足球场内，热情的球迷们主要穿着阿根廷国家队的球衣，挥舞着配饰，并对比赛做出热烈反应。",
+                "B. 视频描绘了一个平静而安静的氛围，球迷们坐着默默观看比赛，几乎没有反应。",
+                "C. 视频展示了一个音乐会的场景，粉丝们为台上的音乐家欢呼，举着横幅并挥舞荧光棒。",
+                "D. 视频展示了一场游行，人们穿着色彩斑斓的服装，在街道上行进，而观众则在路边观看。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_50": {
+            "id": "9dQXiqS56Y4_50",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景开始时能看见右下角的横幅上黑色的是什么文字？",
+            "options": [
+                "A. 一个横幅上写着‘ESQUEL’。",
+                "B. 两个横幅都写着‘ESQUE’。",
+                "C. 一个横幅上写着‘EXQUEL’。",
+                "D. 一个横幅上写着‘ERQUEL’。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_51": {
+            "id": "9dQXiqS56Y4_51",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "场景结束时能看见多少条拉起来的横幅？",
+            "options": [
+                "A. 一条横幅",
+                "B. 两条横幅",
+                "C. 三条横幅",
+                "D. 没有横幅"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_52": {
+            "id": "9dQXiqS56Y4_52",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "粉丝会做些什么细微的动作来表达他们的热情？",
+            "options": [
+                "A. 粉丝拍手、挥舞旗帜，并使用围巾和帽子等配件。",
+                "B. 粉丝安静地坐着，屏住呼吸期待着下一场比赛。",
+                "C. 粉丝向场地上抛洒彩纸屑，创造出多彩的景象。",
+                "D. 粉丝安静地互相交谈，讨论比赛的战术。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_53": {
+            "id": "9dQXiqS56Y4_53",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "有人像的横幅最后在画面那个位置？",
+            "options": [
+                "A. 画面中央。",
+                "B. 画面左侧。",
+                "C. 画面右侧。",
+                "D. 画面顶部。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_54": {
+            "id": "9dQXiqS56Y4_54",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "从上个场景到这个场景时摄像机如何切换的？",
+            "options": [
+                "A. 摄像机一瞬间从聚焦足球场切换到观众。",
+                "B. 摄像机缓慢的从聚焦足球场切换到观众。",
+                "C. 摄像机快速从足球场移动到观众。",
+                "D. 摄像机在整个场景中一直对准足球场。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_55": {
+            "id": "9dQXiqS56Y4_55",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "初始转换后，摄像机聚焦于什么？",
+            "options": [
+                "A. 摄像机聚焦于场上的球员。",
+                "B. 摄像机扩大焦点，强调观众的集体兴奋。",
+                "C. 摄像机突出了维持秩序的安保人员。",
+                "D. 摄像机展示了记分板的特写镜头。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_56": {
+            "id": "9dQXiqS56Y4_56",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "在场景结束时，摄像机的移动表现如何？",
+            "options": [
+                "A. 摄像机迅速扫过人群。",
+                "B. 摄像机缓慢扫过人群。",
+                "C. 摄像机拉近镜头聚焦于个别观众。",
+                "D. 摄像机移动聚焦在记分板上。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_57": {
+            "id": "9dQXiqS56Y4_57",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "通常用于捕捉人群的摄影镜头是什么？",
+            "options": [
+                "A. 聚焦于单个观众的特写镜头。",
+                "B. 从稍微抬高的视角使用广角镜头。",
+                "C. 强调体育场高度的低角度镜头。",
+                "D. 聚焦于一小群粉丝的中景镜头。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_58": {
+            "id": "9dQXiqS56Y4_58",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "相机的移动速度是如何描述的？",
+            "options": [
+                "A. 相机平稳过渡并保持缓慢移动。",
+                "B. 相机快速移动到人群的不同区域。",
+                "C. 相机快速放大到单个粉丝并迅速拉远。",
+                "D. 相机跟随着场上的球员不断移动。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_59": {
+            "id": "9dQXiqS56Y4_59",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "在这一场景中，人群的氛围是如何变化的？",
+            "options": [
+                "A. 氛围变得更加激烈，观众表现出越来越激动和一致的反应。",
+                "B. 整个场景中氛围始终保持冷静和镇定。",
+                "C. 氛围变得沉闷，观众对比赛失去了兴趣。",
+                "D. 氛围转变为混乱和无序的状态。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_60": {
+            "id": "9dQXiqS56Y4_60",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素突显了观众席？",
+            "options": [
+                "A. 横幅、五颜六色的配饰如帽子、围巾、旗帜和球衣等。",
+                "B. 阴沉的天气，安静坐着的粉丝，以及体育场内没有任何横幅。",
+                "C. 昏暗的灯光，空荡荡的看台，以及只有少数穿着深色衣服的粉丝。",
+                "D. 阴天，沉默的观众，明显缺少五彩缤纷的球衣和旗帜。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_61": {
+            "id": "9dQXiqS56Y4_61",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "‘FIFA’标志在视频画面的什么位置？",
+            "options": [
+                "A. ‘FIFA’标志在画面的右上角隐约可见。",
+                "B. ‘FIFA’标志在画面的左下角清晰可见。",
+                "C. ‘FIFA’标志在画面的中央明显展示。",
+                "D. ‘FIFA’标志在画面的左上角隐约可见。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_62": {
+            "id": "9dQXiqS56Y4_62",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景初始的背景是怎样的？",
+            "options": [
+                "A. 这场景的背景是在一块经过精心维护的足球场上。",
+                "B. 这场景的背景是在一条繁忙的城市街道上。",
+                "C. 这场景的背景是在一家拥挤的餐厅里。",
+                "D. 这场景的背景是在一个灯光昏暗的音乐厅里。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_63": {
+            "id": "9dQXiqS56Y4_63",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "从画面中可以看出这是什么级别的比赛？",
+            "options": [
+                "A. 从“FIFA”标志可以看出这是一个正式的、高级别的国际体育赛事。",
+                "B. 设置是一个灯光昏暗的体育场内，正在进行一场休闲且非正式的足球比赛。",
+                "C. 球场被描述为尘土飞扬且维护不善，没有任何专业标志或重要性的迹象。",
+                "D. 设置是一片海滩，球员们在昏暗的傍晚灯光下进行一场友好的足球比赛。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_64": {
+            "id": "9dQXiqS56Y4_64",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "Maxi Rodriguez在这场景中做了什么？",
+            "options": [
+                "A.身穿18号球衣的Maxi Rodriguez与队友拥抱离场。",
+                "B.身穿18号球衣的Maxi Rodriguez进球了。",
+                "C.身穿18号球衣的Maxi Rodriguez在和教练交谈。",
+                "D.身穿18号球衣的Maxi Rodriguez直接离开了球场。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_65": {
+            "id": "9dQXiqS56Y4_65",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "Maxi Rodriguez的球衣是什么样子的？",
+            "options": [
+                "A. Maxi Rodriguez的球衣是深蓝色的，肩部和袖子上有白色和浅蓝色装饰，领口下有阿迪达斯标志，数字'18'下面有阿根廷国家徽章。",
+                "B. Maxi Rodriguez的球衣是白色的，有蓝色条纹，袖子上有阿迪达斯的标志，没有国家徽章。",
+                "C. Maxi Rodriguez的球衣是浅蓝色的，肩部和袖子上有深蓝色的装饰，领口下面有耐克的标志，数字'18'下面有阿根廷国家徽章。",
+                "D. Maxi Rodriguez的球衣是深绿色的，有黄色条纹，领口下面有彪马的标志，没有号码。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_66": {
+            "id": "9dQXiqS56Y4_66",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "场景中能看见几名阿根廷深蓝色球衣的球员？",
+            "options": [
+                "A. 场景中着见一名穿着阿根廷球衣的球员。",
+                "B. 场景中着见两名穿着阿根廷球衣的球员。",
+                "C. 场景中着见三名穿着阿根廷球衣的球员。",
+                "D. 场景中着见四名穿着阿根廷球衣的球员。"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_67": {
+            "id": "9dQXiqS56Y4_67",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "在场景初始阶段能显著看见深蓝色球衣的几号和几号？",
+            "options": [
+                "A. 18号球衣和5号球衣",
+                "B. 8号球衣和5号球衣",
+                "C. 13号球衣和3号球衣",
+                "D. 9号球衣和5号球衣"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_68": {
+            "id": "9dQXiqS56Y4_68",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "场景初期完全关注在Maxi Rodriguez身上吗？",
+            "options": [
+                "A. 是的，视频完全集中在Maxi Rodriguez身上。",
+                "B. 不是的，Cambiasso也在部分场景中有突出表现。",
+                "C. 是的，Maxi Rodriguez是整个场景中唯一出现的球员。",
+                "D. 不是的，焦点转移到另一位球员身上，完全不再关注Maxi Rodriguez。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_69": {
+            "id": "9dQXiqS56Y4_69",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "Cambiasso和Maxi Rodriguez之间的友谊之举是什么？",
+            "options": [
+                "A. Cambiasso把手放在Maxi Rodriguez的肩膀上，表示友谊或认可。",
+                "B. Cambiasso将球传给Maxi Rodriguez，体现团队合作。",
+                "C. Cambiasso从远处对Maxi Rodriguez竖起大拇指。",
+                "D. Cambiasso在经过Maxi Rodriguez时点了一下头。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_70": {
+            "id": "9dQXiqS56Y4_70",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "Cambiasso在部分退出镜头前向哪个方向移动？",
+            "options": [
+                "A. Cambiasso在部分退出镜头前向左移动。",
+                "B. Cambiasso在部分退出镜头前向上移动。",
+                "C. Cambiasso在部分退出镜头前向右移动。",
+                "D. Cambiasso在部分退出镜头前向下移动。"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_71": {
+            "id": "9dQXiqS56Y4_71",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "哪种类型的摄影构图能够强调球员球衣的细节？",
+            "options": [
+                "A. 一个展示整个球场的广角镜头以突出球衣的细节。",
+                "B. 一个特写镜头突出球衣设计细节的精美。",
+                "C. 一个从球场上方俯拍的镜头，主要关注团队的动作。",
+                "D. 一个捕捉整个球队在球场上的全景镜头。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_72": {
+            "id": "9dQXiqS56Y4_72",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "当Cambiasso进入场景时，画面的焦点是如何转移的？",
+            "options": [
+                "A. 画面最初在Maxi Rodriguez和Cambiasso之间平衡注意力。",
+                "B. 画面完全转移到聚焦在Cambiasso身上。",
+                "C. 画面只显示Cambiasso的背影，无视Maxi Rodriguez。",
+                "D. 画面将Maxi Rodriguez移出视野，并突出了人群。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_73": {
+            "id": "9dQXiqS56Y4_73",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "当Cambiasso部分移出镜头时，画面的焦点会发生什么变化？",
+            "options": [
+                "A. 焦点转移回Maxi Rodriguez，强调他的核心角色。",
+                "B. 焦点改变以突出右上角的FIFA标志。",
+                "C. 背景变得模糊以强调团队的团结。",
+                "D. 摄像机拉远以展示整个足球场。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_74": {
+            "id": "9dQXiqS56Y4_74",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "数字图形叠加信息显示了哪些有关换人的信息？",
+            "options": [
+                "A. 图形叠加显示了'18 Maxi Rodriguez'和'19 Lionel Messi'的名字，以及箭头方向和阿根廷国旗，提供了比赛期间换人的战术细节。",
+                "B. 图形叠加仅显示数字'18'，没有有关换人的其他背景信息。",
+                "C. 图形叠加包括'18 Maxi Rodriguez'和'19 Lionel Messi'的名字，但没有提供如箭头或国旗等进一步的细节。",
+                "D. 图形叠加显示了记分板，包括当前比分和比赛时间。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_75": {
+            "id": "9dQXiqS56Y4_75",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "在镜头给到19号足球运动员时，背景中有哪些颜色？",
+            "options": [
+                "A. 蓝色、黄色和绿色。",
+                "B. 红色、黄色和绿色。",
+                "C. 蓝色、紫色和绿色。",
+                "D. 蓝色、黄色和粉色。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_76": {
+            "id": "9dQXiqS56Y4_76",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "这个场景发生在什么地方？",
+            "options": [
+                "A. 场景发生在一个热闹的体育场。",
+                "B. 场景发生在一个安静的图书馆。",
+                "C. 场景发生在一个繁忙的城市市场。",
+                "D. 场景发生在一个宁静的公园。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_77": {
+            "id": "9dQXiqS56Y4_77",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "这个场景的整体气氛是怎样的？",
+            "options": [
+                "A. 气氛是喜庆和热闹的。",
+                "B. 气氛是紧张和压抑的。",
+                "C. 气氛是沉闷和死气沉沉的。",
+                "D. 气氛是混乱和无序的。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_78": {
+            "id": "9dQXiqS56Y4_78",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "视频开始时，Maxi Rodriguez穿的是什么？",
+            "options": [
+                "A. Maxi Rodriguez穿着一件白色的阿根廷球衣，上面有蓝色的号码'18'、阿迪达斯标志和阿根廷足球协会徽章。",
+                "B. Maxi Rodriguez穿着一件海军蓝色的阿根廷球衣，上面有白色的号码'18'、阿迪达斯标志和阿根廷足球协会徽章。",
+                "C. Maxi Rodriguez穿着一件海军蓝色的阿根廷球衣，上面有白色的号码'19'、阿迪达斯标志和阿根廷足球协会徽章。",
+                "D. Maxi Rodriguez穿着一件深色的运动夹克，上面有号码'61'。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_79": {
+            "id": "9dQXiqS56Y4_79",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "在Maxi Rodriguez被替换下场时，图形叠加显示了哪些信息？",
+            "options": [
+                "A. 当前比分和比赛剩余时间",
+                "B. 轮换的两名球员的名字和号码",
+                "C. 比赛期间的天气状况",
+                "D. 比赛中之前的替换历史"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_80": {
+            "id": "9dQXiqS56Y4_80",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "视频描述中提到了几个球员的名字？",
+            "options": [
+                "A. 提到了一名球员的名字：Maxi Rodriguez。",
+                "B. 提到了两名球员的名字：Maxi Rodriguez和Lionel Messi。",
+                "C. 提到了三名球员的名字：Maxi Rodriguez、Lionel Messi和另一名球员。",
+                "D. 提到了四名球员的名字：Maxi Rodriguez、Lionel Messi和另外两名球员。"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_81": {
+            "id": "9dQXiqS56Y4_81",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "视频中是否显示Maxi Rodriguez穿着 19 号球衣出场，然后Lionel Messi进场？",
+            "options": [
+                "A. 是的，视频显示Maxi Rodriguez穿着 19 号球衣，这表明Lionel Messi即将进场。",
+                "B. 不，Maxi Rodriguez从未把球衣号码改成 19 号。",
+                "C. 是的，但视频中Maxi Rodriguez穿的是其他号码的球衣，而不是 19 号。",
+                "D. 不，号码变成 19 号只是图形错误，并不表明Lionel Messi即将进场。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_82": {
+            "id": "9dQXiqS56Y4_82",
+            "scene": 3,
+            "dimension": "Camera Direction",
+            "question": "在Maxi Rodriguez被换下后，场景的焦点转向哪个方向？",
+            "options": [
+                "A. 场景聚焦于绿色的球场和罗德里格斯的球衣号码。",
+                "B. 场景的焦点转向色彩斑斓的体育场元素。",
+                "C. 场景以Lionel Messi和阿迪达斯标志的球衣为中心。",
+                "D. 场景强调换人图形叠加和观众的反应。"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_83": {
+            "id": "9dQXiqS56Y4_83",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "在视觉呈现方面，什么有助于强调比赛的专业氛围？",
+            "options": [
+                "A. 右上角的FIFA标志强调了赛事的专业性和高水平的竞争环境。",
+                "B. 利昂内尔·Lionel Messi替换Maxi Rodriguez。",
+                "C. 穿着黑色运动夹克，背后有“61”号的人物。",
+                "D. 绿色的球场和Maxi Rodriguez的球衣。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_84": {
+            "id": "9dQXiqS56Y4_84",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "视频中Maxi Rodriguez的球衣号码发生了什么变化？",
+            "options": [
+                "A. Maxi Rodriguez的球衣号码在换人时从“18”变为“19”。",
+                "B. Maxi Rodriguez的球衣号码在换人时从“19”变为“18”。",
+                "C. Maxi Rodriguez的球衣号码在换人时从“18”变为“61”。",
+                "D. Maxi Rodriguez的球衣号码在换人时没有发生变化。"
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_85": {
+            "id": "9dQXiqS56Y4_85",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉提示表明Maxi Rodriguez被换下？",
+            "options": [
+                "A. 显示Maxi Rodriguez名字和号码 '18' 右边的红色图形显示表明他被换下。",
+                "B. 球衣颜色突然从海军蓝变为白色意味着Maxi Rodriguez被换下。",
+                "C. 出现穿着号码 '61' 的球员直接表明Maxi Rodriguez被换下。",
+                "D. Maxi Rodriguez亲自走下场表明他被换下。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_86": {
+            "id": "9dQXiqS56Y4_86",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉线索表明Lionel Messi被换上场？",
+            "options": [
+                "A. Lionel Messi在场边热身的特写镜头",
+                "B. Lionel Messi的名字和号码“19”旁边的绿色图像",
+                "C. 马克斯韦尔·罗德里格斯穿着不同的球衣",
+                "D. 一位穿着深色运动夹克的人走上球场"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_87": {
+            "id": "9dQXiqS56Y4_87",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频的情景是什么？",
+            "options": [
+                "A. 视频的场景是在职业足球比赛环境中。",
+                "B. 视频的场景是在沙滩排球比赛中。",
+                "C. 视频的场景是在室内篮球馆。",
+                "D. 视频的场景是在音乐会中。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_88": {
+            "id": "9dQXiqS56Y4_88",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "视频从什么转场到什么？",
+            "options": [
+                "A. 视频从Lionel Messi的特写转场到体育场观众的广角镜头。",
+                "B. 视频从体育场座位转场到Lionel Messi庆祝进球。",
+                "C. 视频从欢呼的球迷视角转场到Lionel Messi走上场地。",
+                "D. 视频从拉拉队手持横幅的特写转场到Lionel Messi坐在替补席上。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_89": {
+            "id": "9dQXiqS56Y4_89",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "视频中描述的人群环境是什么？",
+            "options": [
+                "A. 体育场的人群满是欢呼的阿根廷球迷。",
+                "B. 体育场的人群大多是空的，只有几个无聊的观众。",
+                "C. 体育场的人群安静而镇定，几乎没有移动。",
+                "D. 体育场的人群稀疏，观众随意地观看比赛。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_90": {
+            "id": "9dQXiqS56Y4_90",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "Lionel Messi在他的特写镜头中穿着什么？",
+            "options": [
+                "A. Lionel Messi穿着一件海军蓝和白色的足球球衣。",
+                "B. Lionel Messi穿着一件亮橙色的夹克。",
+                "C. Lionel Messi穿着一件紫色或深红色的毛衣。",
+                "D. Lionel Messi穿着一件纯黑色的T恤。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_91": {
+            "id": "9dQXiqS56Y4_91",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "体育场的人群是否主要穿着阿根廷的白色和浅蓝条纹服装？",
+            "options": [
+                "A. 是的，人群主要穿着阿根廷的白色和浅蓝条纹服装。",
+                "B. 不，群众主要穿着红色和黑色服装。",
+                "C. 不，群众主要穿着绿色和黄色服装。",
+                "D. 是的，但只有一小部分穿着阿根廷的白色和浅蓝条纹服装。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_92": {
+            "id": "9dQXiqS56Y4_92",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "粉丝们正在采取什么行动来表现他们的热情？",
+            "options": [
+                "A. 粉丝们静静地坐着观看。",
+                "B. 粉丝们正在欢呼、鼓掌，并挥动围巾或旗帜。",
+                "C. 粉丝们提前离开了体育场。",
+                "D. 粉丝们正在读书和看报。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_93": {
+            "id": "9dQXiqS56Y4_93",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "穿橙色衬衫的球迷在画面的什么位置？",
+            "options": [
+                "A. 球迷位于画面中偏左的位置。",
+                "B. 球迷位于画面中央偏上的位置。",
+                "C. 球迷位于画面右下角的位置。",
+                "D. 球迷位于画面左上角的位置。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_94": {
+            "id": "9dQXiqS56Y4_94",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "画面中的镜头如何从什么特写视角切换的？",
+            "options": [
+                "A. 镜头从体育场的特写视角切换。",
+                "B. 镜头从Maxi Rodriguez的特写视角切换。",
+                "C. 镜头从观众的特写视角切换。",
+                "D. 镜头从一名穿橙色衬衫的球迷的特写视角切换。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_95": {
+            "id": "9dQXiqS56Y4_95",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "视频中镜头是如何切换到广角视角的？",
+            "options": [
+                "A. 镜头先拉近对准Maxi Rodriguez的球衣，然后转向观众。",
+                "B. 镜头从Maxi Rodriguez处拉远，展示整个体育场。",
+                "C. 镜头切换到体育场内充满活力的人群的广角视图。",
+                "D. 镜头先切换到体育场灯光的视角，然后聚焦到观众。"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_96": {
+            "id": "9dQXiqS56Y4_96",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "是什么提升了视频中球迷和场景的清晰度和可见性？",
+            "options": [
+                "A. 明亮的日光提供稳定的自然光照。",
+                "B. 横幅和旗帜的战略性布置增加了人群的可见性。",
+                "C. 使用人造灯光突出了体育场的特定部分。",
+                "D. 体育场结构的阴影突出了关键细节。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_97": {
+            "id": "9dQXiqS56Y4_97",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "18号球衣球员与Lionel Messi之间的互动发生在哪里？",
+            "options": [
+                "A. 在热闹的体育场看台上。",
+                "B. 在一片修剪整齐的绿色足球场上。",
+                "C. 在更衣室里。",
+                "D. 在赛后新闻发布会上。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_98": {
+            "id": "9dQXiqS56Y4_98",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "足球场景中的观众氛围是怎样的？",
+            "options": [
+                "A. 观众氛围充满活力，以阿根廷球迷为主。",
+                "B. 观众氛围安静且平静。",
+                "C. 观众氛围主要由巴西球迷组成。",
+                "D. 观众氛围空荡荡且寂静。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_99": {
+            "id": "9dQXiqS56Y4_99",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景中的足球场环境是什么？",
+            "options": [
+                "A. 是一片维护良好的绿色草坪，带有FIFA标志。",
+                "B. 足球场环境空无一人，缺乏任何显著活动。",
+                "C. 足球场环境展示了球员争吵和队友间的紧张关系，场地已经破旧。",
+                "D. 足球场环境被雾气笼罩，能见度低，没有明显的活动。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_100": {
+            "id": "9dQXiqS56Y4_100",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "穿海军蓝阿根廷足球队球衣的球员最初是做了什么庆祝动作？",
+            "options": [
+                "A. 该球员与另一个人击掌高五。",
+                "B. 该球员向人群竖起了大拇指。",
+                "C. 该球员向观众挥手。",
+                "D. 该球员把双手拍在一起。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_101": {
+            "id": "9dQXiqS56Y4_101",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "阿根廷足球球衣上可以看到哪些图案和颜色？",
+            "options": [
+                "A. 球衣上有白色条纹。",
+                "B. 球衣上有深红色波点。",
+                "C. 球衣上有绿色和黄色的锯齿图案。",
+                "D. 球衣上有黑白相间的棋盘格。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_102": {
+            "id": "9dQXiqS56Y4_102",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "阿根廷足球队的球衣上有什么徽章？",
+            "options": [
+                "A. 球衣上有国家徽章。",
+                "B. 球衣上有FIFA。",
+                "C. 球衣上有胜利奖杯的徽章。",
+                "D. 球衣上有赞助商标志。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_103": {
+            "id": "9dQXiqS56Y4_103",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "阿根廷足球队的球衣袖子上有什么补丁？",
+            "options": [
+                "A. 球衣袖子上有一个国家徽章补丁。",
+                "B. 球衣袖子上有一个白色赛事补丁。",
+                "C. 球衣袖子上有一个海军蓝条纹补丁。",
+                "D. 球衣袖子上有一个FIFA标志补丁。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_104": {
+            "id": "9dQXiqS56Y4_104",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "阿根廷足球队球衣上可以看到哪些数字？",
+            "options": [
+                "A. 起初，球衣上显示的数字是 '18'，后来变为 '19'。",
+                "B. 起初，球衣上显示的数字是 '55'，后来变为 '85'。",
+                "C. 起初，球衣上显示的数字是 '25'，后来变为 '38'。",
+                "D. 起初，球衣上显示的数字是 '75'，后来变为 '28'。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_105": {
+            "id": "9dQXiqS56Y4_105",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "能看见多少个显著的球衣号码？",
+            "options": [
+                "A. 提到了两个显著的球衣号码。",
+                "B. 提到了三个显著的球衣号码。",
+                "C. 提到了四个显著的球衣号码。",
+                "D. 提到了五个显著的球衣号码。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_106": {
+            "id": "9dQXiqS56Y4_106",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "能看见的著名球衣号码有哪些？",
+            "options": [
+                "A. '18' 和 '19'",
+                "B. '23' 和 '7'",
+                "C. '16' 和 '21'",
+                "D. '9' 和 '8'"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_107": {
+            "id": "9dQXiqS56Y4_107",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "穿18号球衣的球员会和Lionel Messi互动吗？",
+            "options": [
+                "A. 会",
+                "B. 不会",
+                "C. 不清楚",
+                "D. 只和其他球员互动"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_108": {
+            "id": "9dQXiqS56Y4_108",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "编号为‘18’的球员做了什么？",
+            "options": [
+                "A. 这名球员参与了一场团队互动。",
+                "B. 这名球员独自站立，向观众挥手庆祝。",
+                "C. 这名球员坐在场上，与一位队友拍手表达较为低调的庆祝方式。",
+                "D. 这名球员在场上奔跑，独自庆祝而没有与他人互动。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_109": {
+            "id": "9dQXiqS56Y4_109",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "使用什么摄像机视角来强调玩家的动作？",
+            "options": [
+                "A. 使用更近的视角以突出玩家的动作。",
+                "B. 使用远距离的广角镜头以突出玩家的动作。",
+                "C. 使用俯视视角以突出玩家的动作。",
+                "D. 使用越肩视角以突出玩家的动作。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_110": {
+            "id": "9dQXiqS56Y4_110",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "采用哪种摄影角度可以突出球衣的详细属性？",
+            "options": [
+                "A. 较宽的角度可以捕捉球场和观众的浩大场面。",
+                "B. 较近的角度用于突出球衣的详细属性。",
+                "C. 俯拍角度强调整个场地的布局。",
+                "D. 侧视图提供了球员动作的全景图。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_111": {
+            "id": "9dQXiqS56Y4_111",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "是什么确认了场景的专业背景？",
+            "options": [
+                "A. 在绿色足球场上可见的“FIFA”标志。",
+                "B. 穿着明亮橙色和深紫色衬衫的球迷的存在。",
+                "C. 一名球员球衣上的数字从“65”变为“18”。",
+                "D. 阿根廷球迷充满活力的反应。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_112": {
+            "id": "9dQXiqS56Y4_112",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "拥抱过后阿根廷球衣并标有“MESSI”的球员位于哪里？",
+            "options": [
+                "A. 球员位于更靠左的位置，展示了更多球衣的背面。",
+                "B. 球员位于更靠右的位置，展示了更多球衣的背面。",
+                "C. 球员位于中间位置，展示了更多球衣的正面。",
+                "D. 球员位于靠近替补席的位置，展示了更多球衣的背面。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_113": {
+            "id": "9dQXiqS56Y4_113",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "场景终端背景的主要元素有哪些？",
+            "options": [
+                "A. 背景以黄色和绿色的鲜艳水平条纹为特点，右上角显示着“FIFA”标志。",
+                "B. 背景是一个普通的白墙，没有明显的图案或标志。",
+                "C. 背景是红色和黑色的深色垂直条纹，并带有当地足球俱乐部的标志。",
+                "D. 背景完全模糊，无法辨认任何图案或标志。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_114": {
+            "id": "9dQXiqS56Y4_114",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "穿着深绿色外套，带有白色阿迪达斯风格条纹的那个人在做什么？",
+            "options": [
+                "A. 这个人正在举起他的左臂，可能在做手势或给别人指路。",
+                "B. 这个人正坐在长椅上，低下身子，一只手臂横跨在胸前。",
+                "C. 这个人在画面中没有出现。",
+                "D. 这个人正在充满活力地向前跑。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_115": {
+            "id": "9dQXiqS56Y4_115",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "两位球员拥抱时，阿根廷球衣背面的号码是多少？",
+            "options": [
+                "A. 19",
+                "B. 21",
+                "C. 10",
+                "D. 7"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_116": {
+            "id": "9dQXiqS56Y4_116",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "当前场景中，穿着绿色衣服背后有“FIF”标志的那个人是否可见？",
+            "options": [
+                "A. 是。",
+                "B. 否。",
+                "C. 部分可见。",
+                "D. 仅从侧面可见。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_117": {
+            "id": "9dQXiqS56Y4_117",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "场景终端时，身穿阿根廷队19号球衣的球员正在做什么动作？",
+            "options": [
+                "A. 身穿阿根廷队19号球衣的球员正在主动向前奔跑。",
+                "B. 身穿阿根廷队19号球衣的球员正坐在长凳上。",
+                "C. 身穿阿根廷队19号球衣的球员正在给予指示。",
+                "D. 身穿阿根廷队19号球衣的球员正向后靠着沉思。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_118": {
+            "id": "9dQXiqS56Y4_118",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "场景终端时穿着印有'MESSI'字样的阿根廷球衣的球员相对于镜头向哪个方向移动？",
+            "options": [
+                "A. 穿着印有'MESSI'字样的阿根廷球衣的球员向右移动。",
+                "B. 穿着印有'MESSI'字样的阿根廷球衣的球员向左移动。",
+                "C. 穿着印有'MESSI'字样的阿根廷球衣的球员向前移动。",
+                "D. 穿着印有'MESSI'字样的阿根廷球衣的球员向后移动。"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_119": {
+            "id": "9dQXiqS56Y4_119",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "在场景即将结束时，使用哪种镜头来突出中央角色？",
+            "options": [
+                "A. 使用广角镜头。",
+                "B. 使用中近景视角。",
+                "C. 使用鸟瞰视角。",
+                "D. 使用特写镜头。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_120": {
+            "id": "9dQXiqS56Y4_120",
+            "scene": 5,
+            "dimension": "Speed",
+            "question": "场景即将结束时球员穿着阿根廷球衣，号码为“19”的移动速度是怎样的？",
+            "options": [
+                "A. 穿着阿根廷球衣，号码为“19”的球员移动速度很快。",
+                "B. 穿着阿根廷球衣，号码为“19”的球员移动速度很慢。",
+                "C. 穿着阿根廷球衣，号码为“19”的球员保持静止。",
+                "D. 穿着阿根廷球衣，号码为“19”的球员移动速度忽快忽慢。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_121": {
+            "id": "9dQXiqS56Y4_121",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "当镜头第一次聚焦于19号球员时，物理布局上发生了什么变化？",
+            "options": [
+                "A. 背景包括一个玻璃隔板和右侧闪现出鲜艳的色彩。",
+                "B. 玩家被展示为靠在长凳上，一只手臂伸展在胸前。",
+                "C. 场景现在在右上角展示了鲜艳的 FIFA 标志。",
+                "D. 一位穿深绿色带白条纹夹克的新人物举起了左臂。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_122": {
+            "id": "9dQXiqS56Y4_122",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "视频在哪里拍摄的？",
+            "options": [
+                "A. 视频是在一个活动期间的体育场拍摄的。",
+                "B. 视频是在一个音乐会期间的购物中心拍摄的。",
+                "C. 视频是在一个节日期间的公园拍摄的。",
+                "D. 视频是在一个体育会议期间的会议厅拍摄的。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_123": {
+            "id": "9dQXiqS56Y4_123",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "穿阿根廷球衣的中间那个人的举止是什么样的？",
+            "options": [
+                "A. 那位中间的人很高兴，并举起了他的手臂。",
+                "B. 那位中间的人静静坐着，观看比赛。",
+                "C. 那位中间的人正走离人群。",
+                "D. 那位中间的人正在和裁判争论。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_124": {
+            "id": "9dQXiqS56Y4_124",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "中央的男子戴了什么饰品？",
+            "options": [
+                "A. 绿色帽子和金手表",
+                "B. 颈上的金链和系在绿色挂绳上的证件",
+                "C. 太阳镜和银手链",
+                "D. 围巾和徽章"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_125": {
+            "id": "9dQXiqS56Y4_125",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "中央男子的认证卡表明了什么？",
+            "options": [
+                "A. 它表明了他与活动的关联。",
+                "B. 它显示了他最喜欢的足球队。",
+                "C. 它提供了他的个人联系信息。",
+                "D. 它显示了他在体育场的座位号码。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_126": {
+            "id": "9dQXiqS56Y4_126",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "右边的人穿的衬衫是什么样式？",
+            "options": [
+                "A. 右边坐着的人穿着一件浅色衬衫，袖子是深色的。",
+                "B. 右边坐着的人穿着一件深色衬衫，袖子是浅色的。",
+                "C. 右边坐着的人穿着一件条纹衬衫。",
+                "D. 右边坐着的人穿着一件全白的衬衫。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_127": {
+            "id": "9dQXiqS56Y4_127",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "右边的那个人衣服上写着什么号码？",
+            "options": [
+                "A. 衣服上印着阿根廷队的号码‘10’。",
+                "B. 衣服上印着阿根廷队的号码‘19’。",
+                "C. 衣服上印着阿根廷队的号码‘7’。",
+                "D. 衣服上印着阿根廷队的号码‘5’。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_128": {
+            "id": "9dQXiqS56Y4_128",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "场景中能清晰的看见几个人的脸部？",
+            "options": [
+                "A. 四个人。",
+                "B. 五个人。",
+                "C. 三个人。",
+                "D. 两个人。"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_129": {
+            "id": "9dQXiqS56Y4_129",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "视频中间的那个人一直都是欢快的吗？",
+            "options": [
+                "A. 是的，视频中间的人一直保持欢快。",
+                "B. 不是，视频中间的人似乎有些时候表现得很中立。",
+                "C. 不是，视频中间的人在视频的一些部分显得心烦意乱。",
+                "D. 不是，视频中间的人在视频中变得分心。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_130": {
+            "id": "9dQXiqS56Y4_130",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "视频中穿白色长袖衬衫和红色阿迪达斯裤子的健壮男子做了什么动作？",
+            "options": [
+                "A. 健壮男子在人群中热烈地鼓掌。",
+                "B. 健壮男子举起双臂欢呼雀跃。",
+                "C. 健壮男子热情地挥舞旗帜并大声喊叫。",
+                "D. 健壮男子坐着不动, 只是观看庆祝活动，没有参与。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_131": {
+            "id": "9dQXiqS56Y4_131",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "视频后期中央那个人的右臂有什么动作？",
+            "options": [
+                "A. 中央那个人的右臂举到了头顶。",
+                "B. 中央那个人的右臂后来放下了。",
+                "C. 中央那个人的右臂左右挥动。",
+                "D. 中央那个人的右臂握着一面旗子。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_132": {
+            "id": "9dQXiqS56Y4_132",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "特写镜头中那位中央男子对观众的影响是什么？",
+            "options": [
+                "A. 特写镜头强调了他喜悦的表情和热情的参与，使他成为场景的焦点。",
+                "B. 特写镜头突出了他19号球衣的细节，表明了他作为关键球员的角色。",
+                "C. 特写镜头将焦点转移到他手臂上的纹身设计上，将他塑造为一位忠实的粉丝。",
+                "D. 特写镜头从场上的动作中分散注意力，反而集中在体育馆的建筑上。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_133": {
+            "id": "9dQXiqS56Y4_133",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "那个拥有金棕色头发的年轻女人会怎么样？",
+            "options": [
+                "A. 她依旧保持不变。",
+                "B. 她被一个穿白衣的金发小孩取代，双手举起庆祝。",
+                "C. 她向右移动并开始用力鼓掌。",
+                "D. 她改变姿势并开始挥舞旗帜。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_134": {
+            "id": "9dQXiqS56Y4_134",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "哪个视觉元素表明该事件与FIFA的关联？",
+            "options": [
+                "A. 显著展示的'FIFA+'标志",
+                "B. 由球迷穿着的阿根廷条纹球衣",
+                "C. 中央人物认证卡上的绿色挂绳",
+                "D. 坐着的人穿着的'10'号球衣"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_135": {
+            "id": "9dQXiqS56Y4_135",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "横幅位于人群中的那个位置？",
+            "options": [
+                "A. 人群正上方。",
+                "B. 人群左上角。",
+                "C. 人群右下角。",
+                "D. 人群的中心。"
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_136": {
+            "id": "9dQXiqS56Y4_136",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "场景中的环境是什么？",
+            "options": [
+                "A. 场景设定在一个安静的图书馆。",
+                "B. 场景设定在一个充满活力且一致的体育场环境中。",
+                "C. 场景设定在一个宁静的海滩。",
+                "D. 场景设定在一个繁忙的购物中心。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_137": {
+            "id": "9dQXiqS56Y4_137",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "场景的氛围是什么？",
+            "options": [
+                "A. 氛围是忧郁且深沉的，粉丝们安静地观察事件。",
+                "B. 氛围展现了阿根廷粉丝集体的激情和庆祝，带着生动的表情和动作。",
+                "C. 氛围紧张而焦虑，粉丝们紧张地等待比赛结果。",
+                "D. 氛围是冷漠且平静的，粉丝们悠闲地走动和聊天。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_138": {
+            "id": "9dQXiqS56Y4_138",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "场景开始时，穿绿色上衣的女人在做什么？",
+            "options": [
+                "A. 开场时，穿绿色上衣的女人正在拍照。",
+                "B. 开场时，穿绿色上衣的女人正举着横幅。",
+                "C. 开场时，穿绿色上衣的女人在激动地欢呼。",
+                "D. 开场时，穿绿色上衣的女人正在鼓掌。"
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_139": {
+            "id": "9dQXiqS56Y4_139",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "横幅上展示的是什么图案？",
+            "options": [
+                "A. 横幅上是一个足球运动员手捧金杯的图案。",
+                "B. 横幅上展示了一块有观众欢呼的足球场。",
+                "C. 横幅上展示了一面大的阿根廷国旗。",
+                "D. 横幅上描绘了一群粉丝在彩纸中庆祝的场景。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_140": {
+            "id": "9dQXiqS56Y4_140",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "人群中举着的横幅上写了什么文字？",
+            "options": [
+                "A. 横幅上写着'Esto es mi sueño'。",
+                "B. 横幅上写着'Vamos Argentina'。",
+                "C. 横幅上写着'Campeones del Mundo'。",
+                "D. 横幅上写着'Unidos por el Fútbol'。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_141": {
+            "id": "9dQXiqS56Y4_141",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "横幅上是否显示一名足球运动员手持奖杯？",
+            "options": [
+                "A. 是",
+                "B. 否",
+                "C. 不清楚",
+                "D. 没有横幅"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_142": {
+            "id": "9dQXiqS56Y4_142",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "穿着阿根廷球衣、拉着旗帜的那些人在做什么？",
+            "options": [
+                "A. 穿着阿根廷球衣、拉着旗帜的那些人稍微移动了一下，并与一名新女性互动。",
+                "B. 穿着阿根廷球衣、拉着旗帜的那些人举起了一面旗子并欢呼。",
+                "C. 穿着阿根廷球衣、拉着旗帜的那些人热情地与其他球迷跳舞。",
+                "D. 穿着阿根廷球衣、拉着旗帜的那些人安静地坐着观看人群。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_143": {
+            "id": "9dQXiqS56Y4_143",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "旗帜底部穿着阿根廷球衣的女士在做什么？",
+            "options": [
+                "A. 那位女士举起双手鼓掌。",
+                "B. 那位女士举着横幅。",
+                "C. 那位女士拍照。",
+                "D. 那位女士用手机记录活动。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_144": {
+            "id": "9dQXiqS56Y4_144",
+            "scene": 7,
+            "dimension": "Object Direction",
+            "question": "旗帜上的文字相对于相机朝哪个方向？",
+            "options": [
+                "A. 旗帜上的文字面向相机。",
+                "B. 旗帜上的文字背对相机。",
+                "C. 旗帜上的文字相对于相机是侧向的。",
+                "D. 旗帜上没有面向相机的可见文字。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_145": {
+            "id": "9dQXiqS56Y4_145",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "哪种类型的镜头用于强调人群的集体热情？",
+            "options": [
+                "A. 固定的广角镜头",
+                "B. 个别粉丝的特写镜头",
+                "C. 放大横幅的镜头",
+                "D. 体育场的旋转航拍镜头"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_146": {
+            "id": "9dQXiqS56Y4_146",
+            "scene": 7,
+            "dimension": "Speed",
+            "question": "场景中人群的移动速度是如何描绘的？",
+            "options": [
+                "A. 人群中的移动被描绘得动态且自发。",
+                "B. 人群以缓慢且同步的方式移动。",
+                "C. 移动被描绘得混乱且无序。",
+                "D. 人群大多保持静止，移动很少。"
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_147": {
+            "id": "9dQXiqS56Y4_147",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "谁取代了横幅旁边穿绿色衣服的女人？",
+            "options": [
+                "A. 一个穿浅色衬衫欢呼的男人取代了穿绿色衣服的女人。",
+                "B. 另一个拍手的女人取代了穿绿色衣服的女人。",
+                "C. 一个穿栗色衬衫戴黄色帽子的男人取代了穿绿色衣服的女人。",
+                "D. 从画面开始到画面结束，没人取代穿绿色衣服的女人。"
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_148": {
+            "id": "9dQXiqS56Y4_148",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "除了'Esto es mi sueño'之外，横幅上部分可见的文字是什么？",
+            "options": [
+                "A. 横幅上部分可见的文字是'DAVID GUI...'，可能指的是一位知名人物。",
+                "B. 横幅上部分可见的文字是'WORLD CUP 2022...'，可能指的是历史上的一个时刻。",
+                "C. 横幅上部分可见的文字是'ARGENTINA CHAMP...'，庆祝一次胜利。",
+                "D. 横幅上部分可见的文字是'MESSI RULES...'，向一位足球传奇致敬。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_149": {
+            "id": "9dQXiqS56Y4_149",
+            "scene": 8,
+            "dimension": "Spatial",
+            "question": "视频转换是如何强调体育场观众与足球场之间的空间关系的？",
+            "options": [
+                "A. 视频从充满活力的、挤满球迷的体育场过渡到对广阔足球场的专注视角，突出了拥挤看台和开放场地之间的空间对比。",
+                "B. 视频快速闪现观众和场地的画面，使热情的支持者与运动员之间难以分辨。",
+                "C. 过渡从俯视体育场的视角开始，然后放大到板凳上的一名球员，展示了观众的热闹与球员的孤独。",
+                "D. 场景转换从球员球衣的特写切换到体育场记分牌，强调了球员装备与球迷反应之间的差异。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_150": {
+            "id": "9dQXiqS56Y4_150",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "主要场景是什么？",
+            "options": [
+                "A. 人们野餐的宁静公园",
+                "B. 维护良好的足球场",
+                "C. 打折期间繁忙的购物中心",
+                "D. 带有轻柔海浪的宁静海滩"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_151": {
+            "id": "9dQXiqS56Y4_151",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "是什么显著特点构成了这个场景？",
+            "options": [
+                "A. 场景的特点是充满热情、标志性的白色和浅蓝色条纹球衣，以及一条写着“ESTE ES MI SUEÑO”（“这是我的梦想”）的大横幅。",
+                "B. 场景的特点是一个安静的体育场，一个球迷举着一面黄色旗帜，球员在球场上静止不动。",
+                "C. 场景的特点是一个几乎空荡荡的竞技场，穿着绿色队服的球员，以及一条写着“VICTORY FOR ALL”（“胜利属于所有人”）的横幅。",
+                "D. 场景的特点是一个黑暗而寂静的氛围，球迷们举着蜡烛，场上没有任何可见的动作。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_152": {
+            "id": "9dQXiqS56Y4_152",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "在足球场视频中，那个人穿着什么？",
+            "options": [
+                "A. 那个人穿着一件红色球衣，背后印有数字 '7'。",
+                "B. 那个人穿着一件深蓝色阿根廷球衣，带有白色装饰和数字 '19'。",
+                "C. 那个人穿着一件绿色球衣，背后印有数字 '10'。",
+                "D. 那个人穿着一件白色和浅蓝色条纹球衣，背后印有数字 '10'。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_153": {
+            "id": "9dQXiqS56Y4_153",
+            "scene": 8,
+            "dimension": "Description-Human",
+            "question": "场景中这个人在足球场上正在做什么动作？",
+            "options": [
+                "A. 这个人被在场上移动，慢跑中。",
+                "B. 这个人站着不动，正在观察比赛。",
+                "C. 这个人与队友一起庆祝进球。",
+                "D. 这个人在场边热身。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_154": {
+            "id": "9dQXiqS56Y4_154",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "球员的球衣上有什么颜色？",
+            "options": [
+                "A. 球员的球衣是深蓝色配白色点缀。",
+                "B. 球员的球衣是白色配浅蓝色条纹。",
+                "C. 球员的球衣是绿色配黄色点缀。",
+                "D. 球员的球衣是黑色配红色条纹。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_155": {
+            "id": "9dQXiqS56Y4_155",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "球员球衣上有哪些显眼的特征？",
+            "options": [
+                "A. 球员的球衣是红色的，并有金色点缀。",
+                "B. 球员的球衣上显著地印有数字“19”。",
+                "C. 球员的球衣正面有一个巨大的老虎标志。",
+                "D. 球员的球衣上有一句话：'ESTE ES MI SUEÑO'。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_156": {
+            "id": "9dQXiqS56Y4_156",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "视频过渡场景中有多少名玩家是焦点？",
+            "options": [
+                "A. 场景关注于一名玩家。",
+                "B. 场景关注于两名玩家。",
+                "C. 场景关注于三名玩家。",
+                "D. 场景关注于一个玩家团队。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_157": {
+            "id": "9dQXiqS56Y4_157",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "在聚焦于足球场的场景中是否有任何文字显示？",
+            "options": [
+                "A. 是的，场景右上角可以看到“FIFA”字样。",
+                "B. 不，在聚焦于足球场的场景中没有任何文字显示。",
+                "C. 是的，场景右上角可以看到“ESTE ES MI SUEÑO”字样。",
+                "D. 不，唯一能看到的文字是在观众席的横幅上。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_158": {
+            "id": "9dQXiqS56Y4_158",
+            "scene": 8,
+            "dimension": "Camera Direction",
+            "question": "球员在足球场上相对镜头移动的方向是什么？",
+            "options": [
+                "A.面向镜头移动",
+                "B.方向与镜头平行",
+                "C.背向镜头移动",
+                "D.不清楚"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_159": {
+            "id": "9dQXiqS56Y4_159",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "哪种摄影技巧突出了观众席和足球场之间的能量对比？",
+            "options": [
+                "A. 摄像机从充满热情的人群的广角镜头切换到聚焦于单个球员的近景。",
+                "B. 摄像机使用定格画面来突出观众的静止状态。",
+                "C. 摄像机在整个场景中保持一个固定角度以显示一致性。",
+                "D. 摄像机不断拉远镜头以捕捉整个体育场和足球场。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_160": {
+            "id": "9dQXiqS56Y4_160",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "在鸟瞰视角的开始画面中，深蓝色阿根廷球衣球员在球场上的分布情况是怎样的？",
+            "options": [
+                "A. 球场上有五名身穿深蓝色阿根廷球衣的球员分布。",
+                "B. 球场上有六名身穿深蓝色阿根廷球衣的球员分布。",
+                "C. 球场上有七名身穿深蓝色阿根廷球衣的球员分布。",
+                "D. 球场上有四名身穿深蓝色阿根廷球衣的球员分布。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_161": {
+            "id": "9dQXiqS56Y4_161",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "在鸟瞰视角的开始场景中，有多少穿白色球衣的球员在场上？",
+            "options": [
+                "A. 场上有一名穿白色球衣的球员。",
+                "B. 场上有两名穿白色球衣的球员。",
+                "C. 场上有三名穿白色球衣的球员。",
+                "D. 场上有四名穿白色球衣的球员。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_162": {
+            "id": "9dQXiqS56Y4_162",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "视频的背景是什么？",
+            "options": [
+                "A. 视频的背景是职业篮球比赛。",
+                "B. 视频的背景是职业足球比赛环境。",
+                "C. 视频的背景是网球锦标赛。",
+                "D. 视频的背景是游泳比赛。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_163": {
+            "id": "9dQXiqS56Y4_163",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "视频中的环境由哪些元素构成？",
+            "options": [
+                "A. 环境特点是交替出现的绿色条纹场地，周围有全球品牌的广告横幅，并突出呈现FIFA品牌标志。",
+                "B. 环境特点是简单的绿色场地，没有广告横幅，且品牌标志最小化。",
+                "C. 环境特点是一个充满活力的场地，分散的球员移动，没有可见的广告。",
+                "D. 环境包括一个泥土地场地，稀疏的观众和本地团队横幅。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_164": {
+            "id": "9dQXiqS56Y4_164",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "身穿蓝色球衣，号码为“10”的球员采取了什么行动？",
+            "options": [
+                "A. 身穿蓝色球衣，号码为“10”的球员正在足球场上移动。",
+                "B. 身穿蓝色球衣，号码为“10”的球员正在罚点球。",
+                "C. 身穿蓝色球衣，号码为“10”的球员正在担任裁判。",
+                "D. 身穿蓝色球衣，号码为“10”的球员正在边线处观察比赛情况并接球。"
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_165": {
+            "id": "9dQXiqS56Y4_165",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "球员的深蓝色阿根廷球衣上有什么特色？",
+            "options": [
+                "A. 球员的深蓝色阿根廷球衣上有白色装饰。",
+                "B. 球员的深蓝色阿根廷球衣上有黑色条纹。",
+                "C. 球员的深蓝色阿根廷球衣上有灰色装饰。",
+                "D. 球员的深蓝色阿根廷球衣上有黄色装饰。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_166": {
+            "id": "9dQXiqS56Y4_166",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "接下来的画面中，有多少身穿白色衣服的球员加入场景？",
+            "options": [
+                "A. 身穿白色衣服的球员数量增加到六人。",
+                "B. 身穿白色衣服的球员数量增加到七人。",
+                "C. 身穿白色衣服的球员数量增加到八人。",
+                "D. 身穿白色衣服的球员数量增加到九人。"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_167": {
+            "id": "9dQXiqS56Y4_167",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "视频捕捉是否包括广告横幅？",
+            "options": [
+                "A. 不，球场周围没有可见的广告横幅。",
+                "B. 是的，视频捕捉到了球场周围的全球品牌广告横幅。",
+                "C. 不，视频只展示了球员和球场，没有任何广告。",
+                "D. 是的，但广告横幅与本地赞助商有关，而非全球品牌。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_168": {
+            "id": "9dQXiqS56Y4_168",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "蓝衣球员在中圈附近采取了什么行动？",
+            "options": [
+                "A. 蓝衣球员在中圈附近采取了一个中路站位射门。",
+                "B. 蓝衣球员尝试在中圈进球。",
+                "C. 蓝衣球员在中圈附近对对手犯规。",
+                "D. 蓝衣球员将球传给了中圈附近的队友。"
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_169": {
+            "id": "9dQXiqS56Y4_169",
+            "scene": 9,
+            "dimension": "Object Direction",
+            "question": "控制球权后，身穿白衣的球员在场地的左下方移动的方向是什么？",
+            "options": [
+                "A. 身穿白衣的球员向后移动至防守线。",
+                "B. 身穿白衣的球员向前移动进行进攻。",
+                "C. 身穿白衣的球员向场边侧向移动。",
+                "D. 身穿白衣的球员控制球权后保持不动。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_170": {
+            "id": "9dQXiqS56Y4_170",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "白衣对手立即采取防守动作表明了比赛节奏的什么特点？",
+            "options": [
+                "A. 表明比赛节奏快速而充满动感。",
+                "B. 表明裁判已失去了对比赛的控制。",
+                "C. 表明双方球队犹豫且防守为主。",
+                "D. 表明比赛节奏非常慢且缺乏亮点。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_171": {
+            "id": "9dQXiqS56Y4_171",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素强化了这次足球赛事的国际化背景？",
+            "options": [
+                "A. 稳定出现的“FIFA”标志和广告横幅强化了这次足球赛事的国际化背景。",
+                "B. 足球场的鲜绿色和场上的球员数量突出了赛事的国际性质。",
+                "C. 球场上的交替绿色条纹以及球员的白色球衣突显了比赛的国际环境。",
+                "D. 队伍深蓝色与白色球衣之间的色彩对比象征了比赛的全球意义。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_172": {
+            "id": "9dQXiqS56Y4_172",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "FIFA标志在视频画面的哪个位置？",
+            "options": [
+                "A. FIFA标志在画面的右上角。",
+                "B. FIFA标志在画面的左下角。",
+                "C. FIFA标志在画面的中央。",
+                "D. FIFA标志在画面的右下角。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_173": {
+            "id": "9dQXiqS56Y4_173",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "在足球比赛视频中，两帧之间的过渡发生在哪里？",
+            "options": [
+                "A. 过渡在一场正在进行的比赛中的足球场上发生。",
+                "B. 过渡在中场休息时的更衣室内发生。",
+                "C. 过渡在场边球队集会时发生。",
+                "D. 过渡在体育场的解说员席内发生。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_174": {
+            "id": "9dQXiqS56Y4_174",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "穿着阿根廷国家队球衣的知名球员在视频中的外貌是什么样的？",
+            "options": [
+                "A. 该球员身穿深蓝色阿根廷国家队球衣，带有白色细节，球衣号码是'10'，，深蓝色袜子，黄色鞋子。",
+                "B. 该球员身穿深蓝色球衣，白色短裤，球衣号码是'19'，蓝色袜子，白色鞋子。",
+                "C. 该球员身穿红白条纹球衣，球衣号码是'7'，红色袜子，黑色鞋子。",
+                "D. 该球员身穿绿色和白色球衣，球衣号码是'8'，绿色袜子，绿色鞋子。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_175": {
+            "id": "9dQXiqS56Y4_175",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "场景中可以看到多少名身穿白色球衣的球员？",
+            "options": [
+                "A. 两名身穿白色球衣的球员",
+                "B. 一名身穿白色球衣的球员",
+                "C. 没有身穿白色球衣的球员",
+                "D. 三名身穿白色球衣的球员"
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_176": {
+            "id": "9dQXiqS56Y4_176",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "足球场鲜艳的绿色在整个个画面中是否清晰可见？",
+            "options": [
+                "A. 是的，足球场鲜艳的绿色在整个个画面中清晰可见。",
+                "B. 不，足球场鲜艳的绿色在整个个画面中不太明显。",
+                "C. 是的，足球场在整个个画面中看起来更加模糊。",
+                "D. 不，足球场在整个个画面中完全被球员遮挡了。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_177": {
+            "id": "9dQXiqS56Y4_177",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "在转换过程中，阿根廷球员采取了什么微妙的动作？",
+            "options": [
+                "A. 阿根廷球员向左调整站姿，为更好地参与比赛做准备。",
+                "B. 阿根廷球员举起双手示意队友传球。",
+                "C. 阿根廷球员蹲低身体准备进行防守铲断。",
+                "D. 阿根廷球员向上看并后退以避开球。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_178": {
+            "id": "9dQXiqS56Y4_178",
+            "scene": 10,
+            "dimension": "Object Direction",
+            "question": "足球在过渡过程中朝哪个方向移动？",
+            "options": [
+                "A. 足球向后移动并上升。",
+                "B. 足球向前移动并下降。",
+                "C. 足球停留在空中不动。",
+                "D. 足球向侧面移动并下降。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_179": {
+            "id": "9dQXiqS56Y4_179",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "视频第二帧使用的是哪种镜头拍摄？",
+            "options": [
+                "A. 摄像机镜头是从场地上方的广角拍摄。",
+                "B. 摄像机镜头是从场边眼睛高度的动态特写角度拍摄。",
+                "C. 摄像机镜头是从场地中心的中距离拍摄。",
+                "D. 摄像机镜头是整个体育场的鸟瞰图。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_180": {
+            "id": "9dQXiqS56Y4_180",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "第二个镜头的拍摄如何影响场景？",
+            "options": [
+                "A. 它增强了观众对身临其境于足球比赛的感受。",
+                "B. 它通过过多关注观众而削弱了对球员动作的关注。",
+                "C. 由于特写镜头，使得理解比赛变得困难。",
+                "D. 它将注意力从主要球员转移到了广告上。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_181": {
+            "id": "9dQXiqS56Y4_181",
+            "scene": 10,
+            "dimension": "Speed",
+            "question": "观众在第二帧中如何感知比赛的速度？",
+            "options": [
+                "A. 由于近距离动态角度和可见球员位置的变化，观众感受到一种快速运动的感觉。",
+                "B. 观众感知到一个静止的时刻，没有明显的运动。",
+                "C. 由于缺乏可见的球员和静止的观众，观众感受到游戏较为缓慢。",
+                "D. 观众感知到一种平静的氛围，运动较少。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_182": {
+            "id": "9dQXiqS56Y4_182",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "视频中的哪个视觉元素确认了比赛是与什么相关的体育赛事？",
+            "options": [
+                "A. 右上角的小型FIFA标志。",
+                "B. 球场上方的一个大型计分板。",
+                "C. 人群中的黄色和蓝色装饰元素。",
+                "D. 像FUJIFILM和Gillette这样的品牌广告。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_183": {
+            "id": "9dQXiqS56Y4_183",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "视频中的哪些广告确认了比赛是一次重要的体育赛事？",
+            "options": [
+                "A. 背景中的广告横幅确认了这是一次重要的体育赛事。",
+                "B. 球员球衣上显示的信息确认了这是一次重要的体育赛事。",
+                "C. FIFA标志确认了这是一次重要的体育赛事。",
+                "D. 座无虚席的体育场确认了这是一次重要的体育赛事。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_184": {
+            "id": "9dQXiqS56Y4_184",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "在广角视角下的足球场上，被标记为10号的深蓝色球衣球员位于哪个位置？",
+            "options": [
+                "A. 靠近场地的右上方",
+                "B. 靠近场地的底部中心",
+                "C. 靠近场地的左角",
+                "D. 靠近场地的中圈"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_185": {
+            "id": "9dQXiqS56Y4_185",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "在观看足球比赛的主要画面中，场景是什么？",
+            "options": [
+                "A. 场景是一场足球比赛，在绿色草坪上有白线标记，场馆中座无虚席。",
+                "B. 场景是一场街头足球比赛，球员穿着休闲，没有明显的观众。",
+                "C. 场景是一场足球训练，在一个布满灰尘的场地上，光线昏暗且没有观众。",
+                "D. 场景是一场室内夜间足球比赛，有昏暗的人工照明，没有观众。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_186": {
+            "id": "9dQXiqS56Y4_186",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "在足球比赛的主要视角中，场景中可以看到哪些元素？",
+            "options": [
+                "A. 场景中可以看到右上角的FIFA标志和一个穿黄色衣服的裁判。",
+                "B. 场景中可以看到挥舞旗帜的球迷和一个大型记分牌。",
+                "C. 场景中可以看到穿红色和黄色球衣的球员以及穿绿色衬衫的裁判。",
+                "D. 场景中可以看到空中飞艇摄像机和在边线大喊的教练。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_187": {
+            "id": "9dQXiqS56Y4_187",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "裁判在比赛期间穿什么？",
+            "options": [
+                "A. 裁判穿明亮的黄色短袖。",
+                "B. 裁判穿深蓝色的运动衫。",
+                "C. 裁判穿白色的运动衫。",
+                "D. 裁判穿明亮的绿色短袖。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_188": {
+            "id": "9dQXiqS56Y4_188",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "场景初期裁判员的位置在哪里？",
+            "options": [
+                "A. 裁判员位于场地中央。",
+                "B. 裁判员略偏左侧。",
+                "C. 裁判员靠近球门。",
+                "D. 裁判员站在边线上。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_189": {
+            "id": "9dQXiqS56Y4_189",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "裁判在比赛期间做什么？",
+            "options": [
+                "A. 裁判积极跟踪比赛并在最佳位置维持规则执行。",
+                "B. 裁判在比赛期间从场边积极指导球员。",
+                "C. 裁判坐在看台上观看比赛进行。",
+                "D. 裁判与球员交谈，而忽略了比赛。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_190": {
+            "id": "9dQXiqS56Y4_190",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "球员的球衣是什么颜色？",
+            "options": [
+                "A. 深蓝色和黄色",
+                "B. 深蓝色和白色",
+                "C. 红色和白色",
+                "D. 绿色和蓝色"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_191": {
+            "id": "9dQXiqS56Y4_191",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "在场景开始时能看见的球衣号码是多少？",
+            "options": [
+                "A. 球衣号码是10。",
+                "B. 球衣号码是12。",
+                "C. 球衣号码是16。",
+                "D. 球衣号码是17。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_192": {
+            "id": "9dQXiqS56Y4_192",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "比赛期间可以看到计分牌吗？",
+            "options": [
+                "A. 是的，比赛后期场景中会出现一个大型计分牌。",
+                "B. 不，比赛期间没有看到任何计分牌。",
+                "C. 是的，但只是一个短暂出现的小型计分牌。",
+                "D. 不，只有广告牌可以看到。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_193": {
+            "id": "9dQXiqS56Y4_193",
+            "scene": 11,
+            "dimension": "Description-Human",
+            "question": "当球位于足球场中央位置时，穿深蓝色球衣且标有10号的球员在做什么？",
+            "options": [
+                "A. 穿深蓝色球衣且标有10号的球员站缓步向前移动。",
+                "B. 穿深蓝色球衣且标有10号的球员正在向前推进并与球进行接触。",
+                "C. 穿深蓝色球衣且标有10号的球员正走向裁判。",
+                "D. 穿深蓝色球衣且标有10号的球员正坐在替补席上。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_194": {
+            "id": "9dQXiqS56Y4_194",
+            "scene": 11,
+            "dimension": "Object Direction",
+            "question": "在场地下半部的深蓝色球员相对于镜头如何移动？",
+            "options": [
+                "A. 场地下半部的深蓝色球员正在向左移动。",
+                "B. 场地下半部的深蓝色球员正在向右移动。",
+                "C. 场地下半部的深蓝色球员静止不动。",
+                "D. 场地下半部的深蓝色球员正在上移动。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_195": {
+            "id": "9dQXiqS56Y4_195",
+            "scene": 11,
+            "dimension": "Camera Direction",
+            "question": "在场景中，摄像机会转动以提供球队阵型的概览吗？",
+            "options": [
+                "A. 是的，摄像机会切换到一个宽广的俯视角度，聚焦于球队的阵型。",
+                "B. 不，摄像机在整个场景中只专注于个别球员。",
+                "C. 不，摄像机主要捕捉观众和氛围，而没有切换到球队阵型。",
+                "D. 是的，但摄像机只提供了球队成员的特写镜头，而没有聚焦于阵型。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_196": {
+            "id": "9dQXiqS56Y4_196",
+            "scene": 11,
+            "dimension": "Camera Shot",
+            "question": "在阿根廷球员和观众的特写镜头之后，主要使用了什么摄像角度？",
+            "options": [
+                "A. 主要使用广角、略微抬高的视角来展示足球场和球员的全景。",
+                "B. 以个别球员及其动作的特写为主导。",
+                "C. 以地面角度展示详细的脚法和控球为中心。",
+                "D. 侧线视角，重点关注教练和替补球员。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_197": {
+            "id": "9dQXiqS56Y4_197",
+            "scene": 11,
+            "dimension": "Fine Grained Action",
+            "question": "如何描述比赛中球员的移动？",
+            "options": [
+                "A. 有些球员积极奔跑，而其他球员则调整位置或进行微妙的动作。",
+                "B. 球员主要保持静止，仅偶尔移动以踢球。",
+                "C. 所有球员都持续奔跑，不调整位置或进行战略性移动。",
+                "D. 只有持球的球员移动，其他球员保持固定位置。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_198": {
+            "id": "9dQXiqS56Y4_198",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "比赛期间，右上角可见哪个标志？",
+            "options": [
+                "A. 'FIFA' 标志",
+                "B. 'UEFA' 标志",
+                "C. '英超联赛' 标志",
+                "D. '西甲联赛' 标志"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_199": {
+            "id": "9dQXiqS56Y4_199",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "场景的环境是什么？",
+            "options": [
+                "A. 场景发生在一个安静的公园，只有少数观众在观看一场本地比赛。",
+                "B. 场景发生在一个体育场，正在进行一场重要的国际足球比赛。",
+                "C. 场景发生在室内的体操比赛中。",
+                "D. 场景发生在学校的体育馆里，学生们在练习训练。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_200": {
+            "id": "9dQXiqS56Y4_200",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "这场景的背景是什么？",
+            "options": [
+                "A. 背景包括热闹的人群、多彩的横幅和广告，增添了令人兴奋的氛围。",
+                "B. 背景是一个安静的练习场，没有观众或广告。",
+                "C. 背景是一次随意的社区足球赛，装饰很少，观众稀少。",
+                "D. 背景是一个室内足球场，灯光昏暗，没有可见的观众。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_201": {
+            "id": "9dQXiqS56Y4_201",
+            "scene": 12,
+            "dimension": "Fine Grained Action",
+            "question": "深蓝色球衣的对手在接近持球者时的行为是什么？",
+            "options": [
+                "A. 深蓝色球衣的对手身体前倾，紧跟持球者，并表现出中断比赛的决心。",
+                "B. 深蓝色球衣的对手站在后面，与持球者保持距离，等待传球。",
+                "C. 深蓝色球衣的对手冲到持球者的前方，封锁路线。",
+                "D. 深蓝色球衣的对手站在裁判旁边，观察比赛而不参与。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_202": {
+            "id": "9dQXiqS56Y4_202",
+            "scene": 12,
+            "dimension": "Visual-cue",
+            "question": "场景中“FIFA”标志有什么重要意义？",
+            "options": [
+                "A. “FIFA”标志位于体育场屋顶的中央，象征着国家级赛事的重要性。",
+                "B. “FIFA”标志显著地放置在右上角，突显了赛事的国际重要性。",
+                "C. “FIFA”标志出现在球员的球衣上，表明球队的赞助商。",
+                "D. “FIFA”标志显示在记分牌上，表明本地比赛的赞助商。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_203": {
+            "id": "9dQXiqS56Y4_203",
+            "scene": 12,
+            "dimension": "Count",
+            "question": "场景初期能看到有多少深蓝色球衣的球员？",
+            "options": [
+                "A. 一名白色球衣球员",
+                "B. 两名白色球衣球员",
+                "C. 三名白色球衣球员",
+                "D. 四名白色球衣球员"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_204": {
+            "id": "9dQXiqS56Y4_204",
+            "scene": 12,
+            "dimension": "Binary",
+            "question": "场景中有一位号码是‘6’的球员吗？",
+            "options": [
+                "A. 有",
+                "B. 没有",
+                "C. 未提及",
+                "D. 不确定"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_205": {
+            "id": "9dQXiqS56Y4_205",
+            "scene": 12,
+            "dimension": "Fine Grained Action",
+            "question": "白衬衫球员做了什么动作来准备击球或控制球？",
+            "options": [
+                "A. 白衬衫球员抬起左腿。",
+                "B. 白衬衫球员抬起右臂。",
+                "C. 白衬衫球员向右移动。",
+                "D. 白衬衫球员停止跑动。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_206": {
+            "id": "9dQXiqS56Y4_206",
+            "scene": 12,
+            "dimension": "Fine Grained Action",
+            "question": "身穿白色球衣的球员如何保护球不被对手抢走？",
+            "options": [
+                "A. 身穿白色球衣的球员伸出他的左臂。",
+                "B. 身穿白色球衣的球员背对对手。",
+                "C. 身穿白色球衣的球员趴在球上。",
+                "D. 身穿白色球衣的球员将球踢到空中。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_207": {
+            "id": "9dQXiqS56Y4_207",
+            "scene": 12,
+            "dimension": "Object Direction",
+            "question": "球在出界时相对于镜头正在向哪个方向移动？",
+            "options": [
+                "A. 球正在向左移动。",
+                "B. 球正在向右移动。",
+                "C. 球正在向上移动。",
+                "D. 球根本没有移动。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_208": {
+            "id": "9dQXiqS56Y4_208",
+            "scene": 12,
+            "dimension": "Spatial",
+            "question": "白球与穿白色球衣球员的脚之间的相对位置是什么？",
+            "options": [
+                "A. 球在穿白色球衣球员右脚的正前方。",
+                "B. 球在穿白色球衣球员左脚的正下方。",
+                "C. 球在穿白色球衣球员右脚的后方。",
+                "D. 球位于场地中央周围没有球员。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_209": {
+            "id": "9dQXiqS56Y4_209",
+            "scene": 12,
+            "dimension": "Camera Shot",
+            "question": "相机是否聚焦于局部冲突？",
+            "options": [
+                "A. 是的，相机聚焦于局部冲突，使观众沉浸在行动和能量中。",
+                "B. 不，相机聚焦于整个场地的广角视图。",
+                "C. 相机大多捕捉观众的反应而不是球员的动作。",
+                "D. 相机聚焦在场边热身的个别球员。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_210": {
+            "id": "9dQXiqS56Y4_210",
+            "scene": 12,
+            "dimension": "Camera Shot",
+            "question": "什么类型的镜头突出了激烈的游戏玩法？",
+            "options": [
+                "A. 广角镜头突出了激烈的游戏玩法。",
+                "B. 特写镜头突出了激烈的游戏玩法。",
+                "C. 航拍镜头突出了激烈的游戏玩法。",
+                "D. 中景镜头突出了激烈的游戏玩法。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_211": {
+            "id": "9dQXiqS56Y4_211",
+            "scene": 12,
+            "dimension": "Speed",
+            "question": "关于穿白色球衣、号码为“4”的球员的移动速度是怎么样的？",
+            "options": [
+                "A. 该球员以冲刺速度移动。",
+                "B. 该球员以控制速度移动。",
+                "C. 该球员以缓慢的速度移动。",
+                "D. 该球员是静止的。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_212": {
+            "id": "9dQXiqS56Y4_212",
+            "scene": 12,
+            "dimension": "Object Direction",
+            "question": "白色球衣上标有“4”号的球员在场景开始时的位置如何变化？",
+            "options": [
+                "A. 白色球衣上标有“4”号的球员最初向后移动。",
+                "B. 白色球衣上标有“4”号的球员一开始就带球向前冲刺。",
+                "C. 白色球衣上标有“4”号的球员站着不动，观察比赛。",
+                "D. 白色球衣上标有“4”号的球员最初移动到场地的左侧。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_213": {
+            "id": "9dQXiqS56Y4_213",
+            "scene": 12,
+            "dimension": "Object Direction",
+            "question": "白衣球员标号为“4”的位置在场景后面如何变化？",
+            "options": [
+                "A. 标号为“4”的白衣球员向中心移动。",
+                "B. 标号为“4”的白衣球员移动到左边的边路。",
+                "C. 标号为“4”的白衣球员退回到靠近球门区域的防守位置。",
+                "D. 标号为“4”的白衣球员留在边线附近。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_214": {
+            "id": "9dQXiqS56Y4_214",
+            "scene": 12,
+            "dimension": "Visual-cue",
+            "question": "在场景的背景中，哪些视觉元素是一致出现的？",
+            "options": [
+                "A. 背景中始终包括人群、广告和聚焦于玩家的明亮灯光。",
+                "B. 背景中始终显示黑暗的空看台、微弱的灯光和没有广告。",
+                "C. 背景中始终呈现安静的人群、昏暗的灯光和一个广告。",
+                "D. 背景中始终包括茂密的森林和柔和的自然光。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_215": {
+            "id": "9dQXiqS56Y4_215",
+            "scene": 13,
+            "dimension": "Spatial",
+            "question": "在Lionel Messi所在场景中，场地上有哪些空间特征？",
+            "options": [
+                "A. 场地维护良好，草地呈绿色，背景中有一条淡淡的水平白色场地。",
+                "B. 场地上覆盖着尘土和碎屑，且没有明显的标记，导致难以确定空间方位。",
+                "C. 场地维护良好，草地呈绿色，场地内有几条垂直白线交错分布。",
+                "D. 场地沙土不平，并散布着一系列圆形标记。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_216": {
+            "id": "9dQXiqS56Y4_216",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "视频场景的主要背景是什么？",
+            "options": [
+                "A. 主要背景是一场激烈的足球比赛。",
+                "B. 主要背景是一场篮球比赛。",
+                "C. 主要背景是一场网球锦标赛。",
+                "D. 主要背景是一场游泳比赛。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_217": {
+            "id": "9dQXiqS56Y4_217",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "这个视频场景的背景是什么？",
+            "options": [
+                "A. 背景是一个官方的国际足联活动。",
+                "B. 背景是一个社区足球比赛。",
+                "C. 背景是一次随意的训练。",
+                "D. 背景是一次慈善足球赛。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_218": {
+            "id": "9dQXiqS56Y4_218",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "Lionel Messi在视频中穿的是什么？",
+            "options": [
+                "A. Lionel Messi穿着一件海军蓝色的球衣，带有白色点缀。",
+                "B. Lionel Messi穿着一件红色的球衣，带有黄色点缀。",
+                "C. Lionel Messi穿着一件绿色的球衣，上面有白色条纹。",
+                "D. Lionel Messi穿着一件黑色的球衣，带有金色点缀。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_219": {
+            "id": "9dQXiqS56Y4_219",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "视频中是如何描述Lionel Messi的头发的？",
+            "options": [
+                "A. Lionel Messi有短而卷的金色头发。",
+                "B. Lionel Messi有中等长度的深棕色头发。",
+                "C. Lionel Messi有长而直的黑色头发。",
+                "D. Lionel Messi有短而尖的红色头发。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_220": {
+            "id": "9dQXiqS56Y4_220",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "在视频中，Lionel Messi的球衣显示的是哪个号码？",
+            "options": [
+                "A. 球衣上只显示‘10’。",
+                "B. 球衣上只显示‘18’。",
+                "C. 球衣上先显示‘19’。",
+                "D. 球衣上没有显示号码。"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_221": {
+            "id": "9dQXiqS56Y4_221",
+            "scene": 13,
+            "dimension": "Description-Human",
+            "question": "Lionel Messi外貌中最显著的特征是什么？",
+            "options": [
+                "A. Lionel Messi鲜艳的深蓝色的球衣和飘逸的深棕色头发。",
+                "B. Lionel Messi的球衣十分显眼，最初是编号“10”，后来变为“18”。",
+                "C. Lionel Messi扎成马尾的长发和他独特的白色球鞋。",
+                "D. Lionel Messi没有号码的球衣，但身穿颜色鲜艳的袜子。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_222": {
+            "id": "9dQXiqS56Y4_222",
+            "scene": 13,
+            "dimension": "Binary",
+            "question": "Lionel Messi在场景中的某个时刻是静止姿势吗？",
+            "options": [
+                "A. 是的，Lionel Messi在某些时刻是静止的。",
+                "B. 不，Lionel Messi在整个场景中都在运动。",
+                "C. 是的，Lionel Messi在场景中有一次暂停。",
+                "D. 不，Lionel Messi一直在奔跑，没有任何静止的时刻。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_223": {
+            "id": "9dQXiqS56Y4_223",
+            "scene": 13,
+            "dimension": "Camera Direction",
+            "question": "Lionel Messi相对于镜头是向那个方向奔跑？",
+            "options": [
+                "A. 镜头左侧。",
+                "B. 镜头右侧。",
+                "C. 镜头顶部。",
+                "D. 镜头底部。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_224": {
+            "id": "9dQXiqS56Y4_224",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "场景中哪些因素表明比赛的专业背景？",
+            "options": [
+                "A. 绿色场地的生动背景。",
+                "B. 球员的海军蓝色球衣配有白色装饰。",
+                "C. 右上角出现的“FIFA+”标志。",
+                "D. 背景中的水平白色场地标记。"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_225": {
+            "id": "9dQXiqS56Y4_225",
+            "scene": 14,
+            "dimension": "Description-Scene",
+            "question": "在品牌展示场景中，FIFA放置在哪里？",
+            "options": [
+                "A. FIFA放置在屏幕的左上角。",
+                "B. FIFA在深海军蓝背景中央位置。",
+                "C. FIFA放置在屏幕的右下角。",
+                "D. FIFA放置在绿色草坪中间并有一名足球运动员。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_226": {
+            "id": "9dQXiqS56Y4_226",
+            "scene": 14,
+            "dimension": "Description-Scene",
+            "question": "初始场景是什么？",
+            "options": [
+                "A. 明显的FIFA",
+                "B. 渐变的FIFA",
+                "C. 纯黑的画面",
+                "4. 纯白的画面"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_227": {
+            "id": "9dQXiqS56Y4_227",
+            "scene": 14,
+            "dimension": "Description-Human",
+            "question": "Lionel Messi在开场场景中做了什么？",
+            "options": [
+                "A. Lionel Messi正在厨房做饭。",
+                "B. Lionel Messi正在精力充沛地踢足球。",
+                "C. Lionel Messi正站在替补席前。",
+                "D. Lionel Messi正在参加新闻发布会。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_228": {
+            "id": "9dQXiqS56Y4_228",
+            "scene": 14,
+            "dimension": "Description-Object",
+            "question": "在品牌展示中，FIFA标志的颜色特征是什么？",
+            "options": [
+                "A. FIFA标志使用大胆纯白色文字。",
+                "B. FIFA标志主要是黑色，带有金色细节。",
+                "C. FIFA标志具有鲜艳的红色和蓝色条纹。",
+                "D. FIFA标志是绿色的，带有迷彩图案。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_229": {
+            "id": "9dQXiqS56Y4_229",
+            "scene": 14,
+            "dimension": "Description-Object",
+            "question": "在品牌宣传中，FIFA标志上展示了什么样的灯光效果？",
+            "options": [
+                "A. 标志采用了营造光环效果的灯光。",
+                "B. 标志采用了营造聚光灯效果的灯光。",
+                "C. 标志采用了营造阴影效果的灯光。",
+                "D. 标志采用了营造渐变效果的灯光。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_230": {
+            "id": "9dQXiqS56Y4_230",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "在品牌展示中，FIFA 徽标伴随哪些额外的设计元素？",
+            "options": [
+                "A. 徽标伴随有圆形或点状设计。",
+                "B. 徽标伴随有Lionel Messi的图片。",
+                "C. 徽标伴随有一个足球场。",
+                "D. 徽标伴随有写着'Goal!'的文本。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_231": {
+            "id": "9dQXiqS56Y4_231",
+            "scene": 14,
+            "dimension": "Count",
+            "question": "过渡后，正方形图案中有多少个实心白点？",
+            "options": [
+                "A. 两个实心白点",
+                "B. 三个实心白点",
+                "C. 四个实心白点",
+                "D. 五个实心白点"
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_232": {
+            "id": "9dQXiqS56Y4_232",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "品牌展示中的背景是否保持静止不变？",
+            "options": [
+                "A. 是的，背景在整个过程中完全静止不变。",
+                "B. 不是，背景会动态地不断变换颜色。",
+                "C. 是的，背景始终是一种深海军蓝的纯色。",
+                "D. 不是，背景从深海军蓝逐渐变化为中心位置较浅的蓝色渐变。"
+            ],
+            "answer": "D"
+        },
+        "9dQXiqS56Y4_233": {
+            "id": "9dQXiqS56Y4_233",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "在品牌展示过渡期间，FIFA 标志会发生什么？",
+            "options": [
+                "A. FIFA 标志会暂时模糊。",
+                "B. FIFA 标志会完全消失。",
+                "C. FIFA 标志会变成红色。",
+                "D. FIFA 标志会旋转 360 度。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_234": {
+            "id": "9dQXiqS56Y4_234",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "在品牌演示的过渡过程中出现了哪些额外的词语？",
+            "options": [
+                "A. 像'Watch'这样的词语会微妙地出现在两侧。",
+                "B. 像'Play'这样的词语会显著地出现于中心。",
+                "C. 像'Score'这样的词语会明亮地出现在顶部。",
+                "D. 像'Pause'这样的词语会清晰地出现在底部。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_235": {
+            "id": "9dQXiqS56Y4_235",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "品牌宣传中的渐变色是向哪个方向融合的？",
+            "options": [
+                "A. 颜色从深海军蓝向中央的浅蓝渐变融合。",
+                "B. 颜色从浅蓝向中央的深海军蓝渐变融合。",
+                "C. 颜色从深海军蓝向中央的白色渐变融合。",
+                "D. 颜色从灰色向中央的深海军蓝渐变融合。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_236": {
+            "id": "9dQXiqS56Y4_236",
+            "scene": 14,
+            "dimension": "Camera Shot",
+            "question": "在品牌展示中，构图是如何设计的？",
+            "options": [
+                "A. 构图稳重，并专注于文字元素。",
+                "B. 构图凌乱，包含多个设计元素。",
+                "C. 构图频繁变化，充满鲜艳的色彩。",
+                "D. 构图集中于Lionel Messi踢足球。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_237": {
+            "id": "9dQXiqS56Y4_237",
+            "scene": 14,
+            "dimension": "Attribute Change",
+            "question": "场景终端品牌展示的文本清晰度是如何随着时间变化的？",
+            "options": [
+                "A. 文本变得更加清晰，变得更易读。",
+                "B. 文本始终保持模糊状态，没有太大变化。",
+                "C. 文本逐渐变得更暗且不易阅读。",
+                "D. 文本引入了五彩缤纷的动画，分散了阅读注意力。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_238": {
+            "id": "9dQXiqS56Y4_238",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "哪些视觉元素有助于品牌演示的专业美感？",
+            "options": [
+                "A. 流畅的渐变背景、发光的和实心的白点",
+                "B. 充满活力的足球动作和Lionel Messi的动态移动",
+                "C. 深绿色的球场和阿根廷海军蓝球衣",
+                "D. 鲜艳的颜色和Lionel Messi球衣上的数字“18”"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_239": {
+            "id": "9dQXiqS56Y4_239",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "换人场景开头中央人物穿着什么？",
+            "options": [
+                "A. 一件深蓝色的阿根廷国家足球队球衣，编号为19，肩上有白色条纹，并带有阿根廷足球协会徽章。",
+                "B. 一件亮黄色的阿根廷国家足球队球衣，红色条纹，编号为10。",
+                "C. 一件深蓝色的阿根廷国家足球队球衣，编号为19，肩上有白色条纹，并带有阿根廷足球协会徽章。",
+                "D. 一件白色的阿根廷国家足球队球衣，带有蓝色装饰和编号8。"
+            ],
+            "answer": "C"
+        },
+        "9dQXiqS56Y4_240": {
+            "id": "9dQXiqS56Y4_240",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "当足球运动员在画面中间移动时，哪个元素一种保持不变？",
+            "options": [
+                "A. 背景中的FIFA标志。",
+                "B. 背景中的阿根廷国旗。",
+                "C. 背景中的记分牌。",
+                "D. 背景中的欢呼的人群。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_241": {
+            "id": "9dQXiqS56Y4_241",
+            "scene": "-1",
+            "dimension": "Camera Shot",
+            "question": "场景如何从充满活力的人群转向对足球场的更亲密关注？",
+            "options": [
+                "A. 场景从充满活力的体育场观众转到球员的特写镜头。",
+                "B. 场景从明亮的体育场灯光转向整个足球场的广角视图。",
+                "C. 场景从人群转到场地的航拍视图，突出球队的阵型。",
+                "D. 场景从观众淡出到显示比赛统计的记分牌。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_242": {
+            "id": "9dQXiqS56Y4_242",
+            "scene": "-1",
+            "dimension": "Description-Object",
+            "question": "为什么换人牌在场景中显得特别重要？",
+            "options": [
+                "A. 换人牌用来显示比赛结束。",
+                "B. 换人牌可以展示更换人员信息。",
+                "C. 换人牌是比赛中的一个装饰元素。",
+                "D. 换人牌用于展示赞助商的广告。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_243": {
+            "id": "9dQXiqS56Y4_243",
+            "scene": "-1",
+            "dimension": "Binary",
+            "question": "Maxi Rodriguez的登场在换人背景下意味着什么？",
+            "options": [
+                "A. Maxi Rodriguez的登场象征着即将被换下场，突出比赛战术决策。",
+                "B. Maxi Rodriguez的登场象征着中场休息，用于休整和调整策略。",
+                "C. Maxi Rodriguez的登场象征着一场无竞争性质的友谊赛开始。",
+                "D. Maxi Rodriguez的登场象征着比赛结束，球员离场。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_244": {
+            "id": "9dQXiqS56Y4_244",
+            "scene": "-1",
+            "dimension": "Description-Human",
+            "question": "人群充满活力的举止反映了什么关于整体事件的信息？",
+            "options": [
+                "A. 人群的热情和激动的手势表现出了他们对阿根廷足球队在国际比赛中高度的民族自豪感和集体兴奋感。",
+                "B. 人群反应的平淡和零星的掌声反映出他们对正在进行的比赛感到无聊和缺乏兴趣。",
+                "C. 人群的沉默和平静的举止表明他们正在观看一场非竞争性质的训练赛。",
+                "D. 人群的偶尔欢呼和轻微掌声反映了一种悠闲的氛围和对比赛的随意兴趣。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_245": {
+            "id": "9dQXiqS56Y4_245",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "人群的横幅反映了关于整个活动的什么？",
+            "options": [
+                "A. 横幅反映了在国际比赛中对阿根廷足球队的高度民族自豪感和集体兴奋。",
+                "B. 横幅集中在推广与活动无关的本地企业和服务。",
+                "C. 横幅突出与当前比赛无关的个别球员的成就。",
+                "D. 横幅强调在活动期间的环境意识和可持续发展努力。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_246": {
+            "id": "9dQXiqS56Y4_246",
+            "scene": "-1",
+            "dimension": "Fine Grained Action",
+            "question": "18号球员与队友互动后会发生什么？",
+            "options": [
+                "A. 球员进球。",
+                "B. 即将被轮换下场。",
+                "C. 场景转向体育场内观众。",
+                "D. 比赛暂停片刻。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_247": {
+            "id": "9dQXiqS56Y4_247",
+            "scene": "-1",
+            "dimension": "Description-Human",
+            "question": "在视野扩展时，绿色衣服的工作人员在换人过程中做什么？",
+            "options": [
+                "A. 绿色衣服的工作人员进入场地指导球员完成换人。",
+                "B. 绿色衣服的工作人员举起一个电子换人牌，分别表示离场球员和入场球员。",
+                "C. 绿色衣服的工作人员挥舞旗帜，表示换人过程已经开始。",
+                "D. 绿色衣服的工作人员在边线放置标志锥以标记换人区域。"
+            ],
+            "answer": "B"
+        },
+        "9dQXiqS56Y4_248": {
+            "id": "9dQXiqS56Y4_248",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "Lionel Messi过渡到品牌场景时，最后重点强调了哪些细节？",
+            "options": [
+                "A. 画面过渡到一个流畅、极简的品牌视觉，集中展示“FIFA”标志，以及类似于“Watch More On”和“Watch Next”的提示。",
+                "B. 画面过渡到一个热闹、充满活力的视觉效果，集中展示足球队欢呼的场景，并突出“Goal”和“Victory”等字样。",
+                "C. 场景切换到一个充满动作感的片段，展示另一名球员尝试射门，并配有“Replay”和“Highlights的提示。",
+                "D. 画面过渡到一段宣传视频，展示Lionel Messi的训练过程，并配有“Training Tips”和“Exclusive Interview”等提示。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_249": {
+            "id": "9dQXiqS56Y4_249",
+            "scene": "-1",
+            "dimension": "Description-Human",
+            "question": "为什么在比赛画面间隔中会出现穿着阿根廷队球衣的支持者构成的充满活力的观众镜头？",
+            "options": [
+                "A. 观众镜头强调了围绕比赛的情感支持和民族主义，增强了赛事的氛围和叙事效果。",
+                "B. 观众镜头旨在展示阿根廷队球衣的新设计，吸引更多商品购买者。",
+                "C. 观众镜头为动作场景之间的广告插播提供了间隔。",
+                "D. 观众镜头展示了不守秩序的支持者引发的混乱和问题，表明需要加强安保措施。"
+            ],
+            "answer": "A"
+        },
+        "9dQXiqS56Y4_250": {
+            "id": "9dQXiqS56Y4_250",
+            "scene": "-1",
+            "dimension": "Visual-cue",
+            "question": "为什么在转换场景的背景环境中包含像FIFA标志和体育场横幅这样的元素？",
+            "options": [
+                "A. 一致的背景元素确保观众沉浸在国际足球比赛的专业和正式氛围中。",
+                "B. 背景元素是用来通过鲜艳的颜色和动画来分散观众注意力的。",
+                "C. 这些元素旨在向观众推销不相关的产品。",
+                "D. 背景过渡旨在以创意效果混淆观众。"
+            ],
+            "answer": "A"
+        }
+    }
+}

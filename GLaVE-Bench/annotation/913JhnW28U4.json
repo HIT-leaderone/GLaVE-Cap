@@ -1,0 +1,1416 @@
+{
+    "scene_hint": {
+        "0": "画面聚焦一位参赛选手",
+        "1": "选手的动作姿势展示",
+        "2": "比赛进展的画面与数据。",
+        "3": "选手漂浮在水中",
+        "4": "选手站在领奖台上接受颁奖。",
+        "5": "选手在领奖台上合照。"
+    },
+    "qa": {
+        "913JhnW28U4_0": {
+            "id": "913JhnW28U4_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "焦点选手在图像中的位置整体上在哪里？",
+            "options": [
+                "A. 该人位于图像的左侧。",
+                "B. 该人位于图像的右侧。",
+                "C. 该人位于图像的中央区域。",
+                "D. 该人位于图像的底部。"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_1": {
+            "id": "913JhnW28U4_1",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "焦点选手左胸上是什么？",
+            "options": [
+                "A. 带有黄色星星的红色国旗。",
+                "B. 是显示徽标和广告。",
+                "C. 是他的号码牌。",
+                "D. 是选手的名字信息。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_2": {
+            "id": "913JhnW28U4_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "场景初始画面的背景中有什么？",
+            "options": [
+                "A. 一个数字显示屏。",
+                "B. 一份参赛名单。",
+                "C. 一面有枫叶的旗子。",
+                "D. 正在播放的视频动画。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_3": {
+            "id": "913JhnW28U4_3",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "整个场景的环境如何？",
+            "options": [
+                "A. 场景是一个室内游泳场馆。",
+                "B. 场景是一个户外运动场。",
+                "C. 场景是一个热闹的市场。",
+                "D. 场景是一个室内跳水场馆。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_4": {
+            "id": "913JhnW28U4_4",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "这场景看起来在描述什么事件？",
+            "options": [
+                "A. 一场游泳竞技比赛",
+                "B. 一场田径比赛",
+                "C. 一场国际网球锦标赛",
+                "D. 一场体操锦标赛"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_5": {
+            "id": "913JhnW28U4_5",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "场景开始时，这个选手的穿着如何？",
+            "options": [
+                "A. 穿着一件黑色长羽绒服，戴着一顶黑色帽。",
+                "B. 穿着一件红色外套，戴着黑色帽。",
+                "C. 穿着一件蓝色风衣，配有一条红色围巾。",
+                "D. 穿着一件绿色连帽衫和一顶黄色棒球帽。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_6": {
+            "id": "913JhnW28U4_6",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "这个选手有拿过什么物品？",
+            "options": [
+                "A. 拿着“UPCX”字样的纸质标识贴牌。",
+                "B. “MYRTHA POOLS”字样的红色毛巾。",
+                "C. 他拿着一条没有文字的蓝色毛巾。",
+                "D. 他双手拿着一副护目镜和一个泳帽。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_7": {
+            "id": "913JhnW28U4_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "背景中的电子显示板上有什么标志？",
+            "options": [
+                "A. 印有中文字符的 '农夫山泉' 广告，以及欧米茄标志。",
+                "B. 印有中文字符的 '雪碧' 广告，以及阿迪达斯标志。",
+                "C. 印有中文字符的 '农夫山泉' 广告，以及耐克标志。",
+                "D. 印有中文字符的 '可口可乐' 广告，以及彪马标志。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_8": {
+            "id": "913JhnW28U4_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "可见的起跳台编号是多少？",
+            "options": [
+                "A. 起跳台的编号是1和2。",
+                "B. 起跳台的编号是3和4。",
+                "C. 起跳台的编号是5和6。",
+                "D. 起跳台的编号是7和8。"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_9": {
+            "id": "913JhnW28U4_9",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "这个选手采取了什么行动？",
+            "options": [
+                "A. 这个选手准备了新的装备，包括毛巾和水瓶。",
+                "B. 这个选手摘下了贴牌，并且脱下了他的外衣。",
+                "C. 这个选手检查了他的秒表，并为附近的运动员提供帮助。",
+                "D. 这个选手拍摄了照片，并检查了他的摄影设备。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_10": {
+            "id": "913JhnW28U4_10",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "这个选手朝哪个方向移动？",
+            "options": [
+                "A. 朝着观众台移动。",
+                "B. 朝起跳台移动。",
+                "C. 远离起跳台。",
+                "D. 朝电子显示板移动。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_11": {
+            "id": "913JhnW28U4_11",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "场景中使用的摄像机角度是什么？",
+            "options": [
+                "A. 摄像机角度是平视角度。",
+                "B. 摄像机角度是俯视角度。",
+                "C. 摄像机角度是低角度拍摄。",
+                "D. 摄像机角度是越肩拍摄。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_12": {
+            "id": "913JhnW28U4_12",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "这个选手在场景中是如何移动的？",
+            "options": [
+                "A. 快速跑动。",
+                "B. 以稳定的步伐走动。",
+                "C. 有节奏的慢跑。",
+                "D. 保持静止与环境融为一体。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_13": {
+            "id": "913JhnW28U4_13",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "能够观察到哪些背景元素的变化？",
+            "options": [
+                "A. 体育场灯光和活动品牌标志保持一致。",
+                "B. 数字显示板和相关标识被不同的广告替换了。",
+                "C. 大而鲜艳的红旗被蓝色的白星旗取代。",
+                "D. 比赛名单发生了变化，包含了不同的名字。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_14": {
+            "id": "913JhnW28U4_14",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "画面左下角的展示板上表明Zhanle Pan的有效成绩是多少？",
+            "options": [
+                "A. 47.73，蓝色的QT表明这是其有效成绩",
+                "B. 47.73，绿色的QT表明这是其有效成绩",
+                "C. 47.53，绿色的QT表明这是其有效成绩",
+                "D. 47.53，绿色的QT表明这是其有效成绩"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_15": {
+            "id": "913JhnW28U4_15",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "画面左下角的展示板上表明当前是什么比赛？",
+            "options": [
+                "A. 'Men's 100m Freestyle'",
+                "B. 'Men's 200m Butterfly'",
+                "C. 'Men's 4x100m Medley Relay'",
+                "D. 'Men's 50m Backstroke'"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_16": {
+            "id": "913JhnW28U4_16",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "画面左下角的电子屏幕上有什么标识？",
+            "options": [
+                "A. 每一位选手的历史成绩",
+                "B. 'WORLD AQUATICS DOHA 2024'",
+                "C. 枫叶图案的一面旗子图标",
+                "D. 'UPCYC'和欧米茄标志图案"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_17": {
+            "id": "913JhnW28U4_17",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "这个选手的位置在哪里？",
+            "options": [
+                "A. 这个选手站在赛场旁边。",
+                "B. 这个选手坐在观众席。",
+                "C. 这个选手站在讲台前。",
+                "D. 这个选手在更衣室休息。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_18": {
+            "id": "913JhnW28U4_18",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "这个男人正在从事什么活动？",
+            "options": [
+                "A. 男人正在整理他的服装。",
+                "B. 男人正在游泳池游泳。",
+                "C. 男人正在接受采访。",
+                "D. 男人正在举着奖杯。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_19": {
+            "id": "913JhnW28U4_19",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "这个男人衣服上是什么标志？",
+            "options": [
+                "A. 黄色的安踏标志",
+                "B. 白色的速比涛标志",
+                "C. 白色的阿迪达斯标注",
+                "D. 黑色的熊猫标志"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_20": {
+            "id": "913JhnW28U4_20",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "场景结束时，这个选手穿着什么？",
+            "options": [
+                "A. 一件黑色羽绒服。",
+                "B. 一件蓝色羽绒服，一件带红色装饰的白色夹克。",
+                "C. 一件红白外套，一件白色T恤衫。",
+                "D. 一件黑色雨衣，一件带蓝色方格的白色衬衫。"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_21": {
+            "id": "913JhnW28U4_21",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "在室内环境中，横幅上的“OMEGA”字样是否可见？",
+            "options": [
+                "A. 是",
+                "B. 否，横幅上是“Alpha”",
+                "C. 只有部分可见",
+                "D. 横幅上没有字母"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_22": {
+            "id": "913JhnW28U4_22",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "相机强调了这个男人的什么？",
+            "options": [
+                "A. 相机聚焦于男人详细的穿着。",
+                "B. 相机聚焦于男人的热身运动。",
+                "C. 相机聚焦于男人与观众的互动。",
+                "D. 相机捕捉了男人的面部表情。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_23": {
+            "id": "913JhnW28U4_23",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "场景最后，这个男人服装的哪些特点变得更加突出？",
+            "options": [
+                "A. 印有“PAN”和“Speedo”标志的白色泳帽。",
+                "B. 带有Puma标志和红色中国旗帜贴片的羽绒服。",
+                "C. 白色衬衫上带有淡蓝色方块和黄色字符。",
+                "D. 带有“Speedo”标志的头盔和红紫渐变条幅。"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_24": {
+            "id": "913JhnW28U4_24",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "观众的位置与泳池的关系是怎样的？",
+            "options": [
+                "A. 观众在围绕泳池的白色栏杆后面。",
+                "B. 观众坐在泳池外围的边缘。",
+                "C. 观众在围绕泳池的黄色栏杆后面。",
+                "D. 观众依靠在泳池外围的挡板上。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_25": {
+            "id": "913JhnW28U4_25",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "比赛场景发生在哪里？",
+            "options": [
+                "A. 场景发生在一个室内游泳池的竞技场。",
+                "B. 场景发生在一个室外游泳池的竞技场。",
+                "C. 场景发生在一个私人游泳池，没有观众。",
+                "D. 场景发生在一个室外海滩的业余场地。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_26": {
+            "id": "913JhnW28U4_26",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "游泳比赛现场氛围如何？",
+            "options": [
+                "A. 面前是座无虚席的观众。",
+                "B. 有零零散散少量观众观看。",
+                "C. 没有观众。",
+                "D. 有一个小团体的观众群体。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_27": {
+            "id": "913JhnW28U4_27",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "场景开始时，离镜头最近的游泳者穿着什么？",
+            "options": [
+                "A. 蓝色泳裤和红色泳帽",
+                "B. 绿色泳裤和黄色泳帽",
+                "C. 黑色泳裤和白色泳帽",
+                "D. 红色泳裤和蓝色泳帽"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_28": {
+            "id": "913JhnW28U4_28",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "场景开始时，离镜头最近的那个运动员有纹身吗？",
+            "options": [
+                "A. 那个运动员有复杂的纹身。",
+                "B. 那个运动员有简单的纹身。",
+                "C. 那个运动员没有纹身。",
+                "D. 那个运动员有彩色的纹身。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_29": {
+            "id": "913JhnW28U4_29",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "场景开始时，选手是什么姿势？",
+            "options": [
+                "A. 在起跳台上采取蹲踞的起跳姿势。",
+                "B. 选手站直，双手放在臀部上。",
+                "C. 选手坐在起跳台上放松。",
+                "D. 选手向后倾斜以拉伸和热身。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_30": {
+            "id": "913JhnW28U4_30",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "场景开始时，广告位于画面的什么位置？",
+            "options": [
+                "A. 广告位于画面左上象限。",
+                "B. 广告位于画面右下象限。",
+                "C. 广告位于起跑区的上方。",
+                "D. 广告位于观众席的后面。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_31": {
+            "id": "913JhnW28U4_31",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "入水后的镜头视角是什么样的？",
+            "options": [
+                "A. 水平摄像机角度",
+                "B. 侧视摄像机角度",
+                "C. 低角度摄像机角度",
+                "D. 特写摄像机角度"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_32": {
+            "id": "913JhnW28U4_32",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "哪些横幅表明了比赛的性质？",
+            "options": [
+                "A. 'Local Swim Club Championship 2024'",
+                "B. 'World Aquatics – Doha 2024'",
+                "C. 'Regional Swimming Meet 2024'",
+                "D. 'National Aquatics – Doha 2024'"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_33": {
+            "id": "913JhnW28U4_33",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "起跳台上的裁判员相对于游泳运动员的位置在哪里？",
+            "options": [
+                "A. 在泳池的侧面",
+                "B. 在游泳运动员的后面",
+                "C. 在游泳运动员的前面",
+                "D. 在看台上"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_34": {
+            "id": "913JhnW28U4_34",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "游泳池正在发生什么事件？",
+            "options": [
+                "A. 游泳比赛",
+                "B. 跳水表演",
+                "C. 水球比赛",
+                "D. 花样游泳表演"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_35": {
+            "id": "913JhnW28U4_35",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "泳池泳道分隔线使用了哪些颜色？",
+            "options": [
+                "A. 鲜艳的红色、黄色、蓝色",
+                "B. 明亮的绿色、橙色、粉色",
+                "C. 深蓝色、白色、灰色",
+                "D. 浅紫色、青绿色、银色"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_36": {
+            "id": "913JhnW28U4_36",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "有多少戴红色泳帽的游泳者在跳入游泳池时被拍到？",
+            "options": [
+                "A. 没有",
+                "B. 一个",
+                "C. 两个",
+                "D. 三个"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_37": {
+            "id": "913JhnW28U4_37",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "视频中有字幕吗？",
+            "options": [
+                "A. 一直都有",
+                "B. 没有",
+                "C. 只有特定时刻有",
+                "D. 只有开始时有"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_38": {
+            "id": "913JhnW28U4_38",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "场景视角是如何变化的？",
+            "options": [
+                "A. 视角从水面上的视图转变为水下视图。",
+                "B. 视角从观众的特写变为观看官员。",
+                "C. 视角从专注于官员变为观看观众。",
+                "D. 视角从水下视图转换为水面上的视图。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_39": {
+            "id": "913JhnW28U4_39",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中的文本标签提供了什么信息？",
+            "options": [
+                "A. 'Men’s 100m Freestyle'",
+                "B. 'Swimming Finals'",
+                "C. 'Men’s 200m Freestyle'",
+                "D. '100m Butterfly'"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_40": {
+            "id": "913JhnW28U4_40",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中的比赛文本标签是什么样的？",
+            "options": [
+                "A. 白色字体，蓝色不透明背景。",
+                "B. 黑色字体，蓝色透明背景。",
+                "C. 红色色字体，蓝色不透明背景。",
+                "D. 白色字体，红色不透明背景。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_41": {
+            "id": "913JhnW28U4_41",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "场景开始时过渡到了什么视角？",
+            "options": [
+                "A. 场景过渡到水上视角。",
+                "B. 场景过渡到比赛的广角空中镜头。",
+                "C. 场景过渡到观众的特写。",
+                "D. 场景过渡到泳池记分板的静态镜头。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_42": {
+            "id": "913JhnW28U4_42",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景中重点突出的是什么？",
+            "options": [
+                "A. 运动员有力的划水动作。",
+                "B. 主要关注的是泳衣的颜色。",
+                "C. 观众的反应是主要亮点。",
+                "D. 强调的是泳池周围的广告。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_43": {
+            "id": "913JhnW28U4_43",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景中描绘的事件场景是什么？",
+            "options": [
+                "A. 场景是一个专业游泳比赛环境。",
+                "B. 事件是一个休闲的海滩聚会。",
+                "C. 场景是一个当地社区游泳池。",
+                "D. 环境是一个室内游泳练习场。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_44": {
+            "id": "913JhnW28U4_44",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "红帽子的游泳者有什么显著特点？",
+            "options": [
+                "A. 红帽子的游泳者以快速流畅的自由泳动作突出表现。",
+                "B. 红帽子的游泳者在比赛中不断停下来调整游泳帽。",
+                "C. 红帽子的游泳者在比赛中遥遥领先其他选手。",
+                "D. 红帽子的游泳者难以跟上其他参赛者的步伐。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_45": {
+            "id": "913JhnW28U4_45",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景中对赞助广告描述正确的是？",
+            "options": [
+                "A. 场景中显示了中英文赞助广告。",
+                "B. 场景中没有可见的赞助广告。",
+                "C. 场景中只展示了英文赞助广告。",
+                "D. 赞助广告在视频中是模糊且无法辨认的。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_46": {
+            "id": "913JhnW28U4_46",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景中显眼的横幅有哪些？",
+            "options": [
+                "A. Baden, Adidas和Go Swimming",
+                "B. 多家游泳服装公司的横幅",
+                "C. WORLD，农夫山泉等赞助商横幅",
+                "D. 激励性名言和游泳运动员统计数据的横幅"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_47": {
+            "id": "913JhnW28U4_47",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "场景中显著可见的图形覆盖有哪些？",
+            "options": [
+                "A. 带有实时更新的图形覆盖",
+                "B. 带有历史比赛数据的图形覆盖",
+                "C. 带有天气信息的图形覆盖",
+                "D. 带有观众反应的图形覆盖"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_48": {
+            "id": "913JhnW28U4_48",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "场景中提到了多少名游泳者？",
+            "options": [
+                "A. 两名游泳者",
+                "B. 四名游泳者",
+                "C. 六名游泳者",
+                "D. 八名游泳者"
+            ],
+            "answer": "D"
+        },
+        "913JhnW28U4_49": {
+            "id": "913JhnW28U4_49",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "比赛的详细信息是否在画面中显示？",
+            "options": [
+                "A. 是的",
+                "B. 不是",
+                "C. 仅在开始时",
+                "D. 仅在结束时"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_50": {
+            "id": "913JhnW28U4_50",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "比赛期间会显示赛道和选手对应信息吗？",
+            "options": [
+                "A. 会",
+                "B. 不会",
+                "C. 偶尔会",
+                "D. 只会在最后显示"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_51": {
+            "id": "913JhnW28U4_51",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "场景后半段使用了什么镜头？",
+            "options": [
+                "A. 特写镜头。",
+                "B. 广角镜头。",
+                "C. 慢动作镜头。",
+                "D. 放大画面镜头。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_52": {
+            "id": "913JhnW28U4_52",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "图形叠加提供了哪些信息？",
+            "options": [
+                "A. 图形叠加实时提供参赛者姓名、国家、排名等信息。",
+                "B. 图形叠加仅提供比赛中参赛者的姓名和国家信息。",
+                "C. 图形叠加提供关于参赛者使用的游泳技术的详细信息。",
+                "D. 图形叠加提供赛事期间的赞助商和广告信息。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_53": {
+            "id": "913JhnW28U4_53",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "泳池里的泳道编号显示在哪里？",
+            "options": [
+                "A. 泳道编号显示在每条泳道上方的浮动板上。",
+                "B. 泳道编号显示在泳池的侧墙上。",
+                "C. 泳道编号显示在泳池底部。",
+                "D. 泳道编号显示在游泳者的泳帽上。"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_54": {
+            "id": "913JhnW28U4_54",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "国家的国旗在游泳池的哪里展示？",
+            "options": [
+                "A. 国旗展示在每条泳道上方。",
+                "B. 国旗展示在泳池周围的横幅上。",
+                "C. 国旗展示在游泳运动员的泳衣上。",
+                "D. 国旗展示在泳池的侧墙上。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_55": {
+            "id": "913JhnW28U4_55",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "在比赛期间一名工作人员正在使用什么？",
+            "options": [
+                "A. 一名官员正在使用一个夹板。",
+                "B. 一名官员正在使用一台相机。",
+                "C. 一名官员正在使用一个秒表。",
+                "D. 一名官员正在使用一个平板电脑。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_56": {
+            "id": "913JhnW28U4_56",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "该活动背景中突出的特点是什么?",
+            "options": [
+                "A. Omega, Yakult, Myrtha Pools,361°这些标志",
+                "B. 参赛游泳选手的国家旗帜悬挂在泳池上方。",
+                "C. 一个大型电子屏幕显示比赛的现场视频。",
+                "D. 一群观众挥舞旗帜和横幅。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_57": {
+            "id": "913JhnW28U4_57",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "泳池边缘有多少名工作人员可见？",
+            "options": [
+                "A. 三名",
+                "B. 六名",
+                "C. 九名",
+                "D. 十名"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_58": {
+            "id": "913JhnW28U4_58",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "排行榜是否位于框架的右侧？",
+            "options": [
+                "A. 是的，排行榜位于框架的右侧。",
+                "B. 不，排行榜位于框架的左侧。",
+                "C. 是的，排行榜在框架的左右两侧交替出现。",
+                "D. 不，排行榜位于框架的底部。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_59": {
+            "id": "913JhnW28U4_59",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "在场景前半段，游泳运动员朝哪个方向移动？",
+            "options": [
+                "A. 游泳运动员正朝画面的左侧移动。",
+                "B. 游泳运动员正朝画面的上方移动。",
+                "C. 游泳运动员正朝画面的右侧移动。",
+                "D. 游泳运动员正朝画面的下方移动。"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_60": {
+            "id": "913JhnW28U4_60",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "比赛在哪里进行？",
+            "options": [
+                "A. 比赛在后院的游泳池里进行。",
+                "B. 比赛在专业的竞赛泳池里进行。",
+                "C. 比赛在天然河流环境中进行。",
+                "D. 比赛在休闲水上乐园中进行。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_61": {
+            "id": "913JhnW28U4_61",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Zhanle Pan在场景的什么位置？",
+            "options": [
+                "A. 看台上",
+                "B. 在泳池边",
+                "C. 更衣室里",
+                "D. 跳板附近"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_62": {
+            "id": "913JhnW28U4_62",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "场景中Zhanle Pan看起来是什么样的？",
+            "options": [
+                "A. Zhanle Pan的右臂举出水面，水滴滚落下来。",
+                "B. Zhanle Pan站在泳池边，双手举过头顶，为观众鼓掌。",
+                "C. Zhanle Pan坐在池边，向观众挥手。",
+                "D. Zhanle Pan在水下抓着泳道隔离线，没有做任何庆祝的姿势。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_63": {
+            "id": "913JhnW28U4_63",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "潘湛乐的手臂有多少只可以看到？",
+            "options": [
+                "A. 可以看到一只手臂。",
+                "B. 可以看到两只手臂。",
+                "C. 可以看到三只手臂。",
+                "D. 看不到任何手臂。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_64": {
+            "id": "913JhnW28U4_64",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "Zhanle Pan的泳帽上有任何标志吗？",
+            "options": [
+                "A. 有，Zhanle Pan的泳帽上有中国国旗。",
+                "B. 没有，Zhanle Pan的泳帽上没有任何标志或特殊特征。",
+                "C. 有，Zhanle Pan的泳帽上有金色的奥运五环。",
+                "D. 没有，Zhanle Pan的泳帽上只有文字，没有标志。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_65": {
+            "id": "913JhnW28U4_65",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "展乐潘用他的头做了什么？",
+            "options": [
+                "A. 他的头侧甩掉上面的水珠。",
+                "B. 他的头沉入水中。",
+                "C. 他的头向后仰以示疲惫。",
+                "D. 他的头保持静止不动。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_66": {
+            "id": "913JhnW28U4_66",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "使用哪种类型的镜头来捕捉潘展乐？",
+            "options": [
+                "A. 广角镜头",
+                "B. 特写镜头",
+                "C. 远景镜头",
+                "D. 航拍镜头"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_67": {
+            "id": "913JhnW28U4_67",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Zhanle Pan在比赛中取得了什么成绩？",
+            "options": [
+                "A. Zhanle Pan的成绩是47.53秒。",
+                "B. Zhanle Pan的成绩是48.00秒。",
+                "C. Zhanle Pan的成绩是46.75秒。",
+                "D. Zhanle Pan的成绩是49.20秒。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_68": {
+            "id": "913JhnW28U4_68",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "在潘展乐获胜后，排行榜有哪些更新？",
+            "options": [
+                "A. 排行榜反映了潘展乐的用时成绩。",
+                "B. 排行榜显示了潘展乐的世界纪录。",
+                "C. 排行榜仅显示潘展乐的名字。",
+                "D. 排行榜更改为显示下一个赛事的详细信息。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_69": {
+            "id": "913JhnW28U4_69",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "哪个叠加层突出展示了潘展乐的胜利？",
+            "options": [
+                "A. 一个蓝色叠加层。",
+                "B. 一个红色叠加层。",
+                "C. 一个黄色叠加层。",
+                "D. 一个绿色叠加层。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_70": {
+            "id": "913JhnW28U4_70",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "视频中的灯光效果如何？",
+            "options": [
+                "A. 灯光昏暗且充满情调。",
+                "B. 灯光明亮。",
+                "C. 灯光在明亮和昏暗之间交替。",
+                "D. 灯光以阴影为主，伴有一些光亮。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_71": {
+            "id": "913JhnW28U4_71",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "在泳池里可见有多少游泳者？",
+            "options": [
+                "A. 一名游泳者",
+                "B. 两名游泳者",
+                "C. 三名游泳者",
+                "D. 四名游泳者"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_72": {
+            "id": "913JhnW28U4_72",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "泳池的水是静止的吗？",
+            "options": [
+                "A. 是的，泳池的水完全静止。",
+                "B. 不是，泳池的水有波纹和气泡。",
+                "C. 泳池里面的水被抽干了。",
+                "D. 不是，泳池的水很湍急和波动。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_73": {
+            "id": "913JhnW28U4_73",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "潘展乐的姿势发生了什么变化？",
+            "options": [
+                "A. 他看起来比较紧张。",
+                "B. 他的姿势变得相对稳定放松。",
+                "C. 他开始向观众挥手庆祝。",
+                "D. 他重新跳入水中。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_74": {
+            "id": "913JhnW28U4_74",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "金属梯子位于哪里？",
+            "options": [
+                "A. 金属梯子位于画面左侧。",
+                "B. 金属梯子位于画面右侧。",
+                "C. 金属梯子位于画面中央。",
+                "D. 场景中看不到金属梯子。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_75": {
+            "id": "913JhnW28U4_75",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "颁奖典礼在哪里举行？",
+            "options": [
+                "A. 颁奖典礼在室内场馆举行。",
+                "B. 颁奖典礼在游泳池旁举行。",
+                "C. 颁奖典礼在广场举行。",
+                "D. 颁奖典礼在校园内举行。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_76": {
+            "id": "913JhnW28U4_76",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "颁奖典礼上潘展乐穿的是什么夹克？",
+            "options": [
+                "A. 一件红白相间的运动夹克",
+                "B. 一件蓝金色的正式夹克",
+                "C. 一套黑色西装",
+                "D. 一件纯白色T恤"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_77": {
+            "id": "913JhnW28U4_77",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "颁奖典礼上潘展乐的脖子上戴着什么配饰？",
+            "options": [
+                "A. 一枚金牌",
+                "B. 一枚银牌",
+                "C. 一条蓝色丝带",
+                "D. 一条红色围巾"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_78": {
+            "id": "913JhnW28U4_78",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "颁奖典礼期间Zhanle Pan戴着什么头饰?",
+            "options": [
+                "A. Zhanle Pan戴着一顶黑色帽子。",
+                "B. Zhanle Pan戴着一顶红色帽子。",
+                "C. Zhanle Pan没有戴任何头饰。",
+                "D. Zhanle Pan戴着一顶白色帽子。"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_79": {
+            "id": "913JhnW28U4_79",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "在仪式上，穿深蓝色服装的女人手里拿着什么？",
+            "options": [
+                "A. 一个带有玩偶的黑色托盘。",
+                "B. 一个带有红色天鹅绒垫的银色托盘。",
+                "C. 一个附有蓝色丝带的金色奖杯。",
+                "D. 一束用白色丝带包裹的花。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_80": {
+            "id": "913JhnW28U4_80",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "场景中有多少名运动员可见？",
+            "options": [
+                "A. 有一名运动员。",
+                "B. 有两名运动员。",
+                "C. 有三名运动员。",
+                "D. 没有运动员。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_81": {
+            "id": "913JhnW28U4_81",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "颁奖典礼的背景是蓝色的吗？",
+            "options": [
+                "A. 是的，它是蓝色的。",
+                "B. 不，它是红色的。",
+                "C. 不，它是白色的。",
+                "D. 不，它是绿色的。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_82": {
+            "id": "913JhnW28U4_82",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "站在边缘的运动员做了什么？",
+            "options": [
+                "A. 举起手行礼。",
+                "B. 看了一下手表。",
+                "C. 一直站在原地。",
+                "D. 向观众示意。"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_83": {
+            "id": "913JhnW28U4_83",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "场景最后，穿黑色西装的官员朝哪个方向移动？",
+            "options": [
+                "A. 穿黑色西装的官员向画面右侧移动。",
+                "B. 穿黑色西装的官员向画面左侧移动。",
+                "C. 穿黑色西装的官员走向讲台。",
+                "D. 穿黑色西装的官员远离讲台。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_84": {
+            "id": "913JhnW28U4_84",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "什么类型的摄影镜头用于捕捉潘展乐与官员之间的互动？",
+            "options": [
+                "A. 使用了特写镜头。",
+                "B. 使用了广角镜头。",
+                "C. 使用了中景镜头。",
+                "D. 使用了航拍镜头。"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_85": {
+            "id": "913JhnW28U4_85",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "背景中的有哪些视觉元素？",
+            "options": [
+                "A. 背景包括“Myrtha Pools”、“Yakult”和“OMEGA”的标志。",
+                "B. 背景展示了一张潘展乐在泳池中游泳的大幅图片。",
+                "C. 背景显示了一个数字计时器。",
+                "D. 背景包括明亮的舞台灯光和装饰气球。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_86": {
+            "id": "913JhnW28U4_86",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "在领奖台仪式上，Zhanle Pan的位置在哪里？",
+            "options": [
+                "A. Zhanle Pan位于领奖台的中央。",
+                "B. Zhanle Pan位于领奖台的左侧。",
+                "C. Zhanle Pan位于领奖台的右侧。",
+                "D. Zhanle Pan不在领奖台上。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_87": {
+            "id": "913JhnW28U4_87",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "颁奖仪式的整体氛围如何？",
+            "options": [
+                "A. 室内灯光明亮。",
+                "B. 灯光五彩斑斓。",
+                "C. 动态变化的灯光。",
+                "D. 灯光昏暗。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_88": {
+            "id": "913JhnW28U4_88",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "在仪式上，Alessandro Miressi穿什么？",
+            "options": [
+                "A. Alessandro Miressi穿着一套黑白运动服。",
+                "B. Alessandro Miressi穿着一件白色夹克。",
+                "C. Alessandro Miressi穿着一件红白夹克。",
+                "D. Alessandro Miressi穿着一套蓝白相间的运动服。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_89": {
+            "id": "913JhnW28U4_89",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "在仪式上，Alessandro Miressi的服装上有什么标识？",
+            "options": [
+                "A. 上面印有‘UPCX’和‘MIRESSI’等标志。",
+                "B. 上面印有一只老虎的头像。",
+                "C. 带有匈牙利国旗。",
+                "D. 上面有一只鳐鱼图案。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_90": {
+            "id": "913JhnW28U4_90",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "奖牌获得者手中的毛绒玩具吉祥物像什么？",
+            "options": [
+                "A. 毛绒玩具吉祥物像一只微笑的蓝白色蝠鲼。",
+                "B. 毛绒玩具吉祥物像一只小棕熊。",
+                "C. 毛绒玩具吉祥物像一只绿黄色的鹦鹉。",
+                "D. 毛绒玩具吉祥物像一只红白相间的熊猫。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_91": {
+            "id": "913JhnW28U4_91",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "领奖台上有多少名奖牌获得者？",
+            "options": [
+                "A. 领奖台上有两名奖牌获得者。",
+                "B. 领奖台上有一名奖牌获得者。",
+                "C. 领奖台上有四名奖牌获得者。",
+                "D. 领奖台上有三名奖牌获得者。"
+            ],
+            "answer": "D"
+        },
+        "913JhnW28U4_92": {
+            "id": "913JhnW28U4_92",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "Nandor Nemeth的夹克和Zhanle Pan's的是同一个颜色吗？?",
+            "options": [
+                "A. 是的，两件夹克都是红白相间的。",
+                "B. 不是，Nandor Nemeth的夹克是黑红相间的。",
+                "C. 不是，Nandor Nemeth的夹克是蓝白相间的。",
+                "D. 不是，Nandor Nemeth的夹克是白色的。"
+            ],
+            "answer": "D"
+        },
+        "913JhnW28U4_93": {
+            "id": "913JhnW28U4_93",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "Nandor Nemeth用哪只手拿着他的铜牌？",
+            "options": [
+                "A. Nandor Nemeth用左手拿着他的铜牌。",
+                "B. Nandor Nemeth用右手拿着他的铜牌。",
+                "C. Nandor Nemeth双手拿着他的铜牌。",
+                "D. Nandor Nemeth根本没有拿他的铜牌。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_94": {
+            "id": "913JhnW28U4_94",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "詹乐潘在比赛中的完赛时间是多少？",
+            "options": [
+                "A. 47.53秒",
+                "B. 47.72秒",
+                "C. 47.78秒",
+                "D. 48.05秒"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_95": {
+            "id": "913JhnW28U4_95",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "前景上的哪些文字提供了关于比赛的信息？",
+            "options": [
+                "A. 'Podium - Men’s 100m Freestyle'，'DOHA 2024'",
+                "B. 'World Aquatics Championships'和'47.53'",
+                "C. 'Yakult','Myrtha Pools','OMEGA'",
+                "D. 'Asian Freestyle Swimming Championships'"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_96": {
+            "id": "913JhnW28U4_96",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "场景最开始时，画面聚焦的选手在做什么？",
+            "options": [
+                "A. 整理他的服装和贴牌。",
+                "B. 向人群观众挥手。",
+                "C. 在领奖台上放置奖牌。",
+                "D. 在和银牌得主讲话。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_97": {
+            "id": "913JhnW28U4_97",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "比赛结束后，Zhanle Pan立即做了什么？",
+            "options": [
+                "A. Zhanle Pan立即离开领奖台与记者交谈。",
+                "B. Zhanle Pan最初在泳池里恢复体力。",
+                "C. Zhanle Pan向观众挥手，并将奖杯递给队友。",
+                "D. Zhanle Pan迅速换上正装后重新进入泳池区域。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_98": {
+            "id": "913JhnW28U4_98",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在颁奖典礼上，潘展乐发生了什么？",
+            "options": [
+                "A. 接受了握手、金牌，并拿着一个毛绒玩具吉祥物。",
+                "B. 没有收到任何奖牌或其他物品。",
+                "C. 获得了一枚银牌，并手持一束花。",
+                "D. 获得了一枚铜牌，并向观众挥手。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_99": {
+            "id": "913JhnW28U4_99",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "摄影机在游泳选手跳入泳池后捕捉到了什么？",
+            "options": [
+                "A. 摄影机捕捉到了选手的水下姿势动作。",
+                "B. 摄影机捕捉到了观众在看台上的欢呼和鼓掌。",
+                "C. 摄影机聚焦在显示游泳选手起跳时间的记分板。",
+                "D. 摄影机放大拍摄教练的反应和策略。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_100": {
+            "id": "913JhnW28U4_100",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么潘展乐在比赛后被重点报道？",
+            "options": [
+                "A. 因为他以47.53秒的成绩赢得了比赛。",
+                "B. 因为他以48.00秒的成绩打破了世界纪录。",
+                "C. 因为他在运动员中赢得了人气选拔赛。",
+                "D. 因为他在领奖台上以独特的舞蹈庆祝。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_101": {
+            "id": "913JhnW28U4_101",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "根据排行榜，后半段赛程最初是谁领先比赛的？",
+            "options": [
+                "A. Zhanle Pan",
+                "B. Alessandro Miressi",
+                "C. Nandor Nemeth",
+                "D. 排行榜未显示最初的领先者。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_102": {
+            "id": "913JhnW28U4_102",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "根据排行榜，Alessandro Miressi的最终名次是什么？",
+            "options": [
+                "A. Alessandro Miressi获得了第一名。",
+                "B. Alessandro Miressi获得了第二名。",
+                "C. Alessandro Miressi获得了第三名。",
+                "D. Alessandro Miressi获得了第四名。"
+            ],
+            "answer": "B"
+        },
+        "913JhnW28U4_103": {
+            "id": "913JhnW28U4_103",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "根据排行榜，Nandor Nemeth的最终排名是什么？",
+            "options": [
+                "A. Nandor Nemeth获得第一名。",
+                "B. Nandor Nemeth获得第二名。",
+                "C. Nandor Nemeth获得第三名。",
+                "D. Nandor Nemeth未能登上领奖台。"
+            ],
+            "answer": "C"
+        },
+        "913JhnW28U4_104": {
+            "id": "913JhnW28U4_104",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "颁奖典礼的第一个环节是什么？",
+            "options": [
+                "A. Zhanle Pan领取他的金牌并与一位官员握手。",
+                "B. Alessandro Miressi领取他的银牌，并静静地欣赏。",
+                "C. 为了向潘Zhanle Pan致敬，播放中国的国歌。",
+                "D. Nandor Nemeth走上领奖台领取他的铜牌。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_105": {
+            "id": "913JhnW28U4_105",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "Zhanle Pan在收到金牌后会发生什么？",
+            "options": [
+                "A. 摄像机捕捉到他手持奖牌和毛绒吉祥物的胜利姿势。",
+                "B. 他立即离开领奖台与团队庆祝。",
+                "C. 他发表讲话感谢支持者和家人。",
+                "D. 他与Nandor Nemeth交换奖牌，以示友谊。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_106": {
+            "id": "913JhnW28U4_106",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "颁奖典礼的最后一个环节是什么？",
+            "options": [
+                "A. 拍摄所有三位奖牌获得者合影。",
+                "B. 演奏金牌获得者国家的国歌。",
+                "C. 运动员发表关于他们比赛经历的演讲。",
+                "D. 由特别嘉宾为运动员颁发奖牌。"
+            ],
+            "answer": "A"
+        },
+        "913JhnW28U4_107": {
+            "id": "913JhnW28U4_107",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "游泳运动员跳入泳池后发生了什么？",
+            "options": [
+                "A. 游泳运动员短暂停顿，让观众安定下来。",
+                "B. 由于抢跳，比赛立即结束。",
+                "C. 摄像机捕捉到比赛的水上和水下视角。",
+                "D. 游泳运动员进行同步动作以进行仪式展示。"
+            ],
+            "answer": "C"
+        }
+    }
+}

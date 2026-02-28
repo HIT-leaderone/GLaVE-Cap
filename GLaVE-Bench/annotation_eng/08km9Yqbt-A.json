@@ -1,0 +1,1856 @@
+{
+    "scene_hint": {
+        "0": "Start the video with a purple sky and lake surface.",
+        "1": "Transition from Earth's crust to the 'AccuWeather' logo.",
+        "2": "Show the starry sky.",
+        "3": "Show three planets.",
+        "4": "The moon and planets align in the sky.",
+        "5": "A pitch-black night sky with a large moon.",
+        "6": "The moon in a dim sky and the moon at dusk.",
+        "7": "A medium shot of Saturn is shown.",
+        "8": "A close-up shot of Saturn is shown.",
+        "9": "A medium shot of Jupiter is shown.",
+        "10": "Show Saturn.",
+        "11": "Transition from Saturn to a close-up shot of Jupiter.",
+        "12": "A sky full of meteor showers.",
+        "13": "Show an image of a solar eclipse, including the famous diamond ring.",
+        "14": "Draw the path of the solar eclipse across North America on a geographic map.",
+        "15": "Show the solar eclipse as observed from space.",
+        "16": "Show an image of a solar eclipse."
+    },
+    "qa": {
+        "08km9Yqbt-A_0": {
+            "id": "08km9Yqbt-A_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the water surface and the starry sky in a nighttime scene?",
+            "options": [
+                "A. The water surface reflects the starry sky.",
+                "B. The starry sky is obscured by the water surface.",
+                "C. The starry sky and the water surface coexist side by side.",
+                "D. The water surface is above the starry sky."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_1": {
+            "id": "08km9Yqbt-A_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the water body and the forest-covered hills in the nighttime scene?",
+            "options": [
+                "A. The hills extend along the water's edge, gently sloping toward the water surface.",
+                "B. The water is higher than the forest-covered hills and flows over them.",
+                "C. The forest-covered hills are submerged in the water.",
+                "D. The water is surrounded by flat terrain, with no hills or mountains."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_2": {
+            "id": "08km9Yqbt-A_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the main environment depicted in the nighttime scene?",
+            "options": [
+                "A. City skyline, skyscrapers.",
+                "B. Night scene, sky, clouds, water surface, forest hills or mountains.",
+                "C. Forest, animals and vegetation.",
+                "D. Beach, palm trees and people."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_3": {
+            "id": "08km9Yqbt-A_3",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Are there any human characters present in the scene?",
+            "options": [
+                "A. Yes.",
+                "B. Yes, you can see one.",
+                "C. No.",
+                "D. Unclear."
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_4": {
+            "id": "08km9Yqbt-A_4",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What triggers human engagement with a scene?",
+            "options": [
+                "A. The 'AccuWeather' logo indicates someone was involved in filming or branding.",
+                "B. The presence of spacecraft seen in Earth's orbit.",
+                "C. The visible lights of cities on Earth's surface indicate human habitation.",
+                "D. The photographer's handwritten signature in the lower-left corner."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_5": {
+            "id": "08km9Yqbt-A_5",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "In the cosmic scene, which elements on the Earth's surface are visible?",
+            "options": [
+                "A. Curved surface, atmosphere, oceans, and clouds.",
+                "B. Forests and deserts.",
+                "C. Cities and highways.",
+                "D. Mountains and plains."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_6": {
+            "id": "08km9Yqbt-A_6",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What can be seen at the edge of the Earth in a cosmic scene?",
+            "options": [
+                "A. Blue hues.",
+                "B. Green hues.",
+                "C. Red hues.",
+                "D. Yellow hues."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_7": {
+            "id": "08km9Yqbt-A_7",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What surrounds the Earth in the cosmic scene?",
+            "options": [
+                "A. Stars.",
+                "B. Meteors.",
+                "C. Dark clouds.",
+                "D. Planetary belt."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_8": {
+            "id": "08km9Yqbt-A_8",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many 'AccuWeather' logos can be seen during the transition?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_9": {
+            "id": "08km9Yqbt-A_9",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "In the nighttime scene, where is the 'AccuWeather' logo visible?",
+            "options": [
+                "A. Top left corner.",
+                "B. Bottom right corner.",
+                "C. Center.",
+                "D. Top right corner."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_10": {
+            "id": "08km9Yqbt-A_10",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "In the cosmic scene, where is the 'AccuWeather' logo visible?",
+            "options": [
+                "A. Top left corner.",
+                "B. Center position.",
+                "C. Bottom right corner and center position.",
+                "D. Visible covering the entire background."
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_11": {
+            "id": "08km9Yqbt-A_11",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Is the text 'ABOVE THE CLOUDS' appearing in the same frame as the Earth's surface?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. The Earth does not exist.",
+                "D. 'ABOVE THE CLOUDS' does not exist."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_12": {
+            "id": "08km9Yqbt-A_12",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What kind of scene is in front of the text-centered image?",
+            "options": [
+                "A. The scene showcases a cosmic perspective of a starry sky environment.",
+                "B. The scene showcases a bustling urban landscape with brightly lit skyscrapers.",
+                "C. The scene showcases a dense forest filled with wildlife and flowing rivers.",
+                "D. The scene showcases a desert landscape with sand dunes and a clear blue sky."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_13": {
+            "id": "08km9Yqbt-A_13",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What is the text in the centered box?",
+            "options": [
+                "A. ABOVE THE CLOUDS",
+                "B. BELOW THE STARS",
+                "C. UNDER THE SKY",
+                "D. BEYOND THE HORIZON"
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_14": {
+            "id": "08km9Yqbt-A_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the background in the center box of the text?",
+            "options": [
+                "A. The background is similar to a nebula.",
+                "B. The background shows the Earth's surface.",
+                "C. The background is pure black.",
+                "D. The background presents a city skyline."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_15": {
+            "id": "08km9Yqbt-A_15",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens can highlight the reflection of the night sky on the water surface?",
+            "options": [
+                "A. Use a low-angle perspective, with the camera close to the water surface.",
+                "B. Use a high-angle perspective, capturing the scene from above.",
+                "C. Use a panoramic lens, capturing the entire horizon.",
+                "D. Use a close-up lens, focusing on specific details in the scene."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_16": {
+            "id": "08km9Yqbt-A_16",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What changes have occurred in the text brand attributes between frames?",
+            "options": [
+                "A. The 'AccuWeather' logo and icon are displayed in the bottom right corner, with no changes.",
+                "B. The 'AccuWeather' text is displayed in bold in the center of the screen, accompanied by a sun gear icon above.",
+                "C. The 'AccuWeather' text is moved to the top left corner, completely missing the sun gear icon.",
+                "D. The 'AccuWeather' logo in the bottom right corner is replaced by a new logo."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_17": {
+            "id": "08km9Yqbt-A_17",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is Jupiter's position relative to Mars?",
+            "options": [
+                "A. Left.",
+                "B. Right.",
+                "C. Above.",
+                "D. Below."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_18": {
+            "id": "08km9Yqbt-A_18",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "What is Jupiter's position relative to Saturn?",
+            "options": [
+                "A. Left.",
+                "B. Right.",
+                "C. Above.",
+                "D. Below."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_19": {
+            "id": "08km9Yqbt-A_19",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the position of Mars relative to Saturn?",
+            "options": [
+                "A. Right side.",
+                "B. Left side.",
+                "C. Directly below.",
+                "D. Farthest left."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_20": {
+            "id": "08km9Yqbt-A_20",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the background of this scene?",
+            "options": [
+                "A. Against the pitch-black backdrop of space.",
+                "B. It is a bright and colorful nebula.",
+                "C. It is a pale blue sky scattered with clouds.",
+                "D. It is a starry night filled with countless twinkling stars."
+            ],
+            "answer": "D"
+        },
+        "08km9Yqbt-A_21": {
+            "id": "08km9Yqbt-A_21",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What are the planetary alignments in the scene?",
+            "options": [
+                "A. The planetary alignment of Jupiter, Mars, and Saturn.",
+                "B. The planetary alignment of Earth, Venus, and Neptune.",
+                "C. The planetary alignment of Mercury, Uranus, and Pluto.",
+                "D. The planetary alignment of Saturn, Jupiter, and Neptune."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_22": {
+            "id": "08km9Yqbt-A_22",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What are the main colors in Jupiter's atmosphere?",
+            "options": [
+                "A. Beige, white, and brown",
+                "B. Red, orange, and yellow",
+                "C. Green, blue, and purple",
+                "D. Black, white, and gray"
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_23": {
+            "id": "08km9Yqbt-A_23",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What is written in black bold letters on the white banner in the video?",
+            "options": [
+                "A.  '5. JUPITER, MARS AND SATURN ALIGN ON JUNE 29.'",
+                "B.  'Mars and Jupiter at their closest on June 29.'",
+                "C. 'Saturn and Mars form a rare alignment on June 29.'",
+                "D.  'Cosmic alignment: Jupiter, Mars and the Moon on June 29.'"
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_24": {
+            "id": "08km9Yqbt-A_24",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What icon is displayed when text is overlaid on the video?",
+            "options": [
+                "A. Orange gear-shaped icon.",
+                "B. Star-shaped icon.",
+                "C. Blue circle.",
+                "D. Crescent-shaped icon."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_25": {
+            "id": "08km9Yqbt-A_25",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many planets are depicted in the video?",
+            "options": [
+                "A. Three planets",
+                "B. Four planets",
+                "C. Two planets",
+                "D. Five planets"
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_26": {
+            "id": "08km9Yqbt-A_26",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "Which planets are described in the video?",
+            "options": [
+                "A. Jupiter, Mars, and Saturn",
+                "B. Venus, Mars, and Neptune",
+                "C. Jupiter, Venus, and Uranus",
+                "D. Mars, Saturn, and Pluto"
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_27": {
+            "id": "08km9Yqbt-A_27",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "During scene transitions, does the AccuWeather logo disappear?",
+            "options": [
+                "A. Yes, it completely disappears during transitions.",
+                "B. No, the AccuWeather logo remains in the bottom right corner.",
+                "C. Yes, but during transitions, it moves to the top of the screen.",
+                "D. No, it briefly disappears and then reappears."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_28": {
+            "id": "08km9Yqbt-A_28",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "From left to right, what is the order of alignment for the planets Jupiter, Mars, and Saturn?",
+            "options": [
+                "A. Jupiter, Mars, and Saturn.",
+                "B. Mars, Jupiter, and Saturn.",
+                "C. Saturn, Jupiter, and Mars.",
+                "D. Jupiter, Saturn, and Mars."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_29": {
+            "id": "08km9Yqbt-A_29",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "How does the lens contrast with the background to present each planet?",
+            "options": [
+                "A. The lens contrasts the planets against a pure black background.",
+                "B. The lens contrasts the planets against a blue background.",
+                "C. The lens contrasts the planets against a cloudy sky.",
+                "D. The lens contrasts the planets against a daytime sky."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_30": {
+            "id": "08km9Yqbt-A_30",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What changes occur to the text overlay during a scene transition?",
+            "options": [
+                "A. The white banner with text and an orange gear icon is replaced by a gray, ribbon-shaped placeholder.",
+                "B. The white banner with text and an orange star-shaped icon is replaced by a gray, ribbon-shaped placeholder.",
+                "C. The white banner with text and a red gear-shaped icon is replaced by a gray placeholder.",
+                "D. The gray banner with text and an orange gear-shaped icon is replaced by a white placeholder."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_31": {
+            "id": "08km9Yqbt-A_31",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "How is Jupiter positioned in the broader celestial arrangement?",
+            "options": [
+                "A. Jupiter is located above the crescent moon.",
+                "B. Jupiter is located to the far left of the moon.",
+                "C. Jupiter is located below the tree line.",
+                "D. Jupiter is located farther away from the crescent moon."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_32": {
+            "id": "08km9Yqbt-A_32",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "How is Mars positioned in the broader celestial arrangement?",
+            "options": [
+                "A. Mars is located to the left of the crescent moon, second position.",
+                "B. Mars is located far from the crescent moon.",
+                "C. Mars is aligned with Jupiter and Saturn.",
+                "D. Mars is obscured by Earth elements."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_33": {
+            "id": "08km9Yqbt-A_33",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "How is Saturn positioned in the broader celestial arrangement?",
+            "options": [
+                "A. Saturn is to the left of the new moon.",
+                "B. Saturn is far from the new moon.",
+                "C. Saturn appears at the bottom of the frame.",
+                "D. Saturn is to the upper right of the new moon."
+            ],
+            "answer": "D"
+        },
+        "08km9Yqbt-A_34": {
+            "id": "08km9Yqbt-A_34",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the main scene of the video?",
+            "options": [
+                "A. The main scene is detailed close-ups of individual planets.",
+                "B. The main scene is a ground landscape with silhouetted tree lines.",
+                "C. The main scene is a vast night sky with celestial bodies.",
+                "D. The main scene is an industrial area with buildings and streetlights."
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_35": {
+            "id": "08km9Yqbt-A_35",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What celestial bodies are in the video?",
+            "options": [
+                "A. The celestial bodies include the crescent moon and Jupiter, Mars, and Saturn.",
+                "B. The celestial bodies include the full moon and Venus, Earth, and Neptune.",
+                "C. The celestial bodies include the crescent moon and Mercury, Venus, and Uranus.",
+                "D. The celestial bodies include the full moon and Jupiter, Mars, and Saturn."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_36": {
+            "id": "08km9Yqbt-A_36",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What text content is in the video?",
+            "options": [
+                "A. There are text labels on the planet.",
+                "B. There is no text in the video.",
+                "C. Only the name of the moon is labeled.",
+                "D. The planet is not visible at all."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_37": {
+            "id": "08km9Yqbt-A_37",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What natural elements are shown in the video?",
+            "options": [
+                "A. The reflection of planets on the water surface.",
+                "B. The silhouette of a tree line on the horizon below the sky.",
+                "C. Snow-capped mountains below the sky.",
+                "D. The desert extending at the bottom of the frame."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_38": {
+            "id": "08km9Yqbt-A_38",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Why is text overlay useful for observing celestial alignments?",
+            "options": [
+                "A. Text overlay provides artistic enhancement, making the scene more visually appealing.",
+                "B. Text overlay provides context and details about the planets.",
+                "C. Text overlay serves only as a decorative element with no informational value.",
+                "D. Text overlay obscures important details, making it harder for observers to correctly identify celestial bodies."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_39": {
+            "id": "08km9Yqbt-A_39",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What do Saturn's rings look like in the video?",
+            "options": [
+                "A. Saturn is depicted with elegantly tilted rings.",
+                "B. Saturn is shown with flat horizontal rings.",
+                "C. Saturn appears to have no visible rings.",
+                "D. Saturn has jagged, fragmented rings."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_40": {
+            "id": "08km9Yqbt-A_40",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What background is Saturn presented with in the video?",
+            "options": [
+                "A. Saturn is presented with a deep black background.",
+                "B. Saturn is presented with a bright blue sky background.",
+                "C. Saturn is presented with a colorful nebula background.",
+                "D. Saturn is presented with a cloudy night sky background."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_41": {
+            "id": "08km9Yqbt-A_41",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many planets are aligned with the moon?",
+            "options": [
+                "A. Two planets",
+                "B. Three planets",
+                "C. Four planets",
+                "D. Five planets"
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_42": {
+            "id": "08km9Yqbt-A_42",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is the AccuWeather logo prominently positioned in the video?",
+            "options": [
+                "A. Yes, the AccuWeather logo is prominently located in the center of the video.",
+                "B. Yes, the AccuWeather logo is prominently located in the upper left corner of the video.",
+                "C. No, the AccuWeather logo is inconspicuously located in the lower right corner of the video.",
+                "D. No, there is no AccuWeather logo in the video."
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_43": {
+            "id": "08km9Yqbt-A_43",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Which visual element indicates the direction of observing celestial phenomena?",
+            "options": [
+                "A. The north compass icon provides guidance for the observation direction.",
+                "B. The east compass icon provides guidance for the observation direction.",
+                "C. The west compass icon provides guidance for the observation direction.",
+                "D. The south compass icon provides guidance for the observation direction."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_44": {
+            "id": "08km9Yqbt-A_44",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the main background of the scene?",
+            "options": [
+                "A. A pitch-black night sky and a huge moon.",
+                "B. A busy city skyline.",
+                "C. A picture of a sunset on the horizon.",
+                "D. A dense forest."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_45": {
+            "id": "08km9Yqbt-A_45",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What information does the text overlay in the upper right corner of the scene provide?",
+            "options": [
+                "A. The text overlay shows 'YouTube/ScienceAtNASA', indicating the source of the video content.",
+                "B. The text overlay provides the date and time of the lunar eclipse.",
+                "C. The text overlay details the alignment of Jupiter, Mars, and Saturn.",
+                "D. The text overlay gives the coordinates of the observation event."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_46": {
+            "id": "08km9Yqbt-A_46",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What features of the lunar surface are highlighted?",
+            "options": [
+                "A. The glowing surface of the moon showcases complex craters, terrain features, diverse textures, and rugged topography.",
+                "B. The lunar surface is completely smooth and uniformly bright.",
+                "C. The glowing surface of the moon displays vast, empty plains with no significant details.",
+                "D. The lunar surface only highlights its shadowed areas, with details being indistinct."
+            ],
+            "answer": "D"
+        },
+        "08km9Yqbt-A_47": {
+            "id": "08km9Yqbt-A_47",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many prominently labeled celestial bodies are in the scene?",
+            "options": [
+                "A. Three.",
+                "B. Four.",
+                "C. Five.",
+                "D. Six."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_48": {
+            "id": "08km9Yqbt-A_48",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "Which celestial bodies are clearly labeled in the scene?",
+            "options": [
+                "A. Jupiter, Mars, Venus, and the Moon are clearly labeled.",
+                "B. Saturn, Mars, Venus, and the Moon are clearly labeled.",
+                "C. Jupiter, Mars, Saturn, and the Moon are clearly labeled.",
+                "D. Jupiter, Venus, Saturn, and the Moon are clearly labeled."
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_49": {
+            "id": "08km9Yqbt-A_49",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Is the 'AccuWeather' logo visible throughout the entire video?",
+            "options": [
+                "A. Yes, the 'AccuWeather' logo is always located in the lower right corner of the video.",
+                "B. No, the 'AccuWeather' logo disappears when switching to the close-up of the moon.",
+                "C. Yes, but the 'AccuWeather' logo occasionally moves to different positions on the screen.",
+                "D. No, the 'AccuWeather' logo is only visible during the introduction and final scenes."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_50": {
+            "id": "08km9Yqbt-A_50",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What content is introduced by the white rectangular banner with a right-pointing arrow pattern in the video?",
+            "options": [
+                "A. It provides background information on '4. SUPER HARVEST MOON ECLIPSE ON SEPT. 17'.",
+                "B. The banner introduces textual information about the speed of the lunar eclipse.",
+                "C. The banner introduces detailed information about various planets visible in the night sky.",
+                "D. The banner introduces information about the star closest to Earth."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_51": {
+            "id": "08km9Yqbt-A_51",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What is the focus change in the scene of the video?",
+            "options": [
+                "A. The scene shifts from a wide view of the night sky to a close-up of the moon.",
+                "B. The scene transitions from a daytime view of the sun to a nighttime view of the stars.",
+                "C. The scene moves from focusing on the stars to a close-up of the landscape.",
+                "D. The scene changes from showcasing various planets to focusing on a solar eclipse."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_52": {
+            "id": "08km9Yqbt-A_52",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the appearance of the moon in the video?",
+            "options": [
+                "A. The moon appears larger when viewed from different angles.",
+                "B. The details of the moon become clearer.",
+                "C. The moon gradually turns red and becomes increasingly blurry.",
+                "D. The moon is partially obscured by passing clouds, causing it to appear intermittently."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_53": {
+            "id": "08km9Yqbt-A_53",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the position of the moon in the last scene of the video?",
+            "options": [
+                "A. The moon is located in the upper right corner.",
+                "B. The moon is located in the center of the frame.",
+                "C. The moon is located in the lower left corner.",
+                "D. The moon is located directly above the horizon."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_54": {
+            "id": "08km9Yqbt-A_54",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the environment displayed in the initial phase as the moon goes through different phases in the video?",
+            "options": [
+                "A. A pure black background, focusing solely on the moon.",
+                "B. Vibrant twilight with a colorful sky.",
+                "C. A fully illuminated moon under a dark blue sky.",
+                "D. The moon amidst silhouetted trees under a purple sky."
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_55": {
+            "id": "08km9Yqbt-A_55",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "How does the environment change as the moon goes through different phases in the video?",
+            "options": [
+                "A. The background changes from black to blue and orange.",
+                "B. The environment remains static, only the size of the moon changes.",
+                "C. The environment becomes increasingly dark.",
+                "D. The environment shifts from a bustling cityscape to a tranquil forest clearing."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_56": {
+            "id": "08km9Yqbt-A_56",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Are there any characters in the scene?",
+            "options": [
+                "A. Yes, there are characters in the scene.",
+                "B. No, there are no characters in the scene.",
+                "C. Characters briefly appear in the foreground.",
+                "D. The scene implies the presence of characters but does not show them."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_57": {
+            "id": "08km9Yqbt-A_57",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What symbol appeared in the upper right corner of the video?",
+            "options": [
+                "A. The symbol of 'YouTube/ScienceAtNASA'",
+                "B. The symbol of 'AccuWeather'",
+                "C. The symbol of 'NASA Official'",
+                "D. The symbol of 'National Geographic'"
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_58": {
+            "id": "08km9Yqbt-A_58",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What logo appears in the bottom right corner of the video?",
+            "options": [
+                "A. 'AccuWeather' logo",
+                "B. 'YouTube/ScienceAtNASA' logo",
+                "C. 'NASA' logo",
+                "D. There is no logo in the bottom right corner of the video"
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_59": {
+            "id": "08km9Yqbt-A_59",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What are the main changes in the visual environment in the video?",
+            "options": [
+                "A. Blue sky with treetops, finally to a vibrant evening or sunset.",
+                "B. Stars on a deep black background, to blue sky, finally evening.",
+                "C. Cloudy sky, to blue sky, finally to sunset.",
+                "D. Sun on a deep black background, to blue sky, finally to evening."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_60": {
+            "id": "08km9Yqbt-A_60",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "Will the moon become clear in the video later?",
+            "options": [
+                "A. Yes, it becomes clear later.",
+                "B. No, it becomes more blurred over time.",
+                "C. Yes, but only at dusk.",
+                "D. No, it remains unchanged throughout the video."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_61": {
+            "id": "08km9Yqbt-A_61",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred to the branches and leaves in the silhouette in the final scene?",
+            "options": [
+                "A. Became clearer and more complex.",
+                "B. Changed color.",
+                "C. Became more blurred.",
+                "D. Remained unchanged."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_62": {
+            "id": "08km9Yqbt-A_62",
+            "scene": 6,
+            "dimension": "Speed",
+            "question": "How does the transition speed affect the scene?",
+            "options": [
+                "A. The transition happens very slowly.",
+                "B. The transition happens very quickly.",
+                "C. The transition is almost imperceptible.",
+                "D. The transition is gradual and smooth."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_63": {
+            "id": "08km9Yqbt-A_63",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What changes occur in the appearance of the moon against a red background?",
+            "options": [
+                "A. It becomes hazy and appears golden.",
+                "B. The moon disappears from view.",
+                "C. The moon becomes smaller and dimmer.",
+                "D. The moon remains distinct and appears white."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_64": {
+            "id": "08km9Yqbt-A_64",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "How does the appearance of the moon change in the final scene?",
+            "options": [
+                "A. Appears golden yellow in twilight.",
+                "B. Becomes blurry and appears golden yellow.",
+                "C. The moon shows a halo effect, slightly blurry.",
+                "D. The moon is obscured by clouds in the sky."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_65": {
+            "id": "08km9Yqbt-A_65",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements help identify the source of the video?",
+            "options": [
+                "A. 'YouTube/ScienceAtNASA' logo and 'AccuWeather' logo.",
+                "B. Silhouette of trees and the color of the sky.",
+                "C. Detailed features of the lunar surface and foreground elements.",
+                "D. Transition from dawn to dusk effects."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_66": {
+            "id": "08km9Yqbt-A_66",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the starting scene described in the video?",
+            "options": [
+                "A. A tranquil twilight dominated by a golden moon.",
+                "B. The cosmic landscape of Saturn.",
+                "C. A crescent of Saturn illuminated by sunlight occupies the right side of the frame.",
+                "D. The dark shadow of Saturn occupies the left side of the frame."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_67": {
+            "id": "08km9Yqbt-A_67",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Are there any human characters in the video?",
+            "options": [
+                "A. Yes, several different human characters appeared.",
+                "B. No, there are no human characters in the video.",
+                "C. Yes, a human character was introduced later.",
+                "D. Yes, a group of people observing Saturn was shown."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_68": {
+            "id": "08km9Yqbt-A_68",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Does the video describe any human characters?",
+            "options": [
+                "A. Yes, there is a human astronaut appearing in the scene.",
+                "B. Yes, the video describes human characters observing Saturn.",
+                "C. No, the video does not describe any human characters.",
+                "D. Yes, the video includes a narrator appearing on the screen."
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_69": {
+            "id": "08km9Yqbt-A_69",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What color is Saturn described as?",
+            "options": [
+                "A. Beige and cream",
+                "B. Blue and white",
+                "C. Green and yellow",
+                "D. Red and orange"
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_70": {
+            "id": "08km9Yqbt-A_70",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What kind of surface features does Saturn have as described?",
+            "options": [
+                "A. A smooth surface with no obvious features and ordinary rings",
+                "B. A textured surface with delicate striped rings",
+                "C. A rough and rocky surface with heavy rings",
+                "D. A metallic surface with no visible rings"
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_71": {
+            "id": "08km9Yqbt-A_71",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "What is the major transition in the current scene compared to the previous one?",
+            "options": [
+                "A. Introduction of graphic overlays with geometric arrows.",
+                "B. Dynamic change in the perspective of Saturn.",
+                "C. Reference to a striking white text banner introducing Saturn's opposition date.",
+                "D. Removal of all branding elements, leaving an unobstructed view of Saturn."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_72": {
+            "id": "08km9Yqbt-A_72",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What is the text displayed on the banner during the planetary event?",
+            "options": [
+                "A. 3. SATURN OPPOSITION ON SEPT. 8",
+                "B. 3. SATURN ALIGNMENT ON SEPT. 8",
+                "C. 3. SATURN CONJUNCTION ON SEPT. 8",
+                "D. 3. SATURN TRANSIT ON SEPT. 8"
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_73": {
+            "id": "08km9Yqbt-A_73",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "During the planetary event, what icon will accompany the text?",
+            "options": [
+                "A. An icon in the shape of a sun",
+                "B. An icon in the shape of a moon",
+                "C. An icon in the shape of a star",
+                "D. An icon in the shape of a planet"
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_74": {
+            "id": "08km9Yqbt-A_74",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "What is the direction of the shadow cast by sunlight on Saturn?",
+            "options": [
+                "A. Cast towards the lower left.",
+                "B. Cast towards the upper right.",
+                "C. Cast downward.",
+                "D. Cast towards the upper left."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_75": {
+            "id": "08km9Yqbt-A_75",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "What happens to the depiction of Saturn's shadow when the perspective changes?",
+            "options": [
+                "A. The shadow on the left becomes less noticeable.",
+                "B. The shadow on the left becomes more prominent.",
+                "C. The shadow on the left completely disappears.",
+                "D. The shadow moves to the right side."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_76": {
+            "id": "08km9Yqbt-A_76",
+            "scene": 8,
+            "dimension": "Camera Direction",
+            "question": "With changing perspectives, what happens to the depiction of Saturn's rings?",
+            "options": [
+                "A. They are emphasized, with clearer textures and more vivid colors.",
+                "B. They are weakened, with blurred textures and darker colors.",
+                "C. They remain unchanged, with no noticeable differences in texture or color.",
+                "D. They completely disappear, leaving only a shadow."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_77": {
+            "id": "08km9Yqbt-A_77",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "What are the visual characteristics of Jupiter's color?",
+            "options": [
+                "A. Golden-brown tones with subtle gradient shades.",
+                "B. Bright red and orange tones.",
+                "C. Saturn presents deep blue and green tones.",
+                "D. Silver and white."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_78": {
+            "id": "08km9Yqbt-A_78",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What are the visual characteristics of Saturn's rings?",
+            "options": [
+                "A. Saturn has an iconic ring system, which is brown in color.",
+                "B. Saturn's rings are black and made of solid rock.",
+                "C. Saturn's rings are not visible at all.",
+                "D. Saturn's rings are composed of colorful gases."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_79": {
+            "id": "08km9Yqbt-A_79",
+            "scene": 9,
+            "dimension": "Binary",
+            "question": "Does the AccuWeather logo appear in the video?",
+            "options": [
+                "A. Yes, in the bottom right corner of the video.",
+                "B. No, it has been removed from the video.",
+                "C. Yes, but it is located in the top left corner.",
+                "D. No, only a white rectangular banner remains."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_80": {
+            "id": "08km9Yqbt-A_80",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "What happens to the white rectangular banner during the transition to the next scene?",
+            "options": [
+                "A. It will enlarge.",
+                "B. It will change color.",
+                "C. It will disappear.",
+                "D. It will move to the top."
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_81": {
+            "id": "08km9Yqbt-A_81",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "In a Saturn-themed scene, what provides the magnificent backdrop?",
+            "options": [
+                "A. Faint stars scattered in the deep black space",
+                "B. Colorful nebula clusters",
+                "C. A glowing red planet in the background",
+                "D. Saturn's rings casting shadows on Jupiter"
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_82": {
+            "id": "08km9Yqbt-A_82",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video?",
+            "options": [
+                "A. The video features close-ups of celestial bodies in space.",
+                "B. The video showcases natural landscapes on Earth.",
+                "C. The background of the video is an underwater environment.",
+                "D. The video presents a bustling urban landscape."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_83": {
+            "id": "08km9Yqbt-A_83",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "What commercial element is consistently present in the video?",
+            "options": [
+                "A. AccuWeather logo.",
+                "B. NASA watermark.",
+                "C. Discovery Channel logo.",
+                "D. Scrolling weather update text at the top of the video."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_84": {
+            "id": "08km9Yqbt-A_84",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "What does Jupiter's Great Red Spot look like in the video?",
+            "options": [
+                "A. Appears deep orange-red.",
+                "B. Appears pale beige.",
+                "C. Appears as bright white patches.",
+                "D. Appears as a bright blue circle."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_85": {
+            "id": "08km9Yqbt-A_85",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "What changes will occur to Saturn during the scene transition?",
+            "options": [
+                "A. Saturn becomes larger and obscures Jupiter.",
+                "B. Saturn takes the central position, displaying detailed ring patterns.",
+                "C. Saturn disappears from the scene, shifting the focus to Jupiter.",
+                "D. Saturn and Jupiter collide and merge into one planet."
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_86": {
+            "id": "08km9Yqbt-A_86",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "What happens to the background when Jupiter becomes the main focus?",
+            "options": [
+                "A. The background transitions from the starry sky to Jupiter's surface, completely filling the frame.",
+                "B. The background remains unchanged, always showing the starry sky.",
+                "C. When Jupiter becomes the main focus, the background transitions to a view of Saturn's rings.",
+                "D. The background turns into a black void with no planetary details."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_87": {
+            "id": "08km9Yqbt-A_87",
+            "scene": 11,
+            "dimension": "Camera Shot",
+            "question": "How does the shot change when transitioning from both Saturn and Jupiter to only Jupiter?",
+            "options": [
+                "A. From medium shot to close-up shot.",
+                "B. The shot zooms out.",
+                "C. The shot switches focus from Jupiter to a close-up of Saturn's rings.",
+                "D. The shot remains stationary."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_88": {
+            "id": "08km9Yqbt-A_88",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "What details were highlighted in the close-up of Jupiter?",
+            "options": [
+                "A. The close-up focused on Jupiter's atmospheric details and storm systems.",
+                "B. The close-up focused on Jupiter's rings and moons.",
+                "C. The close-up focused on Jupiter's equatorial belt and surface details.",
+                "D. The close-up focused on the interactions between Jupiter and Saturn."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_89": {
+            "id": "08km9Yqbt-A_89",
+            "scene": 11,
+            "dimension": "Visual-cue",
+            "question": "What visual elements are used in the video to represent the brand?",
+            "options": [
+                "A. AccuWeather logo and a simple sun icon next to it.",
+                "B. A rotating globe icon appears in the top left corner.",
+                "C. A series of animated weather symbols on the screen represent the brand.",
+                "D. The brand name flashes at the top of the screen every few seconds."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_90": {
+            "id": "08km9Yqbt-A_90",
+            "scene": 12,
+            "dimension": "Spatial",
+            "question": "Where is the AccuWeather logo located in the video?",
+            "options": [
+                "A. Bottom right corner.",
+                "B. Appears at the top left at the beginning and at the bottom right at the end.",
+                "C. Located in the center of the screen.",
+                "D. There is no AccuWeather logo in the video."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_91": {
+            "id": "08km9Yqbt-A_91",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "What happened in this scene?",
+            "options": [
+                "A. A meteor streaks across the Earth's night sky, accompanied by the Milky Way.",
+                "B. A close-up shot of Saturn's rings around the planet.",
+                "C. Shows a solar eclipse occurring on Earth's horizon.",
+                "D. The focus shifts to a spaceship landing on Jupiter's surface."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_92": {
+            "id": "08km9Yqbt-A_92",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "What visual elements are shown in the scene after the appearance of the blue-green meteor?",
+            "options": [
+                "A. Mountain outlines, trees, a red tent, and a body of water.",
+                "B. Close-up shots of Jupiter's surface and the Great Red Spot.",
+                "C. A large city skyline illuminated by a meteor streak.",
+                "D. Desert landscape with dunes and camels, against a meteor-filled sky."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_93": {
+            "id": "08km9Yqbt-A_93",
+            "scene": 12,
+            "dimension": "Description-Human",
+            "question": "What is the silhouette doing on the rugged rocks?",
+            "options": [
+                "A. Holding a glowing object.",
+                "B. Climbing the rugged rocks.",
+                "C. Pointing at the starry sky.",
+                "D. Sitting and observing the meteor shower."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_94": {
+            "id": "08km9Yqbt-A_94",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "Which colors dominate the surface of Jupiter when observed up close?",
+            "options": [
+                "A. Brown, orange, and beige",
+                "B. Blue, green, and white",
+                "C. Red, yellow, and pink",
+                "D. Purple, gray, and black"
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_95": {
+            "id": "08km9Yqbt-A_95",
+            "scene": 12,
+            "dimension": "Visual-cue",
+            "question": "Is there a white banner with text in the video?",
+            "options": [
+                "A. Yes, the white banner has bold black text on it.",
+                "B. No, there is no white banner in the video.",
+                "C. Yes, but the text on the banner is colorful instead of black.",
+                "D. No, there has never been any text on the screen in the video."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_96": {
+            "id": "08km9Yqbt-A_96",
+            "scene": 12,
+            "dimension": "Visual-cue",
+            "question": "What does the text on the white banner say?",
+            "options": [
+                "A. 'PERSEID METEOR SHOWER PEAKS ON AUG. 12-13'.",
+                "B. 'BRACE FOR A TURQUOISE METEOR EVENT ON AUG. 14'.",
+                "C. 'CELESTIAL EVENT PREDICTED FOR AUG. 15-16'.",
+                "D. 'NIGHT SKY WONDER: METEOR SHOWER AUG. 10-11'."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_97": {
+            "id": "08km9Yqbt-A_97",
+            "scene": 12,
+            "dimension": "Object Direction",
+            "question": "Scene begins, in which direction does the brightest turquoise meteor move in Earth's night sky?",
+            "options": [
+                "A. Moves from east to west.",
+                "B. Moves from north to south.",
+                "C. Moves from west to east.",
+                "D. Direction of movement not specified."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_98": {
+            "id": "08km9Yqbt-A_98",
+            "scene": 12,
+            "dimension": "Attribute Change",
+            "question": "In the final scene centered on the celestial body, how does the size of the meteors change?",
+            "options": [
+                "A. The meteors only differ in brightness.",
+                "B. The meteors vary in size, brightness, and length.",
+                "C. The meteors are the same size but different colors.",
+                "D. The meteors appear consistent and identical in all aspects."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_99": {
+            "id": "08km9Yqbt-A_99",
+            "scene": 12,
+            "dimension": "Attribute Change",
+            "question": "In the final scene focusing on the celestial body, how does the length of the meteor change?",
+            "options": [
+                "A. The color of the meteor is different.",
+                "B. The brightness of the meteor is different.",
+                "C. The length of the meteor is different.",
+                "D. The speed of the meteor is different."
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_100": {
+            "id": "08km9Yqbt-A_100",
+            "scene": 12,
+            "dimension": "Visual-cue",
+            "question": "What are the visual cues for a meteor shower?",
+            "options": [
+                "A. A banner appears with the text: 'METEOR SHOWER PEAKS ON AUG. 12-13'",
+                "B. A meteor appears accompanied by the text: 'UNUSUAL METEOR ACTIVITY'",
+                "C. A numerical countdown display appears on the screen",
+                "D. A voiceover explains the importance and timing of the meteor shower"
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_101": {
+            "id": "08km9Yqbt-A_101",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "Where is the AccuWeather logo located in the solar eclipse scene?",
+            "options": [
+                "A. In the top left corner",
+                "B. In the bottom right corner",
+                "C. In the top right corner",
+                "D. In the bottom left corner"
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_102": {
+            "id": "08km9Yqbt-A_102",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "How is the overall environment described at the beginning of the video?",
+            "options": [
+                "A. A pitch-black background with a solar eclipse in the center.",
+                "B. A bustling cityscape at night.",
+                "C. An open field under cloudy skies.",
+                "D. A busy beach scene at sunrise."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_103": {
+            "id": "08km9Yqbt-A_103",
+            "scene": 13,
+            "dimension": "Binary",
+            "question": "Does the video describe humans?",
+            "options": [
+                "A. Yes, the video describes humans.",
+                "B. No, the video does not describe humans.",
+                "C. The video only describes animals.",
+                "D. The video describes an outdoor market."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_104": {
+            "id": "08km9Yqbt-A_104",
+            "scene": 13,
+            "dimension": "Description-Scene",
+            "question": "What are the main phases of the solar eclipse described in the video?",
+            "options": [
+                "A. The initial appearance of the sun and the gradual dimming of stars.",
+                "B. The 'diamond ring' effect and the corona of the sun during total eclipse appearing as a uniformly glowing halo.",
+                "C. The reflection of sunrise and full moon in the water.",
+                "D. The gradual brightening of the Milky Way and silhouette-like ridges."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_105": {
+            "id": "08km9Yqbt-A_105",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "Is there a white banner displaying text in the total solar eclipse scene?",
+            "options": [
+                "A. Yes, there is a white banner with the text '1. TOTAL SOLAR ECLIPSE ON APRIL 8' and a sun icon.",
+                "B. No, there is no white banner displayed in the total solar eclipse scene.",
+                "C. Yes, but the white banner only displays the AccuWeather logo without additional text or icons.",
+                "D. No, there is only a translucent box with a gray arrow."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_106": {
+            "id": "08km9Yqbt-A_106",
+            "scene": 13,
+            "dimension": "Attribute Change",
+            "question": "What changes occur to the 'diamond ring' effect during the transition of a solar eclipse?",
+            "options": [
+                "A. Completely disappears, the moon is fully visible.",
+                "B. A rainbow halo forms around the moon.",
+                "C. Gradually becomes fully covered, showing the sun's corona as a uniformly glowing halo around the moon.",
+                "D. Becomes more intense, showing multiple bright spots around the moon."
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_107": {
+            "id": "08km9Yqbt-A_107",
+            "scene": 13,
+            "dimension": "Object Direction",
+            "question": "From the perspective of watching the video, during a solar eclipse, from which direction of the moon does a bright arc of sunlight emerge?",
+            "options": [
+                "A. Left edge.",
+                "B. Right edge.",
+                "C. Top edge.",
+                "D. Bottom edge."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_108": {
+            "id": "08km9Yqbt-A_108",
+            "scene": 13,
+            "dimension": "Camera Shot",
+            "question": "Which type of camera lens is used to capture a solar eclipse?",
+            "options": [
+                "A. Wide-angle lens.",
+                "B. Front view.",
+                "C. Side-angle lens.",
+                "D. Bird's-eye view."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_109": {
+            "id": "08km9Yqbt-A_109",
+            "scene": 13,
+            "dimension": "Attribute Change",
+            "question": "How does the sun's corona change over time?",
+            "options": [
+                "A. Gradually reveals more complex textures with subtle rays extending outward.",
+                "B. Gradually becomes less noticeable.",
+                "C. Gradually shifts to bright red.",
+                "D. Completely disappears."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_110": {
+            "id": "08km9Yqbt-A_110",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "In the solar eclipse scene, which visual element provides background information?",
+            "options": [
+                "A. A white banner with '1. TOTAL SOLAR ECLIPSE ON APRIL 8' next to a sun icon.",
+                "B. A black banner with 'SOLAR ECLIPSE TODAY' next to a moon icon.",
+                "C. A white box with the words 'ACCUTE WEATHER PREDICTION' next to a gray arrow.",
+                "D. A translucent banner with 'ECLIPSE INF' and a yellow star icon."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_111": {
+            "id": "08km9Yqbt-A_111",
+            "scene": 14,
+            "dimension": "Object Direction",
+            "question": "On the map, in which direction does the path of the solar eclipse extend?",
+            "options": [
+                "A. Extends diagonally from the southwest of Mexico, through the central United States, to the northeast.",
+                "B. Extends horizontally from the west coast of the United States to the east coast.",
+                "C. Extends vertically from the southern tip of Florida to the northern border of Canada.",
+                "D. The path of the solar eclipse extends in a circular shape in the central United States."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_112": {
+            "id": "08km9Yqbt-A_112",
+            "scene": 14,
+            "dimension": "Description-Scene",
+            "question": "What major geographical areas are shown on the solar eclipse map?",
+            "options": [
+                "A. The map mainly shows the United States, parts of Mexico, Canada, and surrounding ocean areas.",
+                "B. The map mainly shows the United States, parts of Mexico, Canada, and parts of South America.",
+                "C. The map mainly shows parts of Europe, the United States, and parts of Africa.",
+                "D. The map mainly shows parts of Asia, the United States, and parts of Antarctica."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_113": {
+            "id": "08km9Yqbt-A_113",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "Which key cities along the path of the solar eclipse are marked on the map?",
+            "options": [
+                "A. Del Rio, Dallas, Austin, Little Rock, Texarkana, Poplar Bluff, Paducah, Indianapolis, Dayton, Cleveland, Buffalo, Burlington, and Syracuse.",
+                "B. Miami, Orlando, Atlanta, Nashville, St. Louis, Louisville, Cincinnati, Pittsburgh, New York, Boston.",
+                "C. San Francisco, Los Angeles, Las Vegas, Denver, Kansas City, Omaha, Chicago, Detroit, Toronto, Montreal.",
+                "D. Houston, New Orleans, Memphis, Louisville, Indianapolis, Columbus, Philadelphia, Newark."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_114": {
+            "id": "08km9Yqbt-A_114",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "What information is provided in the orange box at the top left corner of the map?",
+            "options": [
+                "A. The orange box labeled 'ABOVE THE CLOUDS' contains an orange sun icon.",
+                "B. The orange box shows the exact times of the eclipse in different regions.",
+                "C. The orange box contains safety warnings about viewing the eclipse without protective glasses.",
+                "D. The orange box shows a brief historical background of the eclipse."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_115": {
+            "id": "08km9Yqbt-A_115",
+            "scene": 14,
+            "dimension": "Count",
+            "question": "How many major cities are marked on the map along the path of the total solar eclipse?",
+            "options": [
+                "A. Eleven",
+                "B. Twelve",
+                "C. Thirteen",
+                "D. Fourteen"
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_116": {
+            "id": "08km9Yqbt-A_116",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "Is the date of the total solar eclipse marked on the map?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only the month",
+                "D. Only the year"
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_117": {
+            "id": "08km9Yqbt-A_117",
+            "scene": 14,
+            "dimension": "Visual-cue",
+            "question": "What feature enhances the clarity of the map?",
+            "options": [
+                "A. The map has subtle state boundaries.",
+                "B. The map shows the eclipse path with a bold red line.",
+                "C. The map includes population density information.",
+                "D. The map displays temperature gradients."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_118": {
+            "id": "08km9Yqbt-A_118",
+            "scene": 14,
+            "dimension": "Spatial",
+            "question": "Where is the 'AccuWeather' logo located on the map?",
+            "options": [
+                "A. Bottom left corner.",
+                "B. Top right corner.",
+                "C. Bottom right corner.",
+                "D. Top left corner."
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_119": {
+            "id": "08km9Yqbt-A_119",
+            "scene": 15,
+            "dimension": "Spatial",
+            "question": "Where is the Earth located in the image?",
+            "options": [
+                "A. Appears on the right side of the image.",
+                "B. Completely obscured by the background.",
+                "C. Appears on the left side of the image.",
+                "D. Does not appear in the image at all."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_120": {
+            "id": "08km9Yqbt-A_120",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "What details emphasize the presence of Earth in the scene?",
+            "options": [
+                "A. Earth is fully visible in the frame, clearly showing its continents.",
+                "B. It is adorned with faint city lights and its bright edges.",
+                "C. Earth reflects the intense brilliance of the Sun's corona.",
+                "D. During a lunar eclipse, Earth's shadow crosses the Moon."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_121": {
+            "id": "08km9Yqbt-A_121",
+            "scene": 15,
+            "dimension": "Description-Scene",
+            "question": "What is the setting background for observing the solar eclipse?",
+            "options": [
+                "A. The setting is on Earth.",
+                "B. The setting is in a control room.",
+                "C. The setting is in deep space.",
+                "D. The setting is on the surface of the Moon."
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_122": {
+            "id": "08km9Yqbt-A_122",
+            "scene": 15,
+            "dimension": "Description-Object",
+            "question": "What does the moon look like during a solar eclipse?",
+            "options": [
+                "A. The moon is a bright object next to the sun.",
+                "B. The moon is a black silhouette that completely blocks the sun.",
+                "C. The moon appears as a crescent shape next to the sun.",
+                "D. The moon is partially illuminated, creating a glowing effect."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_123": {
+            "id": "08km9Yqbt-A_123",
+            "scene": 16,
+            "dimension": "Description-Scene",
+            "question": "What can be seen around the sun during a solar eclipse?",
+            "options": [
+                "A. The shadow of the moon",
+                "B. The brilliant solar corona",
+                "C. Crescent-shaped Earth",
+                "D. Distant stars"
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_124": {
+            "id": "08km9Yqbt-A_124",
+            "scene": 15,
+            "dimension": "Description-Scene",
+            "question": "What objects can be seen in the background of a solar eclipse scene?",
+            "options": [
+                "A. Distant stars dotting the vast black background.",
+                "B. A galaxy with bright spots.",
+                "C. Other planets in the solar system.",
+                "D. A meteor shower crossing the scene."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_125": {
+            "id": "08km9Yqbt-A_125",
+            "scene": 15,
+            "dimension": "Description-Scene",
+            "question": "In the eclipse scene, how is Earth depicted?",
+            "options": [
+                "A. Earth is completely obscured by the eclipse",
+                "B. Earth appears as a crescent shape, and city lights can be seen in some scenes",
+                "C. Earth is fully illuminated in the background",
+                "D. Earth is not depicted at all in the scene"
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_126": {
+            "id": "08km9Yqbt-A_126",
+            "scene": 15,
+            "dimension": "Binary",
+            "question": "Does the scene describe any human involvement?",
+            "options": [
+                "A. Yes, there is significant human presence in the scene.",
+                "B. Yes, a few humans are depicted as observing the solar eclipse.",
+                "C. No, only celestial and terrestrial elements are described.",
+                "D. Yes, humans are described as interacting with the astronomical event."
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_127": {
+            "id": "08km9Yqbt-A_127",
+            "scene": 15,
+            "dimension": "Count",
+            "question": "How many celestial bodies are mainly focused on in the video? (excluding the sun)",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_128": {
+            "id": "08km9Yqbt-A_128",
+            "scene": 16,
+            "dimension": "Binary",
+            "question": "Can the Earth be seen throughout the entire scene?",
+            "options": [
+                "A. Yes, the Earth can be seen throughout the entire scene.",
+                "B. No, the Earth has been removed from the frame.",
+                "C. Yes, the Earth can be seen, but only as a blurry outline.",
+                "D. No, the Earth never appears in the scene."
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_129": {
+            "id": "08km9Yqbt-A_129",
+            "scene": 16,
+            "dimension": "Attribute Change",
+            "question": "How does the solar corona change in this scene?",
+            "options": [
+                "A. Radial beams extend outward, with higher clarity and shining brightly.",
+                "B. Disappears into the darkness.",
+                "C. Turns into a ring of flames.",
+                "D. The color changes to deep blue, forming a stark contrast with the moon."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_130": {
+            "id": "08km9Yqbt-A_130",
+            "scene": 16,
+            "dimension": "Camera Shot",
+            "question": "Throughout the entire video, what does the camera consistently focus on?",
+            "options": [
+                "A. The camera consistently focuses on the total solar eclipse.",
+                "B. The camera consistently focuses on the Earth.",
+                "C. The camera consistently focuses on the stars in the deep space background.",
+                "D. The camera consistently focuses on the 'AccuWeather' logo in the bottom right corner."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_131": {
+            "id": "08km9Yqbt-A_131",
+            "scene": 16,
+            "dimension": "Attribute Change",
+            "question": "Does the video description mention changes in the speed of celestial events?",
+            "options": [
+                "A. Yes, the description emphasizes the rapid change in the speed of celestial events.",
+                "B. Yes, the description highlights the gradual change in the speed of celestial events.",
+                "C. No, the description focuses on visual details and does not mention changes in the speed of celestial events.",
+                "D. No, the description clearly states that there is no change in the celestial events."
+            ],
+            "answer": "C"
+        },
+        "08km9Yqbt-A_132": {
+            "id": "08km9Yqbt-A_132",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is the scene after the water surface and starry sky in the tranquil night?",
+            "options": [
+                "A. The scene transitions to a stunning outer space perspective, showcasing the Earth's curvature and a sky full of stars.",
+                "B. The scene transitions to a bustling cityscape illuminated by bright neon lights.",
+                "C. The scene changes to a serene forest with a gentle stream flowing under the moonlight.",
+                "D. The scene shifts to a desert landscape with a clear view of the Milky Way."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_133": {
+            "id": "08km9Yqbt-A_133",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What replaces the tranquil camping setup, a red tent under the Milky Way?",
+            "options": [
+                "A. A dynamic solar eclipse, focusing on the 'diamond ring' effect when the moon covers the sun.",
+                "B. The sun rises from the mountain horizon, painting the scenery with a golden hue.",
+                "C. A meteor shower streaks across the sky, accompanied by the appearance of the aurora.",
+                "D. Magnified observation of Saturn and its intricate ring system in deep space."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_134": {
+            "id": "08km9Yqbt-A_134",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is immediately seen after observing the details of Saturn's rings and shadows?",
+            "options": [
+                "A. Close-up observation of Jupiter's surface.",
+                "B. Panoramic view of Mars.",
+                "C. Detailed image of the Milky Way.",
+                "D. View of Venus."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_135": {
+            "id": "08km9Yqbt-A_135",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What happens after depicting the alignment of Jupiter, Mars, and Saturn?",
+            "options": [
+                "A. The scene transitions to a sky where these three stars and the moon align in a straight line.",
+                "B. The scene transitions to the Orion constellation.",
+                "C. The scene transitions to a meteor shower.",
+                "D. The scene transitions to the Northern Lights."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_136": {
+            "id": "08km9Yqbt-A_136",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What celestial body is depicted after Saturn in the video?",
+            "options": [
+                "A. Panoramic view of Jupiter",
+                "B. Detailed view of Mars",
+                "C. Close-up of Venus",
+                "D. Panoramic view of Mercury"
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_137": {
+            "id": "08km9Yqbt-A_137",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is shown after Jupiter in the video?",
+            "options": [
+                "A. A total solar eclipse seen from space",
+                "B. Meteor shower",
+                "C. Crescent Earth with city lights",
+                "D. AccuWeather logo"
+            ],
+            "answer": "B"
+        },
+        "08km9Yqbt-A_138": {
+            "id": "08km9Yqbt-A_138",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happened after the meteor shower in the video?",
+            "options": [
+                "A. It was a total solar eclipse.",
+                "B. It was a total lunar eclipse.",
+                "C. It was a supernova explosion.",
+                "D. A comet passed near the Earth."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_139": {
+            "id": "08km9Yqbt-A_139",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What was shown at the end of the video after the first solar eclipse?",
+            "options": [
+                "A. A map of the solar eclipse's path.",
+                "B. A view of Earth from space.",
+                "C. Close-up details of the moon's surface.",
+                "D. Time-lapse photography of the solar eclipse from different locations."
+            ],
+            "answer": "A"
+        },
+        "08km9Yqbt-A_140": {
+            "id": "08km9Yqbt-A_140",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What content will be presented after showing the map depicting the trajectory of a total solar eclipse?",
+            "options": [
+                "A. The view of the solar eclipse from space, showing Earth's crescent shape and the shadow of the Moon.",
+                "B. A detailed explanation of the causes of a solar eclipse and its occurrence process.",
+                "C. An image of Earth completely covered in shadow, showing no features.",
+                "D. A time-lapse video of the solar eclipse progression captured from different locations on Earth."
+            ],
+            "answer": "A"
+        }
+    }
+}

@@ -1,0 +1,1897 @@
+{
+    "scene_hint": {
+        "0": "A woman is quietly falling asleep, and bubble images appear.",
+        "1": "Bubble images enter the filing cabinet and are filled with cleansing foam.",
+        "2": "Transition to a cityscape with a person sleeping soundly.",
+        "3": "A brain is being cleansed.",
+        "4": "A Black person is sleeping soundly in a room.",
+        "5": "A man is sitting at a desk.",
+        "6": "A close-up of a woman's face.",
+        "7": "Many bottles and jars are placed on the table.",
+        "8": "Someone is driving.",
+        "9": "Two elderly people are in front of the building.",
+        "10": "Someone is sleeping soundly in a room.",
+        "11": "The notebook gradually closes.",
+        "12": "Someone is lying in bed reading a book.",
+        "13": "The process of someone sleeping from night to waking up in the morning.",
+        "14": "Drinks and food appear sequentially in a minimalist scene.",
+        "15": "Someone sleeping in a bedroom at night.",
+        "16": "Daytime park scene.",
+        "17": "Transition from an image of the sun to a woman sitting on a bed.",
+        "18": "Show an abstract composition made of geometric shapes, then the image gradually darkens."
+    },
+    "qa": {
+        "IzQ2siryQrM_0": {
+            "id": "IzQ2siryQrM_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "From the picture, where is the bedside table located relative to the bed?",
+            "options": [
+                "A. The bedside table is on the right side of the bed.",
+                "B. The bedside table is at the foot of the bed.",
+                "C. The bedside table is on the left side of the bed.",
+                "D. The bedside table is behind the bed."
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_1": {
+            "id": "IzQ2siryQrM_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the atmosphere of the bedroom at night?",
+            "options": [
+                "A. The atmosphere is chaotic and noisy, the lights are bright, and the environment is lively.",
+                "B. The atmosphere is tranquil, peaceful, and serene, the lights are dim, and the environment is calm.",
+                "C. The atmosphere is tense and suspenseful, the lights flicker, and the environment is eerie.",
+                "D. The atmosphere is lively and energetic, the lights are colorful, and the environment is festive."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_2": {
+            "id": "IzQ2siryQrM_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the young woman doing on the bed?",
+            "options": [
+                "A. She is quietly sleeping.",
+                "B. She is focused on reading.",
+                "C. She is sitting up and making a phone call.",
+                "D. She is holding a remote control and watching TV."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_3": {
+            "id": "IzQ2siryQrM_3",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What appears in the lower left corner of the close-up shot?",
+            "options": [
+                "A. An open book",
+                "B. A bedside lamp emitting a warm glow",
+                "C. A clock showing nighttime",
+                "D. A portrait of a sleeping woman"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_4": {
+            "id": "IzQ2siryQrM_4",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "In the close-up view of the sleeping woman, how many objects or scenes are depicted?",
+            "options": [
+                "A. One object or scene",
+                "B. Two objects or scenes",
+                "C. Three objects or scenes",
+                "D. Four objects or scenes"
+            ],
+            "answer": "D"
+        },
+        "IzQ2siryQrM_5": {
+            "id": "IzQ2siryQrM_5",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "In the night scene, does the window show a crescent moon?",
+            "options": [
+                "A. Yes, the window shows a crescent moon in the night sky.",
+                "B. No, the window only shows little stars.",
+                "C. Yes, but the moon shown is a full moon, not a crescent moon.",
+                "D. No, the window only shows buildings."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_6": {
+            "id": "IzQ2siryQrM_6",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Did the stars appear through the window in the nighttime scene?",
+            "options": [
+                "A. Yes",
+                "B. Only the moon is visible",
+                "C. Only clouds are visible",
+                "D. The curtains are drawn"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_7": {
+            "id": "IzQ2siryQrM_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "In the close-up shot, which action indicates the neural activity of the woman's brain?",
+            "options": [
+                "A. The glowing depiction of her brain shows slight pulsation.",
+                "B. The white pillow under her head glows faintly.",
+                "C. The window shows a reflection of her brain activity.",
+                "D. Her brain is surrounded by blue currents."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_8": {
+            "id": "IzQ2siryQrM_8",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "In which direction does the 'zzz' symbol rise above the woman's head?",
+            "options": [
+                "A. The 'zzz' symbol descends in a straight line downwards above the woman's head.",
+                "B. The 'zzz' symbol rises in a step-like manner above the woman's head.",
+                "C. The 'zzz' symbol remains stationary, not moving above the woman's head.",
+                "D. The 'zzz' symbol forms a circular pattern above the woman's head."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_9": {
+            "id": "IzQ2siryQrM_9",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in the shot of the sleeping woman?",
+            "options": [
+                "A. An intimate angle focused on her serene expression and peaceful state.",
+                "B. A wide-angle capturing the entire bedroom environment.",
+                "C. A bird's-eye view showcasing the woman and surrounding furniture.",
+                "D. A low-angle emphasizing the glowing crescent moon outside."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_10": {
+            "id": "IzQ2siryQrM_10",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "How does the depiction of brain illumination change when transitioning to a closer perspective?",
+            "options": [
+                "A. It becomes brighter.",
+                "B. It becomes darker.",
+                "C. It remains unchanged.",
+                "D. It completely fades away."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_11": {
+            "id": "IzQ2siryQrM_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What visual elements are used in the scene to depict subconscious thought activities?",
+            "options": [
+                "A. The different scenes depicted on the bubbles illustrate thought activities and reflection.",
+                "B. The silhouette pattern of distant buildings shown in the window represents subconscious thought activities.",
+                "C. The combination of the glowing crescent moon and stars in the window symbolizes subconscious thought and reflection.",
+                "D. The small TV screen in the bedroom depicts thought activities and reflection."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_12": {
+            "id": "IzQ2siryQrM_12",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What happens to the file cabinet when the white mist gets bigger?",
+            "options": [
+                "A. The file cabinet becomes more detailed and colorful.",
+                "B. A white mist envelops the file cabinet.",
+                "C. The file cabinet becomes part of the urban landscape.",
+                "D. The file cabinet is swept away and disappears."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_13": {
+            "id": "IzQ2siryQrM_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "How does the video end?",
+            "options": [
+                "A. The video ends with a scene of young people quietly falling asleep.",
+                "B. The video ends with abstract elements of a yellow brain and filing cabinets.",
+                "C. The video ends with a white mist filling the entire scene.",
+                "D. The video ends with a filing cabinet opening, revealing colorful creativity."
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_14": {
+            "id": "IzQ2siryQrM_14",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment depicted in the video?",
+            "options": [
+                "A. The overall environment is a tranquil minimalist urban landscape.",
+                "B. The overall environment is a chaotic urban landscape.",
+                "C. The overall environment is a dense forest.",
+                "D. The overall environment is a futuristic space station."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_15": {
+            "id": "IzQ2siryQrM_15",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "In the final scene, what posture is the young man in?",
+            "options": [
+                "A. The young man is depicted in a peaceful sleeping posture.",
+                "B. The young man is shown sitting upright in contemplation.",
+                "C. The young man is standing and gazing at the cityscape.",
+                "D. The young man is walking through an abstract cityscape."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_16": {
+            "id": "IzQ2siryQrM_16",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "In the final scene, how is the young man's posture depicted?",
+            "options": [
+                "A. Appears chaotic and disconnected from the surroundings.",
+                "B. Blends harmoniously with the tranquil urban background.",
+                "C. Appears stiff and tense against the urban backdrop.",
+                "D. Highlighted in contrasting colors."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_17": {
+            "id": "IzQ2siryQrM_17",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the broom shown in the video?",
+            "options": [
+                "A. The broom has bright red bristles.",
+                "B. The broom has natural beige bristles.",
+                "C. The broom has blue bristles.",
+                "D. The broom has synthetic bristles."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_18": {
+            "id": "IzQ2siryQrM_18",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the broom handle shown in the video?",
+            "options": [
+                "A. The broom has a stainless steel handle.",
+                "B. The broom has a wooden handle.",
+                "C. The broom has a plastic handle.",
+                "D. The broom has an alloy handle."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_19": {
+            "id": "IzQ2siryQrM_19",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many main environments are depicted in the scene?",
+            "options": [
+                "A. Two main environments",
+                "B. Three main environments",
+                "C. Four main environments",
+                "D. One main environment"
+            ],
+            "answer": "D"
+        },
+        "IzQ2siryQrM_20": {
+            "id": "IzQ2siryQrM_20",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "At the end of the video, does the white mist completely dissipate?",
+            "options": [
+                "A. Yes, it completely dissipates, revealing the cityscape.",
+                "B. No, it partially dissipates, with some elements still obscured.",
+                "C. Yes, but it reveals a forest instead of the cityscape.",
+                "D. No, the white mist does not dissipate at all."
+            ],
+            "answer": "D"
+        },
+        "IzQ2siryQrM_21": {
+            "id": "IzQ2siryQrM_21",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the broom take in the scene?",
+            "options": [
+                "A. The broom is drawing.",
+                "B. The broom is sweeping the floor.",
+                "C. The broom is motionless.",
+                "D. The broom is transforming."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_22": {
+            "id": "IzQ2siryQrM_22",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What does a broom symbolize when it is waving in the brain?",
+            "options": [
+                "A. It symbolizes a metaphorical clearing or organizing of thoughts.",
+                "B. It represents the disruption of cognitive processes.",
+                "C. It describes the generation of chaotic thoughts.",
+                "D. It indicates the forgetting of memories."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_23": {
+            "id": "IzQ2siryQrM_23",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "In which direction does the white mist spread?",
+            "options": [
+                "A. The white mist spreads inward.",
+                "B. The white mist spreads upward.",
+                "C. The white mist spreads outward.",
+                "D. The white mist spreads downward."
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_24": {
+            "id": "IzQ2siryQrM_24",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "In the process of interacting with the brain, how does the movement of the broom change over time?",
+            "options": [
+                "A. The movement of the broom becomes more intense.",
+                "B. The movement of the broom slows down and becomes gentle.",
+                "C. The movement of the broom remains unchanged.",
+                "D. The movement of the broom completely stops."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_25": {
+            "id": "IzQ2siryQrM_25",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "How does the scene change when abstract cognitive elements are replaced by fog?",
+            "options": [
+                "A. The scene turns into a whirl of chaotic colors and shapes.",
+                "B. The scene is completely dominated by white fog.",
+                "C. The scene introduces a bustling city.",
+                "D. The scene transforms into a tranquil lakeside view."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_26": {
+            "id": "IzQ2siryQrM_26",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "How does the new scene appear?",
+            "options": [
+                "A. A bird flies across the screen.",
+                "B. The city skyline, blue sky, and sun are revealed.",
+                "C. Slowly zooming out, showcasing the cityscape.",
+                "D. Fade in and out transition with flashing effects."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_27": {
+            "id": "IzQ2siryQrM_27",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the crumpled paper?",
+            "options": [
+                "A. On the table near the monitor",
+                "B. Under the table, near the person's outstretched foot",
+                "C. In the black cylindrical pen holder",
+                "D. On top of a stack of white paper"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_28": {
+            "id": "IzQ2siryQrM_28",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "How is the overall environment of the scene?",
+            "options": [
+                "A. The office scene is modern, minimalist, and tranquil.",
+                "B. The office scene is cluttered and chaotic.",
+                "C. The office scene is vibrant and noisy.",
+                "D. The office scene is dim and gloomy."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_29": {
+            "id": "IzQ2siryQrM_29",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is the man wearing in the last frame of the video?",
+            "options": [
+                "A. A bright orange sweater",
+                "B. A bright orange shirt",
+                "C. A red shirt",
+                "D. A red sweater"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_30": {
+            "id": "IzQ2siryQrM_30",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What is the design of the table in the scene?",
+            "options": [
+                "A. The table has a light-colored surface and four slender legs.",
+                "B. The table is a large wooden table.",
+                "C. The table has a glass tabletop.",
+                "D. The table has a dark-colored surface and thick, sturdy legs."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_31": {
+            "id": "IzQ2siryQrM_31",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many stacks of paper are on the table?",
+            "options": [
+                "A. One stack",
+                "B. Two stacks",
+                "C. More than four stacks",
+                "D. Four stacks"
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_32": {
+            "id": "IzQ2siryQrM_32",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "In the last frame, is the battery icon above the monitor full?",
+            "options": [
+                "A. Yes, the battery icon is full in the last frame.",
+                "B. No, the battery icon in the last frame is almost empty.",
+                "C. No, the battery icon in the last frame is half full.",
+                "D. No, the battery icon in the last frame is completely empty."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_33": {
+            "id": "IzQ2siryQrM_33",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What did the man do with his legs?",
+            "options": [
+                "A. The man stretched his legs forward.",
+                "B. The man tucked his legs tightly under the chair.",
+                "C. The man crossed his legs.",
+                "D. The man placed his legs on the pole."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_34": {
+            "id": "IzQ2siryQrM_34",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "What is the direction of the monitor relative to the man?",
+            "options": [
+                "A. The monitor is facing the man.",
+                "B. The monitor is facing away from the man.",
+                "C. The monitor is tilted sideways.",
+                "D. The monitor is on the man's right side."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_35": {
+            "id": "IzQ2siryQrM_35",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in the video?",
+            "options": [
+                "A. The camera angle is static.",
+                "B. The camera angle is dynamic.",
+                "C. The camera angle is from above.",
+                "D. The camera angle is tilted."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_36": {
+            "id": "IzQ2siryQrM_36",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "How does the battery icon change throughout the video?",
+            "options": [
+                "A. The battery icon changes from fully charged green to partially empty.",
+                "B. The battery icon changes from partially empty red to fully charged green.",
+                "C. The battery icon remains fully charged green throughout the video.",
+                "D. The battery icon completely disappears from the screen."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_37": {
+            "id": "IzQ2siryQrM_37",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the scene shown in the video?",
+            "options": [
+                "A. The second scene introduces an illustrated character.",
+                "B. The second scene depicts a busy modern office.",
+                "C. The second scene transitions to a natural landscape.",
+                "D. The second scene shows rotating colors and geometric shapes."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_38": {
+            "id": "IzQ2siryQrM_38",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What does the newly introduced character look like?",
+            "options": [
+                "A. This character has curly, shoulder-length black hair.",
+                "B. This character has straight, shoulder-length black hair.",
+                "C. This character has short, wavy blonde hair.",
+                "D. This character has long, straight brown hair."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_39": {
+            "id": "IzQ2siryQrM_39",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What is the new character wearing?",
+            "options": [
+                "A. Wearing a blue shirt with polka dots.",
+                "B. Wearing a pink shirt with a neat white collar.",
+                "C. Wearing a green shirt with floral patterns.",
+                "D. Wearing a purple shirt with a ruffled collar."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_40": {
+            "id": "IzQ2siryQrM_40",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What style is the newly introduced image depicted in?",
+            "options": [
+                "A. The image is depicted in a minimalist vector art style.",
+                "B. The image is depicted in a realistic hand-drawn sketch style.",
+                "C. The image is depicted in a detailed watercolor painting style.",
+                "D. The image is depicted in a 3D CGI rendering style."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_41": {
+            "id": "IzQ2siryQrM_41",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What work-related items can be seen in the initial office environment?",
+            "options": [
+                "A. A computer monitor and scattered documents can be seen.",
+                "B. A desk lamp and a coffee cup can be seen.",
+                "C. A printer and a stack of documents can be seen.",
+                "D. An office chair and a clock can be seen."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_42": {
+            "id": "IzQ2siryQrM_42",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many individuals are displayed in the scene?",
+            "options": [
+                "A. One individual is displayed.",
+                "B. Two characters are displayed.",
+                "C. Three characters are displayed.",
+                "D. Four characters are displayed."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_43": {
+            "id": "IzQ2siryQrM_43",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Is the scene composed of only a solid cyan or teal background element?",
+            "options": [
+                "A. Yes.",
+                "B. No, there is also a red sun background element.",
+                "C. No, there is also a blue sky background element.",
+                "D. No, there is also a pink cherry blossom background element."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_44": {
+            "id": "IzQ2siryQrM_44",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What happens to the man at the end of the video?",
+            "options": [
+                "A. The man turns into a digital illustration character.",
+                "B. The man completely disappears.",
+                "C. The man interacts with the digital illustration character before disappearing.",
+                "D. The man remains seated at his desk."
+            ],
+            "answer": "D"
+        },
+        "IzQ2siryQrM_45": {
+            "id": "IzQ2siryQrM_45",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What does the scene look like visually?",
+            "options": [
+                "A. Realistic depiction of workplace fatigue and clutter elements.",
+                "B. Simple outdoor scene.",
+                "C. Colorful animation.",
+                "D. Crowded urban environment."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_46": {
+            "id": "IzQ2siryQrM_46",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the style of the scene like?",
+            "options": [
+                "A. The style changes to simple lines, no shadows, and a clear composition.",
+                "B. The style changes to more intricate textures and vibrant colors.",
+                "C. The style changes to surrealistic depictions with fine shadows.",
+                "D. The style changes to a monochrome, sketch-like aesthetic."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_47": {
+            "id": "IzQ2siryQrM_47",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "How do the images and characters in the initial scene transition spatially to a monotone canvas?",
+            "options": [
+                "A. The image of the central character and the cyan-green background is replaced by a unified beige or light peach canvas.",
+                "B. The characters and background are replaced by a detailed bustling urban landscape.",
+                "C. The vibrant image transitions to a monochrome sketch of the central character, retaining some spatial elements.",
+                "D. The scene transforms into a lively forest with dynamic lighting, replacing the cyan-green background with green scenery."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_48": {
+            "id": "IzQ2siryQrM_48",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What is the initial background color before the transition?",
+            "options": [
+                "A. Pale pink",
+                "B. Bright turquoise",
+                "C. Beige or light peach",
+                "D. Light gray"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_49": {
+            "id": "IzQ2siryQrM_49",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many different elements initially exist in the scene?",
+            "options": [
+                "A. Two different elements: the central character and their costume attributes.",
+                "B. Three different elements: the central character, their costume attributes, and the vivid turquoise background.",
+                "C. Four different elements: the central character, their costume attributes, the background, and additional props.",
+                "D. One different element: only the central character."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_50": {
+            "id": "IzQ2siryQrM_50",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "How does the arrangement of foreground objects change the visual hierarchy in a scene?",
+            "options": [
+                "A. The focus is clearly shifted to the four large bottles in the foreground, while the background elements appear faintly.",
+                "B. The bottles in the foreground remain still and opaque, not drawing attention to the background elements.",
+                "C. The bottles in the foreground are completely removed, making the bar background the main focus.",
+                "D. The foreground objects become blurred, losing all details, making the bar counter and stools the main focus of the scene."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_51": {
+            "id": "IzQ2siryQrM_51",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the overall scene of the video?",
+            "options": [
+                "A. A tranquil seaside scene.",
+                "B. A lively bar environment.",
+                "C. A bustling cityscape.",
+                "D. A serene forest clearing."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_52": {
+            "id": "IzQ2siryQrM_52",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What are the colors of the four large bottles in the foreground?",
+            "options": [
+                "A. The bottles are black, yellow, red, and transparent bluish-gray.",
+                "B. The bottles are black, orange, red, and transparent bluish-gray.",
+                "C. The bottles are black, orange, blue, and transparent bluish-gray.",
+                "D. The bottles are black, orange, red, and transparent green."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_53": {
+            "id": "IzQ2siryQrM_53",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What design and labels do the four large bottles in the foreground have?",
+            "options": [
+                "A. The bottles have bold shapes and oval and triangular labels.",
+                "B. The bottles are simple, with no labels or designs.",
+                "C. The bottles are shaped like animals, with floral patterns and circular labels.",
+                "D. The bottles have simple rectangular labels and solid pink colors."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_54": {
+            "id": "IzQ2siryQrM_54",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What specific details were mentioned about the orange bottle in the foreground?",
+            "options": [
+                "A. The orange bottle is the shortest.",
+                "B. The orange bottle is completely transparent.",
+                "C. The orange bottle has a star pattern on it.",
+                "D. The orange bottle has a black cap with an intricate design."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_55": {
+            "id": "IzQ2siryQrM_55",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many large bottles are prominently displayed in the foreground?",
+            "options": [
+                "A. Six large bottles",
+                "B. Seven large bottles",
+                "C. Five large bottles",
+                "D. Four large bottles"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_56": {
+            "id": "IzQ2siryQrM_56",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "Does the background include the outline of the bottle on the shelf illuminated by the light?",
+            "options": [
+                "A. Yes",
+                "B. No, it's the outline of a person",
+                "C. Only partially",
+                "D. No, it's the outline of a cat"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_57": {
+            "id": "IzQ2siryQrM_57",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred to the black bottle in the frame?",
+            "options": [
+                "A. The black bottle moved to the left and gradually disappeared before leaving the frame.",
+                "B. The black bottle moved to the right and became more opaque.",
+                "C. The black bottle remained stationary and became more vibrant.",
+                "D. The black bottle moved to the center and changed color."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_58": {
+            "id": "IzQ2siryQrM_58",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "What impact does the bottle becoming semi-transparent have on the visual dynamics of the scene?",
+            "options": [
+                "A. The bottle gradually becomes semi-transparent, creating a dynamic balance between the foreground and background.",
+                "B. The bottle becomes semi-transparent, completely blocking the background and eliminating all depth in the scene.",
+                "C. The bottle turns into a solid black silhouette, completely diverting attention away from the background.",
+                "D. The bottle remains opaque and stationary, maintaining a static and unchanged composition."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_59": {
+            "id": "IzQ2siryQrM_59",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "How does the position of the orange bottle change in the scene?",
+            "options": [
+                "A. The orange bottle moves to a position closer to the center.",
+                "B. The orange bottle shifts to the left and gradually disappears.",
+                "C. The orange bottle remains stationary and unchanged.",
+                "D. The orange bottle completely exits the scene."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_60": {
+            "id": "IzQ2siryQrM_60",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What makes the orange bottle the focal point of the scene?",
+            "options": [
+                "A. The orange bottle is the only one that is orange.",
+                "B. The orange bottle is the tallest among all the bottles.",
+                "C. The orange bottle is the only one with a triangular label.",
+                "D. The orange bottle is located at the far right of the scene."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_61": {
+            "id": "IzQ2siryQrM_61",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "What is the position of the elderly person in the urban environment scene?",
+            "options": [
+                "A. The elderly person was initially on the left side but later stood upright in the center.",
+                "B. The elderly person was initially on the right side but later stood upright in the center.",
+                "C. The elderly person was always in the center of the scene, fully visible.",
+                "D. The elderly person is not visible at all in the urban environment scene."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_62": {
+            "id": "IzQ2siryQrM_62",
+            "scene": 9,
+            "dimension": "Spatial",
+            "question": "In the urban environment scene, where is the old lady located?",
+            "options": [
+                "A. The old lady is on the left.",
+                "B. The old lady is on the right.",
+                "C. The old lady is in the middle.",
+                "D. The old lady is on the right."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_63": {
+            "id": "IzQ2siryQrM_63",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "In the urban environment scene, what is the old woman doing?",
+            "options": [
+                "A. Sitting on a bench.",
+                "B. Leaning on a cane.",
+                "C. Holding a basket.",
+                "D. Sitting on the ground."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_64": {
+            "id": "IzQ2siryQrM_64",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the scene?",
+            "options": [
+                "A. A car driving on the highway.",
+                "B. A busy city street.",
+                "C. A tranquil beach.",
+                "D. A dark alley."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_65": {
+            "id": "IzQ2siryQrM_65",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "In an urban environment, what are the notable physical characteristics of this elderly woman?",
+            "options": [
+                "A. Curly gray hair, thoughtful expression.",
+                "B. Straight hair, holding a cane.",
+                "C. Brown hair, with a pleasant smile.",
+                "D. Long silver hair, serious expression."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_66": {
+            "id": "IzQ2siryQrM_66",
+            "scene": 9,
+            "dimension": "Description-Human",
+            "question": "In an urban environment, what is this elderly woman's attire like?",
+            "options": [
+                "A. This elderly woman is wearing a purple dress with a pink shawl.",
+                "B. This elderly woman is wearing a teal dress with a blue shawl.",
+                "C. This elderly woman is wearing a gray skirt paired with a yellow scarf.",
+                "D. This elderly woman is wearing a purple jacket and a green hat."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_67": {
+            "id": "IzQ2siryQrM_67",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What features are available on the car dashboard in highway driving scenarios?",
+            "options": [
+                "A. The car dashboard is equipped with a touchscreen display and voice control.",
+                "B. The car dashboard is equipped with a digital display and a large navigation system.",
+                "C. The car dashboard is equipped with analog-style instruments and a small GPS display.",
+                "D. The car dashboard is equipped with an entertainment system and leather trim."
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_68": {
+            "id": "IzQ2siryQrM_68",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "How many elderly characters were introduced in the city scene?",
+            "options": [
+                "A. One elderly character",
+                "B. Two elderly characters",
+                "C. Three elderly characters",
+                "D. Four elderly characters"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_69": {
+            "id": "IzQ2siryQrM_69",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "Is the city environment depicted in a realistic style?",
+            "options": [
+                "A. Yes, it is depicted in a realistic style.",
+                "B. No, it is depicted in a cartoon style.",
+                "C. No, it is depicted in an ink painting style.",
+                "D. No, it is depicted in an abstract modern art style."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_70": {
+            "id": "IzQ2siryQrM_70",
+            "scene": 8,
+            "dimension": "Object Direction",
+            "question": "Which direction is the car moving?",
+            "options": [
+                "A. The car is moving forward.",
+                "B. The car is moving backward.",
+                "C. The car is moving sideways.",
+                "D. The car is stationary."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_71": {
+            "id": "IzQ2siryQrM_71",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "What camera angles are used in the driving sequence?",
+            "options": [
+                "A. Third-person perspective shot from the roadside.",
+                "B. First-person perspective is used.",
+                "C. Bird's-eye view, looking down at the highway from above.",
+                "D. Over-the-shoulder view from the back seat."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_72": {
+            "id": "IzQ2siryQrM_72",
+            "scene": 8,
+            "dimension": "Speed",
+            "question": "What is the perceived speed in the scene?",
+            "options": [
+                "A. Calm and steady.",
+                "B. Fast and chaotic.",
+                "C. Sudden and bumpy.",
+                "D. Fast and intense acceleration."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_73": {
+            "id": "IzQ2siryQrM_73",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What does the steering wheel look like?",
+            "options": [
+                "A. Black steering wheel.",
+                "B. Shiny red steering wheel.",
+                "C. White steering wheel.",
+                "D. Missing steering wheel."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_74": {
+            "id": "IzQ2siryQrM_74",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What is the scene of the video like?",
+            "options": [
+                "A. Hills and snowy mountains under a clear sky.",
+                "B. A bar scene filled with warm tones and a lively atmosphere.",
+                "C. Slanted gray buildings in an urban setting with a grassy foreground.",
+                "D. Peaceful interaction of elders under a pale blue sky."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_75": {
+            "id": "IzQ2siryQrM_75",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "Where is the tall potted plant in relation to the bed?",
+            "options": [
+                "A. Next to the bedside table on the right.",
+                "B. Next to the dressing table on the left.",
+                "C. In front of the bed.",
+                "D. Outside the room."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_76": {
+            "id": "IzQ2siryQrM_76",
+            "scene": 10,
+            "dimension": "Description-Scene",
+            "question": "What is the overall atmosphere of the bedroom environment?",
+            "options": [
+                "A. The overall atmosphere of the bedroom is tranquil and harmonious.",
+                "B. The overall atmosphere of the bedroom is chaotic and disordered.",
+                "C. The overall atmosphere of the bedroom is dark and mysterious.",
+                "D. The overall atmosphere of the bedroom is vibrant and colorful."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_77": {
+            "id": "IzQ2siryQrM_77",
+            "scene": 10,
+            "dimension": "Description-Human",
+            "question": "What is this person doing?",
+            "options": [
+                "A. This person is reading a book.",
+                "B. This person is resting peacefully.",
+                "C. This person is talking with two elderly people.",
+                "D. This person is getting up and walking to the door."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_78": {
+            "id": "IzQ2siryQrM_78",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "What does the bedding in the room look like?",
+            "options": [
+                "A. White bedding.",
+                "B. Colorful bedding.",
+                "C. Bedding with patterns.",
+                "D. Bedding with stripes."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_79": {
+            "id": "IzQ2siryQrM_79",
+            "scene": 10,
+            "dimension": "Description-Object",
+            "question": "What does the headboard look like?",
+            "options": [
+                "A. It has a dark-colored frame.",
+                "B. It has a light-colored frame.",
+                "C. It has a metal frame.",
+                "D. It has a wooden frame."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_80": {
+            "id": "IzQ2siryQrM_80",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "How many framed artworks are above the bed?",
+            "options": [
+                "A. There is one framed artwork above the bed.",
+                "B. There are two framed artworks above the bed.",
+                "C. There are three framed artworks above the bed.",
+                "D. There are four framed artworks above the bed."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_81": {
+            "id": "IzQ2siryQrM_81",
+            "scene": 10,
+            "dimension": "Binary",
+            "question": "Is there a white door in the room?",
+            "options": [
+                "A. Yes, there is a white door on the left side of the scene.",
+                "B. No, there is no visible door in the room.",
+                "C. No, the door is a dark-colored wooden door.",
+                "D. Yes, there is a white door on the right side of the scene."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_82": {
+            "id": "IzQ2siryQrM_82",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "Where is the white drawer cabinet in the room?",
+            "options": [
+                "A. The white drawer cabinet is on the left side of the room near the door.",
+                "B. The white drawer cabinet is on both sides of the bed.",
+                "C. The white drawer cabinet is on the right side of the room near the potted plant.",
+                "D. The white drawer cabinet is placed at the foot of the bed."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_83": {
+            "id": "IzQ2siryQrM_83",
+            "scene": 10,
+            "dimension": "Camera Shot",
+            "question": "What type of lens is used when showcasing a scene?",
+            "options": [
+                "A. Close-up lens",
+                "B. Wide-angle lens",
+                "C. Long shot lens",
+                "D. Aerial lens"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_84": {
+            "id": "IzQ2siryQrM_84",
+            "scene": 10,
+            "dimension": "Attribute Change",
+            "question": "What is the pace of change in the bedroom scene?",
+            "options": [
+                "A. The change occurs suddenly and intensely.",
+                "B. The change occurs subtly and gradually.",
+                "C. The change is chaotic and fragmented.",
+                "D. The change occurs quickly and sporadically."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_85": {
+            "id": "IzQ2siryQrM_85",
+            "scene": 10,
+            "dimension": "Count",
+            "question": "What elements were added to the scene as it progressed?",
+            "options": [
+                "A. A door and a drawer cabinet were added to the scene.",
+                "B. A large TV and a chandelier were added to the scene.",
+                "C. An armchair and a mirror were added to the scene.",
+                "D. A carpet, speakers, and a ceiling fan were added to the scene."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_86": {
+            "id": "IzQ2siryQrM_86",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "What words appear in the video to emphasize the theme of the bedroom?",
+            "options": [
+                "A. 'Sleep Hygiene'.",
+                "B. 'Peaceful Dreams'.",
+                "C. 'Restful Nights'.",
+                "D. 'Cozy Moments'."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_87": {
+            "id": "IzQ2siryQrM_87",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "Where is the text 'Sleep Hygiene' located in the video?",
+            "options": [
+                "A. It is located at the top of the screen.",
+                "B. It is located in the center of the screen.",
+                "C. It is located at the bottom of the screen.",
+                "D. It is located on the left side of the screen."
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_88": {
+            "id": "IzQ2siryQrM_88",
+            "scene": 11,
+            "dimension": "Attribute Change",
+            "question": "How has the laptop changed?",
+            "options": [
+                "A. From fully open and upright, to later having the lid completely closed.",
+                "B. From closed, to later having its lid fully open and upright.",
+                "C. From partially closed, to gradually opening until fully upright and visible.",
+                "D. From the lid being removed, to later being reinstalled."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_89": {
+            "id": "IzQ2siryQrM_89",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "Where is the position of the laptop with the lid closed?",
+            "options": [
+                "A. Place it at the bottom right corner of the screen.",
+                "B. Place it in front of the screen.",
+                "C. Place it in the background.",
+                "D. Place it at the top left of the screen."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_90": {
+            "id": "IzQ2siryQrM_90",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "What is the video scene setting?",
+            "options": [
+                "A. A tranquil bedroom environment.",
+                "B. A busy urban environment.",
+                "C. A modern office space.",
+                "D. An outdoor park."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_91": {
+            "id": "IzQ2siryQrM_91",
+            "scene": 12,
+            "dimension": "Description-Human",
+            "question": "What is that man wearing?",
+            "options": [
+                "A. A white sleeveless shirt and light blue pajama pants",
+                "B. A white T-shirt and dark blue shorts",
+                "C. A gray sweatshirt and white pants",
+                "D. A black tank top and gray sweatpants"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_92": {
+            "id": "IzQ2siryQrM_92",
+            "scene": 12,
+            "dimension": "Description-Human",
+            "question": "What is the man doing?",
+            "options": [
+                "A. The man is sitting on the bed, working on a laptop.",
+                "B. The man is reading a book.",
+                "C. The man is lying on the bed sleeping.",
+                "D. The man is standing by the window, gazing at the new moon."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_93": {
+            "id": "IzQ2siryQrM_93",
+            "scene": 12,
+            "dimension": "Description-Scene",
+            "question": "How is the environment in the bedroom scene?",
+            "options": [
+                "A. The environment is chaotic and busy.",
+                "B. The environment is calm and peaceful.",
+                "C. The environment is lively and colorful.",
+                "D. The environment is disorganized."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_94": {
+            "id": "IzQ2siryQrM_94",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "What are the design features of the laptop?",
+            "options": [
+                "A. It has a streamlined design, metal base, adorned with soft yellow rectangles and lines.",
+                "B. It has a plastic base, adorned with soft green rectangles and lines.",
+                "C. It features a wooden base design and is equipped with a graphical interface containing dynamic 3D elements.",
+                "D. It comes with a transparent glass cover, featuring an interface displaying colorful icons and videos."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_95": {
+            "id": "IzQ2siryQrM_95",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "What connectivity options does the laptop offer?",
+            "options": [
+                "A. Includes two USB ports, an SD card reader slot, and a charging port.",
+                "B. Includes an HDMI port, an Ethernet port, and a headphone jack.",
+                "C. Includes three USB ports and a FireWire port.",
+                "D. Includes a VGA port, a microphone input port, and a Thunderbolt port."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_96": {
+            "id": "IzQ2siryQrM_96",
+            "scene": 11,
+            "dimension": "Count",
+            "question": "How many laptops can be seen in the environment?",
+            "options": [
+                "A. One laptop",
+                "B. Two laptops",
+                "C. Three laptops",
+                "D. No laptops"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_97": {
+            "id": "IzQ2siryQrM_97",
+            "scene": 11,
+            "dimension": "Fine Grained Action",
+            "question": "Which subtle action indicates the transition of a laptop from being in use to being shut down?",
+            "options": [
+                "A. Use the power button to shut down the laptop",
+                "B. Unplug the laptop's charging cable",
+                "C. The laptop's screen lid is completely closed",
+                "D. Switch the laptop screen to a dimmer sleep mode"
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_98": {
+            "id": "IzQ2siryQrM_98",
+            "scene": 13,
+            "dimension": "Camera Shot",
+            "question": "Which shooting method is used in the scene?",
+            "options": [
+                "A. Use a front medium-wide angle lens.",
+                "B. Use a high-angle close-up shot.",
+                "C. Use an over-the-shoulder shot.",
+                "D. Use a wide-angle bird's-eye view."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_99": {
+            "id": "IzQ2siryQrM_99",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "What was initially displayed on the main laptop screen in the video?",
+            "options": [
+                "A. A clear and concise graphical interface.",
+                "B. A complex spreadsheet with charts.",
+                "C. A colorful video game screen.",
+                "D. Multiple open web browser tabs."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_100": {
+            "id": "IzQ2siryQrM_100",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements in the scene convey tranquility?",
+            "options": [
+                "A. The deep blue ambient light and the crescent moon and stars appearing in the window.",
+                "B. The faint lighting and the slight movement of the curtains.",
+                "C. The breathing light of the laptop and the soft color blocks.",
+                "D. The dim gray walls and the swirling patterns on the carpet."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_101": {
+            "id": "IzQ2siryQrM_101",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "What visual cues in a bedroom scene symbolize sleep?",
+            "options": [
+                "A. The 'Z' symbol above the sleeper's head and the crescent moon image.",
+                "B. Slippers on the patterned carpet and a blue blanket.",
+                "B. The dream image above the sleeper's head and the crescent moon image.",
+                "D. Light blue pajamas and a wooden bedside table."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_102": {
+            "id": "IzQ2siryQrM_102",
+            "scene": 15,
+            "dimension": "Spatial",
+            "question": "Where is the position of the potted plant relative to the little boy?",
+            "options": [
+                "A. The potted plant is on the windowsill by the little boy's bed.",
+                "B. The potted plant is on the bookshelf.",
+                "C. The potted plant is on the bedside table.",
+                "D. The potted plant is in the corner of the room."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_103": {
+            "id": "IzQ2siryQrM_103",
+            "scene": 16,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the scene?",
+            "options": [
+                "A. A warm and lively daytime park.",
+                "B. A tranquil countryside during the day.",
+                "C. A dark and stormy forest.",
+                "D. A peaceful and quiet nighttime garden."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_104": {
+            "id": "IzQ2siryQrM_104",
+            "scene": 16,
+            "dimension": "Description-Human",
+            "question": "What is the man wearing in the daytime park scene?",
+            "options": [
+                "A. The man is wearing a dark blue sweater and light blue pants.",
+                "B. The man is wearing a red sweater and black pants.",
+                "C. The man is wearing a green jacket and brown shorts.",
+                "D. The man is wearing a purple hoodie and jeans."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_105": {
+            "id": "IzQ2siryQrM_105",
+            "scene": 16,
+            "dimension": "Description-Human",
+            "question": "In the daytime park scene, what is that woman wearing?",
+            "options": [
+                "A. That woman is wearing a bright pink top.",
+                "B. That woman is wearing a dark blue sweater.",
+                "C. That woman is wearing a red dress.",
+                "D. That woman is wearing a green shirt."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_106": {
+            "id": "IzQ2siryQrM_106",
+            "scene": 15,
+            "dimension": "Description-Object",
+            "question": "What items in the little boy's bedroom add a personal touch?",
+            "options": [
+                "A. The little boy's bedroom has framed photos, a bookshelf, and a potted plant.",
+                "B. The little boy's bedroom has a TV, a toy box, and a desk lamp.",
+                "C. The little boy's bedroom has posters, a desk, and a bookshelf.",
+                "D. The little boy's bedroom has a computer, a game console, and a bean bag chair."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_107": {
+            "id": "IzQ2siryQrM_107",
+            "scene": 16,
+            "dimension": "Count",
+            "question": "How many people are in the scene?",
+            "options": [
+                "A. One person",
+                "B. Two people",
+                "C. Three people",
+                "D. Four people"
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_108": {
+            "id": "IzQ2siryQrM_108",
+            "scene": 16,
+            "dimension": "Count",
+            "question": "How many animals are in the scene?",
+            "options": [
+                "A. One dog",
+                "B. Two dogs",
+                "C. Three dogs",
+                "D. No animals"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_109": {
+            "id": "IzQ2siryQrM_109",
+            "scene": 13,
+            "dimension": "Attribute Change",
+            "question": "Does the video show the transition from night to day?",
+            "options": [
+                "A. Yes, the video shows the transition from night to day.",
+                "B. No, the video remains in the nighttime scene.",
+                "C. No, the video transitions from day to night.",
+                "D. The video does not depict any time transition."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_110": {
+            "id": "IzQ2siryQrM_110",
+            "scene": 16,
+            "dimension": "Object Direction",
+            "question": "Which direction is the dog moving in the park?",
+            "options": [
+                "A. The dog is moving with the man and woman.",
+                "B. The dog is moving away from the man and woman.",
+                "C. The dog is moving in circles near the couple.",
+                "D. The dog is stationary, sitting near the woman."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_111": {
+            "id": "IzQ2siryQrM_111",
+            "scene": 13,
+            "dimension": "Visual-cue",
+            "question": "What visual elements connect the night and day scenes in the video?",
+            "options": [
+                "A. The window on the left side of the frame shows a crescent moon and stars, linking the scenes together.",
+                "B. The clock shows the same time in both scenes, connecting them.",
+                "C. The recurring background layout and characters in both scenes serve as a connection.",
+                "D. The recurring sun in both scenes serves as a connection."
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_112": {
+            "id": "IzQ2siryQrM_112",
+            "scene": 15,
+            "dimension": "Description-Scene",
+            "question": "What is the lighting of the scene like?",
+            "options": [
+                "A. Dim and peaceful.",
+                "B. Bright and vibrant.",
+                "C. Vivid and colorful.",
+                "D. Intense and dramatic."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_113": {
+            "id": "IzQ2siryQrM_113",
+            "scene": 16,
+            "dimension": "Description-Scene",
+            "question": "What is the lighting like in the scene?",
+            "options": [
+                "A. Bright and sunny.",
+                "B. Dim and full of shadows.",
+                "C. Artificial, neon-colored.",
+                "D. Completely dark, with no visibility."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_114": {
+            "id": "IzQ2siryQrM_114",
+            "scene": 15,
+            "dimension": "Visual-cue",
+            "question": "Which visual element in the scene suggests the passage of time?",
+            "options": [
+                "A. The color change of the framed picture on the wall",
+                "B. The growth change of the potted plant on the windowsill",
+                "C. The appearance of the crescent moon and stars",
+                "D. The alarm clock by the bed showing 7 o'clock"
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_115": {
+            "id": "IzQ2siryQrM_115",
+            "scene": 16,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between men and women?",
+            "options": [
+                "A. Sitting very close in a park environment.",
+                "B. Sitting at opposite ends of the park, far apart from each other.",
+                "C. Sitting back to back on the lawn.",
+                "D. Standing with a large fence between them."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_116": {
+            "id": "IzQ2siryQrM_116",
+            "scene": 16,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the man and the dog?",
+            "options": [
+                "A. The man and the dog are close to each other in the park.",
+                "B. The man is standing far away from the dog.",
+                "C. The man and the dog are located on opposite sides of the park.",
+                "D. The man and the dog are not in the same scene at all."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_117": {
+            "id": "IzQ2siryQrM_117",
+            "scene": 16,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the woman and the dog?",
+            "options": [
+                "A. The woman and the dog are close to each other in a park setting.",
+                "B. The woman is holding the dog in her arms.",
+                "C. The woman is walking the dog.",
+                "D. The woman is watching the dog play indoors."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_118": {
+            "id": "IzQ2siryQrM_118",
+            "scene": 17,
+            "dimension": "Description-Scene",
+            "question": "What is the scene at the beginning of the video?",
+            "options": [
+                "A. An outdoor park with a man, a woman, and a dog.",
+                "B. An abstract minimalist composition.",
+                "C. A detailed indoor bedroom scene.",
+                "D. A text-heavy image about the Dana Foundation."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_119": {
+            "id": "IzQ2siryQrM_119",
+            "scene": 17,
+            "dimension": "Description-Scene",
+            "question": "What is the scene behind the video?",
+            "options": [
+                "A. A vibrant outdoor park scene",
+                "B. An abstract and minimalist geometric composition",
+                "C. A detailed indoor bedroom scene",
+                "D. A plain white background with text and the Dana Foundation signature"
+            ],
+            "answer": "C"
+        },
+        "IzQ2siryQrM_120": {
+            "id": "IzQ2siryQrM_120",
+            "scene": 18,
+            "dimension": "Description-Scene",
+            "question": "What is the scene of the video?",
+            "options": [
+                "A. A plain white background with text.",
+                "B. A vibrant outdoor park.",
+                "C. An abstract geometric design.",
+                "D. A detailed indoor bedroom."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_121": {
+            "id": "IzQ2siryQrM_121",
+            "scene": 17,
+            "dimension": "Description-Human",
+            "question": "What is the woman doing?",
+            "options": [
+                "A. The woman is sitting on the edge of the bed, stretching her body.",
+                "B. The woman is standing by the window, looking out.",
+                "C. The woman is lying on the bed, reading a book.",
+                "D. The woman is arranging the flowers on the bedside table."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_122": {
+            "id": "IzQ2siryQrM_122",
+            "scene": 17,
+            "dimension": "Description-Object",
+            "question": "What items are on the bedside table?",
+            "options": [
+                "A. A lamp, a clock",
+                "B. A lamp, a book",
+                "C. A lamp, a clock",
+                "D. A lamp, a plant"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_123": {
+            "id": "IzQ2siryQrM_123",
+            "scene": 17,
+            "dimension": "Description-Scene",
+            "question": "Does the bedroom scene include natural light?",
+            "options": [
+                "A. Yes, bathed in natural light.",
+                "B. No, the room relies entirely on artificial lighting.",
+                "C. No, only from the small lamp on the bedside table.",
+                "D. No, the scene is displayed entirely in darkness."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_124": {
+            "id": "IzQ2siryQrM_124",
+            "scene": 17,
+            "dimension": "Spatial",
+            "question": "What is the position of the cloud on the right relative to the sun?",
+            "options": [
+                "A. Passes through the center of the sun.",
+                "B. Located near the edge of the sun.",
+                "C. Intersects diagonally with the sun.",
+                "D. Forms an arc around the sun."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_125": {
+            "id": "IzQ2siryQrM_125",
+            "scene": 18,
+            "dimension": "Camera Shot",
+            "question": "What is the nature of the shot?",
+            "options": [
+                "A. The shot is a static close-up.",
+                "B. The shot is a dynamic panning scene.",
+                "C. The shot creates a sense of movement by zooming in and out.",
+                "D. The shot uses a wide-angle lens to cover the entire scene."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_126": {
+            "id": "IzQ2siryQrM_126",
+            "scene": 17,
+            "dimension": "Camera Shot",
+            "question": "How are scene transitions handled in the video?",
+            "options": [
+                "A. Scene transitions are gradual.",
+                "B. Scene transitions are quick.",
+                "C. Scene transitions are accompanied by a detailed narration explaining each scene.",
+                "D. Scene transitions involve fading to black before introducing the next scene."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_127": {
+            "id": "IzQ2siryQrM_127",
+            "scene": 18,
+            "dimension": "Description-Object",
+            "question": "What are the colors in the video?",
+            "options": [
+                "A. A pure white background with deep blue text.",
+                "B. A black background with white text.",
+                "C. A bright yellow background with green accents.",
+                "D. A metallic silver background with dark text."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_128": {
+            "id": "IzQ2siryQrM_128",
+            "scene": 18,
+            "dimension": "Visual-cue",
+            "question": "What is the text information on the pure white background?",
+            "options": [
+                "A. 'Produced with support from the Dana Foundation' and 'Explore the brain with us'",
+                "B. 'Produced with support from the Green Planet Initiative' and 'Discover the wonders of nature'",
+                "C. 'produced with attributes support from the National Art Fund' and 'Learn more about art and design'",
+                "D. 'produced with attributes support from the Knowledge Alliance' and 'Embrace the power of education'"
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_129": {
+            "id": "IzQ2siryQrM_129",
+            "scene": 18,
+            "dimension": "Description-Scene",
+            "question": "What is the initial scene of the video before the black screen?",
+            "options": [
+                "A. The initial scene shows the support information and logo of the Dana Foundation.",
+                "B. The initial scene shows a bustling, traffic-heavy cityscape.",
+                "C. The initial scene shows a tranquil beach with waves lapping at the shore.",
+                "D. The initial scene shows a colorful garden with flowers in full bloom."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_130": {
+            "id": "IzQ2siryQrM_130",
+            "scene": 18,
+            "dimension": "Visual-cue",
+            "question": "What visual element suggests the end of the presentation?",
+            "options": [
+                "A. The Dana Foundation logo on a clean white background.",
+                "B. Switching to a featureless black screen.",
+                "C. The appearance of new material or content.",
+                "D. Suddenly switching to a colorful picture frame."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_131": {
+            "id": "IzQ2siryQrM_131",
+            "scene": 18,
+            "dimension": "Binary",
+            "question": "Does the video contain any visual elements after the black screen?",
+            "options": [
+                "A. Yes, there are pictures displayed after the black screen.",
+                "B. No, the screen is completely black after the black screen.",
+                "C. Yes, there is text displayed after the black screen.",
+                "D. Yes, the screen turns white after the black screen."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_132": {
+            "id": "IzQ2siryQrM_132",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the initial focus of the scene in the video?",
+            "options": [
+                "A. A young woman quietly sleeping in a nighttime bedroom scene.",
+                "B. Dana Foundation's support information and logo appear on a white background.",
+                "C. A black blank screen with no visual elements or text.",
+                "D. A busy cityscape during the evening rush hour."
+            ],
+            "answer": "B"
+        },
+        "IzQ2siryQrM_133": {
+            "id": "IzQ2siryQrM_133",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What happens after depicting the scene of a woman falling asleep?",
+            "options": [
+                "A. The scene shifts to a closer, more intimate perspective.",
+                "B. The screen transitions to a series of landscapes symbolizing peaceful dreams.",
+                "C. The screen goes completely black, marking the end of the content.",
+                "D. The scene shifts to a group of people in a lab discussing sleep science."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_134": {
+            "id": "IzQ2siryQrM_134",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What do you see after sweeping the abstract brain with a broom?",
+            "options": [
+                "A. A tranquil minimalist cityscape appears.",
+                "B. A bustling market scene appears.",
+                "C. A dense forest landscape appears.",
+                "D. A vibrant ocean scene appears."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_135": {
+            "id": "IzQ2siryQrM_135",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "After the abstract brain performance, who is the focus?",
+            "options": [
+                "A. A young man sleeping in bed.",
+                "B. A lady reading a book.",
+                "C. A child playing with toys.",
+                "D. An elderly person walking in the park."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_136": {
+            "id": "IzQ2siryQrM_136",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What do the thought bubbles above the sleeping woman's head represent?",
+            "options": [
+                "A. They suggest thematic connections to the subconscious processing of multiple images.",
+                "B. They symbolize her dreams about upcoming events and daily affairs.",
+                "C. They represent visual cues from previous scenes involving social interactions.",
+                "D. They emphasize a focus on material wealth and a desire for success."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_137": {
+            "id": "IzQ2siryQrM_137",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does a broom symbolize in a cognitive abstract scene?",
+            "options": [
+                "A. A broom symbolizes metaphorically combing or organizing thoughts in the mind.",
+                "B. A broom is used to clear visual elements on the screen.",
+                "C. A broom represents a character in a cognitive abstract scene.",
+                "D. A broom is a symbol of physical activity and exercise."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_138": {
+            "id": "IzQ2siryQrM_138",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How does this scene reflect workplace exhaustion?",
+            "options": [
+                "A. The battery icon behind the man changes from full to partially depleted, symbolizing fatigue.",
+                "B. The calendar on the wall flips rapidly, indicating the passage of time.",
+                "C. The clock on the wall spins quickly, showing the pressure of deadlines.",
+                "D. The countdown timer on the screen reaches zero, indicating stress."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_139": {
+            "id": "IzQ2siryQrM_139",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the sequence of events transitioning from the park scene?",
+            "options": [
+                "A. The transition starts with the park scene, then shifts to an abstract minimalist composition, followed by an indoor bedroom scene, and ends with the Dana Foundation information box.",
+                "B. The transition starts with the indoor bedroom scene, then moves to the outdoor park scene, followed by an abstract minimalist composition, and ends with the Dana Foundation information box.",
+                "C. The transition goes directly from an abstract minimalist composition to the outdoor park scene, skipping any indoor scenes, and ends with the Dana Foundation information.",
+                "D. The transition goes directly from the outdoor park scene to the Dana Foundation information box, with no intermediate visuals."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_140": {
+            "id": "IzQ2siryQrM_140",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "After depicting a sleeping man in a tranquil city, what is the next scene?",
+            "options": [
+                "A. The scene transitions to an office environment.",
+                "B. The scene shifts to a bustling market full of various vendors.",
+                "C. The scene moves to a quiet library.",
+                "D. The scene changes to a sunny beach."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_141": {
+            "id": "IzQ2siryQrM_141",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What transformation follows the cartoonish urban environment and elderly characters?",
+            "options": [
+                "A. The scene shifts to a tranquil beach.",
+                "B. The scene turns into a bustling city street.",
+                "C. The scene switches to a cozy cottage.",
+                "D. The scene becomes an indoor bedroom."
+            ],
+            "answer": "D"
+        },
+        "IzQ2siryQrM_142": {
+            "id": "IzQ2siryQrM_142",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "In the scene of a woman in sleep, what does the glowing brain represent?",
+            "options": [
+                "A. The glowing brain may represent neural activity and complex brain functions.",
+                "B. The glowing brain symbolizes the woman's ability to control her dreams.",
+                "C. The glowing brain suggests an imminent transition to a waking state.",
+                "D. The glowing brain indicates the process of memories being forgotten."
+            ],
+            "answer": "A"
+        },
+        "IzQ2siryQrM_143": {
+            "id": "IzQ2siryQrM_143",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the battery icon change from full to partially empty in an office setting?",
+            "options": [
+                "A. The decline in energy and increase in fatigue over time.",
+                "B. Technical malfunction in office equipment.",
+                "C. Indicating issues with office power supply.",
+                "D. To notify the completion of office tasks."
+            ],
+            "answer": "A"
+        }
+    }
+}

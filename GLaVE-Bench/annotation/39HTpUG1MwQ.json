@@ -1,0 +1,739 @@
+{
+    "scene_hint": {
+        "0": "视频开头部分的介绍画面",
+        "1": "详细描绘了一个球形生物细胞，背景为蓝色渐变",
+        "2": "线粒体和ATP颗粒的特写可视化，以动态和科学准确的场景呈现",
+        "3": "使用柔和色彩对膜结构及其相关物质进行特写",
+        "4": "视频的结尾渐变动画"
+    },
+    "qa": {
+        "39HTpUG1MwQ_0": {
+            "id": "39HTpUG1MwQ_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频描述中的场景发生在哪里？",
+            "options": [
+                "A. 场景发生在一个纯白色的背景上。",
+                "B. 场景发生在实验室环境中。",
+                "C. 场景发生在医院病房中。",
+                "D. 场景发生在户外的公园里。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_1": {
+            "id": "39HTpUG1MwQ_1",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "图片中心的文字内容是什么？",
+            "options": [
+                "A. 图片中心的文字内容是：'Excerpt from a biomedical animation project'。",
+                "B. 图片中心的文字内容是：'Introduction to molecular biology animation'。",
+                "C. 图片中心的文字内容是：'Overview of genetic engineering techniques'。",
+                "D. 图片中心的文字内容是：'Highlights from a medical documentary film'。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_2": {
+            "id": "39HTpUG1MwQ_2",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "图片中的文字是正常的大小吗？",
+            "options": [
+                "A. 是，文字是正常的大小",
+                "B. 不是，文字过小，几乎不可见",
+                "C. 只有部分是，还存在过大的标题类文字",
+                "D. 不是，图中文字是很大的标题文字"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_3": {
+            "id": "39HTpUG1MwQ_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "图片中的文字清晰吗？",
+            "options": [
+                "A. 是",
+                "B. 不是",
+                "C. 部分清晰",
+                "D. 未提及"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_4": {
+            "id": "39HTpUG1MwQ_4",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "视频场景中有角色或人物吗？",
+            "options": [
+                "A. 是的，这个视频场景中有多个角色。",
+                "B. 不，这个视频场景中没有角色或人物。",
+                "C. 是的，可以在背景中看到几个人。",
+                "D. 不，但有一个动画角色。"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_5": {
+            "id": "39HTpUG1MwQ_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "视频描述中有多少行文字？",
+            "options": [
+                "A. 视频描述中有一行文字。",
+                "B. 视频描述中有两行文字。",
+                "C. 视频描述中没有文字。",
+                "D. 视频描述中有多行文字。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_6": {
+            "id": "39HTpUG1MwQ_6",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "图片的背景会发生变化吗？",
+            "options": [
+                "A. 是的，背景有丰富多彩的图案。",
+                "B. 不，背景始终保持不变。",
+                "C. 是的，背景有层次渐变的色调。",
+                "D. 是的，背景变成了更深色调。"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_7": {
+            "id": "39HTpUG1MwQ_7",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频中描述的环境是什么？",
+            "options": [
+                "A. 视频描述了一个高倍显微镜视角下的生物细胞。",
+                "B. 视频展示了一片森林景观，里面有各种树木和植物。",
+                "C. 视频捕捉到一个水下场景，展现了各种海洋生物。",
+                "D. 视频显示了一个白天的繁忙城市街道。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_8": {
+            "id": "39HTpUG1MwQ_8",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "视频中是否描述了人们的任何行动？",
+            "options": [
+                "A. 是的，视频中描述了人们的几个行动。",
+                "B. 不，视频中没有描述人们的任何行动。",
+                "C. 视频中只描述了一个人的一个行动。",
+                "D. 视频描述了多个人但没有具体的行动。"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_9": {
+            "id": "39HTpUG1MwQ_9",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "视频中是否描述了人们的任何属性？",
+            "options": [
+                "A. 是的，视频描述了人们的几个属性。",
+                "B. 不，视频中没有描述人们的属性。",
+                "C. 是的，视频中包括了科学细节和人的属性的混合。",
+                "D. 没有，但视频间接地暗示了人的属性。"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_10": {
+            "id": "39HTpUG1MwQ_10",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "线粒体中观察到哪些变化？",
+            "options": [
+                "A. 线粒体体积缩小，内部的弯曲纹路消失。",
+                "B. 线粒体的蓝色调显示出更强的鲜明度和清晰度。",
+                "C. 线粒体改变形状变得更球形，并移动到细胞底部。",
+                "D. 线粒体从细胞图像中完全消失。"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_11": {
+            "id": "39HTpUG1MwQ_11",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "场景中有多少个文字标签？（除去右下角的logo）",
+            "options": [
+                "A. 有一个文字标签。",
+                "B. 有两个文字标签。",
+                "C. 有三个文字标签。",
+                "D. 没有文字标签。"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_12": {
+            "id": "39HTpUG1MwQ_12",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景中的标签及其位置是什么？（除去右下角的logo）",
+            "options": [
+                "A. 一个标签位于靠近细胞核的小型细胞器旁，被标注为“mitochondrion”，另一个标签位于底部中央，被标注为“cell”。",
+                "B. 只有一个标签位于细胞核上方，被标注为“mitochondrion”。",
+                "C. 一个标签位于细胞核上方，被标注为“mitochondrion”，另一个标签位于右下方，标注为“cell”。",
+                "D. 标签包括一个位于中心，标注为“mitochondria”，另一个位于左下角，标注为“organelle”。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_13": {
+            "id": "39HTpUG1MwQ_13",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "哪个视觉变化突出了场景中的线粒体？",
+            "options": [
+                "A. 线粒体变大并改变了形状。",
+                "B. 线粒体开始持续发光变亮。",
+                "C. 蓝色色调的增加与边缘的闪烁。",
+                "D. 线粒体在细胞内移动到了不同的位置。"
+            ],
+            "answer": "C"
+        },
+        "39HTpUG1MwQ_14": {
+            "id": "39HTpUG1MwQ_14",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "线粒体会随着时间向细胞核移动吗？",
+            "options": [
+                "A. 是的，线粒体随着时间始终向细胞核靠近。",
+                "B. 不，在描述中没有任何迹象表明线粒体会向细胞核移动。",
+                "C. 是的，但只有少数线粒体表现出向细胞核移动的行为。",
+                "D. 不，线粒体随着时间始终向细胞核远离。"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_15": {
+            "id": "39HTpUG1MwQ_15",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "视频中使用了哪种类型的摄像镜头？",
+            "options": [
+                "A. 静止、高倍显微视图",
+                "B. 俯拍的电影般平移镜头",
+                "C. 动态放大伴随旋转角度",
+                "D. 低分辨率的广角镜头"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_16": {
+            "id": "39HTpUG1MwQ_16",
+            "scene": 1,
+            "dimension": "Speed",
+            "question": "视频中速度的变化明显吗？",
+            "options": [
+                "A. 是的，视频中速度的变化清晰可见。",
+                "B. 不，视频中没有描述速度的变化。",
+                "C. 整个视频中速度有轻微的变化。",
+                "D. 有速度变化，但并不显著。"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_17": {
+            "id": "39HTpUG1MwQ_17",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "在场景中，特定线粒体发生了什么属性变化？",
+            "options": [
+                "A. 特定线粒体的颜色鲜艳度明显增强，特别是在细胞边缘和细胞核附近。",
+                "B. 特定线粒体的体积显著减小，特别是在细胞边缘和细胞核附近。",
+                "C. 特定线粒体变得更透明且难以看清，特别是在细胞边缘和细胞核附近。",
+                "D. 特定线粒体移动到细胞中心，远离细胞边缘和细胞核。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_18": {
+            "id": "39HTpUG1MwQ_18",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "有哪些视觉元素增强了视频的科学准确性和教育价值？",
+            "options": [
+                "A. 线粒体中的鲜艳色彩变化以及散落的碎片颗粒。",
+                "B. 像'mitochondrion'和'cell'这样的文字标签，还有'CORTICAL STUDIOS'的水印。",
+                "C. 柔和的渐变蓝色背景以及细胞核的连贯展示。",
+                "D. 细胞的高倍放大视图和线粒体内错综的波形图案。"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_19": {
+            "id": "39HTpUG1MwQ_19",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "在第一帧中细胞核位于哪里？",
+            "options": [
+                "A. 细胞核位于细胞的左上角。",
+                "B. 细胞核位于细胞的中央。",
+                "C. 细胞核位于细胞的右下角。",
+                "D. 细胞核位于细胞外。"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_20": {
+            "id": "39HTpUG1MwQ_20",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "第一帧的背景颜色是什么？",
+            "options": [
+                "A. 背景是柔和的渐变蓝色。",
+                "B. 背景是深蓝色和青绿色调。",
+                "C. 背景是明亮的白色和黄色渐变。",
+                "D. 背景是纯黑色。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_21": {
+            "id": "39HTpUG1MwQ_21",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "第一幅画面中描绘的环境是什么？",
+            "options": [
+                "A. 环境强调了一种细胞般、观察性、科学性的氛围。",
+                "B. 环境突出了一个繁忙的都市景观，带有显微镜下的叠加效果。",
+                "C. 环境展示了一个宇宙、星际主题，有鲜艳的星团。",
+                "D. 环境描绘了一个宁静的水下生态系统，有漂浮的海洋生物。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_22": {
+            "id": "39HTpUG1MwQ_22",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "存在哪种水印？",
+            "options": [
+                "A. 一个专业水印，上面写着“CORTICAL STUDIOS”。",
+                "B. 一个专业水印，上面写着“BIOLOGICAL IMAGES”。",
+                "C. 一个专业水印，上面写着“CELLULAR VIEWS”。",
+                "D. 一个专业水印，上面写着“ORGANELLE STUDIES”。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_23": {
+            "id": "39HTpUG1MwQ_23",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "水印位于哪里？",
+            "options": [
+                "A. 它巧妙地放置在右下角。",
+                "B. 它显眼地显示在左上角。",
+                "C. 它巧妙地放置在画面中央。",
+                "D. 它显眼地显示在左下角。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_24": {
+            "id": "39HTpUG1MwQ_24",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "在局部特写视图中，线粒体是如何描述的？",
+            "options": [
+                "A. 线粒体厚实，细长，圆柱形，带有发光的蓝色变化和明显的膜褶。",
+                "B. 线粒体小，球形，表面光滑，带有绿色调。",
+                "C. 线粒体薄，扁平，具有透明结构和黄色亮点。",
+                "D. 线粒体形状不规则，没有特定的颜色，质地粗糙。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_25": {
+            "id": "39HTpUG1MwQ_25",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "线粒体在转化过程中分裂成几个部分？",
+            "options": [
+                "A. 两半",
+                "B. 三部分",
+                "C. 四段",
+                "D. 五块"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_26": {
+            "id": "39HTpUG1MwQ_26",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "视频帧中的背景是否保持静止？",
+            "options": [
+                "A. 是的，背景通常保持静止。",
+                "B. 不，背景颜色和图案不断变化。",
+                "C. 是的，但在某些帧中，背景完全变黑。",
+                "D. 不，背景包含其他细胞结构的详细图像。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_27": {
+            "id": "39HTpUG1MwQ_27",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "当 ATP 粒子数量增加时，线粒体的外观会发生什么变化？",
+            "options": [
+                "A. 线粒体的描绘变得越来越生动，发光的轮廓表明有生化活动。",
+                "B. 线粒体改变形状，变成一个被 ATP 粒子覆盖的球形结构。",
+                "C. 线粒体的外膜变得完全不透明，遮蔽了嵴。",
+                "D. 线粒体裂成多个碎片，散布在视野中。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_28": {
+            "id": "39HTpUG1MwQ_28",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "线粒体在水平方向上沿哪个方向膨胀？",
+            "options": [
+                "A. 线粒体水平方向沿其拉长的外观膨胀。",
+                "B. 线粒体垂直方向沿其圆柱形状膨胀。",
+                "C. 线粒体水平方向压缩成球形。",
+                "D. 线粒体沿对角方向膨胀，改变其原有轴线。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_29": {
+            "id": "39HTpUG1MwQ_29",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "当隔离单个线粒体时，摄像机的移动方向是什么？",
+            "options": [
+                "A. 摄像机极度拉近特写并进行缓慢旋转，以隔离单个线粒体进行详细观察。",
+                "B. 摄像机从左向右移动持续追踪线粒体的移动，以隔离单个线粒体进行详细观察。",
+                "C. 摄像机缩远，以捕捉线粒体在细胞环境中的更广视角。",
+                "D. 摄像机向下倾斜，以聚焦单个线粒体进行详细观察。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_30": {
+            "id": "39HTpUG1MwQ_30",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "聚焦于单个线粒体时会使用哪种类型的摄影镜头？",
+            "options": [
+                "A. 极度特写镜头",
+                "B. 中景镜头",
+                "C. 广角镜头",
+                "D. 俯拍镜头"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_31": {
+            "id": "39HTpUG1MwQ_31",
+            "scene": 2,
+            "dimension": "Speed",
+            "question": "线粒体的定位调整是否存在速度变化？",
+            "options": [
+                "A. 是的，观察到动态的定位调整。",
+                "B. 不，线粒体在整个过程中保持静止。",
+                "C. 是的，但定位调整是随机且不稳定的。",
+                "D. 不，线粒体只有在分裂阶段才会移动。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_32": {
+            "id": "39HTpUG1MwQ_32",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "线粒体在场景进行到一半时发生了什么样的变化？",
+            "options": [
+                "A. 线粒体完全消失，只剩下ATP颗粒。",
+                "B. 线粒体沿水平轴分裂成两个不同的部分。",
+                "C. 线粒体与另一个细胞器融合，形成了一个更大的结构。",
+                "D. 线粒体变成球形，失去了嵴。"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_33": {
+            "id": "39HTpUG1MwQ_33",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "为了进一步系统说明线粒体，引入了什么数字标识符？",
+            "options": [
+                "A. 引入了数字标识符 '4'。",
+                "B. 引入了数字标识符 '5'。",
+                "C. 引入了数字标识符 '6'。",
+                "D. 引入了数字标识符 '7'。"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_34": {
+            "id": "39HTpUG1MwQ_34",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "复合物III在场景中的位置是哪里？",
+            "options": [
+                "A. 复合物III位于场景左侧靠近下层脂质双分子层的位置。",
+                "B. 复合物III位于场景右侧靠近下层脂质双分子层的位置。",
+                "C. 复合物III位于场景左侧靠近上层脂质双分子层的位置。",
+                "D. 复合物III在场景中完全不存在。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_35": {
+            "id": "39HTpUG1MwQ_35",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "视频前部分场景和当前场景之间的背景外观发生了怎样的变化？",
+            "options": [
+                "A. 背景从浅蓝色渐变到浅灰色变为均匀的颜色，具有极少的纹理或深度。",
+                "B. 背景从鲜艳的多种颜色变为纯白色。",
+                "C. 背景从详细的分子结构变为点状图案。",
+                "D. 背景从浅蓝色切换为深蓝色，并添加了渐变效果。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_36": {
+            "id": "39HTpUG1MwQ_36",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景在转变为更抽象的表现形式后传达了什么印象？",
+            "options": [
+                "A. 场景传达出一种极简主义的印象，唤起了一种简化的生物过程表现。",
+                "B. 场景通过鲜艳而详细的描绘突出了复杂的分子过程。",
+                "C. 场景着重于分子相互作用的混乱性质，采用大胆的对比元素。",
+                "D. 场景通过高清视觉和精确的空间关系强调了生物系统的结构复杂性。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_37": {
+            "id": "39HTpUG1MwQ_37",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "哪些主要复合体在场景中未显现？",
+            "options": [
+                "A. 复合体 I 和 复合体 II",
+                "B. 复合体 II 和 复合体 V",
+                "C. 复合体 III 和 复合体 IV",
+                "D. 复合体 IV 和 复合体 V"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_38": {
+            "id": "39HTpUG1MwQ_38",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "当前场景中是否完全没有复合体II？",
+            "options": [
+                "A. 是的，当前场景中完全没有复合体II。",
+                "B. 不，复合体II存在，但不太明显。",
+                "C. 不，复合体II存在，但饱和度降低。",
+                "D. 是的，但它只是微弱可见。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_39": {
+            "id": "39HTpUG1MwQ_39",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "场景最后，膜状层上的的文字注释发生了怎样的变化？",
+            "options": [
+                "A. 膜状层的文字注释变得更明确了。",
+                "B. 膜状层失去了大部分文字注释。",
+                "C. 膜状层的文字注释保持不变。",
+                "D. 膜状层现在拥有了更加多彩和精细的结构以及相关的注释。"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_40": {
+            "id": "39HTpUG1MwQ_40",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "视频结尾背景中发生了什么转变？",
+            "options": [
+                "A. 场景从一个光线昏暗、分子结构可见的氛围，转变为一个完全空白的背景。",
+                "B. 场景逐渐变暗，直到看不到任何结构。",
+                "C. 场景变成了一片生机勃勃的绿色田野，散布着白色小点。",
+                "D. 场景被多彩的分子结构填满，背景变为黑色。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_41": {
+            "id": "39HTpUG1MwQ_41",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "初始的分子场景中可以看到什么？",
+            "options": [
+                "A. 复合体III：一个不规则的蓝色结构，带有一条绿色链条并以红色球体结尾，在暗淡的背景中依稀可见。",
+                "B. 一个明亮的分子结构，带有一条鲜艳的橙色链条和紫色球体，清晰地呈现出来。",
+                "C. 场景中只有散落的绿色点点，背景是一片漆黑。",
+                "D. 一幅完全空白且极度单调的白色画布，完全没有任何结构，一目了然。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_42": {
+            "id": "39HTpUG1MwQ_42",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "在切换到白色背景后是否有任何运动？",
+            "options": [
+                "A. 是的，在切换到白色背景后有连续的运动。",
+                "B. 不，在切换到白色背景后没有任何运动。",
+                "C. 是的，在切换到白色背景后可以看到零星的运动。",
+                "D. 是的，在切换到白色背景后只有红色球体继续运动。"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_43": {
+            "id": "39HTpUG1MwQ_43",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "场景属性在内容上如何变化？",
+            "options": [
+                "A. 场景从一个充满活力的森林过渡到一个昏暗的城市景观。",
+                "B. 场景从具有独特配色方案的分子结构变化为一张没有特点的白色画布。",
+                "C. 场景从一个繁忙的城市景观转换为一个水下的珊瑚礁。",
+                "D. 场景从一幅色彩丰富的抽象画过渡到一幅灰度素描。"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_44": {
+            "id": "39HTpUG1MwQ_44",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "哪个视觉元素强烈强化了视频结束？",
+            "options": [
+                "A. 复合物 III 及其独特的颜色特征",
+                "B. 明亮的白色背景",
+                "C. 分散的白色点",
+                "D. 脂双层"
+            ],
+            "answer": "B"
+        },
+        "39HTpUG1MwQ_45": {
+            "id": "39HTpUG1MwQ_45",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "明亮的白色背景如何加强视频结束?",
+            "options": [
+                "A. 它抹去了任何分子结构的痕迹，使画面没有视觉元素。",
+                "B. 它引入了一系列复杂的分子结构。",
+                "C. 它增强了复合物III和脂质双层的可见性。",
+                "D. 它为场景添加了详细的视觉和文本元素。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_46": {
+            "id": "39HTpUG1MwQ_46",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频的开场场景展示了什么？",
+            "options": [
+                "A. 开场镜头是一行简单的文字，背景为纯白色，文字内容是“Excerpt from a biomedical animation project”。",
+                "B. 开场镜头包括各种分子结构漂浮在鲜艳的蓝色背景中。",
+                "C. 开场镜头展示了复合物III与其他分子动态交互的动画。",
+                "D. 开场镜头是一个繁忙的实验室，科学家们正在进行实验。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_47": {
+            "id": "39HTpUG1MwQ_47",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "标题幻灯片之后会发生什么？",
+            "options": [
+                "A. 场景过渡到对单个生物细胞的广泛显微视图。",
+                "B. 场景继续保持完全空白，没有任何视觉元素。",
+                "C. 分子结构以多彩且动态的方式重新出现。",
+                "D. 场景切换到Complex III的特写视图，细节更加清晰。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_48": {
+            "id": "39HTpUG1MwQ_48",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频中的缩放过程是怎样的？",
+            "options": [
+                "A. 缩放从一个完整细胞的广泛显微视图开始，到多个组织的宽广视图，最后以一个线粒体的视图结束。",
+                "B. 缩放从一个完整细胞的显微视图开始，过渡到单个线粒体的特写镜头，然后展示线粒体上的ATP颗粒。",
+                "C. 缩放从多个组织的广泛视图开始，聚焦到单个细胞器，然后展示ATP的分子图示。",
+                "D. 缩放从一个完整细胞的广泛显微视图开始，到单个线粒体的极近特写镜头，随后展示线粒体周围和上方ATP颗粒的详细视图。"
+            ],
+            "answer": "D"
+        },
+        "39HTpUG1MwQ_49": {
+            "id": "39HTpUG1MwQ_49",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "支持初始细胞视图科学主题的元素是什么？",
+            "options": [
+                "A. 对细胞结构的详细描绘、渐变的蓝色背景有助于构建科学主题。",
+                "B. 使用鲜艳的颜色和细胞过程的动画突出了科学主题。",
+                "C. 融入动态图表和交互元素营造了科学主题。",
+                "D. 空白的背景和缺乏细胞组成的特征定义了科学主题。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_50": {
+            "id": "39HTpUG1MwQ_50",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频中的文字标签的目的是什么？",
+            "options": [
+                "A. 文字标签用作教育注释，帮助观众识别并理解显示的不同细胞成分。",
+                "B. 文字标签起到装饰作用，增强场景的美感。",
+                "C. 文字标签用于为场景之间的转换提供叙述背景。",
+                "D. 文字标签是为了某种戏剧效果，遮掩分子结构的某些部分。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_51": {
+            "id": "39HTpUG1MwQ_51",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "线粒体随时间推移会发生哪些视觉变化？",
+            "options": [
+                "A. 起初，线粒体带有发光的蓝色细微差别。随着时间推移，具有发光的轮廓和ATP颗粒，随后分裂显示出内部结构，最后恢复为带有膜注释的单一形式。",
+                "B. 起初，线粒体被描绘为完全空白的实体，没有可见的结构。随着时间推移，它逐渐显现出淡红色轮廓，随后转变为分子网状结构的艺术渲染。",
+                "C. 线粒体开始以鲜艳发光的结构呈现，带有红色和黄色的图案，并逐渐过渡为带有淡轮廓线的黑白素描。",
+                "D. 线粒体最初表现为一系列分散的白点，然后变形成一个鲜艳复杂的结构，最终完全消失在一个黑暗的背景中。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_52": {
+            "id": "39HTpUG1MwQ_52",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "在分子场景中最终的转变是什么？",
+            "options": [
+                "A. 最终的转变涉及从膜结构的展示转换到一个没有任何特征白色背景画面。",
+                "B. 最终的转变涉及从线粒体的展示转换到充满动态活动的生动分子场景。",
+                "C. 最终的转变涉及逐渐放大到Complex III及其周围的分子结构。",
+                "D. 最终的转变涉及从细胞微观结构的展示转换到充满动态活动的生动分子场景。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_53": {
+            "id": "39HTpUG1MwQ_53",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么线粒体在某些描绘中被描绘得更加鲜艳和清晰？",
+            "options": [
+                "A. 为了突出它们在细胞代谢过程中的重要性和活跃性，并吸引注意力。",
+                "B. 为了与其他不太活跃的细胞结构形成对比。",
+                "C. 为了使视觉效果更具美感。",
+                "D. 为了简化场景的复杂性，便于理解。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_54": {
+            "id": "39HTpUG1MwQ_54",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "稳定的背景对观众在本视频的理解有什么影响？",
+            "options": [
+                "A. 稳定的背景有助于保持清晰和集中的描述，使保观众轻松直观理解展示内容。",
+                "B. 稳定的背景会给观众心理暗示，塑造安全的心理认知。",
+                "C. 稳定的背景可以作为事件发生的常量，使观众更容易捕捉到变化以及因果联系。",
+                "D. 稳定的背景会创造一种压倒性的存在感，从而掩盖主要展示内容。"
+            ],
+            "answer": "A"
+        },
+        "39HTpUG1MwQ_55": {
+            "id": "39HTpUG1MwQ_55",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么视频在结尾部分切换到一个完全空白的画布？",
+            "options": [
+                "A. 与之前详细的描绘形成鲜明对比，宣告视频的结束。",
+                "B. 通过将复杂 III 置于空白背景中来强调其重要性。",
+                "C. 突出分子结构的动态活动，将其置于一个无特征的画布上。",
+                "D. 表明由于渲染过程中的技术故障，分子结构消失了。"
+            ],
+            "answer": "A"
+        }
+    }
+}

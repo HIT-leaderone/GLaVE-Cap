@@ -1,0 +1,659 @@
+{
+    "scene_hint": {
+        "0": "一只浣熊出现在画面中。",
+        "1": "浣熊站在桌子前吃东西。",
+        "2": "浣熊与摄像头互动。"
+    },
+    "qa": {
+        "hsKmC7RwHvo_0": {
+            "id": "hsKmC7RwHvo_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "在视频开始时，以镜头视角浣熊在哪里？",
+            "options": [
+                "A. 浣熊靠近并在宠物饮水器左边。",
+                "B. 浣熊面向长椅，背对着宠物饮水器。",
+                "C. 浣熊位于长椅上，靠近白色圆盘。",
+                "D. 浣熊直接在宠物喂食罐内。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_1": {
+            "id": "hsKmC7RwHvo_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "在视频开始时，以镜头视角浣熊相对于白碗的位置在哪里？",
+            "options": [
+                "A. 浣熊位于空白碗的右上方。",
+                "B. 浣熊坐在白碗的上面。",
+                "C. 浣熊在白碗的正后方。",
+                "D. 浣熊完全远离白碗。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_2": {
+            "id": "hsKmC7RwHvo_2",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "浣熊总体上位于哪里？",
+            "options": [
+                "A. 浣熊位于混凝土表面上的中央区域。",
+                "B. 浣熊位于前景的木制长椅上。",
+                "C. 浣熊位于背景的树篱旁边。",
+                "D. 浣熊直接位于宠物喂食器前进食。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_3": {
+            "id": "hsKmC7RwHvo_3",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频场景的背景是什么？",
+            "options": [
+                "A. 场景是在户外的走廊或露台。",
+                "B. 场景是在客厅的室内场景。",
+                "C. 场景是在公园的白天场景。",
+                "D. 场景是在车库的夜间场景。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_4": {
+            "id": "hsKmC7RwHvo_4",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频场景中有哪些物体和元素？",
+            "options": [
+                "A. 场景包括一个木制长椅、一个宠物饮水器和树篱。",
+                "B. 场景包括一个金属长椅、一个鸟食器和花卉。",
+                "C. 场景包括一个现代塑料长椅、一座喷泉和树木。",
+                "D. 场景包括一个石制长椅、一个鸟浴和野生灌木。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_5": {
+            "id": "hsKmC7RwHvo_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "白色圆形盘子为什么出现在长椅上？",
+            "options": [
+                "A. 可能是在喂野生动物或留下了之前用餐的痕迹",
+                "B. 最近进行了园艺活动，例如修剪树篱",
+                "C. 有人在修理或整理园艺用水管",
+                "D. 是一只浣熊把盘子放到长椅上的"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_6": {
+            "id": "hsKmC7RwHvo_6",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "画框右侧有什么？",
+            "options": [
+                "A. 沿着房屋壁板有一个黑色水管和一个黑色长方形装置或盒子。",
+                "B. 沿着房屋壁板有一个绿色水管和一个白色长方形装置或盒子。",
+                "C. 沿着房屋壁板有一个白色宠物碗和一个黑色长方形装置或盒子。",
+                "D. 沿着房屋壁板有一个木制长椅和一个白色圆形盘子。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_7": {
+            "id": "hsKmC7RwHvo_7",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "长椅上有多少个物品？",
+            "options": [
+                "A. 长椅上有一个物品。",
+                "B. 长椅上有两个物品。",
+                "C. 长椅上有三个物品。",
+                "D. 长椅上没有物品。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_8": {
+            "id": "hsKmC7RwHvo_8",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "浣熊是否正在积极地与宠物饮水器互动？",
+            "options": [
+                "A. 是的，浣熊正在积极地与宠物饮水器互动。",
+                "B. 不，浣熊没有积极地与宠物饮水器互动。",
+                "C. 浣熊正在积极地与白色碗互动。",
+                "D. 浣熊正在积极地与背景中的树篱互动。"
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_9": {
+            "id": "hsKmC7RwHvo_9",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "在视频中，浣熊朝哪个方向移动？",
+            "options": [
+                "A. 浣熊朝着摄像机移动。",
+                "B. 浣熊远朝着树篱移动。",
+                "C. 浣熊朝着白碗移动。",
+                "D. 浣熊朝着房屋壁板移动。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_10": {
+            "id": "hsKmC7RwHvo_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "视频中使用了哪种类型的镜头？",
+            "options": [
+                "A. 视频使用了摇镜头。",
+                "B. 视频使用了特写镜头。",
+                "C. 视频使用了固定广角镜头。",
+                "D. 视频使用了推镜头。"
+            ],
+            "answer": "C"
+        },
+        "hsKmC7RwHvo_11": {
+            "id": "hsKmC7RwHvo_11",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "视频中时间戳发生了什么变化？",
+            "options": [
+                "A. 时间戳在整个视频中保持不变。",
+                "B. 时间戳前进到 '12/02/2023 01:18:01 CST'。",
+                "C. 时间戳在视频中途重置为 '12/02/2023 00:00:00 CST'。",
+                "D. 时间戳在视频中途完全消失。"
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_12": {
+            "id": "hsKmC7RwHvo_12",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "浣熊最后相对于相机的位置在哪里？",
+            "options": [
+                "A. 浣熊稍微靠近相机。",
+                "B. 浣熊位于画面的左上角。",
+                "C. 浣熊在庭院的中央。",
+                "D. 浣熊在饮水器附近。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_13": {
+            "id": "hsKmC7RwHvo_13",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "场景前半段中这只浣熊展示了什么姿势？",
+            "options": [
+                "A. 浣熊站得很高。",
+                "B. 浣熊保持低姿势，头低下。",
+                "C. 浣熊端坐在长椅上。",
+                "D. 浣熊完全平躺在露台地板上。"
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_14": {
+            "id": "hsKmC7RwHvo_14",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "浣熊在视频中展示了什么动作？",
+            "options": [
+                "A. 它的动作迅速而不规则。",
+                "B. 它的动作有意且谨慎。",
+                "C. 它的动作懒散而缓慢。",
+                "D. 它的动作具有攻击性且迅速。"
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_15": {
+            "id": "hsKmC7RwHvo_15",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "在视频中的木制长凳上可以看到哪些物体？",
+            "options": [
+                "A. 一个盘子。",
+                "B. 一杯水。",
+                "C. 一叠书。",
+                "D. 一个木箱。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_16": {
+            "id": "hsKmC7RwHvo_16",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "光线是否昏暗？",
+            "options": [
+                "A. 是的，只被微弱的路灯部分照亮。",
+                "B. 不，由自然光源照明照得很好。",
+                "C. 不，由人工照明照得很好。",
+                "D. 是的，只被微弱的自然光源部分照亮。"
+            ],
+            "answer": "C"
+        },
+        "hsKmC7RwHvo_17": {
+            "id": "hsKmC7RwHvo_17",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "什么行为表明浣熊正在探索？",
+            "options": [
+                "A. 浣熊稳重的步伐、低姿态和低下的头部。",
+                "B. 浣熊快速而不规则的动作。",
+                "C. 浣熊抬起头并匆忙的步伐。",
+                "D. 浣熊保持静止并眺望。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_18": {
+            "id": "hsKmC7RwHvo_18",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "视频中使用的摄像角度是什么？",
+            "options": [
+                "A. 摄像角度稍微向下倾斜。",
+                "B. 摄像角度完全水平。",
+                "C. 摄像角度向上倾斜。",
+                "D. 摄像角度从地面向上看。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_19": {
+            "id": "hsKmC7RwHvo_19",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "相机角度如何影响录像？",
+            "options": [
+                "A. 它提供了一个清晰的视角，确保所有细节都被一致地捕捉到。",
+                "B. 它只聚焦于浣熊，模糊背景物体以突出重点。",
+                "C. 它从完全水平的角度捕捉，导致一些物体不在视野中。",
+                "D. 它放大时间戳和标志，遮挡了场景的其他元素。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_20": {
+            "id": "hsKmC7RwHvo_20",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "场景开头时，浣熊相对于摄像机的位置在哪里？",
+            "options": [
+                "A. 浣熊在摄像机的前方偏左一点。",
+                "B. 浣熊在摄像机的正下方。",
+                "C. 浣熊在摄像机的远处偏右侧。",
+                "D. 浣熊在摄像机的后面。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_21": {
+            "id": "hsKmC7RwHvo_21",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频场景的背景是什么？",
+            "options": [
+                "A. 场景发生在住宅门廊。",
+                "B. 场景发生在茂密森林中。",
+                "C. 场景发生在客厅里。",
+                "D. 场景发生在海滩上。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_22": {
+            "id": "hsKmC7RwHvo_22",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频场景的地面是什么样的？",
+            "options": [
+                "A. 场景中有一个混凝土地面。",
+                "B. 场景中有一个木制甲板。",
+                "C. 场景中有一个瓷砖地面。",
+                "D. 场景中有一个碎石小路。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_23": {
+            "id": "hsKmC7RwHvo_23",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "视频场景的背景有什么？",
+            "options": [
+                "A. 隐约可见的灌木轮廓。",
+                "B. 鲜艳的花朵。",
+                "C. 清晰可见的星星。",
+                "D. 茂密的松树。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_24": {
+            "id": "hsKmC7RwHvo_24",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "浣熊在视频中做了什么？",
+            "options": [
+                "A. 浣熊探索并与吃了盘子里的食物。",
+                "B. 浣熊在地板上睡觉。",
+                "C. 浣熊猛烈地攻击物品。",
+                "D. 浣熊一动不动。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_25": {
+            "id": "hsKmC7RwHvo_25",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "场景中有什么物品？",
+            "options": [
+                "A. 有一个圆盘，一个饮水机，一根水管或电缆。",
+                "B. 有一个高灯，一个红色浇水壶，一卷黄色绳子。",
+                "C. 有一个金属桌子，一个绿色玻璃瓶，一堆木柴。",
+                "D. 有一个鸟食器，一个橙色桶，一个电灯笼，一个木栅栏。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_26": {
+            "id": "hsKmC7RwHvo_26",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "浣熊的正脸在画面中大部分时候是否完全可见？",
+            "options": [
+                "A. 是的，在画面中是完全可见的。",
+                "B. 在画面中只能看到侧脸。",
+                "C. 在画面中从未可见。",
+                "D. 在画面中只能看到脸的下半部分。"
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_27": {
+            "id": "hsKmC7RwHvo_27",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "使用哪种类型的镜头来捕捉浣熊的动作？",
+            "options": [
+                "A. 固定广角镜头",
+                "B. 手持特写镜头",
+                "C. 低角度动态镜头",
+                "D. 广角全景视图"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_28": {
+            "id": "hsKmC7RwHvo_28",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "浣熊在近景后去哪了？",
+            "options": [
+                "A. 浣熊退到画面的右下角。",
+                "B. 浣熊爬到木凳上。",
+                "C. 浣熊移到靠近碗的画面中心。",
+                "D. 浣熊离开画面并消失了。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_29": {
+            "id": "hsKmC7RwHvo_29",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频场景的设置是什么？",
+            "options": [
+                "A. 场景是一个白天的花园区域。",
+                "B. 场景是一个晚上的露台设置。",
+                "C. 场景是一条森林小径。",
+                "D. 场景是一个城市屋顶。"
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_30": {
+            "id": "hsKmC7RwHvo_30",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "视频场景里有什么？",
+            "options": [
+                "A. 有一条木制长凳、一片草地和花朵。",
+                "B. 有一个木制长凳、混凝土地面和灌木丛。",
+                "C. 有一条泥土小路，地上有零散的落叶。",
+                "D. 有金属栏杆，背景中有遥远的城市灯光。"
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_31": {
+            "id": "hsKmC7RwHvo_31",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "浣熊在视频中做了哪些动作？",
+            "options": [
+                "A. 浣熊靠近摄像机，然后退到右下角。",
+                "B. 浣熊爬上长椅，检查盘子，然后跳下。",
+                "C. 浣熊在地上挖掘，找到食物，然后躲起来。",
+                "D. 浣熊玩弄水管，从水壶中喝水，然后跑开。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_32": {
+            "id": "hsKmC7RwHvo_32",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "视频中长椅上可见的物体是什么？",
+            "options": [
+                "A. 一个盘子",
+                "B. 一个水壶",
+                "C. 一根水管",
+                "D. 一个碗"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_33": {
+            "id": "hsKmC7RwHvo_33",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "哪些物体是在地上的？",
+            "options": [
+                "A. 一个碗，一个小黑盒和一根水管。",
+                "B. 一个盘子，一个木制长凳和一根水管。",
+                "C. 一个碗，一个金属长凳和一个水罐。",
+                "D. 一个盘子，一个水罐和一根水管。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_34": {
+            "id": "hsKmC7RwHvo_34",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "浣熊在整个视频中都能看到吗？",
+            "options": [
+                "A. 是的，浣熊在整个视频中都清晰可见。",
+                "B. 不，浣熊最终移出了画面。",
+                "C. 是的，浣熊一直可见，但变得不太清晰。",
+                "D. 不，浣熊在视频中从未出现。"
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_35": {
+            "id": "hsKmC7RwHvo_35",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "在特写镜头后，浣熊朝哪个方向移动？",
+            "options": [
+                "A. 浣熊向镜头靠近。",
+                "B. 浣熊向右移动出镜头。",
+                "C. 浣熊移动到画面的左侧。",
+                "D. 浣熊移动到画面的中央。"
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_36": {
+            "id": "hsKmC7RwHvo_36",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "人工照明如何影响浣熊鼻口部的外观？",
+            "options": [
+                "A. 人工照明使浣熊的鼻口部略微曝光过度。",
+                "B. 人工照明使浣熊的鼻口部看起来更暗。",
+                "C. 人工照明在浣熊的鼻口部上产生影子。",
+                "D. 人工照明突出了浣熊的鼻口部，使其更加清晰。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_37": {
+            "id": "hsKmC7RwHvo_37",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频中浣熊的最初活动是什么？",
+            "options": [
+                "A. 浣熊靠近宠物碗。",
+                "B. 浣熊正在爬上长椅。",
+                "C. 浣熊正在玩水管。",
+                "D. 浣熊躲在护墙板后面。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_38": {
+            "id": "hsKmC7RwHvo_38",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在视频结束时，浣熊的最终位置是什么？",
+            "options": [
+                "A. 浣熊在画面的中央。",
+                "B. 浣熊在画面外左下角。",
+                "C. 浣熊在画面外右下角。",
+                "D. 浣熊在画面顶部。"
+            ],
+            "answer": "C"
+        },
+        "hsKmC7RwHvo_39": {
+            "id": "hsKmC7RwHvo_39",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "浣熊在视频中是如何与宠物喂食器罐互动的？",
+            "options": [
+                "A. 浣熊最初在探索宠物喂食器罐。",
+                "B. 浣熊打翻了宠物喂食器罐。",
+                "C. 浣熊从宠物喂食器罐中喝水。",
+                "D. 浣熊完全无视宠物喂食器罐。"
+            ],
+            "answer": "D"
+        },
+        "hsKmC7RwHvo_40": {
+            "id": "hsKmC7RwHvo_40",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "浣熊远离宠物喂食罐后做了什么？",
+            "options": [
+                "A. 浣熊靠近了摄像机。",
+                "B. 浣熊开始爬水管。",
+                "C. 浣熊在碗里发现了食物。",
+                "D. 浣熊玩起了盘子。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_41": {
+            "id": "hsKmC7RwHvo_41",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "视频结尾时浣熊去了哪里？",
+            "options": [
+                "A. 浣熊爬上了长椅。",
+                "B. 浣熊退到了画面外右下角。",
+                "C. 浣熊消失在背景的灌木丛中。",
+                "D. 浣熊再次靠近摄像头。"
+            ],
+            "answer": "B"
+        },
+        "hsKmC7RwHvo_42": {
+            "id": "hsKmC7RwHvo_42",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "浣熊的姿势和行为是什么样的？",
+            "options": [
+                "A. 浣熊谨慎的动作和探索行为。",
+                "B. 浣熊胆怯的退缩和对相机的回避。",
+                "C. 浣熊突然的攻击性行为。",
+                "D. 浣熊静止的姿势和缺乏参与。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_43": {
+            "id": "hsKmC7RwHvo_43",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "人工照明在视频中起什么作用？",
+            "options": [
+                "A. 人工照明帮助照亮了浣熊和周围环境。",
+                "B. 人工照明使浣熊和背景呈现出模糊和昏暗的视图。",
+                "C. 人工照明仅聚焦于周围环境，使浣熊处于阴影中。",
+                "D. 人工照明发出强光，使得周围环境过渡曝光。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_44": {
+            "id": "hsKmC7RwHvo_44",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频开始时浣熊在什么东西旁？",
+            "options": [
+                "A. 宠物喂食器旁",
+                "B. 长凳上的盘子旁",
+                "C. 水管旁",
+                "D. 地上的碗旁"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_45": {
+            "id": "hsKmC7RwHvo_45",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "浣熊在离开宠物喂食器后移动到了哪里？",
+            "options": [
+                "A. 浣熊移动到长椅前。",
+                "B. 浣熊爬上长椅。",
+                "C. 浣熊躲在水管后面。",
+                "D. 浣熊退到画面的边缘。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_46": {
+            "id": "hsKmC7RwHvo_46",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "浣熊在移动到最靠近摄像机的位置后去了哪里？",
+            "options": [
+                "A. 浣熊退回到右下角。",
+                "B. 浣熊爬上了木制长椅。",
+                "C. 浣熊移动到靠近白色碗的地方。",
+                "D. 浣熊完全从摄像机视野中消失。"
+            ],
+            "answer": "D"
+        },
+        "hsKmC7RwHvo_47": {
+            "id": "hsKmC7RwHvo_47",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "视频中哪些元素保持静止状态？",
+            "options": [
+                "A. 木长凳、盘子、水管。",
+                "B. 浣熊、盘子和水管。",
+                "C. 木长凳、浣熊和饮水机。",
+                "D. 盘子、浣熊和灌木丛。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_48": {
+            "id": "hsKmC7RwHvo_48",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "人工照明如何影响安全摄像机录像的清晰度？",
+            "options": [
+                "A. 人工照明确保物体和运动的细节清晰可见。",
+                "B. 人工照明产生大量眩光，使录像难以解读。",
+                "C. 人工照明降低了物体和运动的清晰度。",
+                "D. 人工照明对安全摄像机录像的质量或可见性没有明显影响。"
+            ],
+            "answer": "A"
+        },
+        "hsKmC7RwHvo_49": {
+            "id": "hsKmC7RwHvo_49",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "摆放盘子目的是什么？",
+            "options": [
+                "A. 用于喂养野生动物，或者是之前用餐的残留物。",
+                "B. 用来作为艺术装饰品展示。",
+                "C. 用来盖住桌子上的水壶。",
+                "D. 用来进行实验或演示的道具。"
+            ],
+            "answer": "A"
+        }
+    }
+}

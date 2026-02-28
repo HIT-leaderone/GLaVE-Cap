@@ -1,0 +1,947 @@
+{
+    "scene_hint": {
+        "0": "运动员在跑道上奔跑",
+        "1": "镜头聚焦着运动员",
+        "2": "画面回放",
+        "3": "运动员赛后庆祝画面",
+        "4": "展示抽象的几何图形与文字宣传"
+    },
+    "qa": {
+        "E895PNqSgEI_0": {
+            "id": "E895PNqSgEI_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "穿着浅红色运动衫和灰色短裤的运动员位于什么位置？",
+            "options": [
+                "A. 位于第2跑道。",
+                "B. 位于第5跑道。",
+                "C. 位于第9跑道。",
+                "D. 位于第7跑道。"
+            ],
+            "answer": "C"
+        },
+        "E895PNqSgEI_1": {
+            "id": "E895PNqSgEI_1",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "相对于运动员的方向，在起跑线的交错模式中，跑道9的相对位置是什么？",
+            "options": [
+                "A. 跑道9在起跑线交错模式中是最右边的跑道。",
+                "B. 跑道9在起跑线交错模式中是中间的跑道。",
+                "C. 跑道9在起跑线交错模式中是从左数第二条跑道。",
+                "D. 跑道9在起跑线交错模式中是最左边的跑道。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_2": {
+            "id": "E895PNqSgEI_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "视频描述中描绘了什么场景？",
+            "options": [
+                "A. 场景描绘了100米短跑比赛。",
+                "B. 场景描绘了马拉松比赛。",
+                "C. 场景描绘了跳高比赛。",
+                "D. 场景描绘了田径接力赛。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_3": {
+            "id": "E895PNqSgEI_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "视频描述中背景标识是什么？",
+            "options": [
+                "A. Tokyo 2020",
+                "B. Beijing 2008",
+                "C. London 2012",
+                "D. Paris 2024。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_4": {
+            "id": "E895PNqSgEI_4",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "比赛开始时，运动员表现出什么动作？",
+            "options": [
+                "A. 运动员慢跑以进行热身。",
+                "B. 运动员从起跑器冲刺向前。",
+                "C. 运动员在起跑线上互相聊天。",
+                "D. 运动员等待裁判的信号开始。"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_5": {
+            "id": "E895PNqSgEI_5",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "当比赛开始时，运动员们展现了哪些特质？",
+            "options": [
+                "A. 运动员们表现出动态的动作和有力的步伐。",
+                "B. 运动员们表现出缓慢的起步。",
+                "C. 短跑选手们还停留在起跑位置。",
+                "D. 运动员们展示了相同的技巧和动作。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_6": {
+            "id": "E895PNqSgEI_6",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "短跑运动员使用的起跑器是什么颜色的？",
+            "options": [
+                "A. 起跑器是红色的。",
+                "B. 起跑器是蓝色的。",
+                "C. 起跑器是绿色的。",
+                "D. 起跑器是黑色的。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_7": {
+            "id": "E895PNqSgEI_7",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "起跑线上有多少运动员？",
+            "options": [
+                "A. 起跑线上有六名运动员。",
+                "B. 起跑线上有七名运动员。",
+                "C. 起跑线上有八名运动员。",
+                "D. 起跑线上有九名运动员。"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_8": {
+            "id": "E895PNqSgEI_8",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "视频描述中是否有可见的计时器？",
+            "options": [
+                "A. 是的，有一个图形记分板覆盖显示计时器。",
+                "B. 没有，视频描述中只有电子排行榜。",
+                "C. 是的，有一个实体电子大屏计时器。",
+                "D. 没有，视频中的是路程长度显示器。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_9": {
+            "id": "E895PNqSgEI_9",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "在比赛中，八号跑道的运动员发生了什么？",
+            "options": [
+                "A. 第一个完成比赛。",
+                "B. 最后消失在视野中。",
+                "C. 从未离开起跑线。",
+                "D. 在比赛中摔倒。"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_10": {
+            "id": "E895PNqSgEI_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "视频描述中使用的摄像机角度是什么？",
+            "options": [
+                "A. 摄像机角度是侧视角，略微抬高。",
+                "B. 摄像机角度是从上方的俯视角。",
+                "C. 摄像机角度是正面对着运动员的视角。",
+                "D. 摄像机角度是运动员背后的后视角。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_11": {
+            "id": "E895PNqSgEI_11",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "谁在比赛中获得了第一名？",
+            "options": [
+                "A. 穿着栗色制服的运动员",
+                "B. 穿着红色和黄色制服的运动员",
+                "C. 穿着蓝色制服的运动员",
+                "D. 穿着绿色制服的运动员"
+            ],
+            "answer": "C"
+        },
+        "E895PNqSgEI_12": {
+            "id": "E895PNqSgEI_12",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "随着比赛的进行，身穿红色制服的运动员的位置如何变化？",
+            "options": [
+                "A. 起初领先并保持领先。",
+                "B. 随着比赛的进行，逐渐落后。",
+                "C. 运动员始终位于队伍中间。",
+                "D. 第一个到达终点。"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_13": {
+            "id": "E895PNqSgEI_13",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "谁第一个冲过终点线？",
+            "options": [
+                "A. 穿着栗色制服的运动员",
+                "B. 穿着红色和黄色制服的运动员",
+                "C. 穿着蓝色制服的运动员",
+                "D. 穿着绿色制服的运动员"
+            ],
+            "answer": "C"
+        },
+        "E895PNqSgEI_14": {
+            "id": "E895PNqSgEI_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "这个场景发生在哪里？",
+            "options": [
+                "A. 这个场景发生在奥运会活动中。",
+                "B. 这个场景发生在全国锦标赛中。",
+                "C. 这个场景发生在训练设施中。",
+                "D. 这个场景发生在当地高中比赛中。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_15": {
+            "id": "E895PNqSgEI_15",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "镜头中被突出显示的运动员是谁？",
+            "options": [
+                "A. Jacobs",
+                "B. Simbine",
+                "C. Bolt",
+                "D. Blake"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_16": {
+            "id": "E895PNqSgEI_16",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "在特写运动员旁的人是谁？",
+            "options": [
+                "A. Jacobs",
+                "B. Simbine",
+                "C. Gatlin",
+                "D. Bolt"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_17": {
+            "id": "E895PNqSgEI_17",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "场景结束时数字计时器上显示的是什么？",
+            "options": [
+                "A. 场景结束时数字计时器显示9.79秒。",
+                "B. 场景结束时数字计时器显示9.70秒。",
+                "C. 场景结束时数字计时器显示10.00秒。",
+                "D. 场景结束时数字计时器显示9.71秒。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_18": {
+            "id": "E895PNqSgEI_18",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "当前场景中出现了多少名运动员？",
+            "options": [
+                "A. 二名运动员",
+                "B. 三名运动员",
+                "C. 四名运动员",
+                "D. 五名运动员"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_19": {
+            "id": "E895PNqSgEI_19",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "关键运动员的背景清晰吗？",
+            "options": [
+                "A. 是的，背景清晰且详细。",
+                "B. 不，背景稍微模糊以展示人群。",
+                "C. 不，背景模糊吸引对运动员的关注。",
+                "D. 是的，背景显示了详细的奥运品牌。"
+            ],
+            "answer": "C"
+        },
+        "E895PNqSgEI_20": {
+            "id": "E895PNqSgEI_20",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "Jacobs在镜头中做什么？",
+            "options": [
+                "A. Jacobs正随着惯性向前小跑。",
+                "B. Jacobs正在祝贺他的竞争对手。",
+                "C. Jacobs正在通过举起双臂庆祝他的胜利。",
+                "D. Jacobs正在休息片刻以恢复呼吸。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_21": {
+            "id": "E895PNqSgEI_21",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "Simbine 在特写镜头中做什么？",
+            "options": [
+                "A. Simbine 正随着惯性向前小跑。",
+                "B. Simbine 正在用胜利的姿势庆祝他的胜利。",
+                "C. Simbine 正以悠闲的步伐跑步并观察人群。",
+                "D. Simbine 正在调整他的号码布。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_22": {
+            "id": "E895PNqSgEI_22",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "场景使用了什么摄影角度？",
+            "options": [
+                "A. 鸟瞰角度",
+                "B. 略低的正面摄影角度",
+                "C. 侧面轮廓角度",
+                "D. 过肩角度"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_23": {
+            "id": "E895PNqSgEI_23",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "场景使用了哪种类型的镜头强？",
+            "options": [
+                "A. 广角镜头。",
+                "B. 清晰的特写镜头。",
+                "C. 高角度镜头。",
+                "D. 全景镜头。"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_24": {
+            "id": "E895PNqSgEI_24",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "比赛期间的风速是多少？",
+            "options": [
+                "A. 根据注释，风速为+0.1米/秒。",
+                "B. 根据注释，风速为+1.0米/秒。",
+                "C. 根据注释，风速为-0.1米/秒。",
+                "D. 根据注释，风速为+0.5米/秒。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_25": {
+            "id": "E895PNqSgEI_25",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "在画面中，身穿蓝色的运动员移动时位于什么位置？",
+            "options": [
+                "A. 他在背景中。",
+                "B. 他与身穿绿色和黄色的运动员并排跑。",
+                "C. 随着他越来越接近前景，他变得越来越显眼。",
+                "D. 他位于起点线。"
+            ],
+            "answer": "C"
+        },
+        "E895PNqSgEI_26": {
+            "id": "E895PNqSgEI_26",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "比赛环境是什么样的？",
+            "options": [
+                "A. 在一条红色跑道上进行。",
+                "B. 在一条蓝色跑道上进行。",
+                "C. 在沙质地面上进行。",
+                "D. 在室内体育馆进行。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_27": {
+            "id": "E895PNqSgEI_27",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "穿着蓝色运动衫的运动员的姿势被强调了什么？",
+            "options": [
+                "A. 强调他放松、不以为然的姿态。",
+                "B. 强调他直立、慢速移动的姿态。",
+                "C. 强调他激动兴奋的姿势。",
+                "D. 强调他悠闲自在的姿态。"
+            ],
+            "answer": "C"
+        },
+        "E895PNqSgEI_28": {
+            "id": "E895PNqSgEI_28",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "身穿蓝色运动衫的运动员有什么突出表现？",
+            "options": [
+                "A. 突出了他的肌肉发达和纹身的体格。",
+                "B. 突出了他的高大身材和优雅动作。",
+                "C. 突出了他的瘦削身形和轻便的穿着。",
+                "D. 突出了他的专注表情和明亮的鞋子。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_29": {
+            "id": "E895PNqSgEI_29",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "穿蓝色运动衫的运动员的是什么跑步风格？",
+            "options": [
+                "A. 他的步伐节奏充满活力且精准。",
+                "B. 他的跑步姿态轻松随意。",
+                "C. 他的步伐不稳定、不均匀。",
+                "D. 他的动作僵硬及机械。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_30": {
+            "id": "E895PNqSgEI_30",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "运动员穿的蓝色上衣展示了什么？",
+            "options": [
+                "A. 球衣上展示了“ITALIA”和“JACOBS”。",
+                "B. 球衣上展示了“ITALIA”和“SIMBINE”。",
+                "C. 球衣上展示了“SOUTH AFRICA”和“JACOBS”。",
+                "D. 球衣上展示了“OMEGA”和奥运五环。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_31": {
+            "id": "E895PNqSgEI_31",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "运动员穿的蓝色上衣的颜色细节是什么？",
+            "options": [
+                "A. 配有黄色边饰。",
+                "B. 配有白色边饰。",
+                "C. 配有绿色边饰。",
+                "D. 配有红色边饰。"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_32": {
+            "id": "E895PNqSgEI_32",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "屏幕上的计时器叠加是否在视频中发生变化？",
+            "options": [
+                "A. 是的，计时器叠加频繁波动。",
+                "B. 不，计时器叠加始终保持在“9.79”秒。",
+                "C. 是的，计时器叠加逐渐增加。",
+                "D. 不，计时器叠加在视频中途消失。"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_33": {
+            "id": "E895PNqSgEI_33",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "对身穿绿黄相间运动服的运动员有什么特别强调？",
+            "options": [
+                "A. 没什么特别强调的，只是作为背景出现在镜头里。",
+                "B. 他的弯腰防守姿势表明缺乏信心。",
+                "C. 他的放松且轻松的步伐被突出了作为一个关键优势。",
+                "D. 他向前倾斜的姿态象征着他积极努力追赶。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_34": {
+            "id": "E895PNqSgEI_34",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "哪个运动员在镜头里先出现后消失？",
+            "options": [
+                "A. 穿蓝色上衣的运动员",
+                "B. 穿绿色和黄色上衣的运动员",
+                "C. 穿黑色和白色上衣的运动员",
+                "D. 穿红色上衣的运动员"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_35": {
+            "id": "E895PNqSgEI_35",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "这个场景发生在哪里？",
+            "options": [
+                "A. 场景发生在一个奥林匹克体育场。",
+                "B. 场景发生在一所高中的体育馆。",
+                "C. 场景发生在一个本地公园。",
+                "D. 场景发生在一个城市广场。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_36": {
+            "id": "E895PNqSgEI_36",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "场景的整体环境是什么？",
+            "options": [
+                "A. 环境特征包括红色的跑道。",
+                "B. 环境充满了大量欢腾的人群和混乱的场面。",
+                "C. 环境展现了一片安静的公园。",
+                "D. 环境是一条挤满车辆的城市街道。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_37": {
+            "id": "E895PNqSgEI_37",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "视频中Andre De Grasse是如何被视觉呈现的？",
+            "options": [
+                "A. 被描绘为在赛后平静地走在跑道上",
+                "B. 被描绘为站在领奖台上庆祝胜利",
+                "C. 展示为坐在场边与摄像师谈论。",
+                "D. 被描绘为在跑道上奔跑。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_38": {
+            "id": "E895PNqSgEI_38",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "视频中Andre De Grasse的穿着是什么样的？",
+            "options": [
+                "A. 身穿红白无袖制服，胸前印有“CANADA”和加拿大国旗。",
+                "B. 身穿蓝色制服，胸前印有“USA”，手持美国国旗。",
+                "C. 穿着浅灰色衬衫和米色裤子，胸前印有“CANADA”和加拿大国旗。",
+                "D. 身穿黑白制服，胸前印有“USA”。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_39": {
+            "id": "E895PNqSgEI_39",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "摄影机操作员配备了什么设备？",
+            "options": [
+                "A. 摄影机操作员配备了一个三脚架摄像机和手持摄像机。",
+                "B. 摄影机操作员配备了一台手持式视频录制设备。",
+                "C. 摄影机操作员配备了一个肩扛式麦克风设备。",
+                "D. 摄影机操作员配备了一个三脚架数字相机。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_40": {
+            "id": "E895PNqSgEI_40",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "在这个场景中有多少运动员显眼可见？",
+            "options": [
+                "A. 二名运动员",
+                "B. 三名运动员",
+                "C. 五名运动员",
+                "D. 六名运动员"
+            ],
+            "answer": "D"
+        },
+        "E895PNqSgEI_41": {
+            "id": "E895PNqSgEI_41",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "第三名的叠加信息上显示什么？",
+            "options": [
+                "A. 叠加显示 'ATHLETICS Men's 100M 3RD PLACE – FINAL,'，'CAN ANDRE DE GRASSE'。",
+                "B. 叠加显示'ATHLETICS Men's 100M WINNER,'，'USA FRED KERLEY'。",
+                "C. 叠加显示'ATHLETICS Men’s 100M FINAL,'，'CAN ANDRE DE GRASSE'。",
+                "D. 叠加显示'ATHLETICS Men’s 200M 3RD PLACE。'，'CAN ANDRE DE GRASSE。'"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_42": {
+            "id": "E895PNqSgEI_42",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Andre De Grasse合照时在画面中的什么位置？",
+            "options": [
+                "A. Andre De Grasse位于画面的左侧。",
+                "B. Andre De Grasse位于画面的中央。",
+                "C. Andre De Grasse位于画面的右侧。",
+                "D. Andre De Grasse位于画面之外。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_43": {
+            "id": "E895PNqSgEI_43",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "场景中描绘的整体环境是什么？",
+            "options": [
+                "A. 场景描绘了一个宽敞的体育场。",
+                "B. 场景描绘了一个热闹的体育场。",
+                "C. 场景描绘了一个小型社区体育馆。",
+                "D. 场景描绘了一个宁静的公园。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_44": {
+            "id": "E895PNqSgEI_44",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "Lamont Marcell Jacobs在场景中穿着什么？",
+            "options": [
+                "A. Lamont Marcell Jacobs穿着一套蓝色服装。",
+                "B. Lamont Marcell Jacobs穿着一套红色服装。",
+                "C. Lamont Marcell Jacobs穿着一套绿色服装。",
+                "D. Lamont Marcell Jacobs穿着一套蓝色和灰色服装。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_45": {
+            "id": "E895PNqSgEI_45",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "Lamont Marcell Jacobs的服装上有什么标志？",
+            "options": [
+                "A. 他的名字“JACOBS”和大腿上的数字3。",
+                "B. 他的名字“JACOBS”和大腿上的数字7。",
+                "C. 他的名字“PACOBS”和大腿上的数字3。",
+                "D. 他的名字“PACOBS”和大腿上的数字7。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_46": {
+            "id": "E895PNqSgEI_46",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "Lamont Marcell Jacobs在合照时正在做什么动作？",
+            "options": [
+                "A. 他用双手举着意大利国旗。",
+                "B. 他举着美国国旗，向观众挥手。",
+                "C. 他将加拿大国旗披在肩上并鼓掌。",
+                "D. 他张开双臂来庆祝。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_47": {
+            "id": "E895PNqSgEI_47",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "合照时Andre De Grasse是如何拿着加拿大国旗的？",
+            "options": [
+                "A. Andre De Grasse双臂伸展开拿着加拿大国旗。",
+                "B. Andre De Grasse将加拿大国旗披在肩上。",
+                "C. Andre De Grasse用一只手挥舞着加拿大国旗。",
+                "D. Andre De Grasse将加拿大国旗折好拿在手中。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_48": {
+            "id": "E895PNqSgEI_48",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "场景中有多少运动员被明显特写？",
+            "options": [
+                "A. 两名运动员",
+                "B. 三名运动员",
+                "C. 四名运动员",
+                "D. 五名运动员"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_49": {
+            "id": "E895PNqSgEI_49",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "这场景中显著出现的运动员是谁？",
+            "options": [
+                "A. Andre De Grasse, Lamont Marcell Jacobs, and Fred Kerley",
+                "B. Andre De Grasse, Noah Lyles, and Fred Kerley",
+                "C. Lamont Marcell Jacobs, Usain Bolt, and Fred Kerley",
+                "D. Andre De Grasse, Lamont Marcell Jacobs, and Christian Coleman"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_50": {
+            "id": "E895PNqSgEI_50",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "合照时体育场的座位拥挤吗？",
+            "options": [
+                "A. 是的，体育场的座位已经完全坐满了。",
+                "B. 不，体育场的座位大多是空的。",
+                "C. 是的，体育场的座位有零星几个空位。",
+                "D. 不，体育场的座位坐了一半。"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_51": {
+            "id": "E895PNqSgEI_51",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "运动员合照时，摄像机角度是哪种类型的？",
+            "options": [
+                "A. 窄摄像角度专注于目标细节。",
+                "B. 摄像角度被扩大以显示更广泛的视角。",
+                "C. 放大角度强调运动员的特写。",
+                "D. 倾斜的摄像角度以斜角捕捉动态运动。"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_52": {
+            "id": "E895PNqSgEI_52",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "背景中的哪个视觉元素表明了这一事件？",
+            "options": [
+                "A. 'TOKYO 2020'",
+                "B. 'OLYMPIC GAMES'",
+                "C. 'SPORTS FESTIVAL 2020'",
+                "D. 'WORLD CHAMPIONSHIPS'"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_53": {
+            "id": "E895PNqSgEI_53",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "TOKYO 2020'标志在图形设计中的位置在哪里？",
+            "options": [
+                "A. 'TOKYO 2020'标志位于中央。",
+                "B. 'TOKYO 2020'标志位于左上角。",
+                "C. 'TOKYO 2020'标志位于右下角。",
+                "D. 'TOKYO 2020'标志位于一侧。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_54": {
+            "id": "E895PNqSgEI_54",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "视频中Fred Kerley正在做什么？",
+            "options": [
+                "A. Fred Kerley正在庆祝中挥舞他的国旗。",
+                "B. Fred Kerley正在跑道上奔跑。",
+                "C. Fred Kerley正在接受屏幕采访。",
+                "D. Fred Kerley正在领奖台上向观众挥手。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_55": {
+            "id": "E895PNqSgEI_55",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "宣传平面设计展示了什么？",
+            "options": [
+                "A. 奥运五环标志，以及带有'DISCOVER MORE'和'tokyo2020.org'。",
+                "B. 雅加达亚运会会徽，以及带有'DISCOVER MORE'和'Jakarta2018.org'。",
+                "C. 突出了TOKYO 2020标志，并配有滚动显示的参赛国家名单。",
+                "D. 突出了JAKARTA 2018标志，并配有滚动显示的参赛国家名单。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_56": {
+            "id": "E895PNqSgEI_56",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "平面设计是否视觉上复杂？",
+            "options": [
+                "A. 是的，平面设计非常复杂且视觉上十分精致。",
+                "B. 不是，平面设计风格极简，注重简洁。",
+                "C. 是的，平面设计充满大量细节元素和鲜艳的颜色。",
+                "D. 不是，平面设计只使用了简约的单线条描绘。"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_57": {
+            "id": "E895PNqSgEI_57",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "当前场景的视频叙事是什么？",
+            "options": [
+                "A. 一个抽象的图形设计。",
+                "B. 关于运动员们表现的采访。",
+                "C. 一部关于奥运会历史的纪录片。",
+                "D. 历届奥运会体育精彩镜头的剪辑。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_58": {
+            "id": "E895PNqSgEI_58",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "在宣传框中使用的是哪种类型的摄像视角？",
+            "options": [
+                "A. 宣传框使用静态视角，强调简洁和品牌。",
+                "B. 宣传框采用动态全景镜头，展示各种运动员。",
+                "C. 宣传框采用航拍视角，捕捉整个体育场。",
+                "D. 宣传框使用特写视角，聚焦于个别运动员。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_59": {
+            "id": "E895PNqSgEI_59",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "运动员在比赛开始前立即做了什么？",
+            "options": [
+                "A. 运动员在跑道上的起跑器中就位。",
+                "B. 运动员正在与他们的对手握手。",
+                "C. 运动员正在跑道外进行热身运动。",
+                "D. 运动员正在调整他们的跑鞋。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_60": {
+            "id": "E895PNqSgEI_60",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "比赛开始前，裁判的角色是什么？",
+            "options": [
+                "A. 裁判手持发令枪站在一旁。",
+                "B. 裁判挥舞旗帜开始比赛。",
+                "C. 裁判站在终点线处决定胜者。",
+                "A. 裁判吹响口哨开始比赛。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_61": {
+            "id": "E895PNqSgEI_61",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "穿红色制服的运动员做了什么？",
+            "options": [
+                "A. 穿红色制服的运动员（第5跑道）猛烈向前倾身。",
+                "B. 穿红色制服的运动员（第5跑道）踉跄摔倒。",
+                "C. 穿红色制服的运动员（第5跑道）停留在起跑线上。",
+                "D. 穿红色制服的运动员（第5跑道）向观众挥手致意。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_62": {
+            "id": "E895PNqSgEI_62",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "Lamont Marcell Jacobs冲过终点线后会发生什么？",
+            "options": [
+                "A. 焦点转向Andre De Grasse赛后镇定地走着。",
+                "B. 运动员立即离开赛道，没有向观众致意。",
+                "C. Andre De Grasse流泪，独自坐在赛道上，反思他的胜利。",
+                "D. Lamont Marcell Jacobs在仍然喘息的情况下开始即兴采访。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_63": {
+            "id": "E895PNqSgEI_63",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么穿蓝色制服的运动员被显著强调？",
+            "options": [
+                "A. 以突出他在取得领先位置并最终第一个冲过终点时的进展。",
+                "B. 蓝色制服与品牌推广色相符，形成了一种视觉关联。",
+                "C. 是因为他是唯一一位首次参加奥运会比赛的运动员。",
+                "D. 穿蓝色制服的运动员起跑最慢，与最终的宣传图形成了对比。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_64": {
+            "id": "E895PNqSgEI_64",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "Andre De Grasse在赛后做了什么？",
+            "options": [
+                "A. 在赛后保持冷静的态度。",
+                "B. 与团队一起庆祝。",
+                "C. 在赛后情绪激动热泪盈眶。",
+                "D. 与粉丝互动，在跑道附近签名和合影。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_65": {
+            "id": "E895PNqSgEI_65",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "运动员们是如何展示民族自豪感的？",
+            "options": [
+                "A. 运动员们表演了一支民族舞蹈。",
+                "B. 运动员们举着各自国家的国旗。",
+                "C. 运动员们唱了他们的国歌。",
+                "D. 运动员们穿着代表他们国家的特殊服装。"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_66": {
+            "id": "E895PNqSgEI_66",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "视频中的第一个事件是什么？",
+            "options": [
+                "A. 比赛开始，短跑运动员从起跑器出发。",
+                "B. 比赛结束，运动员们领取奖牌。",
+                "C. 运动员们排练赛后庆祝活动。",
+                "D. 体育场播音员向观众介绍运动员。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_67": {
+            "id": "E895PNqSgEI_67",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "比赛结束后，摄像机最初的焦点是什么？",
+            "options": [
+                "A. 摄像机最初突出的是单个运动员的反应。",
+                "B. 摄像机最初关注的是东京2020的标志。",
+                "C. 摄像机最初捕捉的是体育场内观众的反应。",
+                "D. 摄像机最初显示的是整个体育场的全景镜头。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_68": {
+            "id": "E895PNqSgEI_68",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "在聚焦FRED KERLEY的反应后，摄像机拍摄了什么？",
+            "options": [
+                "A. 深红色背景下的东京2020会徽",
+                "B. 体育场内观众的欢呼",
+                "C. Andre De Grasse平静地走着",
+                "D. 照亮夜空的烟花"
+            ],
+            "answer": "C"
+        },
+        "E895PNqSgEI_69": {
+            "id": "E895PNqSgEI_69",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "在展示Andre De Grasse之后，摄像机的下一个焦点是什么？",
+            "options": [
+                "A. 摄像机转向一个庆祝的群体时刻。",
+                "B. 摄像机放大Andre De Grasse的奖牌。",
+                "C. 摄像机聚焦于体育场内飘扬的国旗。",
+                "D. 摄像机立即显示东京2020的标志。"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_70": {
+            "id": "E895PNqSgEI_70",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "视频最后摄像机的最终焦点是什么？",
+            "options": [
+                "A. 摄像机停留在手持国旗的运动员身上。",
+                "B. 摄像机最终定格在静态抽象图形上。",
+                "C. 摄像机展示了体育场内的观众。",
+                "D. 摄像机聚焦于颁奖仪式。"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_71": {
+            "id": "E895PNqSgEI_71",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "为什么Andre De Grasse在赛后显得很平静？",
+            "options": [
+                "A. Andre De Grasse的举止可能反映了他对比赛中获得第三名的满意。",
+                "B. Andre De Grasse显得平静是因为他在比赛中赢得了金牌。",
+                "C. Andre De Grasse的平静是因为比赛被推迟到了另外一天。",
+                "D. Andre De Grasse显得平静是因为他直到后来才对自己的表现有信心。"
+            ],
+            "answer": "A"
+        }
+    }
+}

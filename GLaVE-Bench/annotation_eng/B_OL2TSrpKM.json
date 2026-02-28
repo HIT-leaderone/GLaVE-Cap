@@ -1,0 +1,962 @@
+{
+    "scene_hint": {
+        "0": "A simple promotional graphic.",
+        "1": "Trim the shape of the wooden piece.",
+        "2": "Drill holes into the wooden piece.",
+        "3": "Paint on the wooden piece.",
+        "4": "Fasten the wooden piece and button together.",
+        "5": "Showcase the final product.",
+        "6": "The scene ends with a line of text."
+    },
+    "qa": {
+        "B_OL2TSrpKM_0": {
+            "id": "B_OL2TSrpKM_0",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the keychain located in the scene when the author is cutting the wood pieces?",
+            "options": [
+                "A. The keychain is located at the center of the scene.",
+                "B. The keychain is located at the upper left corner of the scene.",
+                "C. The keychain is located at the lower right corner of the scene.",
+                "D. The keychain is located at the middle right part of the scene."
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_1": {
+            "id": "B_OL2TSrpKM_1",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the main background setting of the scene?",
+            "options": [
+                "A. It is a dark brown wooden surface.",
+                "B. It is a pure white surface.",
+                "C. It is a cyan-blue pattern.",
+                "D. It is a light-colored wooden desktop."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_2": {
+            "id": "B_OL2TSrpKM_2",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What does the left hand do during the cutting process?",
+            "options": [
+                "A. The left hand holds a yellow pencil.",
+                "B. The left hand grips the wood piece with the thumb and index finger.",
+                "C. The left hand adjusts the keychain.",
+                "D. The left hand applies glue to the stick with a glue applicator."
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_3": {
+            "id": "B_OL2TSrpKM_3",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What did the right hand do when making the auxiliary line?",
+            "options": [
+                "A. The right hand drew a line with a yellow pencil.",
+                "B. The right hand remained still while the left hand manipulated the wooden stick.",
+                "C. The right hand drew a line with a blue marker.",
+                "D. The right hand placed the wooden stick horizontally on the surface."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_4": {
+            "id": "B_OL2TSrpKM_4",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What text is on the wood piece?",
+            "options": [
+                "A. Contains the text 'DIY ideas'.",
+                "B. Contains the text 'DIY crafts'.",
+                "C. Contains the text 'DIY projects'.",
+                "D. Contains the text 'DIY tips'."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_5": {
+            "id": "B_OL2TSrpKM_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is the background design of the circular logo on the left side of the image?",
+            "options": [
+                "A. The background of the logo is solid cyan-blue.",
+                "B. The background of the logo is a bright speckled pattern.",
+                "C. The background of the logo is pure white with no patterns.",
+                "D. The background of the logo is a golden-yellow gradient."
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_6": {
+            "id": "B_OL2TSrpKM_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many different font styles were used?",
+            "options": [
+                "A. Six font styles were used.",
+                "B. Three font styles were used.",
+                "C. Four font styles were used.",
+                "D. Five font styles were used."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_7": {
+            "id": "B_OL2TSrpKM_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What font style is used for the oversized 'DIY' on the top left?",
+            "options": [
+                "A. Bold serif lowercase",
+                "B. Thin serif uppercase",
+                "C. Bold sans-serif uppercase",
+                "D. Script in a handwritten style"
+            ],
+            "answer": "C"
+        },
+        "B_OL2TSrpKM_8": {
+            "id": "B_OL2TSrpKM_8",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What font style is used for 'ideas' in the circular logo?",
+            "options": [
+                "A. Elegant serif",
+                "B. Bold sans-serif",
+                "C. Handwriting font",
+                "D. Modern sans-serif"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_9": {
+            "id": "B_OL2TSrpKM_9",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What font style is used for 'IDEAS' at the top right?",
+            "options": [
+                "A. Handwritten style font",
+                "B. Bold uppercase serif font",
+                "C. Delicate lowercase serif font",
+                "D. Extra large sans-serif font"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_10": {
+            "id": "B_OL2TSrpKM_10",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What font style is used for the slogan to the right of 'DIy ideas'?",
+            "options": [
+                "A. Bold white sans-serif",
+                "B. Elegant golden handwritten",
+                "C. Delicate serif",
+                "D. Imitation handwritten teal font"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_11": {
+            "id": "B_OL2TSrpKM_11",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What does the change of wood chips from horizontal to vertical indicate?",
+            "options": [
+                "A. This shows that progress is being made or preparation for the next step is underway.",
+                "B. This shows that the manufacturing process is complete.",
+                "C. This indicates an error has occurred and correction is needed.",
+                "D. This indicates the activity is paused for reevaluation."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_12": {
+            "id": "B_OL2TSrpKM_12",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What camera angles were used in the scene production?",
+            "options": [
+                "A. A camera with an overhead angle was used.",
+                "B. A camera with a side angle was used.",
+                "C. A camera facing directly forward was used.",
+                "D. A camera with a low angle was used."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_13": {
+            "id": "B_OL2TSrpKM_13",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video?",
+            "options": [
+                "A. The background of the video is a wooden surface.",
+                "B. The background of the video is a marble surface.",
+                "C. The background of the video is a concrete surface.",
+                "D. The background of the video is a plastic table."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_14": {
+            "id": "B_OL2TSrpKM_14",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What is held in the left hand while drilling?",
+            "options": [
+                "A. A flat, oval-shaped piece of wood",
+                "B. A milky white rectangular tag",
+                "C. A slender needle-like tool",
+                "D. A metal keychain"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_15": {
+            "id": "B_OL2TSrpKM_15",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "When drilling, how does the left hand hold this object?",
+            "options": [
+                "A. The left hand holds it with only two fingers.",
+                "B. The left hand holds it with the thumb and middle finger.",
+                "C. The left hand supports it with an open palm.",
+                "D. The left hand does not touch the object at all."
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_16": {
+            "id": "B_OL2TSrpKM_16",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What is the color and shape of the tag on the keychain?",
+            "options": [
+                "A. The tag is cream-colored and shaped like a rectangle with rounded corners.",
+                "B. The tag is white and shaped like a circle.",
+                "C. The tag is yellow and shaped like a triangle.",
+                "D. The tag is brown and shaped like an oval."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_17": {
+            "id": "B_OL2TSrpKM_17",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What type of text is on the keychain's tag?",
+            "options": [
+                "A. The text on the tag is bold and uppercase.",
+                "B. The text on the tag is handwritten and cursive.",
+                "C. The text on the tag is italic and lowercase.",
+                "D. The text on the tag is decorative and monogrammed."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_18": {
+            "id": "B_OL2TSrpKM_18",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What additional design elements are on the keychain tag?",
+            "options": [
+                "A. The tag has a stitched border and a small red heart.",
+                "B. The tag has a striped border and a small blue star.",
+                "C. The tag has a dotted border and a small green leaf.",
+                "D. The tag has a wavy border and a small yellow sun."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_19": {
+            "id": "B_OL2TSrpKM_19",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What kind of ring does the keychain have?",
+            "options": [
+                "A. The keychain has a metal ring.",
+                "B. The keychain has a wooden ring.",
+                "C. The keychain has a plastic ring.",
+                "D. The keychain has a rubber ring."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_20": {
+            "id": "B_OL2TSrpKM_20",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many wooden parts are visible?",
+            "options": [
+                "A. One wooden part",
+                "B. Two wooden parts",
+                "C. Three wooden parts",
+                "D. Four wooden parts"
+            ],
+            "answer": "C"
+        },
+        "B_OL2TSrpKM_21": {
+            "id": "B_OL2TSrpKM_21",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Will the keychain in the upper left corner move?",
+            "options": [
+                "A. Yes, the keychain will reposition.",
+                "B. No, the keychain remains stationary.",
+                "C. Yes, the keychain will rotate multiple times.",
+                "D. No, the keychain is replaced with other materials."
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_22": {
+            "id": "B_OL2TSrpKM_22",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "From which direction does the right hand extend?",
+            "options": [
+                "A. The right hand extends from the upper left side of the image.",
+                "B. The right hand extends from the upper right side of the image.",
+                "C. The right hand extends from the lower left side of the image.",
+                "D. The right hand extends from the lower right side of the image."
+            ],
+            "answer": "D"
+        },
+        "B_OL2TSrpKM_23": {
+            "id": "B_OL2TSrpKM_23",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What camera angle was used in the video?",
+            "options": [
+                "A. A side-view camera angle was used.",
+                "B. A front-view camera angle was used.",
+                "C. A level-view camera angle was used.",
+                "D. A close-up camera angle was used."
+            ],
+            "answer": "D"
+        },
+        "B_OL2TSrpKM_24": {
+            "id": "B_OL2TSrpKM_24",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the environment like in the scene?",
+            "options": [
+                "A. A well-lit surface.",
+                "B. A dim and dusty surface.",
+                "C. A surface with contrasting shadows.",
+                "D. A rough carpeted surface."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_25": {
+            "id": "B_OL2TSrpKM_25",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many hands can be seen in the picture?",
+            "options": [
+                "A. One hand",
+                "B. Two hands",
+                "C. Three hands",
+                "D. No hands"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_26": {
+            "id": "B_OL2TSrpKM_26",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "What is the maximum number of pre-drilled wooden pieces that can be held in hand?",
+            "options": [
+                "A. One wooden piece",
+                "B. Two wooden pieces",
+                "C. Three wooden pieces",
+                "D. Four wooden pieces"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_27": {
+            "id": "B_OL2TSrpKM_27",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "Is there a new tool for making wood chips after drilling the hole?",
+            "options": [
+                "A. Yes, a hammer appeared",
+                "B. No",
+                "C. Yes, gauze appeared",
+                "D. Yes, scissors appeared"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_28": {
+            "id": "B_OL2TSrpKM_28",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What is being done after drilling the hole?",
+            "options": [
+                "A. Comparing two pieces of wood.",
+                "B. Carving text on the wood block.",
+                "C. Painting the wood block with colors.",
+                "D. Attaching the wood block to a keychain."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_29": {
+            "id": "B_OL2TSrpKM_29",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the patterned wooden block placed in the scene?",
+            "options": [
+                "A. At the top of the scene.",
+                "B. At the bottom right corner of the scene.",
+                "C. In the center of the scene.",
+                "D. At the top right corner of the scene."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_30": {
+            "id": "B_OL2TSrpKM_30",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the video?",
+            "options": [
+                "A. The setting is a craft table.",
+                "B. The setting is a workshop.",
+                "C. The setting is an outdoor picnic scene.",
+                "D. The setting is an art gallery."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_31": {
+            "id": "B_OL2TSrpKM_31",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the lighting like in the scene?",
+            "options": [
+                "A. The lighting is bright and uneven.",
+                "B. The lighting is dim and atmospheric.",
+                "C. The lighting is bright and evenly distributed.",
+                "D. The lighting is glaring and too strong."
+            ],
+            "answer": "C"
+        },
+        "B_OL2TSrpKM_32": {
+            "id": "B_OL2TSrpKM_32",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What did the right hand do on the first piece of wood?",
+            "options": [
+                "A. Drew a symbol and text.",
+                "B. Drew a delicate flower.",
+                "C. Wrote text.",
+                "D. Drew a symbol."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_33": {
+            "id": "B_OL2TSrpKM_33",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What pen was used by the right hand to draw?",
+            "options": [
+                "A. A white pen labeled 'Ostern'.",
+                "B. A yellow pen labeled 'Ostern'.",
+                "C. A white pen labeled 'Doraemon'.",
+                "D. A yellow pen labeled 'Doraemon'."
+            ],
+            "answer": "C"
+        },
+        "B_OL2TSrpKM_34": {
+            "id": "B_OL2TSrpKM_34",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What are the features of the 'DIY IDEAS' keychain tag?",
+            "options": [
+                "A. Red letters, black outline, and heart pattern.",
+                "B. Red text, silver edges, and floral pattern.",
+                "C. Blue letters, gold trim, and star design.",
+                "D. Black text, red highlights, and moon pattern."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_35": {
+            "id": "B_OL2TSrpKM_35",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many colors of pens are used in the scene?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_36": {
+            "id": "B_OL2TSrpKM_36",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What role does the left hand play during the production process?",
+            "options": [
+                "A. Stabilize the wooden plaque.",
+                "B. Draw the pattern.",
+                "C. Hold the ruler in place.",
+                "D. Replace the marker with a pen."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_37": {
+            "id": "B_OL2TSrpKM_37",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in the video?",
+            "options": [
+                "A. Uses a wide-angle perspective.",
+                "B. Uses an eye-level perspective.",
+                "C. Uses a close-up perspective.",
+                "D. Uses a long-distance perspective."
+            ],
+            "answer": "C"
+        },
+        "B_OL2TSrpKM_38": {
+            "id": "B_OL2TSrpKM_38",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What does the design on the finished wooden plaque look like?",
+            "options": [
+                "A. A full heart pierced by an arrow",
+                "B. A smiley face with intricate details",
+                "C. A plaque with 'DIY IDEAS' on it",
+                "D. A plaque with 'YouTube' on it"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_39": {
+            "id": "B_OL2TSrpKM_39",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene like?",
+            "options": [
+                "A. A wooden desktop",
+                "B. A glass desktop",
+                "C. A marble desktop",
+                "D. A fabric background"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_40": {
+            "id": "B_OL2TSrpKM_40",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What color is the background?",
+            "options": [
+                "A. Reddish-brown",
+                "B. White",
+                "C. Dark gray",
+                "D. Black"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_41": {
+            "id": "B_OL2TSrpKM_41",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What is a notable feature of the 'DIY IDEAS' keychain?",
+            "options": [
+                "A. It has a small red heart pattern.",
+                "B. It has a star pattern.",
+                "C. It has no other patterns.",
+                "D. It has a floral pattern."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_42": {
+            "id": "B_OL2TSrpKM_42",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many keychains are described?",
+            "options": [
+                "A. Two keychains",
+                "B. Three keychains",
+                "C. Four keychains",
+                "D. Five keychains"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_43": {
+            "id": "B_OL2TSrpKM_43",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What is the name of the keychain mentioned in the description?",
+            "options": [
+                "A. 'DIY IDEAS', 'YouTube', 'Love'.",
+                "B. 'Handmade', 'Vlog', 'Affection'.",
+                "C. 'Creative', 'Video', 'Heart'.",
+                "D. 'Craft', 'Channel', 'Adoration'."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_44": {
+            "id": "B_OL2TSrpKM_44",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "Is the 'YouTube' keychain the main focus of the image?",
+            "options": [
+                "A. Yes, it is one of the main focuses of the image.",
+                "B. No, the 'DIY IDEAS' keychain is.",
+                "C. Yes, only the 'YouTube' keychain is.",
+                "D. No, the focus is the 'Love' keychain."
+            ],
+            "answer": "D"
+        },
+        "B_OL2TSrpKM_45": {
+            "id": "B_OL2TSrpKM_45",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "What is the positional relationship when the 'DIY IDEAS' and 'YouTube' keychains are placed on the table?",
+            "options": [
+                "A. The 'YouTube' keychain is to its right.",
+                "B. The 'YouTube' keychain is placed on the table next to it.",
+                "C. The 'DIY IDEAS' and 'YouTube' keychains are displayed separately.",
+                "D. The 'DIY IDEAS' and 'YouTube' keychains are stacked together."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_46": {
+            "id": "B_OL2TSrpKM_46",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What camera angle is used in these shots?",
+            "options": [
+                "A. Wide-angle camera view.",
+                "B. Close-up camera view.",
+                "C. Eye-level camera view.",
+                "D. Side camera view."
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_47": {
+            "id": "B_OL2TSrpKM_47",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "Which keychain was initially held in the right hand?",
+            "options": [
+                "A. 'Love' keychain",
+                "B. 'DIY IDEAS' keychain",
+                "C. 'YouTube' keychain",
+                "D. 'Home' keychain"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_48": {
+            "id": "B_OL2TSrpKM_48",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What is the function of the left hand?",
+            "options": [
+                "A. Move the keychain to the fingers of the right hand.",
+                "B. Secure the keychain for display in the hand.",
+                "C. Place the keychain on the table for display.",
+                "D. Did nothing."
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_49": {
+            "id": "B_OL2TSrpKM_49",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "How would you describe the appearance of the 'DIY IDEAS' keychain?",
+            "options": [
+                "A. Red and black font, accompanied by a heart-shaped pattern.",
+                "B. Plaque, heart-shaped pattern, and black font.",
+                "C. Red tag displaying the 'YouTube' logo.",
+                "D. Blue and yellow font, accompanied by a star-shaped pattern."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_50": {
+            "id": "B_OL2TSrpKM_50",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many keychains were specifically mentioned?",
+            "options": [
+                "A. Three keychains were specifically mentioned.",
+                "B. Two keychains were specifically mentioned.",
+                "C. Four keychains were specifically mentioned.",
+                "D. Five keychains were specifically mentioned."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_51": {
+            "id": "B_OL2TSrpKM_51",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Throughout the scene, is the right hand always holding the 'Love' keychain?",
+            "options": [
+                "A. Yes, the right hand is always holding the 'Love' keychain.",
+                "B. No, the right hand picked up the 'DIY IDEAS' keychain.",
+                "C. No, the right hand picked up the 'YouTube' keychain.",
+                "D. Yes, the right hand is holding both the 'Love' and 'YouTube' keychains."
+            ],
+            "answer": "C"
+        },
+        "B_OL2TSrpKM_52": {
+            "id": "B_OL2TSrpKM_52",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "When the left hand is turned vertically, what is the state of the keychain?",
+            "options": [
+                "A. The keychain is in a vertical position.",
+                "B. The keychain is lying horizontally.",
+                "C. The keychain falls from the hand.",
+                "D. The state of the keychain cannot be observed."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_53": {
+            "id": "B_OL2TSrpKM_53",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "Which type of camera lens is used to showcase the scene?",
+            "options": [
+                "A. Close-up shot",
+                "B. Eye-level shot",
+                "C. Side-angle shot",
+                "D. Wide-angle shot"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_54": {
+            "id": "B_OL2TSrpKM_54",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "How is the arrangement of keychains changed in the scene?",
+            "options": [
+                "A. The 'Love' keychain moved to the position of the 'YouTube' keychain.",
+                "B. The 'Love' keychain moved to the position of the 'DIY IDEAS' keychain.",
+                "C. The 'DIY IDEAS' keychain was removed from the scene.",
+                "D. The 'DIY IDEAS' keychain moved to the position of the 'YouTube' keychain."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_55": {
+            "id": "B_OL2TSrpKM_55",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What kind of lighting is used in the scene environment?",
+            "options": [
+                "A. Soft natural light",
+                "B. Artificial cool-toned lighting",
+                "C. Dim lighting",
+                "D. Bright fluorescent lighting"
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_56": {
+            "id": "B_OL2TSrpKM_56",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Where is the text 'Like & Subscribe' positioned relative to the frame?",
+            "options": [
+                "A. It is located at the bottom right corner of the frame.",
+                "B. It is located at the top right corner of the frame.",
+                "C. It is located at the bottom left corner of the frame.",
+                "D. It is located at the center of the frame."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_57": {
+            "id": "B_OL2TSrpKM_57",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What does the background of the scene look like?",
+            "options": [
+                "A. Smooth and evenly lit.",
+                "B. Rough and unevenly lit.",
+                "C. With vivid and colorful designs.",
+                "D. Plain white background with no texture."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_58": {
+            "id": "B_OL2TSrpKM_58",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "At the end of the scene, how are the hands positioned?",
+            "options": [
+                "A. Palms up, lying flat on the table.",
+                "B. Palms down, lying flat on the table.",
+                "C. Palms facing right, placed vertically on the table.",
+                "D. The hands are no longer in the frame."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_59": {
+            "id": "B_OL2TSrpKM_59",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What does the topmost keychain look like at the end of the scene?",
+            "options": [
+                "A. The tag has an illustration of a red heart pierced by an arrow.",
+                "B. The tag has an illustration of a yellow star.",
+                "C. The tag has the text 'DIY IDEAS'.",
+                "D. The tag has the YouTube logo."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_60": {
+            "id": "B_OL2TSrpKM_60",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What was written on the topmost keychain at the end of the scene?",
+            "options": [
+                "A. The word 'Love'.",
+                "B. The word 'Like'.",
+                "C. The word 'Subscribe'.",
+                "D. The word 'Home'."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_61": {
+            "id": "B_OL2TSrpKM_61",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many keychains are in your hand?",
+            "options": [
+                "A. Two keychains",
+                "B. Three keychains",
+                "C. Four keychains",
+                "D. Five keychains"
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_62": {
+            "id": "B_OL2TSrpKM_62",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "In the final scene, is the camera's perspective focused on the hand and the keychain?",
+            "options": [
+                "A. Yes, the camera's perspective is focused on the hand and the keychain.",
+                "B. No, the camera's perspective is focused only on the keychain.",
+                "C. No, the camera's perspective is focused on the wooden background.",
+                "D. No, the camera's perspective is focused only on the hand."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_63": {
+            "id": "B_OL2TSrpKM_63",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "What is the direction of the middle keychain at the end of the scene?",
+            "options": [
+                "A. The middle keychain is vertical.",
+                "B. The middle keychain is horizontal.",
+                "C. The middle keychain is diagonal.",
+                "D. The middle keychain does not have a specific direction."
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_64": {
+            "id": "B_OL2TSrpKM_64",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What type of shot was used at the end of the scene?",
+            "options": [
+                "A. Wide-angle shot.",
+                "B. Close-up shot.",
+                "C. Long shot.",
+                "D. Aerial shot."
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_65": {
+            "id": "B_OL2TSrpKM_65",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "What does the screen show?",
+            "options": [
+                "A. A hand holding three keychains.",
+                "B. The background has 'THANKS FOR WATCHING!'.",
+                "C. The text 'Like & Subscribe'.",
+                "D. Keychains, wooden background, and 'THANKS FOR WATCHING!'."
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_66": {
+            "id": "B_OL2TSrpKM_66",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Does the scene include hands and a keychain?",
+            "options": [
+                "A. Yes.",
+                "B. Does not include.",
+                "C. Sometimes.",
+                "D. Only includes hands."
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_67": {
+            "id": "B_OL2TSrpKM_67",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene like?",
+            "options": [
+                "A. Pure black background.",
+                "B. Pure white background.",
+                "C. Red-brown wood texture background.",
+                "D. Colorful design background."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_68": {
+            "id": "B_OL2TSrpKM_68",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the main theme suggested by the design of this video?",
+            "options": [
+                "A. Minimalism and simplicity.",
+                "B. Creativity and customization.",
+                "C. Call to action for subscription content.",
+                "D. Emphasis on commercial branding."
+            ],
+            "answer": "B"
+        },
+        "B_OL2TSrpKM_69": {
+            "id": "B_OL2TSrpKM_69",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What role does the keychain in the upper left corner of the scene play when cutting wood pieces?",
+            "options": [
+                "A. The keychain serves as a fixed element to display the finished product.",
+                "B. The keychain is the main focus of the ending information.",
+                "C. Represents the creator's personal symbol.",
+                "D. There is no keychain in the upper left corner."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_70": {
+            "id": "B_OL2TSrpKM_70",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How the key is displayed in the scene.",
+            "options": [
+                "A. The keychain is finally displayed in the hand.",
+                "B. The keychain is displayed on a black background with text.",
+                "C. The keychain is casually thrown onto a wooden surface.",
+                "D. The keychain remains stationary throughout the scene."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_71": {
+            "id": "B_OL2TSrpKM_71",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the environment like in the scene?",
+            "options": [
+                "A. There is even and bright lighting.",
+                "B. The scene is completely dark.",
+                "C. There is dim lighting.",
+                "D. There is flickering lighting."
+            ],
+            "answer": "A"
+        },
+        "B_OL2TSrpKM_72": {
+            "id": "B_OL2TSrpKM_72",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "After showing the final product of the keychain, what scene does it transition to?",
+            "options": [
+                "A. The keychain is placed on another wooden surface.",
+                "B. The transition leads to a minimalist style ending message.",
+                "C. The keychain is replaced by an animation sequence.",
+                "D. The scene further zooms in on the keychain."
+            ],
+            "answer": "B"
+        }
+    }
+}

@@ -1,0 +1,1573 @@
+{
+    "scene_hint": {
+        "0": "A polar bear lies on the snow with a polar bear cub following behind.",
+        "1": "A large creature swims in the water.",
+        "2": "The scene alternates between a cub cuddling behind the polar bear and another cub playing alone.",
+        "3": "A big and a small creature swim in the water.",
+        "4": "A small seal pops its head out of the snow in front of the polar bear cub.",
+        "5": "A close-up shot shows detailed features of the small seal's face.",
+        "6": "Text appears on the screen, the scene transitions to a pure black background, and the video ends."
+    },
+    "qa": {
+        "HmnKbBmYii8_0": {
+            "id": "HmnKbBmYii8_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "From the video, where is the position of the adult polar bear relative to the cubs?",
+            "options": [
+                "A. The adult polar bear is in the middle, and the cubs are on the left side of the adult polar bear.",
+                "B. The adult polar bear is on the left, and the cubs are in the middle.",
+                "C. The adult polar bear is in the middle, and the cubs are on the right side of the adult polar bear.",
+                "D. The adult polar bear is slightly to the right in the middle, and the two cubs are in front of it."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_1": {
+            "id": "HmnKbBmYii8_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the video?",
+            "options": [
+                "A. A lush forest with tall trees and abundant wildlife.",
+                "B. A vast snow-covered Arctic plain with rolling snowdrifts.",
+                "C. A desert with undulating sand dunes and scorching sunlight overhead.",
+                "D. A bustling city with towering skyscrapers and busy streets."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_2": {
+            "id": "HmnKbBmYii8_2",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What posture does an adult polar bear take as time changes?",
+            "options": [
+                "A. The adult polar bear stands on its hind legs and looks around.",
+                "B. The adult polar bear lies on the snow with its front paws tucked against its chest.",
+                "C. The adult polar bear lies flat on the ground with all four paws facing upward.",
+                "D. The adult polar bear walks forward with its head down, sniffing the ground."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_3": {
+            "id": "HmnKbBmYii8_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What text graphics appear in the video?",
+            "options": [
+                "A. The text graphic 'BBC one' appears.",
+                "B. The text graphic 'CNN' appears.",
+                "C. The text graphic 'National Geographic' appears.",
+                "D. The text graphic 'Discovery Channel' appears."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_4": {
+            "id": "HmnKbBmYii8_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Where is the text graphic 'BBC one' located in the video?",
+            "options": [
+                "A. 'BBC one' is overlaid on the polar bear in the middle.",
+                "B. 'BBC one' is located at the top left corner of the image.",
+                "C. 'BBC one' is located at the bottom right corner of the image.",
+                "D. 'BBC one' is overlaid on the snow mountain in the background."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_5": {
+            "id": "HmnKbBmYii8_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many polar bear cubs are described in the video?",
+            "options": [
+                "A. One polar bear cub",
+                "B. Two polar bear cubs",
+                "C. Three polar bear cubs",
+                "D. None"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_6": {
+            "id": "HmnKbBmYii8_6",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is the polar bear's fur color the same as snow?",
+            "options": [
+                "A. Yes, the polar bear's fur color harmoniously blends with the snowy environment.",
+                "B. No, the polar bear's fur color is darker than snow.",
+                "C. Their fur is bright yellow, contrasting with the snow.",
+                "D. The polar bear's fur is transparent, completely mismatching the snow."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_7": {
+            "id": "HmnKbBmYii8_7",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "After the big polar bear lay down, what are the two cubs doing?",
+            "options": [
+                "A. The two cubs also lay down on the snow.",
+                "B. The two cubs continued to move forward.",
+                "C. The two cubs stood still.",
+                "D. The two cubs walked away in the opposite direction of the polar bear."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_8": {
+            "id": "HmnKbBmYii8_8",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "From the video, which direction is the adult polar bear's head tilted?",
+            "options": [
+                "A. The adult polar bear's head is tilted to the left.",
+                "B. The adult polar bear's head is facing forward.",
+                "C. The adult polar bear's head is tilted to the right.",
+                "D. The adult polar bear's head is facing upward."
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_9": {
+            "id": "HmnKbBmYii8_9",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle in the video?",
+            "options": [
+                "A. The camera angle is stable, with a ground-level perspective.",
+                "B. The camera angle is an overhead view, filming the polar bear from above.",
+                "C. The camera angle is a close-up, focusing on the face of an adult polar bear.",
+                "D. The camera angle pans quickly, capturing the vast snowy landscape."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_10": {
+            "id": "HmnKbBmYii8_10",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "How do polar bear cubs move?",
+            "options": [
+                "A. Polar bear cubs are running quickly across the snow.",
+                "B. Polar bear cubs seem to be moving slowly with curiosity.",
+                "C. Polar bear cubs are completely still, showing no movement.",
+                "D. Polar bear cubs are cautiously moving backward, away from adult polar bears."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_11": {
+            "id": "HmnKbBmYii8_11",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "What is the position of the two polar bear cubs as this scene is about to end?",
+            "options": [
+                "A. The two cubs are standing side by side",
+                "B. The two cubs are standing one in front of the other",
+                "C. Neither of the cubs are in the frame",
+                "D. There is only one cub in the frame, on the left side."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_12": {
+            "id": "HmnKbBmYii8_12",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Which visual element enhances the source of capturing the moment?",
+            "options": [
+                "A. The prominently placed text graphic 'BBC one' on the image.",
+                "B. The shadow cast by the polar bear and its cub.",
+                "C. The icy landscape blending with the sky.",
+                "D. The posture of the polar bear and its cub."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_13": {
+            "id": "HmnKbBmYii8_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where does the light source in the underwater environment come from?",
+            "options": [
+                "A. The light source comes from above.",
+                "B. The light source comes from below.",
+                "C. The light source comes from the side.",
+                "D. The light source comes from behind marine organisms."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_14": {
+            "id": "HmnKbBmYii8_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What are the two contrasting environments shown in the video?",
+            "options": [
+                "A. A terrestrial Arctic environment and a deep blue underwater environment.",
+                "B. A dense tropical rainforest and a sunlit coral reef teeming with fish.",
+                "C. A bustling cityscape and a vast desert with rolling sand dunes.",
+                "D. A snowy mountain range and a vast deep blue ocean."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_15": {
+            "id": "HmnKbBmYii8_15",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "In the underwater environment, what replaced the two polar bears?",
+            "options": [
+                "A. A large, shadowy sea creature",
+                "B. A group of colorful fish and a coral reef",
+                "C. A pod of dolphins and a sunken ship",
+                "D. A giant squid and a treasure chest"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_16": {
+            "id": "HmnKbBmYii8_16",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "In underwater scenes, how are large marine creatures described?",
+            "options": [
+                "A. Large marine creatures are depicted as a detailed and colorful image at the center of the frame.",
+                "B. Large marine creatures are depicted as a shadowy outline with faint textures, occupying the lower half of the frame.",
+                "C. Large marine creatures are depicted as a small and blurry shape near the upper right corner.",
+                "D. Large marine creatures are depicted as a cartoon figure with exaggerated features in the background."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_17": {
+            "id": "HmnKbBmYii8_17",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many types of marine life are primarily focused on in the underwater environment?",
+            "options": [
+                "A. One type of marine life",
+                "B. Two types of marine life",
+                "C. Three types of marine life",
+                "D. Four types of marine life"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_18": {
+            "id": "HmnKbBmYii8_18",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Is there a gradient background in the underwater scene?",
+            "options": [
+                "A. Yes, the background has a gradient.",
+                "B. No, the background is a uniform deep blue color.",
+                "C. No, the background is blurry and cannot be determined.",
+                "D. No, the background is completely black without any gradient."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_19": {
+            "id": "HmnKbBmYii8_19",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "From what angle was the underwater scene shot?",
+            "options": [
+                "A. The underwater scene was shot from a downward angle, positioned above the marine life.",
+                "B. The underwater scene was shot from a side angle, positioned at the same level as the marine life.",
+                "C. The underwater scene was shot from a frontal angle, positioned directly in front of the marine life.",
+                "D. The underwater scene was shot from a slightly upward angle, positioned below the marine life."
+            ],
+            "answer": "D"
+        },
+        "HmnKbBmYii8_20": {
+            "id": "HmnKbBmYii8_20",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "How does the camera angle enhance the atmosphere in an underwater environment?",
+            "options": [
+                "A. The camera angle is slightly upward, enhancing the mysterious atmosphere.",
+                "B. The camera angle is level with the marine life, creating a sense of dominance.",
+                "C. The camera angle is downward, highlighting the depth of the water.",
+                "D. The camera angle is directly above, emphasizing the details of marine life."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_21": {
+            "id": "HmnKbBmYii8_21",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "How does the camera angle affect the audience's experience in an underwater environment?",
+            "options": [
+                "A. It maintains the audience's sense of immersion in the underwater environment and focus on marine life.",
+                "B. It creates a feeling of confusion and bewilderment.",
+                "C. It highlights the effect of the water surface rather than marine life.",
+                "D. It weakens the sense of depth and motion in the image."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_22": {
+            "id": "HmnKbBmYii8_22",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Which scene is the current environment switching from?",
+            "options": [
+                "A. The environment switches from a vast plain covered in snow and polar bears.",
+                "B. The environment switches from a desert landscape with camels.",
+                "C. The environment switches from a dense forest with deer.",
+                "D. The environment switches from a bustling cityscape with skyscrapers."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_23": {
+            "id": "HmnKbBmYii8_23",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "When the scene shifts to an underwater environment, what changes occur in the visual settings?",
+            "options": [
+                "A. The setting changes to a deep blue underwater environment with silhouettes of marine life and a gradient background.",
+                "B. The setting transitions to a jungle scene with dense vegetation, sunlight filtering through the leaves, and the sound of birds chirping.",
+                "C. The scene transforms into a snowstorm with polar bears, white flashes, and the sound of howling wind in the background.",
+                "D. The underwater environment becomes a bright coral reef with colorful fish and vibrant plants."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_24": {
+            "id": "HmnKbBmYii8_24",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What elements create a sense of depth in underwater scenes?",
+            "options": [
+                "A. Small particles distributed in the water and the gradient background create a sense of depth.",
+                "B. Light coming from above and the dark silhouettes of marine life create a sense of depth.",
+                "C. Vast snow-covered areas and polar bears create a sense of depth.",
+                "D. Compact, whale-like marine creatures crossing the scene create a sense of depth."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_25": {
+            "id": "HmnKbBmYii8_25",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "From the video, where is the cub located relative to the adult polar bear?",
+            "options": [
+                "A. The cub is snuggled on the left side of the adult bear.",
+                "B. The cub is sitting in front of the adult bear.",
+                "C. The cub is resting on top of the adult bear.",
+                "D. The cub is standing on the far right side of the adult bear."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_26": {
+            "id": "HmnKbBmYii8_26",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the habitat of polar bears like?",
+            "options": [
+                "A. Polar bears live in tropical forests, where trees are abundant, sunlight is bright, and the environment is full of energy.",
+                "B. Polar bears live in desert areas, characterized by endless sand dunes and intense heat, with a harsh and dry environment.",
+                "C. Polar bears live in the Arctic region, characterized by vast ice fields and faint sunlight, with a serene and tranquil environment.",
+                "D. Polar bears live in mountainous areas, where the terrain is rugged with numerous rocks and strong winds, presenting a challenging and uneven environment."
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_27": {
+            "id": "HmnKbBmYii8_27",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What is the behavior of polar bear cubs in the scene next to adult polar bears?",
+            "options": [
+                "A. The cub snuggles into the adult polar bear's fur for warmth and a sense of security.",
+                "B. The cub playfully frolics around the adult polar bear, showing signs of excitement and curiosity.",
+                "C. The cub stands at a certain distance from the adult polar bear, cautiously observing the surroundings.",
+                "D. The cub climbs onto the adult polar bear's back, trying to playfully wake it up."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_28": {
+            "id": "HmnKbBmYii8_28",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What is the significance of the color of polar bear fur?",
+            "options": [
+                "A. Their creamy white fur provides camouflage and indicates their adaptation to the Arctic environment.",
+                "B. Their creamy white fur is purely for aesthetic purposes and to attract attention.",
+                "C. Their creamy white fur is a seasonal change that only occurs in winter.",
+                "D. Their creamy white fur indicates their age and level of maturity."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_29": {
+            "id": "HmnKbBmYii8_29",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many polar bears are snuggling together in the scene?",
+            "options": [
+                "A. One polar bear.",
+                "B. Two polar bears.",
+                "C. Three polar bears.",
+                "D. Four polar bears."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_30": {
+            "id": "HmnKbBmYii8_30",
+            "scene": 2,
+            "dimension": "Speed",
+            "question": "Are there any signs of fast or sudden movements in the scene?",
+            "options": [
+                "A. Yes, there are several signs of fast and sudden movements in the scene.",
+                "B. No, the scene appears calm, with no signs of fast or sudden movements.",
+                "C. The scene alternates between calm and sudden movements.",
+                "D. The polar bear displays playful and fast movements on the ice."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_31": {
+            "id": "HmnKbBmYii8_31",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What actions do polar bear cubs take to approach adult bears?",
+            "options": [
+                "A. The cub starts to snuggle up, then lies down close to the adult polar bear.",
+                "B. The cub stands on its hind legs to better observe the surroundings.",
+                "C. The cub frolics and runs around the adult bear.",
+                "D. The cub swims across an ice pool to get closer to the adult bear."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_32": {
+            "id": "HmnKbBmYii8_32",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "In this scene, does the adult polar bear's movement change?",
+            "options": [
+                "A. No, the adult polar bear's movement does not change.",
+                "B. Yes, the adult polar bear rolls to the side.",
+                "C. Yes, the adult polar bear uses its paws to lift its body.",
+                "D. Yes, the adult polar bear gets up and walks forward."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_33": {
+            "id": "HmnKbBmYii8_33",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "Which side of the big polar bear was captured in this scene?",
+            "options": [
+                "A. The side of the polar bear was captured.",
+                "B. The front of the polar bear was captured.",
+                "C. The back of the polar bear was captured.",
+                "D. The chest of the polar bear was captured."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_34": {
+            "id": "HmnKbBmYii8_34",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What does the side angle shot emphasize?",
+            "options": [
+                "A. It emphasizes the details of the bear's fur and the tranquil Arctic atmosphere.",
+                "B. It emphasizes the speed and agility of the polar bear.",
+                "C. It focuses on the Arctic landscape and the activities of other animals.",
+                "D. It emphasizes the color contrast between the ice and the bear."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_35": {
+            "id": "HmnKbBmYii8_35",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What visual cues help emphasize the continuous narrative in the scene?",
+            "options": [
+                "A. The playful actions of the cubs and their dynamic interactions with the adult bears.",
+                "B. The continuous camera angles and the expansive background of the seamless ice field.",
+                "C. The bright reflection of the aurora on the ice surface.",
+                "D. The sudden changes in weather and lighting throughout the scene."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_36": {
+            "id": "HmnKbBmYii8_36",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the background setting of the video?",
+            "options": [
+                "A. The background setting of the video is in the Arctic.",
+                "B. The background setting of the video is in a dense forest.",
+                "C. The background setting of the video is on a tropical beach.",
+                "D. The background setting of the video is in the desert."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_37": {
+            "id": "HmnKbBmYii8_37",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "How does the lone polar bear cub in the video interact with its environment?",
+            "options": [
+                "A. The polar bear cub runs on the snow, chasing another animal.",
+                "B. The polar bear cub sits upright or lies down, holding a small white object with its front paws.",
+                "C. The polar bear cub lies on the cold ground, calmly napping.",
+                "D. The polar bear cub digs in the snow, carving out a small hole."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_38": {
+            "id": "HmnKbBmYii8_38",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many polar bears can be seen after the camera angle shifts for the first time?",
+            "options": [
+                "A. Two polar bears can be seen, one adult and one cub.",
+                "B. Only one polar bear can be seen, which is the cub.",
+                "C. No polar bears can be seen.",
+                "D. Three polar bears can be seen."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_39": {
+            "id": "HmnKbBmYii8_39",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What did the cub do to the white object?",
+            "options": [
+                "A. The cub is chewing the white object.",
+                "B. The cub is holding the white object between its front paws with its mouth.",
+                "C. The cub threw away the white object.",
+                "D. The cub left the white object on the ground."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_40": {
+            "id": "HmnKbBmYii8_40",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "What changes are observed in the position of the adult polar bear after the first perspective shift?",
+            "options": [
+                "A. After the shift, the adult polar bear is no longer visible in the scene.",
+                "B. After the shift, the adult polar bear moves closer to the cub.",
+                "C. After the shift, the adult polar bear can be seen standing and observing the cub from a distance.",
+                "D. After the shift, the adult polar bear can be seen moving away from the cub towards the horizon."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_41": {
+            "id": "HmnKbBmYii8_41",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What does the appearance of the bear cub's fur look like?",
+            "options": [
+                "A. The bear cub's milky white fur looks off-white.",
+                "B. The bear cub's fur remains pristine white throughout the scene.",
+                "C. The bear cub's fur turns gray due to melting ice.",
+                "D. The bear cub's fur looks completely dirty and brown."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_42": {
+            "id": "HmnKbBmYii8_42",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "What is the position of the polar bear cub alone in the video?",
+            "options": [
+                "A. The cub almost fills the entire frame.",
+                "B. The cub is in the center of the frame.",
+                "C. The cub is on the far right of the frame.",
+                "D. The cub is on the far left of the frame."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_43": {
+            "id": "HmnKbBmYii8_43",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the scene where the polar bear cub is alone?",
+            "options": [
+                "A. The scene is a tranquil Arctic landscape, with a background of snowfields and snowdrifts.",
+                "B. The scene is a busy forest, lush with green leaves.",
+                "C. The scene is a tropical beach, sunny with waves crashing.",
+                "D. The scene is a dry desert, with towering sand dunes and scattered cacti."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_44": {
+            "id": "HmnKbBmYii8_44",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene where the polar bear cub is alone?",
+            "options": [
+                "A. Dense forest, filled with tall trees and green vegetation.",
+                "B. A beach with waves crashing against the shore.",
+                "C. The scene is a snow-covered terrain, mainly composed of white and light blue.",
+                "D. Rocky mountains, with steep cliffs and sparse vegetation."
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_45": {
+            "id": "HmnKbBmYii8_45",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Does the lone polar bear cub in the video show signs of aggression?",
+            "options": [
+                "A. Yes, the polar bear cubs show aggression towards each other.",
+                "B. No, the polar bear cubs do not show any signs of aggression.",
+                "C. Yes, the polar bear cubs show aggression towards their parents.",
+                "D. No, the polar bear cubs completely ignore each other."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_46": {
+            "id": "HmnKbBmYii8_46",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What subtle movement did the lone polar bear cub make?",
+            "options": [
+                "A. The main polar bear cub changed its position to lie more comfortably.",
+                "B. The main polar bear cub stood on its hind legs to better observe the surroundings.",
+                "C. The main polar bear cub completely rolled over to play in the snow.",
+                "D. The main polar bear cub energetically ran around, chasing another cub."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_47": {
+            "id": "HmnKbBmYii8_47",
+            "scene": 2,
+            "dimension": "Speed",
+            "question": "How does the speed of the little bear's movements change throughout the video?",
+            "options": [
+                "A. The little bear starts off moving quickly and excitedly, speeds up after a while, and finally sprints.",
+                "B. The little bear starts off active and excited, gradually slows down after a while, and finally sits up.",
+                "C. The little bear remains motionless throughout the entire video.",
+                "D. The little bear starts off moving slowly, gradually speeds up, and finally jumps up full of energy."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_48": {
+            "id": "HmnKbBmYii8_48",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the larger aquatic creature and the smaller seal in the transition at the end of the video?",
+            "options": [
+                "A. The larger aquatic creature swims above towards the light source, occupying the main position in the frame, while the smaller seal blends into the environment.",
+                "B. The larger aquatic creature is swimming downwards, following the smaller seal, highlighting their playful interaction.",
+                "C. The larger aquatic creature hovers next to the smaller seal, showing companionship and harmony.",
+                "D. The larger aquatic creature is completely below the smaller seal, giving the smaller seal a sense of hierarchy and dominance."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_49": {
+            "id": "HmnKbBmYii8_49",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "Where does the main scene of the video take place?",
+            "options": [
+                "A. In a dense forest",
+                "B. At a snowy mountain peak",
+                "C. In an underwater environment",
+                "D. In a desert oasis"
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_50": {
+            "id": "HmnKbBmYii8_50",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Are there any human elements in the scene?",
+            "options": [
+                "A. Yes, the underwater environment contains human elements.",
+                "B. No, there are no human elements in the underwater environment.",
+                "C. Yes, man-made objects can be seen in the scene.",
+                "D. No, but there are divers present."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_51": {
+            "id": "HmnKbBmYii8_51",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Is there any human interaction in the scene?",
+            "options": [
+                "A. Yes, a diver is exploring the underwater world.",
+                "B. No, the underwater environment emphasizes exploration and pristine nature.",
+                "C. Yes, a research submarine appears in the scene.",
+                "D. Yes, tourists are swimming with seals."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_52": {
+            "id": "HmnKbBmYii8_52",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What creatures are primarily observed in the underwater scene?",
+            "options": [
+                "A. A polar bear cub and a fish",
+                "B. Two creatures with outlines similar to fish, possibly seals",
+                "C. A group of colorful fish and a dolphin",
+                "D. A polar bear cub and a jellyfish"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_53": {
+            "id": "HmnKbBmYii8_53",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many distinct aquatic organisms with obvious features are described in the video?",
+            "options": [
+                "A. One distinct aquatic organism with obvious features",
+                "B. Two distinct aquatic organisms with obvious features",
+                "C. Three distinct aquatic organisms with obvious features",
+                "D. Four distinct aquatic organisms with obvious features"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_54": {
+            "id": "HmnKbBmYii8_54",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "Does the video description mention multiple polar bear cubs?",
+            "options": [
+                "A. Yes, the video description mentions multiple polar bear cubs.",
+                "B. No, the video description mentions a single polar bear cub.",
+                "C. The video description does not mention any polar bear cubs.",
+                "D. The video description does not specify the number of polar bear cubs."
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_55": {
+            "id": "HmnKbBmYii8_55",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "How do large aquatic creatures move?",
+            "options": [
+                "A. The creature moves towards the light source above.",
+                "B. The creature remains stationary.",
+                "C. The creature moves irregularly in all directions.",
+                "D. The creature performs a series of rapid spins and flips."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_56": {
+            "id": "HmnKbBmYii8_56",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "From the video, in which direction does the small creature move when it appears?",
+            "options": [
+                "A. Moves towards the bottom left of the screen.",
+                "B. Moves towards the bottom left of the screen.",
+                "C. Moves towards the top right of the screen.",
+                "D. Moves towards the top left of the screen."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_57": {
+            "id": "HmnKbBmYii8_57",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "How are the movements of the creature depicted in the video?",
+            "options": [
+                "A. The creature's movements are depicted as graceful, streamlined, and smooth in the water.",
+                "B. The creature's movements are depicted as unstable and clumsy, struggling against the current.",
+                "C. The creature's movements are depicted as stationary, with no apparent motion.",
+                "D. The creature's movements are depicted as aggressive and fast, chasing prey."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_58": {
+            "id": "HmnKbBmYii8_58",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the dynamics of light when the large organism moved towards the light source above?",
+            "options": [
+                "A. The light became brighter, illuminating the entire scene.",
+                "B. The dynamics of the light changed, casting noticeable shadows.",
+                "C. The dynamics of the light remained unchanged.",
+                "D. The light dimmed, affecting visibility."
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_59": {
+            "id": "HmnKbBmYii8_59",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What visual elements help depict the environment of an underwater scene?",
+            "options": [
+                "A. Soft beams of light filtering down from above help depict the environment of an underwater scene.",
+                "B. Strong beams of light coming from below enhance the environment of an underwater scene.",
+                "C. Bright neon lights scattered in the water highlight the environment of an underwater scene.",
+                "D. The presence of vibrant coral reefs showcases the environment of an underwater scene."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_60": {
+            "id": "HmnKbBmYii8_60",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements convey the events of an underwater scene?",
+            "options": [
+                "A. Faint specks may represent fish or floating objects, helping to convey the events of an underwater scene.",
+                "B. Bright red coral reefs prominently compose the picture.",
+                "C. The underwater scene is conveyed through schools of colorful clownfish.",
+                "D. The underwater scene mainly relies on the light and shadow patterns formed by bubbles on the water surface."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_61": {
+            "id": "HmnKbBmYii8_61",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What is the relationship between the dark, partially buried object and the polar bear cub?",
+            "options": [
+                "A. The dark, partially buried object is gradually being exposed, and the polar bear is inspecting the ground beneath it.",
+                "B. The dark, partially buried object is a food source, and the young polar bear is trying to dig it out.",
+                "C. The dark, partially buried object is a toy for the young polar bear.",
+                "D. The dark, partially buried object is a trap set by hunters, and the polar bear is wary of it."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_62": {
+            "id": "HmnKbBmYii8_62",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the main scene described in the video?",
+            "options": [
+                "A. The dark and enclosed depths of the underwater world",
+                "B. The open and bright Arctic wilderness",
+                "C. A snow-covered mountain range",
+                "D. A dense Arctic forest"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_63": {
+            "id": "HmnKbBmYii8_63",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "How does the posture of the polar bear cub change in the video?",
+            "options": [
+                "A. The polar bear cub changes from lying on the ground to rolling in the snow.",
+                "B. The polar bear cub changes from bending to inspect the ground to sitting upright and leaning back on the ground.",
+                "C. The polar bear cub changes from standing still to chasing seals on the snowy ground.",
+                "D. The polar bear cub changes from playing with seal cubs to resting on the snowy ground."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_64": {
+            "id": "HmnKbBmYii8_64",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What is that dark, partially buried object in the snow?",
+            "options": [
+                "A. It's a seal's head.",
+                "B. It's ocean debris.",
+                "C. It's a black cow's nose.",
+                "D. It's a black backpack."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_65": {
+            "id": "HmnKbBmYii8_65",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "From the perspective of the polar bear cub, where is that dark, partially buried object located?",
+            "options": [
+                "A. The object is to the right of the polar bear.",
+                "B. The object is to the left of the polar bear.",
+                "C. The object is directly in front of the polar bear.",
+                "D. The object is in the water below the polar bear."
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_66": {
+            "id": "HmnKbBmYii8_66",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many seals are mentioned in this scene?",
+            "options": [
+                "A. One seal",
+                "B. Two seals",
+                "C. Three seals",
+                "D. Four seals"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_67": {
+            "id": "HmnKbBmYii8_67",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What is the seal behavior mentioned in the video?",
+            "options": [
+                "A. A young seal slightly raises its head above the water surface, observing the polar bear cub opposite.",
+                "B. Two seals playfully roll together on the snow, engaging in a chasing game.",
+                "C. A dark seal jumps into the water, while the young seal digs in the snow.",
+                "D. A young seal stands upright with its paws raised, while the dark seal watches from a distance."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_68": {
+            "id": "HmnKbBmYii8_68",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "During the interaction between polar bears and seals, does the environment remain calm?",
+            "options": [
+                "A. Yes, the environment remains calm.",
+                "B. No, the environment becomes chaotic.",
+                "C. The environment fluctuates between calm and chaotic.",
+                "D. The environment becomes harsh and stormy."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_69": {
+            "id": "HmnKbBmYii8_69",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "In the interaction between polar bears and seals, does the environment remain consistent throughout?",
+            "options": [
+                "A. Yes, the environment remains consistent, with the bright snowy landscape and gentle blue sky serving as the backdrop for the interaction.",
+                "B. No, the environment changes from a snow-covered wilderness to a dense forest during the interaction.",
+                "C. Yes, but during the interaction, the environment becomes stormy with heavy snowfall.",
+                "D. No, the environment shifts from a snow-covered plain to a rocky coastline."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_70": {
+            "id": "HmnKbBmYii8_70",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What kind of camera position was used in this scene to enhance the intimacy of the scene?",
+            "options": [
+                "A. Aerial camera position enhanced the intimacy of the scene.",
+                "B. Mid-height camera position enhanced the intimacy of the scene.",
+                "C. Ground camera position enhanced the intimacy of the scene.",
+                "D. Underwater camera position enhanced the intimacy of the scene."
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_71": {
+            "id": "HmnKbBmYii8_71",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "How does the low-angle camera perspective affect the portrayal of the narrative of the encounter between seals and polar bears?",
+            "options": [
+                "A. It reinforces the understated narrative of this playful encounter.",
+                "B. It highlights the dominance of polar bears over seals.",
+                "C. It weakens the emotional connection between the audience and the animals.",
+                "D. It blurs the details of the Arctic environment."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_72": {
+            "id": "HmnKbBmYii8_72",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "How do baby seals move?",
+            "options": [
+                "A. Baby seals move dynamically by rolling on the snow.",
+                "B. The baby seal's head emerges from the water, remaining stationary.",
+                "C. Baby seals crawl slowly on the snow.",
+                "D. The baby seal remains still, watching the polar bear cubs."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_73": {
+            "id": "HmnKbBmYii8_73",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is the seal doing?",
+            "options": [
+                "A. The seal remains still and watches alertly.",
+                "B. The seal dives back into the water.",
+                "C. The seal joins the young seals in playing and rolling in the snow.",
+                "D. The seal moves to a new hole in the snow."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_74": {
+            "id": "HmnKbBmYii8_74",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "In the close-up shot, what is the spatial relationship between the seal and the ice surface?",
+            "options": [
+                "A. The seal's body is completely exposed on the ice surface.",
+                "B. The seal's head emerges from the ice surface.",
+                "C. The seal is completely residing under the ice surface.",
+                "D. The seal is lying flat on the ice surface."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_75": {
+            "id": "HmnKbBmYii8_75",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the seal in the close-up shot within the scene?",
+            "options": [
+                "A. The scene is a bustling marine habitat with waves and marine life in the background.",
+                "B. The scene is a pure white ice surface or snowy ground with no other elements.",
+                "C. The scene is a vibrant tropical beach with palm trees and warm sunlight.",
+                "D. The scene is a dense snowy forest with tall trees and falling snow."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_76": {
+            "id": "HmnKbBmYii8_76",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "How do the seal's eyes appear in the close-up shot?",
+            "options": [
+                "A. The seal has shiny, expressive eyes, gazing curiously upwards.",
+                "B. The seal has dull, lifeless eyes, staring straight ahead.",
+                "C. The seal has bright, glowing eyes, reflecting the sheen of the ice surface.",
+                "D. The seal has half-closed eyes, looking down with disinterest."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_77": {
+            "id": "HmnKbBmYii8_77",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "How does the seal's fur look in the close-up shot?",
+            "options": [
+                "A. The seal has dark fur that reflects subtle light.",
+                "B. The seal has light-colored fur that blends with the icy background.",
+                "C. The seal has spotted fur with white patches.",
+                "D. The seal has matte fur that stands out on the ice surface."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_78": {
+            "id": "HmnKbBmYii8_78",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What do a seal's whiskers look like in a close-up shot?",
+            "options": [
+                "A. A seal's whiskers are almost invisible.",
+                "B. A seal's whiskers are very clear.",
+                "C. A seal's whiskers blend in with its fur.",
+                "D. Seals do not have whiskers."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_79": {
+            "id": "HmnKbBmYii8_79",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What does a seal's nose and mouth look like in a close-up shot?",
+            "options": [
+                "A. A seal's nose and mouth are smooth and moist.",
+                "B. A seal's nose and mouth look dry and rough.",
+                "C. A seal's nose and mouth are covered with snow.",
+                "D. A seal's nose and mouth are rough and cracked."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_80": {
+            "id": "HmnKbBmYii8_80",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What does the outline of the seal look like in a close-up shot?",
+            "options": [
+                "A. The outline of the seal is rounded and prominent, appearing out of place in the white environment.",
+                "B. The outline of the seal is sharp and jagged, highlighting the harsh environment.",
+                "C. The outline of the seal looks completely flat and featureless in a close-up shot.",
+                "D. The outline of the seal shines brightly, creating a harsh and dramatic effect."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_81": {
+            "id": "HmnKbBmYii8_81",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What textures are present on the ice surface in the scene?",
+            "options": [
+                "A. The ice surface has different textures, including sharp edges and smoother parts.",
+                "B. The ice surface is completely smooth and featureless.",
+                "C. The ice surface has a rough texture with many jagged cracks.",
+                "D. The ice surface is uniformly flat with sparkling crystals."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_82": {
+            "id": "HmnKbBmYii8_82",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "Does the close-up shot include the little seal?",
+            "options": [
+                "A. Yes, the little seal is clearly captured in the close-up shot.",
+                "B. No, the little seal has been removed from the close-up shot.",
+                "C. Yes, the little seal can be seen in the background of the close-up shot.",
+                "D. No, the close-up shot focuses only on the scene of two seals together."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_83": {
+            "id": "HmnKbBmYii8_83",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "In the close-up shot, what is the seal doing?",
+            "options": [
+                "A. The seal is gazing slightly upwards, appearing curious or quietly observing.",
+                "B. The seal is diving into the icy water.",
+                "C. The seal is playing with a baby seal.",
+                "D. The seal is sleeping on the ice."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_84": {
+            "id": "HmnKbBmYii8_84",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "Which type of camera lens can be used to capture detailed images of seals?",
+            "options": [
+                "A. Aerial lens, presenting the seals in the landscape completely.",
+                "B. Panorama lens, capturing seals in the snowy scene.",
+                "C. Close-up lens, focusing on the seal's head.",
+                "D. Wide-angle lens, including the surrounding environment."
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_85": {
+            "id": "HmnKbBmYii8_85",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "When the camera zooms in on the seal, what happens to the visual focus?",
+            "options": [
+                "A. The focus shifts from the broader snowy landscape to the seal's portrait, enhancing details of the seal's face and the surrounding ice and snow textures.",
+                "B. The camera captures the seal and its surroundings with equal detail, maintaining attention on the broader Arctic environment.",
+                "C. The zooming effect reduces attention on the seal and instead emphasizes the ice surface and its textures.",
+                "D. The close-up highlights the baby seal while blurring the dark seals in the background."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_86": {
+            "id": "HmnKbBmYii8_86",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements emphasize the seal as the focal point of the scene?",
+            "options": [
+                "A. The strong contrast between the seal's dark skin and the pure white tones highlights the seal as the focal point.",
+                "B. The presence of multiple seals in the scene, vibrant colors, and a busy background highlight the seal as the focal point.",
+                "C. Bright lighting, a colorful surrounding environment, and the presence of other animals make the seal the focal point.",
+                "D. The intricate textures on the ice surface, the presence of text and signs, and the addition of a young seal emphasize the seal as the focal point."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_87": {
+            "id": "HmnKbBmYii8_87",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What kind of atmosphere does a deep red curtain background create?",
+            "options": [
+                "A. A deep red curtain background creates an elegant, dramatic atmosphere.",
+                "B. A deep red curtain background creates a casual, relaxed atmosphere.",
+                "C. A deep red curtain background creates a chaotic, busy atmosphere.",
+                "D. A deep red curtain background creates a melancholic, somber atmosphere."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_88": {
+            "id": "HmnKbBmYii8_88",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Are there real human characters in this scene?",
+            "options": [
+                "A. Yes, the video features real human characters.",
+                "B. No, there are no real human characters in the video scene.",
+                "C. The video only shows outlines of humans.",
+                "D. Real human characters briefly appear at the beginning of the video."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_89": {
+            "id": "HmnKbBmYii8_89",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What is the design of the text 'BBC' in the last frame?",
+            "options": [
+                "A. 'BBC' appears in a white box, with the letters having no color.",
+                "B. 'BBC' appears in a white box in black uppercase letters.",
+                "C. 'BBC' appears in a black box in white lowercase letters.",
+                "D. 'BBC' appears in a white box in black lowercase letters."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_90": {
+            "id": "HmnKbBmYii8_90",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What is the design of the text 'one' in the last frame?",
+            "options": [
+                "A. 'one' appears in lowercase white letters.",
+                "B. 'one' appears in uppercase white letters.",
+                "C. 'one' appears in lowercase black letters.",
+                "D. 'one' appears in uppercase black letters."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_91": {
+            "id": "HmnKbBmYii8_91",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What kind of unique scene is described in the video?",
+            "options": [
+                "A. A scene with a deep red curtain background.",
+                "B. A scene with a blue ocean background.",
+                "C. A scene with a green forest background.",
+                "D. A scene with a purple sunset background."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_92": {
+            "id": "HmnKbBmYii8_92",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Is there a 'V' symbol in the last frame of the video?",
+            "options": [
+                "A. Yes, the 'V' symbol is present.",
+                "B. No, the 'V' symbol is not present.",
+                "C. The 'V' symbol is partially visible.",
+                "D. The 'V' symbol has been replaced with another mark."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_93": {
+            "id": "HmnKbBmYii8_93",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred over time to the decorative patterns surrounding the spiral design?",
+            "options": [
+                "A. The decorative patterns were removed, highlighting the text 'BBC one'.",
+                "B. The decorative patterns became more intricate and colorful.",
+                "C. The decorative patterns turned gold and were enlarged.",
+                "D. The decorative patterns remained unchanged, with no alterations."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_94": {
+            "id": "HmnKbBmYii8_94",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens was used to ensure the clarity of the 'BBC one' text against the background?",
+            "options": [
+                "A. A wide-angle lens was used to ensure the clarity and readability of the 'BBC one' text against the background.",
+                "B. A close-up lens was used to ensure the clarity and readability of the 'BBC one' text against the background.",
+                "C. A direct angle was used to ensure the clarity and readability of the 'BBC one' text against the background.",
+                "D. An overhead lens was used to ensure the clarity and readability of the 'BBC one' text against the background."
+            ],
+            "answer": "C"
+        },
+        "HmnKbBmYii8_95": {
+            "id": "HmnKbBmYii8_95",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "How is the text 'BBC one' presented in the initial screen?",
+            "options": [
+                "A. In the initial screen, the text 'BBC one' is integrated with glowing decorations.",
+                "B. In the initial screen, the text 'BBC one' is surrounded by a blue halo.",
+                "C. In the initial screen, the text 'BBC one' appears in bright green font.",
+                "D. In the initial screen, the text 'BBC one' is displayed without any decorations."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_96": {
+            "id": "HmnKbBmYii8_96",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "How is the 'BBC one' text displayed in the final image?",
+            "options": [
+                "A. 'BBC' is located inside a black square, 'one' is shown as white uppercase letters, and the decorative pattern is still present.",
+                "B. 'BBC' is located inside a white square, 'one' is shown as white lowercase letters, and the decorative pattern has been removed.",
+                "C. 'BBC' is located inside a white square, 'one' is shown as black lowercase letters, and the decorative pattern has been removed.",
+                "D. 'BBC' is not included in any square, 'one' is shown as white lowercase letters, and the decorative pattern is still present."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_97": {
+            "id": "HmnKbBmYii8_97",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What is the relationship between the blood-red curtain and the 'BBC One' text?",
+            "options": [
+                "A. The blood-red curtain is the background, prominently placing the 'BBC One' text at the center.",
+                "B. The 'BBC One' text is written in a corner of the curtain, blending with the curtain's texture.",
+                "C. The blood-red curtain acts as a partition, separating the 'BBC One' text from the surrounding lights.",
+                "D. The 'BBC One' text is projected onto the curtain, moving across its surface."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_98": {
+            "id": "HmnKbBmYii8_98",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of this scene?",
+            "options": [
+                "A. The scene presents a deep red curtain with rich texture and the prominent 'BBC one' text, creating an elegant and sophisticated atmosphere.",
+                "B. The scene is a bustling city street with bright neon lights and busy traffic, creating a chaotic and vibrant atmosphere.",
+                "C. The scene is a tranquil beach with gentle waves and a clear blue sky, creating a calm and leisurely atmosphere.",
+                "D. The scene is a dark forest accompanied by eerie sounds and shadows, creating a mysterious and tense atmosphere."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_99": {
+            "id": "HmnKbBmYii8_99",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What type of lighting illuminated the deep red curtain?",
+            "options": [
+                "A. Intense high beams",
+                "B. Soft spotlights",
+                "C. Fluorescent light strips",
+                "D. Strobe lights"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_100": {
+            "id": "HmnKbBmYii8_100",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What effect does lighting have on the appearance of the deep red curtain?",
+            "options": [
+                "A. The lighting makes the texture of the curtain more prominent.",
+                "B. The lighting makes the curtain appear dull.",
+                "C. The lighting makes the curtain look transparent.",
+                "D. The lighting gives the curtain a metallic sheen."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_101": {
+            "id": "HmnKbBmYii8_101",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What is the significant visual transition in the video?",
+            "options": [
+                "A. The transition is from a vibrant red curtain scene to a completely black screen.",
+                "B. The transition is from a completely black screen to a vibrant red curtain scene.",
+                "C. The transition is from a vibrant red curtain scene to a blue textured background.",
+                "D. The transition is from a blue textured background to a vibrant red curtain scene."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_102": {
+            "id": "HmnKbBmYii8_102",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Does the black screen retain any graphical elements from the previous scene?",
+            "options": [
+                "A. Yes, the black screen retained the 'BBC one' branding.",
+                "B. No, the black screen has no elements.",
+                "C. Yes, the black screen retained ambient light.",
+                "D. Yes, the curtain is still visible on the black screen."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_103": {
+            "id": "HmnKbBmYii8_103",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What kind of visual change in the video creates a sense of closure?",
+            "options": [
+                "A. Transitioning to vibrant colors and bright lights",
+                "B. Transitioning to a completely black screen after vivid imagery",
+                "C. The curtain is illuminated by additional lighting",
+                "D. Adding more decorative elements to the curtain"
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_104": {
+            "id": "HmnKbBmYii8_104",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What text is highlighted before the video transitions to a black screen?",
+            "options": [
+                "A. 'BBC one' text",
+                "B. 'BBC news' text",
+                "C. 'CNN live' text",
+                "D. 'NBC today' text"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_105": {
+            "id": "HmnKbBmYii8_105",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What is the background behind the text 'BBC one'?",
+            "options": [
+                "A. Red curtain",
+                "B. Blue curtain",
+                "C. Green forest",
+                "D. White wall"
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_106": {
+            "id": "HmnKbBmYii8_106",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What action did the adult polar bear take after standing in the icy wilderness?",
+            "options": [
+                "A. The adult polar bear lay down horizontally on the snow.",
+                "B. The adult polar bear started digging in the snow, looking for food.",
+                "C. The adult polar bear stood up on its hind legs to observe the horizon.",
+                "D. The adult polar bear began to quickly traverse the icy wilderness, looking for shelter."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_107": {
+            "id": "HmnKbBmYii8_107",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "After the initial Arctic landscape and polar bears, what kind of environment does it transition to?",
+            "options": [
+                "A. The scene transitions to a deep blue underwater environment.",
+                "B. The scene transitions to a bustling cityscape with towering skyscrapers.",
+                "C. The scene transitions to a lush green forest.",
+                "D. The scene transitions to a bright yellow desert environment."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_108": {
+            "id": "HmnKbBmYii8_108",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after a polar bear cub snuggles up to an adult bear?",
+            "options": [
+                "A. The camera shifts to show a polar bear cub appearing alone in the frame.",
+                "B. The adult polar bear and the cub fall asleep together under the starry sky.",
+                "C. The adult polar bear starts playing with the cub in the snow.",
+                "D. The cub runs off into the distance to join other polar bears."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_109": {
+            "id": "HmnKbBmYii8_109",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the interaction between adult polar bears and their cubs highlight?",
+            "options": [
+                "A. It highlights the familial bonds and warmth between them in the vast and cold Arctic wilderness.",
+                "B. It highlights the adversarial relationship between them in the harsh Arctic environment.",
+                "C. It highlights the struggle for survival and competition for resources.",
+                "D. It highlights their complete independence from each other in the Arctic wilderness."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_110": {
+            "id": "HmnKbBmYii8_110",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "How does the appearance of the black seal enhance the Arctic scene?",
+            "options": [
+                "A. The appearance of the black seal adds an element of mutual observation and curiosity between it and the polar bear cubs.",
+                "B. The appearance of the black seal signifies the beginning of the polar night, enhancing the overall atmosphere of solitude in the Arctic.",
+                "C. The appearance of the black seal highlights the scarcity of food in the Arctic, emphasizing the struggle for survival in harsh conditions.",
+                "D. The appearance of the black seal provides a comedic sense of relief through playful interactions with the polar bear cubs."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_111": {
+            "id": "HmnKbBmYii8_111",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the sequence of the Arctic environment in the video?",
+            "options": [
+                "A. The sequence starts with a tranquil Arctic landscape, then returns to the Arctic scene after the underwater world.",
+                "B. The sequence starts with the underwater world, followed by a tranquil Arctic landscape, and then returns to the underwater world.",
+                "C. The sequence starts with an urban environment, transitions to a tranquil Arctic landscape, and ends with the underwater world.",
+                "D. The sequence starts with a tranquil Arctic landscape, transitions to a bustling urban landscape, and then returns to the Arctic scene."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_112": {
+            "id": "HmnKbBmYii8_112",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the underwater environment sequence in the video?",
+            "options": [
+                "A. After showcasing the Arctic landscape, the sequence transitions to an underwater world filled with marine life.",
+                "B. The sequence starts with a desert landscape, followed by a bustling city.",
+                "C. The sequence transitions from a mountainous landscape to a forest with wildlife.",
+                "D. The sequence begins with a tropical rainforest and then shifts to a beach scene."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_113": {
+            "id": "HmnKbBmYii8_113",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "How does the behavior of polar bear cubs next to an adult polar bear change over time?",
+            "options": [
+                "A. The cub starts by snuggling next to the adult polar bear and eventually lies relaxed on the snow.",
+                "B. The cub moves away from the adult polar bear, plays with smaller cubs, and then explores the boundaries of the area.",
+                "C. The cub stays quietly next to the adult polar bear, looks after smaller cubs, and finally lies down to rest.",
+                "D. The cub moves to the center, plays with an object, and then retreats to a shaded area away from the group."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_114": {
+            "id": "HmnKbBmYii8_114",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What was initially introduced in the sequence of deep red curtains?",
+            "options": [
+                "A. A glowing spiral design with festive patterns.",
+                "B. A tranquil pastoral scene with a flock of sheep grazing.",
+                "C. A vibrant neon cityscape.",
+                "D. A serene beach with waves crashing."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_115": {
+            "id": "HmnKbBmYii8_115",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "After the glowing spiral design of the festival pattern, what does the deep red curtain scene transition to?",
+            "options": [
+                "A. The scene transitions to a completely black screen.",
+                "B. The scene transitions to include the 'BBC one' logo.",
+                "C. The scene transitions to a dramatic landscape display.",
+                "D. The scene transitions to an animated screen with colorful patterns."
+            ],
+            "answer": "B"
+        },
+        "HmnKbBmYii8_116": {
+            "id": "HmnKbBmYii8_116",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "How does the red sequence of the curtain change at the end?",
+            "options": [
+                "A. The sequence switches to a pure black screen.",
+                "B. The sequence transitions to a pure white screen.",
+                "C. The sequence continues, and the curtain is illuminated by bright lights.",
+                "D. The sequence ends with the curtain being replaced by a new background."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_117": {
+            "id": "HmnKbBmYii8_117",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why do adult polar bears exhibit a state of stillness after lying down?",
+            "options": [
+                "A. Polar bears are resting while remaining attentive to their surroundings to ensure safety or gather environmental cues.",
+                "B. Polar bears are preparing for hibernation by staying still to conserve energy.",
+                "C. Polar bears are waiting for their cubs to return from hunting.",
+                "D. Polar bears are trying to blend into the snow to avoid detection by predators."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_118": {
+            "id": "HmnKbBmYii8_118",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why do visual elements focus on seals in close-up shots?",
+            "options": [
+                "A. Close-up shots focus on seals to highlight their unique features and details.",
+                "B. The close-up shots aim to emphasize the luxurious background and the rich texture of the deep red curtains.",
+                "C. Close-up shots are used to prominently display the text 'BBC one' shown on the screen.",
+                "D. The close-up shots are intended to create a sense of conclusion or pause with vivid imagery."
+            ],
+            "answer": "A"
+        },
+        "HmnKbBmYii8_119": {
+            "id": "HmnKbBmYii8_119",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the video transition to a black screen at the end?",
+            "options": [
+                "A. Transitioning to a black screen is a technical error and not intentional.",
+                "B. The black screen introduces an upcoming new scene.",
+                "C. Transitioning to a black screen implies the video is about to end.",
+                "D. The black screen is used to highlight an upcoming announcement."
+            ],
+            "answer": "C"
+        }
+    }
+}

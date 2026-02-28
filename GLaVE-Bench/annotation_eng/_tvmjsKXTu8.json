@@ -1,0 +1,1890 @@
+{
+    "scene_hint": {
+        "0": "Two lines of text appear on the screen.",
+        "1": "A musical instrument appears on the screen.",
+        "2": "There is a line of text in the background.",
+        "3": "Two musical instruments appear on the screen.",
+        "4": "There are hand-drawn guitar strings in the image.",
+        "5": "A stick figure is playing a song.",
+        "6": "A partial image of a guitar.",
+        "7": "A tablet music game.",
+        "8": "The word 'FREE' appears on the screen.",
+        "9": "The phrase 'THANKS for Watching!' appears on the screen.",
+        "10": "Two lines of text appear on the screen.",
+        "11": "Hand-drawn elements are erased."
+    },
+    "qa": {
+        "_tvmjsKXTu8_0": {
+            "id": "_tvmjsKXTu8_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the brown line located?",
+            "options": [
+                "A. Near the bottom edge",
+                "B. Near the center of the image",
+                "C. Near the top left corner",
+                "D. Along the right edge"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_1": {
+            "id": "_tvmjsKXTu8_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What does the background of this scene look like?",
+            "options": [
+                "A. A white panel.",
+                "B. A chaotic environment.",
+                "C. A dimly lit room.",
+                "D. Vibrant and colorful."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_2": {
+            "id": "_tvmjsKXTu8_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What action was performed with the pen using the third color?",
+            "options": [
+                "A. Wrote a new piece of text.",
+                "B. Redrew the existing text.",
+                "C. Drew new musical symbols.",
+                "D. Did not use the third color."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_3": {
+            "id": "_tvmjsKXTu8_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What elements were added around the text?",
+            "options": [
+                "A. A series of musical notes and symbols.",
+                "B. Colorful geometric shapes.",
+                "C. A set of guitar-related photos.",
+                "D. Annotated date and time."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_4": {
+            "id": "_tvmjsKXTu8_4",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many horizontal lines are drawn in the scene?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. None."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_5": {
+            "id": "_tvmjsKXTu8_5",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Are there obvious shadows in the scene?",
+            "options": [
+                "A. There are large shadows",
+                "B. No",
+                "C. There are only faint shadows",
+                "D. There are shadows of various shapes"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_6": {
+            "id": "_tvmjsKXTu8_6",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "In the scene, what did the hand do last?",
+            "options": [
+                "A. It erased the previous content from the whiteboard.",
+                "B. It added new text content.",
+                "C. It drew a new picture on the panel.",
+                "D. It changed the color of the marker being used."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_7": {
+            "id": "_tvmjsKXTu8_7",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of camera shot is used in the scene?",
+            "options": [
+                "A. Static shot.",
+                "B. Dynamic shot.",
+                "C. Bird's-eye view shot.",
+                "D. Hand close-up shot."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_8": {
+            "id": "_tvmjsKXTu8_8",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred to the panel throughout the scene?",
+            "options": [
+                "A. Text and patterns were added to the panel and then erased.",
+                "B. Various stickers and text were applied to the panel.",
+                "C. The panel remained unchanged.",
+                "D. The panel was finally covered with cloth."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_9": {
+            "id": "_tvmjsKXTu8_9",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "When erasing the blackboard, in which direction does the hand move locally?",
+            "options": [
+                "A. When erasing the blackboard, the hand moves left and right.",
+                "B. When erasing the blackboard, the hand moves to the right.",
+                "C. When erasing the blackboard, the hand moves upward.",
+                "D. When erasing the blackboard, the hand moves downward."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_10": {
+            "id": "_tvmjsKXTu8_10",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "How is the overall environment described during the process of erasing the whiteboard?",
+            "options": [
+                "A. Dim lighting and heavy shadows.",
+                "B. Adequate lighting and even illumination.",
+                "C. Flickering lights.",
+                "D. Dark and gloomy."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_11": {
+            "id": "_tvmjsKXTu8_11",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What was the last action the hand did on the whiteboard?",
+            "options": [
+                "A. The hand drew a dinosaur on the whiteboard.",
+                "B. The hand wrote musical notes on the whiteboard.",
+                "C. The hand erased the whiteboard with an eraser.",
+                "D. The hand placed a circular marker on the whiteboard."
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_12": {
+            "id": "_tvmjsKXTu8_12",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What notable items are on the whiteboard?",
+            "options": [
+                "A. A dinosaur and a black and white electric guitar.",
+                "B. A large blue whale and a red electric guitar.",
+                "C. A spaceship and a green guitar.",
+                "D. A butterfly and a yellow saxophone."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_13": {
+            "id": "_tvmjsKXTu8_13",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many colors appeared on the right side of Middle-earth?",
+            "options": [
+                "A. Two colors.",
+                "B. Three colors.",
+                "C. Four colors.",
+                "D. Five colors."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_14": {
+            "id": "_tvmjsKXTu8_14",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is the whiteboard completely clean in the end?",
+            "options": [
+                "A. Yes, the whiteboard is completely clean.",
+                "B. No, there are some inconspicuous marks present.",
+                "C. No, there is one word still present.",
+                "D. No, the whiteboard is still covered with drawings."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_15": {
+            "id": "_tvmjsKXTu8_15",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What changes will occur to the music symbols?",
+            "options": [
+                "A. They become brighter and more vibrant.",
+                "B. They are erased by the eraser and become invisible.",
+                "C. The red symbols become larger.",
+                "D. The red symbols change into a completely different shape."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_16": {
+            "id": "_tvmjsKXTu8_16",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens was used to capture the action on the whiteboard?",
+            "options": [
+                "A. A front-view shot",
+                "B. A side angle",
+                "C. A close-up shot",
+                "D. A low angle shot"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_17": {
+            "id": "_tvmjsKXTu8_17",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What is the surface of the whiteboard like?",
+            "options": [
+                "A. The surface is protruding.",
+                "B. The surface is smooth.",
+                "C. The surface is rough.",
+                "D. The surface is concave."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_18": {
+            "id": "_tvmjsKXTu8_18",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where did faint red marks remain after erasing on the whiteboard?",
+            "options": [
+                "A. Center and lower left of the image",
+                "B. Upper left and center of the image",
+                "C. Bottom and sides of the image",
+                "D. Upper right and lower right of the image"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_19": {
+            "id": "_tvmjsKXTu8_19",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "How does the environment of the scene look after the erasing action?",
+            "options": [
+                "A. The environment becomes dim and full of shadows.",
+                "B. The environment is under bright and even lighting.",
+                "C. The environment becomes chaotic and disordered.",
+                "D. The environment transforms into a dark background."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_20": {
+            "id": "_tvmjsKXTu8_20",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "How does the hand ultimately interact with 'Chordophones'?",
+            "options": [
+                "A. The hand causes parts of 'Chordophones' to appear distorted.",
+                "B. The hand completely erased the word 'Chordophones'.",
+                "C. The hand wrote additional words around 'Chordophones'.",
+                "D. The hand changed the size of 'Chordophones'."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_21": {
+            "id": "_tvmjsKXTu8_21",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "How does the hand emphasize certain parts of the word 'Chordophones'?",
+            "options": [
+                "A. The hand retraced it in yellow.",
+                "B. The hand emphasized it with a red circle.",
+                "C. The hand emphasized it by erasing some letters.",
+                "D. The hand emphasized it with blue highlighting."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_22": {
+            "id": "_tvmjsKXTu8_22",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "After erasing is complete, which word stands out in the scene?",
+            "options": [
+                "A. Chordophones",
+                "B. Melodica",
+                "C. Percussion",
+                "D. No word"
+            ],
+            "answer": "D"
+        },
+        "_tvmjsKXTu8_23": {
+            "id": "_tvmjsKXTu8_23",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "At the beginning of the scene, what color is the word 'Chordophones' written in?",
+            "options": [
+                "A. The word 'Chordophones' is written in purple-blue marker.",
+                "B. The word 'Chordophones' is written in green marker.",
+                "C. The word 'Chordophones' is written in red marker.",
+                "D. The word 'Chordophones' is written in black marker."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_24": {
+            "id": "_tvmjsKXTu8_24",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the word 'Chordophones' approximately located?",
+            "options": [
+                "A. The word 'Chordophones' is located at the top left corner of the whiteboard.",
+                "B. The word 'Chordophones' is located at the bottom right corner of the whiteboard.",
+                "C. The word 'Chordophones' is located in the center of the whiteboard.",
+                "D. The word 'Chordophones' is written on the far right of the whiteboard."
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_25": {
+            "id": "_tvmjsKXTu8_25",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many hands can appear simultaneously in the scene at most?",
+            "options": [
+                "A. One hand",
+                "B. Two hands",
+                "C. Three hands",
+                "D. Four hands"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_26": {
+            "id": "_tvmjsKXTu8_26",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "When introducing the card, is the word 'Chordophones' completely clear and identifiable?",
+            "options": [
+                "A. Yes, the word 'Chordophones' is still completely visible.",
+                "B. No, some letters of 'Chordophones' are blocked.",
+                "C. Yes, but only the first letter is partially blocked.",
+                "D. No, the entire word 'Chordophones' becomes unrecognizable."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_27": {
+            "id": "_tvmjsKXTu8_27",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What action does the index finger painted with pink nail polish perform?",
+            "options": [
+                "A. It moves the lines in the scene.",
+                "B. It erases the word 'Chordophones'.",
+                "C. It writes the word 'Chordophones'.",
+                "D. It underlines the word 'Chordophones'."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_28": {
+            "id": "_tvmjsKXTu8_28",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "When wiping the whiteboard, in which direction does the hand move locally?",
+            "options": [
+                "A. The hand moves back and forth from left to right.",
+                "B. The hand moves from the center to the upper edge.",
+                "C. The hand moves from the left edge to the right edge.",
+                "D. The hand makes a circular motion on the whiteboard."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_29": {
+            "id": "_tvmjsKXTu8_29",
+            "scene": 2,
+            "dimension": "Camera Direction",
+            "question": "How does the camera maintain focus during the addition of paper cards?",
+            "options": [
+                "A. The camera maintains stable and centered focus.",
+                "B. The camera uses quick zoom.",
+                "C. The camera employs a rotating effect.",
+                "D. The camera switches focus between the card and the whiteboard."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_30": {
+            "id": "_tvmjsKXTu8_30",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What does the whiteboard look like after the eraser disappears?",
+            "options": [
+                "A. The whiteboard is completely clean.",
+                "B. The whiteboard looks much cleaner.",
+                "C. The whiteboard is covered with new drawings and text.",
+                "D. The whiteboard remains unchanged."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_31": {
+            "id": "_tvmjsKXTu8_31",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the second instrument in the picture placed?",
+            "options": [
+                "A. Placed to the left of the first instrument.",
+                "B. Placed to the right of the first instrument.",
+                "C. Placed above the first instrument.",
+                "D. Placed below the first instrument."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_32": {
+            "id": "_tvmjsKXTu8_32",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of the scene?",
+            "options": [
+                "A. The scene takes place on a whiteboard.",
+                "B. The scene takes place in a recording studio.",
+                "C. The scene takes place in an art studio.",
+                "D. The scene takes place in an outdoor park."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_33": {
+            "id": "_tvmjsKXTu8_33",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is the hand placed on the panel in the scene?",
+            "options": [
+                "A. Two instrument cards.",
+                "B. A small blackboard eraser.",
+                "C. A mini string instrument.",
+                "D. A blue marker pen."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_34": {
+            "id": "_tvmjsKXTu8_34",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What did the hand erase in the scene?",
+            "options": [
+                "A. The hand erased the word 'Chordophones'.",
+                "B. The hand erased the word 'Tanbur'.",
+                "C. The hand erased the word 'Sitar'.",
+                "D. The hand erased the word 'ASIA'."
+            ],
+            "answer": "D"
+        },
+        "_tvmjsKXTu8_35": {
+            "id": "_tvmjsKXTu8_35",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What words did the hand write on the whiteboard in the scene?",
+            "options": [
+                "A. The hand wrote 'Chordophones' and 'Tanbur' on the whiteboard.",
+                "B. The hand wrote 'Chordophones' and 'Asia' on the whiteboard.",
+                "C. The hand wrote 'Tanbur' and 'Sitar' on the whiteboard.",
+                "D. The hand wrote 'Chordophones' on the whiteboard."
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_36": {
+            "id": "_tvmjsKXTu8_36",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What did the hand draw to frame 'Asia' in the scene?",
+            "options": [
+                "A. The hand drew a wavy line.",
+                "B. The hand drew a straight line.",
+                "C. The hand drew a circle.",
+                "D. The hand drew a triangle."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_37": {
+            "id": "_tvmjsKXTu8_37",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What does the string instrument on the right look like?",
+            "options": [
+                "A. A sitar.",
+                "B. A violin.",
+                "C. A guitar.",
+                "D. A harp."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_38": {
+            "id": "_tvmjsKXTu8_38",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What does the instrument on the left look like?",
+            "options": [
+                "A. It has a light brown neck and a teardrop-shaped body.",
+                "B. It has a dark brown neck and an oval-shaped body.",
+                "C. It has a red neck and a round-shaped body.",
+                "D. It has a blue neck and a yellow body."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_39": {
+            "id": "_tvmjsKXTu8_39",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Is there an annotation in the scene that connects instruments with geography?",
+            "options": [
+                "A. Yes, connecting 'Tanbur' and 'Sitar' with 'Asia'.",
+                "B. No, only instruments are displayed, without any annotations.",
+                "C. Yes, connecting 'Tanbur' and 'Sitar' with 'Africa'.",
+                "D. No, only focused on erasing the whiteboard."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_40": {
+            "id": "_tvmjsKXTu8_40",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "Which direction does the arrow accompanying the word 'Tanbur' on the whiteboard point?",
+            "options": [
+                "A. The arrow points to the lower left.",
+                "B. The arrow points to the upper left.",
+                "C. The arrow points to the upper right.",
+                "D. The arrow points to the lower right."
+            ],
+            "answer": "D"
+        },
+        "_tvmjsKXTu8_41": {
+            "id": "_tvmjsKXTu8_41",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What visual element indicates the geographical origin of the instrument?",
+            "options": [
+                "A. 'EUROPE' (Europe)",
+                "B. 'ASIA' (Asia)",
+                "C. The map on the whiteboard",
+                "D. Arrows pointing to different continents"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_42": {
+            "id": "_tvmjsKXTu8_42",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "How does the hand interact with the strings?",
+            "options": [
+                "A. The hand interacts by staying fixed on the strings.",
+                "B. The hand interacts by moving first and then staying fixed on the strings.",
+                "C. The hand hovers above the strings.",
+                "D. The hand does not interact with the strings."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_43": {
+            "id": "_tvmjsKXTu8_43",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the environment like in the scene?",
+            "options": [
+                "A. On a clean and smooth background.",
+                "B. A cluttered workspace.",
+                "C. A colorful graffiti wall background.",
+                "D. A dark room."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_44": {
+            "id": "_tvmjsKXTu8_44",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "How was the black rectangular object introduced?",
+            "options": [
+                "A. Introduced after the hand moved out of the frame.",
+                "B. Appeared from behind the strings.",
+                "C. The black rectangular object was present from the beginning.",
+                "D. The black rectangular object fell onto the whiteboard."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_45": {
+            "id": "_tvmjsKXTu8_45",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What is this black rectangular object?",
+            "options": [
+                "A. It is a marker.",
+                "B. It is a piece of cardboard.",
+                "C. It is a board eraser.",
+                "D. It is a music score book."
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_46": {
+            "id": "_tvmjsKXTu8_46",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many black lines are on the strings?",
+            "options": [
+                "A. Three parallel lines",
+                "B. Four parallel lines",
+                "C. Five parallel lines",
+                "D. Six parallel lines"
+            ],
+            "answer": "D"
+        },
+        "_tvmjsKXTu8_47": {
+            "id": "_tvmjsKXTu8_47",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the hand perform when interacting with the black rectangular device?",
+            "options": [
+                "A. Use the black rectangular device to erase the whiteboard.",
+                "B. Punch the black rectangular device.",
+                "C. Slide back and forth on the surface of the black rectangular device.",
+                "D. Hover the hand above the black rectangular device."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_48": {
+            "id": "_tvmjsKXTu8_48",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of lens was used for shooting?",
+            "options": [
+                "A. Wide-angle lens",
+                "B. Over-the-shoulder shot",
+                "C. Close-up view",
+                "D. Aerial shot"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_49": {
+            "id": "_tvmjsKXTu8_49",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What does the camera lens mainly focus on in the scene?",
+            "options": [
+                "A. It emphasizes the hands, black device, and strings.",
+                "B. It focuses on the ambient light and overall atmosphere of the scene.",
+                "C. It highlights the artistic elements of the whiteboard.",
+                "D. It only focuses on the dynamic movements of the hands."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_50": {
+            "id": "_tvmjsKXTu8_50",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What does the hand-drawn piano in the scene look like?",
+            "options": [
+                "A. Black long lines with brown edges and scattered oval symbols.",
+                "B. Completely straight black lines with red and blue edges, and a white surface.",
+                "C. Holographic display, vivid neon colors, and digital animation.",
+                "D. Uniform black lines and clear digital printing."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_51": {
+            "id": "_tvmjsKXTu8_51",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the cellist relative to the guitarist in the picture?",
+            "options": [
+                "A. The cellist is located to the upper left of the guitarist.",
+                "B. The cellist is right next to the guitarist.",
+                "C. The cellist is located to the far right of the guitarist.",
+                "D. The cellist is behind the guitarist."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_52": {
+            "id": "_tvmjsKXTu8_52",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the bassist relative to the guitarist in the picture?",
+            "options": [
+                "A. To the left of the guitarist.",
+                "B. To the upper right of the guitarist.",
+                "C. In front of the guitarist.",
+                "D. To the upper left of the guitarist."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_53": {
+            "id": "_tvmjsKXTu8_53",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What environment does this scene depict?",
+            "options": [
+                "A. The scene is on a whiteboard.",
+                "B. The scene is in a concert hall.",
+                "C. The scene is in an art studio.",
+                "D. The scene is at a music festival."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_54": {
+            "id": "_tvmjsKXTu8_54",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "How do the characters in the scene appear in the picture?",
+            "options": [
+                "A. Randomly scattered on a colorful background.",
+                "B. Neatly arranged on a white background.",
+                "C. Standing in front of a blackboard filled with mathematical formulas.",
+                "D. Characters drawn on a huge piece of paper."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_55": {
+            "id": "_tvmjsKXTu8_55",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What does the Stickman guitarist in the center look like?",
+            "options": [
+                "A. The Stickman guitarist in the center has black messy hair.",
+                "B. The Stickman guitarist in the center has long curly hair.",
+                "C. The Stickman guitarist in the center wears a hat.",
+                "D. The Stickman guitarist in the center has short blond hair."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_56": {
+            "id": "_tvmjsKXTu8_56",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is the central stick figure guitar's outfit like?",
+            "options": [
+                "A. Wearing a T-shirt with musical notes and shorts.",
+                "B. Wearing a T-shirt with stars and jeans.",
+                "C. Wearing a striped T-shirt and long pants.",
+                "D. Wearing a T-shirt with hearts and a skirt."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_57": {
+            "id": "_tvmjsKXTu8_57",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is the emotional expression of the central stick figure guitarist?",
+            "options": [
+                "A. Displays a happy mood.",
+                "B. Looks depressed and annoyed.",
+                "C. Displays nervousness and unease.",
+                "D. Displays calmness and indifference."
+            ],
+            "answer": "D"
+        },
+        "_tvmjsKXTu8_58": {
+            "id": "_tvmjsKXTu8_58",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "What is the maximum number of band members present in the scene at the same time?",
+            "options": [
+                "A. There are two band members.",
+                "B. There are three band members.",
+                "C. There are four band members.",
+                "D. There is only one band member."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_59": {
+            "id": "_tvmjsKXTu8_59",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What three instruments are included at the beginning of the scene?",
+            "options": [
+                "A. The instruments include a guitar, a bass, and a drum kit.",
+                "B. The instruments include a piano, a cello, and an electric guitar.",
+                "C. The instruments include an acoustic guitar, a drum set, and an electric guitar.",
+                "D. The instruments include an acoustic guitar, a cello, and a violin."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_60": {
+            "id": "_tvmjsKXTu8_60",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Does the drummer puppet always appear on the screen?",
+            "options": [
+                "A. Yes, the drummer puppet still always appears.",
+                "B. No, the drummer puppet has been replaced.",
+                "C. Yes, the drummer puppet went to play the cello.",
+                "D. No, there is no drummer puppet on the screen."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_61": {
+            "id": "_tvmjsKXTu8_61",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is the human hand holding in the scene?",
+            "options": [
+                "A. The human hand is holding a whiteboard marker.",
+                "B. The human hand is holding a pencil.",
+                "C. The human hand is holding a drumstick.",
+                "D. The human hand is holding a microphone."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_62": {
+            "id": "_tvmjsKXTu8_62",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What is the person doing with the marker?",
+            "options": [
+                "A. The person is drawing different characters.",
+                "B. The person is drawing different musical instruments.",
+                "C. The person is coloring the background.",
+                "D. The person is signing on the whiteboard."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_63": {
+            "id": "_tvmjsKXTu8_63",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the lead singer's microphone in relation to the guitarist in the picture?",
+            "options": [
+                "A. On either side of the guitarist.",
+                "B. Below the guitarist.",
+                "C. Above the guitarist.",
+                "D. Behind the guitarist."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_64": {
+            "id": "_tvmjsKXTu8_64",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of this scene?",
+            "options": [
+                "A. The scene takes place on a whiteboard.",
+                "B. The scene takes place in a concert hall.",
+                "C. The scene takes place in a recording studio.",
+                "D. The scene takes place on stage."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_65": {
+            "id": "_tvmjsKXTu8_65",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "How is the lighting in the scene?",
+            "options": [
+                "A. The lighting is bright and even.",
+                "B. The lighting is dim and has many shadows.",
+                "C. The lighting changes frequently.",
+                "D. The lighting is intense."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_66": {
+            "id": "_tvmjsKXTu8_66",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What does the scene look like?",
+            "options": [
+                "A. It is maximalist.",
+                "B. It is chaotic.",
+                "C. It is minimalist.",
+                "D. It is vintage."
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_67": {
+            "id": "_tvmjsKXTu8_67",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What elements are presented in the scene?",
+            "options": [
+                "A. The scene contains images and text.",
+                "B. The scene showcases a live concert.",
+                "C. The scene mainly features a table.",
+                "D. The scene presents a whiteboard with only text."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_68": {
+            "id": "_tvmjsKXTu8_68",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What was added later below the sound hole of the acoustic guitar?",
+            "options": [
+                "A. Added decorative patterns.",
+                "B. Added the word 'smule'.",
+                "C. Added a drawing of a microphone.",
+                "D. Added the label 'acoustic'."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_69": {
+            "id": "_tvmjsKXTu8_69",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What else does the hand do besides drawing new characters?",
+            "options": [
+                "A. It starts playing an acoustic guitar.",
+                "B. It also erases the characters.",
+                "C. It writes 'smule' under the guitar.",
+                "D. It adjusts the microphone stand."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_70": {
+            "id": "_tvmjsKXTu8_70",
+            "scene": 5,
+            "dimension": "Speed",
+            "question": "What is the speed of hand application and drawing?",
+            "options": [
+                "A. Dynamic and relatively fast.",
+                "B. Slow and deliberate.",
+                "C. Stagnant and unchanging.",
+                "D. Irregular and uncoordinated."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_71": {
+            "id": "_tvmjsKXTu8_71",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What does the new stick figure character for the drummer look like?",
+            "options": [
+                "A. The new stick figure character has short hair.",
+                "B. The new stick figure character has long curly hair.",
+                "C. The new stick figure character is wearing a hat.",
+                "D. The new stick figure character is wearing glasses."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_72": {
+            "id": "_tvmjsKXTu8_72",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "At the beginning of the scene, where is the hand holding the tablet?",
+            "options": [
+                "A. Holding the left side of the black tablet.",
+                "B. Holding the right side of the black tablet.",
+                "C. Holding the top of the black tablet.",
+                "D. Holding the bottom of the black tablet."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_73": {
+            "id": "_tvmjsKXTu8_73",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "How is the environment in the scene?",
+            "options": [
+                "A. The environment is simple.",
+                "B. The environment is chaotic.",
+                "C. The environment is full of futuristic elements.",
+                "D. The environment is full of a rural style."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_74": {
+            "id": "_tvmjsKXTu8_74",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "How is the name of the instrument displayed on the tablet?",
+            "options": [
+                "A. Displayed in larger and bold font.",
+                "B. Written in cursive.",
+                "C. Displayed in small and italicized text.",
+                "D. Presented only as an icon."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_75": {
+            "id": "_tvmjsKXTu8_75",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many different guitar pictures are displayed on the tablet?",
+            "options": [
+                "A. One guitar picture",
+                "B. Two guitar pictures",
+                "C. Three guitar pictures",
+                "D. No guitar pictures"
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_76": {
+            "id": "_tvmjsKXTu8_76",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "In this scene, does the text 'GUITAR!' appear on the screen?",
+            "options": [
+                "A. Yes, the text 'GUITAR!' appears on the screen.",
+                "B. No, the text 'GUITAR!' does not appear.",
+                "C. Yes, but it only appears briefly before disappearing.",
+                "D. No, the text 'GUITAR!' only appears on the whiteboard."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_77": {
+            "id": "_tvmjsKXTu8_77",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What happens to the text 'Guitar!' on the whiteboard?",
+            "options": [
+                "A. Erased with a whiteboard eraser.",
+                "B. Marked with a marker.",
+                "C. Underlined with a blue pen.",
+                "D. Circled with a highlighter."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_78": {
+            "id": "_tvmjsKXTu8_78",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "How is the guitar image repositioned on the tablet?",
+            "options": [
+                "A. The guitar image changes from vertical to horizontal orientation.",
+                "B. The guitar image is repositioned from the left side to the right side of the tablet.",
+                "C. The guitar image is repositioned from the bottom of the screen to the top.",
+                "D. The guitar image is repositioned from horizontal to vertical orientation."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_79": {
+            "id": "_tvmjsKXTu8_79",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What text will appear on the tablet display at the end of the scene?",
+            "options": [
+                "A. The phrase 'High Score' and the number '2275' appear on the right side.",
+                "B. The phrase 'Game Over' and the number '1500' appear on the left side.",
+                "C. The phrase 'New Record' and the number '3000' appear at the top.",
+                "D. The phrase 'Level Up' and the number '1000' appear at the bottom."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_80": {
+            "id": "_tvmjsKXTu8_80",
+            "scene": 7,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the hands and the tablet during tablet gameplay?",
+            "options": [
+                "A. The tablet is surrounded by both hands.",
+                "B. The tablet is held by both hands.",
+                "C. The tablet floats in the air between both hands.",
+                "D. The tablet is placed on and raised above the palm."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_81": {
+            "id": "_tvmjsKXTu8_81",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the background environment of the tablet?",
+            "options": [
+                "A. The tablet is placed on a white background.",
+                "B. The tablet is placed on a dark background.",
+                "C. The tablet is placed on a wooden surface.",
+                "D. The tablet is placed on a colorful patterned background."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_82": {
+            "id": "_tvmjsKXTu8_82",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What is displayed on the tablet screen?",
+            "options": [
+                "A. An animated video can be seen on the tablet screen.",
+                "B. A music performance video is playing on the tablet screen.",
+                "C. The tablet screen shows a game interface.",
+                "D. The tablet screen displays a map of the city."
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_83": {
+            "id": "_tvmjsKXTu8_83",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "What is the skin color of the hand holding the tablet?",
+            "options": [
+                "A. The skin color of the hand is light white.",
+                "B. The skin color of the hand is dark brown.",
+                "C. The skin color of the hand is tan.",
+                "D. The skin color of the hand is shiny black."
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_84": {
+            "id": "_tvmjsKXTu8_84",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What is displayed on the tablet screen when it turns black?",
+            "options": [
+                "A. 'Hold your device like this!'.",
+                "B. 'Play music now!'.",
+                "C. 'Operate with one hand only!'.",
+                "D. The image shows a blank black screen."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_85": {
+            "id": "_tvmjsKXTu8_85",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "Which detail indicates that the way the tablet is held is stable?",
+            "options": [
+                "A. The tablet is placed on a flat surface to maintain stability.",
+                "B. The tablet is held with both hands, providing a stable grip.",
+                "C. Gloves are worn for better grip and control.",
+                "D. The tablet is secured in a stand to prevent movement."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_86": {
+            "id": "_tvmjsKXTu8_86",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Did the tablet move in this scene?",
+            "options": [
+                "A. Yes, the tablet is often moved.",
+                "B. No, the tablet remains stationary.",
+                "C. Yes, the tablet has slight rotation.",
+                "D. No, there is no tablet in the scene."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_87": {
+            "id": "_tvmjsKXTu8_87",
+            "scene": 7,
+            "dimension": "Camera Direction",
+            "question": "Is there any camera movement in the scene?",
+            "options": [
+                "A. Yes, the camera zooms in and out in the scene.",
+                "B. Yes, the camera switches to a side angle.",
+                "C. No, the camera remains generally stable.",
+                "D. Yes, the camera pans to follow the movement of the tablet."
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_88": {
+            "id": "_tvmjsKXTu8_88",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "What camera angle is used in this scene?",
+            "options": [
+                "A. Centered overhead view.",
+                "B. Display side view.",
+                "C. Looking up at the tablet from a low angle.",
+                "D. Capturing diagonal view."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_89": {
+            "id": "_tvmjsKXTu8_89",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "What do the player's hand movements in the game indicate?",
+            "options": [
+                "A. Indicate casual participation in the game.",
+                "B. Indicate active participation in the game.",
+                "C. Indicate that the game difficulty is easy.",
+                "D. Indicate that the game only requires one-handed operation."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_90": {
+            "id": "_tvmjsKXTu8_90",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "Is the background of the game interface a starry night scene?",
+            "options": [
+                "A. Yes, the background of the game interface is a starry night scene.",
+                "B. No, the background of the game interface is pure white.",
+                "C. No, the background of the game interface is a bright sunny day.",
+                "D. No, the background of the game interface is completely black."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_91": {
+            "id": "_tvmjsKXTu8_91",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "What actions does the right hand perform during the game?",
+            "options": [
+                "A. The right hand moves the tablet to change the screen direction.",
+                "B. The right hand interacts with the game by tapping or swiping.",
+                "C. The right hand performs no actions.",
+                "D. The right hand adjusts the brightness of the tablet screen."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_92": {
+            "id": "_tvmjsKXTu8_92",
+            "scene": 7,
+            "dimension": "Object Direction",
+            "question": "How does the circular icon on the game interface move?",
+            "options": [
+                "A. The circular icon moves quickly to the right on the screen.",
+                "B. The circular icon remains stationary throughout the game.",
+                "C. The circular icon moves randomly on the screen.",
+                "D. The circular icon only moves when the game is paused."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_93": {
+            "id": "_tvmjsKXTu8_93",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "How does the score increase during the game?",
+            "options": [
+                "A. The score quickly increases from '0' to '900'.",
+                "B. The score starts from '0' and climbs to '375'.",
+                "C. The score remains at '10' throughout the process.",
+                "D. Due to game errors, the score decreases."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_94": {
+            "id": "_tvmjsKXTu8_94",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "In the early stages of the scenario, how does the user's interaction with the tablet change?",
+            "options": [
+                "A. It changes to interacting with the game interface.",
+                "B. It changes to using a stylus for interaction.",
+                "C. It stops interacting with the tablet.",
+                "D. It switches to another device."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_95": {
+            "id": "_tvmjsKXTu8_95",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "Did the lighting of the surrounding environment change in the scene?",
+            "options": [
+                "A. Yes, the light became noticeably dimmer.",
+                "B. Yes, as the game visuals changed.",
+                "C. No, the light remained consistent.",
+                "D. Yes, the light gradually shifted to a warmer tone over time."
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_96": {
+            "id": "_tvmjsKXTu8_96",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "What does the scene transition to at the end?",
+            "options": [
+                "A. The scene transitions to a game interface.",
+                "B. The scene transitions to a setting with animated characters.",
+                "C. The scene transitions to a minimalist screen.",
+                "D. The scene transitions to an environment full of people."
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_97": {
+            "id": "_tvmjsKXTu8_97",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many thumbs were actively involved in the game interface at the beginning?",
+            "options": [
+                "A. One thumb was actively involved in the game interface.",
+                "B. Two thumbs were actively involved in the game interface.",
+                "C. No thumbs were actively involved in the game interface.",
+                "D. Three thumbs were actively involved in the game interface."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_98": {
+            "id": "_tvmjsKXTu8_98",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "Transitioning to the game settlement screen, does the tablet screen dim?",
+            "options": [
+                "A. Yes, the tablet screen will completely dim.",
+                "B. No, the tablet screen remains bright.",
+                "C. The tablet screen will turn off after the transition.",
+                "D. The tablet screen will dim slightly."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_99": {
+            "id": "_tvmjsKXTu8_99",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many avatar images are there on the first screen of the game settlement?",
+            "options": [
+                "A. One avatar image",
+                "B. Two avatar images",
+                "C. Three avatar images",
+                "D. No avatar image"
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_100": {
+            "id": "_tvmjsKXTu8_100",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What are the names of the mentioned virtual characters?",
+            "options": [
+                "A. 'HunterSparkman' and 'AbbyRose3'",
+                "B. 'JohnDoe' and 'JaneSmith'",
+                "C. 'MusicLover1' and 'StarSinger22'",
+                "D. 'GuitarHero' and 'KaraokeQueen'"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_101": {
+            "id": "_tvmjsKXTu8_101",
+            "scene": 8,
+            "dimension": "Description-Scene",
+            "question": "What is the scene's image?",
+            "options": [
+                "A. A laptop.",
+                "B. A whiteboard.",
+                "C. A projection screen.",
+                "D. A blackboard."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_102": {
+            "id": "_tvmjsKXTu8_102",
+            "scene": 8,
+            "dimension": "Fine Grained Action",
+            "question": "What did the hand do at the beginning of the scene?",
+            "options": [
+                "A. The hand wrote text on the whiteboard.",
+                "B. The hand completely erased the text.",
+                "C. The hand decorated the text.",
+                "D. The hand moved the whiteboard to a new location."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_103": {
+            "id": "_tvmjsKXTu8_103",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What is written in the first message on the whiteboard?",
+            "options": [
+                "A. It says 'THANKS'.",
+                "B. It says 'FREE!'.",
+                "C. It says 'GOODBYE'.",
+                "D. It says 'WELCOME'."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_104": {
+            "id": "_tvmjsKXTu8_104",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "What color is used in the first message on the whiteboard?",
+            "options": [
+                "A. 'THANKS' is outlined in red.",
+                "B. 'THANKS' is outlined in green.",
+                "C. 'THANKS' is outlined in blue.",
+                "D. 'THANKS' is outlined in yellow."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_105": {
+            "id": "_tvmjsKXTu8_105",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many different pieces of information are written on the whiteboard throughout the entire scene?",
+            "options": [
+                "A. There is one piece of information written on the whiteboard.",
+                "B. There are two pieces of information written on the whiteboard.",
+                "C. There are three pieces of information written on the whiteboard.",
+                "D. There are four pieces of information written on the whiteboard."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_106": {
+            "id": "_tvmjsKXTu8_106",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "Does the whiteboard in the scene always remain blank?",
+            "options": [
+                "A. Yes, the whiteboard is always blank.",
+                "B. No, the whiteboard does not remain blank.",
+                "C. No, the whiteboard only turns blank midway.",
+                "D. No, the whiteboard is unused."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_107": {
+            "id": "_tvmjsKXTu8_107",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What outline did the hand add to the word 'FREE'?",
+            "options": [
+                "A. The hand added a dark blue outline to the letters.",
+                "B. The hand added a red outline to the letters.",
+                "C. The hand added a green outline to the letters.",
+                "D. The hand added a black outline to the letters."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_108": {
+            "id": "_tvmjsKXTu8_108",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What pattern did the hand add inside the word 'FREE!'?",
+            "options": [
+                "A. The hand colored the inside with a green zigzag pattern.",
+                "B. The hand colored the inside with blue diagonal lines.",
+                "C. The hand colored the inside with a yellow dotted pattern.",
+                "D. The hand colored the inside with red wavy lines."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_109": {
+            "id": "_tvmjsKXTu8_109",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What additional lines were drawn under the word 'FREE!'?",
+            "options": [
+                "A. One is blue, and the other is green",
+                "B. One is blue, and the other is red",
+                "C. One is yellow, and the other is green",
+                "D. One is yellow, and the other is red"
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_110": {
+            "id": "_tvmjsKXTu8_110",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "Was the previously erased text completely removed?",
+            "options": [
+                "A. There are still faint traces present.",
+                "B. There are no traces of previous writing.",
+                "C. Obvious traces can be seen.",
+                "D. Some text can be seen."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_111": {
+            "id": "_tvmjsKXTu8_111",
+            "scene": 10,
+            "dimension": "Spatial",
+            "question": "Where is the spiral design located on the whiteboard in relation to the word 'smule'?",
+            "options": [
+                "A. Above the letter 'l' in 'smule'.",
+                "B. Directly below the word 'smule'.",
+                "C. To the left of the word 'smule'.",
+                "D. To the right of the word 'smule'."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_112": {
+            "id": "_tvmjsKXTu8_112",
+            "scene": 9,
+            "dimension": "Description-Scene",
+            "question": "What is the main setting of the described scene?",
+            "options": [
+                "A. A whiteboard with a white background.",
+                "B. A classroom with tables and chairs.",
+                "C. A blank sheet of paper on a wooden table.",
+                "D. A digital screen displaying colorful text and animations."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_113": {
+            "id": "_tvmjsKXTu8_113",
+            "scene": 10,
+            "dimension": "Fine Grained Action",
+            "question": "What actions did the hand perform on the whiteboard?",
+            "options": [
+                "A. The hand performed writing, drawing, and erasing content on the whiteboard.",
+                "B. The hand held a marker but remained inactive in the scene.",
+                "C. The hand was only used to erase content on the whiteboard.",
+                "D. The hand was used to clean the whiteboard and stick stickers on it."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_114": {
+            "id": "_tvmjsKXTu8_114",
+            "scene": 9,
+            "dimension": "Description-Object",
+            "question": "What does the pen held in the scene look like?",
+            "options": [
+                "A. White pen barrel.",
+                "B. Red pen barrel.",
+                "C. Colorful pen barrel.",
+                "D. Blue pen barrel."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_115": {
+            "id": "_tvmjsKXTu8_115",
+            "scene": 9,
+            "dimension": "Count",
+            "question": "How many lines of words or information are written on the whiteboard throughout the scene?",
+            "options": [
+                "A. One line is written on the whiteboard.",
+                "B. Two lines are written on the whiteboard.",
+                "C. Three lines are written on the whiteboard.",
+                "D. Four lines are written on the whiteboard."
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_116": {
+            "id": "_tvmjsKXTu8_116",
+            "scene": 9,
+            "dimension": "Visual-cue",
+            "question": "Is the lighting in the scene uneven or too harsh?",
+            "options": [
+                "A. Yes, the lighting in the scene is uneven.",
+                "B. No, the lighting in the scene remains even and bright.",
+                "C. The lighting in the scene is relatively dark.",
+                "D. The lighting in the scene alternates between bright and dark."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_117": {
+            "id": "_tvmjsKXTu8_117",
+            "scene": 9,
+            "dimension": "Camera Shot",
+            "question": "What camera angle is maintained in the scene?",
+            "options": [
+                "A. Maintain a front view.",
+                "B. Maintain a top-down view.",
+                "C. Maintain an oblique view.",
+                "D. Maintain a side view."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_118": {
+            "id": "_tvmjsKXTu8_118",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "How does the hand move when writing on a whiteboard?",
+            "options": [
+                "A. The hand moves at a steady speed.",
+                "B. The hand moves quickly and irregularly.",
+                "C. The hand moves slowly.",
+                "D. The hand moves in a circular motion."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_119": {
+            "id": "_tvmjsKXTu8_119",
+            "scene": 9,
+            "dimension": "Fine Grained Action",
+            "question": "How does the hand move when erasing the contents on the whiteboard?",
+            "options": [
+                "A. The hand moves at a steady speed.",
+                "B. The hand moves quickly and irregularly.",
+                "C. The hand remains still.",
+                "D. The hand moves in a random manner."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_120": {
+            "id": "_tvmjsKXTu8_120",
+            "scene": 9,
+            "dimension": "Attribute Change",
+            "question": "What happens to the text 'THANKS for Watching!' at the end of the scene?",
+            "options": [
+                "A. It is completely erased, leaving a blank whiteboard.",
+                "B. It is underlined with a red marker.",
+                "C. It is highlighted in yellow for emphasis.",
+                "D. It is replaced with small blue cursive writing."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_121": {
+            "id": "_tvmjsKXTu8_121",
+            "scene": 10,
+            "dimension": "Visual-cue",
+            "question": "What visual elements were used on the whiteboard to emphasize 'Subscribe!'?",
+            "options": [
+                "A. Written with a blue bold marker.",
+                "B. Underlined twice with a red marker.",
+                "C. Circled with green to highlight.",
+                "D. There is a yellow star symbol."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_122": {
+            "id": "_tvmjsKXTu8_122",
+            "scene": 11,
+            "dimension": "Object Direction",
+            "question": "From which position in the picture does the hand holding the blackboard eraser appear?",
+            "options": [
+                "A. In the upper left part of the picture.",
+                "B. In the left part of the picture.",
+                "C. In the center of the picture.",
+                "D. In the upper right part of the picture."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_123": {
+            "id": "_tvmjsKXTu8_123",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the scene?",
+            "options": [
+                "A. The scene is chaotic, with a cluttered background.",
+                "B. The scene is simple, with a pure white background.",
+                "C. The scene is outdoors, with green vegetation in the background.",
+                "D. The scene is colorful, with various patterns in the background."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_124": {
+            "id": "_tvmjsKXTu8_124",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "What is the overall lighting of the scene?",
+            "options": [
+                "A. The lighting is uneven.",
+                "B. The lighting is soft and even.",
+                "C. Natural light is used.",
+                "D. The lighting is dim."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_125": {
+            "id": "_tvmjsKXTu8_125",
+            "scene": 11,
+            "dimension": "Count",
+            "question": "How many hands are holding the chalkboard eraser?",
+            "options": [
+                "A. One hand.",
+                "B. Two hands.",
+                "C. No hands.",
+                "D. Three hands."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_126": {
+            "id": "_tvmjsKXTu8_126",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "At the end of the scene, is the 'smule' logo visible?",
+            "options": [
+                "A. Yes, the 'smule' logo is still visible.",
+                "B. No, the 'smule' logo has been erased from the whiteboard.",
+                "C. The 'smule' logo is partially visible.",
+                "D. The 'smule' logo has been replaced by another graphic."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_127": {
+            "id": "_tvmjsKXTu8_127",
+            "scene": 11,
+            "dimension": "Fine Grained Action",
+            "question": "What action is the hand doing with the eraser?",
+            "options": [
+                "A. The hand is naturally holding it.",
+                "B. The hand is tapping the eraser.",
+                "C. The hand is sliding on the eraser.",
+                "D. The hand is placing the eraser on the whiteboard."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_128": {
+            "id": "_tvmjsKXTu8_128",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "What is the position of the hand relative to the blackboard eraser?",
+            "options": [
+                "A. The thumb is at the right edge of the blackboard eraser.",
+                "B. The thumb is at the top edge of the blackboard eraser.",
+                "C. The thumb is at the left edge of the blackboard eraser.",
+                "D. The hand is only holding the corner of the blackboard eraser."
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_129": {
+            "id": "_tvmjsKXTu8_129",
+            "scene": 11,
+            "dimension": "Camera Shot",
+            "question": "What shooting angle is used in this scene?",
+            "options": [
+                "A. Front view.",
+                "B. Low angle view.",
+                "C. High angle view.",
+                "D. Side view."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_130": {
+            "id": "_tvmjsKXTu8_130",
+            "scene": 11,
+            "dimension": "Spatial",
+            "question": "Where is the conspicuous black dot on the whiteboard located?",
+            "options": [
+                "A. Near the bottom left corner.",
+                "B. Near the top right corner.",
+                "C. Near the center of the whiteboard.",
+                "D. Near the bottom right corner."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_131": {
+            "id": "_tvmjsKXTu8_131",
+            "scene": 11,
+            "dimension": "Description-Scene",
+            "question": "After the hand and the blackboard eraser disappear, what is the focus of the scene?",
+            "options": [
+                "A. The scene focuses on the whiteboard.",
+                "B. The scene focuses on the smartphone.",
+                "C. The scene focuses on the unmarked wall.",
+                "D. The scene focuses on the reappearing hand."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_132": {
+            "id": "_tvmjsKXTu8_132",
+            "scene": 11,
+            "dimension": "Description-Object",
+            "question": "What details can be seen on the surface of the whiteboard at the end of the scene?",
+            "options": [
+                "A. There are slight residual marks on the surface of the whiteboard.",
+                "B. The surface of the whiteboard is completely clean.",
+                "C. There are only some rough black marks on the surface of the whiteboard.",
+                "D. The surface of the whiteboard is covered with drawings and handwritten content."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_133": {
+            "id": "_tvmjsKXTu8_133",
+            "scene": 11,
+            "dimension": "Binary",
+            "question": "At the end of the scene, is the whiteboard obscured by any object?",
+            "options": [
+                "A. Yes, the whiteboard is obscured by a smartphone.",
+                "B. Yes, the whiteboard is obscured by a hand.",
+                "C. No, the whiteboard is not obscured by any object.",
+                "D. Yes, the whiteboard is obscured by a marker."
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_134": {
+            "id": "_tvmjsKXTu8_134",
+            "scene": 11,
+            "dimension": "Camera Direction",
+            "question": "Will the camera move when displaying the whiteboard?",
+            "options": [
+                "A. Yes, the camera moves around the whiteboard.",
+                "B. No, the camera remains stationary when displaying the whiteboard.",
+                "C. Yes, the camera zooms in on the whiteboard.",
+                "D. Yes, the camera pans across the whiteboard."
+            ],
+            "answer": "B"
+        },
+        "_tvmjsKXTu8_135": {
+            "id": "_tvmjsKXTu8_135",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after writing 'Chordophones' on the whiteboard?",
+            "options": [
+                "A. Hands pull a few lines to mimic strings.",
+                "B. Hands turn the whiteboard to reveal more notes.",
+                "C. The whiteboard is flipped to show another presentation.",
+                "D. An animation sequence plays on the whiteboard."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_136": {
+            "id": "_tvmjsKXTu8_136",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after displaying the 'smule' logo on the whiteboard?",
+            "options": [
+                "A. Write the word 'Subscribe!'",
+                "B. The whiteboard remains unchanged.",
+                "C. Write the phrase 'Like and Share'",
+                "D. A red line is drawn over the smule logo."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_137": {
+            "id": "_tvmjsKXTu8_137",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How can video incorporate musical elements?",
+            "options": [
+                "A. The video includes drawings of musical instruments.",
+                "B. The video presents musical symbols in an animated form.",
+                "C. The video showcases music celebrities on a whiteboard.",
+                "D. The video plays background music without any drawings."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_138": {
+            "id": "_tvmjsKXTu8_138",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How does the video integrate musical elements through the tablet?",
+            "options": [
+                "A. The video includes an interactive game interface with a musical theme.",
+                "B. The video synchronizes ambient music with scene transitions.",
+                "C. The video showcases choreography that matches the musical rhythm.",
+                "D. The video contrasts silence with sudden musical sound effects."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_139": {
+            "id": "_tvmjsKXTu8_139",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How does the video incorporate music elements through educational content?",
+            "options": [
+                "A. The video includes educational content about the history of music.",
+                "B. The video uses educational content to create rhythm with instruments.",
+                "C. The video showcases a live performance of a musical piece.",
+                "D. The video appreciates online music."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_140": {
+            "id": "_tvmjsKXTu8_140",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "How did the word 'Tanbur' first interact with the whiteboard?",
+            "options": [
+                "A. 'Tanbur' was written on the whiteboard with a marker.",
+                "B. Someone erased 'Tanbur' from the whiteboard.",
+                "C. The word 'Tanbur' automatically appeared on the whiteboard.",
+                "D. 'Tanbur' was projected onto the whiteboard."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_141": {
+            "id": "_tvmjsKXTu8_141",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after introducing 'Tanbur' on the whiteboard?",
+            "options": [
+                "A. Similarly introduced the word 'Sitar'.",
+                "B. The whiteboard is completely erased.",
+                "C. A colorful picture of the instrument is added.",
+                "D. A list of names is written on the whiteboard."
+            ],
+            "answer": "A"
+        },
+        "_tvmjsKXTu8_142": {
+            "id": "_tvmjsKXTu8_142",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens to the whiteboard after displaying the 'THANKS for Watching!' message?",
+            "options": [
+                "A. A new message appears on the whiteboard.",
+                "B. The message remains on the whiteboard.",
+                "C. The message is completely erased.",
+                "D. The whiteboard is covered with doodles."
+            ],
+            "answer": "C"
+        },
+        "_tvmjsKXTu8_143": {
+            "id": "_tvmjsKXTu8_143",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "“THANKS for Watching!” erased, what was written on the board afterward?",
+            "options": [
+                "A. A new word 'smule' was written.",
+                "B. The board was left completely blank.",
+                "C. Random doodles and shapes were drawn with a marker.",
+                "D. 'Meeting at 3 PM' was written with a marker."
+            ],
+            "answer": "A"
+        }
+    }
+}

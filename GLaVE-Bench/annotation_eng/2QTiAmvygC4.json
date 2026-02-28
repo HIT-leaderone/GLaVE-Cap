@@ -1,0 +1,1312 @@
+{
+    "scene_hint": {
+        "0": "Two men are sitting behind the table.",
+        "1": "A woman is singing with her hand resting on the piano.",
+        "2": "The woman moves towards the kitchen and sings in the kitchen.",
+        "3": "The woman walks towards the living room, and a new character appears.",
+        "4": "The woman leaves the room and enters the elevator.",
+        "5": "A promotional image appears on a black background, and the video ends."
+    },
+    "qa": {
+        "2QTiAmvygC4_0": {
+            "id": "2QTiAmvygC4_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where are the two people located?",
+            "options": [
+                "A. The two people are located behind a large and luxurious desk.",
+                "B. The two people are located in front of the beige armchair.",
+                "C. The two people are located near the flat screen monitor.",
+                "D. The two people are located behind the area with curtains."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_1": {
+            "id": "2QTiAmvygC4_1",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the background of this scene?",
+            "options": [
+                "A. The background is a formal and professional indoor environment.",
+                "B. The background is a dimly lit casual talk show.",
+                "C. The scene is set in a bustling restaurant full of customers.",
+                "D. The background is an outdoor park with natural elements."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_2": {
+            "id": "2QTiAmvygC4_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What are the decorative elements in the scene?",
+            "options": [
+                "A. The scene includes a desk, beige walls, a dark brown door, and a light brown sofa.",
+                "B. The scene includes a desk, pure white walls, and modern abstract art.",
+                "C. The scene includes a glass desk, red walls, and hanging lighting fixtures.",
+                "D. The scene includes a wooden table, blue walls with minimalist decor, and a floor lamp."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_3": {
+            "id": "2QTiAmvygC4_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "From the video, what is the person on the right wearing?",
+            "options": [
+                "A. The person on the right is wearing a black suit, white shirt, and red tie.",
+                "B. The person on the right is wearing a blue suit, white shirt, and blue tie.",
+                "C. The person on the right is wearing a red suit, white shirt, and red tie.",
+                "D. The person on the right is wearing a black suit, white shirt, and blue tie."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_4": {
+            "id": "2QTiAmvygC4_4",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "From the video, what is the posture or movement of the person on the left?",
+            "options": [
+                "A. The person on the left has expressive gestures, causing a significant change in posture.",
+                "B. The person on the left initially maintains a calm and composed demeanor, then applauds.",
+                "C. The person on the left frequently adjusts their tie while moving in their seat.",
+                "D. The person on the left leans forward, actively engaging in the conversation."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_5": {
+            "id": "2QTiAmvygC4_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What are the main features of the desk in the scene?",
+            "options": [
+                "A. This desk is small and simple, with ordinary wooden characteristics.",
+                "B. This desk is large and luxurious, exquisitely crafted, with gold decorations and red accents.",
+                "C. This desk is medium-sized and modern in style, equipped with glass panels and metal legs.",
+                "D. This desk is old and rustic, with noticeable wear marks and lacks detailed decorations."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_6": {
+            "id": "2QTiAmvygC4_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many people are shown in the scene?",
+            "options": [
+                "A. One person",
+                "B. Two people",
+                "C. Three people",
+                "D. Four people"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_7": {
+            "id": "2QTiAmvygC4_7",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is the lighting in this scene sufficient to make all details clearly visible?",
+            "options": [
+                "A. Yes, the scene is well-lit, and all details are clearly visible",
+                "B. No, some areas are dimly lit, making it difficult to see all details clearly",
+                "C. Yes, the lighting is bright and clear",
+                "D. No, the scene is too dark to recognize any objects"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_8": {
+            "id": "2QTiAmvygC4_8",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "From the video, what action did the person on the right begin with?",
+            "options": [
+                "A. The person on the right was speaking, accompanied by hand gestures.",
+                "B. The person on the right maintained a composed and calm demeanor.",
+                "C. The person on the right was writing on a fancy table.",
+                "D. The person on the right stood up and walked out of sight."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_9": {
+            "id": "2QTiAmvygC4_9",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "From the video, in which direction is the light on the wall relative to the table?",
+            "options": [
+                "A. The light is located at the left rear of the table.",
+                "B. The light is located at the right rear of the table.",
+                "C. The light is located directly in front of the table.",
+                "D. The light is located directly above the table."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_10": {
+            "id": "2QTiAmvygC4_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of lens was used to shoot in this scene?",
+            "options": [
+                "A. A stable, straight-on, eye-level lens was used to directly capture the subject.",
+                "B. A high-angle lens was used to look down at the subject from above.",
+                "C. A low-angle lens was used to look up at the subject from below.",
+                "D. An overhead lens was used to be directly above the subject."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_11": {
+            "id": "2QTiAmvygC4_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Which visual element indicates the nature of broadcasting?",
+            "options": [
+                "A. The 'ABC' in the bottom right corner indicates the nature of broadcasting.",
+                "B. The floral patterned wallpaper indicates the nature of broadcasting.",
+                "C. The presence of the beige armchair indicates the nature of broadcasting.",
+                "D. The ornate desk indicates the nature of broadcasting."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_12": {
+            "id": "2QTiAmvygC4_12",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the atmosphere of the scene in the video?",
+            "options": [
+                "A. The scene combines the charm of home with the practicality of a studio, creating a refined contrast of professional and elegant decor.",
+                "B. The scene is entirely professional, focusing solely on functionality and minimalist design elements.",
+                "C. The scene is entirely home-style, showcasing a comfortable and casual atmosphere without any professional elements.",
+                "D. The scene is chaotic and disordered, with mismatched furniture and dim lighting."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_13": {
+            "id": "2QTiAmvygC4_13",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "From the video, did the man on the left change his clothes in this scene?",
+            "options": [
+                "A. The man on the left later added a light-colored hat.",
+                "B. The man on the left changed his shirt to a red one.",
+                "C. The man on the left removed his tie.",
+                "D. The man on the left did not change his outfit throughout the scene."
+            ],
+            "answer": "D"
+        },
+        "2QTiAmvygC4_14": {
+            "id": "2QTiAmvygC4_14",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What are the main visual elements of this scene?",
+            "options": [
+                "A. A chandelier providing soft lighting",
+                "B. An ornately decorated red table",
+                "C. A wooden door with frosted glass panels",
+                "D. The 'ABC' logo in the bottom right corner"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_15": {
+            "id": "2QTiAmvygC4_15",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many people are sitting behind the table?",
+            "options": [
+                "A. One person",
+                "B. Two people",
+                "C. Three people",
+                "D. No one"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_16": {
+            "id": "2QTiAmvygC4_16",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is there a chandelier providing lighting?",
+            "options": [
+                "A. Yes, there is a chandelier providing soft light.",
+                "B. No, there is no chandelier.",
+                "C. Yes, but it provides bright and glaring light.",
+                "D. No, the lighting only comes from overhead fixtures."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_17": {
+            "id": "2QTiAmvygC4_17",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What actions do people take to signify a change in their behavior?",
+            "options": [
+                "A. People make a clapping gesture.",
+                "B. People stand up and bow.",
+                "C. People wave to the camera.",
+                "D. People shake hands."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_18": {
+            "id": "2QTiAmvygC4_18",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What perspective does the camera maintain throughout the video?",
+            "options": [
+                "A. The camera maintains a slightly elevated and centered eye-level perspective.",
+                "B. The camera maintains a low-angle perspective, looking up.",
+                "C. The camera maintains a bird's-eye view, looking directly at the scene.",
+                "D. The camera maintains a close-up perspective, focusing on an individual's face."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_19": {
+            "id": "2QTiAmvygC4_19",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "In the video, what color is the hat worn by the man on the left?",
+            "options": [
+                "A. Off-white",
+                "B. Light blue",
+                "C. Light green",
+                "D. Light yellow"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_20": {
+            "id": "2QTiAmvygC4_20",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "What was the initial position of the lady relative to the piano?",
+            "options": [
+                "A. The lady initially sat in front of the piano.",
+                "B. The lady initially leaned on the piano.",
+                "C. The lady initially stood at a distance from the piano.",
+                "D. The lady initially played the piano."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_21": {
+            "id": "2QTiAmvygC4_21",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What are the characteristics of the room's environment?",
+            "options": [
+                "A. The room has decorative paintings on warm yellow walls and green plant trellises climbing on beige walls.",
+                "B. The room features modern furniture, bright white walls, and metallic lighting fixtures, conveying a sense of modernity.",
+                "C. The room contains avant-garde sculptures and a series of abstract paintings on every wall.",
+                "D. The room has a streamlined digital piano, LED light strips, and lacks natural decorative elements such as plants or artworks."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_22": {
+            "id": "2QTiAmvygC4_22",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What gestures did the lady make while interacting with the piano?",
+            "options": [
+                "A. The lady extended her right arm outward and leaned forward towards the piano.",
+                "B. The lady sat next to the piano, collaborating with the man to perform.",
+                "C. The lady sang with full emotion while standing completely still next to the piano.",
+                "D. The lady left the piano, waving her hands and dancing."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_23": {
+            "id": "2QTiAmvygC4_23",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the gesture of the woman in this scene?",
+            "options": [
+                "A. The woman's movement transitions from an elegant pose to a walking gesture.",
+                "B. The woman remains completely still, making no gestures.",
+                "C. The woman moves slowly and cautiously, without making any expressive gestures.",
+                "D. The woman makes minimal hand movements while sitting."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_24": {
+            "id": "2QTiAmvygC4_24",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What type of piano appears in the scene?",
+            "options": [
+                "A. The piano is a stylish black upright piano.",
+                "B. The piano is a shiny grand piano.",
+                "C. The piano is a small white baby grand piano.",
+                "D. The piano is a digital keyboard on a stand."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_25": {
+            "id": "2QTiAmvygC4_25",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What is special about the surface of the piano?",
+            "options": [
+                "A. The piano has a polished surface that can reflect the surrounding light.",
+                "B. The piano surface is matte finished.",
+                "C. The piano surface is covered with decorative patterns.",
+                "D. The piano is made of unpolished wood."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_26": {
+            "id": "2QTiAmvygC4_26",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What brand logo is on the piano?",
+            "options": [
+                "A. This piano has distinct 'Yamaha' branding.",
+                "B. This piano has distinct 'Steinway' branding.",
+                "C. This piano has distinct 'Baldwin' branding.",
+                "D. This piano has distinct 'Kawai' branding."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_27": {
+            "id": "2QTiAmvygC4_27",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many main characters are in the scene?",
+            "options": [
+                "A. There is one main character.",
+                "B. There are two main characters.",
+                "C. There are three main characters.",
+                "D. There are four main characters."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_28": {
+            "id": "2QTiAmvygC4_28",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "Who are the main characters in the scene?",
+            "options": [
+                "A. The woman in yellow silk clothing and the man in a floral shirt and brown pants.",
+                "B. The woman in a red dress and the man in a suit.",
+                "C. The woman in yellow silk clothing and the man in a tailcoat.",
+                "D. The woman in blue clothing and the man in casual wear."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_29": {
+            "id": "2QTiAmvygC4_29",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Does the scene transition to a more intimate and residential environment?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. It transitions to a busy office environment.",
+                "D. It transitions to an outdoor urban environment."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_30": {
+            "id": "2QTiAmvygC4_30",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What did the person do as he became more involved in the piano performance?",
+            "options": [
+                "A. The person swayed slightly to match the movements of his fingers.",
+                "B. The person stood up from the piano to observe the lady.",
+                "C. The person leaned outward from the piano while playing.",
+                "D. The person moved to another decorative element in the room."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_31": {
+            "id": "2QTiAmvygC4_31",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What posture does the man make during his piano performance?",
+            "options": [
+                "A. The man sits on the bench, slightly swaying his feet and rhythmically tapping the floor.",
+                "B. The man leans back and relaxes away from the piano.",
+                "C. The man turns his back to the piano and faces the lady.",
+                "D. The man bends over and rests his head on the piano keys."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_32": {
+            "id": "2QTiAmvygC4_32",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What does the woman do in the climax of this scene?",
+            "options": [
+                "A. The woman steps back from the piano and energetically leaves.",
+                "B. The woman approaches the piano, adjusting her posture to interact more with the music.",
+                "C. The woman sits by the piano and starts playing with the man.",
+                "D. The woman walks away from the piano and leaves the room."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_33": {
+            "id": "2QTiAmvygC4_33",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What type of shooting method is used to capture the main interaction?",
+            "options": [
+                "A. Used close-up shots.",
+                "B. Used medium to long-distance eye-level angles.",
+                "C. Used overhead bird's-eye view angles.",
+                "D. Used low-angle upward shots."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_34": {
+            "id": "2QTiAmvygC4_34",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "How does camera work affect audience perception?",
+            "options": [
+                "A. It provides a balanced perspective of intimate performances and rich environments.",
+                "B. It only emphasizes the man's performance at the piano.",
+                "C. It narrows the focus to the decorative elements of the room.",
+                "D. It blurs the interaction between the characters and the environment."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_35": {
+            "id": "2QTiAmvygC4_35",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What changes occur in the lady's posture from the beginning to the climax of this scene?",
+            "options": [
+                "A. She starts by leaning on the piano, then stands up and walks away from the piano.",
+                "B. She starts sitting and ends up lying on the floor.",
+                "C. She starts by leaning against the wall and ends up sitting in front of the piano.",
+                "D. She starts with her back to the camera and ends with her back to the gentleman."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_36": {
+            "id": "2QTiAmvygC4_36",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "How did the woman's gestures change from the beginning of the scene to the climax?",
+            "options": [
+                "A. Her gestures became more energetic and dynamic, showing a deep connection to the music.",
+                "B. Her gestures became more subdued and restrained, reflecting a sense of calm.",
+                "C. Her gestures remained stiff, with no significant change.",
+                "D. Her gestures became chaotic and disconnected, expressing confusion about the music."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_37": {
+            "id": "2QTiAmvygC4_37",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "Where does the faint natural light come from?",
+            "options": [
+                "A. The natural light comes in through the kitchen door.",
+                "B. The faint natural light comes in through the small window in the kitchen.",
+                "C. The light is emitted from the lamp above the kitchen.",
+                "D. Natural light comes in through an open door in the dining room from outside."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_38": {
+            "id": "2QTiAmvygC4_38",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the kitchen?",
+            "options": [
+                "A. The kitchen has dark brown cabinets, beige walls, dining chairs, a round dining table, and green plants.",
+                "B. The kitchen has sleek stainless steel appliances, glass countertops, white cabinets, and minimalist decor.",
+                "C. The kitchen has exposed brick walls, metal shelving, concrete floors, and hanging pendant lights.",
+                "D. The kitchen has distressed wooden furniture, open shelving, a large farmhouse sink, and vintage mason jars used as storage containers."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_39": {
+            "id": "2QTiAmvygC4_39",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is this woman wearing?",
+            "options": [
+                "A. The woman is wearing a yellow dress.",
+                "B. The woman is wearing a blue floral patterned shirt.",
+                "C. The woman is wearing a red polka dot skirt.",
+                "D. The woman is wearing a green jumpsuit."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_40": {
+            "id": "2QTiAmvygC4_40",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "How does the woman interact with the scene environment?",
+            "options": [
+                "A. She leans forward towards the stove, then slightly straightens up and begins to turn.",
+                "B. She sits quietly at the dining table, sipping a drink while reading a newspaper.",
+                "C. She opens the refrigerator, takes out ingredients, and then starts cooking on the stove.",
+                "D. She stands quietly by the window, admiring the view outside."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_41": {
+            "id": "2QTiAmvygC4_41",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What items can be seen on the kitchen counter?",
+            "options": [
+                "A. A glass coffee pot, a light-colored cup, a green potted plant, and bright red flowers",
+                "B. A blue ceramic teapot, a dark-colored cup, a red potted plant, and yellow tulips",
+                "C. A black kettle, a clear glass cup, a white potted orchid, and pink carnations",
+                "D. A silver toaster, brown coffee beans, an artificial plant, and white lilies"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_42": {
+            "id": "2QTiAmvygC4_42",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many types of stools are described in the kitchen?",
+            "options": [
+                "A. One type",
+                "B. Two types",
+                "C. Three types",
+                "D. Four types"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_43": {
+            "id": "2QTiAmvygC4_43",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "From the video, where is the 'ABC' logo located?",
+            "options": [
+                "A. Located at the bottom right corner of the screen.",
+                "B. Located at the bottom left corner of the screen.",
+                "C. Located at the top right corner of the screen.",
+                "D. Located at the top left corner of the screen."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_44": {
+            "id": "2QTiAmvygC4_44",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What did the woman do after leaning forward?",
+            "options": [
+                "A. The woman slightly straightened up and started to turn around.",
+                "B. The woman started cooking on the stove.",
+                "C. The woman sat on a dining chair with an orange cushion.",
+                "D. The woman picked up a coffee pot from the kitchen counter."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_45": {
+            "id": "2QTiAmvygC4_45",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "From the video, which direction does the woman turn after going straight?",
+            "options": [
+                "A. The woman turns left.",
+                "B. The woman turns right.",
+                "C. The woman turns towards the center of the room.",
+                "D. The woman turns towards the doorway on her left."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_46": {
+            "id": "2QTiAmvygC4_46",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "Which visual elements enhance the retro atmosphere of the kitchen?",
+            "options": [
+                "A. Dark kitchen utensils help create a unified color scheme.",
+                "B. Sleek modern appliances create a sense of modernity.",
+                "C. Women's futuristic clothing contrasts with the kitchen style.",
+                "D. Minimalist design and empty countertops highlight modern elegance."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_47": {
+            "id": "2QTiAmvygC4_47",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "From the video, where is the woman in the orange dress positioned after the new character appears?",
+            "options": [
+                "A. She is on the far right of the screen.",
+                "B. She is in the center of the screen.",
+                "C. She is on the far left of the screen.",
+                "D. She does not appear in the screen."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_48": {
+            "id": "2QTiAmvygC4_48",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of this room?",
+            "options": [
+                "A. The room is dark and gloomy.",
+                "B. The room is chaotic and messy.",
+                "C. The room is warm and inviting.",
+                "D. The room is cold and sterile."
+            ],
+            "answer": "C"
+        },
+        "2QTiAmvygC4_49": {
+            "id": "2QTiAmvygC4_49",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the decoration of the room like?",
+            "options": [
+                "A. The room has beige sofas, a coffee table, throw pillows, lamps, and artwork.",
+                "B. The room has dark wood beams, vintage decorations, and a distressed coffee table.",
+                "C. The room has metal decorations, exposed brick walls, and minimalist furniture.",
+                "D. The room has white walls, simple furniture, and neutral tones."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_50": {
+            "id": "2QTiAmvygC4_50",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What does the most noticeable woman in this scene look like?",
+            "options": [
+                "A. The woman is wearing a long-sleeved yellow dress and has an afro hairstyle.",
+                "B. The woman is wearing a short-sleeved burnt orange dress and has straight hair.",
+                "C. The woman is wearing a plaid shirt and has a ponytail.",
+                "D. The woman is wearing a cream-colored dress and has curly hair."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_51": {
+            "id": "2QTiAmvygC4_51",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What was the action of the woman wearing a pink patterned dress with an afro hairstyle when she first appeared?",
+            "options": [
+                "A. She was clapping.",
+                "B. She was sitting on the sofa.",
+                "C. She was singing.",
+                "D. She was drinking water."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_52": {
+            "id": "2QTiAmvygC4_52",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many people are in this scene?",
+            "options": [
+                "A. There is one person in the scene.",
+                "B. There are two people in the scene.",
+                "C. There are three people in the scene.",
+                "D. There are four people in the scene."
+            ],
+            "answer": "D"
+        },
+        "2QTiAmvygC4_53": {
+            "id": "2QTiAmvygC4_53",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Is the woman in the orange dress present?",
+            "options": [
+                "A. Yes, she is actively engaging.",
+                "B. Yes, she is visible but staying in the background.",
+                "C. No, she is not in the scene.",
+                "D. No, but her absence is not noticeable."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_54": {
+            "id": "2QTiAmvygC4_54",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What did the woman in the yellow dress do towards the door?",
+            "options": [
+                "A. She raised her arms high above her head.",
+                "B. She walked out the door in a joyful manner.",
+                "C. She crossed her hands over her chest.",
+                "D. She pushed the door open with both hands."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_55": {
+            "id": "2QTiAmvygC4_55",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "From the video, which direction is this woman moving?",
+            "options": [
+                "A. She is moving from left to right.",
+                "B. She is moving from right to left.",
+                "C. She is spinning around in the center of the room.",
+                "D. She is moving toward the balcony in the background."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_56": {
+            "id": "2QTiAmvygC4_56",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What impact does the exit of other characters from the frame have on the scene composition?",
+            "options": [
+                "A. It focuses entirely on the woman in the yellow dress.",
+                "B. It makes the scene appear empty and lacking in vitality.",
+                "C. It shifts attention to the room's decor and furniture.",
+                "D. It highlights the absence of color and warmth in the scene."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_57": {
+            "id": "2QTiAmvygC4_57",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "How is the atmosphere of the corridor described?",
+            "options": [
+                "A. The corridor is described as warm and pleasant.",
+                "B. The corridor is described as dark and unwelcoming.",
+                "C. The corridor is described as minimalist and futuristic.",
+                "D. The corridor is described as cold and clinical."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_58": {
+            "id": "2QTiAmvygC4_58",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "How is the hallway decorated?",
+            "options": [
+                "A. The hallway has dark gray walls, modern lighting, a table, and abstract artwork.",
+                "B. The hallway has light brown striped wallpaper, cozy lighting, a table lamp and a floral wooden table, as well as framed artwork.",
+                "C. The hallway includes brick walls, industrial lighting, a large bookshelf, and a framed world map.",
+                "D. The hallway is decorated with pure white walls, concealed lighting, a glass coffee table, and a cityscape painting."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_59": {
+            "id": "2QTiAmvygC4_59",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "How do the woman's hands change in this scene?",
+            "options": [
+                "A. Her arms are raised and spread outward.",
+                "B. Her arms are raised and crossed in front of her chest.",
+                "C. Her arms are completely placed at her sides.",
+                "D. Her arms are raised and extended vertically above her head."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_60": {
+            "id": "2QTiAmvygC4_60",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What decorations are on the narrow wooden table in the hallway?",
+            "options": [
+                "A. The narrow wooden table is decorated with a light beige lamp and a floral arrangement.",
+                "B. The narrow wooden table is decorated with a silver candlestick and a bowl of fruit.",
+                "C. The narrow wooden table is decorated with a light beige lamp and a stack of books.",
+                "D. The narrow wooden table is decorated with a potted fern and a clock."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_61": {
+            "id": "2QTiAmvygC4_61",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many visible light sources can be seen in the corridor scene?",
+            "options": [
+                "A. One visible light source can be seen.",
+                "B. Two visible light sources can be seen.",
+                "C. Three visible light sources can be seen.",
+                "D. Four visible light sources can be seen."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_62": {
+            "id": "2QTiAmvygC4_62",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the main light source in the corridor scene?",
+            "options": [
+                "A. Decorative table lamps and spherical wall lamps on the corridor walls.",
+                "B. Decorative table lamps and natural sunlight streaming through the windows.",
+                "C. Ceiling fluorescent lights and neon signs.",
+                "D. Ambient wall lamps in the corridor and candlelight on the corner table."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_63": {
+            "id": "2QTiAmvygC4_63",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What gesture did the woman make with her hands as the scene was about to end?",
+            "options": [
+                "A. Her hands were on her hips at her sides.",
+                "B. Her hands were clasped together in front of her chest.",
+                "C. Her hands were extended outward in an inviting gesture.",
+                "D. Her hands were raised above her head in an expressive motion."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_64": {
+            "id": "2QTiAmvygC4_64",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "From the video, in which direction is the woman moving?",
+            "options": [
+                "A. The woman moves to the left, leaving the frame.",
+                "B. The woman moves forward, stepping over the threshold into the elevator.",
+                "C. The woman moves backward, returning to her original position.",
+                "D. The woman does not move and remains stationary."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_65": {
+            "id": "2QTiAmvygC4_65",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "Does the woman's movement appear to gradually shift between shots?",
+            "options": [
+                "A. Yes, the woman's movement appears to gradually shift.",
+                "B. No, the woman's movement is sudden.",
+                "C. The woman's movement between shots is unclear.",
+                "D. The woman is stationary."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_66": {
+            "id": "2QTiAmvygC4_66",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "From the video, where is the elevator located?",
+            "options": [
+                "A. The elevator is located at the far left of the screen.",
+                "B. The elevator is located at the far right of the screen.",
+                "C. The elevator is located in the center of the screen.",
+                "D. The elevator does not appear in the scene."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_67": {
+            "id": "2QTiAmvygC4_67",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "From the video, has the door on the left side of the lady changed?",
+            "options": [
+                "A. Yes, the door was later closed.",
+                "B. Yes, the door was removed.",
+                "C. Yes, the color of the door changed.",
+                "D. No, the position and color of the door remained unchanged."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_68": {
+            "id": "2QTiAmvygC4_68",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many doors are visible in this scene? (excluding elevator doors)",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_69": {
+            "id": "2QTiAmvygC4_69",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "From the perspective of watching the video, where are the doors in relation to the woman? (excluding elevator doors)",
+            "options": [
+                "A. The doors are to her left and behind her.",
+                "B. The doors are in front of her and to her right.",
+                "C. The doors are to her right and behind her.",
+                "D. The doors are to her left and right."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_70": {
+            "id": "2QTiAmvygC4_70",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What is the last action of the lady in the scene?",
+            "options": [
+                "A. She waves her arm, preparing to step into the elevator.",
+                "B. She walks into the open elevator, and the elevator door closes behind her.",
+                "C. She stands in the middle of the corridor with her hands on her hips.",
+                "D. She adjusts her left arm so that it is just above her waistline."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_71": {
+            "id": "2QTiAmvygC4_71",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What details can be seen on the wooden door at the end of the corridor?",
+            "options": [
+                "A. The wooden door at the end of the corridor has the number '12E'.",
+                "B. The wooden door at the end of the corridor has the number '10A'.",
+                "C. The wooden door at the end of the corridor has no visible number.",
+                "D. The wooden door at the end of the corridor has the letter 'B'."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_72": {
+            "id": "2QTiAmvygC4_72",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "In the end, how many doors can be seen open in the scene?",
+            "options": [
+                "A. In the end, one door is open.",
+                "B. In the end, two doors are open.",
+                "C. In the end, three doors are open.",
+                "D. In the end, no doors are open."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_73": {
+            "id": "2QTiAmvygC4_73",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "Did the lighting in the hallway change in the video?",
+            "options": [
+                "A. Yes, the lighting became brighter by the end of the video.",
+                "B. No, the warm hallway lighting remained unchanged throughout the video.",
+                "C. Yes, the lighting dimmed when the woman disappeared.",
+                "D. Yes, the lighting changed to a cooler tone during the transition."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_74": {
+            "id": "2QTiAmvygC4_74",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "At the end of this scene, which door is open?",
+            "options": [
+                "A. The door on the left side of the screen.",
+                "B. The elevator door on the right side of the screen.",
+                "C. The door in the center of the screen.",
+                "D. No doors are open in the scene."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_75": {
+            "id": "2QTiAmvygC4_75",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "What does the movement of the elevator door in the scene imply?",
+            "options": [
+                "A. The elevator door opens, revealing part of the interior.",
+                "B. The elevator door remains closed, hiding the interior.",
+                "C. The elevator door opens briefly and then closes again.",
+                "D. The elevator door opens, revealing the corridor."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_76": {
+            "id": "2QTiAmvygC4_76",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "How does the framing emphasize the calm woman as the focal point of the scene?",
+            "options": [
+                "A. The framing uses warm, soft lighting and keeps her at the center of the visual elements as they change.",
+                "B. The framing uses intense lighting, placing her in the corner of the frame, blending with the background elements.",
+                "C. The framing relies on shadows and dim lighting to obscure her movements within the corridor.",
+                "D. The framing completely excludes the woman to emphasize the vintage aesthetic of the corridor."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_77": {
+            "id": "2QTiAmvygC4_77",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "What major change is shown in the final scene?",
+            "options": [
+                "A. The elevator doors remain open.",
+                "B. The lighting changes to a cool blue tone.",
+                "C. The woman becomes almost invisible.",
+                "D. The central wooden door now shows a change."
+            ],
+            "answer": "C"
+        },
+        "2QTiAmvygC4_78": {
+            "id": "2QTiAmvygC4_78",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the visual presentation?",
+            "options": [
+                "A. The visual presentation immediately turned into a vibrant promotional graphic.",
+                "B. The visual presentation turned into a completely dark screen.",
+                "C. The visual presentation switched to a scene of an audience applauding.",
+                "D. The visual presentation transitioned again to a detailed scene of a bright corridor."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_79": {
+            "id": "2QTiAmvygC4_79",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What text appeared on the promotional image after the black screen?",
+            "options": [
+                "A. 'REPLAY' and 'NOW SHOWING' ",
+                "B. 'LIVE' and 'IN FRONT OF A STUDIO AUDIENCE' ",
+                "C. 'PREVIEW' and 'COMING SOON' ",
+                "D. 'PAST SHOWS' and 'NEXT ON AIR' "
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_80": {
+            "id": "2QTiAmvygC4_80",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many program titles are shown on the promotional image?",
+            "options": [
+                "A. One program title",
+                "B. Two program titles",
+                "C. Three program titles",
+                "D. Four program titles"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_81": {
+            "id": "2QTiAmvygC4_81",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What are the show titles displayed in the promotional image?",
+            "options": [
+                "A. 'FULL HOUSE' and 'FRIENDS'",
+                "B. 'ALL IN THE FAMILY' and 'THE JEFFERSONS'",
+                "C. 'SEINFELD' and 'THE OFFICE'",
+                "D. 'CHEERS' and 'M*A*S*H'"
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_82": {
+            "id": "2QTiAmvygC4_82",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What changes occur on the screen after the promotional graphic appears?",
+            "options": [
+                "A. The screen returns to complete blackness, eliminating all prominent text, glowing effects, and graphic elements.",
+                "B. The screen displays a continuation of the promotional graphic, providing more details about the broadcast.",
+                "C. The screen transitions to a scene of the live audience preparing for the broadcast.",
+                "D. The screen switches to a live broadcast from the studio, showing the set and staff preparations."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_83": {
+            "id": "2QTiAmvygC4_83",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What indicates that the video is about to end?",
+            "options": [
+                "A. The black screen has no recognizable features or textures.",
+                "B. The promotional image is full of vibrant energy.",
+                "C. The ABC logo is prominently displayed.",
+                "D. The letters 'LIVE' are shown in large, bold red glowing letters."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_84": {
+            "id": "2QTiAmvygC4_84",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What is the text on the red banner in the center of the scene?",
+            "options": [
+                "A. “NORMAN LEAR´S”",
+                "B. “LIVE”",
+                "C. “CHEERS”",
+                "D. “THE OFFICE”"
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_85": {
+            "id": "2QTiAmvygC4_85",
+            "scene": 5,
+            "dimension": "Speed",
+            "question": "Does the speed change during scene transitions?",
+            "options": [
+                "A. Yes, transitions are explicitly described as accelerating.",
+                "B. Yes, transitions are explicitly described as decelerating.",
+                "C. No, there is no specific description of speed changes during scene transitions.",
+                "D. Yes, transition speed varies depending on the type of content."
+            ],
+            "answer": "C"
+        },
+        "2QTiAmvygC4_86": {
+            "id": "2QTiAmvygC4_86",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What do the two men sitting behind the table look like?",
+            "options": [
+                "A. They are wearing suits and ties, looking very formal.",
+                "B. They are wearing light-colored casual clothes and chatting.",
+                "C. They are wearing eye-catching sportswear and exercising.",
+                "D. They are blocked by the table, and no details are observed."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_87": {
+            "id": "2QTiAmvygC4_87",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "From the video, when the woman in the yellow dress first appears, where are the climbing plants on the white wall in relation to her?",
+            "options": [
+                "A. Behind her to the left.",
+                "B. Behind her to the right.",
+                "C. In front of her to the left.",
+                "D. In front of her to the right."
+            ],
+            "answer": "B"
+        },
+        "2QTiAmvygC4_88": {
+            "id": "2QTiAmvygC4_88",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the person playing the piano like?",
+            "options": [
+                "A. He is wearing a floral shirt, dark brown pants, and leather boots, with an afro hairstyle.",
+                "B. He is wearing a white shirt, black pants, and leather boots, with smooth brown hair.",
+                "C. He is wearing a blue and white t-shirt, black pants, and white sneakers, with a hat.",
+                "D. He is wearing a sports jersey, matching shorts, and white sneakers, with short black hair."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_89": {
+            "id": "2QTiAmvygC4_89",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What happens when an image with the word 'LIVE' appears on the screen?",
+            "options": [
+                "A. The screen switches back to complete black.",
+                "B. A new promotional image starts playing.",
+                "C. The camera turns to the live audience.",
+                "D. A broadcast countdown appears on the screen."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_90": {
+            "id": "2QTiAmvygC4_90",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What elements suggest that the initial scene with two men might be set in a professional environment?",
+            "options": [
+                "A. The men's formal attire, the luxurious table, studio lighting, monitors displaying real-time images, and the 'ABC' sign, etc.",
+                "B. The men's casual attire, simple wooden table, lack of special lighting, and absence of visible signs suggest a relaxed office environment.",
+                "C. The men's casual conversation, lack of decorative elements, and absence of any technological equipment indicate a non-professional environment.",
+                "D. The presence of a kitchen counter, casual attire, and dim lighting suggest the scene is set in someone's home rather than a professional environment."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_91": {
+            "id": "2QTiAmvygC4_91",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What made that woman the focus of the scene?",
+            "options": [
+                "A. Her bright yellow silk outfit attracted attention.",
+                "B. She was the only person smiling in the scene.",
+                "C. She stood in the center of the room.",
+                "D. Her outfit matched the color of the walls."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_92": {
+            "id": "2QTiAmvygC4_92",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "How do the woman's movements and gestures make her the focus of the scene?",
+            "options": [
+                "A. Her energetic movements and confident gestures drew attention.",
+                "B. Her subtle and shy gestures blended into the background.",
+                "C. Her complete stillness and lack of movement attracted attention.",
+                "D. Her slow and deliberate movements failed to stand out."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_93": {
+            "id": "2QTiAmvygC4_93",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How does the woman's yellow outfit contrast with the interior tones of the scene?",
+            "options": [
+                "A. Her yellow outfit stands out against the soft earthy tones of the vintage-style interior.",
+                "B. Her yellow outfit blends perfectly with the bright and vibrant interior tones.",
+                "C. Her yellow outfit matches the neon lights and vivid decorations of the modern interior.",
+                "D. Her yellow outfit clashes with the dark and minimalist design of the room."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_94": {
+            "id": "2QTiAmvygC4_94",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What did the woman in the yellow dress do at the end of the hallway scene?",
+            "options": [
+                "A. She moved towards the open elevator doors and disappeared from view.",
+                "B. She raised her hands up, showing a state of enthusiastic celebration.",
+                "C. She paced back and forth in the hallway, appearing extremely anxious.",
+                "D. She leaned against the wall, looking like she had nothing to do."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_95": {
+            "id": "2QTiAmvygC4_95",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "In front of the splendid desk, what did the men do before applauding?",
+            "options": [
+                "A. They behaved calmly, with few movements, as if introducing something.",
+                "B. They showed restless energy and moved busily around the desk.",
+                "C. They engaged in intense discussions and flipped through documents.",
+                "D. They appeared distracted, frequently checking their phones."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_96": {
+            "id": "2QTiAmvygC4_96",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after the scene where the woman leans on the piano?",
+            "options": [
+                "A. The man continues to play more immersive piano music.",
+                "B. The scene transitions to an outdoor setting.",
+                "C. A dramatic scene accompanied by thunder and lightning is shown.",
+                "D. A comedy skit performed by clowns is staged."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_97": {
+            "id": "2QTiAmvygC4_97",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is the woman's reaction after the scene where she leans on the piano?",
+            "options": [
+                "A. The woman's movements become increasingly expressive and dynamic.",
+                "B. The woman remains still, gazing at the piano, lost in thought.",
+                "C. The woman suddenly leaves the scene, leaving the piano behind.",
+                "D. The woman begins to gently play the piano, creating a tranquil atmosphere."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_98": {
+            "id": "2QTiAmvygC4_98",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What are the transitions before the promotional scene?",
+            "options": [
+                "A. A woman in a yellow dress walks out of the hallway scene, the screen turns completely black, and the advertisement appears.",
+                "B. The hallway scene directly transitions to the promotional scene without a completely black screen in between.",
+                "C. The promotional scene fades in from an outdoor storm scene with thunder and lightning effects.",
+                "D. A crowded and bright hallway directly transitions to the promotional scene without a completely black screen in the process."
+            ],
+            "answer": "A"
+        },
+        "2QTiAmvygC4_99": {
+            "id": "2QTiAmvygC4_99",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the man on the left need to wear a light-colored hat?",
+            "options": [
+                "A. The man wears a hat possibly to emphasize personal style or for activity-related reasons.",
+                "B. He wears the hat to shield himself from the strong light on the filming set.",
+                "C. The man adds a hat to make himself more noticeable in a darker environment.",
+                "D. This is a requirement from the production team for all actors to wear hats."
+            ],
+            "answer": "A"
+        }
+    }
+}

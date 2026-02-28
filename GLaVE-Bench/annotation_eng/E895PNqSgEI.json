@@ -1,0 +1,947 @@
+{
+    "scene_hint": {
+        "0": "The athlete is running on the track",
+        "1": "The camera focuses on the athlete",
+        "2": "Replay of the footage",
+        "3": "Footage of the athlete celebrating after the competition",
+        "4": "Displays abstract geometric shapes and text promotion"
+    },
+    "qa": {
+        "E895PNqSgEI_0": {
+            "id": "E895PNqSgEI_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the athlete wearing a light red sweatshirt and gray shorts located?",
+            "options": [
+                "A. Located in lane 2.",
+                "B. Located in lane 5.",
+                "C. Located in lane 9.",
+                "D. Located in lane 7."
+            ],
+            "answer": "C"
+        },
+        "E895PNqSgEI_1": {
+            "id": "E895PNqSgEI_1",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "What is the relative position of lane 9 in the staggered pattern at the starting line, relative to the direction of the athletes?",
+            "options": [
+                "A. Lane 9 is the rightmost lane in the staggered pattern at the starting line.",
+                "B. Lane 9 is the middle lane in the staggered pattern at the starting line.",
+                "C. Lane 9 is the second lane from the left in the staggered pattern at the starting line.",
+                "D. Lane 9 is the leftmost lane in the staggered pattern at the starting line."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_2": {
+            "id": "E895PNqSgEI_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What scene is depicted in the video description?",
+            "options": [
+                "A. The scene depicts a 100-meter sprint race.",
+                "B. The scene depicts a marathon race.",
+                "C. The scene depicts a high jump competition.",
+                "D. The scene depicts a track and field relay race."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_3": {
+            "id": "E895PNqSgEI_3",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the background identifier in the video description?",
+            "options": [
+                "A. Tokyo 2020",
+                "B. Beijing 2008",
+                "C. London 2012",
+                "D. Paris 2024."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_4": {
+            "id": "E895PNqSgEI_4",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What actions do the athletes display at the start of the competition?",
+            "options": [
+                "A. The athletes jog to warm up.",
+                "B. The athletes sprint forward from the starting blocks.",
+                "C. The athletes chat with each other at the starting line.",
+                "D. The athletes wait for the referee's signal to start."
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_5": {
+            "id": "E895PNqSgEI_5",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What qualities did the athletes display when the competition started?",
+            "options": [
+                "A. The athletes displayed dynamic movements and powerful strides.",
+                "B. The athletes displayed a slow start.",
+                "C. The sprinters were still at the starting position.",
+                "D. The athletes demonstrated the same skills and movements."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_6": {
+            "id": "E895PNqSgEI_6",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What color is the starting block used by sprinters?",
+            "options": [
+                "A. The starting block is red.",
+                "B. The starting block is blue.",
+                "C. The starting block is green.",
+                "D. The starting block is black."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_7": {
+            "id": "E895PNqSgEI_7",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many athletes are at the starting line?",
+            "options": [
+                "A. There are six athletes at the starting line.",
+                "B. There are seven athletes at the starting line.",
+                "C. There are eight athletes at the starting line.",
+                "D. There are nine athletes at the starting line."
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_8": {
+            "id": "E895PNqSgEI_8",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is there a visible timer in the video description?",
+            "options": [
+                "A. Yes, there is a graphic scoreboard overlay displaying the timer.",
+                "B. No, there is only an electronic leaderboard in the video description.",
+                "C. Yes, there is a physical electronic large screen timer.",
+                "D. No, what is shown in the video is a distance length display."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_9": {
+            "id": "E895PNqSgEI_9",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What happened to the athlete in lane eight during the race?",
+            "options": [
+                "A. Finished the race first.",
+                "B. Disappeared from view at the end.",
+                "C. Never left the starting line.",
+                "D. Fell during the race."
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_10": {
+            "id": "E895PNqSgEI_10",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle used in the video description?",
+            "options": [
+                "A. The camera angle is a side view, slightly elevated.",
+                "B. The camera angle is an overhead view from above.",
+                "C. The camera angle is a front-facing view of the athlete.",
+                "D. The camera angle is a rear view from behind the athlete."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_11": {
+            "id": "E895PNqSgEI_11",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "Who won first place in the competition?",
+            "options": [
+                "A. The athlete in the maroon uniform",
+                "B. The athlete in the red and yellow uniform",
+                "C. The athlete in the blue uniform",
+                "D. The athlete in the green uniform"
+            ],
+            "answer": "C"
+        },
+        "E895PNqSgEI_12": {
+            "id": "E895PNqSgEI_12",
+            "scene": 0,
+            "dimension": "Object Direction",
+            "question": "As the competition progresses, how does the position of the athlete in the red uniform change?",
+            "options": [
+                "A. Initially leads and maintains the lead.",
+                "B. Gradually falls behind as the competition progresses.",
+                "C. The athlete always remains in the middle of the pack.",
+                "D. First to reach the finish line."
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_13": {
+            "id": "E895PNqSgEI_13",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "Who was the first to cross the finish line?",
+            "options": [
+                "A. The athlete in the maroon uniform",
+                "B. The athlete in the red and yellow uniform",
+                "C. The athlete in the blue uniform",
+                "D. The athlete in the green uniform"
+            ],
+            "answer": "C"
+        },
+        "E895PNqSgEI_14": {
+            "id": "E895PNqSgEI_14",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where does this scene take place?",
+            "options": [
+                "A. This scene takes place at the Olympic event.",
+                "B. This scene takes place at the national championship.",
+                "C. This scene takes place at the training facility.",
+                "D. This scene takes place at the local high school competition."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_15": {
+            "id": "E895PNqSgEI_15",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Who is the athlete highlighted in the footage?",
+            "options": [
+                "A. Jacobs",
+                "B. Simbine",
+                "C. Bolt",
+                "D. Blake"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_16": {
+            "id": "E895PNqSgEI_16",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "Who is the person next to the featured athlete?",
+            "options": [
+                "A. Jacobs",
+                "B. Simbine",
+                "C. Gatlin",
+                "D. Bolt"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_17": {
+            "id": "E895PNqSgEI_17",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What does the digital timer display at the end of the scene?",
+            "options": [
+                "A. The digital timer displays 9.79 seconds at the end of the scene.",
+                "B. The digital timer displays 9.70 seconds at the end of the scene.",
+                "C. The digital timer displays 10.00 seconds at the end of the scene.",
+                "D. The digital timer displays 9.71 seconds at the end of the scene."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_18": {
+            "id": "E895PNqSgEI_18",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many athletes appear in the current scene?",
+            "options": [
+                "A. Two athletes",
+                "B. Three athletes",
+                "C. Four athletes",
+                "D. Five athletes"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_19": {
+            "id": "E895PNqSgEI_19",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "Is the background of the key athlete clear?",
+            "options": [
+                "A. Yes, the background is clear and detailed.",
+                "B. No, the background is slightly blurred to show the crowd.",
+                "C. No, the background is blurred to draw attention to the athlete.",
+                "D. Yes, the background shows detailed Olympic branding."
+            ],
+            "answer": "C"
+        },
+        "E895PNqSgEI_20": {
+            "id": "E895PNqSgEI_20",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is Jacobs doing in the footage?",
+            "options": [
+                "A. Jacobs is jogging forward with momentum.",
+                "B. Jacobs is congratulating his competitor.",
+                "C. Jacobs is celebrating his victory by raising his arms.",
+                "D. Jacobs is taking a moment to catch his breath."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_21": {
+            "id": "E895PNqSgEI_21",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What is Simbine doing in the close-up shot?",
+            "options": [
+                "A. Simbine is jogging forward with momentum.",
+                "B. Simbine is celebrating his victory with a triumphant pose.",
+                "C. Simbine is running at a leisurely pace and observing the crowd.",
+                "D. Simbine is adjusting his race number bib."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_22": {
+            "id": "E895PNqSgEI_22",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What camera angle is used in the scene?",
+            "options": [
+                "A. Bird's-eye view",
+                "B. Slightly low frontal angle",
+                "C. Profile angle",
+                "D. Over-the-shoulder angle"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_23": {
+            "id": "E895PNqSgEI_23",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What type of lens is used in the scene?",
+            "options": [
+                "A. Wide-angle lens.",
+                "B. Clear close-up shot.",
+                "C. High-angle lens.",
+                "D. Panoramic lens."
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_24": {
+            "id": "E895PNqSgEI_24",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What was the wind speed during the competition?",
+            "options": [
+                "A. According to the notes, the wind speed was +0.1 m/s.",
+                "B. According to the notes, the wind speed was +1.0 m/s.",
+                "C. According to the notes, the wind speed was -0.1 m/s.",
+                "D. According to the notes, the wind speed was +0.5 m/s."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_25": {
+            "id": "E895PNqSgEI_25",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "In the picture, where is the athlete in blue located when moving?",
+            "options": [
+                "A. He is in the background.",
+                "B. He is running alongside the athletes in green and yellow.",
+                "C. As he gets closer to the foreground, he becomes more noticeable.",
+                "D. He is at the starting line."
+            ],
+            "answer": "C"
+        },
+        "E895PNqSgEI_26": {
+            "id": "E895PNqSgEI_26",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the competition environment like?",
+            "options": [
+                "A. It takes place on a red track.",
+                "B. It takes place on a blue track.",
+                "C. It takes place on a sandy surface.",
+                "D. It takes place in an indoor gymnasium."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_27": {
+            "id": "E895PNqSgEI_27",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is emphasized about the posture of the athlete wearing a blue sweatshirt?",
+            "options": [
+                "A. Emphasizes his relaxed and nonchalant posture.",
+                "B. Emphasizes his upright and slow-moving posture.",
+                "C. Emphasizes his excited and enthusiastic posture.",
+                "D. Emphasizes his leisurely and carefree posture."
+            ],
+            "answer": "C"
+        },
+        "E895PNqSgEI_28": {
+            "id": "E895PNqSgEI_28",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What outstanding performance does the athlete in the blue sports shirt have?",
+            "options": [
+                "A. Highlights his muscular build and tattooed physique.",
+                "B. Highlights his tall stature and graceful movements.",
+                "C. Highlights his slender figure and lightweight attire.",
+                "D. Highlights his focused expression and bright shoes."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_29": {
+            "id": "E895PNqSgEI_29",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What is the running style of the athlete wearing the blue sports shirt?",
+            "options": [
+                "A. His stride rhythm is energetic and precise.",
+                "B. His running posture is relaxed and casual.",
+                "C. His stride is unstable and uneven.",
+                "D. His movements are stiff and mechanical."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_30": {
+            "id": "E895PNqSgEI_30",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What does the blue top worn by the athlete display?",
+            "options": [
+                "A. The jersey displays 'ITALIA' and 'JACOBS'.",
+                "B. The jersey displays 'ITALIA' and 'SIMBINE'.",
+                "C. The jersey displays 'SOUTH AFRICA' and 'JACOBS'.",
+                "D. The jersey displays 'OMEGA' and the Olympic rings."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_31": {
+            "id": "E895PNqSgEI_31",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What are the color details of the blue top worn by the athlete?",
+            "options": [
+                "A. It has yellow trim.",
+                "B. It has white trim.",
+                "C. It has green trim.",
+                "D. It has red trim."
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_32": {
+            "id": "E895PNqSgEI_32",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "Does the timer overlay on the screen change in the video?",
+            "options": [
+                "A. Yes, the timer overlay fluctuates frequently.",
+                "B. No, the timer overlay consistently stays at '9.79' seconds.",
+                "C. Yes, the timer overlay gradually increases.",
+                "D. No, the timer overlay disappears halfway through the video."
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_33": {
+            "id": "E895PNqSgEI_33",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is particularly emphasized about the athlete wearing green and yellow sportswear?",
+            "options": [
+                "A. There is no particular emphasis, he just appears in the background of the shot.",
+                "B. His bent-over defensive posture indicates a lack of confidence.",
+                "C. His relaxed and easy stride is highlighted as a key advantage.",
+                "D. His forward-leaning posture symbolizes his active effort to catch up."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_34": {
+            "id": "E895PNqSgEI_34",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "Which athlete appears first and then disappears in the footage?",
+            "options": [
+                "A. The athlete wearing a blue top",
+                "B. The athlete wearing a green and yellow top",
+                "C. The athlete wearing a black and white top",
+                "D. The athlete wearing a red top"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_35": {
+            "id": "E895PNqSgEI_35",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "Where does this scene take place?",
+            "options": [
+                "A. The scene takes place in an Olympic stadium.",
+                "B. The scene takes place in a high school gymnasium.",
+                "C. The scene takes place in a local park.",
+                "D. The scene takes place in a city square."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_36": {
+            "id": "E895PNqSgEI_36",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the scene?",
+            "options": [
+                "A. The environmental features include a red track.",
+                "B. The environment is filled with a large, festive crowd and a chaotic scene.",
+                "C. The environment depicts a quiet park.",
+                "D. The environment is a city street packed with vehicles."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_37": {
+            "id": "E895PNqSgEI_37",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "How is Andre De Grasse visually presented in the video?",
+            "options": [
+                "A. Depicted as calmly walking on the track after the race",
+                "B. Depicted as standing on the podium celebrating victory",
+                "C. Shown sitting on the sidelines talking with the cameraman.",
+                "D. Depicted as running on the track."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_38": {
+            "id": "E895PNqSgEI_38",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is Andre De Grasse wearing in the video?",
+            "options": [
+                "A. Wearing a red and white sleeveless uniform with 'CANADA' and the Canadian flag printed on the chest.",
+                "B. Wearing a blue uniform with 'USA' printed on the chest, holding the American flag.",
+                "C. Wearing a light gray shirt and beige pants with 'CANADA' and the Canadian flag printed on the chest.",
+                "D. Wearing a black and white uniform with 'USA' printed on the chest."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_39": {
+            "id": "E895PNqSgEI_39",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What equipment is the camera operator equipped with?",
+            "options": [
+                "A. The camera operator is equipped with a tripod camera and a handheld camera.",
+                "B. The camera operator is equipped with a handheld video recording device.",
+                "C. The camera operator is equipped with a shoulder-mounted microphone device.",
+                "D. The camera operator is equipped with a tripod digital camera."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_40": {
+            "id": "E895PNqSgEI_40",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many athletes are clearly visible in this scene?",
+            "options": [
+                "A. Two athletes",
+                "B. Three athletes",
+                "C. Five athletes",
+                "D. Six athletes"
+            ],
+            "answer": "D"
+        },
+        "E895PNqSgEI_41": {
+            "id": "E895PNqSgEI_41",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What does the overlay information for third place show?",
+            "options": [
+                "A. Overlay shows 'ATHLETICS Men's 100M 3RD PLACE – FINAL,' 'CAN ANDRE DE GRASSE'.",
+                "B. Overlay shows 'ATHLETICS Men's 100M WINNER,' 'USA FRED KERLEY'.",
+                "C. Overlay shows 'ATHLETICS Men’s 100M FINAL,' 'CAN ANDRE DE GRASSE'.",
+                "D. Overlay shows 'ATHLETICS Men’s 200M 3RD PLACE,' 'CAN ANDRE DE GRASSE'."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_42": {
+            "id": "E895PNqSgEI_42",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is Andre De Grasse located in the picture when taking a photo?",
+            "options": [
+                "A. Andre De Grasse is located on the left side of the picture.",
+                "B. Andre De Grasse is located in the center of the picture.",
+                "C. Andre De Grasse is located on the right side of the picture.",
+                "D. Andre De Grasse is located outside the picture."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_43": {
+            "id": "E895PNqSgEI_43",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment depicted in the scene?",
+            "options": [
+                "A. The scene depicts a spacious stadium.",
+                "B. The scene depicts a bustling stadium.",
+                "C. The scene depicts a small community gymnasium.",
+                "D. The scene depicts a tranquil park."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_44": {
+            "id": "E895PNqSgEI_44",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is Lamont Marcell Jacobs wearing in the scene?",
+            "options": [
+                "A. Lamont Marcell Jacobs is wearing a blue outfit.",
+                "B. Lamont Marcell Jacobs is wearing a red outfit.",
+                "C. Lamont Marcell Jacobs is wearing a green outfit.",
+                "D. Lamont Marcell Jacobs is wearing a blue and gray outfit."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_45": {
+            "id": "E895PNqSgEI_45",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is the symbol on Lamont Marcell Jacobs' clothing?",
+            "options": [
+                "A. His name 'JACOBS' and the number 3 on his thigh.",
+                "B. His name 'JACOBS' and the number 7 on his thigh.",
+                "C. His name 'PACOBS' and the number 3 on his thigh.",
+                "D. His name 'PACOBS' and the number 7 on his thigh."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_46": {
+            "id": "E895PNqSgEI_46",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What gesture is Lamont Marcell Jacobs making in the photo?",
+            "options": [
+                "A. He is holding the Italian flag with both hands.",
+                "B. He is holding the American flag and waving to the audience.",
+                "C. He is draping the Canadian flag over his shoulders and clapping.",
+                "D. He is spreading his arms to celebrate."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_47": {
+            "id": "E895PNqSgEI_47",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "How did Andre De Grasse hold the Canadian flag during the group photo?",
+            "options": [
+                "A. Andre De Grasse held the Canadian flag with both arms outstretched.",
+                "B. Andre De Grasse draped the Canadian flag over his shoulders.",
+                "C. Andre De Grasse waved the Canadian flag with one hand.",
+                "D. Andre De Grasse folded the Canadian flag and held it in his hand."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_48": {
+            "id": "E895PNqSgEI_48",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many athletes are clearly featured in close-up in the scene?",
+            "options": [
+                "A. Two athletes",
+                "B. Three athletes",
+                "C. Four athletes",
+                "D. Five athletes"
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_49": {
+            "id": "E895PNqSgEI_49",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "Who are the prominent athletes appearing in this scene?",
+            "options": [
+                "A. Andre De Grasse, Lamont Marcell Jacobs, and Fred Kerley",
+                "B. Andre De Grasse, Noah Lyles, and Fred Kerley",
+                "C. Lamont Marcell Jacobs, Usain Bolt, and Fred Kerley",
+                "D. Andre De Grasse, Lamont Marcell Jacobs, and Christian Coleman"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_50": {
+            "id": "E895PNqSgEI_50",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "Was the stadium seating crowded during the group photo?",
+            "options": [
+                "A. Yes, the stadium seating was completely full.",
+                "B. No, most of the stadium seating was empty.",
+                "C. Yes, there were a few scattered empty seats in the stadium.",
+                "D. No, about half of the stadium seating was occupied."
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_51": {
+            "id": "E895PNqSgEI_51",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used when athletes take group photos?",
+            "options": [
+                "A. Narrow camera angle focusing on target details.",
+                "B. Camera angle is widened to show a broader perspective.",
+                "C. Enlarged angle emphasizing close-ups of athletes.",
+                "D. Tilted camera angle capturing dynamic movement at an angle."
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_52": {
+            "id": "E895PNqSgEI_52",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Which visual element in the background indicates this event?",
+            "options": [
+                "A. 'TOKYO 2020'",
+                "B. 'OLYMPIC GAMES'",
+                "C. 'SPORTS FESTIVAL 2020'",
+                "D. 'WORLD CHAMPIONSHIPS'"
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_53": {
+            "id": "E895PNqSgEI_53",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the position of the 'TOKYO 2020' logo in graphic design?",
+            "options": [
+                "A. The 'TOKYO 2020' logo is located in the center.",
+                "B. The 'TOKYO 2020' logo is located in the upper left corner.",
+                "C. The 'TOKYO 2020' logo is located in the lower right corner.",
+                "D. The 'TOKYO 2020' logo is located on one side."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_54": {
+            "id": "E895PNqSgEI_54",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is Fred Kerley doing in the video?",
+            "options": [
+                "A. Fred Kerley is waving his national flag in celebration.",
+                "B. Fred Kerley is running on the track.",
+                "C. Fred Kerley is being interviewed on screen.",
+                "D. Fred Kerley is waving to the audience on the podium."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_55": {
+            "id": "E895PNqSgEI_55",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What does the promotional graphic design showcase?",
+            "options": [
+                "A. The Olympic rings logo, along with 'DISCOVER MORE' and 'tokyo2020.org'.",
+                "B. The Jakarta Asian Games emblem, along with 'DISCOVER MORE' and 'Jakarta2018.org'.",
+                "C. Highlights the TOKYO 2020 logo, accompanied by a scrolling list of participating countries.",
+                "D. Highlights the JAKARTA 2018 logo, accompanied by a scrolling list of participating countries."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_56": {
+            "id": "E895PNqSgEI_56",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is graphic design visually complex?",
+            "options": [
+                "A. Yes, graphic design is very complex and visually sophisticated.",
+                "B. No, graphic design style is minimalist, focusing on simplicity.",
+                "C. Yes, graphic design is full of detailed elements and vibrant colors.",
+                "D. No, graphic design only uses simple single-line drawings."
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_57": {
+            "id": "E895PNqSgEI_57",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the video narrative of the current scene?",
+            "options": [
+                "A. An abstract graphic design.",
+                "B. An interview about the athletes' performances.",
+                "C. A documentary about the history of the Olympics.",
+                "D. A montage of exciting sports moments from past Olympic Games."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_58": {
+            "id": "E895PNqSgEI_58",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in the promotional frame?",
+            "options": [
+                "A. The promotional frame uses a static angle, emphasizing simplicity and brand.",
+                "B. The promotional frame uses a dynamic panoramic shot, showcasing various athletes.",
+                "C. The promotional frame uses an aerial view, capturing the entire stadium.",
+                "D. The promotional frame uses a close-up angle, focusing on individual athletes."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_59": {
+            "id": "E895PNqSgEI_59",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What did the athletes do immediately before the start of the competition?",
+            "options": [
+                "A. The athletes took their positions in the starting blocks on the track.",
+                "B. The athletes are shaking hands with their opponents.",
+                "C. The athletes are warming up off the track.",
+                "D. The athletes are adjusting their running shoes."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_60": {
+            "id": "E895PNqSgEI_60",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is the role of the referee before the start of the competition?",
+            "options": [
+                "A. The referee stands aside holding a starting gun.",
+                "B. The referee waves a flag to start the competition.",
+                "C. The referee stands at the finish line to decide the winner.",
+                "A. The referee blows a whistle to start the competition."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_61": {
+            "id": "E895PNqSgEI_61",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What did the athlete in the red uniform do?",
+            "options": [
+                "A. The athlete in the red uniform (lane 5) leaned forward intensely.",
+                "B. The athlete in the red uniform (lane 5) stumbled and fell.",
+                "C. The athlete in the red uniform (lane 5) stayed at the starting line.",
+                "D. The athlete in the red uniform (lane 5) waved to the audience."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_62": {
+            "id": "E895PNqSgEI_62",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after Lamont Marcell Jacobs crosses the finish line?",
+            "options": [
+                "A. The focus shifts to Andre De Grasse walking calmly after the race.",
+                "B. The athletes immediately leave the track without acknowledging the audience.",
+                "C. Andre De Grasse cries and sits alone on the track, reflecting on his victory.",
+                "D. Lamont Marcell Jacobs, still catching his breath, begins an impromptu interview."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_63": {
+            "id": "E895PNqSgEI_63",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why is the athlete in the blue uniform significantly highlighted?",
+            "options": [
+                "A. To highlight his progress in taking the lead and eventually being the first to cross the finish line.",
+                "B. The blue uniform matches the brand promotion color, creating a visual association.",
+                "C. Because he is the only athlete participating in the Olympics for the first time.",
+                "D. The athlete in the blue uniform had the slowest start, contrasting with the final promotional image."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_64": {
+            "id": "E895PNqSgEI_64",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What did Andre De Grasse do after the race?",
+            "options": [
+                "A. Maintained a calm demeanor after the race.",
+                "B. Celebrated with the team.",
+                "C. Became emotional and was moved to tears after the race.",
+                "D. Interacted with fans, signing autographs and taking photos near the track."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_65": {
+            "id": "E895PNqSgEI_65",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How do the athletes demonstrate their national pride?",
+            "options": [
+                "A. The athletes performed a traditional dance.",
+                "B. The athletes held their respective national flags.",
+                "C. The athletes sang their national anthems.",
+                "D. The athletes wore special outfits representing their countries."
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_66": {
+            "id": "E895PNqSgEI_66",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the first event in the video?",
+            "options": [
+                "A. The race begins, and the sprinters take off from the starting blocks.",
+                "B. The race ends, and the athletes receive their medals.",
+                "C. The athletes rehearse the post-race celebration.",
+                "D. The stadium announcer introduces the athletes to the audience."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_67": {
+            "id": "E895PNqSgEI_67",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What was the initial focus of the camera after the game ended?",
+            "options": [
+                "A. The camera initially highlighted the reaction of a single athlete.",
+                "B. The camera initially focused on the Tokyo 2020 logo.",
+                "C. The camera initially captured the reaction of the audience in the stadium.",
+                "D. The camera initially showed a panoramic view of the entire stadium."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_68": {
+            "id": "E895PNqSgEI_68",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "After focusing on FRED KERLEY's reaction, what did the camera capture?",
+            "options": [
+                "A. The Tokyo 2020 emblem against a crimson background",
+                "B. The cheers of the audience in the stadium",
+                "C. Andre De Grasse walking calmly",
+                "D. Fireworks illuminating the night sky"
+            ],
+            "answer": "C"
+        },
+        "E895PNqSgEI_69": {
+            "id": "E895PNqSgEI_69",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "After showcasing Andre De Grasse, what is the camera's next focus?",
+            "options": [
+                "A. The camera turns to a moment of a celebrating group.",
+                "B. The camera zooms in on Andre De Grasse's medal.",
+                "C. The camera focuses on the flags flying in the stadium.",
+                "D. The camera immediately shows the Tokyo 2020 logo."
+            ],
+            "answer": "A"
+        },
+        "E895PNqSgEI_70": {
+            "id": "E895PNqSgEI_70",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is the final focus of the camera at the end of the video?",
+            "options": [
+                "A. The camera stays on the athlete holding the national flag.",
+                "B. The camera finally freezes on a static abstract graphic.",
+                "C. The camera shows the audience in the stadium.",
+                "D. The camera focuses on the award ceremony."
+            ],
+            "answer": "B"
+        },
+        "E895PNqSgEI_71": {
+            "id": "E895PNqSgEI_71",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why did Andre De Grasse appear calm after the race?",
+            "options": [
+                "A. Andre De Grasse's demeanor might reflect his satisfaction with finishing third in the race.",
+                "B. Andre De Grasse appeared calm because he won the gold medal in the race.",
+                "C. Andre De Grasse's calmness was because the race was postponed to another day.",
+                "D. Andre De Grasse appeared calm because he only gained confidence in his performance later."
+            ],
+            "answer": "A"
+        }
+    }
+}

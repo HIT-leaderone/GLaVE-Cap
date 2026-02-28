@@ -1,0 +1,1547 @@
+{
+    "scene_hint": {
+        "0": "The athlete is walking forward slowly.",
+        "1": "The athlete accelerates for a run-up.",
+        "2": "The athlete completed the jump.",
+        "3": "The athlete is lying on the mat.",
+        "4": "Jump replay",
+        "5": "The scene changes to the award ceremony.",
+        "6": "The scene changes to abstract geometric shapes."
+    },
+    "qa": {
+        "8y2Hj7GDcwI_0": {
+            "id": "8y2Hj7GDcwI_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the male athlete located?",
+            "options": [
+                "A. The male athlete is in the foreground.",
+                "B. The male athlete is in the background.",
+                "C. The male athlete is seated in the front row.",
+                "D. The male athlete is in the corner of the frame."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_1": {
+            "id": "8y2Hj7GDcwI_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the scoreboard located?",
+            "options": [
+                "A. The scoreboard is on the left side of the image.",
+                "B. The scoreboard is directly behind the athlete.",
+                "C. The scoreboard is on the right side of the image.",
+                "D. The scoreboard is above the athlete's head."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_2": {
+            "id": "8y2Hj7GDcwI_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the background of this scene?",
+            "options": [
+                "A. The scene is set in an art gallery showcasing sportswear.",
+                "B. The scene is set at a sports competition.",
+                "C. The scene is set at a meeting discussing sports brands.",
+                "D. The scene is set in the sportswear section of a shopping mall."
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_3": {
+            "id": "8y2Hj7GDcwI_3",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene?",
+            "options": [
+                "A. The background is bright yellow.",
+                "B. The background is deep blue.",
+                "C. The background is bright red.",
+                "D. The background is light green."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_4": {
+            "id": "8y2Hj7GDcwI_4",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is this male athlete wearing?",
+            "options": [
+                "A. This male athlete is wearing a black sports vest.",
+                "B. This male athlete is wearing a white sports vest.",
+                "C. This male athlete is wearing a blue sports vest.",
+                "D. This male athlete is wearing a red sports vest."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_5": {
+            "id": "8y2Hj7GDcwI_5",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What logos are on this male athlete's clothing?",
+            "options": [
+                "A. It displays the words 'NEW ZEALAND', the Puma logo, and the silver fern emblem.",
+                "B. It has the words 'AUSTRALIA', the Nike logo, and the kangaroo emblem.",
+                "C. It has the words 'USA', the Adidas logo, and the eagle emblem.",
+                "D. It has the words 'CANADA', the Reebok logo, and the maple leaf emblem."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_6": {
+            "id": "8y2Hj7GDcwI_6",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What does the male athlete's clothing indicate?",
+            "options": [
+                "A. It indicates that he represents New Zealand.",
+                "B. It indicates that he is associated with Adidas.",
+                "C. It indicates that he is the coach of the New Zealand team.",
+                "D. It indicates that he is a high jump judge."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_7": {
+            "id": "8y2Hj7GDcwI_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the title displayed on the scoreboard?",
+            "options": [
+                "A. FINAL MEN'S HIGH JUMP",
+                "B. MEN'S 100M SPRINT",
+                "C. FINAL WOMEN'S HIGH JUMP",
+                "D. MEN'S LONG JUMP FINAL"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_8": {
+            "id": "8y2Hj7GDcwI_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is displayed in the rightmost column on the scoreboard?",
+            "options": [
+                "A. Country",
+                "B. Height",
+                "C. Time",
+                "D. Score"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_9": {
+            "id": "8y2Hj7GDcwI_9",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What are some of the athletes' names and their jump heights displayed on the scoreboard?",
+            "options": [
+                "A. Macsweyn (2.28m), Woo (2.28m), Doroshchuk (2.24m), Stefela (2.24m), others",
+                "B. Macsweyn (2.35m), Woo (2.30m), Carmoy (2.18m), Stefela (2.24m), others",
+                "C. Doroshchuk (2.25m), Thomas (2.20m), Kerr (2.33m), Rivera (2.22m), others",
+                "D. McEwen (2.29m), Turner (2.19m), Akamatsu (2.16m), Kobielski (2.21m), others"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_10": {
+            "id": "8y2Hj7GDcwI_10",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many athletes are ranked on the scoreboard?",
+            "options": [
+                "A. 9 athletes",
+                "B. 10 athletes",
+                "C. 11 athletes",
+                "D. 12 athletes"
+            ],
+            "answer": "D"
+        },
+        "8y2Hj7GDcwI_11": {
+            "id": "8y2Hj7GDcwI_11",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Does the scoreboard include the name 'KERR'?",
+            "options": [
+                "A. Yes, the scoreboard includes the name 'KERR'.",
+                "B. No, the name on the scoreboard is 'KEPP'.",
+                "C. The name 'KERR' was mentioned, but it did not appear on the scoreboard.",
+                "B. No, the name on the scoreboard is 'FERR'."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_12": {
+            "id": "8y2Hj7GDcwI_12",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "How is the text on the background arranged?",
+            "options": [
+                "A. The text on the background spans across the image behind the athlete.",
+                "B. The text on the background is arranged vertically in columns.",
+                "C. The text on the background is displayed in a circular pattern.",
+                "D. The text on the background is confined to the bottom right corner."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_13": {
+            "id": "8y2Hj7GDcwI_13",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What does the text on the background display?",
+            "options": [
+                "A. The text on the background highlights the city where the competition is held.",
+                "B. The text on the background displays the detailed schedule of the event.",
+                "C. The text on the background lists the names of all participants.",
+                "D. The text on the background highlights the sponsors of the event."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_14": {
+            "id": "8y2Hj7GDcwI_14",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of lens is used to film athletes?",
+            "options": [
+                "A. The camera uses a medium-close lens.",
+                "B. The camera uses a wide-angle lens.",
+                "C. The camera uses a close-up lens.",
+                "D. The camera uses a long shot lens."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_15": {
+            "id": "8y2Hj7GDcwI_15",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Does the video indicate speed or movement?",
+            "options": [
+                "A. Yes, the video shows the athlete moving in the air.",
+                "B. Yes, the video shows the athlete running.",
+                "C. No, the video shows the athlete is static.",
+                "D. Yes, the video shows the athlete walking forward."
+            ],
+            "answer": "D"
+        },
+        "8y2Hj7GDcwI_16": {
+            "id": "8y2Hj7GDcwI_16",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "In which direction is the athlete moving in the picture?",
+            "options": [
+                "A. The athlete is moving towards the left side of the picture.",
+                "B. The athlete is moving towards the right side of the picture.",
+                "C. The athlete is moving towards the top of the picture.",
+                "D. The athlete is moving towards the center of the picture."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_17": {
+            "id": "8y2Hj7GDcwI_17",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where does this video take place?",
+            "options": [
+                "A. In a gymnasium with a basketball court",
+                "B. On the track at the stadium",
+                "C. On a tennis court surrounded by grass",
+                "D. On a skating rink with plastic barriers"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_18": {
+            "id": "8y2Hj7GDcwI_18",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the overall background of this video?",
+            "options": [
+                "A. The overall background includes yellow sponsor banners and blurred audience.",
+                "B. The overall background includes a quiet library.",
+                "C. The overall background includes a busy city street.",
+                "D. The overall background includes a tranquil beach."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_19": {
+            "id": "8y2Hj7GDcwI_19",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the athlete wearing on the upper body?",
+            "options": [
+                "A. A black sleeveless sports vest with a simple design.",
+                "B. A bright orange sleeveless sports vest.",
+                "C. A white long-sleeved sports top.",
+                "D. A red sleeveless sports vest."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_20": {
+            "id": "8y2Hj7GDcwI_20",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What markings are on the athlete's upper body clothing?",
+            "options": [
+                "A. It has 'NEW ZEALAND', the Puma logo, and the silver fern emblem printed on it.",
+                "B. It has 'AUSTRALIA', the Nike logo, and the kangaroo emblem printed on it.",
+                "C. It has 'USA', the Adidas logo, and the eagle emblem printed on it.",
+                "D. It has 'CHINA', the Reebok logo, and the dragon emblem printed on it."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_21": {
+            "id": "8y2Hj7GDcwI_21",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the athlete wearing on the lower body?",
+            "options": [
+                "A. Black shorts",
+                "B. Bright orange sweatpants",
+                "C. Black and white shorts",
+                "D. Blue shorts with white patterns"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_22": {
+            "id": "8y2Hj7GDcwI_22",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What shoes is this athlete wearing?",
+            "options": [
+                "A. Bright orange sneakers",
+                "B. Red and white running shoes",
+                "C. Black and white sneakers",
+                "D. Blue-green track shoes"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_23": {
+            "id": "8y2Hj7GDcwI_23",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many different sponsor banners are visible in the video?",
+            "options": [
+                "A. Two different yellow sponsor banners",
+                "B. Three different yellow sponsor banners",
+                "C. Four different yellow sponsor banners",
+                "D. The number of sponsor banners is unclear, but they are yellow"
+            ],
+            "answer": "D"
+        },
+        "8y2Hj7GDcwI_24": {
+            "id": "8y2Hj7GDcwI_24",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Does the video contain a leaderboard overlay panel?",
+            "options": [
+                "A. Yes, but the leaderboard overlay panel is collapsed into a single line 'MEN'S HIGH JUMP|FINAL'.",
+                "B. No, the video does not contain a leaderboard overlay panel.",
+                "C. Yes, the video contains a leaderboard overlay panel, but it does not change.",
+                "D. No, the video only shows athletes without any other identifiers."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_25": {
+            "id": "8y2Hj7GDcwI_25",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What perspective does the camera use to capture the athlete's movements?",
+            "options": [
+                "A. The camera captures the athlete's movements from a medium wide-angle perspective.",
+                "B. The camera captures the athlete's movements entirely from a bird's-eye view.",
+                "C. The camera focuses on capturing the athlete's movements from a fixed side angle.",
+                "D. The camera consistently captures the athlete's movements from a low-angle, ground-level perspective."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_26": {
+            "id": "8y2Hj7GDcwI_26",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What are the athlete's movements captured in the video like?",
+            "options": [
+                "A. The athlete's running speed gradually increases.",
+                "B. The athlete transitions from running to jogging.",
+                "C. The athlete transitions from stretching on the ground to sitting on a bench.",
+                "D. The athlete transitions from walking around the field to sitting in the stands."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_27": {
+            "id": "8y2Hj7GDcwI_27",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "In the picture, where is the high jump bar set in relation to the athlete's position?",
+            "options": [
+                "A. The high jump bar is set on the left side of the picture.",
+                "B. The high jump bar is set on the right side of the picture.",
+                "C. The high jump bar is set in the center of the picture.",
+                "D. The high jump bar is set at the bottom of the picture."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_28": {
+            "id": "8y2Hj7GDcwI_28",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What are the features of the scene foreground in the video?",
+            "options": [
+                "A. The scene foreground is an athletics track marked with lane lines.",
+                "B. The foreground includes blurred spectators in the stands.",
+                "C. The foreground is dominated by bright yellow banners.",
+                "D. The foreground shows a padded bar apparatus used for high jumping."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_29": {
+            "id": "8y2Hj7GDcwI_29",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What kind of lighting is used in the video scene?",
+            "options": [
+                "A. The video scene uses professional stadium lighting.",
+                "B. The lighting in the video scene is dim and soft.",
+                "C. The video scene has natural sunlight.",
+                "D. The video scene has colorful flashing lights."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_30": {
+            "id": "8y2Hj7GDcwI_30",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "In the video, how does the athlete approach the high jump bar?",
+            "options": [
+                "A. The athlete is approaching slowly.",
+                "B. The athlete is approaching quickly and powerfully.",
+                "C. The athlete is approaching in a disorganized manner.",
+                "D. The athlete is approaching hesitantly."
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_31": {
+            "id": "8y2Hj7GDcwI_31",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "How do the athlete's arms move in the video?",
+            "options": [
+                "A. His arms remain stationary at his sides.",
+                "B. His arms adjust to balance his momentum while sprinting.",
+                "C. His arms are crossed in front of his chest.",
+                "D. His arms are raised above his head."
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_32": {
+            "id": "8y2Hj7GDcwI_32",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Are the audience members in the background clearly visible?",
+            "options": [
+                "A. Yes, the audience's appearance is clear and distinct.",
+                "B. No, the audience is blurry and unclear.",
+                "C. Yes, the audience members are easy to identify.",
+                "D. No, there are no audience members in the scene at all."
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_33": {
+            "id": "8y2Hj7GDcwI_33",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "Which direction does the athlete move towards when approaching the high jump bar?",
+            "options": [
+                "A. The athlete is facing the high jump bar.",
+                "B. The athlete is moving away from the high jump bar.",
+                "C. The athlete is running parallel to the high jump bar.",
+                "D. The athlete is moving in a circular motion around the high jump bar."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_34": {
+            "id": "8y2Hj7GDcwI_34",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What camera angle was used to capture this scene?",
+            "options": [
+                "A. A high-angle shot was used.",
+                "B. A low-angle shot was used.",
+                "C. A level-angle shot was used.",
+                "D. An overhead-angle shot was used."
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_35": {
+            "id": "8y2Hj7GDcwI_35",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the person next to the high jump bar in relation to the athlete's track?",
+            "options": [
+                "A. Located on the left side of the screen, near the track.",
+                "B. Located on the right side of the screen, near the spectator seating area.",
+                "C. Located at the far end of the track, standing near the high jump bar.",
+                "D. Located in the center of the screen, crossing the track."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_36": {
+            "id": "8y2Hj7GDcwI_36",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What actions did the athlete display?",
+            "options": [
+                "A. The athlete accelerated with greater focus and intensity, consciously swinging their arms to maintain balance.",
+                "B. The athlete is jogging at a steady pace, looking around the stadium, and making only minimal arm movements.",
+                "C. The athlete stands still, waiting for their turn, while observing the audience.",
+                "D. The athlete walks slowly, raising their arms to maintain balance, keeping a relaxed posture."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_37": {
+            "id": "8y2Hj7GDcwI_37",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What color is the number bib that the athlete is wearing?",
+            "options": [
+                "A. The athlete is wearing a red number bib.",
+                "B. The athlete is wearing a blue number bib.",
+                "C. The athlete is wearing a white number bib.",
+                "D. The athlete is wearing a black number bib."
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_38": {
+            "id": "8y2Hj7GDcwI_38",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "What happens to the second yellow device when the camera pans to the left?",
+            "options": [
+                "A. The yellow device moves further into the background.",
+                "B. The yellow device becomes more prominent.",
+                "C. The yellow device disappears from view.",
+                "D. The yellow device remains stationary."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_39": {
+            "id": "8y2Hj7GDcwI_39",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What is the impact of the panning motion of the camera on the composition of the scene?",
+            "options": [
+                "A. The panning motion expands the field of view, introducing new elements.",
+                "B. The panning motion narrows the field of view, focusing only on the setup of the high jump bar.",
+                "C. The panning motion blurs the athlete, highlighting the audience in the background.",
+                "D. The panning motion removes static overlay text, focusing on the yellow equipment."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_40": {
+            "id": "8y2Hj7GDcwI_40",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "How does the panning motion of the camera affect the setup of the high jump bar?",
+            "options": [
+                "A. The panning motion makes the setup of the high jump bar blurry.",
+                "B. The panning motion makes the setup of the high jump bar clearer.",
+                "C. The panning motion makes the setup of the high jump bar appear closer.",
+                "D. The panning motion makes the setup of the high jump bar more prominent in the frame."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_41": {
+            "id": "8y2Hj7GDcwI_41",
+            "scene": 1,
+            "dimension": "Camera Direction",
+            "question": "What effect does the panning motion of the camera have on the focus of the scene?",
+            "options": [
+                "A. The panning motion highlights the athlete as the focus.",
+                "B. The panning motion focuses on the audience in the upper right corner of the background.",
+                "C. The panning motion makes the referee or observer the center of attention.",
+                "D. The panning motion highlights the red cushion area in the lower left corner."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_42": {
+            "id": "8y2Hj7GDcwI_42",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "In the entire scene, which text remains stationary?",
+            "options": [
+                "A. The 'MEN'S HIGH JUMP|FINAL' in the lower left corner.",
+                "B. The red mat area in the lower left corner.",
+                "C. The yellow equipment visible in the early footage.",
+                "D. The 'New Zealand' lettering on the athlete's jersey."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_43": {
+            "id": "8y2Hj7GDcwI_43",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the photographer's position relative to the athlete?",
+            "options": [
+                "A. The photographer is located to the left rear of the athlete.",
+                "B. The photographer is located to the right front of the athlete.",
+                "C. The photographer is located to the left front of the athlete.",
+                "D. The photographer is located to the right rear of the athlete."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_44": {
+            "id": "8y2Hj7GDcwI_44",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "Where is the background of this video?",
+            "options": [
+                "A. The background of the video is an indoor track and field scene.",
+                "B. The background of the video is an outdoor training facility for track and field athletes.",
+                "C. The background of the video is in a public park.",
+                "D. The background of the video is in the gymnasium of a basketball championship."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_45": {
+            "id": "8y2Hj7GDcwI_45",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the photographer next to the mat doing in the video?",
+            "options": [
+                "A. The photographer is standing facing his camera.",
+                "B. The photographer is standing and waving.",
+                "C. The photographer is sitting and adjusting the lighting.",
+                "D. The photographer is running and calling for support."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_46": {
+            "id": "8y2Hj7GDcwI_46",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What equipment can be seen?",
+            "options": [
+                "A. You can see the red and blue striped mats and part of the high jump equipment.",
+                "B. You can see the electronic screen and part of the track.",
+                "C. You can see the orange striped poles and the tiered seating area.",
+                "D. You can see the red and white striped mats and part of the high jump equipment."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_47": {
+            "id": "8y2Hj7GDcwI_47",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many photographers can be seen in the scene?",
+            "options": [
+                "A. One photographer",
+                "B. Two photographers",
+                "C. Three photographers",
+                "D. No photographers"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_48": {
+            "id": "8y2Hj7GDcwI_48",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Is the upper body of the jumping athlete visible in the video?",
+            "options": [
+                "A. Yes, only the upper body of the jumping athlete is visible.",
+                "B. No, the upper body of the jumping athlete is completely invisible.",
+                "C. Only the athlete's head and arms are visible.",
+                "D. The athlete's entire body is visible."
+            ],
+            "answer": "D"
+        },
+        "8y2Hj7GDcwI_49": {
+            "id": "8y2Hj7GDcwI_49",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "In which direction is the athlete's body facing at the highest point in the jump?",
+            "options": [
+                "A. The high jump bar is directly above the athlete's body.",
+                "B. The high jump bar is directly below the athlete's body.",
+                "C. The high jump bar is in front of the athlete's body.",
+                "D. The high jump bar is beside the athlete's body."
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_50": {
+            "id": "8y2Hj7GDcwI_50",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What perspective does the camera use in this scene?",
+            "options": [
+                "A. The camera uses a bird's-eye view.",
+                "B. The camera uses a side view.",
+                "C. The camera uses a front view.",
+                "D. The camera uses a close-up view."
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_51": {
+            "id": "8y2Hj7GDcwI_51",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What text is overlaid on the screen to emphasize the background of the scene?",
+            "options": [
+                "A. 'MEN'S HIGH JUMP | FINAL'",
+                "B. 'WOMEN'S HIGH JUMP | FINAL'",
+                "C. 'MEN'S LONG JUMP | FINAL'",
+                "D. 'MEN'S HIGH JUMP | SEMIFINAL'"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_52": {
+            "id": "8y2Hj7GDcwI_52",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the male athlete in relation to the blue mat?",
+            "options": [
+                "A. The male athlete is lying on his back on the blue mat.",
+                "B. The male athlete is sitting next to the blue mat.",
+                "C. The male athlete is standing next to the blue mat.",
+                "D. The male athlete is kneeling on the blue mat."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_53": {
+            "id": "8y2Hj7GDcwI_53",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene in the video take place?",
+            "options": [
+                "A. The scene takes place at an indoor high jump competition venue.",
+                "B. The scene takes place during a surfing event on the beach.",
+                "C. The scene takes place in an outdoor marathon race.",
+                "D. The scene takes place in a busy city street race."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_54": {
+            "id": "8y2Hj7GDcwI_54",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What kind of pattern is on the mat?",
+            "options": [
+                "A. The mat has dynamic abstract patterns.",
+                "B. The mat has geometric patterns with circles and squares.",
+                "C. The mat has wide lines of different colors.",
+                "D. The mat has floral patterns in soft tones."
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_55": {
+            "id": "8y2Hj7GDcwI_55",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What colors are on the mat?",
+            "options": [
+                "A. The mat has pink and green tones.",
+                "B. The mat is completely blue.",
+                "C. The mat has purple and yellow tones.",
+                "D. The mat has yellow and blue patterns."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_56": {
+            "id": "8y2Hj7GDcwI_56",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many text overlays are there in the video frame?",
+            "options": [
+                "A. There is one text overlay in the video frame.",
+                "B. There are two text overlays in the video frame.",
+                "C. There are three text overlays in the video frame.",
+                "D. There are no text overlays in the video frame."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_57": {
+            "id": "8y2Hj7GDcwI_57",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Is there a red track in the video scene?",
+            "options": [
+                "A. Yes, there is a red track in the video scene.",
+                "B. The scene only shows a white track.",
+                "C. The scene only shows a green track.",
+                "D. There is no visible track in the scene."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_58": {
+            "id": "8y2Hj7GDcwI_58",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What adjustments did the male athlete make to his posture while lying on the mat?",
+            "options": [
+                "A. The male athlete spread his arms and laid them down.",
+                "B. The male athlete stood up and walked around the mat.",
+                "C. The male athlete performed stretching exercises on the mat.",
+                "D. The male athlete made no changes in movement."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_59": {
+            "id": "8y2Hj7GDcwI_59",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "Which actions of male athletes indicate they are in a natural post-game recovery state?",
+            "options": [
+                "A. The rise and fall of the male athlete's chest indicates he is in a natural post-game recovery state.",
+                "B. The sudden jumping and running of the male athlete indicate he is preparing for the next attempt.",
+                "C. The stiff and motionless posture of the male athlete indicates he is deeply focused.",
+                "D. The continuous interaction of the male athlete with the coach indicates he is discussing strategy."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_60": {
+            "id": "8y2Hj7GDcwI_60",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "In which direction is the male athlete's upper body moving?",
+            "options": [
+                "A. The male athlete's upper body is moving towards the background.",
+                "B. The male athlete's upper body is moving towards the left side of the mat.",
+                "C. The male athlete's upper body is moving towards the foreground.",
+                "D. The male athlete's upper body is not visible."
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_61": {
+            "id": "8y2Hj7GDcwI_61",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "How does the perspective of the lens change in the frame?",
+            "options": [
+                "A. The camera angle tightens and moves closer to the athlete.",
+                "B. The camera pulls back.",
+                "C. The camera switches to a wide-angle view.",
+                "D. The camera focuses on the high jump equipment."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_62": {
+            "id": "8y2Hj7GDcwI_62",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What does the close-up shot highlight?",
+            "options": [
+                "A. The close-up shot highlights his relaxed posture, clothing, upper body, and muscle lines.",
+                "B. The close-up shot highlights the vibrant patterns on the mat.",
+                "C. The close-up shot highlights the red track and its clear white lines.",
+                "D. The close-up shot highlights structural elements, such as the red and white striped pole."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_63": {
+            "id": "8y2Hj7GDcwI_63",
+            "scene": 3,
+            "dimension": "Speed",
+            "question": "What can be said about the speed of scene changes?",
+            "options": [
+                "A. The changes in the scene are subtle and gradual.",
+                "B. The changes in the scene are rapid and dynamic.",
+                "C. The changes in the scene are sudden and slow.",
+                "D. The changes in the scene do not exist."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_64": {
+            "id": "8y2Hj7GDcwI_64",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Which visual element in the lower left corner reinforces the competitive environment?",
+            "options": [
+                "A. Text 'MEN'S HIGH JUMP | FINAL'",
+                "B. Red and white alternating leaderboard",
+                "C. Countdown electronic screen",
+                "D. Text 'MEN'S HIGH JUMP | Semifinals'"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_65": {
+            "id": "8y2Hj7GDcwI_65",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the athlete and the orange and white pole?",
+            "options": [
+                "A. The athlete is holding the orange and white pole.",
+                "B. The orange and white pole partially obscures the lower half of the athlete's body.",
+                "C. The orange and white pole is lying next to the athlete.",
+                "D. The orange and white pole is above the athlete's head."
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_66": {
+            "id": "8y2Hj7GDcwI_66",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What are the athlete's notable physical features?",
+            "options": [
+                "A. This athlete has short brown hair.",
+                "B. This athlete has long blonde hair.",
+                "C. This athlete has a clean-shaven face and black hair.",
+                "D. This athlete has a beard and curly hair."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_67": {
+            "id": "8y2Hj7GDcwI_67",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What is the athlete wearing?",
+            "options": [
+                "A. Red sportswear",
+                "B. Green sportswear",
+                "C. Black sportswear",
+                "D. White sportswear"
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_68": {
+            "id": "8y2Hj7GDcwI_68",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Did the athlete's position on the mat change in the video?",
+            "options": [
+                "A. Yes, the athlete changed positions multiple times.",
+                "B. No, the athlete's position remained the same throughout.",
+                "C. Yes, the athlete occasionally moved his legs.",
+                "D. Yes, the athlete frequently stood up and lay down."
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_69": {
+            "id": "8y2Hj7GDcwI_69",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What does the athlete do with his head in the video?",
+            "options": [
+                "A. He turns his head slightly to the left.",
+                "B. He tilts his head backward.",
+                "C. He turns his head to the right.",
+                "D. He keeps his head still."
+            ],
+            "answer": "D"
+        },
+        "8y2Hj7GDcwI_70": {
+            "id": "8y2Hj7GDcwI_70",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "Which direction does the overlapping white elliptical line extend?",
+            "options": [
+                "A. The overlapping white elliptical line extends to the upper left.",
+                "B. The overlapping white elliptical line extends inward.",
+                "C. The overlapping white elliptical line extends to the lower right.",
+                "D. The overlapping white elliptical line extends horizontally."
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_71": {
+            "id": "8y2Hj7GDcwI_71",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "How can the camera transition to focus on the athlete's outstretched arms?",
+            "options": [
+                "A. The camera gradually zooms in from afar.",
+                "B. The camera directly zooms in on the athlete's arms.",
+                "C. The camera moves to an overhead angle.",
+                "D. The camera pans along the blue mat."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_72": {
+            "id": "8y2Hj7GDcwI_72",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What visual elements were added to transition the scene?",
+            "options": [
+                "A. Overlaid white oval lines",
+                "B. Green and white elements on the mat",
+                "C. Orange and white poles",
+                "D. Red and gray track lines"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_73": {
+            "id": "8y2Hj7GDcwI_73",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "What position is the athlete in during the jump?",
+            "options": [
+                "A. The athlete is above the horizontal bar.",
+                "B. The athlete is below the horizontal bar.",
+                "C. The athlete is beside the horizontal bar.",
+                "D. The athlete is at the edge of the horizontal bar."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_74": {
+            "id": "8y2Hj7GDcwI_74",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What type of venue is depicted in the video?",
+            "options": [
+                "A. Indoor sports hall",
+                "B. Outdoor track and field",
+                "C. Gym used for training",
+                "D. Amusement park"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_75": {
+            "id": "8y2Hj7GDcwI_75",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What activities are taking place in the video?",
+            "options": [
+                "A. A high jump competition with spectators watching.",
+                "B. A fiercely competitive basketball game.",
+                "C. A swimming competition with spectators cheering.",
+                "D. A gymnastics performance with a live band accompaniment."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_76": {
+            "id": "8y2Hj7GDcwI_76",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What does the athlete wear while jumping in the air?",
+            "options": [
+                "A. Wears a black and white uniform with orange sports shoes.",
+                "B. Wears a dark blue uniform with silver running shoes.",
+                "C. Wears an all-black uniform with yellow sports shoes.",
+                "D. Wears a red and white uniform with white sports shoes."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_77": {
+            "id": "8y2Hj7GDcwI_77",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What are the visual characteristics of high jump rods?",
+            "options": [
+                "A. High jump rods are bright magenta.",
+                "B. High jump rods are bright yellow.",
+                "C. High jump rods are bright orange.",
+                "D. High jump rods are metallic silver."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_78": {
+            "id": "8y2Hj7GDcwI_78",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What are the visual characteristics of the poles supporting the high jump bar?",
+            "options": [
+                "A. The poles are orange and yellow.",
+                "B. The poles are black.",
+                "C. The poles are red and blue.",
+                "D. The poles are green."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_79": {
+            "id": "8y2Hj7GDcwI_79",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many athletes demonstrated sports moves?",
+            "options": [
+                "A. One athlete demonstrated.",
+                "B. Two athletes demonstrated.",
+                "C. Three athletes demonstrated.",
+                "D. Four athletes demonstrated."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_80": {
+            "id": "8y2Hj7GDcwI_80",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What athletic actions are the athletes performing?",
+            "options": [
+                "A. The athlete is performing high jump.",
+                "B. The athlete is performing long jump.",
+                "C. The athlete is performing high jump.",
+                "D. The athlete is performing pole vault."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_81": {
+            "id": "8y2Hj7GDcwI_81",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Did the athlete clear the bar?",
+            "options": [
+                "A. Yes, the athlete cleared the bar.",
+                "B. No, the high jumper did not clear it.",
+                "C. The athlete did not attempt the high jump.",
+                "D. The athlete is depicted as running on the track."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_82": {
+            "id": "8y2Hj7GDcwI_82",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What technique do athletes use to clear the bar?",
+            "options": [
+                "A. Athletes use the 'Fosbury Flop' technique.",
+                "B. Athletes use the 'Scissors Jump' technique.",
+                "C. Athletes use the 'Cartwheel' technique.",
+                "D. Athletes use the 'Front Flip' technique."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_83": {
+            "id": "8y2Hj7GDcwI_83",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "In the abstract scene, in which direction does the curved white arc flow?",
+            "options": [
+                "A. The curved white arc flows from the top right corner to the bottom left corner.",
+                "B. The curved white arc flows from the bottom left corner to the top right corner.",
+                "C. The curved white arc flows from the top left corner to the bottom right corner.",
+                "D. The curved white arc flows from the bottom right corner to the top left corner."
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_84": {
+            "id": "8y2Hj7GDcwI_84",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "Does the camera angle change the focus?",
+            "options": [
+                "A. Yes, the camera angle changed the focus once.",
+                "B. No, the camera angle remained stationary.",
+                "A. Yes, the camera angle changed the focus three times.",
+                "D. No, the camera angle zoomed out slightly but did not change the focus."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_85": {
+            "id": "8y2Hj7GDcwI_85",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What perspective does the second camera angle emphasize?",
+            "options": [
+                "A. It captured the athlete's facial expressions in detail.",
+                "B. It highlighted the height of the jump with a slightly low-angle close-up shot.",
+                "C. It showcased the audience's reactions with a wide-angle lens.",
+                "D. It provided an overhead view, highlighting the layout of the entire stadium."
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_86": {
+            "id": "8y2Hj7GDcwI_86",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens was used in the first shot angle?",
+            "options": [
+                "A. A close-up lens was used.",
+                "B. A wide-angle lens was used.",
+                "C. An overhead shot lens was used.",
+                "D. A side-view lens was used."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_87": {
+            "id": "8y2Hj7GDcwI_87",
+            "scene": 4,
+            "dimension": "Speed",
+            "question": "How does the athlete's speed change when on the mat?",
+            "options": [
+                "A. The speed is very slow because the athlete relaxes and lies on the mat after jumping.",
+                "B. The speed is very fast because the athlete is preparing for the next jump.",
+                "C. The speed is moderate because the athlete is stretching on the mat.",
+                "D. The speed is increasing because the athlete is practicing jumping techniques."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_88": {
+            "id": "8y2Hj7GDcwI_88",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is Hamish Kerr's position relative to other medalists?",
+            "options": [
+                "A. Hamish Kerr is on the left side of the third place on the podium.",
+                "B. Hamish Kerr is on the right side of the second place on the podium.",
+                "C. Hamish Kerr is in the first place position on the podium.",
+                "D. Hamish Kerr did not make it to the podium and has no ranking."
+            ],
+            "answer": "C"
+        },
+        "8y2Hj7GDcwI_89": {
+            "id": "8y2Hj7GDcwI_89",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene?",
+            "options": [
+                "A. The scene is set in an indoor sports arena.",
+                "B. The scene is set in an outdoor Olympic track and field stadium.",
+                "C. The scene is set in an entertainment hall.",
+                "D. The scene is set in a community sports center."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_90": {
+            "id": "8y2Hj7GDcwI_90",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What structural elements are in the scene?",
+            "options": [
+                "A. The scene includes a podium and lighting equipment.",
+                "B. The scene includes a large trophy display case and a golden arch.",
+                "C. The scene includes fountains and decorative statues.",
+                "D. The scene includes a hanging scoreboard and hanging banners."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_91": {
+            "id": "8y2Hj7GDcwI_91",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What advertisements can be seen in the scene?",
+            "options": [
+                "A. There is a digital billboard with the 'TDK' brand.",
+                "B. The Coca-Cola advertisement is prominently displayed on the wall.",
+                "C. The Nike logo is on the banners around the stadium.",
+                "D. There are no visible advertisements in the scene."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_92": {
+            "id": "8y2Hj7GDcwI_92",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "Can the audience be seen at the award ceremony venue?",
+            "options": [
+                "A. The stands are filled with cheering spectators.",
+                "B. Some empty seats in the audience can be seen.",
+                "C. The stands are completely empty, with no seats visible.",
+                "D. The audience can be seen waving flags and cheering."
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_93": {
+            "id": "8y2Hj7GDcwI_93",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What gesture did the gold medalist Hamish Kerr make at the award ceremony?",
+            "options": [
+                "A. Hamish Kerr proudly raised both arms to lift the New Zealand flag.",
+                "B. Hamish Kerr knelt down to tie his shoelaces.",
+                "C. Hamish Kerr waved to the audience with both hands.",
+                "D. Hamish Kerr did a backflip off the podium."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_94": {
+            "id": "8y2Hj7GDcwI_94",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What gesture did silver medalist Shelby McEwen make at the award ceremony?",
+            "options": [
+                "A. Shelby McEwen draped in the American flag raised his arms.",
+                "B. Shelby McEwen performed a dance.",
+                "C. Shelby McEwen bowed to the audience.",
+                "D. Shelby McEwen gave a speech."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_95": {
+            "id": "8y2Hj7GDcwI_95",
+            "scene": 5,
+            "dimension": "Fine Grained Action",
+            "question": "What gesture did bronze medalist Sanghyeok Woo make during the award ceremony?",
+            "options": [
+                "A. Sanghyeok Woo raised both arms while holding the South Korean flag.",
+                "B. Sanghyeok Woo waved to the audience with both hands.",
+                "C. Sanghyeok Woo bowed to express gratitude to the audience.",
+                "D. Sanghyeok Woo held the South Korean flag with one hand and pointed to the scoreboard with the other."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_96": {
+            "id": "8y2Hj7GDcwI_96",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What visible patterns are on the flag held by the bronze medalist?",
+            "options": [
+                "A. Black four trigrams symbols",
+                "B. Red and white stripes and a blue star",
+                "C. A red maple leaf",
+                "D. A green cedar tree"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_97": {
+            "id": "8y2Hj7GDcwI_97",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many athletes are standing on the podium?",
+            "options": [
+                "A. Two athletes",
+                "B. Three athletes",
+                "C. Four athletes",
+                "D. One athlete"
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_98": {
+            "id": "8y2Hj7GDcwI_98",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Does the scoreboard below the athlete display the event and results?",
+            "options": [
+                "A. Yes, the scoreboard below the athlete displays the event and results.",
+                "B. No, the scoreboard only displays advertisements.",
+                "C. No, it only shows the athlete's name, not the results.",
+                "D. No, the scoreboard is turned off during the award ceremony."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_99": {
+            "id": "8y2Hj7GDcwI_99",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What type of shots were used in the award ceremony to convey a celebratory atmosphere?",
+            "options": [
+                "A. A close-up or medium shot.",
+                "B. A macro shot.",
+                "C. An overhead shot.",
+                "D. A long shot."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_100": {
+            "id": "8y2Hj7GDcwI_100",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "According to the text on the podium, what was the result achieved by the gold medalist?",
+            "options": [
+                "A. The gold medalist completed a jump with a result of 2.36 meters.",
+                "B. The gold medalist completed a jump with a result of 2.28 meters.",
+                "C. The gold medalist completed a jump with a result of 2.42 meters.",
+                "D. The gold medalist completed a jump with a result of 2.30 meters."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_101": {
+            "id": "8y2Hj7GDcwI_101",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How did the silver and bronze medalists perform on the podium?",
+            "options": [
+                "A. Both the silver and bronze medalists achieved 2.28 meters.",
+                "B. The silver medalist achieved 2.30 meters, while the bronze medalist achieved 2.28 meters.",
+                "C. The silver medalist achieved 2.28 meters, while the bronze medalist achieved 2.26 meters.",
+                "D. Both the silver and bronze medalists achieved 2.30 meters."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_102": {
+            "id": "8y2Hj7GDcwI_102",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "When transitioning in abstract scenes, which object becomes the central element?",
+            "options": [
+                "A. Abstract, angular geometric shapes",
+                "B. A solid purple area with an X pattern",
+                "C. A blue grid with intersecting diagonals",
+                "D. A rainbow-like pattern composed of pink and magenta semicircular arcs"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_103": {
+            "id": "8y2Hj7GDcwI_103",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Is there any text embedded in the last scene of the video?",
+            "options": [
+                "A. Yes, there is English text embedded in the last scene.",
+                "B. No, there is no text in the last scene.",
+                "C. Yes, but only part of the text is visible.",
+                "D. Yes, there is bilingual text in Chinese and English embedded in the last scene."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_104": {
+            "id": "8y2Hj7GDcwI_104",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What text is included in the last scene of the video?",
+            "options": [
+                "A. 'WORLD ATHLETICS,' 'INDOOR CHAMPIONSHIPS,' and 'GLASGOW 24.'",
+                "B. 'WORLD CHAMPIONS,' 'HIGH JUMP FINALS,' and 'GLASGOW 24.'",
+                "C. 'INDOOR ATHLETICS,' 'WORLD FINALS,' and 'GLASGOW 2024.'",
+                "D. 'ATHLETICS CHAMPIONSHIPS,' 'MEN'S HIGH JUMP,' and 'GLASGOW 24.'"
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_105": {
+            "id": "8y2Hj7GDcwI_105",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "How does the shape of the green diamond change during the transformation process?",
+            "options": [
+                "A. The shape expands into a circle with a jagged pattern.",
+                "B. It becomes an abstract, angular shape.",
+                "C. It splits into several smaller green hexagons.",
+                "D. It becomes a flat rectangular banner with a blue border."
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_106": {
+            "id": "8y2Hj7GDcwI_106",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "How do the light lines on the background intersect?",
+            "options": [
+                "A. They intersect in a crossed manner.",
+                "B. They intersect in a spiral manner.",
+                "C. They intersect in a parallel manner.",
+                "D. They intersect in a circular manner."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_107": {
+            "id": "8y2Hj7GDcwI_107",
+            "scene": 6,
+            "dimension": "Speed",
+            "question": "How does the speed of transitions between abstract themes in the video change?",
+            "options": [
+                "A. The transitions are sudden and fast.",
+                "B. The transitions are smooth and gradual.",
+                "C. The transitions are unstable and inconsistent.",
+                "D. The transitions happen instantaneously."
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_108": {
+            "id": "8y2Hj7GDcwI_108",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What color is the background?",
+            "options": [
+                "A. The background turns into a dark blue grid.",
+                "B. The background turns into a bright red grid.",
+                "C. The background turns into a dark purple grid.",
+                "D. The background turns into a light green grid."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_109": {
+            "id": "8y2Hj7GDcwI_109",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the athlete in black doing in the first shot?",
+            "options": [
+                "A. The athlete is in a nearly stationary state of readiness.",
+                "B. The athlete is leaping over the high jump bar, celebrating in the air.",
+                "C. The athlete is waving to the audience, holding a medal.",
+                "D. The athlete is sitting on the ground tying shoelaces."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_110": {
+            "id": "8y2Hj7GDcwI_110",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens after the athlete completes the jump?",
+            "options": [
+                "A. The athlete celebrates with the audience near the track.",
+                "B. The athlete lies on the blue high jump mat in a relaxed state.",
+                "C. The athlete immediately walks toward the award area.",
+                "D. The athlete proceeds to perform another jump right away."
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_111": {
+            "id": "8y2Hj7GDcwI_111",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What is the focus of attention after the medal ceremony of the men's high jump event?",
+            "options": [
+                "A. The focus shifts to interviews with the high jump athletes.",
+                "B. The focus shifts to an abstract scene displaying geometric patterns.",
+                "C. The focus shifts to a celebration featuring fireworks and music.",
+                "D. The focus shifts to highlights of other track and field events in the championship."
+            ],
+            "answer": "B"
+        },
+        "8y2Hj7GDcwI_112": {
+            "id": "8y2Hj7GDcwI_112",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What brand elements are on the uniform of the athlete in black during the competition?",
+            "options": [
+                "A. The uniform has 'NEW ZEALAND' and Puma logo printed on it.",
+                "B. The uniform has 'USA' and Adidas logo printed on it.",
+                "C. The uniform has 'SOUTH KOREA' and Nike logo printed on it.",
+                "D. The uniform has 'GLASGOW 24' and Reebok emblem printed on it."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_113": {
+            "id": "8y2Hj7GDcwI_113",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What design elements are included in the athletes' uniforms during the competition?",
+            "options": [
+                "A. The uniform includes a leaf emblem.",
+                "B. The uniform features a star emblem.",
+                "C. The uniform has a checkered pattern.",
+                "D. The uniform includes striped elements."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_114": {
+            "id": "8y2Hj7GDcwI_114",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "Describe how to combine real-world motion actions with visual effects?",
+            "options": [
+                "A. Describe the transition of detailed real motion scenes combined with visual effects.",
+                "B. It only focuses on the abstract visual effects of the activity, ignoring any real-world motion actions.",
+                "C. The description only shows the podium celebration scene without transitioning to any abstract visual effects.",
+                "D. The scene shows athletes engaging in different sports, followed by unrelated abstract visual effects."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_115": {
+            "id": "8y2Hj7GDcwI_115",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happens before the podium ceremony?",
+            "options": [
+                "A. Replay of scenes of athletic performance.",
+                "B. Commentators' discussion on the rules of the high jump event.",
+                "C. Highlights of previous champions in the men's high jump event.",
+                "D. Preview of the arrangements for the next event in the competition."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_116": {
+            "id": "8y2Hj7GDcwI_116",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What scene follows the transition of abstract arcs and stripe patterns?",
+            "options": [
+                "A. The scene switches to the WIC Glasgow 24 award podium celebration, with athletes holding national flags.",
+                "B. The scene switches to a tranquil landscape with mountains and a lake.",
+                "C. The scene switches to a bustling urban landscape with skyscrapers and busy streets.",
+                "D. The scene switches to a quiet library with books and reading tables."
+            ],
+            "answer": "A"
+        },
+        "8y2Hj7GDcwI_117": {
+            "id": "8y2Hj7GDcwI_117",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What is the purpose of the abstract visual effects after the podium moment ends?",
+            "options": [
+                "A. These visual effects aim to end the narrative in an engaging way and promote the event.",
+                "B. These visual effects are primarily to showcase the vibrant colors of the national flag.",
+                "C. These visual effects depict the athletes' training routine in an abstract manner.",
+                "D. These visual effects highlight the architectural design of the stadium hosting the event."
+            ],
+            "answer": "A"
+        }
+    }
+}

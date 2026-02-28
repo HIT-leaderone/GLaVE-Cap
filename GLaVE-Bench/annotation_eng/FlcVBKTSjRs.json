@@ -1,0 +1,1196 @@
+{
+    "scene_hint": {
+        "0": "A simple opening interface.",
+        "1": "The spoon appears in the frame and is cut.",
+        "2": "Spray paint on the spoon.",
+        "3": "The spoon petals are attached to the cardboard.",
+        "4": "Place a candle in the middle of the finished product.",
+        "5": "Show the final product.",
+        "6": "A promotional interface appears in the frame."
+    },
+    "qa": {
+        "FlcVBKTSjRs_0": {
+            "id": "FlcVBKTSjRs_0",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Where is the text located in the background of the scene?",
+            "options": [
+                "A. The text is located on the left side of the background.",
+                "B. The text is located on the right side of the background.",
+                "C. The text is located in the middle of the background.",
+                "D. The text is located at the bottom of the background."
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_1": {
+            "id": "FlcVBKTSjRs_1",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What do the elements in the picture look like?",
+            "options": [
+                "A. Simple and eye-catching.",
+                "B. Cluttered and disorganized.",
+                "C. With colorful fonts.",
+                "D. Completely monochrome."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_2": {
+            "id": "FlcVBKTSjRs_2",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the geometric pattern next to the 'ventuno' text in the scene?",
+            "options": [
+                "A. A circular icon composed of color blocks.",
+                "B. A square icon with stripes.",
+                "C. A triangular icon with purple and orange shading.",
+                "D. A rectangular icon with pink and gray gradient."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_3": {
+            "id": "FlcVBKTSjRs_3",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is the lighting in the image uneven?",
+            "options": [
+                "A. Yes, the lighting is uneven and glaring.",
+                "B. No, the lighting is even and soft.",
+                "C. Yes, the lighting is dim and unclear.",
+                "D. No, the lighting is even but unnatural."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_4": {
+            "id": "FlcVBKTSjRs_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "How is the word 'ART' presented?",
+            "options": [
+                "A. The word 'ART' is in bold handwritten black font.",
+                "B. The word 'ART' is written in lowercase and italicized.",
+                "C. The word 'ART' is in colorful handwriting.",
+                "D. The word 'ART' is printed in small size."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_5": {
+            "id": "FlcVBKTSjRs_5",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where does the colorful circular geometric logo appear in relation to the word 'ART'?",
+            "options": [
+                "A. The circular logo appears above the word 'ART'.",
+                "B. The circular logo appears to the right of the word 'ART'.",
+                "C. The circular logo appears below the word 'ART'.",
+                "D. The circular logo appears to the left of the word 'ART'."
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_6": {
+            "id": "FlcVBKTSjRs_6",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in the scene?",
+            "options": [
+                "A. The camera angle is tilted and skewed.",
+                "B. The camera angle is a frontal view.",
+                "C. The camera angle is a top-down view.",
+                "D. The camera angle is a bottom-up view."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_7": {
+            "id": "FlcVBKTSjRs_7",
+            "scene": 0,
+            "dimension": "Attribute Change",
+            "question": "What is the font size like in the text design?",
+            "options": [
+                "A. It gradually decreases from 'ART' to 'all the way' to 'Powered by ventuno'.",
+                "B. The font size of all text components is consistent.",
+                "C. It gradually increases from 'ART' to 'all the way' to 'Powered by ventuno'.",
+                "D. 'Powered by ventuno' is larger than 'ART', but smaller than 'all the way'."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_8": {
+            "id": "FlcVBKTSjRs_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What distinguishes 'Powered by' from 'ventuno'?",
+            "options": [
+                "A. They are written on two lines, and the font and size are not the same.",
+                "B. It is aligned with the word 'ART' above it.",
+                "C. There is no accompanying distinguishing mark.",
+                "D. The shadow effect makes it stand out from other elements."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_9": {
+            "id": "FlcVBKTSjRs_9",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "In the final image, what is the spatial arrangement of the spoons?",
+            "options": [
+                "A. The spoons are arranged vertically.",
+                "B. The spoons are arranged horizontally.",
+                "C. The spoons are stacked together.",
+                "D. The spoons are randomly scattered on the surface."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_10": {
+            "id": "FlcVBKTSjRs_10",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the overall setting of this scene?",
+            "options": [
+                "A. The scene presents a wooden composition of Beijing.",
+                "B. The scene is set in a kitchen.",
+                "C. The scene depicts a market stall.",
+                "D. The scene presents a street."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_11": {
+            "id": "FlcVBKTSjRs_11",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What kind of environment does this scene have?",
+            "options": [
+                "A. The scene is clean and orderly.",
+                "B. The scene is chaotic and messy.",
+                "C. The scene is vibrant and colorful.",
+                "D. The scene is dark and gloomy."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_12": {
+            "id": "FlcVBKTSjRs_12",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the texture of the background?",
+            "options": [
+                "A. The background has a slightly aged and weathered texture.",
+                "B. The background is smooth and glossy.",
+                "C. The background is rough and uneven with deep cracks.",
+                "D. The background has a metallic and polished appearance."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_13": {
+            "id": "FlcVBKTSjRs_13",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many bowls are visible in the scene?",
+            "options": [
+                "A. Three bowls",
+                "B. Five bowls",
+                "C. No bowls.",
+                "D. Seven bowls"
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_14": {
+            "id": "FlcVBKTSjRs_14",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is 'PLASTIC SPOONS' visible throughout the entire scene?",
+            "options": [
+                "A. Yes, 'PLASTIC SPOONS' is visible all the time.",
+                "B. No, 'PLASTIC SPOONS' is only visible at the beginning.",
+                "C. 'PLASTIC SPOONS' is only partially visible.",
+                "D. 'PLASTIC SPOONS' never appears in the scene."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_15": {
+            "id": "FlcVBKTSjRs_15",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "What change occurred in the arrangement of the spoons throughout the scene?",
+            "options": [
+                "A. The spoons were arranged horizontally from start to finish.",
+                "B. The spoons changed from a horizontal arrangement to a vertical arrangement.",
+                "C. The spoons were spread out to form a circular pattern.",
+                "D. The spoons changed from a random arrangement to a diagonal arrangement."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_16": {
+            "id": "FlcVBKTSjRs_16",
+            "scene": 1,
+            "dimension": "Object Direction",
+            "question": "In the final arrangement, which direction is the spoon's opening facing?",
+            "options": [
+                "A. The spoon's opening is facing upwards.",
+                "B. The spoon's opening is facing sideways.",
+                "C. The spoon's opening is facing downwards.",
+                "D. The spoon's opening is tilted."
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_17": {
+            "id": "FlcVBKTSjRs_17",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in this scene?",
+            "options": [
+                "A. A side angle is used.",
+                "B. An overhead angle is used.",
+                "C. A close-up angle is used.",
+                "D. A wide-angle is used."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_18": {
+            "id": "FlcVBKTSjRs_18",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What text was removed between the initial and final scenes?",
+            "options": [
+                "A. 'PLASTIC SPOONS' was removed.",
+                "B. 'METAL SPOONS' was removed.",
+                "C. 'WOODEN SPOONS' was removed.",
+                "D. 'SILVER SPOONS' was removed."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_19": {
+            "id": "FlcVBKTSjRs_19",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "Which sign is always visible throughout the entire scene?",
+            "options": [
+                "A. 'Spoonify' sign.",
+                "B. A colorful circular sign.",
+                "C. A black triangular sign.",
+                "D. 'Textura' sign."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_20": {
+            "id": "FlcVBKTSjRs_20",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "How are the spoon heads arranged?",
+            "options": [
+                "A. The spoon heads are arranged diagonally.",
+                "B. The spoon heads are arranged vertically.",
+                "C. The spoon heads are arranged horizontally.",
+                "D. The spoon heads are arranged in a circular pattern."
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_21": {
+            "id": "FlcVBKTSjRs_21",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the environment where the spoon is located?",
+            "options": [
+                "A. Wooden surface.",
+                "B. Marble surface.",
+                "C. Glass surface.",
+                "D. Plastic surface."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_22": {
+            "id": "FlcVBKTSjRs_22",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What happened to the hand after the spray painting ended?",
+            "options": [
+                "A. The hand no longer appears in the frame after the spray painting.",
+                "B. The hand disappears after the spray painting and reappears.",
+                "C. The hand places the spoon next to another spoon.",
+                "D. The hand holds a metal spoon and displays it."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_23": {
+            "id": "FlcVBKTSjRs_23",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What shape is the spoon head?",
+            "options": [
+                "A. The spoon head is oval.",
+                "B. The spoon head is round.",
+                "C. The spoon head is square.",
+                "D. The spoon head is triangular."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_24": {
+            "id": "FlcVBKTSjRs_24",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What is the state of the spoon handle?",
+            "options": [
+                "A. The handle is cut out of the frame.",
+                "B. The handle is visible at the edge of the picture.",
+                "C. The handle is intertwined with the spoon.",
+                "D. The handle is displayed in the center of the frame."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_25": {
+            "id": "FlcVBKTSjRs_25",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many golden spoon heads are in the scene?",
+            "options": [
+                "A. Two golden spoon heads",
+                "B. Three golden spoon heads",
+                "C. Four golden spoon heads",
+                "D. Five golden spoon heads"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_26": {
+            "id": "FlcVBKTSjRs_26",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the colored circular logo located in the image?",
+            "options": [
+                "A. The logo is located in the upper left corner of the image.",
+                "B. The logo is located in the lower right corner of the image.",
+                "C. The logo is located in the center of the image.",
+                "D. The logo is located in the upper right corner of the image."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_27": {
+            "id": "FlcVBKTSjRs_27",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the scene?",
+            "options": [
+                "A. The scene changed from white spoon head interaction to gold spoon head arrangement.",
+                "B. The scene changed from the 'ventuno' sign to arranged spoons.",
+                "C. The scene changed from spoon handles to multicolored signs.",
+                "D. The scene changed from hand interacting with metal spoons to plastic spoons."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_28": {
+            "id": "FlcVBKTSjRs_28",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "Which direction is the bowl-shaped part of the spoon facing?",
+            "options": [
+                "A. The bowl-shaped part of the spoon is facing up.",
+                "B. The bowl-shaped part of the spoon is facing down.",
+                "C. The bowl-shaped part of the spoon is facing left.",
+                "D. The bowl-shaped part of the spoon is facing right."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_29": {
+            "id": "FlcVBKTSjRs_29",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What is the angle of the camera?",
+            "options": [
+                "A. The angle is a close-up side view.",
+                "B. The angle is an overhead view.",
+                "C. The angle is an oblique view.",
+                "D. The angle is a low-angle shot."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_30": {
+            "id": "FlcVBKTSjRs_30",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Which sign is visible in the scene?",
+            "options": [
+                "A. Multicolored circular sign",
+                "B. Monochrome triangular sign",
+                "C. Golden square sign",
+                "D. Blue and white striped sign"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_31": {
+            "id": "FlcVBKTSjRs_31",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "How is the lighting in the scene?",
+            "options": [
+                "A. The light is bright.",
+                "B. The light is dim.",
+                "C. The scene is dark.",
+                "D. The light is glaring."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_32": {
+            "id": "FlcVBKTSjRs_32",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the hand perform on the middle spoon head?",
+            "options": [
+                "A. The hand grabbed and lifted the middle spoon head.",
+                "B. The hand simultaneously rotated all three spoon heads.",
+                "C. The hand did not interact with the middle spoon head.",
+                "D. The hand moved the middle spoon head to the edge of the surface."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_33": {
+            "id": "FlcVBKTSjRs_33",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What does the central spoon head look like in the scene?",
+            "options": [
+                "A. The central spoon head is golden.",
+                "B. The central spoon head is silver.",
+                "C. The central spoon head is black.",
+                "D. The central spoon head is blue."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_34": {
+            "id": "FlcVBKTSjRs_34",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What is the appearance of the two spoon heads on the left and right in the scene?",
+            "options": [
+                "A. Silver appearance.",
+                "B. Bronze appearance.",
+                "C. Gold appearance.",
+                "D. Black appearance."
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_35": {
+            "id": "FlcVBKTSjRs_35",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many ladles are in the scene?",
+            "options": [
+                "A. There are two ladles.",
+                "B. There are three ladles.",
+                "C. There are four ladles.",
+                "D. There is only one ladle."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_36": {
+            "id": "FlcVBKTSjRs_36",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What is the role or impact of camera angles in a scene?",
+            "options": [
+                "A. It provides a comprehensive perspective.",
+                "B. It focuses only on colorful circular signs.",
+                "C. It creates a narrow perspective.",
+                "D. It obscures the hand movements."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_37": {
+            "id": "FlcVBKTSjRs_37",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Which visual element remains consistent in the scene?",
+            "options": [
+                "A. The colorful circular logo remains consistent.",
+                "B. The position of the central spoon head remains unchanged.",
+                "C. The hand remains stationary throughout the scene.",
+                "D. The surface has no grooves or peeling paint."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_38": {
+            "id": "FlcVBKTSjRs_38",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the spoon head located on the circular object?",
+            "options": [
+                "A. Attached to the circular object according to its shape.",
+                "B. Attached at the center of the circular object.",
+                "C. Placed at the lower edge of the circular object.",
+                "D. Randomly distributed around the circular object."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_39": {
+            "id": "FlcVBKTSjRs_39",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the overall appearance of the environment?",
+            "options": [
+                "A. Characterized by a wooden background.",
+                "B. Characterized by a metal background.",
+                "C. Characterized by a concrete background.",
+                "D. Characterized by a colorful background."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_40": {
+            "id": "FlcVBKTSjRs_40",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "Who is responsible for the craft-making process?",
+            "options": [
+                "A. Professional artists",
+                "B. A group of children",
+                "C. Not explicitly stated",
+                "D. Skilled craftsmen"
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_41": {
+            "id": "FlcVBKTSjRs_41",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is the surface of the spoon like?",
+            "options": [
+                "A. The surface of the spoon is smooth.",
+                "B. The surface of the spoon is rough.",
+                "C. The surface of the spoon has texture.",
+                "D. The surface of the spoon has text."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_42": {
+            "id": "FlcVBKTSjRs_42",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What color is the spoon?",
+            "options": [
+                "A. Golden sheen",
+                "B. Silver sheen",
+                "C. Deep copper sheen",
+                "D. Black sheen"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_43": {
+            "id": "FlcVBKTSjRs_43",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many spoons are used in the inner arrangement?",
+            "options": [
+                "A. Three spoons",
+                "B. Four spoons",
+                "C. Five spoons",
+                "D. Six spoons"
+            ],
+            "answer": "D"
+        },
+        "FlcVBKTSjRs_44": {
+            "id": "FlcVBKTSjRs_44",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "Is the concave side of the spoon facing down in the arrangement?",
+            "options": [
+                "A. Yes, the concave side of the spoon is facing down.",
+                "B. No, the concave side of the spoon is facing up.",
+                "C. No, the concave side of the spoon is facing to the right.",
+                "D. No, the concave side of the spoon is facing to the left."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_45": {
+            "id": "FlcVBKTSjRs_45",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What is emphasized in the scene's image?",
+            "options": [
+                "A. Emphasizes the arrangement of components.",
+                "B. Emphasizes the texture of the background.",
+                "C. Emphasizes the contrast between the base and the spoon.",
+                "D. Emphasizes the sign in the corner."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_46": {
+            "id": "FlcVBKTSjRs_46",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What is the camera's perspective throughout the scene?",
+            "options": [
+                "A. The camera maintains a close-up overhead perspective.",
+                "B. The camera switches between side view and top view.",
+                "C. The camera uses a wide-angle lens to shoot from a distance.",
+                "D. The camera follows a moving subject from a low angle."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_47": {
+            "id": "FlcVBKTSjRs_47",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is the initial construction in the scene?",
+            "options": [
+                "A. A simple circular base.",
+                "B. A circle with five spoons on it.",
+                "C. A blue triangular base.",
+                "D. A sign with cracks and peeling paint."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_48": {
+            "id": "FlcVBKTSjRs_48",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the final composition in the scene?",
+            "options": [
+                "A. A symmetrical design with spoon heads arranged in a petal shape.",
+                "B. A simple circle with two metal parts on it.",
+                "C. Spoons and random items scattered on a circular base.",
+                "D. A spoon pointing inward, placed on a wooden background."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_49": {
+            "id": "FlcVBKTSjRs_49",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What is the unchanging visual element in the bottom right corner of the scene?",
+            "options": [
+                "A. Circular base",
+                "B. Metal component",
+                "C. Circular logo",
+                "D. Wooden background"
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_50": {
+            "id": "FlcVBKTSjRs_50",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene?",
+            "options": [
+                "A. The background is a wooden surface.",
+                "B. The background is a smooth surface.",
+                "C. The background is a bright red fabric.",
+                "D. The background is a marble countertop."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_51": {
+            "id": "FlcVBKTSjRs_51",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many spoons are arranged in the outermost circle?",
+            "options": [
+                "A. Five",
+                "B. Eight",
+                "C. Ten",
+                "D. Twelve"
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_52": {
+            "id": "FlcVBKTSjRs_52",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Will the disc remain at the center throughout the scene?",
+            "options": [
+                "A. Yes, it stays at the center.",
+                "B. No, it moved to the edge.",
+                "C. Yes, but it disappeared later.",
+                "D. No, there is no disc in the scene."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_53": {
+            "id": "FlcVBKTSjRs_53",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the position of the colorful circular logo relative to the flower-like decorative piece?",
+            "options": [
+                "A. The colorful circular logo is located at its upper left corner.",
+                "B. The colorful circular logo is located at its lower right corner.",
+                "C. The colorful circular logo is located directly above it.",
+                "D. The colorful circular logo is located at its center."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_54": {
+            "id": "FlcVBKTSjRs_54",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What is the central part of the decorative flower-shaped arrangement?",
+            "options": [
+                "A. The central part is the exposed portion of the disc.",
+                "B. The central part is a blue circular emblem.",
+                "C. The central part is a metallic silver spoon.",
+                "D. The central part is a red adhesive circular piece."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_55": {
+            "id": "FlcVBKTSjRs_55",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "Are there any elements containing text in the scene?",
+            "options": [
+                "A. Yes, it's a brand name.",
+                "B. No, it doesn't contain any text.",
+                "C. Yes, it's a slogan.",
+                "D. Yes, it's a URL."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_56": {
+            "id": "FlcVBKTSjRs_56",
+            "scene": 3,
+            "dimension": "Fine Grained Action",
+            "question": "What action did the right hand take during the making process?",
+            "options": [
+                "A. Secure the position of the stable disc.",
+                "B. Use a hot glue gun to add adhesive.",
+                "C. Remove a petal-shaped spoon.",
+                "D. Smooth the adhesive into place."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_57": {
+            "id": "FlcVBKTSjRs_57",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "When using a hot glue gun for the first time, which direction should the nozzle point?",
+            "options": [
+                "A. The nozzle points to the top of the decoration arrangement.",
+                "B. The nozzle points to the center of the decoration arrangement.",
+                "C. The nozzle points away from the decoration arrangement.",
+                "D. The nozzle points to the bottom of the decoration arrangement."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_58": {
+            "id": "FlcVBKTSjRs_58",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the ambient lighting in the scene like?",
+            "options": [
+                "A. Bright and uniform.",
+                "B. Dim and uneven.",
+                "C. Bright and uneven.",
+                "D. Dim and uniform."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_59": {
+            "id": "FlcVBKTSjRs_59",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene take place?",
+            "options": [
+                "A. The scene takes place on a wooden surface.",
+                "B. The scene takes place on a marble tabletop.",
+                "C. The scene takes place on a woven fabric background.",
+                "D. The scene takes place on a brick wall."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_60": {
+            "id": "FlcVBKTSjRs_60",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What are the main features of the flower-shaped ornament?",
+            "options": [
+                "A. It has two concentric layers of silver spoons.",
+                "B. It has two concentric layers of gold spoons.",
+                "C. It has three concentric layers of bronze spoons.",
+                "D. It has three concentric layers of gold spoons."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_61": {
+            "id": "FlcVBKTSjRs_61",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What visual element appears in the bottom right corner of the frame?",
+            "options": [
+                "A. A circular logo",
+                "B. A checkerboard pattern",
+                "C. A red rose",
+                "D. A silver clock"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_62": {
+            "id": "FlcVBKTSjRs_62",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of photography lens is used to capture ornaments?",
+            "options": [
+                "A. The camera uses a top-down perspective.",
+                "B. The camera uses a close-up perspective.",
+                "C. The camera uses a side-angle perspective.",
+                "D. The camera uses a wide-angle perspective."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_63": {
+            "id": "FlcVBKTSjRs_63",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "What effect does the central candle have on the decorations?",
+            "options": [
+                "A. Highlights the reflective texture of the spoon.",
+                "B. The shadows cast obscure the spoon.",
+                "C. Contrasts with the golden tone of the spoon.",
+                "D. Causes the decorations to be in darkness."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_64": {
+            "id": "FlcVBKTSjRs_64",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the petal layers of the decoration?",
+            "options": [
+                "A. Petal-shaped spoons are scattered randomly.",
+                "B. There are two concentric petal layers.",
+                "C. Form a single flat layer.",
+                "D. There are three concentric petal layers."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_65": {
+            "id": "FlcVBKTSjRs_65",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Where is the text 'SPOON CANDLE HOLDER' located in the scene?",
+            "options": [
+                "A. The text 'SPOON CANDLE HOLDER' is located at the top right corner of the image.",
+                "B. The text 'SPOON CANDLE HOLDER' is located at the bottom left corner of the image.",
+                "C. The text 'SPOON CANDLE HOLDER' is located at the center of the image.",
+                "D. The text 'SPOON CANDLE HOLDER' is located at the bottom right corner of the image."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_66": {
+            "id": "FlcVBKTSjRs_66",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the background surface of the decoration in the scene?",
+            "options": [
+                "A. The background surface is a wooden surface.",
+                "B. The background surface is a glass surface.",
+                "C. The background surface is a marble countertop.",
+                "D. The background surface is a tiled floor."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_67": {
+            "id": "FlcVBKTSjRs_67",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What color are the petals in the flower-shaped ornament?",
+            "options": [
+                "A. Gold-copper.",
+                "B. Silver.",
+                "C. Red.",
+                "D. Bronze."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_68": {
+            "id": "FlcVBKTSjRs_68",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What is at the center of the flower-shaped ornament?",
+            "options": [
+                "A. Its center is an LED light.",
+                "B. Its center is a candle.",
+                "C. Its center is a small plant.",
+                "D. Its center is a glass ornament."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_69": {
+            "id": "FlcVBKTSjRs_69",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "How are the petals of the flower-shaped decorations arranged?",
+            "options": [
+                "A. The petals are arranged in a spiral pattern.",
+                "B. The petals are arranged side by side.",
+                "C. The petals are arranged in layers.",
+                "D. The petals are arranged randomly."
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_70": {
+            "id": "FlcVBKTSjRs_70",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many candlesticks can be seen in the scene later?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_71": {
+            "id": "FlcVBKTSjRs_71",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What happens to the colored signs during scene transitions?",
+            "options": [
+                "A. No change.",
+                "B. Become clearer.",
+                "C. Completely disappear.",
+                "D. Turn gray."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_72": {
+            "id": "FlcVBKTSjRs_72",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the colored circular logo located on the initial screen?",
+            "options": [
+                "A. The colored circular logo is located in the top left corner.",
+                "B. The colored circular logo is located in the bottom left corner.",
+                "C. The colored circular logo is located in the top right corner.",
+                "D. The colored circular logo is located in the bottom right corner."
+            ],
+            "answer": "D"
+        },
+        "FlcVBKTSjRs_73": {
+            "id": "FlcVBKTSjRs_73",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is depicted at the beginning of the scene?",
+            "options": [
+                "A. A lotus-shaped candlestick.",
+                "B. A pure white background.",
+                "C. A promotional flyer.",
+                "D. A social media icon."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_74": {
+            "id": "FlcVBKTSjRs_74",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Is there any mention of human presence or behavior in the scene?",
+            "options": [
+                "A. Yes, humans are actively interacting with objects.",
+                "B. Yes, humans are visible but not engaging in any behavior.",
+                "C. No, there is no mention of human presence or behavior.",
+                "D. No, the scene is blank, with nothing present."
+            ],
+            "answer": "C"
+        },
+        "FlcVBKTSjRs_75": {
+            "id": "FlcVBKTSjRs_75",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What does the candlestick on the right look like in the initial screen?",
+            "options": [
+                "A. The candlestick on the right has gold and copper colored petals.",
+                "B. The candlestick on the right is made of shiny silver material.",
+                "C. The surface of the candlestick on the right is matte black.",
+                "D. The candlestick on the right is completely transparent."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_76": {
+            "id": "FlcVBKTSjRs_76",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What is the characteristic of the candlestick on the right side of the start screen?",
+            "options": [
+                "A. The candle emits a yellow glow.",
+                "B. There is a blue glow in the candlestick.",
+                "C. There is no candle in the center of the candlestick.",
+                "D. The LED candle emits an incandescent light."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_77": {
+            "id": "FlcVBKTSjRs_77",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "In the promotional images, how many app store logos are displayed?",
+            "options": [
+                "A. One app store logo",
+                "B. Two app store logos",
+                "C. Three app store logos",
+                "D. Four app store logos"
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_78": {
+            "id": "FlcVBKTSjRs_78",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Is a website address provided in the promotional material?",
+            "options": [
+                "A. Yes, the website '21frames.in/artalltheway' is provided.",
+                "B. No, there is no website address included in the material.",
+                "C. Yes, but the website is 'art21frames.in/promotional'.",
+                "D. Yes, the website '21frames.in/artforall' is provided."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_79": {
+            "id": "FlcVBKTSjRs_79",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What effect was introduced during the scene process?",
+            "options": [
+                "A. Introduced a blur effect.",
+                "B. Introduced a magnification effect.",
+                "C. Introduced a fade to black effect.",
+                "D. Introduced a color inversion effect."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_80": {
+            "id": "FlcVBKTSjRs_80",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Is there any object movement in the scene description?",
+            "options": [
+                "A. Yes, multiple objects have moved.",
+                "B. No, there is no object moving.",
+                "C. Yes, a wrench is moving.",
+                "D. Yes, but only the candlestick moved."
+            ],
+            "answer": "B"
+        },
+        "FlcVBKTSjRs_81": {
+            "id": "FlcVBKTSjRs_81",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What does the promotional scene look like?",
+            "options": [
+                "A. Pure white background with text and icon elements.",
+                "B. Wooden background with colorful graphic elements.",
+                "C. Dark background with metal candlesticks.",
+                "D. Textured wooden surface with LED candles."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_82": {
+            "id": "FlcVBKTSjRs_82",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What song is displayed in the scene?",
+            "options": [
+                "A. 'It's Alright' by Loving Caliber",
+                "B. 'Feeling Good' by Michael Bublé",
+                "C. 'Happy' by Pharrell Williams",
+                "D. 'Love Song' by Sara Bareilles"
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_83": {
+            "id": "FlcVBKTSjRs_83",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What does the video start with?",
+            "options": [
+                "A. The video starts with a scene of a white wooden background displaying text.",
+                "B. The video starts with a white background and promotional text.",
+                "C. The video starts with a set of candlesticks placed on a surface.",
+                "D. The video starts with a promotional flyer on a white background."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_84": {
+            "id": "FlcVBKTSjRs_84",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is the first visual change involving the spoon?",
+            "options": [
+                "A. The spoon's handle is removed from the picture.",
+                "B. The spoon's color changes from silver to gold.",
+                "C. The spoon is replaced by a fork in the new picture.",
+                "D. The spoon is completely removed from the scene."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_85": {
+            "id": "FlcVBKTSjRs_85",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "How does the interaction with the golden ladle begin?",
+            "options": [
+                "A. Hold and lift the central spoon head.",
+                "B. Press a button at the base of the candlestick.",
+                "C. Wipe the golden petals of the spoon holder with your hand.",
+                "D. Twist the central spoon head to the right."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_86": {
+            "id": "FlcVBKTSjRs_86",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the symbol that is always visible in the manual scene?",
+            "options": [
+                "A. The colorful circular symbol in the lower right corner.",
+                "B. 'SPOON CANDLE HOLDER' symbol.",
+                "C. Google Play symbol on Android devices.",
+                "D. No symbol is always visible."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_87": {
+            "id": "FlcVBKTSjRs_87",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the final product of the decoration made of?",
+            "options": [
+                "A. Made of sixteen golden spoon heads and a candle.",
+                "B. Made of five silver spoon heads and a blue center.",
+                "C. Made of bronze spoon heads, without a center part.",
+                "D. Made of three golden spoon heads and a red center."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_88": {
+            "id": "FlcVBKTSjRs_88",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the handmade process in the video involve?",
+            "options": [
+                "A. Involves using hands and a hot glue gun to create designs.",
+                "B. Involves painting candle holders with colors.",
+                "C. Involves assembling wooden blocks into a tabletop.",
+                "D. Involves placing LED candles into glass jars."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_89": {
+            "id": "FlcVBKTSjRs_89",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What did the right hand do during the process?",
+            "options": [
+                "A. Placed a candle in the center of the decoration.",
+                "B. Applied hot glue to the disc using a hot glue gun.",
+                "C. Disassembled the decoration to create another design.",
+                "D. Held the decoration in the palm to display it."
+            ],
+            "answer": "A"
+        },
+        "FlcVBKTSjRs_90": {
+            "id": "FlcVBKTSjRs_90",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What scene transitions into the final promotional interface?",
+            "options": [
+                "A. From the display scene of decorations.",
+                "B. From the '21frames' promotional scene.",
+                "C. From the corporate office scene.",
+                "D. From the outdoor garden scene."
+            ],
+            "answer": "A"
+        }
+    }
+}

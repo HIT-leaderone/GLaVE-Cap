@@ -1,0 +1,1952 @@
+{
+    "scene_hint": {
+        "0": "The black screen scene at the beginning of the video.",
+        "1": "An elderly man with white hair is speaking to the audience.",
+        "2": "The scene returns to a blank screen, followed by the appearance of a logo and related descriptions.",
+        "3": "The footage shifts to a burning building.",
+        "4": "The building continues to burn, and some documents appear in the frame.",
+        "5": "The scene transitions to a new coastal setting.",
+        "6": "Some documents appear on the screen, occupying the entire frame.",
+        "7": "Two banners are displayed on the screen, representing the two parties involved in the lawsuit.",
+        "8": "The advertisement and logo display at the end of the video."
+    },
+    "qa": {
+        "eTLMWnsStuk_0": {
+            "id": "eTLMWnsStuk_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What are the main features of the scene described at the beginning of the video?",
+            "options": [
+                "A. The described scene is completely black with no visible content.",
+                "B. The described scene is colorful and filled with items marked in detail.",
+                "C. There are some visible objects in the described scene, but it lacks bounding box data.",
+                "D. The described scene has blurred outlines of objects but no labels."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_1": {
+            "id": "eTLMWnsStuk_1",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Does any visible object appear at the beginning of the video?",
+            "options": [
+                "A. Yes, several visible objects appeared.",
+                "B. No, no visible objects were found in the video.",
+                "C. Yes, one visible object appeared.",
+                "D. The description does not specifically state whether there are visible objects."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_2": {
+            "id": "eTLMWnsStuk_2",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is there any bounding box in the video?",
+            "options": [
+                "A. Yes, there is a bounding box.",
+                "B. No, there is no bounding box in the video.",
+                "C. Yes, but the bounding box is rather blurry.",
+                "D. No, there is an object similar to a bounding box, but it is not clear."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_3": {
+            "id": "eTLMWnsStuk_3",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "From the video, where is the American flag located in the video?",
+            "options": [
+                "A. The American flag is placed vertically on the far right side of the scene.",
+                "B. The American flag is placed behind the elderly man at the podium.",
+                "C. The American flag is placed to the left of the symmetrical windows.",
+                "D. The American flag is placed in the center of the courtroom."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_4": {
+            "id": "eTLMWnsStuk_4",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the atmosphere of the courtroom scene?",
+            "options": [
+                "A. The atmosphere is casual and dim, giving a relaxed feeling.",
+                "B. The atmosphere is solemn, formal, and bright, reinforcing a sense of deliberation or judgment.",
+                "C. The atmosphere is chaotic and noisy, showcasing a lack of decorum.",
+                "D. The atmosphere is festive and colorful, creating a celebratory vibe."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_5": {
+            "id": "eTLMWnsStuk_5",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the elderly man in the center of the scene doing?",
+            "options": [
+                "A. He is sitting quietly, observing the audience.",
+                "B. He is standing behind a wooden podium, gesturing outward and speaking to the audience.",
+                "C. He is writing notes on a piece of paper.",
+                "D. He is walking around the room, talking to people personally."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_6": {
+            "id": "eTLMWnsStuk_6",
+            "scene": 1,
+            "dimension": "Description-Object",
+            "question": "What's special about the blue suit worn by the person in the front row?",
+            "options": [
+                "A. It is paired with a top hat with blue edges.",
+                "B. It has gold buttons and a red tie.",
+                "C. It has silver embroidery on the sleeves.",
+                "D. It is paired with a purple tie and hat."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_7": {
+            "id": "eTLMWnsStuk_7",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many people are seated in the front row of the speaker?",
+            "options": [
+                "A. Two people",
+                "B. Three people",
+                "C. Four people",
+                "D. Five people"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_8": {
+            "id": "eTLMWnsStuk_8",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is the older man in the middle speaking to the audience?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. He is silently waiting",
+                "D. He is speaking to another speaker"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_9": {
+            "id": "eTLMWnsStuk_9",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is the elderly man speaking from behind a wooden podium?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. He is speaking from a metal podium",
+                "D. He is standing without a podium"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_10": {
+            "id": "eTLMWnsStuk_10",
+            "scene": 1,
+            "dimension": "Fine Grained Action",
+            "question": "What gesture did the elderly man make while speaking?",
+            "options": [
+                "A. The elderly man made an outward gesture while speaking to the audience.",
+                "B. The elderly man remained still without making any gesture while speaking to the audience.",
+                "C. The elderly man directly pointed to the American flag while speaking to the audience.",
+                "D. The elderly man sat at the table while speaking to the audience."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_11": {
+            "id": "eTLMWnsStuk_11",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the window with curtains located in the scene in the video?",
+            "options": [
+                "A. The window with curtains is symmetrically placed on both sides of the scene.",
+                "B. The window with curtains is only located on the left side of the scene.",
+                "C. The window with curtains is near the back of the scene, close to the audience.",
+                "D. The window with curtains is directly located at the central rear behind the speaker."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_12": {
+            "id": "eTLMWnsStuk_12",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "Which type of lens is commonly used to showcase courtroom scenes?",
+            "options": [
+                "A. Close-up shots focusing on the speaker's face to achieve emotional impact.",
+                "B. Use balanced symmetrical shots to capture the entire courtroom and its detailed elements.",
+                "C. Low-angle shots emphasize the judge's authority.",
+                "D. Handheld camera shots convey a sense of urgency and chaos."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_13": {
+            "id": "eTLMWnsStuk_13",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "How does the screen transition to the courtroom scene?",
+            "options": [
+                "A. The screen quickly fades from completely black to a richly detailed courtroom scene.",
+                "B. The screen softly fades from beige to the courtroom scene.",
+                "C. The screen transitions from an outdoor scene to the courtroom scene using a wipe effect.",
+                "D. The screen switches directly from completely black to a richly detailed courtroom scene."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_14": {
+            "id": "eTLMWnsStuk_14",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What visual cues indicate that the occasion is formal?",
+            "options": [
+                "A. Casually dressed audience.",
+                "B. Podium and formal attire of individuals.",
+                "C. Colorful balloons in the background.",
+                "D. Lack of windows or decorations."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_15": {
+            "id": "eTLMWnsStuk_15",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What visual cues indicate that the scene is governmental in nature?",
+            "options": [
+                "A. The vertical American flag suggests a governmental scene.",
+                "B. Green curtains suggest a governmental scene.",
+                "C. A maroon hat and red jacket suggest a governmental scene.",
+                "D. A wooden podium suggests a governmental scene."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_16": {
+            "id": "eTLMWnsStuk_16",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene take place?",
+            "options": [
+                "A. The opening scene takes place in the courtroom.",
+                "B. The opening scene takes place in the hospital.",
+                "C. The opening scene takes place in the library.",
+                "D. The opening scene takes place in the classroom."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_17": {
+            "id": "eTLMWnsStuk_17",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "Who is at the podium in the center of the courtroom?",
+            "options": [
+                "A. An elderly man is at the podium.",
+                "B. A young woman is at the podium.",
+                "C. A middle-aged lawyer is at the podium.",
+                "D. A child is at the podium."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_18": {
+            "id": "eTLMWnsStuk_18",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Are there side speakers in the courtroom?",
+            "options": [
+                "A. Yes, there are side speakers.",
+                "B. No, there are no side speakers.",
+                "C. The video does not provide enough information to confirm.",
+                "D. The side speakers appeared briefly and then disappeared."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_19": {
+            "id": "eTLMWnsStuk_19",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "Before the transition, who are present in the courtroom scene?",
+            "options": [
+                "A. An elderly man at the podium, three people sitting in the front, and a speaker beside them are present.",
+                "B. Only the elderly man standing at the podium and the American flag are present.",
+                "C. Only the three people sitting in the front are present.",
+                "D. An elderly man at the podium, three people sitting in the front, a speaker beside them, and a female reporter are present."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_20": {
+            "id": "eTLMWnsStuk_20",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What are the notable items or features in the scene?",
+            "options": [
+                "A. Symmetrical windows, the American flag, and formal courtroom decorations.",
+                "B. A large chandelier, a grand piano, and a marble statue.",
+                "C. A modern art painting, a glass ceiling, and a spiral staircase.",
+                "D. A fireplace, a bookshelf, and a vintage clock."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_21": {
+            "id": "eTLMWnsStuk_21",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "After the courtroom scene ends, does the screen remain black?",
+            "options": [
+                "A. Yes, the screen remains completely black.",
+                "B. No, the screen switches to another scene.",
+                "C. Yes, but it changes after a brief moment.",
+                "D. No, the screen displays different colors."
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_22": {
+            "id": "eTLMWnsStuk_22",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the transition sign in the video?",
+            "options": [
+                "A. The camera lens zooms in on the American flag.",
+                "B. All visible elements disappear, and the screen goes completely black.",
+                "C. The older man starts speaking again, with a spotlight on him.",
+                "D. All visible elements disappear, and the screen goes completely white."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_23": {
+            "id": "eTLMWnsStuk_23",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What changes occur in the visual attributes during the transition?",
+            "options": [
+                "A. The scene transitions from a detailed courtroom setting to complete darkness.",
+                "B. The scene changes from a courtroom to a bright and colorful outdoor environment.",
+                "C. The scene transitions to a dimly lit room, with fewer visible features.",
+                "D. The scene becomes blurry but still retains some visual details of the courtroom."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_24": {
+            "id": "eTLMWnsStuk_24",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "After the transition, are there any visual cues in the frame?",
+            "options": [
+                "A. Yes, the blurry outlines of objects can be seen.",
+                "B. No, there are no recognizable elements or visual cues.",
+                "C. Yes, the U.S. flag and the podium are still faintly visible.",
+                "D. No, but blurry human figures can be seen in the background."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_25": {
+            "id": "eTLMWnsStuk_25",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the sailboat badge located in the video?",
+            "options": [
+                "A. The sailboat badge is located in the upper left corner of the video.",
+                "B. The sailboat badge is located in the center of the video.",
+                "C. The sailboat badge is located in the lower right corner of the video.",
+                "D. The sailboat badge is located on the left edge of the video."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_26": {
+            "id": "eTLMWnsStuk_26",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the environment depicted in the video scene?",
+            "options": [
+                "A. The environment is minimalist, mainly a black background with a logo and some text in the center.",
+                "B. The environment is a busy cityscape with many moving elements.",
+                "C. The environment is a colorful meadow with flowers and animals.",
+                "D. The environment is a chaotic office scene with papers flying everywhere."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_27": {
+            "id": "eTLMWnsStuk_27",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What elements are depicted on the badge in the scene?",
+            "options": [
+                "A. The badge features a sailboat with three white sails, a brown hull, and a light gray circular background.",
+                "B. The badge features a sailboat with two white sails, a brown hull, and a blue circular background.",
+                "C. The badge features a sailboat with three black sails, a brown hull, and a dark gray circular background.",
+                "D. The badge features a sailboat with three white sails, a black hull, and a white circular background."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_28": {
+            "id": "eTLMWnsStuk_28",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What is the background color of the badge in the scene?",
+            "options": [
+                "A. The badge is set against a black background.",
+                "B. The badge is set against a white background.",
+                "C. The badge is set against a blue background.",
+                "D. The badge is set against a gray background."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_29": {
+            "id": "eTLMWnsStuk_29",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many lines of text appear on the framework after the scene transition?",
+            "options": [
+                "A. One line of text appears.",
+                "B. Two lines of text appear.",
+                "C. Three lines of text appear.",
+                "D. Four lines of text appear."
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_30": {
+            "id": "eTLMWnsStuk_30",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the content of the first line of text that appears after the scene transition?",
+            "options": [
+                "A. 'The Prize Cases'",
+                "B. 'United States Supreme Court'",
+                "C. '67 U.S. (2 Black) 635 (1863)'",
+                "D. 'A Sailing Ship and Maritime Emblem'"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_31": {
+            "id": "eTLMWnsStuk_31",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the content of the second line of text that appears after the scene transition?",
+            "options": [
+                "A. 'United States Supreme Court'",
+                "B. 'The Prize Cases'",
+                "C. '67 U.S. (2 Black) 635 (1863)'",
+                "D. 'Sailing Ship Emblem'"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_32": {
+            "id": "eTLMWnsStuk_32",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What is the text content of the third line after the scene transition?",
+            "options": [
+                "A. 'The Prize Cases'",
+                "B. 'United States Supreme Court'",
+                "C. '67 U.S. (2 Black) 635 (1863)'",
+                "D. 'Maritime Law and History'"
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_33": {
+            "id": "eTLMWnsStuk_33",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "Will the background of the scene change from black?",
+            "options": [
+                "A. Yes, the background changes to white.",
+                "B. Yes, the background changes to blue.",
+                "C. No, the background remains black throughout the scene.",
+                "D. Yes, the background changes to gray."
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_34": {
+            "id": "eTLMWnsStuk_34",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the scene to provide additional context?",
+            "options": [
+                "A. More text was added below 'The Prize Cases'.",
+                "B. The badge content changed to provide more context.",
+                "C. The camera angle shifted to the left, revealing more elements in the scene.",
+                "D. The background changed from black to gray, creating a different atmosphere."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_35": {
+            "id": "eTLMWnsStuk_35",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "Which type of lens emphasizes the badge and text?",
+            "options": [
+                "A. Use a direct frontal perspective to clearly emphasize the badge and text.",
+                "B. Use a dynamic tilted angle to create suspense around the badge and text.",
+                "C. Use an overhead view to provide a broader context for the badge and text.",
+                "D. Use a wide-angle lens to capture the entire scene from a distance, including the badge and text."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_36": {
+            "id": "eTLMWnsStuk_36",
+            "scene": 2,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred in the visual information of the scene in subsequent frames?",
+            "options": [
+                "A. An additional line of text was added below 'The Prize Cases' while maintaining the same composition and black background.",
+                "B. The sailboat emblem and 'The Prize Cases' text were removed, replaced by a new nautical illustration.",
+                "C. The background changed from black to gradient blue, and the sailboat emblem became larger.",
+                "D. Animated waves were added to the background, and the text was replaced with a quote about maritime history."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_37": {
+            "id": "eTLMWnsStuk_37",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements convey the historical background of 'The Prize Cases'?",
+            "options": [
+                "A. The legal citation '87 U.S. (2 Black) 655 (1883)' provides historical background.",
+                "B. The phrase 'United States Supreme Court' is a key visual element that adds historical background.",
+                "C. The legal citation '67 U.S. (2 Black) 635 (1863)' provides historical background.",
+                "D. The emblem of a ship with three white sails represents a historical narrative."
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_38": {
+            "id": "eTLMWnsStuk_38",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements convey the judicial significance of 'The Prize Cases'?",
+            "options": [
+                "A. The added text 'United States Supreme Court' provides a judicial context.",
+                "B. The brown hull of the ship represents legal authority.",
+                "C. The black background symbolizes judicial robes.",
+                "D. The white sails represent judicial fairness."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_39": {
+            "id": "eTLMWnsStuk_39",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "From the video, where are the two cartoon-style trees located relative to the burning building?",
+            "options": [
+                "A. The two cartoon-style trees are on the left side of the burning building.",
+                "B. The two cartoon-style trees are on the right side of the burning building.",
+                "C. The two cartoon-style trees are in front of the burning building.",
+                "D. The two cartoon-style trees are behind the burning building."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_40": {
+            "id": "eTLMWnsStuk_40",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the burning building scene?",
+            "options": [
+                "A. The background includes a large red brick building engulfed in flames.",
+                "B. The background includes a small wooden cabin engulfed in flames.",
+                "C. The background includes a futuristic cityscape with flying cars.",
+                "D. The background includes a large medieval fortress engulfed in flames."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_41": {
+            "id": "eTLMWnsStuk_41",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "In the scene, what surrounds the burning building?",
+            "options": [
+                "A. The building is surrounded by lush green landscapes and trees.",
+                "B. The building is surrounded by a bustling urban environment.",
+                "C. The building is surrounded by barren land with no vegetation.",
+                "D. The building is surrounded by a snowy landscape."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_42": {
+            "id": "eTLMWnsStuk_42",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is depicted in the foreground of the burning building scene?",
+            "options": [
+                "A. A dense forest filled with cartoonishly simple trees",
+                "B. A deep blue body of water with dark wavy lines",
+                "C. A crowded street full of people and vehicles",
+                "D. A light blue river with land visible on the opposite side"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_43": {
+            "id": "eTLMWnsStuk_43",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What does the sky look like in a burning building scene?",
+            "options": [
+                "A. The sky is a soft blue in the background.",
+                "B. The sky is bright and clear.",
+                "C. The sky is overcast and stormy.",
+                "D. The sky is a blend of stars and moonlight."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_44": {
+            "id": "eTLMWnsStuk_44",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Is there anyone in the scene?",
+            "options": [
+                "A. Yes, there are people depicted in the scene.",
+                "B. No, there are no people depicted in the scene.",
+                "C. Yes, there are firefighters depicted in the scene.",
+                "D. Yes, there are bystanders depicted in the scene."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_45": {
+            "id": "eTLMWnsStuk_45",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What are the architectural features of the burning building?",
+            "options": [
+                "A. The building has symmetrical white arched windows, two large central black doors, and is made of red bricks.",
+                "B. The building has asymmetrical windows, a large wooden door, and is made of gray stone.",
+                "C. The building has circular windows, two small green doors, and is made of yellow bricks.",
+                "D. The building has rectangular windows, a glass entrance, and is made of concrete."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_46": {
+            "id": "eTLMWnsStuk_46",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What happened to the burning building?",
+            "options": [
+                "A. It was engulfed in fierce flames and thick smoke was billowing from multiple places.",
+                "B. It is under renovation, with the roof under construction.",
+                "C. It is being demolished by controlled explosion, causing a controlled collapse while flames are produced.",
+                "D. It is illuminated by bright lights for a nighttime festival celebration."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_47": {
+            "id": "eTLMWnsStuk_47",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many complete cartoon trees are in the scene?",
+            "options": [
+                "A. One cartoon tree",
+                "B. Two cartoon trees",
+                "C. Three cartoon trees",
+                "D. Four cartoon trees"
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_48": {
+            "id": "eTLMWnsStuk_48",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "In the scene on fire, is the badge visible in the previous frame?",
+            "options": [
+                "A. Yes, the badge is visible in the scene on fire.",
+                "B. No, the badge is not visible in the scene on fire.",
+                "C. The badge is partially visible in the scene on fire.",
+                "D. The badge is only visible during the transition."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_49": {
+            "id": "eTLMWnsStuk_49",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What visual clues indicate that the building has been destroyed?",
+            "options": [
+                "A. Intense flames rise from the roof, and thick grayish-white smoke billows out from everywhere.",
+                "B. The building has collapsed into rubble, with debris and clouds of ash scattered everywhere.",
+                "C. Heavy rain pours down, extinguishing the flames and causing flooding in the surrounding area.",
+                "D. Bright lights and explosions illuminate the surroundings, accompanied by flames or smoke."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_50": {
+            "id": "eTLMWnsStuk_50",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "In which direction is the smoke from the burning building moving?",
+            "options": [
+                "A. The smoke is moving upwards, with movement in both left and right directions.",
+                "B. The smoke is moving downwards.",
+                "C. The smoke is mostly moving towards the upper left.",
+                "D. The smoke is mostly moving towards the upper right."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_51": {
+            "id": "eTLMWnsStuk_51",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What camera angle was used to depict the burning building?",
+            "options": [
+                "A. A static, horizontal camera angle was used.",
+                "B. A dynamic, zooming camera angle was used.",
+                "C. A bird's-eye camera angle was used.",
+                "D. A tilted, oblique camera angle was used."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_52": {
+            "id": "eTLMWnsStuk_52",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What is the purpose of using a static, horizontal camera angle to depict a burning building?",
+            "options": [
+                "A. To provide an unobstructed, wide view of the burning building.",
+                "B. To emphasize the details of the cartoon tree on the left.",
+                "C. To create a sense of motion and urgency in the scene.",
+                "D. To highlight the deep blue waves in the foreground."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_53": {
+            "id": "eTLMWnsStuk_53",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "How does the intensity of smoke indicate the fire's strength?",
+            "options": [
+                "A. Smoke forms a thick column, indicating a stable fire.",
+                "B. Smoke gently drifts upward, suggesting slow burning.",
+                "C. Smoke billows heavily, indicating a strong and rapidly moving fire.",
+                "D. Smoke is not visible, indicating there is no fire at all."
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_54": {
+            "id": "eTLMWnsStuk_54",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "How does the transition from minimalist design to a fiery scene affect the thematic tone of the video?",
+            "options": [
+                "A. The video transitions from a simple black background logo to a vivid and chaotic scene of intense destruction.",
+                "B. The video retains the minimalist design, slightly increasing the imagery of fire, maintaining a consistent tone.",
+                "C. The video transitions from a cluttered and colorful design to a serene black and white minimalist theme, symbolizing peace.",
+                "D. The video transitions from abstract colorful patterns to a static blue sky, with no destructive elements."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_55": {
+            "id": "eTLMWnsStuk_55",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "In the scene of the burning building, which visual elements contrast with the chaos?",
+            "options": [
+                "A. The greenery, trees, and water in the foreground contrast with the chaos of the burning building.",
+                "B. The symmetrical white arched windows of the building contrast with the chaos.",
+                "C. The soft and bright light blue sky in the background contrasts with the chaos.",
+                "D. The dark background of the previous frame contrasts with the chaos."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_56": {
+            "id": "eTLMWnsStuk_56",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the historical document located in the video?",
+            "options": [
+                "A. The historical document is located on the left side of the video.",
+                "B. The historical document is located on the right side of the video.",
+                "C. The historical document is located in the center of the video.",
+                "D. The historical document is located in the background of the video."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_57": {
+            "id": "eTLMWnsStuk_57",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where are the navy and the burning cityscape located in the scene?",
+            "options": [
+                "A. The navy and the burning cityscape are on the left side of the image.",
+                "B. The navy and the burning cityscape are on the right side of the image.",
+                "C. The navy and the burning cityscape are in the center of the image.",
+                "D. The navy and the burning cityscape are not visible in the scene."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_58": {
+            "id": "eTLMWnsStuk_58",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the environment depicted in the video?",
+            "options": [
+                "A. The environment depicts a tranquil rural landscape with lush green vegetation and a clear sky.",
+                "B. The environment depicts a scene from a historical and wartime period, combining the scene with historical documents.",
+                "C. The environment depicts a wartime scene where a naval fleet launches a fierce attack on coastal fortresses, as evidenced by the dense artillery fire in the footage.",
+                "D. The environment depicts a firefighting scene, with numerous hoses and buckets reflecting the process."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_59": {
+            "id": "eTLMWnsStuk_59",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "Which historical figure is related to the document in the scene?",
+            "options": [
+                "A. Abraham Lincoln",
+                "B. George Washington",
+                "C. Ulysses S. Grant",
+                "D. Thomas Jefferson"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_60": {
+            "id": "eTLMWnsStuk_60",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What features are shown in the second file on the left?",
+            "options": [
+                "A. The file displays a title 'Expanded List: Blockaded Ports.'",
+                "B. The file displays a title 'Blockade: Rebel-Held Ports.'",
+                "C. The file shows a list of naval officers involved in the blockade.",
+                "D. The file showcases an artistic depiction of burning ships and cityscapes."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_61": {
+            "id": "eTLMWnsStuk_61",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many ships are burning in the scene?",
+            "options": [
+                "A. One ship is burning.",
+                "B. Two ships are burning.",
+                "C. Three ships are burning.",
+                "D. No ships are burning."
+            ],
+            "answer": "D"
+        },
+        "eTLMWnsStuk_62": {
+            "id": "eTLMWnsStuk_62",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "In the naval scene, have any new ships been introduced?",
+            "options": [
+                "A. Yes, a new small sail-less boat appears below the flames of the damaged sailing ship.",
+                "B. No, all ships remain unchanged, with no new additions.",
+                "C. Yes, a new large ship with unfurled sails has joined the scene.",
+                "D. No, only the damaged ships are present, with no new ships."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_63": {
+            "id": "eTLMWnsStuk_63",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of camera perspective is used in the scene's document?",
+            "options": [
+                "A. Bird's eye view of the document.",
+                "B. Front view perspective of the document.",
+                "C. Side-angled perspective.",
+                "D. Close-up angle view of the document."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_64": {
+            "id": "eTLMWnsStuk_64",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "In this scene, what type of camera perspective is used for the navy and the burning cityscape?",
+            "options": [
+                "A. The scene uses a bird's-eye view to showcase the navy and the burning cityscape.",
+                "B. The scene uses a side view to showcase the navy and the burning cityscape.",
+                "C. The scene uses a front view to showcase the navy and the burning cityscape.",
+                "D. The scene uses a close-up view to showcase the navy and the burning cityscape."
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_65": {
+            "id": "eTLMWnsStuk_65",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What indicates that a large intact ship below the water is actively sailing?",
+            "options": [
+                "A. Its damaged hull indicates it is moving.",
+                "B. Its fully unfurled sails indicate it is actively sailing.",
+                "C. Smoke rising from the deck indicates it is moving quickly.",
+                "D. The absence of crew on board indicates its movement."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_66": {
+            "id": "eTLMWnsStuk_66",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What is written in the second file on the left side of the video now?",
+            "options": [
+                "A. The file now says 'Expanded List: Blockaded Ports.'",
+                "B. The file now says 'Declaration of Independence'.",
+                "C. The file now says 'Official Naval Proclamation'.",
+                "D. The file now says 'List of Regional Treaties'."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_67": {
+            "id": "eTLMWnsStuk_67",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "What changes occurred to the text in the video compared to the first file?",
+            "options": [
+                "A. The text has been updated to 'Expanded List: Blockaded Ports.'",
+                "B. The text has been changed to 'Naval Proclamation: New Orders.'",
+                "C. The text is now 'Emergency Maritime Directive.'",
+                "D. The text has been modified to 'Updated Coastal Regulations.'"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_68": {
+            "id": "eTLMWnsStuk_68",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What visual elements in the scene enhance the theme of the naval blockade?",
+            "options": [
+                "A. The title 'Expanded List: Blockaded Ports' on the burning buildings and documents enhances the theme of the naval blockade.",
+                "B. The appearance of rescue ships and the burning red brick buildings enhance the theme of the naval blockade.",
+                "C. The fully unfurled sails of undamaged ships and the rising gray smoke above the city enhance the theme of the naval blockade.",
+                "D. The green roofs of the burning buildings and the consistent camera angle enhance the theme of the naval blockade."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_69": {
+            "id": "eTLMWnsStuk_69",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "From the video, what changes occurred to the sailboat next to the burning building in the video?",
+            "options": [
+                "A. The boat moved to the left within the frame and disappeared.",
+                "B. The boat disappeared directly from the scene.",
+                "C. The boat moved to the right side of the frame.",
+                "D. The boat was replaced by a larger boat."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_70": {
+            "id": "eTLMWnsStuk_70",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What flag is hanging on the sail?",
+            "options": [
+                "A. This ship is flying the British flag at the stern.",
+                "B. This ship is flying the American flag at the stern.",
+                "C. This ship is flying the French flag at the stern.",
+                "D. This ship is flying the pirate flag at the stern."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_71": {
+            "id": "eTLMWnsStuk_71",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Has the red brick building remained undamaged?",
+            "options": [
+                "A. Yes, the red brick building is completely intact.",
+                "B. No, the red brick building burned fiercely, with thick gray smoke rising.",
+                "C. Yes, the red brick building has minor damage but mostly remains intact.",
+                "D. No, the red brick building has completely collapsed into ruins."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_72": {
+            "id": "eTLMWnsStuk_72",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What happened to the ship on the far right in the previous scene?",
+            "options": [
+                "A. The ship on the far right, which was previously near the burning building, is now no longer in the scene.",
+                "B. The ship on the far right has been moved to the left side of the scene.",
+                "C. The ship on the far right has stopped emitting fire and is now sailing smoothly.",
+                "D. The ship on the far right has tilted and is about to sink."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_73": {
+            "id": "eTLMWnsStuk_73",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What visual features of the scene highlight the coastal environment?",
+            "options": [
+                "A. Tranquility is highlighted by the calm blue-green waters, sandy coastline, brown-hulled boats with perfect sails, and a slanted wooden fence accompanied by green grass in the foreground.",
+                "B. Tranquility is highlighted by stormy dark waters, rocky coastline, burning ships, and thick gray smoke rising in the background.",
+                "C. Tranquility is highlighted by the calm blue-green waters, sandy coastline, and a barren land in the foreground.",
+                "D. Tranquility is highlighted by the wooden pier, stormy ocean, and burning city buildings in the background."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_74": {
+            "id": "eTLMWnsStuk_74",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the steam-powered boat located in the frame of the video?",
+            "options": [
+                "A. The steam-powered boat is located at the far left of the frame, near the milky white beach.",
+                "B. The steam-powered boat is located in the center of the frame, surrounded by turquoise water.",
+                "C. The steam-powered boat is located at the far right of the frame, near the orange-toned beach.",
+                "D. The steam-powered boat is located at the far left of the frame, near the wooden fence."
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_75": {
+            "id": "eTLMWnsStuk_75",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "After transitioning from chaos, what type of environment does this scene depict?",
+            "options": [
+                "A. The scene depicts a tranquil coastal environment with a peaceful ocean atmosphere.",
+                "B. The scene depicts a chaotic naval battle, with buildings burning and the sky filled with smoke.",
+                "C. The scene depicts a busy port, full of industrial cargo ships and bustling workers.",
+                "D. The scene depicts a storm-ravaged ocean, with high waves and ominous dark clouds."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_76": {
+            "id": "eTLMWnsStuk_76",
+            "scene": 5,
+            "dimension": "Binary",
+            "question": "Are there human characters in the scene?",
+            "options": [
+                "A. Yes, multiple human characters can be seen in the scene.",
+                "B. No, the scene does not depict any human characters.",
+                "C. Yes, but only a few human characters can be seen on the boat.",
+                "D. Yes, there is a large group of people near the beach."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_77": {
+            "id": "eTLMWnsStuk_77",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What are the characteristics of the boat near the left side of the frame in the video?",
+            "options": [
+                "A. The boat near the left side of the frame has a dark hull, a complete white sail, and is located near the beach.",
+                "B. The boat near the left side of the frame has a white hull and three white sails.",
+                "C. The boat near the left side of the frame has a dark industrial hull, two chimneys, and is located near an orange-toned beach.",
+                "D. The boat near the left side of the frame has a red hull and white sails, coming from the right side."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_78": {
+            "id": "eTLMWnsStuk_78",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many ships can be seen in the scene?",
+            "options": [
+                "A. Three ships",
+                "B. Four ships",
+                "C. Five ships",
+                "D. Six ships"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_79": {
+            "id": "eTLMWnsStuk_79",
+            "scene": 5,
+            "dimension": "Object Direction",
+            "question": "In the video, in which direction are the red hull and the white sailboat moving?",
+            "options": [
+                "A. It moves from the far left to the center of the frame.",
+                "B. It moves from the far right to the left side of the frame.",
+                "C. It moves from the center to the far left of the frame.",
+                "D. It stays in the center of the frame."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_80": {
+            "id": "eTLMWnsStuk_80",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "How is the scene visually divided?",
+            "options": [
+                "A. The scene is divided into three vertical sections.",
+                "B. The scene is divided into four horizontal areas.",
+                "C. The scene is divided into five diagonal layers.",
+                "D. The scene is divided into two distinct parts."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_81": {
+            "id": "eTLMWnsStuk_81",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "What is shown on the left side of the video scene?",
+            "options": [
+                "A. The left side shows two ships and a sandy beach.",
+                "B. The left side shows a steamship and a rocky coast.",
+                "C. The left side shows a large red ship and a wooden pier.",
+                "D. The left side shows a lighthouse and a busy port."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_82": {
+            "id": "eTLMWnsStuk_82",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What does the middle part of the scene depict?",
+            "options": [
+                "A. The middle part focuses on a large red ship sailing in a turquoise ocean, with a foreground of a milky white beach.",
+                "B. The middle part depicts a steam-powered ship sailing in turquoise waters, with a background of a red-orange beach.",
+                "C. The middle part shows two ships sailing under a clear blue sky, with a background of a beach and a diagonally arranged wooden fence.",
+                "D. The middle part highlights a naval battle, with smoke and flames in the background."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_83": {
+            "id": "eTLMWnsStuk_83",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "What is distinctive about the right side of the video scene?",
+            "options": [
+                "A. The distinctive feature on the right side is a steam-powered ship in turquoise waters, near a red-orange beach.",
+                "B. The distinctive feature on the right side is a ship with a red hull, accompanied by three white sails, sailing in a blue-green ocean.",
+                "C. The distinctive feature on the right side is two ships sailing near the beach under a bright blue sky.",
+                "D. The distinctive feature on the right side is a ship with a black hull and white sails, near a creamy white beach."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_84": {
+            "id": "eTLMWnsStuk_84",
+            "scene": 5,
+            "dimension": "Speed",
+            "question": "Are there any ships in the scene that appear to be moving quickly?",
+            "options": [
+                "A. Yes, all the ships are moving at high speed.",
+                "B. No, the ships do not appear to be moving quickly.",
+                "C. Yes, only the steamboat on the right is moving quickly.",
+                "D. Yes, the ships are racing and moving quickly."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_85": {
+            "id": "eTLMWnsStuk_85",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "Compared to the previous scene, how has the landscape changed?",
+            "options": [
+                "A. The landscape transitions from turbulent naval waters and intense flames to a serene coastline and ocean scenery.",
+                "B. The landscape changes to a bustling naval port with numerous docked ships, dense fog, and a lively market on the beach.",
+                "C. The scene shifts to a dense tropical jungle with towering trees, vibrant wildlife, and meandering streams.",
+                "D. The landscape evolves from tranquil waters to an active battlefield, accompanied by stormy skies, fiery explosions, and sinking ships."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_86": {
+            "id": "eTLMWnsStuk_86",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Which visual elements highlight the ocean's diversity in the scene?",
+            "options": [
+                "A. Various boats, including traditional sailboats and a steam-powered vessel, highlight the ocean's diversity.",
+                "B. The combination of bright turquoise sea and sandy beach showcases the ocean's diversity.",
+                "C. The variety of marine life in the scene showcases the ocean's diversity.",
+                "D. The slanted wooden fence and creamy white beach highlight the ocean's diversity."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_87": {
+            "id": "eTLMWnsStuk_87",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What visual elements in the scene indicate maritime progress?",
+            "options": [
+                "A. The change from traditional sailing ships to steamships indicates maritime progress.",
+                "B. The change from canoes to wooden fleets indicates maritime progress.",
+                "C. Elements such as semaphore and electronic communication indicate maritime progress.",
+                "D. The change from small fishing boats to large wooden sailing ships indicates maritime progress."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_88": {
+            "id": "eTLMWnsStuk_88",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "How are these two historical documents arranged?",
+            "options": [
+                "A. The documents are arranged one above the other.",
+                "B. The documents are placed side by side, one on the left and one on the right.",
+                "C. The documents are overlapping each other in a diagonal layout.",
+                "D. The documents are arranged in a circular pattern around a central point."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_89": {
+            "id": "eTLMWnsStuk_89",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the background in which the document is presented?",
+            "options": [
+                "A. The document is presented on a flat gray background.",
+                "B. The document is presented on a wooden desktop.",
+                "C. The document is presented on a vibrant blue background.",
+                "D. The document is presented on a historical map."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_90": {
+            "id": "eTLMWnsStuk_90",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the lighting environment shown in the document?",
+            "options": [
+                "A. The lighting is soft and evenly distributed to emphasize the importance of the document.",
+                "B. The lighting is dim and dramatic to create a sense of mystery.",
+                "C. The lighting is bright and glaring to draw attention to details.",
+                "D. The lighting is colorful and dynamic to add visual highlights to the scene."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_91": {
+            "id": "eTLMWnsStuk_91",
+            "scene": 6,
+            "dimension": "Description-Object",
+            "question": "Whose signature appears on these two historical documents?",
+            "options": [
+                "A. Abraham Lincoln's signature",
+                "B. George Washington's signature",
+                "C. Thomas Jefferson's signature",
+                "D. James Madison's signature"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_92": {
+            "id": "eTLMWnsStuk_92",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What is the title of the file on the left side of the video?",
+            "options": [
+                "A. Blockade Rebel-Held Ports",
+                "B. Expanded List: Blockaded Ports",
+                "C. Approved by Congress",
+                "D. Proclamation of Naval Blockade"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_93": {
+            "id": "eTLMWnsStuk_93",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What is the title of the file on the right side of the video?",
+            "options": [
+                "A. Blockade Rebel-Held Ports",
+                "B. Expanded List: Blockaded Ports",
+                "C. Emancipation Proclamation",
+                "D. Gettysburg Address"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_94": {
+            "id": "eTLMWnsStuk_94",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many historical documents are shown in the video?",
+            "options": [
+                "A. One historical document",
+                "B. Two historical documents",
+                "C. Three historical documents",
+                "D. Four historical documents"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_95": {
+            "id": "eTLMWnsStuk_95",
+            "scene": 6,
+            "dimension": "Binary",
+            "question": "Does the green banner cover all the text in the document?",
+            "options": [
+                "A. Yes, the green banner completely covers all the text in the document.",
+                "B. Yes, the green banner partially covers some parts of the document.",
+                "C. No, the green banner spreads across the document horizontally but does not block its key details.",
+                "D. No, the green banner appears next to the document and does not cover them."
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_96": {
+            "id": "eTLMWnsStuk_96",
+            "scene": 6,
+            "dimension": "Attribute Change",
+            "question": "What visual changes occur when introducing the green banner?",
+            "options": [
+                "A. The green banner adds a bright green with prominent white text.",
+                "B. The background changes to bright green to highlight the document's title.",
+                "C. The text on the document is modified to add a note about congressional approval.",
+                "D. The document is removed, replaced by a green background with white text."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_97": {
+            "id": "eTLMWnsStuk_97",
+            "scene": 6,
+            "dimension": "Object Direction",
+            "question": "How is the green banner placed on the document?",
+            "options": [
+                "A. The green banner is placed vertically on the document.",
+                "B. The green banner is placed horizontally on the document.",
+                "C. The green banner is placed diagonally on the document.",
+                "D. The green banner is placed at an angle between horizontal and diagonal on the document."
+            ],
+            "answer": "D"
+        },
+        "eTLMWnsStuk_98": {
+            "id": "eTLMWnsStuk_98",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "Which camera perspective should be used to highlight the document?",
+            "options": [
+                "A. Use a fixed camera perspective to ensure the details of the document remain clear and balanced.",
+                "B. Use a dynamic camera angle to emphasize the interaction between the document and the banner.",
+                "C. Use a rotating camera perspective to provide a comprehensive view of the document and the banner.",
+                "D. Use zoom camera techniques to focus on the intricate details of the signature."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_99": {
+            "id": "eTLMWnsStuk_99",
+            "scene": 6,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle should be used to highlight the green banner?",
+            "options": [
+                "A. Use a fixed camera angle to ensure the details of the green banner remain clear and balanced.",
+                "B. Use a dynamic camera angle to focus on the green banner.",
+                "C. Use a zoomed camera angle to highlight the green banner.",
+                "D. Use a rotating camera angle to emphasize the green banner."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_100": {
+            "id": "eTLMWnsStuk_100",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "How does the green banner change the visual composition of the scene?",
+            "options": [
+                "A. The green banner introduces a vibrant green, creating a stark contrast with the neutral tones of the documents and background.",
+                "B. The green banner seamlessly blends into the scene, matching the neutral tones of the documents and background.",
+                "C. The green banner obstructs the view of the document titles and signatures, making their content difficult to discern.",
+                "D. The green banner creates subtle shadows, enhancing the texture of the historical documents."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_101": {
+            "id": "eTLMWnsStuk_101",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What is written on the green banner?",
+            "options": [
+                "A. Declared official by Congress",
+                "B. Approved by Congress",
+                "C. Validated documents",
+                "D. Certified by law"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_102": {
+            "id": "eTLMWnsStuk_102",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "What does the green banner represent?",
+            "options": [
+                "A. The green banner represents a decorative element without specific meaning.",
+                "B. The green banner indicates formal validation and recognition of the document by Congress.",
+                "C. The green banner emphasizes the historical significance of the document.",
+                "D. The green banner introduces a new section in the presentation."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_103": {
+            "id": "eTLMWnsStuk_103",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "Where does the main scene of the video take place?",
+            "options": [
+                "A. The main scene transitions to a structured text representation of the U.S. judicial system on a black-and-white background.",
+                "B. The main scene takes place in a busy courtroom filled with lawyers and judges.",
+                "C. The main scene is set in a historic library filled with old legal documents and artifacts.",
+                "D. The main scene appears in a digital tech lab focused on modern legal software development."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_104": {
+            "id": "eTLMWnsStuk_104",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the main scene in the video?",
+            "options": [
+                "A. The overall environment is a bright white background with a layered layout.",
+                "B. The overall environment is a vibrant and colorful background with random elements.",
+                "C. The overall environment is a dark and dramatic background with abstract visual effects.",
+                "D. The overall environment is a natural outdoor scene with trees and greenery."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_105": {
+            "id": "eTLMWnsStuk_105",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Which historical figure is mentioned in the document?",
+            "options": [
+                "A. Abraham Lincoln",
+                "B. George Washington",
+                "C. Thomas Jefferson",
+                "D. Theodore Roosevelt"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_106": {
+            "id": "eTLMWnsStuk_106",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "How is the historical figure Abraham Lincoln mentioned?",
+            "options": [
+                "A. His portrait is displayed on the document.",
+                "B. His signature appears on the document.",
+                "C. The document contains a quote from him.",
+                "D. His name is mentioned in the document title."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_107": {
+            "id": "eTLMWnsStuk_107",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What increased the visibility of the 'Owners lose' label in the later image?",
+            "options": [
+                "A. The label became larger and bolder.",
+                "B. The label background changed to deep red.",
+                "C. The label was outlined in black for emphasis.",
+                "D. The label was moved to the center of the screen."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_108": {
+            "id": "eTLMWnsStuk_108",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "In the scenario presentation, how many hierarchical levels are there in the U.S. judicial system?",
+            "options": [
+                "A. Two levels",
+                "B. Three levels",
+                "C. Four levels",
+                "D. Five levels"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_109": {
+            "id": "eTLMWnsStuk_109",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "In the scene presentation, what are the hierarchical levels of the United States judicial system?",
+            "options": [
+                "A. 'United States Supreme Court' and 'District Courts'.",
+                "B. 'United States Supreme Court', 'Circuit Courts', and 'District Courts'.",
+                "C. 'Federal Courts' and 'State Courts'.",
+                "D. 'Appellate Courts' and 'Trial Courts'."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_110": {
+            "id": "eTLMWnsStuk_110",
+            "scene": 7,
+            "dimension": "Camera Direction",
+            "question": "Does the video include dynamic camera movements?",
+            "options": [
+                "A. Yes, the video includes significant dynamic camera movements.",
+                "B. No, the video maintains a static camera perspective.",
+                "C. Yes, the video frequently switches angles to enhance expressiveness.",
+                "D. No, the video only has brief camera adjustments."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_111": {
+            "id": "eTLMWnsStuk_111",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What element was introduced between the 'District Courts' and 'United States Supreme Court' sections?",
+            "options": [
+                "A. A light gray upward arrow was introduced, suggesting progression in hierarchy.",
+                "B. A dark red downward arrow was introduced, suggesting demotion.",
+                "C. A star-shaped icon was introduced, symbolizing judicial authority.",
+                "D. A green check mark was introduced, suggesting congressional approval."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_112": {
+            "id": "eTLMWnsStuk_112",
+            "scene": 7,
+            "dimension": "Object Direction",
+            "question": "Which direction does the arrow point between 'District Courts' and 'United States Supreme Court'?",
+            "options": [
+                "A. The arrow points upward.",
+                "B. The arrow points downward.",
+                "C. The arrow points to the left.",
+                "D. The arrow points to the right."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_113": {
+            "id": "eTLMWnsStuk_113",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle was used throughout the video?",
+            "options": [
+                "A. The video used a dynamic camera angle.",
+                "B. The video used a panning camera angle.",
+                "C. The video used a static camera angle.",
+                "D. The video used a zooming camera angle."
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_114": {
+            "id": "eTLMWnsStuk_114",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "How does the static camera angle affect the presentation style?",
+            "options": [
+                "A. It creates a sense of dynamism and motion for the presentation.",
+                "B. It enhances the structural and formal aspects of the presentation.",
+                "C. It makes historical documents appear less authentic.",
+                "D. It introduces a sense of chaos and unpredictability."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_115": {
+            "id": "eTLMWnsStuk_115",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "In the opening scene, which visual element indicates the approval of a historical document?",
+            "options": [
+                "A. A green banner with 'approved by congress' written on it, covering the document.",
+                "B. A red seal at the bottom of the document.",
+                "C. A blue seal with Abraham Lincoln's signature.",
+                "D. A gray watermark on the document that reads 'certified approval'."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_116": {
+            "id": "eTLMWnsStuk_116",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "In the judicial hierarchy diagram, how is the 'United States Supreme Court' presented?",
+            "options": [
+                "A. 'United States Supreme Court' is presented at the top in the form of a black rectangle.",
+                "B. 'United States Supreme Court' is presented at the bottom in the form of a black rectangle.",
+                "C. 'United States Supreme Court' is presented in the middle in the form of a gray rectangle.",
+                "D. 'United States Supreme Court' is presented in the diagram in the form of a red rectangle."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_117": {
+            "id": "eTLMWnsStuk_117",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "In the judicial hierarchy diagram, how are 'District Courts' represented and positioned?",
+            "options": [
+                "A. A gray rectangle labeled 'District Courts' is located below the 'United States Supreme Court' and connected to it by a light gray arrow pointing upward.",
+                "B. A gray circle labeled 'District Courts' is located above the 'United States Supreme Court' and connected to it by a light gray arrow pointing downward.",
+                "C. A red rectangle labeled 'District Courts' is located below the 'United States Supreme Court' and connected to it by a black arrow pointing downward.",
+                "D. A gray rectangle labeled 'District Courts' is placed alongside the 'United States Supreme Court' without any connecting arrow."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_118": {
+            "id": "eTLMWnsStuk_118",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "In the judicial hierarchy diagram, how is 'Owners lose' represented?",
+            "options": [
+                "A. Within a gray rectangle, a red rectangle labeled 'Owners lose' represents a decision.",
+                "B. Outside the judicial hierarchy diagram, 'Owners lose' is displayed in bold red text.",
+                "C. At the top of the diagram, 'Owners lose' is written in a red rectangle connected to the Supreme Court.",
+                "D. 'Owners lose' is displayed in a separate gray rectangle at the bottom of the diagram."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_119": {
+            "id": "eTLMWnsStuk_119",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "In the first scenario with a judicial introduction, what is the environment like?",
+            "options": [
+                "A. The environment is chaotic and colorful, with vibrant animations representing the judicial hierarchy.",
+                "B. The environment is simple and professional, with a white background and structured charts displaying the judicial hierarchy.",
+                "C. The environment is dark and dramatic, using shadow images to create a sense of mystery.",
+                "D. The environment is rustic and casual, with hand-drawn illustrations of the judicial system."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_120": {
+            "id": "eTLMWnsStuk_120",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many rectangles are marked with different colors in the judicial hierarchy diagram?",
+            "options": [
+                "A. Two rectangles are marked.",
+                "B. Three rectangles are marked.",
+                "C. Four rectangles are marked.",
+                "D. Five rectangles are marked."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_121": {
+            "id": "eTLMWnsStuk_121",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What are the labels on the rectangles in the judicial hierarchy diagram?",
+            "options": [
+                "A. 'United States Supreme Court', 'Circuit Courts', and 'Owners win'.",
+                "B. 'Court of Appeals', 'District Courts', and 'Owners win'.",
+                "C. 'Supreme Court', 'Local Court', and 'Debtors win'.",
+                "D. 'United States Supreme Court', 'District Courts', and 'Owners lose'."
+            ],
+            "answer": "D"
+        },
+        "eTLMWnsStuk_122": {
+            "id": "eTLMWnsStuk_122",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "Does the first scene include any images or decorative elements besides text?",
+            "options": [
+                "A. Yes, the next scene includes images and decorative elements.",
+                "B. No, the next scene only has white text in the center, with a pure black background and no decorative elements.",
+                "C. Yes, the next scene includes images but no decorative elements.",
+                "D. No, the next scene only has a promotional video with text and decorative visual effects."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_123": {
+            "id": "eTLMWnsStuk_123",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What does the light gray upward arrow in the judicial chart represent?",
+            "options": [
+                "A. It represents the procedural relationship between 'District Courts' and 'United States Supreme Court'.",
+                "B. It represents the hierarchical ranking of the courts.",
+                "C. It represents the geographical connection between the courts.",
+                "D. It emphasizes the court decisions made by the 'United States Supreme Court'."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_124": {
+            "id": "eTLMWnsStuk_124",
+            "scene": 7,
+            "dimension": "Object Direction",
+            "question": "What do the arrows in the judicial diagram connect?",
+            "options": [
+                "A. The arrows connect 'District Courts' to 'United States Supreme Court.'",
+                "B. The arrows connect 'District Courts' to 'Court of Appeals.'",
+                "C. The arrows connect 'United States Supreme Court' to 'District Courts.'",
+                "D. The arrows connect 'District Courts' to 'State Courts.'"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_125": {
+            "id": "eTLMWnsStuk_125",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "What type of shot is used to promote the website?",
+            "options": [
+                "A. The shot is stable and still, with white text centered on a black background.",
+                "B. The shot pans across the text, showing dynamic movement.",
+                "C. The shot repeatedly zooms in and out, creating a pulsating effect on the text.",
+                "D. The shot slowly tilts upward while the promotional text gradually appears."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_126": {
+            "id": "eTLMWnsStuk_126",
+            "scene": 8,
+            "dimension": "Speed",
+            "question": "How does the pacing change during the transition from judicial schematics to promotional information?",
+            "options": [
+                "A. The transition is very quick, highlighting the promotional information.",
+                "B. The transition is visually distinct but smooth, with no abrupt movements or fast-paced changes.",
+                "C. The transition includes a gradual fade-out, followed by a quick switch to the promotional information.",
+                "D. The transition features bursts of color and rapid movements to grab attention."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_127": {
+            "id": "eTLMWnsStuk_127",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "Which visual element in the next scene emphasizes the promotional information?",
+            "options": [
+                "A. White text is in bold font and centrally aligned.",
+                "B. A colorful background and animated graphics are used to draw attention to the information.",
+                "C. A large logo appears in the corner of the screen to highlight the brand.",
+                "D. Scrolling text banners at the bottom of the screen are used to emphasize the information."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_128": {
+            "id": "eTLMWnsStuk_128",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "How are the circular elements connected in the video?",
+            "options": [
+                "A. The circular elements are connected by a thin blue line.",
+                "B. The circular elements are connected by a thick red line.",
+                "C. The circular elements are connected by a thin red line.",
+                "D. The circular elements are not connected."
+            ],
+            "answer": "C"
+        },
+        "eTLMWnsStuk_129": {
+            "id": "eTLMWnsStuk_129",
+            "scene": 8,
+            "dimension": "Attribute Change",
+            "question": "Where does the change in the background mainly occur in the video?",
+            "options": [
+                "A. The change occurs against a black background.",
+                "B. The change occurs against a white background.",
+                "C. The change occurs against a gray background.",
+                "D. The change occurs against a blue background."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_130": {
+            "id": "eTLMWnsStuk_130",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Are there real-life characters in the promotional video?",
+            "options": [
+                "A. Yes, there are several real-life characters in the video.",
+                "B. No, there are no real-life characters in the video.",
+                "C. Yes, there is one real-life character in the video.",
+                "D. However, there are animated character images in the video."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_131": {
+            "id": "eTLMWnsStuk_131",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "What does the white outline of the gavel symbolize in the video?",
+            "options": [
+                "A. The white outline of the gavel symbolizes the theme of judicial justice.",
+                "B. The white outline of the gavel symbolizes the theme of creativity.",
+                "C. The white outline of the gavel symbolizes the theme of minimalism.",
+                "D. The white outline of the gavel symbolizes the theme of urgency."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_132": {
+            "id": "eTLMWnsStuk_132",
+            "scene": 8,
+            "dimension": "Count",
+            "question": "How many circular elements are depicted in the video?",
+            "options": [
+                "A. One circular element",
+                "B. Two circular elements",
+                "C. Three circular elements",
+                "D. Four circular elements"
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_133": {
+            "id": "eTLMWnsStuk_133",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "When discussing the concept of justice, what is the circular element depicted?",
+            "options": [
+                "A. Gavel",
+                "B. Light bulb",
+                "C. Elliptical ring",
+                "D. Scales of justice"
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_134": {
+            "id": "eTLMWnsStuk_134",
+            "scene": 8,
+            "dimension": "Description-Object",
+            "question": "What is the circular element depicted when discussing the concept of creativity?",
+            "options": [
+                "A. Light bulb.",
+                "B. Gavel.",
+                "C. Circle.",
+                "D. Orange underline."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_135": {
+            "id": "eTLMWnsStuk_135",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Does the video contain elements other than brand logos?",
+            "options": [
+                "A. No, the video only contains brand logos as text content.",
+                "B. Yes, the video includes other text elements.",
+                "C. No, the video mainly focuses on abstract images and symbols, with no other text.",
+                "D. Yes, the video only contains text content other than brand logos, but no brand logos."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_136": {
+            "id": "eTLMWnsStuk_136",
+            "scene": 8,
+            "dimension": "Binary",
+            "question": "Is the white oval ring fixed in place on the screen?",
+            "options": [
+                "A. Yes, the white oval ring remains fixed in place on the screen.",
+                "B. No, the white oval ring moves on the screen.",
+                "C. The position of the white oval ring changes slightly, but it is not completely fixed.",
+                "D. The white oval ring disappears shortly after appearing."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_137": {
+            "id": "eTLMWnsStuk_137",
+            "scene": 8,
+            "dimension": "Camera Shot",
+            "question": "What is the camera angle in the promotional video?",
+            "options": [
+                "A. The camera angle remains unchanged and stationary, ensuring focus on the constantly changing design elements and brand.",
+                "B. The camera angle switches multiple times to create a dynamic effect.",
+                "C. The camera angle zooms in and out to emphasize different aspects of the video.",
+                "D. The camera angle rotates to provide a 360-degree visual view."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_138": {
+            "id": "eTLMWnsStuk_138",
+            "scene": 8,
+            "dimension": "Visual-cue",
+            "question": "In the opening scene's advertisement, what visual cues are used to highlight 'www.Quimbee.com'?",
+            "options": [
+                "A. The text 'www.Quimbee.com' is underlined in orange on a black background.",
+                "B. The text 'www.Quimbee.com' is displayed in bold red on a white background.",
+                "C. The text 'www.Quimbee.com' is highlighted with a yellow background.",
+                "D. The text 'www.Quimbee.com' uses blue font with a green underline."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_139": {
+            "id": "eTLMWnsStuk_139",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What appears after the initial black screen in the video?",
+            "options": [
+                "A. The video transitions to a detailed courtroom scene.",
+                "B. The background changes to deep red with light pink text.",
+                "C. Two circular elements with a gavel and a light bulb appear.",
+                "D. The text 'Quumbe?' appears in cursive font."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_140": {
+            "id": "eTLMWnsStuk_140",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What changes occurred after the courtroom scene?",
+            "options": [
+                "A. After the courtroom scene, the screen completely turned black.",
+                "B. Bright colors and animated characters replaced the courtroom scene.",
+                "C. A detailed image of a gavel prominently appeared on the screen.",
+                "D. The courtroom scene gradually faded into a depiction of the starry sky."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_141": {
+            "id": "eTLMWnsStuk_141",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "After showcasing the minimalist logo with a sailboat, what scene appears?",
+            "options": [
+                "A. A red brick building engulfed in flames, presenting a vivid and chaotic fire scene.",
+                "B. A tranquil river, with a sailboat quietly drifting by.",
+                "C. An open field, with solitary trees standing under a clear blue sky.",
+                "D. A futuristic skyline, with neon-lit skyscrapers dominating the horizon."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_142": {
+            "id": "eTLMWnsStuk_142",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "In a courtroom scene, what is the significance of the white-haired old man standing at the podium?",
+            "options": [
+                "A. He seems to be speaking to the audience, indicating that this is a formal interaction.",
+                "B. He is silently observing the courtroom, suggesting he plays a passive role in the litigation.",
+                "C. He is debating with another person at the podium, implying a direct conflict or challenge.",
+                "D. He is announcing the end of the court session, marking the conclusion of the event."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_143": {
+            "id": "eTLMWnsStuk_143",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How is the concept of 'The Prize Cases' visually presented in the video?",
+            "options": [
+                "A. It is presented with a minimalist design: a circular badge with a ship pattern, and the words 'The Prize Cases' in bold white font on a black background.",
+                "B. It is presented through a series of dynamic animations, including a gavel and scales, accompanied by the text explaining 'The Prize Cases'.",
+                "C. The concept is presented as a vivid collage of historical images related to maritime law, with the title overlaid in gold cursive.",
+                "D. It is presented through a timeline graphic showing key events, with 'The Prize Cases' marked in bold red font at the center."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_144": {
+            "id": "eTLMWnsStuk_144",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "In the scene of switching between destruction and the peaceful coastal environment, what themes are presented?",
+            "options": [
+                "A. The interaction between justice and innovation in the modern legal system.",
+                "B. The video highlights the destructiveness of naval battles and urban destruction, contrasting with the peaceful coastal environment.",
+                "C. The juxtaposition of minimalist design elements with vivid, chaotic images.",
+                "D. Abstract symbols connect the transformative power of law and creativity."
+            ],
+            "answer": "B"
+        },
+        "eTLMWnsStuk_145": {
+            "id": "eTLMWnsStuk_145",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What scene is depicted between the fire scene and the formal display of two historical documents?",
+            "options": [
+                "A. The scene depicts a nautical composition, showcasing images of ships and a broader coastal perspective.",
+                "B. The scene presents a courtroom where judges are deliberating a case of historical significance.",
+                "C. The scene transitions to a dimly lit forest, featuring animated depictions of wildlife and the tranquility of nature.",
+                "D. The scene highlights a bustling cityscape, including procedural development and architectural design."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_146": {
+            "id": "eTLMWnsStuk_146",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What comes after the advertisement information in the final sequence of the video?",
+            "options": [
+                "A. The video transitions to some conceptual symbols, such as a gavel and a light bulb, and finally displays the brand 'Quimbee' in text form.",
+                "B. The video transitions to a solid red background with text describing various subscription plans.",
+                "C. The video includes a montage of a legal case study accompanied by animated visual effects.",
+                "D. The video abruptly ends with a flash of white light, followed by silence."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_147": {
+            "id": "eTLMWnsStuk_147",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the text of 'The Prize Cases' contain additional content about the United States Supreme Court?",
+            "options": [
+                "A. To provide historical and legal context for the phrase and highlight the importance of Supreme Court cases.",
+                "B. To make the text appear longer and visually more appealing.",
+                "C. To distract the reader with additional information.",
+                "D. To create a more complex narrative for entertainment purposes."
+            ],
+            "answer": "A"
+        },
+        "eTLMWnsStuk_148": {
+            "id": "eTLMWnsStuk_148",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the purpose of the contrast between the chaotic fire scene and the tranquil coastal environment?",
+            "options": [
+                "A. This contrast highlights the conflict of war and the tranquility of peace.",
+                "B. This contrast is used to showcase the diversity of natural landscapes.",
+                "C. This contrast is used to illustrate the impact of climate change on different environments.",
+                "D. This contrast aims to demonstrate the impact of urbanization on rural areas."
+            ],
+            "answer": "A"
+        }
+    }
+}

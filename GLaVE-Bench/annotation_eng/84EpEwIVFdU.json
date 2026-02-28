@@ -1,0 +1,1704 @@
+{
+    "scene_hint": {
+        "0": "The video begins with two men interacting in front of the camera.",
+        "1": "A close-up shot captures the interview of the man in the black suit and the audience's reactions.",
+        "2": "The camera focuses on the man in the black suit as he speaks.",
+        "3": "The scene switches back to the man in the brown suit speaking.",
+        "4": "It switches again to the man in the black suit continuing to speak, with an enthusiastic audience in the background.",
+        "5": "The camera zooms out to show the two men interacting in front of the camera.",
+        "6": "The man in the black suit has left the scene.",
+        "7": "A man is sitting in a chair speaking."
+    },
+    "qa": {
+        "84EpEwIVFdU_0": {
+            "id": "84EpEwIVFdU_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the person in the brown suit relative to the camera?",
+            "options": [
+                "A. The person in the brown suit is standing in front of the pool table.",
+                "B. The person in the brown suit is standing behind the pool table.",
+                "C. The person in the brown suit is sitting in the audience.",
+                "D. The person in the brown suit is standing at the farthest point from the camera."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_1": {
+            "id": "84EpEwIVFdU_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the man in the brown suit relative to the pool table?",
+            "options": [
+                "A. The man in the brown suit is near the pool table.",
+                "B. The man in the brown suit is leaning sideways against the pool table.",
+                "C. The man in the brown suit is sitting far away from the pool table.",
+                "D. The man in the brown suit is backstage, unable to see the pool table."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_2": {
+            "id": "84EpEwIVFdU_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the snooker event depicted in the picture?",
+            "options": [
+                "A. The environment is dull and there are few spectators, with dim lighting.",
+                "B. The environment is vibrant and professional, with many spectators and bright lighting.",
+                "C. The environment is chaotic and overcrowded, with bright lighting.",
+                "D. The environment is casual and informal, with few spectators and dim lighting."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_3": {
+            "id": "84EpEwIVFdU_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the man in the brown suit doing?",
+            "options": [
+                "A. The man in the brown suit is speaking to the crowd or giving an interview.",
+                "B. The man in the brown suit is holding a cue in his right hand and playing snooker.",
+                "C. The man in the brown suit is sitting in the audience watching the game.",
+                "D. The man in the brown suit is taking photos of the event."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_4": {
+            "id": "84EpEwIVFdU_4",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the man in the brown suit wearing?",
+            "options": [
+                "A. Blue shirt and tie.",
+                "B. Red shirt and bow tie.",
+                "C. White shirt, no tie.",
+                "D. Pink shirt and scarf."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_5": {
+            "id": "84EpEwIVFdU_5",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What information is displayed on the electronic scoreboard in the background?",
+            "options": [
+                "A. The electronic scoreboard shows the players' names 'Murphy' and 'O'Sullivan'.",
+                "B. The electronic scoreboard shows the final score '10-8' and the match lineup.",
+                "C. The electronic scoreboard shows a countdown timer and sponsor advertisements.",
+                "D. The electronic scoreboard shows the match schedule and audience attendance."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_6": {
+            "id": "84EpEwIVFdU_6",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many snooker balls can be seen on the table?",
+            "options": [
+                "A. Two snooker balls",
+                "B. Four snooker balls",
+                "C. Five snooker balls",
+                "D. Ten snooker balls"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_7": {
+            "id": "84EpEwIVFdU_7",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What color are the visible balls on the pool table?",
+            "options": [
+                "A. The visible balls include a red ball near the lower left corner and a black ball more centrally positioned.",
+                "B. The visible balls include a yellow ball near the lower left corner and a white ball more centrally positioned.",
+                "C. The visible balls include a green ball near the lower left corner and a pink ball more centrally positioned.",
+                "D. The visible balls include a blue ball near the lower left corner and an orange ball more centrally positioned."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_8": {
+            "id": "84EpEwIVFdU_8",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "Can the text 'RONNIE O'SULLIVAN LIVE' be seen in the scene?",
+            "options": [
+                "A. Yes, but the text is only displayed in white and cyan on the digital panel.",
+                "B. No, the text 'RONNIE O'SULLIVAN LIVE' cannot be seen in the scene at all.",
+                "C. Yes, but the text is only displayed in red and black on the digital panel.",
+                "D. No, the text 'RONNIE O'SULLIVAN LIVE' is partially obscured and cannot be read."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_9": {
+            "id": "84EpEwIVFdU_9",
+            "scene": 0,
+            "dimension": "Fine Grained Action",
+            "question": "What action is the man in the black suit doing?",
+            "options": [
+                "A. The man in the black suit is holding a billiard cue in his right hand, standing and supporting his waist with one hand.",
+                "B. The man in the black suit is intently looking at the scoreboard and talking to the referee.",
+                "C. The man in the black suit is using the cue ball to strike on the billiard table.",
+                "D. The man in the black suit is adjusting the microphone with his left hand while interviewing a player."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_10": {
+            "id": "84EpEwIVFdU_10",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "How does a tighter camera frame affect the interaction between a snooker player and the interviewer?",
+            "options": [
+                "A. A tighter camera frame narrows the visual scope to the interaction between the snooker player and the interviewer.",
+                "B. A tighter camera frame emphasizes background details, such as the scoreboard and audience.",
+                "C. A tighter camera frame highlights the snooker player's attire but diminishes the importance of their interaction.",
+                "D. A tighter camera frame focuses solely on the audience, cropping out the snooker player and interviewer."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_11": {
+            "id": "84EpEwIVFdU_11",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "How does a tighter camera frame affect the visibility of the audience?",
+            "options": [
+                "A. A tighter camera frame completely removes the audience from the shot, focusing solely on the billiard players.",
+                "B. A tighter camera frame partially obscures the audience, but their presence and energy can still be felt.",
+                "C. A tighter camera frame makes the audience more clearly visible, highlighting their reactions.",
+                "D. A tighter camera frame replaces the audience shot with a close-up of the scoreboard."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_12": {
+            "id": "84EpEwIVFdU_12",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene in the video mainly take place?",
+            "options": [
+                "A. The scene takes place at a snooker competition venue.",
+                "B. The scene takes place in a casual dining restaurant.",
+                "C. The scene takes place in a busy office space.",
+                "D. The scene takes place in a crowded outdoor market."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_13": {
+            "id": "84EpEwIVFdU_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment of the scene in the video?",
+            "options": [
+                "A. The environment is orderly and professional, with a dialogue between the snooker player and the interviewer, and interactive audience.",
+                "B. The environment is chaotic and disordered, with the snooker player and interviewer struggling to communicate amidst a noisy crowd.",
+                "C. The environment is quiet and solemn, with the snooker player contemplating alone in a dimly lit room, without an audience.",
+                "D. The environment is chaotic and disordered, with the audience cheering excitedly, and the snooker player dancing on stage."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_14": {
+            "id": "84EpEwIVFdU_14",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What does a snooker player do at first?",
+            "options": [
+                "A. A snooker player initially holds a cue stick.",
+                "B. A snooker player immediately raises a microphone to their face.",
+                "C. A snooker player starts by speaking to the audience.",
+                "D. A snooker player first walks toward the audience."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_15": {
+            "id": "84EpEwIVFdU_15",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What posture does a billiards player exhibit after holding the cue?",
+            "options": [
+                "A. The billiards player raises both hands to celebrate victory.",
+                "B. The billiards player continues to grip the cue tightly.",
+                "C. The billiards player assumes a contemplative posture, with the left hand near the chin.",
+                "D. The billiards player waves to the audience with both hands."
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_16": {
+            "id": "84EpEwIVFdU_16",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the snooker player holding next to his face?",
+            "options": [
+                "A. Microphone, indicating he is being interviewed.",
+                "B. Trophy, highlighting his victory.",
+                "C. Cue, ready to strike.",
+                "D. Scoreboard, analyzing the score."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_17": {
+            "id": "84EpEwIVFdU_17",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is the entire upper body and face of the snooker player completely visible in the whole scene?",
+            "options": [
+                "A. Yes, his entire upper body and face are completely visible.",
+                "B. No, some parts of the upper body are excluded.",
+                "C. No, some parts of his face are excluded.",
+                "D. Yes, including his whole body completely visible."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_18": {
+            "id": "84EpEwIVFdU_18",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What scene is shown after the interview close-up?",
+            "options": [
+                "A. The camera shows the vast audience and their enthusiastic reactions.",
+                "B. The camera focuses on the close-up of the billiard player's winning shot.",
+                "C. The scene cuts to an advertisement with sponsor logos.",
+                "D. The camera shows the interviewer leaving the interview site."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_19": {
+            "id": "84EpEwIVFdU_19",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What is displayed in the upper right corner of the screen during the transition?",
+            "options": [
+                "A. 'EUROSPORT 1' label and red 'LIVE' icon.",
+                "B. Event name and current score.",
+                "C. Only the broadcast channel's logo.",
+                "D. A countdown timer and red 'LIVE' icon."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_20": {
+            "id": "84EpEwIVFdU_20",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is the interviewer visible in the camera frame?",
+            "options": [
+                "A. Yes.",
+                "B. No.",
+                "C. Partially visible.",
+                "D. Only the interviewer is visible."
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_21": {
+            "id": "84EpEwIVFdU_21",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What type of camera shot captures the audience?",
+            "options": [
+                "A. A wide-angle shot focusing on the crowd",
+                "B. A close-up shot of individual audience members",
+                "C. A panning shot of the stage",
+                "D. A low-angle shot from the audience's perspective"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_22": {
+            "id": "84EpEwIVFdU_22",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "How does the lighting change in the scene?",
+            "options": [
+                "A. The lighting becomes significantly dimmer, creating a soft atmosphere.",
+                "B. The lighting remains unchanged throughout the scene.",
+                "C. The lighting shifts to a purple glow, emphasizing the crowd.",
+                "D. The lighting changes to bright yellow, illuminating the entire venue."
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_23": {
+            "id": "84EpEwIVFdU_23",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "Where does the video take place?",
+            "options": [
+                "A. The video takes place at a billiards sports event.",
+                "B. The video takes place at a concert.",
+                "C. The video takes place at a corporate meeting.",
+                "D. The video takes place at a movie premiere."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_24": {
+            "id": "84EpEwIVFdU_24",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What kind of lighting is used in the video?",
+            "options": [
+                "A. Soft white lighting",
+                "B. Dim blue lighting",
+                "C. Bright purple lighting",
+                "D. Bright yellow lighting"
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_25": {
+            "id": "84EpEwIVFdU_25",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the person wearing black holding?",
+            "options": [
+                "A. The person wearing black is holding a microphone.",
+                "B. The person wearing black is holding a pool cue.",
+                "C. The person wearing black is holding a trophy.",
+                "D. The person wearing black is holding a mobile phone."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_26": {
+            "id": "84EpEwIVFdU_26",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What logo is displayed on the black clothing worn by the man in the center?",
+            "options": [
+                "A. The logo on the black clothing includes Chinese characters and the phrase 'Liber win.'",
+                "B. The logo on the black clothing includes Chinese characters and the phrase 'Winner mode.'",
+                "C. The logo on the black clothing includes Chinese characters and the phrase 'Champion glory.'",
+                "D. The logo on the black clothing includes Chinese characters and the phrase 'Victory lane.'"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_27": {
+            "id": "84EpEwIVFdU_27",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Is the person being interviewed using a snooker cue?",
+            "options": [
+                "A. Yes.",
+                "B. No, he is using a tennis racket.",
+                "C. No, he is using a microphone.",
+                "D. No, he is using a camera."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_28": {
+            "id": "84EpEwIVFdU_28",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the man in the brown suit doing during the interview?",
+            "options": [
+                "A. Pointing the microphone at the man in black clothing.",
+                "B. Taking notes on a writing pad.",
+                "C. Adjusting the lighting for the interview.",
+                "D. Operating the camera to film the scene."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_29": {
+            "id": "84EpEwIVFdU_29",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What kind of shots were used in the interview scene?",
+            "options": [
+                "A. Close-up shots centered on the main event.",
+                "B. The camera zooms in and turns to the background audience.",
+                "C. The shot is a wide audience perspective.",
+                "D. The shot is an overhead view of the event."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_30": {
+            "id": "84EpEwIVFdU_30",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Which overlay label indicates that the event is being broadcast live?",
+            "options": [
+                "A. The overlay label 'LIVE EUROSPORT 1' indicates that the event is being broadcast live.",
+                "B. The overlay label 'LIVE SPORTS CHANNEL' indicates that the event is being broadcast live.",
+                "C. The overlay label 'LIVE CUE SPORTS' indicates that the event is being broadcast live.",
+                "D. The overlay label 'EUROPE LIVE SPORTS' indicates that the event is being broadcast live."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_31": {
+            "id": "84EpEwIVFdU_31",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the billiard table located?",
+            "options": [
+                "A. The billiard table is located in the bottom left corner of the image.",
+                "B. The billiard table is located in the top right corner of the image.",
+                "C. The billiard table is located in the center of the image.",
+                "D. The billiard table is located in the top left corner of the image."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_32": {
+            "id": "84EpEwIVFdU_32",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "Where does the main scene of the video take place?",
+            "options": [
+                "A. The main scene of the video takes place in a bright, professional environment.",
+                "B. The main scene of the video takes place in a dimly lit, quiet room.",
+                "C. The main scene of the video takes place in a dimly lit sports bar.",
+                "D. The main scene of the video takes place outdoors, accompanied by natural lighting."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_33": {
+            "id": "84EpEwIVFdU_33",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What kind of clothing is the newcomer wearing who is facing the central figure?",
+            "options": [
+                "A. The newcomer is wearing a light brown suit.",
+                "B. The newcomer is wearing a black sports jacket with an embroidered logo.",
+                "C. The newcomer is wearing a dark red and black checkered shirt.",
+                "D. The newcomer is wearing a green sweater and jeans."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_34": {
+            "id": "84EpEwIVFdU_34",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What logos can be seen in the upper right corner of the scene?",
+            "options": [
+                "A. 'LIVE' and 'EUROSPORT 1' logos",
+                "B. 'MATCH' and 'LIVE' logos",
+                "C. 'EUROSPORT 2' and 'LIVE' logos",
+                "D. 'SPORT 1' and 'EVENT' logos"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_35": {
+            "id": "84EpEwIVFdU_35",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many snooker balls can be seen on the table?",
+            "options": [
+                "A. Three snooker balls can be seen on the table.",
+                "B. Four snooker balls can be seen on the table.",
+                "C. Five snooker balls can be seen on the table.",
+                "D. Six snooker balls can be seen on the table."
+            ],
+            "answer": "D"
+        },
+        "84EpEwIVFdU_36": {
+            "id": "84EpEwIVFdU_36",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What color is the ball visible in the lower left corner of the pool table?",
+            "options": [
+                "A. Yellow",
+                "B. Red",
+                "C. Green",
+                "D. Blue"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_37": {
+            "id": "84EpEwIVFdU_37",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "Is the person in the first row wearing a deep red and black checkered shirt in the background?",
+            "options": [
+                "A. Yes, the person wearing the deep red and black checkered shirt is still there.",
+                "B. No, the person wearing the deep red and black checkered shirt is no longer there.",
+                "C. He is partially visible, but no longer clear.",
+                "D. He moved next to the pool table."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_38": {
+            "id": "84EpEwIVFdU_38",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What actions did the person in the light brown suit perform?",
+            "options": [
+                "A. Held the microphone in front of their chest.",
+                "B. Waved to the audience.",
+                "C. Pointed at the scoreboard.",
+                "D. Leaned on the snooker table."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_39": {
+            "id": "84EpEwIVFdU_39",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "Which direction is the person in the black suit facing?",
+            "options": [
+                "A. The person in the black suit is facing the audience.",
+                "B. The person in the black suit is facing another person.",
+                "C. The person in the black suit is facing the scoreboard.",
+                "D. The person in the black suit is facing the snooker table."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_40": {
+            "id": "84EpEwIVFdU_40",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What camera angles are used in the scene?",
+            "options": [
+                "A. The camera captures a wide-angle view",
+                "B. The camera maintains a consistent medium-close shot",
+                "C. The camera captures close-ups of the audience",
+                "D. The camera provides a bird's-eye view of the scene"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_41": {
+            "id": "84EpEwIVFdU_41",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What signs indicate that the event is being broadcast live?",
+            "options": [
+                "A. The 'LIVE' and 'EUROSPORT 1' signs in the top right corner indicate that the event is being broadcast live.",
+                "B. The 'LIVE' and 'BBC Sport' signs in the top right corner indicate that the event is being broadcast live.",
+                "C. The 'EUROSPORT 1' and 'Sky Sports' signs in the top right corner indicate that the event is being broadcast live.",
+                "D. The 'BBC Sport' and 'Sky Sports' signs in the top right corner indicate that the event is being broadcast live."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_42": {
+            "id": "84EpEwIVFdU_42",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where are the two people wearing dark clothing and badges sitting, relative to the man in the black suit?",
+            "options": [
+                "A. These two people are sitting in the foreground, standing in front of the man in the black suit.",
+                "B. These two people are sitting next to the pool table, standing beside the man in the black suit.",
+                "C. These two people are sitting in the background, close to the camera, but behind the man in the black suit.",
+                "D. These two people are sitting on the other side of the audience, far away from the man in the black suit."
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_43": {
+            "id": "84EpEwIVFdU_43",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video?",
+            "options": [
+                "A. The background of the video is a formal snooker match.",
+                "B. The background of the video is a lively outdoor music festival.",
+                "C. The background of the video is a company meeting with a business presentation.",
+                "D. The background of the video is a basketball game in a university gymnasium."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_44": {
+            "id": "84EpEwIVFdU_44",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "In the video, what is the man in the black suit holding?",
+            "options": [
+                "A. The man in the black suit is holding a microphone.",
+                "B. The man in the black suit is holding a smartphone.",
+                "C. The man in the black suit is holding a billiard cue.",
+                "D. The man in the black suit is holding a trophy."
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_45": {
+            "id": "84EpEwIVFdU_45",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What activity is the man in the black suit doing in the video?",
+            "options": [
+                "A. The man in the black suit is engaging in interaction, possibly an interview or commentary.",
+                "B. The man in the black suit is participating in a snooker match.",
+                "C. The man in the black suit is serving drinks to the audience.",
+                "D. The man in the black suit is organizing an event."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_46": {
+            "id": "84EpEwIVFdU_46",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "In the video, who is surrounding the man in the black suit?",
+            "options": [
+                "A. The man in the black suit is surrounded by the audience.",
+                "B. The man in the black suit is surrounded by security personnel.",
+                "C. The man in the black suit is surrounded by lighting staff.",
+                "D. The man in the black suit is surrounded by family members."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_47": {
+            "id": "84EpEwIVFdU_47",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What are the features of this man's black suit?",
+            "options": [
+                "A. This black suit has a black bow tie, and the letters 'MC' are embroidered on his chest.",
+                "B. This black suit has a red bow tie, and the letters 'MC' are embroidered on his chest.",
+                "C. This black suit has a red bow tie, and the letters 'LC' are embroidered on his back.",
+                "D. This black suit has a black bow tie, and the letters 'LC' are embroidered on his chest."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_48": {
+            "id": "84EpEwIVFdU_48",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "In this scene, is the pool table prominently displayed?",
+            "options": [
+                "A. Yes.",
+                "B. No, the pool table is not visible in the foreground.",
+                "C. No, the pool table is not visible in the background.",
+                "D. No, the focus is only on the audience."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_49": {
+            "id": "84EpEwIVFdU_49",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What subtle action did the man in the black suit perform in the scene?",
+            "options": [
+                "A. The man in the black suit took off his bow tie.",
+                "B. The man in the black suit picked up a snooker ball from the table.",
+                "C. The man in the black suit moved slightly to the left, revealing more of his right side.",
+                "D. The man in the black suit directly interacted with the audience by waving."
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_50": {
+            "id": "84EpEwIVFdU_50",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "Which direction is the man in the black suit moving?",
+            "options": [
+                "A. The man in the black suit is moving slightly to the left.",
+                "B. The man in the black suit is moving slightly to the right.",
+                "C. The man in the black suit is moving slightly forward.",
+                "D. The man in the black suit is moving slightly backward."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_51": {
+            "id": "84EpEwIVFdU_51",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What did the man in the black suit reveal after turning around?",
+            "options": [
+                "A. He revealed more of his right side.",
+                "B. He revealed a hidden pocket watch.",
+                "C. He revealed a snooker trophy.",
+                "D. He revealed a secret handshake."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_52": {
+            "id": "84EpEwIVFdU_52",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "How does the camera movement highlight the isolation of the man in the black suit?",
+            "options": [
+                "A. The camera gradually shifts to a closer focus, concentrating on the man in the black suit.",
+                "B. The camera pulls back to capture the entire scene, emphasizing the audience's involvement rather than the man.",
+                "C. The camera maintains a medium shot, giving equal attention to all the characters near the pool table.",
+                "D. The camera shifts to focus entirely on the pool table, moving away from the man in the black sports jacket."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_53": {
+            "id": "84EpEwIVFdU_53",
+            "scene": 4,
+            "dimension": "Camera Direction",
+            "question": "How does the camera movement introduce new characters into the scene?",
+            "options": [
+                "A. The camera switches to a wide-angle view, revealing new characters in the audience.",
+                "B. The camera pans to a close-up of the man in the black suit, simultaneously introducing new characters into the scene.",
+                "C. The camera zooms out, capturing more of the pool table, bringing new faces into the frame.",
+                "D. The camera tilts upward, showing new characters in the background."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_54": {
+            "id": "84EpEwIVFdU_54",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "Which type of shot emphasizes the man in the black suit?",
+            "options": [
+                "A. A wide-angle shot capturing the entire venue, including the man in the black suit.",
+                "B. A medium shot highlighting the man in the black suit and the pool table.",
+                "C. A close-up shot for a clearer emphasis on the man in the black suit.",
+                "D. An overhead shot showing the entire pool table and the surrounding audience."
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_55": {
+            "id": "84EpEwIVFdU_55",
+            "scene": 4,
+            "dimension": "Attribute Change",
+            "question": "How is the rhythm of the man's position adjustment with the audience members?",
+            "options": [
+                "A. The position adjustment is sudden and intense.",
+                "B. The position adjustment happens gradually and subtly over time.",
+                "C. The position adjustment is random and unpredictable.",
+                "D. No position adjustment ever occurs in the entire scene."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_56": {
+            "id": "84EpEwIVFdU_56",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "How does the position of the two audience members wearing dark clothing change over time?",
+            "options": [
+                "A. The two audience members wearing dark clothing move upward and to the left in the frame over time.",
+                "B. The two audience members wearing dark clothing remain in the same position throughout the video.",
+                "C. The two audience members wearing dark clothing move downward and to the right in the frame over time.",
+                "D. The two audience members wearing dark clothing completely leave the frame over time."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_57": {
+            "id": "84EpEwIVFdU_57",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is the man speaking in front of the microphone wearing?",
+            "options": [
+                "A. The man is wearing a black suit and bow tie.",
+                "B. The man is wearing a brown three-piece suit with a white shirt and purple tie.",
+                "C. The man is wearing a blue sports jacket and a red tie.",
+                "D. The man is wearing a white shirt and black trousers."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_58": {
+            "id": "84EpEwIVFdU_58",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What is the man next to the microphone wearing?",
+            "options": [
+                "A. The man is wearing a brown three-piece suit with a white shirt and a purple tie.",
+                "B. The man is wearing a black sports jacket and a bow tie.",
+                "C. The man is wearing a gray suit jacket with a blue tie and a white shirt.",
+                "D. The man is wearing a navy blue suit with a red tie and a light blue shirt."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_59": {
+            "id": "84EpEwIVFdU_59",
+            "scene": 4,
+            "dimension": "Description-Object",
+            "question": "What colors are the snooker balls on the pool table?",
+            "options": [
+                "A. Snooker balls include a black ball, a red ball, and other balls scattered on the table.",
+                "B. Snooker balls include a white ball, a yellow ball, and other balls scattered on the table.",
+                "C. Snooker balls include a white ball, a blue ball, and other balls scattered on the table.",
+                "D. Snooker balls include a purple ball, a red ball, and other balls scattered on the table."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_60": {
+            "id": "84EpEwIVFdU_60",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many people are leaning against the blue panel?",
+            "options": [
+                "A. One person",
+                "B. Two people",
+                "C. Three people",
+                "D. Four people or more"
+            ],
+            "answer": "D"
+        },
+        "84EpEwIVFdU_61": {
+            "id": "84EpEwIVFdU_61",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Is O'Sullivan leading in the match?",
+            "options": [
+                "A. Yes, O'Sullivan is leading in the match.",
+                "B. No, O'Sullivan is not leading in the match.",
+                "C. The score is tied.",
+                "D. The match has not started yet."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_62": {
+            "id": "84EpEwIVFdU_62",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the black snooker ball located on the table?",
+            "options": [
+                "A. The black snooker ball is located on the left side of the table.",
+                "B. The black snooker ball is located on the right side of the table.",
+                "C. The black snooker ball is located in the center of the table.",
+                "D. The black snooker ball is located at the top of the table."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_63": {
+            "id": "84EpEwIVFdU_63",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What role does the adjusted camera angle play in the transition?",
+            "options": [
+                "A. The adjusted camera angle provides a panoramic view, showcasing the green pool table and the interaction between the two people.",
+                "B. The adjusted camera angle allows the audience to see the spectators and their reactions to the match more closely.",
+                "C. The adjusted camera angle focuses on displaying the colored billiard balls scattered on the pool table.",
+                "D. The adjusted camera angle only focuses on the scoreboard and the players' scores."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_64": {
+            "id": "84EpEwIVFdU_64",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Which sign indicates that the event is being broadcast live?",
+            "options": [
+                "A. 'LIVE' sign",
+                "B. 'ON AIR' sign",
+                "C. 'BROADCAST' sign",
+                "D. 'EUROSPORT 1' sign"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_65": {
+            "id": "84EpEwIVFdU_65",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where are the two men wearing black shirts with lanyards in the scene?",
+            "options": [
+                "A. The two men wearing black shirts with lanyards are on the right side of the scene.",
+                "B. The two men wearing black shirts with lanyards are on the left side of the scene.",
+                "C. The two men wearing black shirts with lanyards are in the center of the scene.",
+                "D. The two men wearing black shirts with lanyards are behind the speaker."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_66": {
+            "id": "84EpEwIVFdU_66",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the video?",
+            "options": [
+                "A. The video takes place in a professional and broadcast environment.",
+                "B. The video takes place in a casual and informal environment.",
+                "C. The video takes place at a private family gathering.",
+                "D. The video takes place in a classroom environment."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_67": {
+            "id": "84EpEwIVFdU_67",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is the focus of the scene in the video?",
+            "options": [
+                "A. The glowing edge of the dining table.",
+                "B. The man dressed formally making comments.",
+                "C. Dominated by a billiard table.",
+                "D. The audience holding glowing phones."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_68": {
+            "id": "84EpEwIVFdU_68",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "What role does the man wearing a black shirt and bow tie play in the video?",
+            "options": [
+                "A. The man wearing a black shirt and bow tie is a journalist.",
+                "B. The man wearing a black shirt and bow tie is a referee.",
+                "C. The man wearing a black shirt and bow tie is providing commentary or being interviewed.",
+                "D. The man wearing a black shirt and bow tie is part of the audience."
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_69": {
+            "id": "84EpEwIVFdU_69",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Is the text 'LIVE EUROSPORT 1' visible in the top right corner of the video?",
+            "options": [
+                "A. Yes, fully visible",
+                "B. No, not visible at all",
+                "C. Only 'LIVE'",
+                "D. Only 'EUROSPORT 1'"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_70": {
+            "id": "84EpEwIVFdU_70",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "As the video progresses, what action does the man in black take?",
+            "options": [
+                "A. The man in black moves slightly to the left.",
+                "B. The man in black steps back towards the audience.",
+                "C. The man in black raises his hand to signal.",
+                "D. The man in black stands still without moving."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_71": {
+            "id": "84EpEwIVFdU_71",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "As the video progresses, what actions will the background audience members take?",
+            "options": [
+                "A. Background audience members cheer to show engagement.",
+                "B. Background audience members leave their seats and exit.",
+                "C. Background audience members remain completely still.",
+                "D. Background audience members stand up and applaud."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_72": {
+            "id": "84EpEwIVFdU_72",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the position of the billiard ball relative to the frame?",
+            "options": [
+                "A. They are near the lower left corner of the frame.",
+                "B. They are near the upper right corner of the frame.",
+                "C. They are near the center of the frame.",
+                "D. They are near the upper left corner of the frame."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_73": {
+            "id": "84EpEwIVFdU_73",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "Where does this scene take place?",
+            "options": [
+                "A. This scene takes place in a concert hall.",
+                "B. This scene takes place at a snooker event.",
+                "C. This scene takes place in a courtroom.",
+                "D. This scene takes place in a casual café."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_74": {
+            "id": "84EpEwIVFdU_74",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is the person on the right wearing?",
+            "options": [
+                "A. A brown suit with a light blue shirt and a dark blue tie",
+                "B. A brown suit with matching pants and tie",
+                "C. A gray jacket with a white shirt and a red tie",
+                "D. A gray jacket with a pink shirt and a striped tie"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_75": {
+            "id": "84EpEwIVFdU_75",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What brand name is displayed on the snooker table?",
+            "options": [
+                "A. Riley",
+                "B. Strachan",
+                "C. Brunswick",
+                "D. Peradon"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_76": {
+            "id": "84EpEwIVFdU_76",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many billiard balls are visible in the frame?",
+            "options": [
+                "A. There are three visible billiard balls in the frame.",
+                "B. There are four visible billiard balls in the frame.",
+                "C. There are five visible billiard balls in the frame.",
+                "D. There are six visible billiard balls in the frame."
+            ],
+            "answer": "D"
+        },
+        "84EpEwIVFdU_77": {
+            "id": "84EpEwIVFdU_77",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "Where is the handheld microphone in the new scene?",
+            "options": [
+                "A. In the hands of the man in the black suit.",
+                "B. In the hands of the man in the brown suit.",
+                "C. In the hands of the audience.",
+                "D. The handheld microphone no longer exists."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_78": {
+            "id": "84EpEwIVFdU_78",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is the person in the brown suit doing?",
+            "options": [
+                "A. The man in the brown suit is holding a microphone and singing.",
+                "B. The man in the brown suit is pointing the microphone at another person.",
+                "C. The man in the brown suit is quietly sitting and observing the match.",
+                "D. The man in the brown suit is playing snooker with the person in the black suit."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_79": {
+            "id": "84EpEwIVFdU_79",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "Which hand is the person on the left using to hold the cue stick?",
+            "options": [
+                "A. The person on the left is holding the cue stick with their left hand.",
+                "B. The person on the left is holding the cue stick with both hands.",
+                "C. The person on the left is holding the cue stick with their right hand.",
+                "D. The person on the left is not holding the cue stick."
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_80": {
+            "id": "84EpEwIVFdU_80",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "How does the camera lens balance the interaction between two people and a billiard table?",
+            "options": [
+                "A. Medium shots can balance the interaction.",
+                "B. Close-up shots can balance the interaction.",
+                "C. Wide shots can balance the interaction.",
+                "D. Aerial shots can balance the interaction."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_81": {
+            "id": "84EpEwIVFdU_81",
+            "scene": 5,
+            "dimension": "Description-Human",
+            "question": "What is the posture of the person holding the billiard cue?",
+            "options": [
+                "A. The person holding the billiard cue is standing relaxed.",
+                "B. The person holding the billiard cue is standing stiffly.",
+                "C. The person holding the billiard cue is sitting relaxed.",
+                "D. The person holding the billiard cue is sitting stiffly."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_82": {
+            "id": "84EpEwIVFdU_82",
+            "scene": 5,
+            "dimension": "Camera Shot",
+            "question": "What changes have occurred in the focus of the framework?",
+            "options": [
+                "A. The focus has shifted to the two people and their surroundings.",
+                "B. The focus has shifted to the audience and their reactions.",
+                "C. The focus has shifted to the central figure holding the microphone.",
+                "D. The focus has shifted to the scoreboard and the game score."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_83": {
+            "id": "84EpEwIVFdU_83",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "Which channel is displayed in the upper right corner of the screen?",
+            "options": [
+                "A. ESPN",
+                "B. BBC Sport",
+                "C. Sky Sports",
+                "D. EUROSPORT 1"
+            ],
+            "answer": "D"
+        },
+        "84EpEwIVFdU_84": {
+            "id": "84EpEwIVFdU_84",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What does 'MrQ' in the top right corner represent?",
+            "options": [
+                "A. Visually, 'MrQ' indicates additional broadcast details.",
+                "B. Visually, 'MrQ' indicates the commentator's name.",
+                "C. Visually, 'MrQ' refers to the location of the microphone.",
+                "D. Visually, 'MrQ' shows the countdown between matches."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_85": {
+            "id": "84EpEwIVFdU_85",
+            "scene": 6,
+            "dimension": "Spatial",
+            "question": "Where is the man in black located in the picture?",
+            "options": [
+                "A. The man in black is located near the left edge of the picture.",
+                "B. The man in black is located near the center of the picture.",
+                "C. The man in black is located in the upper right corner of the picture.",
+                "D. The man in black is located in the distant background of the picture."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_86": {
+            "id": "84EpEwIVFdU_86",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What is the professional atmosphere at the event site like?",
+            "options": [
+                "A. The environment is professional and vibrant.",
+                "B. The environment is quiet and low-key.",
+                "C. The environment is chaotic and disorganized.",
+                "D. The environment is informal and relaxed."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_87": {
+            "id": "84EpEwIVFdU_87",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "What kind of lighting was used in the event scene?",
+            "options": [
+                "A. The lighting is dim and purple.",
+                "B. The lighting is dim, red, and soft.",
+                "C. The lighting is bright, yellow, and glaring.",
+                "D. The lighting is soft, green, and atmospheric."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_88": {
+            "id": "84EpEwIVFdU_88",
+            "scene": 6,
+            "dimension": "Description-Scene",
+            "question": "How is the atmosphere at the event site?",
+            "options": [
+                "A. The event site is chaotic and disorganized, with the audience moving around.",
+                "B. The audience at the event site is lively, cheering and interacting.",
+                "C. Most of the audience is sitting quietly, with little interaction.",
+                "D. The event site is empty, with no visible people."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_89": {
+            "id": "84EpEwIVFdU_89",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "What gesture did the man in black make at the beginning of the event?",
+            "options": [
+                "A. The man in black initially made a thoughtful gesture.",
+                "B. The man in black initially made a celebratory gesture towards the audience.",
+                "C. The man in black initially pointed at the event staff with a cue stick.",
+                "D. The man in black initially raised his hands above his head in a victory pose."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_90": {
+            "id": "84EpEwIVFdU_90",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What gesture did the man in black make at the end of the event?",
+            "options": [
+                "A. The man in black's gesture turned into a waving goodbye action.",
+                "B. The man in black's gesture turned into a thoughtful action.",
+                "C. The man in black's gesture turned into a disdainful action.",
+                "D. The man in black's gesture turned into a defensive action."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_91": {
+            "id": "84EpEwIVFdU_91",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many 'LIVE' overlays are visible in the frame?",
+            "options": [
+                "A. One 'LIVE' overlay",
+                "B. Two 'LIVE' overlays",
+                "C. Three 'LIVE' overlays",
+                "D. No 'LIVE' overlays"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_92": {
+            "id": "84EpEwIVFdU_92",
+            "scene": 6,
+            "dimension": "Count",
+            "question": "How many 'EUROSPORT 1' overlay logos are visible in these images?",
+            "options": [
+                "A. One 'EUROSPORT 1' overlay logo is visible.",
+                "B. Two 'EUROSPORT 1' overlay logos are visible.",
+                "C. Three 'EUROSPORT 1' overlay logos are visible.",
+                "D. No 'EUROSPORT 1' overlay logos are visible."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_93": {
+            "id": "84EpEwIVFdU_93",
+            "scene": 6,
+            "dimension": "Description-Human",
+            "question": "Is the man in black in the center of the screen wearing a tie?",
+            "options": [
+                "A. Yes, the man in black is wearing a tie.",
+                "B. No, the man in black is not wearing anything.",
+                "C. No, the man in black is wearing a bow tie.",
+                "D. No, the man in black is wearing a scarf."
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_94": {
+            "id": "84EpEwIVFdU_94",
+            "scene": 6,
+            "dimension": "Fine Grained Action",
+            "question": "What is the way this man uses the cue stick?",
+            "options": [
+                "A. This man holds the cue stick vertically.",
+                "B. This man holds the cue stick horizontally.",
+                "C. This man is swinging the cue stick.",
+                "D. This man's cue stick is just placed on the table."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_95": {
+            "id": "84EpEwIVFdU_95",
+            "scene": 6,
+            "dimension": "Visual-cue",
+            "question": "Which visual element indicates that the match is broadcast on a specific channel?",
+            "options": [
+                "A. The overlay display 'EUROSPORT 1' in the top right corner indicates that the match is broadcast on this specific channel.",
+                "B. The blue and white pattern on the event barrier indicates that the match is broadcast on a specific channel.",
+                "C. The MrQ on the participants' formal attire indicates that the match is broadcast on a specific channel.",
+                "D. The 'LIVE' in the top right corner indicates that the match is broadcast on a specific channel."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_96": {
+            "id": "84EpEwIVFdU_96",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "How does the background affect the man in the environment?",
+            "options": [
+                "A. The dark, shadowy background contrasts with the warm lighting focused on his upper body.",
+                "B. The bright, colorful background blends with the man's clothing, creating a vibrant atmosphere.",
+                "C. The background features various snooker-related images, integrating with the man's environment.",
+                "D. The lively and crowded background maintains high energy and contrasts with the man's relaxed posture."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_97": {
+            "id": "84EpEwIVFdU_97",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "What is the environment like in the video?",
+            "options": [
+                "A. The environment is calm, with a dark, neutral background.",
+                "B. The environment is lively, filled with a bustling audience.",
+                "C. The environment is calm, with a cool blue background.",
+                "D. The environment is lively, with a bright yellow background."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_98": {
+            "id": "84EpEwIVFdU_98",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "In the environment, what is this man wearing?",
+            "options": [
+                "A. The man is wearing a black T-shirt with white geometric triangle patterns.",
+                "B. The man is wearing formal suit attire.",
+                "C. The man is wearing a white shirt with blue stripes.",
+                "D. The man is wearing a red sweater."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_99": {
+            "id": "84EpEwIVFdU_99",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "How does the man behave in the environment?",
+            "options": [
+                "A. The man exhibits a calm demeanor, with a relaxed posture.",
+                "B. The man appears tense and uncomfortable.",
+                "C. The man actively uses gestures to express himself and speaks loudly.",
+                "D. The man stands and paces back and forth in the room."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_100": {
+            "id": "84EpEwIVFdU_100",
+            "scene": 7,
+            "dimension": "Description-Object",
+            "question": "What does the chair the man is sitting on look like?",
+            "options": [
+                "A. The chair is made of dark leather.",
+                "B. The chair is made of shiny metal material.",
+                "C. The chair is wooden with intricate carvings.",
+                "D. The chair is made of bright red fabric."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_101": {
+            "id": "84EpEwIVFdU_101",
+            "scene": 7,
+            "dimension": "Count",
+            "question": "How many visible text elements are in the background?",
+            "options": [
+                "A. There are two visible text elements.",
+                "B. There are three visible text elements.",
+                "C. There are four visible text elements.",
+                "D. There is one visible text element."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_102": {
+            "id": "84EpEwIVFdU_102",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What is the text in the top left corner of the background?",
+            "options": [
+                "A. SUBSCRIBE",
+                "B. SIGN UP",
+                "C. WATCH NOW",
+                "D. FOLLOW US"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_103": {
+            "id": "84EpEwIVFdU_103",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What is the text near the bottom left corner of the background?",
+            "options": [
+                "A. 'MORE SNOOKER'",
+                "B. 'SUBSCRIBE NOW'",
+                "C. 'NEXT MATCH'",
+                "D. 'WATCH LIVE'"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_104": {
+            "id": "84EpEwIVFdU_104",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "Has the man's posture changed in the subsequent frames?",
+            "options": [
+                "A. Yes, the man's posture has changed significantly in the subsequent frames.",
+                "B. No, the man's posture remains stable and consistent in the subsequent frames.",
+                "C. Yes, the man frequently changes his posture in the subsequent frames.",
+                "D. Yes, the man leans forward in the subsequent frames."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_105": {
+            "id": "84EpEwIVFdU_105",
+            "scene": 7,
+            "dimension": "Fine Grained Action",
+            "question": "In the scene, what did the man do with his right arm?",
+            "options": [
+                "A. The man's right arm is raised, pointing forward.",
+                "B. The man's right forearm is resting in a casual manner.",
+                "C. The man's right hand is covering his face.",
+                "D. The man's right arm is crossed over his chest."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_106": {
+            "id": "84EpEwIVFdU_106",
+            "scene": 7,
+            "dimension": "Camera Shot",
+            "question": "What type of camera setup is the scene composed of?",
+            "options": [
+                "A. A well-controlled professional video shooting setup with focused warm lighting and minimalistic composition.",
+                "B. An informal vlog setup with natural lighting and a cluttered background.",
+                "C. A spontaneous outdoor setup with bright sunlight and a busy environment.",
+                "D. A casual home video layout with mixed lighting and random items in the background."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_107": {
+            "id": "84EpEwIVFdU_107",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "How quickly do the text elements 'SUBSCRIBE' and 'MORE SNOOKER' become clearly readable?",
+            "options": [
+                "A. 'SUBSCRIBE' and 'MORE SNOOKER' gradually become clearly readable in subsequent frames, without showing rapid changes.",
+                "B. 'SUBSCRIBE' and 'MORE SNOOKER' become clearly readable immediately after transitioning to a dim background.",
+                "C. The text elements 'SUBSCRIBE' and 'MORE SNOOKER' remain blurry and never become clearly readable.",
+                "D. The text elements 'SUBSCRIBE' and 'MORE SNOOKER' completely disappear after the transition."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_108": {
+            "id": "84EpEwIVFdU_108",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "What is the main change in attribute visibility between the two frames?",
+            "options": [
+                "A. The text 'SUBSCRIBE' and 'MORE SNOOKER' becomes more blurred.",
+                "B. The text 'SUBSCRIBE' and 'MORE SNOOKER' becomes clearer and more visible.",
+                "C. The background transitions from black to white.",
+                "D. The lighting becomes brighter and more focused on the man's lower body."
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_109": {
+            "id": "84EpEwIVFdU_109",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "Which textual elements contribute to the promotional nature of the scene?",
+            "options": [
+                "A. Textual elements like 'SUBSCRIBE' and 'MORE SNOOKER'.",
+                "B. The large audience shown in the video and the intense competitive atmosphere displayed.",
+                "C. Adding subtitles explaining the rules of snooker.",
+                "D. The opening scene where a man plays snooker while wearing formal attire."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_110": {
+            "id": "84EpEwIVFdU_110",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "Where is the position of the text 'SUBSCRIBE' in the final static composition?",
+            "options": [
+                "A. The position of the text 'SUBSCRIBE' in the final static composition is at the top left corner of the screen.",
+                "B. The position of the text 'SUBSCRIBE' in the final static composition is at the bottom left corner of the screen.",
+                "C. The position of the text 'SUBSCRIBE' in the final static composition is at the center of the screen.",
+                "D. The position of the text 'SUBSCRIBE' in the final static composition is at the top right corner of the screen."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_111": {
+            "id": "84EpEwIVFdU_111",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "After this man disappears from the screen, what remains in the scene?",
+            "options": [
+                "A. After this man disappears, the scene shows a pitch-black background with 'SUBSCRIBE' written in the top left corner and 'MORE SNOOKER' in the bottom left corner.",
+                "B. After this man disappears, the scene shows a bright background with promotional banners and colorful snooker balls scattered across the screen.",
+                "C. After this man disappears, the scene changes to a pure white background with no text or other elements.",
+                "D. After this man disappears, the scene reveals a vibrant snooker table with players actively participating."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_112": {
+            "id": "84EpEwIVFdU_112",
+            "scene": 7,
+            "dimension": "Description-Human",
+            "question": "In the initial scene, how is the man's posture described?",
+            "options": [
+                "A. Upright and formal",
+                "B. Relaxed, sitting in the center",
+                "C. Slouched to one side",
+                "D. Stiff and tense, arms crossed"
+            ],
+            "answer": "B"
+        },
+        "84EpEwIVFdU_113": {
+            "id": "84EpEwIVFdU_113",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "Which text elements remain visible throughout the entire transition process?",
+            "options": [
+                "A. 'SUBSCRIBE' and 'MORE SNOOKER'",
+                "B. 'COMMENT' and 'LIKE VIDEO'",
+                "C. 'WATCH LATER' and 'SHARE'",
+                "D. 'JOIN NOW' and 'UP NEXT'"
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_114": {
+            "id": "84EpEwIVFdU_114",
+            "scene": 7,
+            "dimension": "Binary",
+            "question": "After that person disappeared, was there any movement in the picture?",
+            "options": [
+                "A. Yes, there was significant movement, and new characters appeared.",
+                "B. Yes, after that person disappeared, the lighting changed significantly.",
+                "C. No, after that person disappeared, there was no movement in the picture.",
+                "D. Yes, additional objects appeared to fill the scene."
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_115": {
+            "id": "84EpEwIVFdU_115",
+            "scene": 7,
+            "dimension": "Description-Scene",
+            "question": "After that man disappears, is there still depth in the picture?",
+            "options": [
+                "A. Yes, the background elements are complex, and there is a lot of depth.",
+                "B. Yes, the scene becomes more dynamic and full of depth.",
+                "C. No, after the man disappears, there is no depth in the picture.",
+                "D. No, but the picture becomes more cluttered due to the addition of new elements."
+            ],
+            "answer": "C"
+        },
+        "84EpEwIVFdU_116": {
+            "id": "84EpEwIVFdU_116",
+            "scene": 7,
+            "dimension": "Attribute Change",
+            "question": "After the man disappeared, what changes occurred to the surrounding lights?",
+            "options": [
+                "A. The surrounding lights gradually turned into complete pure black.",
+                "B. The room was brightly illuminated by spotlights.",
+                "C. The surrounding lights changed to deep blue.",
+                "D. The lights turned into a soft warm yellow."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_117": {
+            "id": "84EpEwIVFdU_117",
+            "scene": 7,
+            "dimension": "Visual-cue",
+            "question": "What visual cues are used in minimalist images to guide the audience's attention?",
+            "options": [
+                "A. The words 'SUBSCRIBE' and 'MORE SNOOKER'.",
+                "B. Brightly colored balloons in the background.",
+                "C. A man's colorful geometric pattern T-shirt.",
+                "D. Continuous movement and dynamic snooker scenes."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_118": {
+            "id": "84EpEwIVFdU_118",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What does the video initially focus on?",
+            "options": [
+                "A. The video initially focuses on two characters.",
+                "B. The video initially focuses on a man sitting in a leather chair.",
+                "C. The video initially focuses on the elements 'SUBSCRIBE' and 'MORE SNOOKER'.",
+                "D. The video initially focuses on a completely blank screen."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_119": {
+            "id": "84EpEwIVFdU_119",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What event marks the transition from a busy snooker scene to a minimalist setting?",
+            "options": [
+                "A. The scene transitions to a calm, introspective environment with a man sitting in a leather chair.",
+                "B. The snooker match suddenly ends with a loud announcement and flashing lights.",
+                "C. The man stands up and walks away, leaving an empty snooker table.",
+                "D. The camera zooms in for a detailed close-up of the snooker balls."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_120": {
+            "id": "84EpEwIVFdU_120",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What happens to the visibility of the audience when the camera focuses on the man in the black suit?",
+            "options": [
+                "A. As the camera gradually zooms in on the man in the black suit, the audience gradually fades out of focus.",
+                "B. As the camera gradually zooms in on the man in the black suit, the audience immediately fades out of focus.",
+                "C. The moment the camera focuses on the man, the audience immediately disappears from view.",
+                "D. Even when the camera focuses on the man, the audience remains invisible."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_121": {
+            "id": "84EpEwIVFdU_121",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "In the competition scene, what is the role of the man in the black suit?",
+            "options": [
+                "A. He is a professional snooker player.",
+                "B. He is a member of the audience.",
+                "C. He is the organizer of the event.",
+                "D. He is a security guard."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_122": {
+            "id": "84EpEwIVFdU_122",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How does a minimalist setting enhance the effect of video storytelling?",
+            "options": [
+                "A. A minimalist setting shifts the focus to a calm and intimate presentation of the theme.",
+                "B. A minimalist setting emphasizes the chaos and energy of billiard activities.",
+                "C. A minimalist setting weakens the expression of the theme by introducing unnecessary complexity and confusion.",
+                "D. A minimalist setting completely removes any promotional background."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_123": {
+            "id": "84EpEwIVFdU_123",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "When switching from the audience's perspective back to the protagonist, what does the camera capture first?",
+            "options": [
+                "A. The camera captures the audience applauding and participating in the event.",
+                "B. The camera captures a man sitting in a black leather chair.",
+                "C. The camera captures a snooker table with players.",
+                "D. The camera captures promotional text 'SUBSCRIBE' and 'MORE SNOOKER'."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_124": {
+            "id": "84EpEwIVFdU_124",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "During the transition of the audience display, what does the camera focus on next?",
+            "options": [
+                "A. The camera focuses on a man wearing a black shirt.",
+                "B. The camera is aimed at the snooker table.",
+                "C. The camera switches to a wide-angle shot of the entire snooker venue, capturing the audience's reactions and the overall atmosphere.",
+                "D. The camera zooms in on the scoreboard, prominently displaying the current score and player statistics."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_125": {
+            "id": "84EpEwIVFdU_125",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "In the interview scene, how does the transition occur after the man in the black suit finishes speaking?",
+            "options": [
+                "A. The video transitions to a wider perspective, then highlights dynamic match footage and the scoreboard.",
+                "B. The video switches to an animated segment showing a snooker ball rolling on the table.",
+                "C. The scene transitions to a behind-the-scenes look at the production setup of a snooker event.",
+                "D. It shifts to a historical review of famous snooker matches narrated by a renowned commentator."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_126": {
+            "id": "84EpEwIVFdU_126",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What changes occurred in the composition of the last few frames of the video?",
+            "options": [
+                "A. Only the black background and the text elements 'SUBSCRIBE' and 'MORE SNOOKER' remain as the focus.",
+                "B. The scene becomes crowded, new characters appear accompanied by bright colors and various complex elements.",
+                "C. The central character reappears, bringing back a vibrant snooker scene and dynamic visual effects.",
+                "D. The lighting is enhanced, adding multiple text elements that overshadow the return of the central character."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_127": {
+            "id": "84EpEwIVFdU_127",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the video focus on the person wearing the black shirt?",
+            "options": [
+                "A. To highlight the interaction of this contestant through interviews or comments.",
+                "B. To showcase this contestant's fashion taste.",
+                "C. To promote the brand of the black T-shirt.",
+                "D. To display the lighting effects at the event."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_128": {
+            "id": "84EpEwIVFdU_128",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the minimalist frame contain the 'SUBSCRIBE' text?",
+            "options": [
+                "A. Including the 'SUBSCRIBE' text serves as a promotional element to encourage viewers to subscribe.",
+                "B. Including the 'SUBSCRIBE' text is to provide a decorative element to the scene.",
+                "C. Including the 'SUBSCRIBE' text is to introduce the rules of snooker to the audience.",
+                "D. Including the 'SUBSCRIBE' text is to indicate the end of the video."
+            ],
+            "answer": "A"
+        },
+        "84EpEwIVFdU_129": {
+            "id": "84EpEwIVFdU_129",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does the minimalist framework include the 'MORE SNOOKER' text?",
+            "options": [
+                "A. Including the 'MORE SNOOKER' text is to further engage the audience with snooker-related content.",
+                "B. Including the 'MORE SNOOKER' text is to provide decorative elements for the scene.",
+                "C. Including the 'MORE SNOOKER' text is to indicate the end of the video.",
+                "D. Including the 'MORE SNOOKER' text is to introduce the rules of snooker to the audience."
+            ],
+            "answer": "A"
+        }
+    }
+}

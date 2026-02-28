@@ -1,0 +1,961 @@
+{
+    "scene_hint": {
+        "0": "Two avatars appear in the background accompanied by text.",
+        "1": "Two women are talking in a room.",
+        "2": "A judge and a man and a woman appear in the frame.",
+        "3": "Minimalist graphic text appears on a white background.",
+        "4": "A large amount of promotional text appears on a black background.",
+        "5": "The scene transitions from animation to text."
+    },
+    "qa": {
+        "CezlmUwMXNo_0": {
+            "id": "CezlmUwMXNo_0",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene?",
+            "options": [
+                "A. Pure black",
+                "B. Light blue",
+                "C. Off-white",
+                "D. Light gray"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_1": {
+            "id": "CezlmUwMXNo_1",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What are the characters in the scene like?",
+            "options": [
+                "A. A long-haired woman and a short-haired man.",
+                "B. A curly-haired woman and a short-haired man.",
+                "C. A curly-haired woman and a curly-haired man.",
+                "D. A short-haired woman and a long-haired man."
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_2": {
+            "id": "CezlmUwMXNo_2",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What color is the woman's headshot clothing?",
+            "options": [
+                "A. Green",
+                "B. Yellow",
+                "C. Brown",
+                "D. Blue"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_3": {
+            "id": "CezlmUwMXNo_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is that man wearing?",
+            "options": [
+                "A. Brown coat, white shirt, and red tie.",
+                "B. Black coat, white shirt, and black tie.",
+                "C. Red coat, white shirt, and red tie.",
+                "D. Black coat, white shirt, and brown tie."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_4": {
+            "id": "CezlmUwMXNo_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is between the two character avatars?",
+            "options": [
+                "A. Orange filled circle with the letter 'V.' inside.",
+                "B. Yellow filled circle with the letter 'A.' inside.",
+                "C. Orange filled circle with the letter 'A.' inside.",
+                "D. White filled circle with orange letter 'V.' inside."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_5": {
+            "id": "CezlmUwMXNo_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many people are mentioned in the scene?",
+            "options": [
+                "A. One.",
+                "B. Two.",
+                "C. Three.",
+                "D. Four."
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_6": {
+            "id": "CezlmUwMXNo_6",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What scene is mentioned in the text on the screen?",
+            "options": [
+                "A. Court",
+                "B. Stadium",
+                "C. Theater venue",
+                "D. Conference room"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_7": {
+            "id": "CezlmUwMXNo_7",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is the time shown in the scene?",
+            "options": [
+                "A. 1973",
+                "B. 1972",
+                "C. 1793",
+                "D. 1937"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_8": {
+            "id": "CezlmUwMXNo_8",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "In what environment does the scene take place?",
+            "options": [
+                "A. A clean and tidy indoor environment.",
+                "B. A chaotic and disordered street environment.",
+                "C. A clear air beach environment.",
+                "D. A lush and verdant forest environment."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_9": {
+            "id": "CezlmUwMXNo_9",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "From the video, what is the woman on the right side of the frame wearing?",
+            "options": [
+                "A. She is wearing a purple dress.",
+                "B. She is wearing a yellow puff dress.",
+                "C. She is wearing a green sleeveless dress.",
+                "D. She is wearing a red dress."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_10": {
+            "id": "CezlmUwMXNo_10",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the posture of the woman in the green dress?",
+            "options": [
+                "A. She is holding her stomach with her left hand, and her right hand is naturally hanging down.",
+                "B. She is raising both hands up, in a cheering pose.",
+                "C. Her right hand is suspended in front of her chest, and her left hand is supporting her right hand.",
+                "D. She is standing upright with both hands at her sides."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_11": {
+            "id": "CezlmUwMXNo_11",
+            "scene": 1,
+            "dimension": "Attribute Change",
+            "question": "Is there a change in the lighting in the scene?",
+            "options": [
+                "A. Yes, the lighting changes from bright to dim.",
+                "B. No, the lighting remains unchanged.",
+                "C. Yes, the lighting changes from morning to evening.",
+                "D. No, the lighting becomes overcast and cloudy."
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_12": {
+            "id": "CezlmUwMXNo_12",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "From the video, where is the glass window located?",
+            "options": [
+                "A. The glass window is on the far left side of the frame.",
+                "B. The glass window is on the far right side of the frame.",
+                "C. The glass window is at the center of the frame.",
+                "D. No glass window was found in this scene."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_13": {
+            "id": "CezlmUwMXNo_13",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "From the perspective of watching the video, where is the sofa in relation to the woman wearing green clothes?",
+            "options": [
+                "A. The sofa is to the right rear of the woman.",
+                "B. The sofa is to the left rear of the woman.",
+                "C. The sofa is directly behind the woman.",
+                "D. The sofa is directly in front of the woman."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_14": {
+            "id": "CezlmUwMXNo_14",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "Is the woman in the purple dress wearing any accessories?",
+            "options": [
+                "A. She is wearing pearl earrings on her ears.",
+                "B. She is wearing a silver bracelet on her wrist.",
+                "C. She is wearing a green pendant on her neck.",
+                "D. She is wearing a silver ring on her hand."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_15": {
+            "id": "CezlmUwMXNo_15",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What is the background of this scene like?",
+            "options": [
+                "A. The background includes a sofa, a cabinet, and a floor-to-ceiling window with curtains, etc.",
+                "B. The background includes a table, a TV, and a brightly colored sofa, etc.",
+                "C. The background includes a bookshelf, a bar counter, and a small blue window, etc.",
+                "D. The background includes a cupboard, a round table, a bar counter, and a tea set, etc."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_16": {
+            "id": "CezlmUwMXNo_16",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "From the video, where is the pregnant woman located in the frame?",
+            "options": [
+                "A. She is on the right side of the frame.",
+                "B. She is in the center of the frame.",
+                "C. She is on the left side of the frame.",
+                "D. She is behind the judge."
+            ],
+            "answer": "C"
+        },
+        "CezlmUwMXNo_17": {
+            "id": "CezlmUwMXNo_17",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the setting of this scene?",
+            "options": [
+                "A. The scene takes place in a cozy home environment, using warm tones.",
+                "B. The scene takes place on a busy city street with heavy traffic.",
+                "C. The scene takes place inside a courtroom, with a light gray background.",
+                "D. The scene takes place in a tranquil park surrounded by green trees."
+            ],
+            "answer": "C"
+        },
+        "CezlmUwMXNo_18": {
+            "id": "CezlmUwMXNo_18",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "How did the pregnant woman participate in the court proceedings?",
+            "options": [
+                "A. She asserted through a dialogue box that 'the abortion ban is unconstitutional'.",
+                "B. She sat quietly, observing the trial process without participating.",
+                "C. She was holding a stack of documents, presenting evidence to the judge.",
+                "D. She was questioning the man in the dark brown suit about his legal arguments."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_19": {
+            "id": "CezlmUwMXNo_19",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What items in the courtroom symbolize the judge's authority?",
+            "options": [
+                "A. A golden gavel and a stack of white paper",
+                "B. A black robe and a white collar",
+                "C. A wooden podium and a red tie",
+                "D. A dark suit and a speech bubble"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_20": {
+            "id": "CezlmUwMXNo_20",
+            "scene": 2,
+            "dimension": "Count",
+            "question": "How many people mainly appeared in the courtroom scene?",
+            "options": [
+                "A. Two people",
+                "B. Three people",
+                "C. Four people",
+                "D. Five people"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_21": {
+            "id": "CezlmUwMXNo_21",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "Who are the main characters in the courtroom scene?",
+            "options": [
+                "A. The pregnant woman, the judge, and the man in the dark brown suit.",
+                "B. The pregnant woman, the judge, and the jury.",
+                "C. The man in the dark brown suit, the judge, and a lawyer.",
+                "D. The judge, a lawyer, and a group of spectators."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_22": {
+            "id": "CezlmUwMXNo_22",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Is the judge wearing a red tie?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Only sometimes",
+                "D. Not mentioned"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_23": {
+            "id": "CezlmUwMXNo_23",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What actions does the pregnant woman take to demonstrate her determination and decisiveness?",
+            "options": [
+                "A. She expresses it through gestures and the use of words.",
+                "B. She stands quietly in a corner of the courtroom.",
+                "C. She listens attentively but does not speak.",
+                "D. She walks out of the courtroom."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_24": {
+            "id": "CezlmUwMXNo_24",
+            "scene": 2,
+            "dimension": "Object Direction",
+            "question": "From the video, which direction is the judge facing in the courtroom?",
+            "options": [
+                "A. The judge is facing forward, towards the audience or participants.",
+                "B. The judge is facing to the right, towards the man in the brown suit.",
+                "C. The judge is facing to the left, towards the pregnant woman.",
+                "D. The judge is facing away from the participants, towards the back."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_25": {
+            "id": "CezlmUwMXNo_25",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the posture of this pregnant woman?",
+            "options": [
+                "A. Her right hand is raised, and her left hand is touching her belly.",
+                "B. Her left hand is raised, and her right hand is naturally hanging down.",
+                "C. She raises both hands high, indicating resistance.",
+                "D. She has her hands on her hips, indicating anger."
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_26": {
+            "id": "CezlmUwMXNo_26",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is different between the courtroom's background and the previous family environment?",
+            "options": [
+                "A. The courtroom has a simple light gray background, contrasting with the previous warm family environment.",
+                "B. The courtroom has a dark wooden background, similar to the previous warm family environment.",
+                "C. The courtroom is decorated with colorful paintings, different from the previous family environment.",
+                "D. The courtroom is arranged with lush green plants, more vibrant than the previous family environment."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_27": {
+            "id": "CezlmUwMXNo_27",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "What text is engraved on the judge's podium in the courtroom?",
+            "options": [
+                "A. 'Supreme Court of the United States'",
+                "B. 'United States District Court, Northern District of Texas'",
+                "C. 'Court of Appeals, Fifth Circuit'",
+                "D. 'Texas State Supreme Court'"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_28": {
+            "id": "CezlmUwMXNo_28",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the judge's position?",
+            "options": [
+                "A. The judge is positioned behind the podium.",
+                "B. The judge is positioned next to the pregnant woman.",
+                "C. The judge is positioned in front of the courtroom.",
+                "D. The judge is positioned behind the red button."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_29": {
+            "id": "CezlmUwMXNo_29",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene take place?",
+            "options": [
+                "A. The scene takes place in a courtroom.",
+                "B. The scene takes place in a hospital.",
+                "C. The scene takes place in a conference room.",
+                "D. The scene takes place in a public park."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_30": {
+            "id": "CezlmUwMXNo_30",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the pregnant woman wearing in the courtroom scene?",
+            "options": [
+                "A. The pregnant woman is wearing green clothes.",
+                "B. The pregnant woman is wearing red clothes.",
+                "C. The pregnant woman is wearing black clothes.",
+                "D. The pregnant woman is wearing white clothes."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_31": {
+            "id": "CezlmUwMXNo_31",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Is the court set in a formal environment?",
+            "options": [
+                "A. Yes",
+                "B. No",
+                "C. Sometimes",
+                "D. Rarely"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_32": {
+            "id": "CezlmUwMXNo_32",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What is the pregnant woman doing in the courtroom?",
+            "options": [
+                "A. The pregnant woman is actively participating in the trial.",
+                "B. The pregnant woman is sitting quietly in the courtroom.",
+                "C. The pregnant woman is presenting evidence to the court.",
+                "D. The pregnant woman is observing from the gallery."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_33": {
+            "id": "CezlmUwMXNo_33",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What are the characteristics of the 'United States Supreme Court' text?",
+            "options": [
+                "A. White font displayed in a red rectangle.",
+                "B. White font displayed in a black rectangle.",
+                "C. Black font displayed in a gray rectangle.",
+                "D. Black font displayed in a red rectangle."
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_34": {
+            "id": "CezlmUwMXNo_34",
+            "scene": 3,
+            "dimension": "Object Direction",
+            "question": "In the scene, which direction does the light gray arrow point?",
+            "options": [
+                "A. The light gray arrow points upwards.",
+                "B. The light gray arrow points downwards.",
+                "C. The light gray arrow points to the left.",
+                "D. The light gray arrow points to the right."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_35": {
+            "id": "CezlmUwMXNo_35",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What are the characteristics of the 'District Court' text?",
+            "options": [
+                "A. Black font displayed within a gray rectangle.",
+                "B. White font displayed within a black rectangle.",
+                "C. Black font displayed within a red rectangle.",
+                "D. White font displayed within a blue rectangle."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_36": {
+            "id": "CezlmUwMXNo_36",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is the background like in this scene?",
+            "options": [
+                "A. Bright white background",
+                "B. Vivid yellow and white patchwork background",
+                "C. Warm background with floral patterns",
+                "D. Dim black background"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_37": {
+            "id": "CezlmUwMXNo_37",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What are the features of the 'Roe lose' text?",
+            "options": [
+                "A. White text displayed within a red rectangle.",
+                "B. Black text displayed within a gray rectangle.",
+                "C. White text displayed within a black rectangle.",
+                "D. Black text displayed within a blue rectangle."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_38": {
+            "id": "CezlmUwMXNo_38",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "Where is the position of the gray arrow in the scene?",
+            "options": [
+                "A. The gray arrow is displayed in the center of the screen",
+                "B. The gray arrow is displayed on the far left of the screen",
+                "C. The gray arrow is displayed on the far right of the screen",
+                "D. No arrow is displayed in the scene."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_39": {
+            "id": "CezlmUwMXNo_39",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "After the courtroom scene, where does the scene shift to?",
+            "options": [
+                "A. A simple white background with concise text information.",
+                "B. A judge reading the final verdict.",
+                "C. A bustling courthouse hallway crowded with reporters.",
+                "D. A narration explaining legal principles."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_40": {
+            "id": "CezlmUwMXNo_40",
+            "scene": 4,
+            "dimension": "Spatial",
+            "question": "Where is the promotional information located in the scene?",
+            "options": [
+                "A. The promotional information is located in the center of the picture.",
+                "B. The promotional information is located in the upper left corner of the picture.",
+                "C. The promotional information is located in the lower right corner of the picture.",
+                "D. The promotional information is located on the left side of the picture."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_41": {
+            "id": "CezlmUwMXNo_41",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Are there real human characters in the promotional scene?",
+            "options": [
+                "A. Yes, there are real human characters in the promotional scene.",
+                "B. No, there are no real human characters in the promotional scene.",
+                "C. Only silhouettes of real humans appear in the promotional scene.",
+                "D. There are animated real human characters in the promotional scene."
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_42": {
+            "id": "CezlmUwMXNo_42",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What did the promotional information say?",
+            "options": [
+                "A. 'Subscribe to unlock this video', 'and many more of our offers on', 'www.Quimbee.com'.",
+                "B. 'Subscribe to view all content', 'and thousands of others at', 'www.Quimbee.com'.",
+                "C. 'Subscribe to watch this video', 'and discover more at', 'www.Quimbee.com'.",
+                "D. 'Subscribe to unlock this video', 'and thousands of others at', 'www.Quimbee.com'."
+            ],
+            "answer": "D"
+        },
+        "CezlmUwMXNo_43": {
+            "id": "CezlmUwMXNo_43",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many lines of text are displayed in total in this scene?",
+            "options": [
+                "A. One line of text.",
+                "B. Two lines of text.",
+                "C. Three lines of text.",
+                "D. Four lines of text."
+            ],
+            "answer": "C"
+        },
+        "CezlmUwMXNo_44": {
+            "id": "CezlmUwMXNo_44",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "In the promotional material, is the text 'www.Quimbee.com' underlined?",
+            "options": [
+                "A. Yes, the text 'www.Quimbee.com' is underlined.",
+                "B. No, the text 'www.Quimbee.com' is not underlined.",
+                "C. The text 'www.Quimbee.com' is bolded, not underlined.",
+                "D. The text 'www.Quimbee.com' uses a different font."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_45": {
+            "id": "CezlmUwMXNo_45",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What color is the underline of the text “www.Quimbee.com”? ",
+            "options": [
+                "A. Yellow",
+                "B. Blue",
+                "C. Red",
+                "D. White"
+            ],
+            "answer": "C"
+        },
+        "CezlmUwMXNo_46": {
+            "id": "CezlmUwMXNo_46",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What was the text initially displayed in this scene?",
+            "options": [
+                "A. 'Subscribe to unlock this video'",
+                "B. 'Subscribe to Quimbee'",
+                "C. 'Unlock thousands of videos'",
+                "D. 'Watch this video'"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_47": {
+            "id": "CezlmUwMXNo_47",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What is the text displayed in the second line of this scene?",
+            "options": [
+                "A. 'and discover more at'",
+                "B. 'and thousands of others at'",
+                "C. 'and many more of our offers on'",
+                "D. 'www.Quimbee.com'"
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_48": {
+            "id": "CezlmUwMXNo_48",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "Which design element highlights the website address in the promotional information?",
+            "options": [
+                "A. The website address 'www.Quimbee.com' is highlighted with a red underline.",
+                "B. The website address 'www.Quimbee.com' is displayed in italics.",
+                "C. The website address 'www.Quimbee.com' is displayed in bold.",
+                "D. The website address 'www.Quimbee.com' is highlighted with a yellow background."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_49": {
+            "id": "CezlmUwMXNo_49",
+            "scene": 5,
+            "dimension": "Spatial",
+            "question": "What is the spatial relationship between the hammer and the light bulb in the picture?",
+            "options": [
+                "A. The hammer and the light bulb are contained within two interconnected red dashed circles.",
+                "B. The hammer and the light bulb are located in separate circles.",
+                "C. The hammer is inside a red dashed circle, while the light bulb is outside the circle.",
+                "D. Both the hammer and the light bulb are inside a red dashed circle."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_50": {
+            "id": "CezlmUwMXNo_50",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "Where is this scene taking place?",
+            "options": [
+                "A. It is taking place against a light blue background.",
+                "B. It is taking place against a light gray background.",
+                "C. It is taking place against a black background.",
+                "D. It is taking place against a white background."
+            ],
+            "answer": "C"
+        },
+        "CezlmUwMXNo_51": {
+            "id": "CezlmUwMXNo_51",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the overall environment like?",
+            "options": [
+                "A. The overall environment is noisy and chaotic.",
+                "B. The overall environment is simple and professional.",
+                "C. The overall environment is colorful and interesting.",
+                "D. The overall environment is traditional and splendid."
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_52": {
+            "id": "CezlmUwMXNo_52",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What items are depicted in the theme illustration?",
+            "options": [
+                "A. There is a hammer and a light bulb in the illustration.",
+                "B. There is a teardrop and a striking red circle in the illustration.",
+                "C. There is a wrench and a candle in the illustration.",
+                "D. There is a gavel and a clock in the illustration."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_53": {
+            "id": "CezlmUwMXNo_53",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What does the hammer symbolize in the thematic illustration?",
+            "options": [
+                "A. The hammer symbolizes creativity.",
+                "B. The hammer symbolizes authority.",
+                "C. The hammer symbolizes innovation.",
+                "D. The hammer symbolizes collaboration."
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_54": {
+            "id": "CezlmUwMXNo_54",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What does the light bulb symbolize in the thematic illustration?",
+            "options": [
+                "A. The light bulb suggests innovation or insight.",
+                "B. The light bulb symbolizes authority.",
+                "C. The light bulb represents a shape similar to a teardrop.",
+                "D. The light bulb indicates a promotional message."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_55": {
+            "id": "CezlmUwMXNo_55",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many different text elements are prominently displayed in the scene?",
+            "options": [
+                "A. Two.",
+                "B. Three.",
+                "C. Four.",
+                "D. One."
+            ],
+            "answer": "D"
+        },
+        "CezlmUwMXNo_56": {
+            "id": "CezlmUwMXNo_56",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What is the prominently displayed text element in the scene?",
+            "options": [
+                "A. “Quimbee”.",
+                "B. “Quimbee.com”.",
+                "C. “Quimbly”.",
+                "D. “Quimbee Pro”."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_57": {
+            "id": "CezlmUwMXNo_57",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What changes have occurred to the word 'Quimbee'?",
+            "options": [
+                "A. 'Quimbee' retains its cursive style.",
+                "B. 'Quimbee' has changed to a block bold font.",
+                "C. 'Quimbee' has been replaced by a hammer and light bulb.",
+                "D. 'Quimbee' has been replaced by a red circle."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_58": {
+            "id": "CezlmUwMXNo_58",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "How do geometric elements transition in the video?",
+            "options": [
+                "A. The geometric elements transition from interconnected circles with symbols to a solid red circle, then completely disappear.",
+                "B. The geometric elements transition from multiple interconnected circles to a solid red triangle, then fade into the central text.",
+                "C. The geometric elements remain as interconnected circles with different symbols throughout the video.",
+                "D. The geometric elements transition from a droplet shape and a bold solid red circle to interconnected circles with symbols, then completely disappear."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_59": {
+            "id": "CezlmUwMXNo_59",
+            "scene": 5,
+            "dimension": "Description-Object",
+            "question": "What shape are the geometric figures appearing in the scene?",
+            "options": [
+                "A. Triangle.",
+                "B. Circle.",
+                "C. Square.",
+                "D. Rectangle."
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_60": {
+            "id": "CezlmUwMXNo_60",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "From the video, where is the man's head positioned in relation to the woman's head?",
+            "options": [
+                "A. The man is to the right of the woman",
+                "B. The man is to the left of the woman",
+                "C. The man is above the woman",
+                "D. The man is below the woman"
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_61": {
+            "id": "CezlmUwMXNo_61",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "At the beginning of the video, where are the two people's avatars positioned?",
+            "options": [
+                "A. Aligned and displayed side by side in the center of the screen.",
+                "B. Arranged vertically on the left side of the screen.",
+                "C. Aligned and displayed side by side on the right side of the screen.",
+                "D. Arranged vertically in the center of the screen."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_62": {
+            "id": "CezlmUwMXNo_62",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What are the characteristics of the wall in the living room?",
+            "options": [
+                "A. Off-white wall covered with floral patterns.",
+                "B. Composed of bright geometric patterns.",
+                "C. Gray wall with light blue wave patterns.",
+                "D. Light yellow wall with gray vertical stripes."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_63": {
+            "id": "CezlmUwMXNo_63",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "Where are the hammer and light bulb located at the end of the video?",
+            "options": [
+                "A. The hammer is on the right side of the screen, and the light bulb is on the left side of the screen.",
+                "B. The hammer is on the left side of the screen, and the light bulb is on the right side of the screen.",
+                "C. The hammer is in the upper left corner of the screen, and the light bulb is in the lower right corner of the screen.",
+                "D. The hammer and light bulb switch positions between the left and right sides of the screen."
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_64": {
+            "id": "CezlmUwMXNo_64",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the pregnant woman discussing in the living room?",
+            "options": [
+                "A. She plans to have an abortion.",
+                "B. Her plans to renovate the living room.",
+                "C. Her excitement about becoming a mother.",
+                "D. Her recent promotion."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_65": {
+            "id": "CezlmUwMXNo_65",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "What is the response of the woman in the purple dress to the pregnant woman's words?",
+            "options": [
+                "A. The woman in the purple dress agrees with the pregnant woman's statement and expresses her support.",
+                "B. The woman in the purple dress tells the pregnant woman that abortion is illegal in Texas.",
+                "C. The woman in the purple dress suggests the pregnant woman seek a second opinion from another doctor.",
+                "D. The woman in the purple dress remains silent and does not respond to the pregnant woman's words."
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_66": {
+            "id": "CezlmUwMXNo_66",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What argument did the pregnant woman present in court?",
+            "options": [
+                "A. The pregnant woman argued that the abortion ban is unconstitutional.",
+                "B. The pregnant woman argued that the abortion ban is economically harmful.",
+                "C. The pregnant woman argued that the abortion ban is a public health risk.",
+                "D. The pregnant woman argued that the abortion ban infringes on the right to privacy."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_67": {
+            "id": "CezlmUwMXNo_67",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the judge's courtroom environment convey?",
+            "options": [
+                "A. The judge's environment is simple and neutral, highlighting the formal and legal atmosphere of the setting.",
+                "B. The judge's environment is chaotic and filled with various items, making it difficult to focus on the trial.",
+                "C. The judge's environment is decorated with bright and vibrant colors, creating a pleasant and relaxed atmosphere.",
+                "D. The judge's environment is plain but cluttered with files and documents, indicating a busy and somewhat disorganized workload."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_68": {
+            "id": "CezlmUwMXNo_68",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the text banner of court levels show?",
+            "options": [
+                "A. They highlight the transition from local courts to the United States Supreme Court.",
+                "B. They illustrate the importance of jury selection in a courtroom setting.",
+                "C. They emphasize the role of lawyers in presenting evidence and debating in court.",
+                "D. They compare different courtroom layouts and their impact on legal proceedings."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_69": {
+            "id": "CezlmUwMXNo_69",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What does the red rectangular button labeled 'Roe loses' mean?",
+            "options": [
+                "A. It indicates a specific outcome, showing that 'Roe' lost in the district court.",
+                "B. It represents a general promotional message unrelated to court rulings.",
+                "C. It highlights a new feature update on the Quimbee website.",
+                "D. It is a placeholder button with no specific meaning."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_70": {
+            "id": "CezlmUwMXNo_70",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why does this pregnant woman believe the abortion ban is unconstitutional?",
+            "options": [
+                "A. The woman believes the abortion ban infringes on her right to equal pay.",
+                "B. The woman wants to have an abortion, but Texas law makes it illegal, so she believes the ban is unconstitutional.",
+                "C. The woman believes the ban infringes on her right to free speech.",
+                "D. The woman claims the abortion ban is unconstitutional because it increases medical costs."
+            ],
+            "answer": "B"
+        },
+        "CezlmUwMXNo_71": {
+            "id": "CezlmUwMXNo_71",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Why has the courtroom environment become a textual description?",
+            "options": [
+                "A. This change emphasizes the legal process and highlights judicial procedures.",
+                "B. This change adds dramatic effect to the scene.",
+                "C. This change introduces commercial break time.",
+                "D. This change shifts the focus to a new character."
+            ],
+            "answer": "A"
+        },
+        "CezlmUwMXNo_72": {
+            "id": "CezlmUwMXNo_72",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the significance of the promotional message at the end of the video?",
+            "options": [
+                "A. The promotional message emphasizes the importance of subscribing to access the video and website content.",
+                "B. The promotional message discourages users from subscribing and emphasizes free access to all content.",
+                "C. The promotional message focuses on the history and origins of the Quimbee platform.",
+                "D. The promotional message has no significant impact on the audience and is only used as decoration."
+            ],
+            "answer": "A"
+        }
+    }
+}

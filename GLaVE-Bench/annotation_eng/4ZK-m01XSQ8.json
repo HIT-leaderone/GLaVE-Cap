@@ -1,0 +1,987 @@
+{
+    "scene_hint": {
+        "0": "The screen highlights an athlete.",
+        "1": "The athlete is preparing at the starting line.",
+        "2": "The athlete is running in the frame.",
+        "3": "The camera focuses on an athlete.",
+        "4": "The image of the athlete sprinting towards the finish line.",
+        "5": "The screen shows a track."
+    },
+    "qa": {
+        "4ZK-m01XSQ8_0": {
+            "id": "4ZK-m01XSQ8_0",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the pillar marked with the number '5' relative to the scene?",
+            "options": [
+                "A. Located to the right of the athlete.",
+                "B. Located to the left of the athlete.",
+                "C. Located directly in front of the athlete.",
+                "D. Completely invisible in the scene."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_1": {
+            "id": "4ZK-m01XSQ8_1",
+            "scene": 0,
+            "dimension": "Spatial",
+            "question": "Where is the column numbered '6' located relative to the image?",
+            "options": [
+                "A. On the right side of the image.",
+                "B. In front of the athlete.",
+                "C. Behind the athlete.",
+                "D. On the left side of the image."
+            ],
+            "answer": "D"
+        },
+        "4ZK-m01XSQ8_2": {
+            "id": "4ZK-m01XSQ8_2",
+            "scene": 0,
+            "dimension": "Description-Scene",
+            "question": "Where does the scene take place?",
+            "options": [
+                "A. The scene takes place on a basketball court.",
+                "B. The scene takes place in a gym.",
+                "C. The scene takes place at the starting line of a track.",
+                "D. The scene takes place at a swimming pool diving platform."
+            ],
+            "answer": "C"
+        },
+        "4ZK-m01XSQ8_3": {
+            "id": "4ZK-m01XSQ8_3",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the athlete in the picture doing?",
+            "options": [
+                "A. The athlete is in a crouched starting position.",
+                "B. The athlete is jumping over an obstacle during a race.",
+                "C. The athlete is crossing the finish line.",
+                "D. The athlete is walking on the track."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_4": {
+            "id": "4ZK-m01XSQ8_4",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What is written on the backdrop in the scene?",
+            "options": [
+                "A. 'OPYCC' and 'ТРАХО'.",
+                "B. The number '667532'.",
+                "C. There are red and green symbols.",
+                "D. The names of the athletes and their countries."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_5": {
+            "id": "4ZK-m01XSQ8_5",
+            "scene": 0,
+            "dimension": "Count",
+            "question": "How many visible numbered pillars are there in the scene?",
+            "options": [
+                "A. One",
+                "B. Two",
+                "C. Three",
+                "D. Four"
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_6": {
+            "id": "4ZK-m01XSQ8_6",
+            "scene": 0,
+            "dimension": "Binary",
+            "question": "Is the number '5' on the pillar fully visible?",
+            "options": [
+                "A. Yes, it is fully visible.",
+                "B. No, it is partially obscured.",
+                "C. Yes, but it is encircled by a red circle.",
+                "D. No, it is completely obscured."
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_7": {
+            "id": "4ZK-m01XSQ8_7",
+            "scene": 0,
+            "dimension": "Description-Human",
+            "question": "What is the athlete doing with his hands?",
+            "options": [
+                "A. The athlete places his hands on the track surface.",
+                "B. The athlete holds the starting block.",
+                "C. The athlete adjusts the straps of his sports vest.",
+                "D. The athlete waves to the audience."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_8": {
+            "id": "4ZK-m01XSQ8_8",
+            "scene": 0,
+            "dimension": "Camera Shot",
+            "question": "What type of photographic angle is used in the image?",
+            "options": [
+                "A. Close-up angle.",
+                "B. Front angle.",
+                "C. Bird's-eye view.",
+                "D. Side shot."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_9": {
+            "id": "4ZK-m01XSQ8_9",
+            "scene": 0,
+            "dimension": "Description-Object",
+            "question": "What is visible on the back of the athlete?",
+            "options": [
+                "A. Competition number bib.",
+                "B. Sponsor logo.",
+                "C. Athlete's name.",
+                "D. Decorative pattern."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_10": {
+            "id": "4ZK-m01XSQ8_10",
+            "scene": 0,
+            "dimension": "Visual-cue",
+            "question": "What symbol is in the upper right corner of the screen?",
+            "options": [
+                "A. One with the text '6 БЕЛАРУСЬ'.",
+                "B. One with the text '5 БЕЛАРУСЬ'.",
+                "C. One with the text '5 БЕЛСЬАРУ'.",
+                "D. One with the text '6 БЕЛСЬАРУ'."
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_11": {
+            "id": "4ZK-m01XSQ8_11",
+            "scene": 1,
+            "dimension": "Spatial",
+            "question": "Where is the athlete wearing the yellow uniform located?",
+            "options": [
+                "A. In lane 6.",
+                "B. In lane 2.",
+                "C. In lane 7.",
+                "D. In lane 4."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_12": {
+            "id": "4ZK-m01XSQ8_12",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What can be seen in the scene?",
+            "options": [
+                "A. Multiple athletes are at the starting position.",
+                "B. An athlete is practicing alone on the track.",
+                "C. A group of people are scattered on the track.",
+                "D. Hurdles are placed on the grass."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_13": {
+            "id": "4ZK-m01XSQ8_13",
+            "scene": 1,
+            "dimension": "Description-Scene",
+            "question": "What can be seen in the scene?",
+            "options": [
+                "A. Only the seating area.",
+                "B. Seating area, event banners, and TV broadcast signs.",
+                "C. Only the seating area and TV broadcast signs.",
+                "D. Only the seating area and event banners."
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_14": {
+            "id": "4ZK-m01XSQ8_14",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the staff member marked '32 HB' doing?",
+            "options": [
+                "A. Standing near the hurdles.",
+                "B. Starting the race with a whistle.",
+                "C. Giving instructions to the athletes.",
+                "D. Waving a flag to signal the start of the race."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_15": {
+            "id": "4ZK-m01XSQ8_15",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "What visible signs are in the scene?",
+            "options": [
+                "A. 'BELARUS RE'.",
+                "B. 'Nike' and 'Adidas'.",
+                "C. 'World Athletics Championships'.",
+                "D. 'Olympics 2024'."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_16": {
+            "id": "4ZK-m01XSQ8_16",
+            "scene": 1,
+            "dimension": "Visual-cue",
+            "question": "How are promotional elements represented in the scene?",
+            "options": [
+                "A. Banners are visible along with the brand logo.",
+                "B. No promotional elements are visible on site.",
+                "C. Only the text 'BELARUS RE' is visible.",
+                "D. Only the logo of a global shoe brand is visible."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_17": {
+            "id": "4ZK-m01XSQ8_17",
+            "scene": 1,
+            "dimension": "Count",
+            "question": "How many athletes can be seen at the starting position?",
+            "options": [
+                "A. Four athletes",
+                "B. Six athletes",
+                "C. Seven athletes",
+                "D. Eight athletes"
+            ],
+            "answer": "C"
+        },
+        "4ZK-m01XSQ8_18": {
+            "id": "4ZK-m01XSQ8_18",
+            "scene": 1,
+            "dimension": "Binary",
+            "question": "Is the event held outdoors?",
+            "options": [
+                "A. Yes, it is held outdoors.",
+                "B. No, it is held indoors.",
+                "C. It is unclear whether the event is indoors or outdoors.",
+                "D. The event is a combination of indoor and outdoor."
+            ],
+            "answer": "C"
+        },
+        "4ZK-m01XSQ8_19": {
+            "id": "4ZK-m01XSQ8_19",
+            "scene": 1,
+            "dimension": "Description-Human",
+            "question": "What is the athlete wearing a red vest and black shorts doing?",
+            "options": [
+                "A. Walking towards the seating area without any clear interaction.",
+                "B. Preparing the starting blocks for another athlete.",
+                "C. Talking to a staff member wearing a gray jacket.",
+                "D. Checking the scoreboard at the starting line."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_20": {
+            "id": "4ZK-m01XSQ8_20",
+            "scene": 1,
+            "dimension": "Camera Shot",
+            "question": "What type of perspective does the camera use?",
+            "options": [
+                "A. Close-up perspective.",
+                "B. Bird's-eye perspective.",
+                "C. Wide-angle perspective.",
+                "D. Audience perspective."
+            ],
+            "answer": "C"
+        },
+        "4ZK-m01XSQ8_21": {
+            "id": "4ZK-m01XSQ8_21",
+            "scene": 2,
+            "dimension": "Spatial",
+            "question": "Where is the athlete wearing a green vest and black shorts located in the picture?",
+            "options": [
+                "A. In the center of the picture",
+                "B. On the far right of the picture",
+                "C. On the far left of the picture",
+                "D. Not in the picture"
+            ],
+            "answer": "C"
+        },
+        "4ZK-m01XSQ8_22": {
+            "id": "4ZK-m01XSQ8_22",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What is the environment of the competition?",
+            "options": [
+                "A. The competition takes place in a stadium.",
+                "B. The competition takes place on the beach.",
+                "C. The competition takes place in the forest.",
+                "D. The competition takes place in an urban area."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_23": {
+            "id": "4ZK-m01XSQ8_23",
+            "scene": 2,
+            "dimension": "Description-Scene",
+            "question": "What can be seen in the scene?",
+            "options": [
+                "A. Trees and grass.",
+                "B. Text signs and billboards.",
+                "C. Spectators and sanitation workers.",
+                "D. Banners and cheering flags."
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_24": {
+            "id": "4ZK-m01XSQ8_24",
+            "scene": 2,
+            "dimension": "Description-Human",
+            "question": "What does the athlete in a green top and black shorts do in the scene?",
+            "options": [
+                "A. Continuously perfecting the hurdle jumps.",
+                "B. Falls on the track.",
+                "C. Knocks the hurdle to the ground.",
+                "D. Sits on the grass to rest."
+            ],
+            "answer": "C"
+        },
+        "4ZK-m01XSQ8_25": {
+            "id": "4ZK-m01XSQ8_25",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "What is the athlete wearing a green top and blue shorts doing in the scene?",
+            "options": [
+                "A. Constantly jumping over hurdles.",
+                "B. Falling on the track.",
+                "C. Knocking down hurdles to the ground.",
+                "D. Sitting on the grass resting."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_26": {
+            "id": "4ZK-m01XSQ8_26",
+            "scene": 2,
+            "dimension": "Description-Object",
+            "question": "What does the mascot look like in the scene?",
+            "options": [
+                "A. It has a yellow head.",
+                "B. It has a blue head.",
+                "C. It has a red head.",
+                "D. It has a green head."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_27": {
+            "id": "4ZK-m01XSQ8_27",
+            "scene": 2,
+            "dimension": "Binary",
+            "question": "Can the athlete wearing a bright yellow jersey be seen at all times?",
+            "options": [
+                "A. Yes, he can be seen throughout the entire process.",
+                "B. No, he exited the frame halfway through.",
+                "C. No, there is no athlete wearing a bright yellow jersey.",
+                "D. Yes, but later he stood still."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_28": {
+            "id": "4ZK-m01XSQ8_28",
+            "scene": 2,
+            "dimension": "Fine Grained Action",
+            "question": "How do runners in all-black uniforms weave through hurdles?",
+            "options": [
+                "A. Carefully and slowly approach each hurdle.",
+                "B. Quickly and accurately leap over the hurdles.",
+                "C. Spin and jump in the air while hurdling.",
+                "D. Pause before each hurdle and then jump over."
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_29": {
+            "id": "4ZK-m01XSQ8_29",
+            "scene": 2,
+            "dimension": "Visual-cue",
+            "question": "Where is the timer located in the picture?",
+            "options": [
+                "A. Bottom right corner of the picture.",
+                "B. Top left corner of the picture.",
+                "C. Bottom left corner of the picture.",
+                "D. Top right corner of the picture."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_30": {
+            "id": "4ZK-m01XSQ8_30",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What type of camera lens is used to shoot in the scene?",
+            "options": [
+                "A. Wide-angle lens.",
+                "B. Close-up shot.",
+                "C. Low angle.",
+                "D. Pan shot."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_31": {
+            "id": "4ZK-m01XSQ8_31",
+            "scene": 2,
+            "dimension": "Camera Shot",
+            "question": "What is the focus of the shots in the scene?",
+            "options": [
+                "A. Focus on the athletes on the track.",
+                "B. Only focus on the appearance of the mascot.",
+                "C. Only highlight the sponsor's logo.",
+                "D. Focus on the digital timer."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_32": {
+            "id": "4ZK-m01XSQ8_32",
+            "scene": 3,
+            "dimension": "Spatial",
+            "question": "From the direction the athlete is moving, where is the athlete wearing a yellow top on the track?",
+            "options": [
+                "A. The athlete is on the far left track.",
+                "B. The athlete is on the sixth track from the right.",
+                "C. The athlete is on the central track.",
+                "D. The athlete is on the far right track."
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_33": {
+            "id": "4ZK-m01XSQ8_33",
+            "scene": 3,
+            "dimension": "Description-Object",
+            "question": "What other colors are the railings in the scene besides white?",
+            "options": [
+                "A. Blue.",
+                "B. Black.",
+                "C. Green.",
+                "D. Red."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_34": {
+            "id": "4ZK-m01XSQ8_34",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is next to the track in the scene?",
+            "options": [
+                "A. Grass.",
+                "B. Sand.",
+                "C. Concrete.",
+                "D. Water."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_35": {
+            "id": "4ZK-m01XSQ8_35",
+            "scene": 3,
+            "dimension": "Description-Scene",
+            "question": "What is on the grass in the scene?",
+            "options": [
+                "A. White promotional banner.",
+                "B. Digital timer and lane markings.",
+                "C. Crowd and a scoreboard.",
+                "D. Flags and a competition leaderboard."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_36": {
+            "id": "4ZK-m01XSQ8_36",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "What does the leading athlete look like?",
+            "options": [
+                "A. Wearing a black top and black shorts.",
+                "B. Wearing a blue top and white shorts.",
+                "C. Wearing a yellow top and red shorts.",
+                "D. Wearing an all-white outfit."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_37": {
+            "id": "4ZK-m01XSQ8_37",
+            "scene": 3,
+            "dimension": "Attribute Change",
+            "question": "In the scene, what happened to the athlete who was leading at the start?",
+            "options": [
+                "A. Continued running to approach the finish line.",
+                "B. Was overtaken by other athletes.",
+                "C. Stopped near the hurdles to rest.",
+                "D. Received assistance from the staff."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_38": {
+            "id": "4ZK-m01XSQ8_38",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What is the prominent object displayed in the bottom right corner of the screen?",
+            "options": [
+                "A. Digital timer",
+                "B. Sponsor's logo",
+                "C. Red flag",
+                "D. Starting block"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_39": {
+            "id": "4ZK-m01XSQ8_39",
+            "scene": 3,
+            "dimension": "Visual-cue",
+            "question": "What does the number box in the bottom right corner of the screen represent?",
+            "options": [
+                "A. It represents the countdown time of the match.",
+                "B. It represents the remaining time until the end of the match.",
+                "C. It represents the instantaneous speed of the athlete.",
+                "D. It represents the number of laps completed in the match."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_40": {
+            "id": "4ZK-m01XSQ8_40",
+            "scene": 3,
+            "dimension": "Count",
+            "question": "How many athletes are visible when the first athlete finishes the race?",
+            "options": [
+                "A. Two athletes.",
+                "B. Three athletes.",
+                "C. Four athletes.",
+                "D. Five athletes."
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_41": {
+            "id": "4ZK-m01XSQ8_41",
+            "scene": 3,
+            "dimension": "Binary",
+            "question": "Is the athlete wearing a yellow top currently leading the race?",
+            "options": [
+                "A. Yes, the athlete wearing a yellow top is currently leading the race.",
+                "B. No, the athlete wearing a yellow top is not leading the race.",
+                "C. The athlete wearing a yellow top is not visible in the frame.",
+                "D. The athlete wearing a yellow top is participating in another race."
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_42": {
+            "id": "4ZK-m01XSQ8_42",
+            "scene": 3,
+            "dimension": "Description-Human",
+            "question": "After completing the hurdle action, what is the athlete wearing a blue top and black shorts doing?",
+            "options": [
+                "A. The athlete maintains momentum and continues forward.",
+                "B. The athlete is slowing down to observe the surroundings.",
+                "C. The athlete is celebrating after overcoming the obstacle.",
+                "D. The athlete moves to the side of the track to rest."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_43": {
+            "id": "4ZK-m01XSQ8_43",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What camera angle is used in the game footage?",
+            "options": [
+                "A. High camera angle following the perspective.",
+                "B. Low camera angle perspective.",
+                "C. Overhead camera angle perspective.",
+                "D. Camera angle switches between close-up and wide-angle perspectives."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_44": {
+            "id": "4ZK-m01XSQ8_44",
+            "scene": 3,
+            "dimension": "Camera Shot",
+            "question": "What is the focus of the camera in the scene?",
+            "options": [
+                "A. Focus on the leading few athletes.",
+                "B. Focus on the cheering crowd.",
+                "C. The camera only focuses on the leading runner.",
+                "D. Focus on the railing itself."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_45": {
+            "id": "4ZK-m01XSQ8_45",
+            "scene": 4,
+            "dimension": "Description-Human",
+            "question": "Which track is the athlete in the black short sleeve running on?",
+            "options": [
+                "A. Track 1",
+                "B. Track 2",
+                "C. Track 3",
+                "D. Track 4"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_46": {
+            "id": "4ZK-m01XSQ8_46",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What is happening in the scene and where is it taking place?",
+            "options": [
+                "A. On the red runway",
+                "B. In the swimming venue",
+                "C. On the yellow runway",
+                "D. On the city streets"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_47": {
+            "id": "4ZK-m01XSQ8_47",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What equipment is placed near the track?",
+            "options": [
+                "A. Tripod camera",
+                "B. Timing gate",
+                "C. Water supply station",
+                "D. Medical tent"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_48": {
+            "id": "4ZK-m01XSQ8_48",
+            "scene": 4,
+            "dimension": "Count",
+            "question": "How many athletes can be seen in the scene?",
+            "options": [
+                "A. One athlete",
+                "B. Three athletes",
+                "C. Five athletes",
+                "D. Seven athletes"
+            ],
+            "answer": "D"
+        },
+        "4ZK-m01XSQ8_49": {
+            "id": "4ZK-m01XSQ8_49",
+            "scene": 4,
+            "dimension": "Binary",
+            "question": "Did the athlete on lane 1 cross the finish line?",
+            "options": [
+                "A. Yes.",
+                "B. No, he withdrew due to injury.",
+                "C. No, he is still competing.",
+                "D. There is no athlete on lane 1."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_50": {
+            "id": "4ZK-m01XSQ8_50",
+            "scene": 4,
+            "dimension": "Fine Grained Action",
+            "question": "What is the athlete in lane 2 doing?",
+            "options": [
+                "A. The athlete is resting beside the finish line.",
+                "B. The athlete is running and crossing the finish line.",
+                "C. The athlete is walking back to the starting point.",
+                "D. The athlete is waving to the audience."
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_51": {
+            "id": "4ZK-m01XSQ8_51",
+            "scene": 4,
+            "dimension": "Object Direction",
+            "question": "Which direction is the athlete in the second lane moving?",
+            "options": [
+                "A. Towards the finish line",
+                "B. Away from the finish line",
+                "C. Stationary",
+                "D. Towards the stands"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_52": {
+            "id": "4ZK-m01XSQ8_52",
+            "scene": 4,
+            "dimension": "Camera Shot",
+            "question": "What type of camera angle is used in the scene?",
+            "options": [
+                "A. Low-angle shot",
+                "B. High-angle shot",
+                "C. Close-up shot",
+                "D. Overhead shot"
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_53": {
+            "id": "4ZK-m01XSQ8_53",
+            "scene": 4,
+            "dimension": "Description-Scene",
+            "question": "What happened when the athlete crossed the finish line?",
+            "options": [
+                "A. White steam or smoke was emitted.",
+                "B. The horizontal bar of the finish line was knocked down by the athlete.",
+                "C. Fireworks exploded in the sky.",
+                "D. Colored streamers fell down."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_54": {
+            "id": "4ZK-m01XSQ8_54",
+            "scene": 4,
+            "dimension": "Visual-cue",
+            "question": "What is the reading on the digital timer when it stops?",
+            "options": [
+                "A. 13.72 seconds",
+                "B. 12.85 seconds",
+                "C. 14.05 seconds",
+                "D. 15.30 seconds"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_55": {
+            "id": "4ZK-m01XSQ8_55",
+            "scene": 5,
+            "dimension": "Description-Scene",
+            "question": "What is the background of the scene?",
+            "options": [
+                "A. It takes place on a red-brown synthetic track.",
+                "B. It takes place on a beach.",
+                "C. It takes place in a swimming venue.",
+                "D. It takes place on a forest trail."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_56": {
+            "id": "4ZK-m01XSQ8_56",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What elements or signs can be seen in the scene?",
+            "options": [
+                "A. '5 БЕЛАРУСЬ' sign and '13.72'.",
+                "B. Only displays '13.72'.",
+                "C. A green sign and '15.62'.",
+                "D. No visible elements."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_57": {
+            "id": "4ZK-m01XSQ8_57",
+            "scene": 5,
+            "dimension": "Visual-cue",
+            "question": "What does the timer display?",
+            "options": [
+                "A. The timer displays '13.72' seconds.",
+                "B. The timer displays '12.85' seconds.",
+                "C. The timer displays '14.00' seconds.",
+                "D. The timer displays '11.50' seconds."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_58": {
+            "id": "4ZK-m01XSQ8_58",
+            "scene": 5,
+            "dimension": "Attribute Change",
+            "question": "What happens to the timer later?",
+            "options": [
+                "A. The timer's color changes to blue.",
+                "B. The timer becomes partially transparent.",
+                "C. The timer displays 14.00 seconds.",
+                "D. The timer completely disappears from view."
+            ],
+            "answer": "B"
+        },
+        "4ZK-m01XSQ8_59": {
+            "id": "4ZK-m01XSQ8_59",
+            "scene": 5,
+            "dimension": "Count",
+            "question": "How many athletes can be seen in the scene?",
+            "options": [
+                "A. One athlete can be seen.",
+                "B. Two athletes can be seen.",
+                "C. Three athletes can be seen.",
+                "D. No athletes can be seen."
+            ],
+            "answer": "D"
+        },
+        "4ZK-m01XSQ8_60": {
+            "id": "4ZK-m01XSQ8_60",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What is the athlete's posture at the start of the race?",
+            "options": [
+                "A. The athlete crouches at the starting position.",
+                "B. The athlete stands upright.",
+                "C. The athlete jogs in place.",
+                "D. The athlete does stretching exercises at the side of the track."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_61": {
+            "id": "4ZK-m01XSQ8_61",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the athlete on lane 6 wearing at the start of the race?",
+            "options": [
+                "A. The athlete is wearing a yellow sports shirt.",
+                "B. The athlete is wearing a red vest.",
+                "C. The athlete is wearing a green sports shirt with white stripes.",
+                "D. The athlete is wearing a blue sleeveless top."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_62": {
+            "id": "4ZK-m01XSQ8_62",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "Which athlete crossed the finish line last?",
+            "options": [
+                "A. The athlete in black sportswear.",
+                "B. The athlete in red sportswear.",
+                "C. The contestant in white and blue uniform.",
+                "D. The athlete in green sportswear."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_63": {
+            "id": "4ZK-m01XSQ8_63",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "Which athlete finished the race first?",
+            "options": [
+                "A. Athlete in lane 4",
+                "B. Athlete in lane 2",
+                "C. Athlete in lane 1",
+                "D. Athlete in lane 3"
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_64": {
+            "id": "4ZK-m01XSQ8_64",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "What happened on the track after the competition ended?",
+            "options": [
+                "A. There were no athletes on the track.",
+                "B. The track was covered with confetti.",
+                "C. Spectators began to walk onto the track.",
+                "D. The judges started dismantling the timing equipment."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_65": {
+            "id": "4ZK-m01XSQ8_65",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What role does the mascot play in the competition environment?",
+            "options": [
+                "A. The mascot distributes medals at the finish line.",
+                "B. The mascot serves as the starter for the competition.",
+                "C. The mascot appears as decoration in the scene.",
+                "D. The mascot does not appear during the competition."
+            ],
+            "answer": "C"
+        },
+        "4ZK-m01XSQ8_66": {
+            "id": "4ZK-m01XSQ8_66",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What events did the camera capture?",
+            "options": [
+                "A. The camera captured the process of the athlete overcoming obstacles.",
+                "B. The camera captured the scene of the athlete receiving a medal.",
+                "C. The camera captured a long-distance running competition.",
+                "D. The camera captured the scene of the athlete participating in a relay race."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_67": {
+            "id": "4ZK-m01XSQ8_67",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What did the camera capture at the finish line?",
+            "options": [
+                "A. The camera captured the athletes crossing the finish line.",
+                "B. The camera captured the athletes resting after the race.",
+                "C. The camera captured a mascot doll awarding medals.",
+                "D. The camera captured the spectators cheering near the finish line."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_68": {
+            "id": "4ZK-m01XSQ8_68",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "When did the yellow jersey athlete first appear in the competition?",
+            "options": [
+                "A. The yellow jersey athlete was first seen crouching at the starting line.",
+                "B. The yellow jersey athlete first appeared when crossing the finish line.",
+                "C. The yellow jersey athlete first appeared walking beside the track.",
+                "D. The yellow jersey athlete was found warming up on the grass."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_69": {
+            "id": "4ZK-m01XSQ8_69",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What did the athlete wearing a yellow jersey do during the competition?",
+            "options": [
+                "A. Fell behind and tried to reach the leading position.",
+                "B. Led the race and crossed the finish line first.",
+                "C. Jogged and did not actively participate in the competition.",
+                "D. Stood still and observed the competition."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_70": {
+            "id": "4ZK-m01XSQ8_70",
+            "scene": -1,
+            "dimension": "Temporal",
+            "question": "When did the athlete in the yellow jersey exit the frame?",
+            "options": [
+                "A. Disappeared from the frame after crossing the finish line.",
+                "B. Never disappeared from the frame.",
+                "C. Exited the frame midway through the race.",
+                "D. There is no athlete in a yellow jersey."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_71": {
+            "id": "4ZK-m01XSQ8_71",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "What is the environment like at the beginning of the scene?",
+            "options": [
+                "A. The athletes are confined to their respective lanes.",
+                "B. The track is empty, with no athletes.",
+                "C. Only one athlete is visible on the track.",
+                "D. The track is covered by a crowd of spectators."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_72": {
+            "id": "4ZK-m01XSQ8_72",
+            "scene": -1,
+            "dimension": "Time Order",
+            "question": "What does the scene look like at the end of the race?",
+            "options": [
+                "A. The focus shifts to the finish line.",
+                "B. Athletes gather on the track.",
+                "C. The scene of spectators cheering and waving flags.",
+                "D. Staff preparing for the next race."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_73": {
+            "id": "4ZK-m01XSQ8_73",
+            "scene": -1,
+            "dimension": "Causal",
+            "question": "Did the athlete in the yellow top get affected during the competition?",
+            "options": [
+                "A. No noticeable impact.",
+                "B. Distracted by the race markers and timer.",
+                "C. Affected by the weather conditions and had to stop.",
+                "D. Stopped to adjust his running shoes."
+            ],
+            "answer": "A"
+        },
+        "4ZK-m01XSQ8_74": {
+            "id": "4ZK-m01XSQ8_74",
+            "scene": -1,
+            "dimension": "Plot Understanding",
+            "question": "How did the athlete on track 1 perform in the scene?",
+            "options": [
+                "A. Was the last one to cross the finish line.",
+                "B. Finished the race earlier than others.",
+                "C. Fell during the race.",
+                "D. The only person wearing pure white clothing."
+            ],
+            "answer": "A"
+        }
+    }
+}
